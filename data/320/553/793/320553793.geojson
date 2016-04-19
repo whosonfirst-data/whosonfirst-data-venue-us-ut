@@ -1,0 +1,66 @@
+{
+  "id": 320553793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.892854,40.887106,-111.892854,40.887106",
+    "geom:latitude":40.887106,
+    "geom:longitude":-111.892854,
+    "iso:country":"US",
+    "sg:address":"212 S 500 W",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 295 1127",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "sg:tags":[
+        "buffet"
+    ],
+    "sg:website":"www.chuck-a-rama.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727883,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yHZTgFqSnpGCyG31vh94R_40.887106_-111.892854@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b1401869492caa031b5868b98d1e4b99",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727883,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320553793
+        }
+    ],
+    "wof:id":320553793,
+    "wof:lastmodified":1449011284,
+    "wof:name":"Chuck-A-Rama Buffet",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buffet"
+    ]
+},
+  "bbox": [-111.892854,40.887106,-111.892854,40.887106],
+  "geometry": {"coordinates":[-111.892854,40.887106],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 320586153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.977,41.077775,-111.977,41.077775",
+    "geom:latitude":41.077775,
+    "geom:longitude":-111.977,
+    "iso:country":"US",
+    "sg:address":"1024 Layton Hills Mall",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 546 8800",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:website":"http://www.mervyns.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kIgslp4rqcbuivmgIZwpX_41.077775_-111.977000@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"155a2e1a2b0715bc811d7116eaf3a4cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":320586153
+        }
+    ],
+    "wof:id":320586153,
+    "wof:lastmodified":1449014536,
+    "wof:name":"Mervyn's",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-111.977,41.077775,-111.977,41.077775],
+  "geometry": {"coordinates":[-111.977,41.077775],"type":"Point"}
+}

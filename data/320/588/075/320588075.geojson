@@ -1,0 +1,72 @@
+{
+  "id": 320588075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.890638,40.6169,-111.890638,40.6169",
+    "geom:latitude":40.6169,
+    "geom:longitude":-111.890638,
+    "iso:country":"US",
+    "sg:address":"7391 S State St",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 561 2739",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728051,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OsQGCq6d8hQYYcW5iswJz_40.616900_-111.890638@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"89acfce7094f0f7fdd005c9e0839e435",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320588075
+        }
+    ],
+    "wof:id":320588075,
+    "wof:lastmodified":1449014229,
+    "wof:name":"House Of Brews",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "espresso"
+    ]
+},
+  "bbox": [-111.890638,40.6169,-111.890638,40.6169],
+  "geometry": {"coordinates":[-111.890638,40.6169],"type":"Point"}
+}

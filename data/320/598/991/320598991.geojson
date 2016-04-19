@@ -1,0 +1,79 @@
+{
+  "id": 320598991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.974273,41.220714,-111.974273,41.220714",
+    "geom:latitude":41.220714,
+    "geom:longitude":-111.974273,
+    "iso:country":"US",
+    "sg:address":"264 25th St",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 392 4447",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "club",
+        "night"
+    ],
+    "sg:website":"http://www.thecityclubonline.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728033,
+        102083539,
+        85820759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yfpfeLJn2UNUNXKtTiuy3_41.220714_-111.974273@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"77ac164e4efc3fc2f4ae2fdcdda3c1ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85820759,
+            "region_id":85688567,
+            "venue_id":320598991
+        }
+    ],
+    "wof:id":320598991,
+    "wof:lastmodified":1449011444,
+    "wof:name":"The City Club",
+    "wof:parent_id":85820759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "night"
+    ]
+},
+  "bbox": [-111.974273,41.220714,-111.974273,41.220714],
+  "geometry": {"coordinates":[-111.974273,41.220714],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 404220175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.973358,41.085733,-111.973358,41.085733",
+    "geom:latitude":41.085733,
+    "geom:longitude":-111.973358,
+    "iso:country":"US",
+    "sg:address":"1868 N 400 W",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 774 8190",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:brand_id":420574551,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZLW75CbVZOchb4lzVjCMS_41.085733_-111.973358@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3ce9102e589ff9798acf6c11d79e9906",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":404220175
+        }
+    ],
+    "wof:id":404220175,
+    "wof:lastmodified":1457208998,
+    "wof:name":"Family Dentistry",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -111.973358,
+    41.085733,
+    -111.973358,
+    41.085733
+],
+  "geometry": {"coordinates":[-111.973358,41.085733],"type":"Point"}
+}

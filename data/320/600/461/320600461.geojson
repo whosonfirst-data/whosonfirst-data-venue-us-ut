@@ -1,0 +1,75 @@
+{
+  "id": 320600461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.638184,40.24985,-111.638184,40.24985",
+    "geom:latitude":40.24985,
+    "geom:longitude":-111.638184,
+    "iso:country":"US",
+    "sg:address":"1220 Cherry Ln",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 866 871 1040",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "return",
+        "preparation-business"
+    ],
+    "sg:website":"http://www.libertytax.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727863,
+        102083567,
+        85880125
+    ],
+    "wof:brand_id":420575725,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66ClzHlIpXsezihjBiuNHV_40.249850_-111.638184@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"af6c69a156cd8102f6278cc2ab802dee",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880125,
+            "region_id":85688567,
+            "venue_id":320600461
+        }
+    ],
+    "wof:id":320600461,
+    "wof:lastmodified":1457209723,
+    "wof:name":"Liberty Tax Service",
+    "wof:parent_id":85880125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return",
+        "preparation-business"
+    ]
+},
+  "bbox": [
+    -111.638184,
+    40.24985,
+    -111.638184,
+    40.24985
+],
+  "geometry": {"coordinates":[-111.638184,40.24985],"type":"Point"}
+}

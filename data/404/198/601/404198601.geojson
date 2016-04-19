@@ -1,0 +1,68 @@
+{
+  "id": 404198601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.108881,40.329533,-112.108881,40.329533",
+    "geom:latitude":40.329533,
+    "geom:longitude":-112.108881,
+    "iso:country":"US",
+    "sg:address":"180 N 100 St",
+    "sg:city":"Cedar Valley",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 768 2232",
+    "sg:postcode":"84013",
+    "sg:province":"UT",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727871,
+        102083567,
+        85836317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vExjnKwTyZRjsf3FocEvg_40.329533_-112.108881@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8074f5e310f93aaf5987dd5e7a9e33d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727871,
+            "neighbourhood_id":85836317,
+            "region_id":85688567,
+            "venue_id":404198601
+        }
+    ],
+    "wof:id":404198601,
+    "wof:lastmodified":1449039459,
+    "wof:name":"Evans Mortgage Co",
+    "wof:parent_id":85836317,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [-112.108881,40.329533,-112.108881,40.329533],
+  "geometry": {"coordinates":[-112.108881,40.329533],"type":"Point"}
+}

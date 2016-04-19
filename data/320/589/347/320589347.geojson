@@ -1,0 +1,66 @@
+{
+  "id": 320589347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.93384,40.860832,-111.93384,40.860832",
+    "geom:latitude":40.860832,
+    "geom:longitude":-111.93384,
+    "iso:country":"US",
+    "sg:address":"1081 Amberly Dr",
+    "sg:city":"North Salt Lake",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 295 7100",
+    "sg:postcode":"84054",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727887,
+        102083563,
+        85848919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5phVbCk6yG46gWFiNdjKlo_40.860832_-111.933840@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8e600be3f98c9e1214733bdeffc2d8ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727887,
+            "neighbourhood_id":85848919,
+            "region_id":85688567,
+            "venue_id":320589347
+        }
+    ],
+    "wof:id":320589347,
+    "wof:lastmodified":1449013257,
+    "wof:name":"Woodside Homes",
+    "wof:parent_id":85848919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [-111.93384,40.860832,-111.93384,40.860832],
+  "geometry": {"coordinates":[-111.93384,40.860832],"type":"Point"}
+}

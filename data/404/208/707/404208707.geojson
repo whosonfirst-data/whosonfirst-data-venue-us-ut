@@ -1,0 +1,68 @@
+{
+  "id": 404208707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.932261,40.698308,-111.932261,40.698308",
+    "geom:latitude":40.698308,
+    "geom:longitude":-111.932261,
+    "iso:country":"US",
+    "sg:address":"1466 W 3500 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 975 1849",
+    "sg:postcode":"84119",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728063,
+        102082877,
+        85816697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rcbAsJEpTxeCmdZbuKy7t_40.698308_-111.932261@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5789be68eb4d337288770c66eb332582",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85816697,
+            "region_id":85688567,
+            "venue_id":404208707
+        }
+    ],
+    "wof:id":404208707,
+    "wof:lastmodified":1449039160,
+    "wof:name":"Compass Villa Senior Housing",
+    "wof:parent_id":85816697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [-111.932261,40.698308,-111.932261,40.698308],
+  "geometry": {"coordinates":[-111.932261,40.698308],"type":"Point"}
+}

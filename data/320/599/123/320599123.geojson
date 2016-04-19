@@ -1,0 +1,75 @@
+{
+  "id": 320599123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.975618,41.220734,-111.975618,41.220734",
+    "geom:latitude":41.220734,
+    "geom:longitude":-111.975618,
+    "iso:country":"US",
+    "sg:address":"216 25th St",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 621 9991",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "club",
+        "tavern",
+        "night"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728033,
+        102083539,
+        85820759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IIknqeTPGapZef5U1mGJf_41.220734_-111.975618@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f5b084f34916dcec9d5989c0d903e4cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85820759,
+            "region_id":85688567,
+            "venue_id":320599123
+        }
+    ],
+    "wof:id":320599123,
+    "wof:lastmodified":1449012990,
+    "wof:name":"Kokomo Club Inc",
+    "wof:parent_id":85820759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "tavern",
+        "night"
+    ]
+},
+  "bbox": [-111.975618,41.220734,-111.975618,41.220734],
+  "geometry": {"coordinates":[-111.975618,41.220734],"type":"Point"}
+}

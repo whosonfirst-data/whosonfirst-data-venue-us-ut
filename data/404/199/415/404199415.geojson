@@ -1,0 +1,65 @@
+{
+  "id": 404199415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-113.549088,37.668859,-113.549088,37.668859",
+    "geom:latitude":37.668859,
+    "geom:longitude":-113.549088,
+    "iso:country":"US",
+    "sg:address":"96 N Main St",
+    "sg:city":"Cedar City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 867 5756",
+    "sg:postcode":"84721",
+    "sg:province":"UT",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728145,
+        102083551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Xeo52W7VfgxAm2kRXSZ3o_37.668859_-113.549088@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cb976f26b0ec4061bec09fdb0278c458",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083551,
+            "locality_id":101728145,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":404199415
+        }
+    ],
+    "wof:id":404199415,
+    "wof:lastmodified":1449039142,
+    "wof:name":"Just Desserts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [-113.549088,37.668859,-113.549088,37.668859],
+  "geometry": {"coordinates":[-113.549088,37.668859],"type":"Point"}
+}

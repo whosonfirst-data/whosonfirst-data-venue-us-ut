@@ -1,0 +1,68 @@
+{
+  "id": 404192863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.8906,40.510814,-111.8906,40.510814",
+    "geom:latitude":40.510814,
+    "geom:longitude":-111.8906,
+    "iso:country":"US",
+    "sg:address":"13231 Minuteman Dr",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 272 3155",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727849,
+        102082877,
+        85815185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PSv2ptu7Lby2ipZuvlgEc_40.510814_-111.890600@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"56c63fa59dcfee094a19f1665d9aa079",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85815185,
+            "region_id":85688567,
+            "venue_id":404192863
+        }
+    ],
+    "wof:id":404192863,
+    "wof:lastmodified":1449039978,
+    "wof:name":"C R Petersen",
+    "wof:parent_id":85815185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [-111.8906,40.510814,-111.8906,40.510814],
+  "geometry": {"coordinates":[-111.8906,40.510814],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 320593615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.970963,40.522247,-111.970963,40.522247",
+    "geom:latitude":40.522247,
+    "geom:longitude":-111.970963,
+    "iso:country":"US",
+    "sg:address":"3311 W 12600 S",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 302 5935",
+    "sg:postcode":"84065",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automobile",
+        "part",
+        "truck"
+    ],
+    "sg:website":"http://clickserve.dartsearch.net/link/click?lid=43000000313869106&ds_s_kwgid=58000000006820725&ds_e_matchtype={MatchType}&ds_e_kwdid={OrderItemId}&ds_e_adid={AdId}&ds_url_v=2",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728073,
+        102082877,
+        85845107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1X2brgoEMGNNyJK7ZpNfqH_40.522247_-111.970963@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1e049ac42a86bba316530caf6cd30b80",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728073,
+            "neighbourhood_id":85845107,
+            "region_id":85688567,
+            "venue_id":320593615
+        }
+    ],
+    "wof:id":320593615,
+    "wof:lastmodified":1449013748,
+    "wof:name":"Labrum Automotive Center",
+    "wof:parent_id":85845107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "part",
+        "truck"
+    ]
+},
+  "bbox": [-111.970963,40.522247,-111.970963,40.522247],
+  "geometry": {"coordinates":[-111.970963,40.522247],"type":"Point"}
+}

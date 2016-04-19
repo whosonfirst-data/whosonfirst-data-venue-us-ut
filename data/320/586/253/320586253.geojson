@@ -1,0 +1,70 @@
+{
+  "id": 320586253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.938575,41.037119,-111.938575,41.037119",
+    "geom:latitude":41.037119,
+    "geom:longitude":-111.938575,
+    "iso:country":"US",
+    "sg:address":"140 N Main St",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 543 1500",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "bakers-wholesale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727899,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BW9NgXC87WAOjDBMAqT32_41.037119_-111.938575@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eca19424b468c5229ff2fc722e8a0b28",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727899,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320586253
+        }
+    ],
+    "wof:id":320586253,
+    "wof:lastmodified":1449014535,
+    "wof:name":"Sugar Daisy Bakery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bakers-wholesale"
+    ]
+},
+  "bbox": [-111.938575,41.037119,-111.938575,41.037119],
+  "geometry": {"coordinates":[-111.938575,41.037119],"type":"Point"}
+}

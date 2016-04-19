@@ -1,0 +1,68 @@
+{
+  "id": 404214287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.933569,41.049169,-111.933569,41.049169",
+    "geom:latitude":41.049169,
+    "geom:longitude":-111.933569,
+    "iso:country":"US",
+    "sg:address":"874 N 240 E",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 544 0699",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "instruction",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UFunWNtvwrNlk2DRDAqY9_41.049169_-111.933569@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e0dff2211c7fe32e4c71329ccf9cc0c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":404214287
+        }
+    ],
+    "wof:id":404214287,
+    "wof:lastmodified":1449040286,
+    "wof:name":"Kindermusik-Music Education",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "music"
+    ]
+},
+  "bbox": [-111.933569,41.049169,-111.933569,41.049169],
+  "geometry": {"coordinates":[-111.933569,41.049169],"type":"Point"}
+}

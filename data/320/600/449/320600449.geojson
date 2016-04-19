@@ -1,0 +1,66 @@
+{
+  "id": 320600449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.65699,40.297619,-111.65699,40.297619",
+    "geom:latitude":40.297619,
+    "geom:longitude":-111.65699,
+    "iso:country":"US",
+    "sg:address":"4801 N University Ave Ste 110",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 374 6249",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "seafood"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727863,
+        102083567,
+        85880091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vztG0sLBz7OpfI9odKllA_40.297619_-111.656990@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6b2e92fc51559699ce2d0db6a653e003",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880091,
+            "region_id":85688567,
+            "venue_id":320600449
+        }
+    ],
+    "wof:id":320600449,
+    "wof:lastmodified":1449011579,
+    "wof:name":"Magleby's Grill & Oyster Bar",
+    "wof:parent_id":85880091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood"
+    ]
+},
+  "bbox": [-111.65699,40.297619,-111.65699,40.297619],
+  "geometry": {"coordinates":[-111.65699,40.297619],"type":"Point"}
+}

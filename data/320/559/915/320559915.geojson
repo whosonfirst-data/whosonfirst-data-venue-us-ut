@@ -1,0 +1,68 @@
+{
+  "id": 320559915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.878998,40.8843,-111.878998,40.8843",
+    "geom:latitude":40.8843,
+    "geom:longitude":-111.878998,
+    "iso:country":"US",
+    "sg:address":"74 E 500 S",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 951 0283",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727881,
+        102083563,
+        85807249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VAr036qyFsBB4NlqqoMa7_40.884300_-111.878998@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dae48475346b9251df26bb88b93d16eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727881,
+            "neighbourhood_id":85807249,
+            "region_id":85688567,
+            "venue_id":320559915
+        }
+    ],
+    "wof:id":320559915,
+    "wof:lastmodified":1449014151,
+    "wof:name":"Powerdown Mortgage",
+    "wof:parent_id":85807249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [-111.878998,40.8843,-111.878998,40.8843],
+  "geometry": {"coordinates":[-111.878998,40.8843],"type":"Point"}
+}

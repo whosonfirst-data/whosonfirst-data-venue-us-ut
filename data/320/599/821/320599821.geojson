@@ -1,0 +1,78 @@
+{
+  "id": 320599821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.950321,41.310969,-111.950321,41.310969",
+    "geom:latitude":41.310969,
+    "geom:longitude":-111.950321,
+    "iso:country":"US",
+    "sg:address":"955 E 2800 N",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 786 2199",
+    "sg:postcode":"84414",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop",
+        "hobby",
+        "model",
+        "art",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        102083539,
+        85824645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dZYTglbkeYpuAOdscC4qF_41.310969_-111.950321@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8c601d83abe1dd3eb75d563ee2a31344",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":-1,
+            "neighbourhood_id":85824645,
+            "region_id":85688567,
+            "venue_id":320599821
+        }
+    ],
+    "wof:id":320599821,
+    "wof:lastmodified":1449012988,
+    "wof:name":"Creative Connection",
+    "wof:parent_id":85824645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "hobby",
+        "model",
+        "art",
+        "supply"
+    ]
+},
+  "bbox": [-111.950321,41.310969,-111.950321,41.310969],
+  "geometry": {"coordinates":[-111.950321,41.310969],"type":"Point"}
+}

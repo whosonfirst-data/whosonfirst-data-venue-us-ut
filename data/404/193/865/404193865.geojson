@@ -1,0 +1,68 @@
+{
+  "id": 404193865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.894013,40.735472,-111.894013,40.735472",
+    "geom:latitude":40.735472,
+    "geom:longitude":-111.894013,
+    "iso:country":"US",
+    "sg:address":"1574 S West Temple",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 487 4511",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728075,
+        102082877,
+        85825915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56K1V1uL7QTP5JvvwWNvfL_40.735472_-111.894013@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"505239bec5bb4c87f8ed80ebd89bb4ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85825915,
+            "region_id":85688567,
+            "venue_id":404193865
+        }
+    ],
+    "wof:id":404193865,
+    "wof:lastmodified":1449039211,
+    "wof:name":"Dynalectric of Salt Lake City",
+    "wof:parent_id":85825915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [-111.894013,40.735472,-111.894013,40.735472],
+  "geometry": {"coordinates":[-111.894013,40.735472],"type":"Point"}
+}

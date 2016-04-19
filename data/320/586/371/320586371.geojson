@@ -1,0 +1,73 @@
+{
+  "id": 320586371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.001681,41.089726,-112.001681,41.089726",
+    "geom:latitude":41.089726,
+    "geom:longitude":-112.001681,
+    "iso:country":"US",
+    "sg:address":"2080 N Main St",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 825 0696",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "wi-fi",
+        "hotspot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7l6dQjIZForLFC0zIvQkRP_41.089726_-112.001681@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"85a1c8b1fad8f022baade6ace0733550",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":320586371
+        }
+    ],
+    "wof:id":320586371,
+    "wof:lastmodified":1449014535,
+    "wof:name":"Ils Wayport",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wi-fi",
+        "hotspot"
+    ]
+},
+  "bbox": [-112.001681,41.089726,-112.001681,41.089726],
+  "geometry": {"coordinates":[-112.001681,41.089726],"type":"Point"}
+}

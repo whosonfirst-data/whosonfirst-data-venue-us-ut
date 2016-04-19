@@ -1,0 +1,68 @@
+{
+  "id": 404193653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.691739,40.265559,-111.691739,40.265559",
+    "geom:latitude":40.265559,
+    "geom:longitude":-111.691739,
+    "iso:country":"US",
+    "sg:address":"1710 S 145 E",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 229 1727",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727863,
+        102083567,
+        85880081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qPmSti4L00SAVttgUyMCD_40.265559_-111.691739@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c81598c108f01cc00332beb6b160df49",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880081,
+            "region_id":85688567,
+            "venue_id":404193653
+        }
+    ],
+    "wof:id":404193653,
+    "wof:lastmodified":1449039210,
+    "wof:name":"EMB Vision Inc",
+    "wof:parent_id":85880081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [-111.691739,40.265559,-111.691739,40.265559],
+  "geometry": {"coordinates":[-111.691739,40.265559],"type":"Point"}
+}

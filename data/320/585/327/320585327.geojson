@@ -1,0 +1,70 @@
+{
+  "id": 320585327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.883818,40.978803,-111.883818,40.978803",
+    "geom:latitude":40.978803,
+    "geom:longitude":-111.883818,
+    "iso:country":"US",
+    "sg:address":"100 S 200 E",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 402 5955",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85833427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RaSF6zZSpfsFLodvzZ4jX_40.978803_-111.883818@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b963399784b9bfa67c8a4be1f01a8962",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85833427,
+            "region_id":85688567,
+            "venue_id":320585327
+        }
+    ],
+    "wof:id":320585327,
+    "wof:lastmodified":1449013754,
+    "wof:name":"Schools Public",
+    "wof:parent_id":85833427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [-111.883818,40.978803,-111.883818,40.978803],
+  "geometry": {"coordinates":[-111.883818,40.978803],"type":"Point"}
+}

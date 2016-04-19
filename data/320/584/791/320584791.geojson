@@ -1,0 +1,73 @@
+{
+  "id": 320584791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.872598,40.544289,-111.872598,40.544289",
+    "geom:latitude":40.544289,
+    "geom:longitude":-111.872598,
+    "iso:country":"US",
+    "sg:address":"672 E 11400 S",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 275 8777",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727849,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MTom5tvIPWnBG1T4RcRoL_40.544289_-111.872598@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"62013ed829dab779fe498ded7196a226",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320584791
+        }
+    ],
+    "wof:id":320584791,
+    "wof:lastmodified":1449011654,
+    "wof:name":"USPS - United States Post Office - CPU Harmons Draper",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [-111.872598,40.544289,-111.872598,40.544289],
+  "geometry": {"coordinates":[-111.872598,40.544289],"type":"Point"}
+}

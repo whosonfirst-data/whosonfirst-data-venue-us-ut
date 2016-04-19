@@ -1,0 +1,65 @@
+{
+  "id": 404198653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.457141,40.599875,-112.457141,40.599875",
+    "geom:latitude":40.599875,
+    "geom:longitude":-112.457141,
+    "iso:country":"US",
+    "sg:address":"213 E Main St",
+    "sg:city":"Grantsville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 884 5531",
+    "sg:postcode":"84029",
+    "sg:province":"UT",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727965,
+        102086945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Skzyrr6KkQYaCZrC950Lp_40.599875_-112.457141@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"659d9211a5094d91c00d7dd86f91d7fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086945,
+            "locality_id":101727965,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":404198653
+        }
+    ],
+    "wof:id":404198653,
+    "wof:lastmodified":1449039457,
+    "wof:name":"Soelberg's Market",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [-112.457141,40.599875,-112.457141,40.599875],
+  "geometry": {"coordinates":[-112.457141,40.599875],"type":"Point"}
+}

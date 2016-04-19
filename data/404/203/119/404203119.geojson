@@ -1,0 +1,62 @@
+{
+  "id": 404203119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.891146,40.739589,-111.891146,40.739589",
+    "geom:latitude":40.739589,
+    "geom:longitude":-111.891146,
+    "iso:country":"US",
+    "sg:address":"1380 S Main St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 486 7255",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:website":"www.slccu.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728075,
+        102082877,
+        85825915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LjqVUWi0NjBRKuzYh4mdJ_40.739589_-111.891146@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"646d417565a299d6a1484da6ec94045d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85825915,
+            "region_id":85688567,
+            "venue_id":404203119
+        }
+    ],
+    "wof:id":404203119,
+    "wof:lastmodified":1449039550,
+    "wof:name":"Salt Lake City Credit Union",
+    "wof:parent_id":85825915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-111.891146,40.739589,-111.891146,40.739589],
+  "geometry": {"coordinates":[-111.891146,40.739589],"type":"Point"}
+}

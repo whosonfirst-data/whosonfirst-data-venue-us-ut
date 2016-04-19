@@ -1,0 +1,65 @@
+{
+  "id": 404195619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.899751,40.714665,-111.899751,40.714665",
+    "geom:latitude":40.714665,
+    "geom:longitude":-111.899751,
+    "iso:country":"US",
+    "sg:address":"2646 S 300 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 466 8922",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728057,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77MugVy0ufKNmjnycT1SBW_40.714665_-111.899751@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5eb0cd48219b9e70dcd9dd6c9e9a5a98",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":404195619
+        }
+    ],
+    "wof:id":404195619,
+    "wof:lastmodified":1449039925,
+    "wof:name":"Jardine Services",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [-111.899751,40.714665,-111.899751,40.714665],
+  "geometry": {"coordinates":[-111.899751,40.714665],"type":"Point"}
+}

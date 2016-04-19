@@ -1,0 +1,65 @@
+{
+  "id": 404200671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.035236,41.325471,-112.035236,41.325471",
+    "geom:latitude":41.325471,
+    "geom:longitude":-112.035236,
+    "iso:country":"US",
+    "sg:address":"3311 N Higley Rd",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 731 3076",
+    "sg:postcode":"84404",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728043,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GAkgJApBNKhQn6Dwj6sIG_41.325471_-112.035236@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"524693e8f5832b6f72a3d5d53dfa8033",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728043,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":404200671
+        }
+    ],
+    "wof:id":404200671,
+    "wof:lastmodified":1449039511,
+    "wof:name":"CS Precision Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [-112.035236,41.325471,-112.035236,41.325471],
+  "geometry": {"coordinates":[-112.035236,41.325471],"type":"Point"}
+}

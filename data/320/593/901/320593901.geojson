@@ -1,0 +1,76 @@
+{
+  "id": 320593901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.909467,40.58013,-111.909467,40.58013",
+    "geom:latitude":40.58013,
+    "geom:longitude":-111.909467,
+    "iso:country":"US",
+    "sg:address":"9442 S 670 W",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 568 3336",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "equipment",
+        "gymnasium",
+        "fitness"
+    ],
+    "sg:website":"http://www.fitnessequipmentsource.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728077,
+        102082877,
+        85818097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_580HOiszeufSoY5Wv1XpdD_40.580130_-111.909467@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c217fa81b45b17632a4b728b19a812dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85818097,
+            "region_id":85688567,
+            "venue_id":320593901
+        }
+    ],
+    "wof:id":320593901,
+    "wof:lastmodified":1449013749,
+    "wof:name":"A1 Fitness Service And Repair",
+    "wof:parent_id":85818097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "gymnasium",
+        "fitness"
+    ]
+},
+  "bbox": [-111.909467,40.58013,-111.909467,40.58013],
+  "geometry": {"coordinates":[-111.909467,40.58013],"type":"Point"}
+}

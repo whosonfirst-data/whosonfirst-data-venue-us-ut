@@ -1,0 +1,73 @@
+{
+  "id": 320567763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.885449,40.883691,-111.885449,40.883691",
+    "geom:latitude":40.883691,
+    "geom:longitude":-111.885449,
+    "iso:country":"US",
+    "sg:address":"555 S 200 W",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 966 5553",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "sg:website":"www.americafirst.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727881,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DuX6VPHQPdOv9RnbK1RDN_40.883691_-111.885449@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a17ef5ddaf47aba6720f6b5bf47e71bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727881,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320567763
+        }
+    ],
+    "wof:id":320567763,
+    "wof:lastmodified":1449014997,
+    "wof:name":"America First Credit Union",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [-111.885449,40.883691,-111.885449,40.883691],
+  "geometry": {"coordinates":[-111.885449,40.883691],"type":"Point"}
+}

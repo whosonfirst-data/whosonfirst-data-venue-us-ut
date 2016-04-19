@@ -1,0 +1,65 @@
+{
+  "id": 320595671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.915621,40.88372,-111.915621,40.88372",
+    "geom:latitude":40.88372,
+    "geom:longitude":-111.915621,
+    "iso:country":"US",
+    "sg:address":"555 S 1200 W",
+    "sg:city":"Woods Cross",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 397 7833",
+    "sg:postcode":"84087",
+    "sg:province":"UT",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727887,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rAvOw7ZU8lI9AgQbzRyDw_40.883720_-111.915621@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"467a4aff795aa9414085feef55531bba",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727887,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320595671
+        }
+    ],
+    "wof:id":320595671,
+    "wof:lastmodified":1449014601,
+    "wof:name":"Smith's Food & Drug Centers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [-111.915621,40.88372,-111.915621,40.88372],
+  "geometry": {"coordinates":[-111.915621,40.88372],"type":"Point"}
+}

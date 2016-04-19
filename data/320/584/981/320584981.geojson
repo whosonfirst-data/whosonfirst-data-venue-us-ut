@@ -1,0 +1,75 @@
+{
+  "id": 320584981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.888,40.990299,-111.888,40.990299",
+    "geom:latitude":40.990299,
+    "geom:longitude":-111.888,
+    "iso:country":"US",
+    "sg:address":"16 W 600 N",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 9906",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "body",
+        "shop",
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CKIm2gtv8oTAMK2eawQD5_40.990299_-111.888000@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dc468d99d3a9822ec395fcbc636f1936",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":320584981
+        }
+    ],
+    "wof:id":320584981,
+    "wof:lastmodified":1449011656,
+    "wof:name":"Haugen Body Shop",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "towing"
+    ]
+},
+  "bbox": [-111.888,40.990299,-111.888,40.990299],
+  "geometry": {"coordinates":[-111.888,40.990299],"type":"Point"}
+}

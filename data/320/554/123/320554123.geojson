@@ -1,0 +1,77 @@
+{
+  "id": 320554123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.892393,40.89534,-111.892393,40.89534",
+    "geom:latitude":40.89534,
+    "geom:longitude":-111.892393,
+    "iso:country":"US",
+    "sg:address":"595 N 500 W",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 397 0937",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727883,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Qfn6FhQ0scDthw28lNrnC_40.895340_-111.892393@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0f78e89362e6f5e4efdcb61183118e1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727883,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320554123
+        }
+    ],
+    "wof:id":320554123,
+    "wof:lastmodified":1449012028,
+    "wof:name":"Bryden Academy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [-111.892393,40.89534,-111.892393,40.89534],
+  "geometry": {"coordinates":[-111.892393,40.89534],"type":"Point"}
+}

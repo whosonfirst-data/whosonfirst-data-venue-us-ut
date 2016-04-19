@@ -1,0 +1,68 @@
+{
+  "id": 404195289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.902928,40.661191,-111.902928,40.661191",
+    "geom:latitude":40.661191,
+    "geom:longitude":-111.902928,
+    "iso:country":"US",
+    "sg:address":"5047 Galleria Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 255 4345",
+    "sg:postcode":"84123",
+    "sg:province":"UT",
+    "sg:tags":[
+        "construction",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728069,
+        102082877,
+        85811485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77UpCqtPXMnnPQePDRy04q_40.661191_-111.902928@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f48f5c6425ece9a338bd7c588b3cd874",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85811485,
+            "region_id":85688567,
+            "venue_id":404195289
+        }
+    ],
+    "wof:id":404195289,
+    "wof:lastmodified":1449039926,
+    "wof:name":"International Energy Company",
+    "wof:parent_id":85811485,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "construction",
+        "electrical"
+    ]
+},
+  "bbox": [-111.902928,40.661191,-111.902928,40.661191],
+  "geometry": {"coordinates":[-111.902928,40.661191],"type":"Point"}
+}

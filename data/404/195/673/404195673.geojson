@@ -1,0 +1,67 @@
+{
+  "id": 404195673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.01582,41.509992,-112.01582,41.509992",
+    "geom:latitude":41.509992,
+    "geom:longitude":-112.01582,
+    "iso:country":"US",
+    "sg:address":"94 S Main St",
+    "sg:city":"Brigham City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 723 7191",
+    "sg:postcode":"84302",
+    "sg:province":"UT",
+    "sg:tags":[
+        "machine",
+        "sewing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727723,
+        102080861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AJDCwBWR5mdK5llfYMI8R_41.509992_-112.015820@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c731327360f57832621a405980ff51ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080861,
+            "locality_id":101727723,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":404195673
+        }
+    ],
+    "wof:id":404195673,
+    "wof:lastmodified":1449039924,
+    "wof:name":"Brigham Sewing & Vacuum Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "sewing"
+    ]
+},
+  "bbox": [-112.01582,41.509992,-112.01582,41.509992],
+  "geometry": {"coordinates":[-112.01582,41.509992],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 320594509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.877406,40.545522,-111.877406,40.545522",
+    "geom:latitude":40.545522,
+    "geom:longitude":-111.877406,
+    "iso:country":"US",
+    "sg:address":"508 Montana Dr",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Train Station",
+            "subcategory":"Rail",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 553 9626",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "railroad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728077,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OIIQZz9AphYnvpod7uKrf_40.545522_-111.877406@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"db450ae7ac4b807fdc71ab5e1a4489bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320594509
+        }
+    ],
+    "wof:id":320594509,
+    "wof:lastmodified":1449011790,
+    "wof:name":"Armadillo Express",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "railroad"
+    ]
+},
+  "bbox": [-111.877406,40.545522,-111.877406,40.545522],
+  "geometry": {"coordinates":[-111.877406,40.545522],"type":"Point"}
+}

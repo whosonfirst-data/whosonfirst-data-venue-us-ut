@@ -1,0 +1,86 @@
+{
+  "id": 320583849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.891251,40.543164,-111.891251,40.543164",
+    "geom:latitude":40.543164,
+    "geom:longitude":-111.891251,
+    "iso:country":"US",
+    "sg:address":"11483 S State St Ste G",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 495 1324",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop",
+        "restaurant",
+        "espresso",
+        "hotspot",
+        "wi-fi"
+    ],
+    "sg:website":"http://www.starbuckscoffee.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727849,
+        102082877,
+        85850585
+    ],
+    "wof:brand_id":420574001,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mvzdkeCf4DlmfvLPC9TkC_40.543164_-111.891251@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"385a64c357d788a8a532928cb82d0b30",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85850585,
+            "region_id":85688567,
+            "venue_id":320583849
+        }
+    ],
+    "wof:id":320583849,
+    "wof:lastmodified":1457208103,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85850585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "restaurant",
+        "espresso",
+        "hotspot",
+        "wi-fi"
+    ]
+},
+  "bbox": [
+    -111.891251,
+    40.543164,
+    -111.891251,
+    40.543164
+],
+  "geometry": {"coordinates":[-111.891251,40.543164],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 320588277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.890768,40.605264,-111.890768,40.605264",
+    "geom:latitude":40.605264,
+    "geom:longitude":-111.890768,
+    "iso:country":"US",
+    "sg:address":"8038 S State St",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Day Spa",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 938 4166",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "sg:website":"http://www.beautyandthebeast.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728051,
+        102082877,
+        85810115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rTALu6fZKOtfyIAmm09aQ_40.605264_-111.890768@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7164a1c8ac8c2bc77747d000397e6da3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85810115,
+            "region_id":85688567,
+            "venue_id":320588277
+        }
+    ],
+    "wof:id":320588277,
+    "wof:lastmodified":1449014227,
+    "wof:name":"Beauty & The Beast - Day Spa & Salon",
+    "wof:parent_id":85810115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-111.890768,40.605264,-111.890768,40.605264],
+  "geometry": {"coordinates":[-111.890768,40.605264],"type":"Point"}
+}

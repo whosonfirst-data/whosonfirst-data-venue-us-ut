@@ -1,0 +1,88 @@
+{
+  "id": 320587597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.868759,40.418259,-111.868759,40.418259",
+    "geom:latitude":40.418259,
+    "geom:longitude":-111.868759,
+    "iso:country":"US",
+    "sg:address":"2303 N 1200 W",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 768 8401",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "concrete-stamped",
+        "decorative",
+        "wall",
+        "face",
+        "concrete",
+        "shape",
+        "block",
+        "retaining",
+        "brick-clay-common"
+    ],
+    "sg:website":"http://www.lehiblock.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727871,
+        102083567,
+        85836317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29p00Pe5rIYy0QptHuo5Fm_40.418259_-111.868759@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"533a56bf9fc7a29a320a690a992abce0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727871,
+            "neighbourhood_id":85836317,
+            "region_id":85688567,
+            "venue_id":320587597
+        }
+    ],
+    "wof:id":320587597,
+    "wof:lastmodified":1449012557,
+    "wof:name":"Lehi Block Company",
+    "wof:parent_id":85836317,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete-stamped",
+        "decorative",
+        "wall",
+        "face",
+        "concrete",
+        "shape",
+        "block",
+        "retaining",
+        "brick-clay-common"
+    ]
+},
+  "bbox": [-111.868759,40.418259,-111.868759,40.418259],
+  "geometry": {"coordinates":[-111.868759,40.418259],"type":"Point"}
+}

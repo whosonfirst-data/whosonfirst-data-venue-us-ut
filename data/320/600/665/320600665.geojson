@@ -1,0 +1,68 @@
+{
+  "id": 320600665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.658625,40.252274,-111.658625,40.252274",
+    "geom:latitude":40.252274,
+    "geom:longitude":-111.658625,
+    "iso:country":"US",
+    "sg:address":"1355 N University Ave # 130",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 4649",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727863,
+        102083567,
+        85880123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zfAFO7tbJug7HvV8G4SGY_40.252274_-111.658625@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b86a2894e53937a5be55087e9f4bcc62",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880123,
+            "region_id":85688567,
+            "venue_id":320600665
+        }
+    ],
+    "wof:id":320600665,
+    "wof:lastmodified":1449011576,
+    "wof:name":"David H. Broadbent, M.D.",
+    "wof:parent_id":85880123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-111.658625,40.252274,-111.658625,40.252274],
+  "geometry": {"coordinates":[-111.658625,40.252274],"type":"Point"}
+}

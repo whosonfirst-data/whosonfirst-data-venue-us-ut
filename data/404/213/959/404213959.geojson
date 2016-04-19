@@ -1,0 +1,73 @@
+{
+  "id": 404213959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.881887,40.500604,-111.881887,40.500604",
+    "geom:latitude":40.500604,
+    "geom:longitude":-111.881887,
+    "iso:country":"US",
+    "sg:address":"212 E 13800 S",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 571 7248",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "blacksmith",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727849,
+        102082877,
+        85815185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VeH44kwIm96Vwwt5pZ8O0_40.500604_-111.881887@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1e1c184274fab5c7e91427d554f6014d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85815185,
+            "region_id":85688567,
+            "venue_id":404213959
+        }
+    ],
+    "wof:id":404213959,
+    "wof:lastmodified":1449039101,
+    "wof:name":"Lone Peak Forge Farrier Supply",
+    "wof:parent_id":85815185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "blacksmith",
+        "supply"
+    ]
+},
+  "bbox": [-111.881887,40.500604,-111.881887,40.500604],
+  "geometry": {"coordinates":[-111.881887,40.500604],"type":"Point"}
+}

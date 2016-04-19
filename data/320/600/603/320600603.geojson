@@ -1,0 +1,75 @@
+{
+  "id": 320600603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.667574,40.250892,-111.667574,40.250892",
+    "geom:latitude":40.250892,
+    "geom:longitude":-111.667574,
+    "iso:country":"US",
+    "sg:address":"1240 N State St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 374 0633",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house",
+        "steak",
+        "japanese",
+        "pan",
+        "asian"
+    ],
+    "sg:website":"http://www.my-tepanyaki.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727863,
+        102083567,
+        85880063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cfPU9cjvI9eWG33ONIZXv_40.250892_-111.667574@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"87cdfa2b3b7a86b1a615c0d6927109f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880063,
+            "region_id":85688567,
+            "venue_id":320600603
+        }
+    ],
+    "wof:id":320600603,
+    "wof:lastmodified":1449011579,
+    "wof:name":"Tepanyaki Japanese Steakhouse",
+    "wof:parent_id":85880063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "steak",
+        "japanese",
+        "pan",
+        "asian"
+    ]
+},
+  "bbox": [-111.667574,40.250892,-111.667574,40.250892],
+  "geometry": {"coordinates":[-111.667574,40.250892],"type":"Point"}
+}

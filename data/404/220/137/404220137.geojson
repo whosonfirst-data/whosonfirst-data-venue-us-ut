@@ -1,0 +1,68 @@
+{
+  "id": 404220137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.955744,41.230996,-111.955744,41.230996",
+    "geom:latitude":41.230996,
+    "geom:longitude":-111.955744,
+    "iso:country":"US",
+    "sg:address":"980 20th St",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 627 0933",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "federal",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728033,
+        102083539,
+        85813489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vdjQ7oyvD0LQzNMylRV6x_41.230996_-111.955744@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2a2b135502aed10499717e995215402c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85813489,
+            "region_id":85688567,
+            "venue_id":404220137
+        }
+    ],
+    "wof:id":404220137,
+    "wof:lastmodified":1449040281,
+    "wof:name":"US Naval Reserve",
+    "wof:parent_id":85813489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "security"
+    ]
+},
+  "bbox": [-111.955744,41.230996,-111.955744,41.230996],
+  "geometry": {"coordinates":[-111.955744,41.230996],"type":"Point"}
+}

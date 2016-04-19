@@ -1,0 +1,68 @@
+{
+  "id": 404212047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.849328,40.658074,-111.849328,40.658074",
+    "geom:latitude":40.658074,
+    "geom:longitude":-111.849328,
+    "iso:country":"US",
+    "sg:address":"1492 Spring Ln",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 278 4650",
+    "sg:postcode":"84117",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728049,
+        102082877,
+        85829581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GhSOYTmu3WSAjVVFNamWU_40.658074_-111.849328@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"20bfb6c8ebbfe9fb475ebdbe60def51d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728049,
+            "neighbourhood_id":85829581,
+            "region_id":85688567,
+            "venue_id":404212047
+        }
+    ],
+    "wof:id":404212047,
+    "wof:lastmodified":1449039912,
+    "wof:name":"Sandpiper APT Complex",
+    "wof:parent_id":85829581,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [-111.849328,40.658074,-111.849328,40.658074],
+  "geometry": {"coordinates":[-111.849328,40.658074],"type":"Point"}
+}

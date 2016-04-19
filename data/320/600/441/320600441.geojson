@@ -1,0 +1,91 @@
+{
+  "id": 320600441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.657745,40.277735,-111.657745,40.277735",
+    "geom:latitude":40.277735,
+    "geom:longitude":-111.657745,
+    "iso:country":"US",
+    "sg:address":"3325 N University Ave",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 356 1568",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "industrial",
+        "supply",
+        "services-commercial",
+        "termite",
+        "bee",
+        "equipment",
+        "mothproofing",
+        "removal"
+    ],
+    "sg:website":"http://www.orkin.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727863,
+        102083567,
+        85817395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33FY4B2UgmumaE1FswDxVK_40.277735_-111.657745@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6c8b308209e66440025ce5a216b5ab7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85817395,
+            "region_id":85688567,
+            "venue_id":320600441
+        }
+    ],
+    "wof:id":320600441,
+    "wof:lastmodified":1449011576,
+    "wof:name":"Orkin",
+    "wof:parent_id":85817395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "supply",
+        "services-commercial",
+        "termite",
+        "bee",
+        "equipment",
+        "mothproofing",
+        "removal"
+    ]
+},
+  "bbox": [-111.657745,40.277735,-111.657745,40.277735],
+  "geometry": {"coordinates":[-111.657745,40.277735],"type":"Point"}
+}

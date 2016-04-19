@@ -1,0 +1,72 @@
+{
+  "id": 404208089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.759095,40.333439,-111.759095,40.333439",
+    "geom:latitude":40.333439,
+    "geom:longitude":-111.759095,
+    "iso:country":"US",
+    "sg:address":"2000 W 200 S",
+    "sg:city":"Lindon",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 225 8538",
+    "sg:postcode":"84042",
+    "sg:province":"UT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "system",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727839,
+        102083567,
+        85879985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vPbplSLwUX7A9nvUYhV1r_40.333439_-111.759095@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5c61d051439d6e72c25b5685e172a087",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727839,
+            "neighbourhood_id":85879985,
+            "region_id":85688567,
+            "venue_id":404208089
+        }
+    ],
+    "wof:id":404208089,
+    "wof:lastmodified":1449039155,
+    "wof:name":"North Pointe Solid Waste Dist",
+    "wof:parent_id":85879985,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "system",
+        "trucking"
+    ]
+},
+  "bbox": [-111.759095,40.333439,-111.759095,40.333439],
+  "geometry": {"coordinates":[-111.759095,40.333439],"type":"Point"}
+}

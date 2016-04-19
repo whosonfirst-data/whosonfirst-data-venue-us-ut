@@ -1,0 +1,68 @@
+{
+  "id": 320596051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.893821,40.908961,-111.893821,40.908961",
+    "geom:latitude":40.908961,
+    "geom:longitude":-111.893821,
+    "iso:country":"US",
+    "sg:address":"1655 Olsen Way",
+    "sg:city":"West Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 294 4260",
+    "sg:postcode":"84087",
+    "sg:province":"UT",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "sg:website":"www.mountainshadowkennels.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727883,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5c0vpYba06DtdN50W2JIUR_40.908961_-111.893821@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eea9137221c3c2982e5e20425bca221e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727883,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320596051
+        }
+    ],
+    "wof:id":320596051,
+    "wof:lastmodified":1449013169,
+    "wof:name":"Mountain Shadow Kennels",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [-111.893821,40.908961,-111.893821,40.908961],
+  "geometry": {"coordinates":[-111.893821,40.908961],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 320557711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.891805,40.861999,-111.891805,40.861999",
+    "geom:latitude":40.861999,
+    "geom:longitude":-111.891805,
+    "iso:country":"US",
+    "sg:address":"1551 Renaissance Towne Dr Ste 104",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Optician",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 295 6979",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "sg:tags":[
+        "drugstore",
+        "eyewear",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727881,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HMpI3vpiGzyelvAsL0BwG_40.861999_-111.891805@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"89eed7d019c7f3cbc4c8adf472f664e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727881,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320557711
+        }
+    ],
+    "wof:id":320557711,
+    "wof:lastmodified":1449013928,
+    "wof:name":"Mountainwest Apothecary",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore",
+        "eyewear",
+        "market"
+    ]
+},
+  "bbox": [-111.891805,40.861999,-111.891805,40.861999],
+  "geometry": {"coordinates":[-111.891805,40.861999],"type":"Point"}
+}

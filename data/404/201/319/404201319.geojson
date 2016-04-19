@@ -1,0 +1,68 @@
+{
+  "id": 404201319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.019134,40.633158,-112.019134,40.633158",
+    "geom:latitude":40.633158,
+    "geom:longitude":-112.019134,
+    "iso:country":"US",
+    "sg:address":"6499 S Daffodil Way",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 679 0251",
+    "sg:postcode":"84084",
+    "sg:province":"UT",
+    "sg:tags":[
+        "programming",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728061,
+        102082877,
+        85840625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ezZ5I4ZHLA4J4I1JQuhGT_40.633158_-112.019134@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c4a41ae55fc5bced382941cba06b9590",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85840625,
+            "region_id":85688567,
+            "venue_id":404201319
+        }
+    ],
+    "wof:id":404201319,
+    "wof:lastmodified":1449040160,
+    "wof:name":"New Tech Software",
+    "wof:parent_id":85840625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programming",
+        "custom"
+    ]
+},
+  "bbox": [-112.019134,40.633158,-112.019134,40.633158],
+  "geometry": {"coordinates":[-112.019134,40.633158],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 320572811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.867632,40.88623,-111.867632,40.88623",
+    "geom:latitude":40.88623,
+    "geom:longitude":-111.867632,
+    "iso:country":"US",
+    "sg:address":"520 Medical Dr Ste 300",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 292 1315",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "sg:tags":[
+        "cardiologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727881,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Xzs5WR91TCEs69yV9ofeX_40.886230_-111.867632@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"043adb544065d988fc742ae442d9d82e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727881,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320572811
+        }
+    ],
+    "wof:id":320572811,
+    "wof:lastmodified":1449013541,
+    "wof:name":"Utah Cardiology",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cardiologist"
+    ]
+},
+  "bbox": [-111.867632,40.88623,-111.867632,40.88623],
+  "geometry": {"coordinates":[-111.867632,40.88623],"type":"Point"}
+}

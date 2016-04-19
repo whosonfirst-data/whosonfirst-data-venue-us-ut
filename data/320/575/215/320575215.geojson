@@ -1,0 +1,66 @@
+{
+  "id": 320575215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.873245,40.897962,-111.873245,40.897962",
+    "geom:latitude":40.897962,
+    "geom:longitude":-111.873245,
+    "iso:country":"US",
+    "sg:address":"845 N 400 E",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 397 5506",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "sg:tags":[
+        "medical"
+    ],
+    "sg:website":"www.ozonefit.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727881,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5n0qTFQczY13RB5DvVHIoO_40.897962_-111.873245@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b3453a76a68474553d721d2e518f2254",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727881,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320575215
+        }
+    ],
+    "wof:id":320575215,
+    "wof:lastmodified":1449012345,
+    "wof:name":"Ozone Fitness",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [-111.873245,40.897962,-111.873245,40.897962],
+  "geometry": {"coordinates":[-111.873245,40.897962],"type":"Point"}
+}

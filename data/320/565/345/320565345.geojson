@@ -1,0 +1,66 @@
+{
+  "id": 320565345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.889999,40.884399,-111.889999,40.884399",
+    "geom:latitude":40.884399,
+    "geom:longitude":-111.889999,
+    "iso:country":"US",
+    "sg:address":"400 W 500 S",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 292 2111",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "sg:tags":[
+        "tire"
+    ],
+    "sg:website":"www.bigotires.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727881,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hf69V1DgbJpAWYjLCc5fQ_40.884399_-111.889999@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6e36bdd7cb64663ede0960d77be66a0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727881,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320565345
+        }
+    ],
+    "wof:id":320565345,
+    "wof:lastmodified":1449014631,
+    "wof:name":"Big O Tire Stores",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [-111.889999,40.884399,-111.889999,40.884399],
+  "geometry": {"coordinates":[-111.889999,40.884399],"type":"Point"}
+}

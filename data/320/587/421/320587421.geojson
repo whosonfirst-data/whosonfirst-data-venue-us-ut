@@ -1,0 +1,71 @@
+{
+  "id": 320587421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.86655,40.385368,-111.86655,40.385368",
+    "geom:latitude":40.385368,
+    "geom:longitude":-111.86655,
+    "iso:country":"US",
+    "sg:address":"1051 W 190 S",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 768 1054",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727871,
+        102083567,
+        85836317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BIi5NxAmrRlYH45tt2LSU_40.385368_-111.866550@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"48ccc52d0a59a776ee9156ec6fbafe7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727871,
+            "neighbourhood_id":85836317,
+            "region_id":85688567,
+            "venue_id":320587421
+        }
+    ],
+    "wof:id":320587421,
+    "wof:lastmodified":1449012555,
+    "wof:name":"Chic Vintage Cafe",
+    "wof:parent_id":85836317,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "espresso"
+    ]
+},
+  "bbox": [-111.86655,40.385368,-111.86655,40.385368],
+  "geometry": {"coordinates":[-111.86655,40.385368],"type":"Point"}
+}

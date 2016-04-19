@@ -1,0 +1,69 @@
+{
+  "id": 320580343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.886249,40.947467,-111.886249,40.947467",
+    "geom:latitude":40.947467,
+    "geom:longitude":-111.886249,
+    "iso:country":"US",
+    "sg:address":"360 W 2025 N",
+    "sg:city":"Centerville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 402 1750",
+    "sg:postcode":"84014",
+    "sg:province":"UT",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727879,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GvGUI5NEaoXEREFs1lRdA_40.947467_-111.886249@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2e9aab4bd4abf22469a8499717dbde64",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727879,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320580343
+        }
+    ],
+    "wof:id":320580343,
+    "wof:lastmodified":1449013788,
+    "wof:name":"Schools Public",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [-111.886249,40.947467,-111.886249,40.947467],
+  "geometry": {"coordinates":[-111.886249,40.947467],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 320593633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.97977,40.522301,-111.97977,40.522301",
+    "geom:latitude":40.522301,
+    "geom:longitude":-111.97977,
+    "iso:country":"US",
+    "sg:address":"3723 W 12600 S Ste 360",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 285 4700",
+    "sg:postcode":"84065",
+    "sg:province":"UT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728073,
+        102082877,
+        85845107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qYtYBLM44GeqkQhc37I2t_40.522301_-111.979770@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1add604e4d13c19fef5237727759160e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728073,
+            "neighbourhood_id":85845107,
+            "region_id":85688567,
+            "venue_id":320593633
+        }
+    ],
+    "wof:id":320593633,
+    "wof:lastmodified":1449013749,
+    "wof:name":"England Edwin R MD",
+    "wof:parent_id":85845107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-111.97977,40.522301,-111.97977,40.522301],
+  "geometry": {"coordinates":[-111.97977,40.522301],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 320591255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.934059,40.853969,-111.934059,40.853969",
+    "geom:latitude":40.853969,
+    "geom:longitude":-111.934059,
+    "iso:country":"US",
+    "sg:address":"882 Foxboro Dr",
+    "sg:city":"North Salt Lake",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 936 2005",
+    "sg:postcode":"84054",
+    "sg:province":"UT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727887,
+        102083563,
+        85848919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qyTH6N7P0BifqEHPaF7TU_40.853969_-111.934059@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8e3d319708a094b4993defbfc10f63e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727887,
+            "neighbourhood_id":85848919,
+            "region_id":85688567,
+            "venue_id":320591255
+        }
+    ],
+    "wof:id":320591255,
+    "wof:lastmodified":1449013260,
+    "wof:name":"Foxboro Apartments",
+    "wof:parent_id":85848919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [-111.934059,40.853969,-111.934059,40.853969],
+  "geometry": {"coordinates":[-111.934059,40.853969],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 320600731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.654959,40.222053,-111.654959,40.222053",
+    "geom:latitude":40.222053,
+    "geom:longitude":-111.654959,
+    "iso:country":"US",
+    "sg:address":"225 E 900 S",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Warehouse",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 426 4100",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:tags":[
+        "self",
+        "warehouses-merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727863,
+        102083567,
+        85880077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4e08aZXw4tJeNSk8RchpxC_40.222053_-111.654959@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"88b74031901c79d9a0569602fbcbe08b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880077,
+            "region_id":85688567,
+            "venue_id":320600731
+        }
+    ],
+    "wof:id":320600731,
+    "wof:lastmodified":1449011578,
+    "wof:name":"Noni Tahitian Cafe Inc",
+    "wof:parent_id":85880077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "self",
+        "warehouses-merchandise"
+    ]
+},
+  "bbox": [-111.654959,40.222053,-111.654959,40.222053],
+  "geometry": {"coordinates":[-111.654959,40.222053],"type":"Point"}
+}

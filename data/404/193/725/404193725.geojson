@@ -1,0 +1,67 @@
+{
+  "id": 404193725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.036469,41.510601,-112.036469,41.510601",
+    "geom:latitude":41.510601,
+    "geom:longitude":-112.036469,
+    "iso:country":"US",
+    "sg:address":"1085 W Forest St",
+    "sg:city":"Brigham City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 734 9906",
+    "sg:postcode":"84302",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727723,
+        102080861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4K2O6jdPz78Q3Bl4XTwwUo_41.510601_-112.036469@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f34442c9a615163a72a76143441a9a25",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080861,
+            "locality_id":101727723,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":404193725
+        }
+    ],
+    "wof:id":404193725,
+    "wof:lastmodified":1449039210,
+    "wof:name":"Performance Automotive",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-112.036469,41.510601,-112.036469,41.510601],
+  "geometry": {"coordinates":[-112.036469,41.510601],"type":"Point"}
+}

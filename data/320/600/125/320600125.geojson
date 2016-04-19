@@ -1,0 +1,65 @@
+{
+  "id": 320600125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.007567,41.191284,-112.007567,41.191284",
+    "geom:latitude":41.191284,
+    "geom:longitude":-112.007567,
+    "iso:country":"US",
+    "sg:address":"3909 Airport Rd",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bowling",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 399 4532",
+    "sg:postcode":"84405",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728033,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qfBzNhQbZ9sdFgy3mnrlk_41.191284_-112.007567@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d3603c869106114cbd14e837cef34a21",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320600125
+        }
+    ],
+    "wof:id":320600125,
+    "wof:lastmodified":1449011581,
+    "wof:name":"Hilltop Lanes",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-112.007567,41.191284,-112.007567,41.191284],
+  "geometry": {"coordinates":[-112.007567,41.191284],"type":"Point"}
+}

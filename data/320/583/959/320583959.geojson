@@ -1,0 +1,71 @@
+{
+  "id": 320583959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.891353,40.541082,-111.891353,40.541082",
+    "geom:latitude":40.541082,
+    "geom:longitude":-111.891353,
+    "iso:country":"US",
+    "sg:address":"11613 S State St",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Day Spa",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 571 7086",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727849,
+        102082877,
+        85850585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Gbk5LZJml1Ext4KCAAMuy_40.541082_-111.891353@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b5ef8a5d9844a1f81873ccfbb454c5a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85850585,
+            "region_id":85688567,
+            "venue_id":320583959
+        }
+    ],
+    "wof:id":320583959,
+    "wof:lastmodified":1449014181,
+    "wof:name":"Julian Todd Salon Inc",
+    "wof:parent_id":85850585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-111.891353,40.541082,-111.891353,40.541082],
+  "geometry": {"coordinates":[-111.891353,40.541082],"type":"Point"}
+}

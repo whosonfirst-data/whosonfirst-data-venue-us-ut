@@ -1,0 +1,70 @@
+{
+  "id": 404197169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.821108,40.703851,-111.821108,40.703851",
+    "geom:latitude":40.703851,
+    "geom:longitude":-111.821108,
+    "iso:country":"US",
+    "sg:address":"3115 S 2440 East St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 268 6969",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "acoustics",
+        "drywall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728257,
+        102082877,
+        85859423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1L8UpSBzuFdcSGB4d3cMsh_40.703851_-111.821108@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"881ddba1bb362420f3e5ec9ace13accd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85859423,
+            "region_id":85688567,
+            "venue_id":404197169
+        }
+    ],
+    "wof:id":404197169,
+    "wof:lastmodified":1449040171,
+    "wof:name":"Salt Lake Acoustical Inc",
+    "wof:parent_id":85859423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acoustics",
+        "drywall",
+        "contractor"
+    ]
+},
+  "bbox": [-111.821108,40.703851,-111.821108,40.703851],
+  "geometry": {"coordinates":[-111.821108,40.703851],"type":"Point"}
+}

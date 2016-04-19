@@ -1,0 +1,84 @@
+{
+  "id": 320593047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.732514,40.282918,-111.732514,40.282918",
+    "geom:latitude":40.282918,
+    "geom:longitude":-111.732514,
+    "iso:country":"US",
+    "sg:address":"770 S Geneva Rd",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 874 1146",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "plant",
+        "contractor",
+        "tree",
+        "landscape",
+        "nurseries-plants"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727865,
+        102083567,
+        85821287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54ErfTwoF2mHa1s5Oaf0ch_40.282918_-111.732514@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"52cbe468c80f9ba2a3f70f15cafe6757",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85821287,
+            "region_id":85688567,
+            "venue_id":320593047
+        }
+    ],
+    "wof:id":320593047,
+    "wof:lastmodified":1449013748,
+    "wof:name":"Spring Valley Nursery",
+    "wof:parent_id":85821287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "contractor",
+        "tree",
+        "landscape",
+        "nurseries-plants"
+    ]
+},
+  "bbox": [-111.732514,40.282918,-111.732514,40.282918],
+  "geometry": {"coordinates":[-111.732514,40.282918],"type":"Point"}
+}

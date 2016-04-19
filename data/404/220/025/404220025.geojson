@@ -1,0 +1,75 @@
+{
+  "id": 404220025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.880122,40.699946,-111.880122,40.699946",
+    "geom:latitude":40.699946,
+    "geom:longitude":-111.880122,
+    "iso:country":"US",
+    "sg:address":"315 E 3300 S",
+    "sg:city":"South Salt Lake",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 467 8650",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728057,
+        102082877,
+        85854999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67NqdXuDwjH8d4LYmlnixt_40.699946_-111.880122@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dceff0f147318966525ef4a8a8cb2528",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85854999,
+            "region_id":85688567,
+            "venue_id":404220025
+        }
+    ],
+    "wof:id":404220025,
+    "wof:lastmodified":1449040282,
+    "wof:name":"Avid-O-Brian",
+    "wof:parent_id":85854999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "contractor"
+    ]
+},
+  "bbox": [-111.880122,40.699946,-111.880122,40.699946],
+  "geometry": {"coordinates":[-111.880122,40.699946],"type":"Point"}
+}

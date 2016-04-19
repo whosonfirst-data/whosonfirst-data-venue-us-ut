@@ -1,0 +1,68 @@
+{
+  "id": 404217961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.689766,40.319571,-111.689766,40.319571",
+    "geom:latitude":40.319571,
+    "geom:longitude":-111.689766,
+    "iso:country":"US",
+    "sg:address":"1236 N 250 E",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 226 6991",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55VXrs9kapE3hvmWkoDPiS_40.319571_-111.689766@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f3a2b4ab91f38d3578cd0dfb481b98b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":404217961
+        }
+    ],
+    "wof:id":404217961,
+    "wof:lastmodified":1449040271,
+    "wof:name":"Meridian Electric",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [-111.689766,40.319571,-111.689766,40.319571],
+  "geometry": {"coordinates":[-111.689766,40.319571],"type":"Point"}
+}

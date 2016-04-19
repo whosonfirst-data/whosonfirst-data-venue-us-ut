@@ -1,0 +1,67 @@
+{
+  "id": 320593889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.890804,40.555752,-111.890804,40.555752",
+    "geom:latitude":40.555752,
+    "geom:longitude":-111.890804,
+    "iso:country":"US",
+    "sg:address":"10745 S State St",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 553 8080",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mexican"
+    ],
+    "sg:website":"http://www.dosserranosrestaurants.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727849,
+        102082877,
+        85850585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0D7iaTEyrcmX0Q93KeW8Ki_40.555752_-111.890804@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"260d697f5b19dddc80b79e978845878c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85850585,
+            "region_id":85688567,
+            "venue_id":320593889
+        }
+    ],
+    "wof:id":320593889,
+    "wof:lastmodified":1449013744,
+    "wof:name":"Dos Serranos #3 Sandy",
+    "wof:parent_id":85850585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [-111.890804,40.555752,-111.890804,40.555752],
+  "geometry": {"coordinates":[-111.890804,40.555752],"type":"Point"}
+}

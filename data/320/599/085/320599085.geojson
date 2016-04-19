@@ -1,0 +1,68 @@
+{
+  "id": 320599085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.967624,41.22255,-111.967624,41.22255",
+    "geom:latitude":41.22255,
+    "geom:longitude":-111.967624,
+    "iso:country":"US",
+    "sg:address":"2408 Adams Ave",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 621 9138",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "club",
+        "night"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728033,
+        102083539,
+        85823385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lpX8D64XHXVe6RIrFhiPn_41.222550_-111.967624@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"67537c863bb9950d87de1d3cd3eae3a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85823385,
+            "region_id":85688567,
+            "venue_id":320599085
+        }
+    ],
+    "wof:id":320599085,
+    "wof:lastmodified":1449012989,
+    "wof:name":"Kamikazes",
+    "wof:parent_id":85823385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "night"
+    ]
+},
+  "bbox": [-111.967624,41.22255,-111.967624,41.22255],
+  "geometry": {"coordinates":[-111.967624,41.22255],"type":"Point"}
+}

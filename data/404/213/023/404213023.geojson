@@ -1,0 +1,85 @@
+{
+  "id": 404213023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.820988,40.548763,-111.820988,40.548763",
+    "geom:latitude":40.548763,
+    "geom:longitude":-111.820988,
+    "iso:country":"US",
+    "sg:address":"8 Mountain Wood Ln",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 597 4607",
+    "sg:postcode":"84092",
+    "sg:province":"UT",
+    "sg:tags":[
+        "manufacture",
+        "oil",
+        "additive",
+        "distribute",
+        "aftermarket",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        102082877,
+        85812845,
+        85825243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XuB1idkxTwrHKIHZd833m_40.548763_-111.820988@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aca8192ec8826965ac574dbf45b0166c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":-1,
+            "neighbourhood_id":85812845,
+            "region_id":85688567,
+            "venue_id":404213023
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":-1,
+            "neighbourhood_id":85825243,
+            "region_id":85688567,
+            "venue_id":404213023
+        }
+    ],
+    "wof:id":404213023,
+    "wof:lastmodified":1449039101,
+    "wof:name":"Alaco Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacture",
+        "oil",
+        "additive",
+        "distribute",
+        "aftermarket",
+        "market"
+    ]
+},
+  "bbox": [-111.820988,40.548763,-111.820988,40.548763],
+  "geometry": {"coordinates":[-111.820988,40.548763],"type":"Point"}
+}

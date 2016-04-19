@@ -1,0 +1,71 @@
+{
+  "id": 404209833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.940366,40.718636,-111.940366,40.718636",
+    "geom:latitude":40.718636,
+    "geom:longitude":-111.940366,
+    "iso:country":"US",
+    "sg:address":"1751 Alexander St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 975 7913",
+    "sg:postcode":"84119",
+    "sg:province":"UT",
+    "sg:tags":[
+        "detection",
+        "equipment",
+        "drug",
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728063,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50BMsABsnbkGgWjRIBGWxi_40.718636_-111.940366@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0b6ca6e37a14ac9306aea614118d5672",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":404209833
+        }
+    ],
+    "wof:id":404209833,
+    "wof:lastmodified":1449040195,
+    "wof:name":"Work Care Drug Testing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "detection",
+        "equipment",
+        "drug",
+        "laboratory"
+    ]
+},
+  "bbox": [-111.940366,40.718636,-111.940366,40.718636],
+  "geometry": {"coordinates":[-111.940366,40.718636],"type":"Point"}
+}

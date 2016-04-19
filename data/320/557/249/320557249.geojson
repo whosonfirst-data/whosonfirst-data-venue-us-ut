@@ -1,0 +1,74 @@
+{
+  "id": 320557249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.891998,40.887299,-111.891998,40.887299",
+    "geom:latitude":40.887299,
+    "geom:longitude":-111.891998,
+    "iso:country":"US",
+    "sg:address":"215 S 500 W",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 292 7219",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "sg:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727881,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79TsqCKi0tEOmKTNtYe2px_40.887299_-111.891998@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"08de733b8c3086a01167fc98acfe303e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727881,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320557249
+        }
+    ],
+    "wof:id":320557249,
+    "wof:lastmodified":1449013925,
+    "wof:name":"Animal Medical Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [-111.891998,40.887299,-111.891998,40.887299],
+  "geometry": {"coordinates":[-111.891998,40.887299],"type":"Point"}
+}

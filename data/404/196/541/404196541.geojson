@@ -1,0 +1,70 @@
+{
+  "id": 404196541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.641118,40.241404,-111.641118,40.241404",
+    "geom:latitude":40.241404,
+    "geom:longitude":-111.641118,
+    "iso:country":"US",
+    "sg:address":"1068 E 560 N",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 8563",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727863,
+        102083567,
+        85880085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CYYP8HOKUaHDxTtLzsQFy_40.241404_-111.641118@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"202d599ae47510000270b9d768351fe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880085,
+            "region_id":85688567,
+            "venue_id":404196541
+        }
+    ],
+    "wof:id":404196541,
+    "wof:lastmodified":1449039320,
+    "wof:name":"Silvertip Express",
+    "wof:parent_id":85880085,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-111.641118,40.241404,-111.641118,40.241404],
+  "geometry": {"coordinates":[-111.641118,40.241404],"type":"Point"}
+}

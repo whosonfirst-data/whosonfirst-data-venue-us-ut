@@ -1,0 +1,83 @@
+{
+  "id": 320552079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.787069,40.429066,-111.787069,40.429066",
+    "geom:latitude":40.429066,
+    "geom:longitude":-111.787069,
+    "iso:country":"US",
+    "sg:address":"5353 W Parkway East St",
+    "sg:city":"Highland",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Painting Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 763 2221",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "paint",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727839,
+        102083567,
+        85879979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cVYwYbtbL8QxAl3HCj1AP_40.429066_-111.787069@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8ab489860ba3c6d4287cc9430b1cc36b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727839,
+            "neighbourhood_id":85879979,
+            "region_id":85688567,
+            "venue_id":320552079
+        }
+    ],
+    "wof:id":320552079,
+    "wof:lastmodified":1449012827,
+    "wof:name":"Ace Hardware Lone Peak",
+    "wof:parent_id":85879979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "store"
+    ]
+},
+  "bbox": [-111.787069,40.429066,-111.787069,40.429066],
+  "geometry": {"coordinates":[-111.787069,40.429066],"type":"Point"}
+}

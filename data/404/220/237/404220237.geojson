@@ -1,0 +1,70 @@
+{
+  "id": 404220237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.988516,41.066608,-111.988516,41.066608",
+    "geom:latitude":41.066608,
+    "geom:longitude":-111.988516,
+    "iso:country":"US",
+    "sg:address":"1232 W 450 N",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 593 6647",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "steel",
+        "fabrication",
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0J3BHD9dryORwvO2bTkBPN_41.066608_-111.988516@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a7fc6e9b54356bc035ffcfd3499cbc0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":404220237
+        }
+    ],
+    "wof:id":404220237,
+    "wof:lastmodified":1449040281,
+    "wof:name":"Liberty Steel",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "fabrication",
+        "welding"
+    ]
+},
+  "bbox": [-111.988516,41.066608,-111.988516,41.066608],
+  "geometry": {"coordinates":[-111.988516,41.066608],"type":"Point"}
+}

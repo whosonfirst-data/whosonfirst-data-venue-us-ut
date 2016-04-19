@@ -1,0 +1,71 @@
+{
+  "id": 320563243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.870923,40.887311,-111.870923,40.887311",
+    "geom:latitude":40.887311,
+    "geom:longitude":-111.870923,
+    "iso:country":"US",
+    "sg:address":"425 Medical Dr",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 249 6716",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "sg:tags":[
+        "medical"
+    ],
+    "sg:website":"http://www.privatetestingcenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727881,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VFshZCrcA8mnPagxyVgu9_40.887311_-111.870923@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"470661d24c0f2fd3698c8a843c3b800e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727881,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320563243
+        }
+    ],
+    "wof:id":320563243,
+    "wof:lastmodified":1449011312,
+    "wof:name":"STD Testing Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [-111.870923,40.887311,-111.870923,40.887311],
+  "geometry": {"coordinates":[-111.870923,40.887311],"type":"Point"}
+}

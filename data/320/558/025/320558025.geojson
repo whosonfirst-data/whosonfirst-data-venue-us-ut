@@ -1,0 +1,66 @@
+{
+  "id": 320558025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.896004,40.860298,-111.896004,40.860298",
+    "geom:latitude":40.860298,
+    "geom:longitude":-111.896004,
+    "iso:country":"US",
+    "sg:address":"2727 S 625 W",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 292 9791",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727881,
+        102083563,
+        85835391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6khZRD3gUSyYRsaQzM4zQD_40.860298_-111.896004@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"23a018d1d05b882450f1e20ab12f1ceb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727881,
+            "neighbourhood_id":85835391,
+            "region_id":85688567,
+            "venue_id":320558025
+        }
+    ],
+    "wof:id":320558025,
+    "wof:lastmodified":1449012274,
+    "wof:name":"Orchard Lane Apartments",
+    "wof:parent_id":85835391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [-111.896004,40.860298,-111.896004,40.860298],
+  "geometry": {"coordinates":[-111.896004,40.860298],"type":"Point"}
+}

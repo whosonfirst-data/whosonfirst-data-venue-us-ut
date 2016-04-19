@@ -1,0 +1,72 @@
+{
+  "id": 320598125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.986198,40.525746,-111.986198,40.525746",
+    "geom:latitude":40.525746,
+    "geom:longitude":-111.986198,
+    "iso:country":"US",
+    "sg:address":"12391 S 4000 W",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 302 1700",
+    "sg:postcode":"84096",
+    "sg:province":"UT",
+    "sg:tags":[
+        "psychiatry",
+        "physician",
+        "surgeon",
+        "surgeons"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728073,
+        102082877,
+        85845107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dQ2U5BJHJcX5Hd2DW59WG_40.525746_-111.986198@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7041acc5d0496f57facbefe87eb74376",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728073,
+            "neighbourhood_id":85845107,
+            "region_id":85688567,
+            "venue_id":320598125
+        }
+    ],
+    "wof:id":320598125,
+    "wof:lastmodified":1449011449,
+    "wof:name":"Bingman Jana MD Psychiatry",
+    "wof:parent_id":85845107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychiatry",
+        "physician",
+        "surgeon",
+        "surgeons"
+    ]
+},
+  "bbox": [-111.986198,40.525746,-111.986198,40.525746],
+  "geometry": {"coordinates":[-111.986198,40.525746],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 320578459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.878998,40.9137,-111.878998,40.9137",
+    "geom:latitude":40.9137,
+    "geom:longitude":-111.878998,
+    "iso:country":"US",
+    "sg:address":"346 S Main St",
+    "sg:city":"Centerville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 294 4784",
+    "sg:postcode":"84014",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727879,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KtOVbCU515ugdFgVqOoSO_40.913700_-111.878998@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9983cc78db0106c291c9e85a22b28354",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727879,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320578459
+        }
+    ],
+    "wof:id":320578459,
+    "wof:lastmodified":1449012203,
+    "wof:name":"Main Street Garage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-111.878998,40.9137,-111.878998,40.9137],
+  "geometry": {"coordinates":[-111.878998,40.9137],"type":"Point"}
+}

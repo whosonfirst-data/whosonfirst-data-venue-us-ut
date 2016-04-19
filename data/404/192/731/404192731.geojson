@@ -1,0 +1,66 @@
+{
+  "id": 404192731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.929185,40.562143,-111.929185,40.562143",
+    "geom:latitude":40.562143,
+    "geom:longitude":-111.929185,
+    "iso:country":"US",
+    "sg:address":"10500 S 1300 W",
+    "sg:city":"South Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 253 1111",
+    "sg:postcode":"84095",
+    "sg:province":"UT",
+    "sg:tags":[
+        "landfill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728055,
+        102082877,
+        85810561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0biTwbD85sUgCmmMOm798U_40.562143_-111.929185@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"859c88a678aaab2b54e8e0bdaf34add5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728055,
+            "neighbourhood_id":85810561,
+            "region_id":85688567,
+            "venue_id":404192731
+        }
+    ],
+    "wof:id":404192731,
+    "wof:lastmodified":1449039979,
+    "wof:name":"ECDC Environmental",
+    "wof:parent_id":85810561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landfill"
+    ]
+},
+  "bbox": [-111.929185,40.562143,-111.929185,40.562143],
+  "geometry": {"coordinates":[-111.929185,40.562143],"type":"Point"}
+}

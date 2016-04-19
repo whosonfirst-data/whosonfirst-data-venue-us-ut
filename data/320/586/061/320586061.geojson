@@ -1,0 +1,71 @@
+{
+  "id": 320586061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.973449,41.093583,-111.973449,41.093583",
+    "geom:latitude":41.093583,
+    "geom:longitude":-111.973449,
+    "iso:country":"US",
+    "sg:address":"2307 N Hill Field Rd Suite 101",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 773 5285",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dentists-cosmetic",
+        "dentists-pediatric",
+        "dentistry"
+    ],
+    "sg:website":"http://drbrough.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KabFwj0vepFVRM3DhDWME_41.093583_-111.973449@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e06b9e7b161c50377aa61e90609510c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":320586061
+        }
+    ],
+    "wof:id":320586061,
+    "wof:lastmodified":1449014534,
+    "wof:name":"Dr. Brough Family & Cosmetic Dentistry",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentists-cosmetic",
+        "dentists-pediatric",
+        "dentistry"
+    ]
+},
+  "bbox": [-111.973449,41.093583,-111.973449,41.093583],
+  "geometry": {"coordinates":[-111.973449,41.093583],"type":"Point"}
+}

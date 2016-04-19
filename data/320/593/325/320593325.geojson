@@ -1,0 +1,74 @@
+{
+  "id": 320593325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.689825,40.279677,-111.689825,40.279677",
+    "geom:latitude":40.279677,
+    "geom:longitude":-111.689825,
+    "iso:country":"US",
+    "sg:address":"949 S Orem Blvd",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 225 5505",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "consultant",
+        "educational"
+    ],
+    "sg:website":"http://www.superherotrainingcenter.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727865,
+        102083567,
+        85830581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Oeu11lSe8KoEGsFzzIyri_40.279677_-111.689825@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c0e684ce2bfe2f1b40a387f990d1e460",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85830581,
+            "region_id":85688567,
+            "venue_id":320593325
+        }
+    ],
+    "wof:id":320593325,
+    "wof:lastmodified":1449013747,
+    "wof:name":"The Super Hero Training Center",
+    "wof:parent_id":85830581,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "educational"
+    ]
+},
+  "bbox": [-111.689825,40.279677,-111.689825,40.279677],
+  "geometry": {"coordinates":[-111.689825,40.279677],"type":"Point"}
+}

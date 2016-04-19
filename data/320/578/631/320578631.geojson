@@ -1,0 +1,72 @@
+{
+  "id": 320578631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.888,40.921299,-111.888,40.921299",
+    "geom:latitude":40.921299,
+    "geom:longitude":-111.888,
+    "iso:country":"US",
+    "sg:address":"312 N Market Place Dr",
+    "sg:city":"Centerville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 397 0506",
+    "sg:postcode":"84014",
+    "sg:province":"UT",
+    "sg:tags":[
+        "store"
+    ],
+    "sg:website":"www.payless.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        102083563,
+        85850499
+    ],
+    "wof:brand_id":420574205,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1x86pSjTQOrQrKWjyy0JMt_40.921299_-111.888000@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c78b7f2cc8afc122dff680342825c95f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":-1,
+            "neighbourhood_id":85850499,
+            "region_id":85688567,
+            "venue_id":320578631
+        }
+    ],
+    "wof:id":320578631,
+    "wof:lastmodified":1457208638,
+    "wof:name":"Payless Shoesource",
+    "wof:parent_id":85850499,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -111.888,
+    40.921299,
+    -111.888,
+    40.921299
+],
+  "geometry": {"coordinates":[-111.88800000000001,40.921299],"type":"Point"}
+}

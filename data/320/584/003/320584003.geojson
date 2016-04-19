@@ -1,0 +1,68 @@
+{
+  "id": 320584003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.846571,40.514882,-111.846571,40.514882",
+    "geom:latitude":40.514882,
+    "geom:longitude":-111.846571,
+    "iso:country":"US",
+    "sg:address":"1548 Cherry Creek Ln",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Driving School",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 576 0715",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "instruction",
+        "motorcycle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727849,
+        102082877,
+        85849301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6s4vlCU4YPQxpusDviSgl1_40.514882_-111.846571@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"658205b3a08012e94fbaa823c510b246",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85849301,
+            "region_id":85688567,
+            "venue_id":320584003
+        }
+    ],
+    "wof:id":320584003,
+    "wof:lastmodified":1449011656,
+    "wof:name":"Unlimited Power Sports",
+    "wof:parent_id":85849301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "motorcycle"
+    ]
+},
+  "bbox": [-111.846571,40.514882,-111.846571,40.514882],
+  "geometry": {"coordinates":[-111.846571,40.514882],"type":"Point"}
+}

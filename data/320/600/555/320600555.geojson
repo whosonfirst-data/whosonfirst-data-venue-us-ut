@@ -1,0 +1,66 @@
+{
+  "id": 320600555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.656066,40.267013,-111.656066,40.267013",
+    "geom:latitude":40.267013,
+    "geom:longitude":-111.656066,
+    "iso:country":"US",
+    "sg:address":"2545 N Canyon Rd Ste 201",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 356 2000",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mothproofing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727863,
+        102083567,
+        85880109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wnrNY83if0J1hA0oCLPJH_40.267013_-111.656066@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"17ed6623d714d52977e9e7663de99a85",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880109,
+            "region_id":85688567,
+            "venue_id":320600555
+        }
+    ],
+    "wof:id":320600555,
+    "wof:lastmodified":1449011577,
+    "wof:name":"Clark Pest Control Of Stockton, Inc.",
+    "wof:parent_id":85880109,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mothproofing"
+    ]
+},
+  "bbox": [-111.656066,40.267013,-111.656066,40.267013],
+  "geometry": {"coordinates":[-111.656066,40.267013],"type":"Point"}
+}

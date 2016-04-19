@@ -1,0 +1,67 @@
+{
+  "id": 404213123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.901574,40.752019,-111.901574,40.752019",
+    "geom:latitude":40.752019,
+    "geom:longitude":-111.901574,
+    "iso:country":"US",
+    "sg:address":"380 W 800 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 575 8877",
+    "sg:postcode":"84101",
+    "sg:province":"UT",
+    "sg:tags":[
+        "engineer"
+    ],
+    "sg:website":"www.dunn-se.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728075,
+        102082877,
+        85821289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jdz52W3X0jPgHRMTYYAUb_40.752019_-111.901574@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cfbda7fceff1e552c6dd390e358f5875",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85821289,
+            "region_id":85688567,
+            "venue_id":404213123
+        }
+    ],
+    "wof:id":404213123,
+    "wof:lastmodified":1449039101,
+    "wof:name":"Dunn Assoc Inc",
+    "wof:parent_id":85821289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [-111.901574,40.752019,-111.901574,40.752019],
+  "geometry": {"coordinates":[-111.901574,40.752019],"type":"Point"}
+}

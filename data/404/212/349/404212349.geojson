@@ -1,0 +1,67 @@
+{
+  "id": 404212349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.025945,41.116273,-112.025945,41.116273",
+    "geom:latitude":41.116273,
+    "geom:longitude":-112.025945,
+    "iso:country":"US",
+    "sg:address":"170 N Main St",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 773 5561",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        102083563,
+        85851583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YnYuC1di1K8oqUvj5OFo0_41.116273_-112.025945@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"30f1755dfa70e45835ea7f09f138e2b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":-1,
+            "neighbourhood_id":85851583,
+            "region_id":85688567,
+            "venue_id":404212349
+        }
+    ],
+    "wof:id":404212349,
+    "wof:lastmodified":1449039910,
+    "wof:name":"Tam's Dry Wall",
+    "wof:parent_id":85851583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [-112.025945,41.116273,-112.025945,41.116273],
+  "geometry": {"coordinates":[-112.025945,41.116273],"type":"Point"}
+}

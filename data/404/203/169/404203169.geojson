@@ -1,0 +1,69 @@
+{
+  "id": 404203169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.895488,40.699724,-111.895488,40.699724",
+    "geom:latitude":40.699724,
+    "geom:longitude":-111.895488,
+    "iso:country":"US",
+    "sg:address":"157 W 3300 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 486 2353",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728057,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6USvGOVKXoQYOWYKyEEwe0_40.699724_-111.895488@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4071c9635377cb6f17a116ad6e09bfa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":404203169
+        }
+    ],
+    "wof:id":404203169,
+    "wof:lastmodified":1449039550,
+    "wof:name":"K V Body Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [-111.895488,40.699724,-111.895488,40.699724],
+  "geometry": {"coordinates":[-111.895488,40.699724],"type":"Point"}
+}

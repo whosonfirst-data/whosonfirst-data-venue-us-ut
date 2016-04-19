@@ -1,0 +1,73 @@
+{
+  "id": 320587723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.889719,40.620831,-111.889719,40.620831",
+    "geom:latitude":40.620831,
+    "geom:longitude":-111.889719,
+    "iso:country":"US",
+    "sg:address":"25 Fort Union Blvd",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Warehouse",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 566 1133",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "sg:tags":[
+        "self",
+        "warehouses-merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728051,
+        102082877,
+        85851957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dk2dIdAbXfZ26yAFFlCC5_40.620831_-111.889719@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d371a51ccc43b7e15d300625e4feb247",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85851957,
+            "region_id":85688567,
+            "venue_id":320587723
+        }
+    ],
+    "wof:id":320587723,
+    "wof:lastmodified":1449012556,
+    "wof:name":"Audio Warehouse Inc",
+    "wof:parent_id":85851957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "self",
+        "warehouses-merchandise"
+    ]
+},
+  "bbox": [-111.889719,40.620831,-111.889719,40.620831],
+  "geometry": {"coordinates":[-111.889719,40.620831],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 320591761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.926003,40.841999,-111.926003,40.841999",
+    "geom:latitude":40.841999,
+    "geom:longitude":-111.926003,
+    "iso:country":"US",
+    "sg:address":"620 W Center St Ste 6",
+    "sg:city":"North Salt Lake",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 936 3533",
+    "sg:postcode":"84054",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727895,
+        102083563,
+        85857749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1htBxZv6wfzEIcOaZG9uuI_40.841999_-111.926003@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"48fc6d4a1225e453d7bf9b797101f98c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727895,
+            "neighbourhood_id":85857749,
+            "region_id":85688567,
+            "venue_id":320591761
+        }
+    ],
+    "wof:id":320591761,
+    "wof:lastmodified":1449013260,
+    "wof:name":"Workman Construction Co",
+    "wof:parent_id":85857749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [-111.926003,40.841999,-111.926003,40.841999],
+  "geometry": {"coordinates":[-111.926003,40.841999],"type":"Point"}
+}

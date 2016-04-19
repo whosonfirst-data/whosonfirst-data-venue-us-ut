@@ -1,0 +1,73 @@
+{
+  "id": 320588735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.885251,40.620797,-111.885251,40.620797",
+    "geom:latitude":40.620797,
+    "geom:longitude":-111.885251,
+    "iso:country":"US",
+    "sg:address":"193 Fort Union Blvd # 200",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 748 2400",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728051,
+        102082877,
+        85851957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xEmL3qfG4dW9KBWFlD1h3_40.620797_-111.885251@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"be6fa9c9d7ff84cf8a115dc160ffc63b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85851957,
+            "region_id":85688567,
+            "venue_id":320588735
+        }
+    ],
+    "wof:id":320588735,
+    "wof:lastmodified":1449014232,
+    "wof:name":"National Real Estate Informati",
+    "wof:parent_id":85851957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [-111.885251,40.620797,-111.885251,40.620797],
+  "geometry": {"coordinates":[-111.885251,40.620797],"type":"Point"}
+}

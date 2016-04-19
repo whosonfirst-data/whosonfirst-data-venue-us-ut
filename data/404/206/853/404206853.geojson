@@ -1,0 +1,68 @@
+{
+  "id": 404206853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.809253,40.654022,-111.809253,40.654022",
+    "geom:latitude":40.654022,
+    "geom:longitude":-111.809253,
+    "iso:country":"US",
+    "sg:address":"5275 Hillsden Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 486 8191",
+    "sg:postcode":"84117",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728049,
+        102082877,
+        85825905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uSAZED352ZoItXC2koXsQ_40.654022_-111.809253@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1aa13c555eb7c9ecc39c1e09fbf39dca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728049,
+            "neighbourhood_id":85825905,
+            "region_id":85688567,
+            "venue_id":404206853
+        }
+    ],
+    "wof:id":404206853,
+    "wof:lastmodified":1449039947,
+    "wof:name":"Sherry Kaye Apartments LLC",
+    "wof:parent_id":85825905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [-111.809253,40.654022,-111.809253,40.654022],
+  "geometry": {"coordinates":[-111.809253,40.654022],"type":"Point"}
+}

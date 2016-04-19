@@ -1,0 +1,75 @@
+{
+  "id": 320593591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.98328,40.526249,-111.98328,40.526249",
+    "geom:latitude":40.526249,
+    "geom:longitude":-111.98328,
+    "iso:country":"US",
+    "sg:address":"3851 W 12380 S",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 446 9439",
+    "sg:postcode":"84065",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automobile",
+        "inspection",
+        "diagnostic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728073,
+        102082877,
+        85845107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ezcBuytGIDJj5NDHgjfYs_40.526249_-111.983280@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a7b9985da5b79646690b2d7024c9c135",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728073,
+            "neighbourhood_id":85845107,
+            "region_id":85688567,
+            "venue_id":320593591
+        }
+    ],
+    "wof:id":320593591,
+    "wof:lastmodified":1449013748,
+    "wof:name":"Carb Master",
+    "wof:parent_id":85845107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "inspection",
+        "diagnostic"
+    ]
+},
+  "bbox": [-111.98328,40.526249,-111.98328,40.526249],
+  "geometry": {"coordinates":[-111.98328,40.526249],"type":"Point"}
+}

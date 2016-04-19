@@ -1,0 +1,66 @@
+{
+  "id": 404204107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.888305,40.719276,-111.888305,40.719276",
+    "geom:latitude":40.719276,
+    "geom:longitude":-111.888305,
+    "iso:country":"US",
+    "sg:address":"2390 S State St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 466 4891",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728057,
+        102082877,
+        85808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Pylu4DDvuH7lTIIQE9JH5_40.719276_-111.888305@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"51849bd33ef34afc1776adf3b80ac698",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85808615,
+            "region_id":85688567,
+            "venue_id":404204107
+        }
+    ],
+    "wof:id":404204107,
+    "wof:lastmodified":1449040344,
+    "wof:name":"State Auto Repair and Sales",
+    "wof:parent_id":85808615,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [-111.888305,40.719276,-111.888305,40.719276],
+  "geometry": {"coordinates":[-111.888305,40.719276],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 320590815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.908997,40.843102,-111.908997,40.843102",
+    "geom:latitude":40.843102,
+    "geom:longitude":-111.908997,
+    "iso:country":"US",
+    "sg:address":"50 N Highway 89",
+    "sg:city":"North Salt Lake",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 298 3974",
+    "sg:postcode":"84054",
+    "sg:province":"UT",
+    "sg:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727895,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46G592ORZH7bhQfYoxM9Yf_40.843102_-111.908997@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5251530bed5e1a6d640e807af3060817",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727895,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320590815
+        }
+    ],
+    "wof:id":320590815,
+    "wof:lastmodified":1449013482,
+    "wof:name":"Wilson Veterinary Hospital",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [-111.908997,40.843102,-111.908997,40.843102],
+  "geometry": {"coordinates":[-111.908997,40.843102],"type":"Point"}
+}

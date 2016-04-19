@@ -1,0 +1,77 @@
+{
+  "id": 320600219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.007838,41.175592,-112.007838,41.175592",
+    "geom:latitude":41.175592,
+    "geom:longitude":-112.007838,
+    "iso:country":"US",
+    "sg:address":"1140 W Riverdale Rd",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 393 7070",
+    "sg:postcode":"84405",
+    "sg:province":"UT",
+    "sg:tags":[
+        "delicatessen",
+        "take"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728031,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zJjxmhvqmJSm4Yq15b8gp_41.175592_-112.007838@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7f78905815380b328724a6c6b8985546",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728031,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320600219
+        }
+    ],
+    "wof:id":320600219,
+    "wof:lastmodified":1449011580,
+    "wof:name":"Gandolfos Deli",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen",
+        "take"
+    ]
+},
+  "bbox": [-112.007838,41.175592,-112.007838,41.175592],
+  "geometry": {"coordinates":[-112.007838,41.175592],"type":"Point"}
+}

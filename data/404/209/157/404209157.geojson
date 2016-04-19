@@ -1,0 +1,68 @@
+{
+  "id": 404209157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.014844,40.595477,-112.014844,40.595477",
+    "geom:latitude":40.595477,
+    "geom:longitude":-112.014844,
+    "iso:country":"US",
+    "sg:address":"5131 Parr Dr",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 558 8901",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "company",
+        "title"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728061,
+        102082877,
+        85854997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PdSZvQSZOEht2ARO1w3Rr_40.595477_-112.014844@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"415a22b5fe4fa8592a12522f867930d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85854997,
+            "region_id":85688567,
+            "venue_id":404209157
+        }
+    ],
+    "wof:id":404209157,
+    "wof:lastmodified":1449040198,
+    "wof:name":"Title Source",
+    "wof:parent_id":85854997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "title"
+    ]
+},
+  "bbox": [-112.014844,40.595477,-112.014844,40.595477],
+  "geometry": {"coordinates":[-112.014844,40.595477],"type":"Point"}
+}

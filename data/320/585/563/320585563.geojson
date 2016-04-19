@@ -1,0 +1,66 @@
+{
+  "id": 320585563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.889948,40.979199,-111.889948,40.979199",
+    "geom:latitude":40.979199,
+    "geom:longitude":-111.889948,
+    "iso:country":"US",
+    "sg:address":"86 S 100 W",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Locksmith",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 934 3011",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "key"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85833427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ybt4rG1o7gN1lLxufJGV3_40.979199_-111.889948@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6ef2a9207e3354e677e51f3bccb7e3c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85833427,
+            "region_id":85688567,
+            "venue_id":320585563
+        }
+    ],
+    "wof:id":320585563,
+    "wof:lastmodified":1449013753,
+    "wof:name":"Locksmith All Day",
+    "wof:parent_id":85833427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "key"
+    ]
+},
+  "bbox": [-111.889948,40.979199,-111.889948,40.979199],
+  "geometry": {"coordinates":[-111.889948,40.979199],"type":"Point"}
+}

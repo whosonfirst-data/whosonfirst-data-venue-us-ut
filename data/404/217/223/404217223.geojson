@@ -1,0 +1,75 @@
+{
+  "id": 404217223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.828709,40.542782,-111.828709,40.542782",
+    "geom:latitude":40.542782,
+    "geom:longitude":-111.828709,
+    "iso:country":"US",
+    "sg:address":"11477 Willow View Way",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 563 0539",
+    "sg:postcode":"84092",
+    "sg:province":"UT",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        102082877,
+        85812845,
+        85825243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4S1j9LiiwxvHNTivt4mxoZ_40.542782_-111.828709@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"32ce5a2a1292b2cd5ca8964751ef60f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":-1,
+            "neighbourhood_id":85812845,
+            "region_id":85688567,
+            "venue_id":404217223
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":-1,
+            "neighbourhood_id":85825243,
+            "region_id":85688567,
+            "venue_id":404217223
+        }
+    ],
+    "wof:id":404217223,
+    "wof:lastmodified":1449040266,
+    "wof:name":"Allstate Home Inspections",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [-111.828709,40.542782,-111.828709,40.542782],
+  "geometry": {"coordinates":[-111.828709,40.542782],"type":"Point"}
+}

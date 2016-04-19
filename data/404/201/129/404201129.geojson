@@ -1,0 +1,68 @@
+{
+  "id": 404201129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.740781,40.354759,-111.740781,40.354759",
+    "geom:latitude":40.354759,
+    "geom:longitude":-111.740781,
+    "iso:country":"US",
+    "sg:address":"952 S Main St",
+    "sg:city":"Pleasant Grove",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 785 5231",
+    "sg:postcode":"84062",
+    "sg:province":"UT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727839,
+        102083567,
+        85879991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08s1EB3eQKccCXRoI9RXtY_40.354759_-111.740781@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e3a2229fb7fc7e333584afd35eea78e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727839,
+            "neighbourhood_id":85879991,
+            "region_id":85688567,
+            "venue_id":404201129
+        }
+    ],
+    "wof:id":404201129,
+    "wof:lastmodified":1449040163,
+    "wof:name":"DME Health Svc",
+    "wof:parent_id":85879991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-111.740781,40.354759,-111.740781,40.354759],
+  "geometry": {"coordinates":[-111.740781,40.354759],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 404192861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.004236,41.092531,-112.004236,41.092531",
+    "geom:latitude":41.092531,
+    "geom:longitude":-112.004236,
+    "iso:country":"US",
+    "sg:address":"1499 State St",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 776 5889",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20bYWC4GrayE4As6KFRpcU_41.092531_-112.004236@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f862648c836363fbffaa6c2b8f9a0a09",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":404192861
+        }
+    ],
+    "wof:id":404192861,
+    "wof:lastmodified":1449039979,
+    "wof:name":"Debbie's Groomette",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [-112.004236,41.092531,-112.004236,41.092531],
+  "geometry": {"coordinates":[-112.004236,41.092531],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 320582193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.875642,40.924975,-111.875642,40.924975",
+    "geom:latitude":40.924975,
+    "geom:longitude":-111.875642,
+    "iso:country":"US",
+    "sg:address":"228 East 700 North",
+    "sg:city":"Centerville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 694 8253",
+    "sg:postcode":"84014",
+    "sg:province":"UT",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning/hvac"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727879,
+        102083563,
+        85849063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EaoJJRcw9DgcHf4lN75cc_40.924975_-111.875642@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"41591a1f6a8c1a388a9abade19079eef",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727879,
+            "neighbourhood_id":85849063,
+            "region_id":85688567,
+            "venue_id":320582193
+        }
+    ],
+    "wof:id":320582193,
+    "wof:lastmodified":1449013270,
+    "wof:name":"Big Bear Heating & Cooling",
+    "wof:parent_id":85849063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning/hvac"
+    ]
+},
+  "bbox": [-111.875642,40.924975,-111.875642,40.924975],
+  "geometry": {"coordinates":[-111.875642,40.924975],"type":"Point"}
+}

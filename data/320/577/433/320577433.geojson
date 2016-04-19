@@ -1,0 +1,71 @@
+{
+  "id": 320577433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.879997,40.8894,-111.879997,40.8894",
+    "geom:latitude":40.8894,
+    "geom:longitude":-111.879997,
+    "iso:country":"US",
+    "sg:address":"PO Box 1324",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 571 8351",
+    "sg:postcode":"84011",
+    "sg:province":"UT",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727881,
+        102083563
+    ],
+    "wof:brand_id":420575225,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gTvdvhWUVARVSZNKJ9PCv_40.889400_-111.879997@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c3006d1f1375767467890be88fe2d2b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727881,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320577433
+        }
+    ],
+    "wof:id":320577433,
+    "wof:lastmodified":1457209470,
+    "wof:name":"Godfather's Pizza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -111.879997,
+    40.8894,
+    -111.879997,
+    40.8894
+],
+  "geometry": {"coordinates":[-111.879997,40.8894],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 320588931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.863273,40.622744,-111.863273,40.622744",
+    "geom:latitude":40.622744,
+    "geom:longitude":-111.863273,
+    "iso:country":"US",
+    "sg:address":"980 Fort Union Blvd",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 563 7434",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728065,
+        102082877,
+        85804249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ub7nmF7aM71RVf0xk78Lj_40.622744_-111.863273@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"148000468174ab99a6340648c0f0d413",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728065,
+            "neighbourhood_id":85804249,
+            "region_id":85688567,
+            "venue_id":320588931
+        }
+    ],
+    "wof:id":320588931,
+    "wof:lastmodified":1449014230,
+    "wof:name":"Fort Union Expresscare",
+    "wof:parent_id":85804249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-111.863273,40.622744,-111.863273,40.622744],
+  "geometry": {"coordinates":[-111.863273,40.622744],"type":"Point"}
+}

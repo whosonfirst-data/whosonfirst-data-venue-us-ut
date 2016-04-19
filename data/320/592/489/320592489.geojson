@@ -1,0 +1,76 @@
+{
+  "id": 320592489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.735726,40.317486,-111.735726,40.317486",
+    "geom:latitude":40.317486,
+    "geom:longitude":-111.735726,
+    "iso:country":"US",
+    "sg:address":"1165 N Geneva Rd Ste B",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 229 2282",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "analytical",
+        "laboratory",
+        "consultant"
+    ],
+    "sg:website":"http://www.timpview.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65HkAL4tYBw0qqI2jZ1BnQ_40.317486_-111.735726@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b5308e3e5bf34ad0b28dd743598eca9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":320592489
+        }
+    ],
+    "wof:id":320592489,
+    "wof:lastmodified":1449013405,
+    "wof:name":"Timpview Analytical Labs",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "analytical",
+        "laboratory",
+        "consultant"
+    ]
+},
+  "bbox": [-111.735726,40.317486,-111.735726,40.317486],
+  "geometry": {"coordinates":[-111.735726,40.317486],"type":"Point"}
+}

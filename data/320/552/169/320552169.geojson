@@ -1,0 +1,68 @@
+{
+  "id": 320552169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.780715,40.449099,-111.780715,40.449099",
+    "geom:latitude":40.449099,
+    "geom:longitude":-111.780715,
+    "iso:country":"US",
+    "sg:address":"175 W Canyon Crest Rd",
+    "sg:city":"Alpine",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 492 1020",
+    "sg:postcode":"84004",
+    "sg:province":"UT",
+    "sg:tags":[
+        "yard",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727839,
+        102083567,
+        85879979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Gvx7d3dnmKhW68EI2CoeT_40.449099_-111.780715@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8b61c02f39dd8bd5dc99b00011776e86",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727839,
+            "neighbourhood_id":85879979,
+            "region_id":85688567,
+            "venue_id":320552169
+        }
+    ],
+    "wof:id":320552169,
+    "wof:lastmodified":1449012827,
+    "wof:name":"The Mill At Dry Creek",
+    "wof:parent_id":85879979,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard",
+        "store"
+    ]
+},
+  "bbox": [-111.780715,40.449099,-111.780715,40.449099],
+  "geometry": {"coordinates":[-111.780715,40.449099],"type":"Point"}
+}

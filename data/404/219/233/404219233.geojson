@@ -1,0 +1,68 @@
+{
+  "id": 404219233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.640621,40.240031,-111.640621,40.240031",
+    "geom:latitude":40.240031,
+    "geom:longitude":-111.640621,
+    "iso:country":"US",
+    "sg:address":"1065 E 450 N",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 377 2237",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727863,
+        102083567,
+        85880085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14p4QOSurmtrn1CCRgPti1_40.240031_-111.640621@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"92016c308c474fef6cc0871fc9146052",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880085,
+            "region_id":85688567,
+            "venue_id":404219233
+        }
+    ],
+    "wof:id":404219233,
+    "wof:lastmodified":1449040278,
+    "wof:name":"Arcadia Apts",
+    "wof:parent_id":85880085,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [-111.640621,40.240031,-111.640621,40.240031],
+  "geometry": {"coordinates":[-111.640621,40.240031],"type":"Point"}
+}

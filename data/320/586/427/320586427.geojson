@@ -1,0 +1,68 @@
+{
+  "id": 320586427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.987862,41.079369,-111.987862,41.079369",
+    "geom:latitude":41.079369,
+    "geom:longitude":-111.987862,
+    "iso:country":"US",
+    "sg:address":"1298 N Main St",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 497 0698",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:website":"http://www.kohls.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:brand_id":420575041,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MW32M4MvF3307WEBQ7qcC_41.079369_-111.987862@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0381e1590e513b671524fc52f3340b5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":320586427
+        }
+    ],
+    "wof:id":320586427,
+    "wof:lastmodified":1457209361,
+    "wof:name":"Kohl's",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.987862,
+    41.079369,
+    -111.987862,
+    41.079369
+],
+  "geometry": {"coordinates":[-111.98786200000001,41.079369],"type":"Point"}
+}

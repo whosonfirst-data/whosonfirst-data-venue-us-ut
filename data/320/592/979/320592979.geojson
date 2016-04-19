@@ -1,0 +1,70 @@
+{
+  "id": 320592979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.687413,40.266605,-111.687413,40.266605",
+    "geom:latitude":40.266605,
+    "geom:longitude":-111.687413,
+    "iso:country":"US",
+    "sg:address":"1675 S 350 E",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 1797",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "company-utility",
+        "system",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727863,
+        102083567,
+        85880081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lBrv9Tj3yh4deu5MA1w25_40.266605_-111.687413@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c864e6266180248fe081420c901eff44",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880081,
+            "region_id":85688567,
+            "venue_id":320592979
+        }
+    ],
+    "wof:id":320592979,
+    "wof:lastmodified":1449013405,
+    "wof:name":"Provo River Distribution System",
+    "wof:parent_id":85880081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company-utility",
+        "system",
+        "supply"
+    ]
+},
+  "bbox": [-111.687413,40.266605,-111.687413,40.266605],
+  "geometry": {"coordinates":[-111.687413,40.266605],"type":"Point"}
+}

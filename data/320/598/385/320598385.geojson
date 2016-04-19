@@ -1,0 +1,70 @@
+{
+  "id": 320598385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.678285,40.299086,-111.678285,40.299086",
+    "geom:latitude":40.299086,
+    "geom:longitude":-111.678285,
+    "iso:country":"US",
+    "sg:address":"701 E 100 N",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 225 3974",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "acoustical",
+        "insulation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727865,
+        102083567,
+        85849197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JMuhNo2s73hxZFGjvxVAB_40.299086_-111.678285@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"acf9077fb821b863ae225602d294d4c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85849197,
+            "region_id":85688567,
+            "venue_id":320598385
+        }
+    ],
+    "wof:id":320598385,
+    "wof:lastmodified":1449011444,
+    "wof:name":"Morris Acoustics",
+    "wof:parent_id":85849197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acoustical",
+        "insulation",
+        "contractor"
+    ]
+},
+  "bbox": [-111.678285,40.299086,-111.678285,40.299086],
+  "geometry": {"coordinates":[-111.678285,40.299086],"type":"Point"}
+}

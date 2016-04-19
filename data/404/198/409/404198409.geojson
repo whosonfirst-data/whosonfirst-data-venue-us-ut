@@ -1,0 +1,66 @@
+{
+  "id": 404198409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.658769,40.229933,-111.658769,40.229933",
+    "geom:latitude":40.229933,
+    "geom:longitude":-111.658769,
+    "iso:country":"US",
+    "sg:address":"218 S University Ave",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 356 1307",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727863,
+        102083567,
+        85880065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BDxXbWqrOfMfsadDsbC7f_40.229933_-111.658769@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aef060547d4bbbad3c290882cdd5728f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880065,
+            "region_id":85688567,
+            "venue_id":404198409
+        }
+    ],
+    "wof:id":404198409,
+    "wof:lastmodified":1449039459,
+    "wof:name":"Auto Body Works",
+    "wof:parent_id":85880065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [-111.658769,40.229933,-111.658769,40.229933],
+  "geometry": {"coordinates":[-111.658769,40.229933],"type":"Point"}
+}

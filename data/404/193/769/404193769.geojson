@@ -1,0 +1,68 @@
+{
+  "id": 404193769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.700181,40.285979,-111.700181,40.285979",
+    "geom:latitude":40.285979,
+    "geom:longitude":-111.700181,
+    "iso:country":"US",
+    "sg:address":"682 S 200 W",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 3194",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "security",
+        "network"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727865,
+        102083567,
+        85849197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qLOEPgvpoc6gsCi4nKc6X_40.285979_-111.700181@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fe69667833ddb953436c87f6fafa8349",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85849197,
+            "region_id":85688567,
+            "venue_id":404193769
+        }
+    ],
+    "wof:id":404193769,
+    "wof:lastmodified":1449039209,
+    "wof:name":"Network Security Solutions LLC",
+    "wof:parent_id":85849197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security",
+        "network"
+    ]
+},
+  "bbox": [-111.700181,40.285979,-111.700181,40.285979],
+  "geometry": {"coordinates":[-111.700181,40.285979],"type":"Point"}
+}

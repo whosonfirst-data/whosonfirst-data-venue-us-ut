@@ -1,0 +1,66 @@
+{
+  "id": 320596877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.876604,40.922484,-111.876604,40.922484",
+    "geom:latitude":40.922484,
+    "geom:longitude":-111.876604,
+    "iso:country":"US",
+    "sg:address":"135 N 500 West",
+    "sg:city":"West Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 295 5140",
+    "sg:postcode":"84087",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mexican"
+    ],
+    "sg:website":"www.chipotle.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727879,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CLh6cIyOuh4VgFzrih8jX_40.922484_-111.876604@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c9a7ac7e02350871d5595330b8b11a2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727879,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320596877
+        }
+    ],
+    "wof:id":320596877,
+    "wof:lastmodified":1449013169,
+    "wof:name":"Chipotle Mexican Grill",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [-111.876604,40.922484,-111.876604,40.922484],
+  "geometry": {"coordinates":[-111.876604,40.922484],"type":"Point"}
+}

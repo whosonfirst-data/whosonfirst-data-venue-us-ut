@@ -1,0 +1,68 @@
+{
+  "id": 404203973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.897726,40.534944,-111.897726,40.534944",
+    "geom:latitude":40.534944,
+    "geom:longitude":-111.897726,
+    "iso:country":"US",
+    "sg:address":"147 Election Rd",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 456 3500",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "suite",
+        "executive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727849,
+        102082877,
+        85845115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lxUKz129b52eTgPlyWSqV_40.534944_-111.897726@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"27e577514972db0e9c93db269ccf06d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85845115,
+            "region_id":85688567,
+            "venue_id":404203973
+        }
+    ],
+    "wof:id":404203973,
+    "wof:lastmodified":1449039549,
+    "wof:name":"Davinci Executive Office Suite",
+    "wof:parent_id":85845115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "suite",
+        "executive"
+    ]
+},
+  "bbox": [-111.897726,40.534944,-111.897726,40.534944],
+  "geometry": {"coordinates":[-111.897726,40.534944],"type":"Point"}
+}

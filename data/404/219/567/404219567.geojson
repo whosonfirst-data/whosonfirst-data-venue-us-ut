@@ -1,0 +1,66 @@
+{
+  "id": 404219567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.885555,40.521564,-111.885555,40.521564",
+    "geom:latitude":40.521564,
+    "geom:longitude":-111.885555,
+    "iso:country":"US",
+    "sg:address":"178 Bridgepark Cir",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 576 1432",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727849,
+        102082877,
+        85823005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sXk6WW05cRsEh7KhuTq80_40.521564_-111.885555@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"063dd8e7cf79f21a612343d3ad3ad5ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85823005,
+            "region_id":85688567,
+            "venue_id":404219567
+        }
+    ],
+    "wof:id":404219567,
+    "wof:lastmodified":1449040277,
+    "wof:name":"David Hanks Plmg Co",
+    "wof:parent_id":85823005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [-111.885555,40.521564,-111.885555,40.521564],
+  "geometry": {"coordinates":[-111.885555,40.521564],"type":"Point"}
+}

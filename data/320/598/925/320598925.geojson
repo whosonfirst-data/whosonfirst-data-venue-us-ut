@@ -1,0 +1,73 @@
+{
+  "id": 320598925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.831233,41.754273,-111.831233,41.754273",
+    "geom:latitude":41.754273,
+    "geom:longitude":-111.831233,
+    "iso:country":"US",
+    "sg:address":"120 W Cache Valley Blvd Suite 200",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 363 0543",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dentists-endodontists",
+        "dentists-cosmetic",
+        "dentists-periodontists",
+        "dentistry"
+    ],
+    "sg:website":"http://www.docbingham.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6izw7xSlnXN8ZsufvKfqV2_41.754273_-111.831233@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9ba0a7709dd4f188da2e80a600ee7257",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":320598925
+        }
+    ],
+    "wof:id":320598925,
+    "wof:lastmodified":1449011443,
+    "wof:name":"Bingham Plaza Dental Care",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentists-endodontists",
+        "dentists-cosmetic",
+        "dentists-periodontists",
+        "dentistry"
+    ]
+},
+  "bbox": [-111.831233,41.754273,-111.831233,41.754273],
+  "geometry": {"coordinates":[-111.831233,41.754273],"type":"Point"}
+}

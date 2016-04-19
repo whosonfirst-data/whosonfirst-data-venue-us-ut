@@ -1,0 +1,66 @@
+{
+  "id": 404210157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.89056,40.735647,-111.89056,40.735647",
+    "geom:latitude":40.735647,
+    "geom:longitude":-111.89056,
+    "iso:country":"US",
+    "sg:address":"31 Bryan Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 484 1750",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728075,
+        102082877,
+        85824705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72ZtJDQuGHCimQJ4SAVDML_40.735647_-111.890560@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"df18c1a52fd0bd6bdda68429cff4e9c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85824705,
+            "region_id":85688567,
+            "venue_id":404210157
+        }
+    ],
+    "wof:id":404210157,
+    "wof:lastmodified":1449039421,
+    "wof:name":"Salt Lake Dental Laboratory",
+    "wof:parent_id":85824705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [-111.89056,40.735647,-111.89056,40.735647],
+  "geometry": {"coordinates":[-111.89056,40.735647],"type":"Point"}
+}

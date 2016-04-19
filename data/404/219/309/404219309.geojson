@@ -1,0 +1,66 @@
+{
+  "id": 404219309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.003971,40.65935,-112.003971,40.65935",
+    "geom:latitude":40.65935,
+    "geom:longitude":-112.003971,
+    "iso:country":"US",
+    "sg:address":"4756 W 5055 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 968 8740",
+    "sg:postcode":"84118",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728253,
+        102082877,
+        85833393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EcES9YiEdL2sSgZGt9twf_40.659350_-112.003971@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c1b83c7ed3c199b562d07a9f933907fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728253,
+            "neighbourhood_id":85833393,
+            "region_id":85688567,
+            "venue_id":404219309
+        }
+    ],
+    "wof:id":404219309,
+    "wof:lastmodified":1449040275,
+    "wof:name":"Valley Fence Co",
+    "wof:parent_id":85833393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [-112.003971,40.65935,-112.003971,40.65935],
+  "geometry": {"coordinates":[-112.003971,40.65935],"type":"Point"}
+}

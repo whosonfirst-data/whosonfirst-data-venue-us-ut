@@ -1,0 +1,71 @@
+{
+  "id": 404216809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.911113,40.695003,-111.911113,40.695003",
+    "geom:latitude":40.695003,
+    "geom:longitude":-111.911113,
+    "iso:country":"US",
+    "sg:address":"3555 S 700 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 261 1311",
+    "sg:postcode":"84119",
+    "sg:province":"UT",
+    "sg:tags":[
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728057,
+        102082877,
+        85847441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JgPVLyC9UzHljSvqaXMvn_40.695003_-111.911113@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c77deaeffa31fd32e43f4daa895b71ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85847441,
+            "region_id":85688567,
+            "venue_id":404216809
+        }
+    ],
+    "wof:id":404216809,
+    "wof:lastmodified":1449040184,
+    "wof:name":"B & B Bail Bonds LLC",
+    "wof:parent_id":85847441,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bond"
+    ]
+},
+  "bbox": [-111.911113,40.695003,-111.911113,40.695003],
+  "geometry": {"coordinates":[-111.911113,40.695003],"type":"Point"}
+}

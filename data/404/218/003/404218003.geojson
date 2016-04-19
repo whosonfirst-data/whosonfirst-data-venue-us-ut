@@ -1,0 +1,73 @@
+{
+  "id": 404218003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.998658,40.689859,-111.998658,40.689859",
+    "geom:latitude":40.689859,
+    "geom:longitude":-111.998658,
+    "iso:country":"US",
+    "sg:address":"4495 Manhatten Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 967 9004",
+    "sg:postcode":"84120",
+    "sg:province":"UT",
+    "sg:tags":[
+        "communications",
+        "component",
+        "telephone",
+        "electronic",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728063,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jNaVtD6VQDhYvjELnEy95_40.689859_-111.998658@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ba592a4b1afad54e3b3493dbd74906a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":404218003
+        }
+    ],
+    "wof:id":404218003,
+    "wof:lastmodified":1449039896,
+    "wof:name":"ME Mfg",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications",
+        "component",
+        "telephone",
+        "electronic",
+        "mfg"
+    ]
+},
+  "bbox": [-111.998658,40.689859,-111.998658,40.689859],
+  "geometry": {"coordinates":[-111.998658,40.689859],"type":"Point"}
+}

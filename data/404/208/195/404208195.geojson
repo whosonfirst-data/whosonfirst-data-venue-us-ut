@@ -1,0 +1,66 @@
+{
+  "id": 404208195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.890871,40.560326,-111.890871,40.560326",
+    "geom:latitude":40.560326,
+    "geom:longitude":-111.890871,
+    "iso:country":"US",
+    "sg:address":"10450 S State St",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 619 0199",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "tailor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728077,
+        102082877,
+        85852927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5T1qErABG41OC02w0bXs7S_40.560326_-111.890871@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7d9a1edd390e02f0403ab9307ba8ec57",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85852927,
+            "region_id":85688567,
+            "venue_id":404208195
+        }
+    ],
+    "wof:id":404208195,
+    "wof:lastmodified":1449039155,
+    "wof:name":"Best Alterations",
+    "wof:parent_id":85852927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tailor"
+    ]
+},
+  "bbox": [-111.890871,40.560326,-111.890871,40.560326],
+  "geometry": {"coordinates":[-111.890871,40.560326],"type":"Point"}
+}

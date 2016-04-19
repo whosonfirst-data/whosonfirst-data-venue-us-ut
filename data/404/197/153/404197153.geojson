@@ -1,0 +1,68 @@
+{
+  "id": 404197153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.675746,40.259892,-111.675746,40.259892",
+    "geom:latitude":40.259892,
+    "geom:longitude":-111.675746,
+    "iso:country":"US",
+    "sg:address":"1807 N 1120 W",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 0210",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727863,
+        102083567,
+        85880063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09vrSqRS0An8K7fi6o0zRv_40.259892_-111.675746@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"17ea0195a15e3a40d0a3be90a0b3531b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880063,
+            "region_id":85688567,
+            "venue_id":404197153
+        }
+    ],
+    "wof:id":404197153,
+    "wof:lastmodified":1449040172,
+    "wof:name":"Intermountain Specialized Abus",
+    "wof:parent_id":85880063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [-111.675746,40.259892,-111.675746,40.259892],
+  "geometry": {"coordinates":[-111.675746,40.259892],"type":"Point"}
+}

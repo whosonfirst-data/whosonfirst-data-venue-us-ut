@@ -1,0 +1,67 @@
+{
+  "id": 320600301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.661901,40.255534,-111.661901,40.255534",
+    "geom:latitude":40.255534,
+    "geom:longitude":-111.661901,
+    "iso:country":"US",
+    "sg:address":"1580 N Freedom Blvd",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 0073",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "lodging"
+    ],
+    "sg:website":"http://marriott.com/SLCPS",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727863,
+        102083567,
+        85880063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44GaYwDjloYyCWP7QsXBMg_40.255534_-111.661901@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8c7abfb125e79eab9b518e5745be6315",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880063,
+            "region_id":85688567,
+            "venue_id":320600301
+        }
+    ],
+    "wof:id":320600301,
+    "wof:lastmodified":1449011576,
+    "wof:name":"Provo SpringHill Suites by Marriott",
+    "wof:parent_id":85880063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lodging"
+    ]
+},
+  "bbox": [-111.661901,40.255534,-111.661901,40.255534],
+  "geometry": {"coordinates":[-111.661901,40.255534],"type":"Point"}
+}

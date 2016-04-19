@@ -1,0 +1,88 @@
+{
+  "id": 320585051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.885379,40.980976,-111.885379,40.980976",
+    "geom:latitude":40.980976,
+    "geom:longitude":-111.885379,
+    "iso:country":"US",
+    "sg:address":"46 N 100 E",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 0881",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "cake",
+        "delicatessen",
+        "sandwich",
+        "pastry",
+        "wedding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EhWnhrnRQDHrmvajVAMWA_40.980976_-111.885379@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"67307c5c98e702dc80458713c2b3f314",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320585051
+        }
+    ],
+    "wof:id":320585051,
+    "wof:lastmodified":1449013758,
+    "wof:name":"Cannavina's Deli & Bakery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cake",
+        "delicatessen",
+        "sandwich",
+        "pastry",
+        "wedding"
+    ]
+},
+  "bbox": [-111.885379,40.980976,-111.885379,40.980976],
+  "geometry": {"coordinates":[-111.885379,40.980976],"type":"Point"}
+}

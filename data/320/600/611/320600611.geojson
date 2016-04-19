@@ -1,0 +1,77 @@
+{
+  "id": 320600611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.641388,40.258951,-111.641388,40.258951",
+    "geom:latitude":40.258951,
+    "geom:longitude":-111.641388,
+    "iso:country":"US",
+    "sg:address":"33 Wymount Ter",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 378 5278",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "systems-wholesale",
+        "equipment",
+        "radio",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727863,
+        102083567,
+        85842355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ePOKHRz4tyg1DitJdrWH0_40.258951_-111.641388@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cce68cb282add99e05fb86a170a1f75f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85842355,
+            "region_id":85688567,
+            "venue_id":320600611
+        }
+    ],
+    "wof:id":320600611,
+    "wof:lastmodified":1449011577,
+    "wof:name":"Cast Glance Advanced Electro-Optics",
+    "wof:parent_id":85842355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "systems-wholesale",
+        "equipment",
+        "radio",
+        "manufacturer"
+    ]
+},
+  "bbox": [-111.641388,40.258951,-111.641388,40.258951],
+  "geometry": {"coordinates":[-111.641388,40.258951],"type":"Point"}
+}

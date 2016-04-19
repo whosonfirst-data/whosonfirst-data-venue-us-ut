@@ -1,0 +1,66 @@
+{
+  "id": 404191937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.888198,40.69036,-111.888198,40.69036",
+    "geom:latitude":40.69036,
+    "geom:longitude":-111.888198,
+    "iso:country":"US",
+    "sg:address":"3721 S State St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 261 4677",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "pawnshop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728057,
+        102082877,
+        85810147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XaabuCbFMeCoALd9h4xo4_40.690360_-111.888198@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"163790ad83950e63e46b8fa74d769e0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85810147,
+            "region_id":85688567,
+            "venue_id":404191937
+        }
+    ],
+    "wof:id":404191937,
+    "wof:lastmodified":1449039832,
+    "wof:name":"Premier Pawn",
+    "wof:parent_id":85810147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnshop"
+    ]
+},
+  "bbox": [-111.888198,40.69036,-111.888198,40.69036],
+  "geometry": {"coordinates":[-111.888198,40.69036],"type":"Point"}
+}

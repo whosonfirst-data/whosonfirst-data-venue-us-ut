@@ -1,0 +1,68 @@
+{
+  "id": 404202425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.973086,41.035851,-111.973086,41.035851",
+    "geom:latitude":41.035851,
+    "geom:longitude":-111.973086,
+    "iso:country":"US",
+    "sg:address":"1872 W 75 S",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 444 9977",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4t2QcQL3KgK86FXMbCt22F_41.035851_-111.973086@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"152ea6958c0928010b9dbfc5a0449e29",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":404202425
+        }
+    ],
+    "wof:id":404202425,
+    "wof:lastmodified":1449040164,
+    "wof:name":"Auto Boss",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [-111.973086,41.035851,-111.973086,41.035851],
+  "geometry": {"coordinates":[-111.973086,41.035851],"type":"Point"}
+}

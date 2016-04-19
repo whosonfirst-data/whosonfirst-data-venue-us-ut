@@ -1,0 +1,93 @@
+{
+  "id": 320587519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.863681,40.367722,-111.863681,40.367722",
+    "geom:latitude":40.367722,
+    "geom:longitude":-111.863681,
+    "iso:country":"US",
+    "sg:address":"918 W 1675 S",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 722 4681",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "horticulture",
+        "product",
+        "stump",
+        "grading",
+        "excavation",
+        "tree",
+        "grinding",
+        "contractor",
+        "arborist",
+        "removal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        102083567,
+        85858273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cic5Q4vtiwUcdwsKRLqQ7_40.367722_-111.863681@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c5a42af0d3744b24854034aa424f6821",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":-1,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":320587519
+        }
+    ],
+    "wof:id":320587519,
+    "wof:lastmodified":1449012557,
+    "wof:name":"Monkey Tree Service",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "horticulture",
+        "product",
+        "stump",
+        "grading",
+        "excavation",
+        "tree",
+        "grinding",
+        "contractor",
+        "arborist",
+        "removal"
+    ]
+},
+  "bbox": [-111.863681,40.367722,-111.863681,40.367722],
+  "geometry": {"coordinates":[-111.863681,40.367722],"type":"Point"}
+}

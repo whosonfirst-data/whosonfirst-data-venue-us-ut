@@ -1,0 +1,77 @@
+{
+  "id": 320592757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.696465,40.311896,-111.696465,40.311896",
+    "geom:latitude":40.311896,
+    "geom:longitude":-111.696465,
+    "iso:country":"US",
+    "sg:address":"27 W 800 N",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 921 4983",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "transmission",
+        "lube",
+        "oil",
+        "brake"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54XUkn69KU9e24blibXiFx_40.311896_-111.696465@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3e86a8da183bfdccaaa8133f80f40c44",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":320592757
+        }
+    ],
+    "wof:id":320592757,
+    "wof:lastmodified":1449013405,
+    "wof:name":"Dave's Canyon Auto",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "lube",
+        "oil",
+        "brake"
+    ]
+},
+  "bbox": [-111.696465,40.311896,-111.696465,40.311896],
+  "geometry": {"coordinates":[-111.696465,40.311896],"type":"Point"}
+}

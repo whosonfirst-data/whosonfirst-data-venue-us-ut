@@ -1,0 +1,77 @@
+{
+  "id": 320586569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.737835,40.337954,-111.737835,40.337954",
+    "geom:latitude":40.337954,
+    "geom:longitude":-111.737835,
+    "iso:country":"US",
+    "sg:address":"935 W Center St",
+    "sg:city":"Lindon",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 785 8448",
+    "sg:postcode":"84042",
+    "sg:province":"UT",
+    "sg:tags":[
+        "excavation",
+        "topsoil",
+        "grading",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727869,
+        102083567,
+        85823969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aq9MCRfewn1V0UxWFQWZp_40.337954_-111.737835@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c90d967ab2132ecadd267ea7a3628f51",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727869,
+            "neighbourhood_id":85823969,
+            "region_id":85688567,
+            "venue_id":320586569
+        }
+    ],
+    "wof:id":320586569,
+    "wof:lastmodified":1449014536,
+    "wof:name":"S & L Incorporated",
+    "wof:parent_id":85823969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "topsoil",
+        "grading",
+        "contractor"
+    ]
+},
+  "bbox": [-111.737835,40.337954,-111.737835,40.337954],
+  "geometry": {"coordinates":[-111.737835,40.337954],"type":"Point"}
+}

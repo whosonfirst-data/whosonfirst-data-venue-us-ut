@@ -1,0 +1,68 @@
+{
+  "id": 404191567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.885285,40.751599,-111.885285,40.751599",
+    "geom:latitude":40.751599,
+    "geom:longitude":-111.885285,
+    "iso:country":"US",
+    "sg:address":"883 S 200 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 355 5731",
+    "sg:postcode":"84111",
+    "sg:province":"UT",
+    "sg:tags":[
+        "commercial",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728075,
+        102082877,
+        85867259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5D6YT0O808mDBK7sxGOlLU_40.751599_-111.885285@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d08f32d56339bc7c22d606f9da949f80",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85867259,
+            "region_id":85688567,
+            "venue_id":404191567
+        }
+    ],
+    "wof:id":404191567,
+    "wof:lastmodified":1449039840,
+    "wof:name":"Art Department",
+    "wof:parent_id":85867259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "design"
+    ]
+},
+  "bbox": [-111.885285,40.751599,-111.885285,40.751599],
+  "geometry": {"coordinates":[-111.885285,40.751599],"type":"Point"}
+}

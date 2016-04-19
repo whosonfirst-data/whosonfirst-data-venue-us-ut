@@ -1,0 +1,78 @@
+{
+  "id": 320598201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.684578,40.273392,-111.684578,40.273392",
+    "geom:latitude":40.273392,
+    "geom:longitude":-111.684578,
+    "iso:country":"US",
+    "sg:address":"1300 S State St 9",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 0958",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "chicken"
+    ],
+    "sg:website":"http://www.chick-fil-a.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727863,
+        102083567,
+        85880081
+    ],
+    "wof:brand_id":420575221,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5upWBi80wQ3VtoGj4F0wUK_40.273392_-111.684578@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c4b83115c60d991f5ff19fffded2ecc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880081,
+            "region_id":85688567,
+            "venue_id":320598201
+        }
+    ],
+    "wof:id":320598201,
+    "wof:lastmodified":1457209468,
+    "wof:name":"Chick-Fil-A",
+    "wof:parent_id":85880081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chicken"
+    ]
+},
+  "bbox": [
+    -111.684578,
+    40.273392,
+    -111.684578,
+    40.273392
+],
+  "geometry": {"coordinates":[-111.684578,40.273392],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 404194677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.701842,40.31558,-111.701842,40.31558",
+    "geom:latitude":40.31558,
+    "geom:longitude":-111.701842,
+    "iso:country":"US",
+    "sg:address":"227 W 990 N",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 225 5404",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "exhaust"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pTinxZUK8V9NYJjmjW6RS_40.315580_-111.701842@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dd6ba6b072f3d86ce889de3ebf9d65a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":404194677
+        }
+    ],
+    "wof:id":404194677,
+    "wof:lastmodified":1449040141,
+    "wof:name":"Ricks Muffler",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exhaust"
+    ]
+},
+  "bbox": [-111.701842,40.31558,-111.701842,40.31558],
+  "geometry": {"coordinates":[-111.701842,40.31558],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 404192683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.881392,40.746366,-111.881392,40.746366",
+    "geom:latitude":40.746366,
+    "geom:longitude":-111.881392,
+    "iso:country":"US",
+    "sg:address":"312 Herbert Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 359 3400",
+    "sg:postcode":"84111",
+    "sg:province":"UT",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728075,
+        102082877,
+        85867259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3L12FONeGUzWn4fUKrZgUP_40.746366_-111.881392@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"81fcce5f08cc6f807ad57ac0aca36512",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85867259,
+            "region_id":85688567,
+            "venue_id":404192683
+        }
+    ],
+    "wof:id":404192683,
+    "wof:lastmodified":1449039978,
+    "wof:name":"Freedom Laundry Service",
+    "wof:parent_id":85867259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [-111.881392,40.746366,-111.881392,40.746366],
+  "geometry": {"coordinates":[-111.881392,40.746366],"type":"Point"}
+}

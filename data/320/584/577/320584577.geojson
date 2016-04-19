@@ -1,0 +1,68 @@
+{
+  "id": 320584577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.885276,40.979747,-111.885276,40.979747",
+    "geom:latitude":40.979747,
+    "geom:longitude":-111.885276,
+    "iso:country":"US",
+    "sg:address":"47 S 100 E",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 5985",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "therapy",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85833427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GdP60gfrDy2AJMC3Ug8Ct_40.979747_-111.885276@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0bc79d4bb9af0d6516f6cc876bc946ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85833427,
+            "region_id":85688567,
+            "venue_id":320584577
+        }
+    ],
+    "wof:id":320584577,
+    "wof:lastmodified":1449011654,
+    "wof:name":"Farmington Physical Therapy",
+    "wof:parent_id":85833427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [-111.885276,40.979747,-111.885276,40.979747],
+  "geometry": {"coordinates":[-111.885276,40.979747],"type":"Point"}
+}

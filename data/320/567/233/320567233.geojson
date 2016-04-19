@@ -1,0 +1,67 @@
+{
+  "id": 320567233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.868878,40.88678,-111.868878,40.88678",
+    "geom:latitude":40.88678,
+    "geom:longitude":-111.868878,
+    "iso:country":"US",
+    "sg:address":"620 Medical Dr Ste 150",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 298 4112",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "sg:tags":[
+        "practice",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727881,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KpfPooYG7troOqYJEWkxx_40.886780_-111.868878@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a61face3d93d48ec035701af75f04058",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727881,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320567233
+        }
+    ],
+    "wof:id":320567233,
+    "wof:lastmodified":1449014998,
+    "wof:name":"Cope Family Medicine Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "practice",
+        "family"
+    ]
+},
+  "bbox": [-111.868878,40.88678,-111.868878,40.88678],
+  "geometry": {"coordinates":[-111.868878,40.88678],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 320594191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.890799,40.553059,-111.890799,40.553059",
+    "geom:latitude":40.553059,
+    "geom:longitude":-111.890799,
+    "iso:country":"US",
+    "sg:address":"10919 S State St",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Locksmith",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 571 8300",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "locksmiths-commercial",
+        "industrial",
+        "lock",
+        "safe",
+        "key",
+        "vault"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727849,
+        102082877,
+        85850585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dOHR06Le7yfVxgpv6mPQx_40.553059_-111.890799@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2caab4f934cac7ee6e12043260ae132a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85850585,
+            "region_id":85688567,
+            "venue_id":320594191
+        }
+    ],
+    "wof:id":320594191,
+    "wof:lastmodified":1449011792,
+    "wof:name":"Action Locksmith",
+    "wof:parent_id":85850585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locksmiths-commercial",
+        "industrial",
+        "lock",
+        "safe",
+        "key",
+        "vault"
+    ]
+},
+  "bbox": [-111.890799,40.553059,-111.890799,40.553059],
+  "geometry": {"coordinates":[-111.890799,40.553059],"type":"Point"}
+}

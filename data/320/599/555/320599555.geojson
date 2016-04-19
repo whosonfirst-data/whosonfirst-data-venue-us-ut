@@ -1,0 +1,72 @@
+{
+  "id": 320599555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.948766,41.196185,-111.948766,41.196185",
+    "geom:latitude":41.196185,
+    "geom:longitude":-111.948766,
+    "iso:country":"US",
+    "sg:address":"3679 Harrison Blvd",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 394 2812",
+    "sg:postcode":"84403",
+    "sg:province":"UT",
+    "sg:tags":[
+        "espresso",
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728033,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zJAvlMiIAJ8ef8KaPSOfx_41.196185_-111.948766@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e4387cf80f345d5ff239a1fa67d6ca88",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320599555
+        }
+    ],
+    "wof:id":320599555,
+    "wof:lastmodified":1449012993,
+    "wof:name":"Cafe Ville Bella",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "espresso",
+        "italian"
+    ]
+},
+  "bbox": [-111.948766,41.196185,-111.948766,41.196185],
+  "geometry": {"coordinates":[-111.948766,41.196185],"type":"Point"}
+}

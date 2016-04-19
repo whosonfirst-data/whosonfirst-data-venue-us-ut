@@ -1,0 +1,66 @@
+{
+  "id": 404206567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.900056,40.660595,-111.900056,40.660595",
+    "geom:latitude":40.660595,
+    "geom:longitude":-111.900056,
+    "iso:country":"US",
+    "sg:address":"315 W Vine St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 262 9913",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728069,
+        102082877,
+        85853401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NowxfpX0WNzUYiKi1ryTc_40.660595_-111.900056@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b2cf11426e7c7fe0706700ff4329e57c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85853401,
+            "region_id":85688567,
+            "venue_id":404206567
+        }
+    ],
+    "wof:id":404206567,
+    "wof:lastmodified":1449039952,
+    "wof:name":"Deveries Property Management",
+    "wof:parent_id":85853401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [-111.900056,40.660595,-111.900056,40.660595],
+  "geometry": {"coordinates":[-111.900056,40.660595],"type":"Point"}
+}

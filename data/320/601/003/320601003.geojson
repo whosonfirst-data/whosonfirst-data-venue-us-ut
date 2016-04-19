@@ -1,0 +1,76 @@
+{
+  "id": 320601003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-113.478977,37.108411,-113.478977,37.108411",
+    "geom:latitude":37.108411,
+    "geom:longitude":-113.478977,
+    "iso:country":"US",
+    "sg:address":"1509 S Sandhill Dr",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 866 958 3681",
+    "sg:postcode":"84780",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mover",
+        "commercial",
+        "household"
+    ],
+    "sg:website":"http://www.southwestmovingcompany.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fLnW1oOy7KIH23z3IO6Tm_37.108411_-113.478977@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fdcf39ef2fc5835acce858288a7faee5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":320601003
+        }
+    ],
+    "wof:id":320601003,
+    "wof:lastmodified":1449012923,
+    "wof:name":"Southwest Moving & Relocation",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover",
+        "commercial",
+        "household"
+    ]
+},
+  "bbox": [-113.478977,37.108411,-113.478977,37.108411],
+  "geometry": {"coordinates":[-113.478977,37.108411],"type":"Point"}
+}

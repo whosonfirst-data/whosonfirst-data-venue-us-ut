@@ -1,0 +1,73 @@
+{
+  "id": 404198961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-109.552491,40.45989,-109.552491,40.45989",
+    "geom:latitude":40.45989,
+    "geom:longitude":-109.552491,
+    "iso:country":"US",
+    "sg:address":"334 N 1250 W",
+    "sg:city":"Vernal",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 828 8318",
+    "sg:postcode":"84078",
+    "sg:province":"UT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727933,
+        102083541
+    ],
+    "wof:brand_id":420574043,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1W7yB4F5zXE6TbzEJM87E3_40.459890_-109.552491@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1d34a27c19f7b99bcaddc6b858055725",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083541,
+            "locality_id":101727933,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":404198961
+        }
+    ],
+    "wof:id":404198961,
+    "wof:lastmodified":1457208185,
+    "wof:name":"Chevron",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -109.552491,
+    40.45989,
+    -109.552491,
+    40.45989
+],
+  "geometry": {"coordinates":[-109.552491,40.45989],"type":"Point"}
+}

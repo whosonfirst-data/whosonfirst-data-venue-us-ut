@@ -1,0 +1,66 @@
+{
+  "id": 320577485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.888736,40.921418,-111.888736,40.921418",
+    "geom:latitude":40.921418,
+    "geom:longitude":-111.888736,
+    "iso:country":"US",
+    "sg:address":"331 W Parrish Lane",
+    "sg:city":"Centerville",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 298 3644",
+    "sg:postcode":"84014",
+    "sg:province":"UT",
+    "sg:tags":[
+        "burger"
+    ],
+    "sg:website":"www.tonyburgers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        102083563,
+        85850499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xGKZFa1hFR5VQfx98Dm79_40.921418_-111.888736@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7829e004542798fe2fb20f8fddf2dd4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":-1,
+            "neighbourhood_id":85850499,
+            "region_id":85688567,
+            "venue_id":320577485
+        }
+    ],
+    "wof:id":320577485,
+    "wof:lastmodified":1449015072,
+    "wof:name":"Tonyburgers",
+    "wof:parent_id":85850499,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger"
+    ]
+},
+  "bbox": [-111.888736,40.921418,-111.888736,40.921418],
+  "geometry": {"coordinates":[-111.888736,40.921418],"type":"Point"}
+}

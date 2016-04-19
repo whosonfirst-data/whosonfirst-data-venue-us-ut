@@ -1,0 +1,66 @@
+{
+  "id": 320582939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.879997,40.918098,-111.879997,40.918098",
+    "geom:latitude":40.918098,
+    "geom:longitude":-111.879997,
+    "iso:country":"US",
+    "sg:address":"86 N 70 W",
+    "sg:city":"Centerville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 298 2014",
+    "sg:postcode":"84014",
+    "sg:province":"UT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.parrishcreekvet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727879,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KQC8BPkQI2Ycf6YbiE1pi_40.918098_-111.879997@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b3c9fe118d7f245ad7b3e376f340aa92",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727879,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320582939
+        }
+    ],
+    "wof:id":320582939,
+    "wof:lastmodified":1449013271,
+    "wof:name":"Parrish Creek Veterinary Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-111.879997,40.918098,-111.879997,40.918098],
+  "geometry": {"coordinates":[-111.879997,40.918098],"type":"Point"}
+}

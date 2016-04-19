@@ -1,0 +1,68 @@
+{
+  "id": 404195721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.104585,40.563968,-112.104585,40.563968",
+    "geom:latitude":40.563968,
+    "geom:longitude":-112.104585,
+    "iso:country":"US",
+    "sg:address":"245 W State Hwy",
+    "sg:city":"Wendover",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 665 2283",
+    "sg:postcode":"84006",
+    "sg:province":"UT",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728247,
+        102082877,
+        85813417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NrM5xuygjCF16zh2gRNve_40.563968_-112.104585@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0746ae158e3c25baf8849d8031118665",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728247,
+            "neighbourhood_id":85813417,
+            "region_id":85688567,
+            "venue_id":404195721
+        }
+    ],
+    "wof:id":404195721,
+    "wof:lastmodified":1449039927,
+    "wof:name":"Keybank",
+    "wof:parent_id":85813417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [-112.104585,40.563968,-112.104585,40.563968],
+  "geometry": {"coordinates":[-112.104585,40.563968],"type":"Point"}
+}

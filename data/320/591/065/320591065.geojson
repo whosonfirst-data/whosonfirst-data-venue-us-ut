@@ -1,0 +1,70 @@
+{
+  "id": 320591065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.950316,40.842085,-111.950316,40.842085",
+    "geom:latitude":40.842085,
+    "geom:longitude":-111.950316,
+    "iso:country":"US",
+    "sg:address":"1375 W Center St",
+    "sg:city":"North Salt Lake",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 936 0555",
+    "sg:postcode":"84054",
+    "sg:province":"UT",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727887,
+        102083563,
+        85848919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lUJCARKPguI1U2qX4wYyf_40.842085_-111.950316@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"436a6d8178d8ed72b9362a599ad49a0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727887,
+            "neighbourhood_id":85848919,
+            "region_id":85688567,
+            "venue_id":320591065
+        }
+    ],
+    "wof:id":320591065,
+    "wof:lastmodified":1449013261,
+    "wof:name":"Legacy Prep",
+    "wof:parent_id":85848919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [-111.950316,40.842085,-111.950316,40.842085],
+  "geometry": {"coordinates":[-111.950316,40.842085],"type":"Point"}
+}

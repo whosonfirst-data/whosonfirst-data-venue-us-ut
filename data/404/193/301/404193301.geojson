@@ -1,0 +1,68 @@
+{
+  "id": 404193301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.859178,40.631177,-111.859178,40.631177",
+    "geom:latitude":40.631177,
+    "geom:longitude":-111.859178,
+    "iso:country":"US",
+    "sg:address":"1170 E 6600 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 264 9583",
+    "sg:postcode":"84121",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728069,
+        102082877,
+        85802555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dMm57YCyFzqm82sF6QWV1_40.631177_-111.859178@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f59090e38abb9a4be1cd0ebdd765f565",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85802555,
+            "region_id":85688567,
+            "venue_id":404193301
+        }
+    ],
+    "wof:id":404193301,
+    "wof:lastmodified":1449039210,
+    "wof:name":"Rema",
+    "wof:parent_id":85802555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [-111.859178,40.631177,-111.859178,40.631177],
+  "geometry": {"coordinates":[-111.859178,40.631177],"type":"Point"}
+}

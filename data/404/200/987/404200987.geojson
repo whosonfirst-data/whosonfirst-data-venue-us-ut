@@ -1,0 +1,68 @@
+{
+  "id": 404200987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.868764,40.529083,-111.868764,40.529083",
+    "geom:latitude":40.529083,
+    "geom:longitude":-111.868764,
+    "iso:country":"US",
+    "sg:address":"12114 S 800 E",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 571 8326",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727849,
+        102082877,
+        85815193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZtkXEz7Vz8qlw2mB5vspc_40.529083_-111.868764@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8babaa0c9243e5e815c9dfe098761306",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85815193,
+            "region_id":85688567,
+            "venue_id":404200987
+        }
+    ],
+    "wof:id":404200987,
+    "wof:lastmodified":1449039517,
+    "wof:name":"A-Aabbsolute Plumbing",
+    "wof:parent_id":85815193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [-111.868764,40.529083,-111.868764,40.529083],
+  "geometry": {"coordinates":[-111.868764,40.529083],"type":"Point"}
+}

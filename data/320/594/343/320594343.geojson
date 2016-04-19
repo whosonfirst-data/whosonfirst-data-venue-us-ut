@@ -1,0 +1,80 @@
+{
+  "id": 320594343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.873559,40.579432,-111.873559,40.579432",
+    "geom:latitude":40.579432,
+    "geom:longitude":-111.873559,
+    "iso:country":"US",
+    "sg:address":"9460 Union Sq Ste 102",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 523 1661",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "grooming",
+        "furnishing",
+        "dog",
+        "store",
+        "cat"
+    ],
+    "sg:website":"http://www.apetschoicegrooming.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728077,
+        102082877,
+        85854667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LKlccOGXBdW8YPrmv1NvY_40.579432_-111.873559@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"28938acb4f408d2965386d7f29dd6ae1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85854667,
+            "region_id":85688567,
+            "venue_id":320594343
+        }
+    ],
+    "wof:id":320594343,
+    "wof:lastmodified":1449011791,
+    "wof:name":"\"A \" Pet's Choice Dog Grooming Salon",
+    "wof:parent_id":85854667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grooming",
+        "furnishing",
+        "dog",
+        "store",
+        "cat"
+    ]
+},
+  "bbox": [-111.873559,40.579432,-111.873559,40.579432],
+  "geometry": {"coordinates":[-111.873559,40.579432],"type":"Point"}
+}

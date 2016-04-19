@@ -1,0 +1,67 @@
+{
+  "id": 320590533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.92871,40.853347,-111.92871,40.853347",
+    "geom:latitude":40.853347,
+    "geom:longitude":-111.92871,
+    "iso:country":"US",
+    "sg:address":"639 N 700 W",
+    "sg:city":"North Salt Lake",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 397 1020",
+    "sg:postcode":"84054",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrician"
+    ],
+    "sg:website":"www.hawkelectric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727887,
+        102083563,
+        85848919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2INMzmTxro5QT7mqCR1w5C_40.853347_-111.928710@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"41e15b50010eca1f6cd2755a83cbf568",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727887,
+            "neighbourhood_id":85848919,
+            "region_id":85688567,
+            "venue_id":320590533
+        }
+    ],
+    "wof:id":320590533,
+    "wof:lastmodified":1449013481,
+    "wof:name":"Hawk Electric Inc",
+    "wof:parent_id":85848919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [-111.92871,40.853347,-111.92871,40.853347],
+  "geometry": {"coordinates":[-111.92871,40.853347],"type":"Point"}
+}

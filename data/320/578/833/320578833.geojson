@@ -1,0 +1,68 @@
+{
+  "id": 320578833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.878994,40.91645,-111.878994,40.91645",
+    "geom:latitude":40.91645,
+    "geom:longitude":-111.878994,
+    "iso:country":"US",
+    "sg:address":"134 S Main St",
+    "sg:city":"Centerville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 292 5172",
+    "sg:postcode":"84014",
+    "sg:province":"UT",
+    "sg:tags":[
+        "surgeon",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727879,
+        102083563,
+        85842111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lDMf02OaZtusD3nMPLqZN_40.916450_-111.878994@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b4e8d48cc7e36e4e0a1d28d976379ac5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727879,
+            "neighbourhood_id":85842111,
+            "region_id":85688567,
+            "venue_id":320578833
+        }
+    ],
+    "wof:id":320578833,
+    "wof:lastmodified":1449012201,
+    "wof:name":"Huffaker Todd B DDS",
+    "wof:parent_id":85842111,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "oral"
+    ]
+},
+  "bbox": [-111.878994,40.91645,-111.878994,40.91645],
+  "geometry": {"coordinates":[-111.878994,40.91645],"type":"Point"}
+}

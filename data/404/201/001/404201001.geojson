@@ -1,0 +1,75 @@
+{
+  "id": 404201001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.568557,39.352387,-112.568557,39.352387",
+    "geom:latitude":39.352387,
+    "geom:longitude":-112.568557,
+    "iso:country":"US",
+    "sg:address":"279 E Main St",
+    "sg:city":"Delta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 864 3348",
+    "sg:postcode":"84624",
+    "sg:province":"UT",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727799,
+        102083537
+    ],
+    "wof:brand_id":420573755,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HUuR6OnSOI9o63ArJMO7g_39.352387_-112.568557@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a29d3dec4a340b7e61bb50766417671b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083537,
+            "locality_id":101727799,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":404201001
+        }
+    ],
+    "wof:id":404201001,
+    "wof:lastmodified":1457207085,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -112.568557,
+    39.352387,
+    -112.568557,
+    39.352387
+],
+  "geometry": {"coordinates":[-112.568557,39.352387],"type":"Point"}
+}

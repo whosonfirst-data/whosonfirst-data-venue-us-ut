@@ -1,0 +1,67 @@
+{
+  "id": 320590937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.913479,40.850775,-111.913479,40.850775",
+    "geom:latitude":40.850775,
+    "geom:longitude":-111.913479,
+    "iso:country":"US",
+    "sg:address":"505 N Main St",
+    "sg:city":"North Salt Lake",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 299 1900",
+    "sg:postcode":"84054",
+    "sg:province":"UT",
+    "sg:tags":[
+        "local"
+    ],
+    "sg:website":"www.envirocarehazmat.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727895,
+        102083563,
+        85857749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yos33pRBbt15BPttUm3yQ_40.850775_-111.913479@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0e17e02b244e6409715dfee875b12b49",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727895,
+            "neighbourhood_id":85857749,
+            "region_id":85688567,
+            "venue_id":320590937
+        }
+    ],
+    "wof:id":320590937,
+    "wof:lastmodified":1449013481,
+    "wof:name":"Enviro Care",
+    "wof:parent_id":85857749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local"
+    ]
+},
+  "bbox": [-111.913479,40.850775,-111.913479,40.850775],
+  "geometry": {"coordinates":[-111.913479,40.850775],"type":"Point"}
+}

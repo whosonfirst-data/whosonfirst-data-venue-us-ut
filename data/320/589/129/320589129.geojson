@@ -1,0 +1,75 @@
+{
+  "id": 320589129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.899421,40.860913,-111.899421,40.860913",
+    "geom:latitude":40.860913,
+    "geom:longitude":-111.899421,
+    "iso:country":"US",
+    "sg:address":"1075 N 500 E",
+    "sg:city":"North Salt Lake",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 383 3838",
+    "sg:postcode":"84054",
+    "sg:province":"UT",
+    "sg:tags":[
+        "nursery",
+        "gardening",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727881,
+        102083563,
+        85835391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eD4ILcUtcAbgluLDvaqeK_40.860913_-111.899421@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c0847737bc8e7bd4835e117832cda7f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727881,
+            "neighbourhood_id":85835391,
+            "region_id":85688567,
+            "venue_id":320589129
+        }
+    ],
+    "wof:id":320589129,
+    "wof:lastmodified":1449013257,
+    "wof:name":"South Fork Hardware Nsl",
+    "wof:parent_id":85835391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursery",
+        "gardening",
+        "store"
+    ]
+},
+  "bbox": [-111.899421,40.860913,-111.899421,40.860913],
+  "geometry": {"coordinates":[-111.899421,40.860913],"type":"Point"}
+}

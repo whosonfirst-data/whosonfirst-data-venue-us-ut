@@ -1,0 +1,78 @@
+{
+  "id": 320583793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.884088,40.526767,-111.884088,40.526767",
+    "geom:latitude":40.526767,
+    "geom:longitude":-111.884088,
+    "iso:country":"US",
+    "sg:address":"213 E 12300 S",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 495 2739",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727849,
+        102082877,
+        85823005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27PvLfY6j8hWO0xz7nXnZd_40.526767_-111.884088@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a54a649a5a66c62ab5dd2d761498b639",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85823005,
+            "region_id":85688567,
+            "venue_id":320583793
+        }
+    ],
+    "wof:id":320583793,
+    "wof:lastmodified":1449014180,
+    "wof:name":"Beans & Brews",
+    "wof:parent_id":85823005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "espresso"
+    ]
+},
+  "bbox": [-111.884088,40.526767,-111.884088,40.526767],
+  "geometry": {"coordinates":[-111.884088,40.526767],"type":"Point"}
+}

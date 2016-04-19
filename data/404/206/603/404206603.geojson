@@ -1,0 +1,71 @@
+{
+  "id": 404206603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.888164,40.679892,-111.888164,40.679892",
+    "geom:latitude":40.679892,
+    "geom:longitude":-111.888164,
+    "iso:country":"US",
+    "sg:address":"4203 S State St",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 269 8333",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:tags":[
+        "scooter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728069,
+        102082877,
+        85822329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3msmHWl2KXFtcIKrQbapdd_40.679892_-111.888164@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"be989c991d17ebacd6beaf4229e4a07d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85822329,
+            "region_id":85688567,
+            "venue_id":404206603
+        }
+    ],
+    "wof:id":404206603,
+    "wof:lastmodified":1449039952,
+    "wof:name":"Cycle House",
+    "wof:parent_id":85822329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter"
+    ]
+},
+  "bbox": [-111.888164,40.679892,-111.888164,40.679892],
+  "geometry": {"coordinates":[-111.888164,40.679892],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 320559421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.879997,40.884499,-111.879997,40.884499",
+    "geom:latitude":40.884499,
+    "geom:longitude":-111.879997,
+    "iso:country":"US",
+    "sg:address":"491 S Main St",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 292 1474",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "sg:tags":[
+        "photography",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727881,
+        102083563,
+        85807249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1k6KuqmFZ3wV3WvgAuTGft_40.884499_-111.879997@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"745d21b5bae8ebf137a8dd6602107934",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727881,
+            "neighbourhood_id":85807249,
+            "region_id":85688567,
+            "venue_id":320559421
+        }
+    ],
+    "wof:id":320559421,
+    "wof:lastmodified":1449014149,
+    "wof:name":"Inkley's",
+    "wof:parent_id":85807249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photography",
+        "store"
+    ]
+},
+  "bbox": [-111.879997,40.884499,-111.879997,40.884499],
+  "geometry": {"coordinates":[-111.879997,40.884499],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 404203173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.970843,41.204591,-111.970843,41.204591",
+    "geom:latitude":41.204591,
+    "geom:longitude":-111.970843,
+    "iso:country":"US",
+    "sg:address":"3200 Washington Blvd",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 392 0870",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "personal",
+        "truck",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728033,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qDxyG4jFuYo897oQ20OlI_41.204591_-111.970843@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c4ef6628805910047a0a7f95825624d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":404203173
+        }
+    ],
+    "wof:id":404203173,
+    "wof:lastmodified":1449039548,
+    "wof:name":"Gary Service & Uhaul",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "truck",
+        "utility"
+    ]
+},
+  "bbox": [-111.970843,41.204591,-111.970843,41.204591],
+  "geometry": {"coordinates":[-111.970843,41.204591],"type":"Point"}
+}

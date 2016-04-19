@@ -1,0 +1,68 @@
+{
+  "id": 404203163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.832986,41.768973,-111.832986,41.768973",
+    "geom:latitude":41.768973,
+    "geom:longitude":-111.832986,
+    "iso:country":"US",
+    "sg:address":"55 E 2000 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 755 9997",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KYvkW0ZwFoy4Muahxfqlv_41.768973_-111.832986@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f1477293ef3bde0dcc5f0a7bb750de71",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":404203163
+        }
+    ],
+    "wof:id":404203163,
+    "wof:lastmodified":1449039549,
+    "wof:name":"Tunex",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-111.832986,41.768973,-111.832986,41.768973],
+  "geometry": {"coordinates":[-111.832986,41.768973],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 404213909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.015874,41.503129,-112.015874,41.503129",
+    "geom:latitude":41.503129,
+    "geom:longitude":-112.015874,
+    "iso:country":"US",
+    "sg:address":"301 S Main St",
+    "sg:city":"Brigham City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 734 1922",
+    "sg:postcode":"84302",
+    "sg:province":"UT",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727723,
+        102080861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sxYOVTCWkqPO75pfbt4yt_41.503129_-112.015874@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0885abac15899998277eba742772b4eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102080861,
+            "locality_id":101727723,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":404213909
+        }
+    ],
+    "wof:id":404213909,
+    "wof:lastmodified":1449039100,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [-112.015874,41.503129,-112.015874,41.503129],
+  "geometry": {"coordinates":[-112.015874,41.503129],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 320584129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.866253,40.527106,-111.866253,40.527106",
+    "geom:latitude":40.527106,
+    "geom:longitude":-111.866253,
+    "iso:country":"US",
+    "sg:address":"12256 S 900 E Ste 403",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 619 9494",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "good",
+        "optical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727849,
+        102082877,
+        85815193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HgvYzfF6kyudGNhpAQZwo_40.527106_-111.866253@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"113f586cb9523045d47224963ad121ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85815193,
+            "region_id":85688567,
+            "venue_id":320584129
+        }
+    ],
+    "wof:id":320584129,
+    "wof:lastmodified":1449011654,
+    "wof:name":"Draper Vision Ctr",
+    "wof:parent_id":85815193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "good",
+        "optical"
+    ]
+},
+  "bbox": [-111.866253,40.527106,-111.866253,40.527106],
+  "geometry": {"coordinates":[-111.866253,40.527106],"type":"Point"}
+}

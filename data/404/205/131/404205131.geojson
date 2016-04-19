@@ -1,0 +1,66 @@
+{
+  "id": 404205131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.900598,40.620609,-111.900598,40.620609",
+    "geom:latitude":40.620609,
+    "geom:longitude":-111.900598,
+    "iso:country":"US",
+    "sg:address":"365 W 7200 S",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 307 3354",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728051,
+        102082877,
+        85851957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49uKJv6Ff7RcTA52Rxaerm_40.620609_-111.900598@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dd2dfa8c918f50177dceda0fc1a41f05",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85851957,
+            "region_id":85688567,
+            "venue_id":404205131
+        }
+    ],
+    "wof:id":404205131,
+    "wof:lastmodified":1449039830,
+    "wof:name":"Gandolfo's New York Deli",
+    "wof:parent_id":85851957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [-111.900598,40.620609,-111.900598,40.620609],
+  "geometry": {"coordinates":[-111.900598,40.620609],"type":"Point"}
+}

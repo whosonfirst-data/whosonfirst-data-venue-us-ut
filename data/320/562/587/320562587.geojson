@@ -1,0 +1,66 @@
+{
+  "id": 320562587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.888028,40.905851,-111.888028,40.905851",
+    "geom:latitude":40.905851,
+    "geom:longitude":-111.888028,
+    "iso:country":"US",
+    "sg:address":"1541 S 300 W",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 652 0748",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repair"
+    ],
+    "sg:website":"www.acmeroadrunner.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727881,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5u9T6zRautNLz2VOCaIcmQ_40.905851_-111.888028@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"44fd314f29494da4c0374431fb4f8158",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727881,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320562587
+        }
+    ],
+    "wof:id":320562587,
+    "wof:lastmodified":1449013239,
+    "wof:name":"Acme Heating & Air Conditioning",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [-111.888028,40.905851,-111.888028,40.905851],
+  "geometry": {"coordinates":[-111.888028,40.905851],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 404195999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.962797,40.639225,-111.962797,40.639225",
+    "geom:latitude":40.639225,
+    "geom:longitude":-111.962797,
+    "iso:country":"US",
+    "sg:address":"6108 Don Leone Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 955 4949",
+    "sg:postcode":"84118",
+    "sg:province":"UT",
+    "sg:tags":[
+        "alarm"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728059,
+        102082877,
+        85848647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62pmUo66o7QfmcS6OlzZIt_40.639225_-111.962797@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"81bd2b250607c8b4eeb61ade3d4d18fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728059,
+            "neighbourhood_id":85848647,
+            "region_id":85688567,
+            "venue_id":404195999
+        }
+    ],
+    "wof:id":404195999,
+    "wof:lastmodified":1449039927,
+    "wof:name":"Responselink Of Utah",
+    "wof:parent_id":85848647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alarm"
+    ]
+},
+  "bbox": [-111.962797,40.639225,-111.962797,40.639225],
+  "geometry": {"coordinates":[-111.962797,40.639225],"type":"Point"}
+}

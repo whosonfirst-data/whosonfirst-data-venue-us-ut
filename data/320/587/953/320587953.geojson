@@ -1,0 +1,78 @@
+{
+  "id": 320587953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.890776,40.604436,-111.890776,40.604436",
+    "geom:latitude":40.604436,
+    "geom:longitude":-111.890776,
+    "iso:country":"US",
+    "sg:address":"8090 S State St",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 255 7151",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "sg:tags":[
+        "director",
+        "information",
+        "plans-pre-arranged",
+        "advisory"
+    ],
+    "sg:website":"http://www.goffmortuary.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728051,
+        102082877,
+        85810115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75R7Pp9wfo2NBCKcz6DnUY_40.604436_-111.890776@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b2ca6869124817c608bd8e0de2388a88",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85810115,
+            "region_id":85688567,
+            "venue_id":320587953
+        }
+    ],
+    "wof:id":320587953,
+    "wof:lastmodified":1449012555,
+    "wof:name":"Goff Mortuary",
+    "wof:parent_id":85810115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director",
+        "information",
+        "plans-pre-arranged",
+        "advisory"
+    ]
+},
+  "bbox": [-111.890776,40.604436,-111.890776,40.604436],
+  "geometry": {"coordinates":[-111.890776,40.604436],"type":"Point"}
+}

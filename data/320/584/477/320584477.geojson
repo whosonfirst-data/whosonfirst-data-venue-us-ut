@@ -1,0 +1,72 @@
+{
+  "id": 320584477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.8668,40.491684,-111.8668,40.491684",
+    "geom:latitude":40.491684,
+    "geom:longitude":-111.8668,
+    "iso:country":"US",
+    "sg:address":"854 Rocky Mouth Ln",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 403 0959",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727849,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56CX1tl3nPGhnYgL6z7cVF_40.491684_-111.866800@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fd576935bb93480b182679dd6b718b2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320584477
+        }
+    ],
+    "wof:id":320584477,
+    "wof:lastmodified":1449011651,
+    "wof:name":"Northstar Realty",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [-111.8668,40.491684,-111.8668,40.491684],
+  "geometry": {"coordinates":[-111.8668,40.491684],"type":"Point"}
+}

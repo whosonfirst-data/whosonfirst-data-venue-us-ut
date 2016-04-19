@@ -1,0 +1,67 @@
+{
+  "id": 320589427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.929447,40.848934,-111.929447,40.848934",
+    "geom:latitude":40.848934,
+    "geom:longitude":-111.929447,
+    "iso:country":"US",
+    "sg:address":"420 N Redwood Rd",
+    "sg:city":"North Salt Lake",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 294 3384",
+    "sg:postcode":"84054",
+    "sg:province":"UT",
+    "sg:tags":[
+        "sandwich"
+    ],
+    "sg:website":"www.quiznos.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727895,
+        102083563,
+        85857749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07NZGFip0FdMe9kBegZFRR_40.848934_-111.929447@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ce12a8beb4c6a340681c8b209448e63f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727895,
+            "neighbourhood_id":85857749,
+            "region_id":85688567,
+            "venue_id":320589427
+        }
+    ],
+    "wof:id":320589427,
+    "wof:lastmodified":1449013256,
+    "wof:name":"Quiznos Subs",
+    "wof:parent_id":85857749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich"
+    ]
+},
+  "bbox": [-111.929447,40.848934,-111.929447,40.848934],
+  "geometry": {"coordinates":[-111.929447,40.848934],"type":"Point"}
+}

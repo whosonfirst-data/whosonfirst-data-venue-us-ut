@@ -1,0 +1,78 @@
+{
+  "id": 404192339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.89429,40.572253,-111.89429,40.572253",
+    "geom:latitude":40.572253,
+    "geom:longitude":-111.89429,
+    "iso:country":"US",
+    "sg:address":"150 Civic Center Dr",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 972 0304",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "recycling",
+        "metal",
+        "center",
+        "ferrous"
+    ],
+    "sg:website":"www.wmrecycling.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728077,
+        102082877,
+        85835551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LBPLFg5wSWCCOKLScMAUz_40.572253_-111.894290@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"660877410ea43b9ac8761afe88300e50",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85835551,
+            "region_id":85688567,
+            "venue_id":404192339
+        }
+    ],
+    "wof:id":404192339,
+    "wof:lastmodified":1449039978,
+    "wof:name":"Western Metals Recycling LLC",
+    "wof:parent_id":85835551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "metal",
+        "center",
+        "ferrous"
+    ]
+},
+  "bbox": [-111.89429,40.572253,-111.89429,40.572253],
+  "geometry": {"coordinates":[-111.89429,40.572253],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 404196853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.849546,40.696408,-111.849546,40.696408",
+    "geom:latitude":40.696408,
+    "geom:longitude":-111.849546,
+    "iso:country":"US",
+    "sg:address":"3450 Highland Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 746 0208",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728257,
+        102082877,
+        85832079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EWbeT5UHmPNErioLq4GPm_40.696408_-111.849546@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ab07dafe3e3e5f9ced6b8e145a955ac1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85832079,
+            "region_id":85688567,
+            "venue_id":404196853
+        }
+    ],
+    "wof:id":404196853,
+    "wof:lastmodified":1449039320,
+    "wof:name":"Orthopro",
+    "wof:parent_id":85832079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-111.849546,40.696408,-111.849546,40.696408],
+  "geometry": {"coordinates":[-111.849546,40.696408],"type":"Point"}
+}

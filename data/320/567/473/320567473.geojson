@@ -1,0 +1,67 @@
+{
+  "id": 320567473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.892998,40.882999,-111.892998,40.882999",
+    "geom:latitude":40.882999,
+    "geom:longitude":-111.892998,
+    "iso:country":"US",
+    "sg:address":"530 W 600 S",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 292 6260",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727881,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2528CBkgySUQqEcUvSsnk0_40.882999_-111.892998@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ecff634f7ef85a884e8c4bb1358cfc39",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727881,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320567473
+        }
+    ],
+    "wof:id":320567473,
+    "wof:lastmodified":1449014996,
+    "wof:name":"Marque Body & Paint",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [-111.892998,40.882999,-111.892998,40.882999],
+  "geometry": {"coordinates":[-111.892998,40.882999],"type":"Point"}
+}

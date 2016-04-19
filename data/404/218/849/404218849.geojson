@@ -1,0 +1,66 @@
+{
+  "id": 404218849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.002835,40.652724,-112.002835,40.652724",
+    "geom:latitude":40.652724,
+    "geom:longitude":-112.002835,
+    "iso:country":"US",
+    "sg:address":"4703 W 5415 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 969 0956",
+    "sg:postcode":"84118",
+    "sg:province":"UT",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728253,
+        102082877,
+        85833393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46qUptlY6n0ClPnPuke1zw_40.652724_-112.002835@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8cd30b681a9e8a06f02ea199f813b871",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728253,
+            "neighbourhood_id":85833393,
+            "region_id":85688567,
+            "venue_id":404218849
+        }
+    ],
+    "wof:id":404218849,
+    "wof:lastmodified":1449039892,
+    "wof:name":"LA Placita Market",
+    "wof:parent_id":85833393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [-112.002835,40.652724,-112.002835,40.652724],
+  "geometry": {"coordinates":[-112.002835,40.652724],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 320587331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.851767,40.3878,-111.851767,40.3878",
+    "geom:latitude":40.3878,
+    "geom:longitude":-111.851767,
+    "iso:country":"US",
+    "sg:address":"169 W Main St",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 768 1020",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        102083567,
+        85858273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rpjcoYqgFIBw30ryhWmCR_40.387800_-111.851767@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ce9e792531d68f1eb60c0c56421f9391",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":-1,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":320587331
+        }
+    ],
+    "wof:id":320587331,
+    "wof:lastmodified":1449012555,
+    "wof:name":"Hot Papas",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "espresso"
+    ]
+},
+  "bbox": [-111.851767,40.3878,-111.851767,40.3878],
+  "geometry": {"coordinates":[-111.851767,40.3878],"type":"Point"}
+}

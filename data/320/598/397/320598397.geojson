@@ -1,0 +1,72 @@
+{
+  "id": 320598397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.854885,40.533009,-111.854885,40.533009",
+    "geom:latitude":40.533009,
+    "geom:longitude":-111.854885,
+    "iso:country":"US",
+    "sg:address":"1274 Sage Ridge Rd",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 576 1513",
+    "sg:postcode":"84094",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728077,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12dZXQq9Tv5W5vkb75Snrv_40.533009_-111.854885@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"19c03bdd4ec6fbc3103aefb93b96105b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320598397
+        }
+    ],
+    "wof:id":320598397,
+    "wof:lastmodified":1449011445,
+    "wof:name":"Mission Espresso",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "espresso"
+    ]
+},
+  "bbox": [-111.854885,40.533009,-111.854885,40.533009],
+  "geometry": {"coordinates":[-111.854885,40.533009],"type":"Point"}
+}

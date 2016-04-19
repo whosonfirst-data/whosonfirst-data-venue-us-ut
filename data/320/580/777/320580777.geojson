@@ -1,0 +1,61 @@
+{
+  "id": 320580777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.875187,40.933925,-111.875187,40.933925",
+    "geom:latitude":40.933925,
+    "geom:longitude":-111.875187,
+    "iso:country":"US",
+    "sg:address":"1334 N 200 E",
+    "sg:city":"Centerville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 294 9885",
+    "sg:postcode":"84014",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727879,
+        102083563,
+        85809721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YH0b2h9CZ3ZT9CHoEthXJ_40.933925_-111.875187@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4d8e3b7c3759efc8b7657f5b90ccd2b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727879,
+            "neighbourhood_id":85809721,
+            "region_id":85688567,
+            "venue_id":320580777
+        }
+    ],
+    "wof:id":320580777,
+    "wof:lastmodified":1449013789,
+    "wof:name":"Airbag Service",
+    "wof:parent_id":85809721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-111.875187,40.933925,-111.875187,40.933925],
+  "geometry": {"coordinates":[-111.875187,40.933925],"type":"Point"}
+}

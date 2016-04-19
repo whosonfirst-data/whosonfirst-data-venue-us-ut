@@ -1,0 +1,65 @@
+{
+  "id": 404200133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.85879,40.525245,-111.85879,40.525245",
+    "geom:latitude":40.525245,
+    "geom:longitude":-111.85879,
+    "iso:country":"US",
+    "sg:address":"1020 Pioneer Rd",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 576 6518",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727849,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IjTzzgSKPoDsfOwCp9Fay_40.525245_-111.858790@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6bc22fb392051720fd8ec378656309e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":404200133
+        }
+    ],
+    "wof:id":404200133,
+    "wof:lastmodified":1449039518,
+    "wof:name":"Draper City Manager",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [-111.85879,40.525245,-111.85879,40.525245],
+  "geometry": {"coordinates":[-111.85879,40.525245],"type":"Point"}
+}

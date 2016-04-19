@@ -1,0 +1,65 @@
+{
+  "id": 404217209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.807394,40.371269,-111.807394,40.371269",
+    "geom:latitude":40.371269,
+    "geom:longitude":-111.807394,
+    "iso:country":"US",
+    "sg:address":"273 Clegg Cir",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 6700",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        102083567,
+        85858273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02NAxDmrbocVcRJBd4HRGV_40.371269_-111.807394@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5bc658dc1a6c9f0a7528e267ef8001c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":-1,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":404217209
+        }
+    ],
+    "wof:id":404217209,
+    "wof:lastmodified":1449040272,
+    "wof:name":"Olson Appliance Service",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [-111.807394,40.371269,-111.807394,40.371269],
+  "geometry": {"coordinates":[-111.807394,40.371269],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 320565931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.880662,40.884673,-111.880662,40.884673",
+    "geom:latitude":40.884673,
+    "geom:longitude":-111.880662,
+    "iso:country":"US",
+    "sg:address":"463 S Main St",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 295 5787",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "sg:tags":[
+        "frozen",
+        "yogurt"
+    ],
+    "sg:website":"www.yogurtstop.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727881,
+        102083563,
+        85807249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BOrQ80CLZktL3gYECUgFB_40.884673_-111.880662@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"73aef4815968af91865b0bf135343df1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727881,
+            "neighbourhood_id":85807249,
+            "region_id":85688567,
+            "venue_id":320565931
+        }
+    ],
+    "wof:id":320565931,
+    "wof:lastmodified":1449014632,
+    "wof:name":"Yogurt Stop",
+    "wof:parent_id":85807249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "yogurt"
+    ]
+},
+  "bbox": [-111.880662,40.884673,-111.880662,40.884673],
+  "geometry": {"coordinates":[-111.880662,40.884673],"type":"Point"}
+}

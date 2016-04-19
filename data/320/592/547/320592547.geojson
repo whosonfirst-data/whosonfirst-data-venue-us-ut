@@ -1,0 +1,76 @@
+{
+  "id": 320592547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.703149,40.315711,-111.703149,40.315711",
+    "geom:latitude":40.315711,
+    "geom:longitude":-111.703149,
+    "iso:country":"US",
+    "sg:address":"1000 N State St",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 2951",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "truck",
+        "leasing",
+        "car"
+    ],
+    "sg:website":"http://www.enterprise.com/car_rental/deeplinkmap.do?gpbr=4750&bid=004&cnty=US&arc=YPTRL01&cm_mmc=Yellowpages.com-_-IYP-_-Tradelisting-_-branch",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Lq9Yp1AapTn1pNxqVttpA_40.315711_-111.703149@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1e431a83c342eab7ec07a3f79ec63b13",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":320592547
+        }
+    ],
+    "wof:id":320592547,
+    "wof:lastmodified":1449013404,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "leasing",
+        "car"
+    ]
+},
+  "bbox": [-111.703149,40.315711,-111.703149,40.315711],
+  "geometry": {"coordinates":[-111.703149,40.315711],"type":"Point"}
+}

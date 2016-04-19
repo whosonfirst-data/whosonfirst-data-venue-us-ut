@@ -1,0 +1,66 @@
+{
+  "id": 320597665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.837471,40.580426,-111.837471,40.580426",
+    "geom:latitude":40.580426,
+    "geom:longitude":-111.837471,
+    "iso:country":"US",
+    "sg:address":"1902 E 9400 S",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 676 4321",
+    "sg:postcode":"84093",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mexican"
+    ],
+    "sg:website":"http://www.bajiogrill.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728077,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EWwmMPfL97fl5YNbEhI4J_40.580426_-111.837471@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"29aadd391e33836ca2aeeb704f51c9f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320597665
+        }
+    ],
+    "wof:id":320597665,
+    "wof:lastmodified":1449014914,
+    "wof:name":"Bajio Mexican Grill",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [-111.837471,40.580426,-111.837471,40.580426],
+  "geometry": {"coordinates":[-111.837471,40.580426],"type":"Point"}
+}

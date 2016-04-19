@@ -1,0 +1,66 @@
+{
+  "id": 404215103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.93151,40.518773,-111.93151,40.518773",
+    "geom:latitude":40.518773,
+    "geom:longitude":-111.93151,
+    "iso:country":"US",
+    "sg:address":"1400 W 12800 S",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 254 0167",
+    "sg:postcode":"84065",
+    "sg:province":"UT",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727849,
+        102082877,
+        85817559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YVwmusVWXk26UbhCjlOSm_40.518773_-111.931510@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"15b0c07f1e840823ca128282228f6c1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85817559,
+            "region_id":85688567,
+            "venue_id":404215103
+        }
+    ],
+    "wof:id":404215103,
+    "wof:lastmodified":1449040091,
+    "wof:name":"Salt Lake County Sheriff Ptrl",
+    "wof:parent_id":85817559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [-111.93151,40.518773,-111.93151,40.518773],
+  "geometry": {"coordinates":[-111.93151,40.518773],"type":"Point"}
+}

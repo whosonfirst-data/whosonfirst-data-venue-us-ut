@@ -1,0 +1,70 @@
+{
+  "id": 404216521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.895996,40.487638,-111.895996,40.487638",
+    "geom:latitude":40.487638,
+    "geom:longitude":-111.895996,
+    "iso:country":"US",
+    "sg:address":"14400 Pony Express Rd",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 572 7891",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "govt",
+        "city",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727849,
+        102082877,
+        85815185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gI6lyarVPAeQo05XpCFbS_40.487638_-111.895996@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"98ee04844418d59afd22ee80b949c69c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85815185,
+            "region_id":85688567,
+            "venue_id":404216521
+        }
+    ],
+    "wof:id":404216521,
+    "wof:lastmodified":1449040186,
+    "wof:name":"Tei-E-Matic",
+    "wof:parent_id":85815185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "city",
+        "institution"
+    ]
+},
+  "bbox": [-111.895996,40.487638,-111.895996,40.487638],
+  "geometry": {"coordinates":[-111.895996,40.487638],"type":"Point"}
+}

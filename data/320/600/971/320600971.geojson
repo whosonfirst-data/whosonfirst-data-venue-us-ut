@@ -1,0 +1,74 @@
+{
+  "id": 320600971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.603751,40.161037,-111.603751,40.161037",
+    "geom:latitude":40.161037,
+    "geom:longitude":-111.603751,
+    "iso:country":"US",
+    "sg:address":"374 E 400 S Ste 3",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 375 7673",
+    "sg:postcode":"84663",
+    "sg:province":"UT",
+    "sg:tags":[
+        "physician",
+        "reconstructive",
+        "surgeons",
+        "surgeon",
+        "plastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727829,
+        102083567,
+        85880117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zNPK1qXZT5EYxyJiKHYtZ_40.161037_-111.603751@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"608367e3511272c01aac2121422ab8f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727829,
+            "neighbourhood_id":85880117,
+            "region_id":85688567,
+            "venue_id":320600971
+        }
+    ],
+    "wof:id":320600971,
+    "wof:lastmodified":1449011577,
+    "wof:name":"Rose Clinic For Plastic",
+    "wof:parent_id":85880117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "reconstructive",
+        "surgeons",
+        "surgeon",
+        "plastic"
+    ]
+},
+  "bbox": [-111.603751,40.161037,-111.603751,40.161037],
+  "geometry": {"coordinates":[-111.603751,40.161037],"type":"Point"}
+}

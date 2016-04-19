@@ -1,0 +1,85 @@
+{
+  "id": 320583705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.026047,41.120293,-112.026047,41.120293",
+    "geom:latitude":41.120293,
+    "geom:longitude":-112.026047,
+    "iso:country":"US",
+    "sg:address":"466 N Main St Ste 101",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 776 8441",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "physician",
+        "dental",
+        "surgeons",
+        "clinic",
+        "dentists-endodontists",
+        "surgery",
+        "oral",
+        "dentists-orthodontists"
+    ],
+    "sg:website":"http://www.hillsidedentalutah.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        102083563,
+        85851583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1N4wqRja16T9JGhNdcYGRQ_41.120293_-112.026047@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"01b6bb62302763d5b2ef8b937335d2d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":-1,
+            "neighbourhood_id":85851583,
+            "region_id":85688567,
+            "venue_id":320583705
+        }
+    ],
+    "wof:id":320583705,
+    "wof:lastmodified":1449014181,
+    "wof:name":"Hillside Dental Assoc",
+    "wof:parent_id":85851583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "dental",
+        "surgeons",
+        "clinic",
+        "dentists-endodontists",
+        "surgery",
+        "oral",
+        "dentists-orthodontists"
+    ]
+},
+  "bbox": [-112.026047,41.120293,-112.026047,41.120293],
+  "geometry": {"coordinates":[-112.026047,41.120293],"type":"Point"}
+}

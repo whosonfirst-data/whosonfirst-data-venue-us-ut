@@ -1,0 +1,68 @@
+{
+  "id": 404218281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.816693,41.727159,-111.816693,41.727159",
+    "geom:latitude":41.727159,
+    "geom:longitude":-111.816693,
+    "iso:country":"US",
+    "sg:address":"743 Stewart Hill Dr",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 8187",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dTC8Sqv1tfpTd2P5znMA8_41.727159_-111.816693@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"63debb237ea245875b8fd72121eb1008",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":404218281
+        }
+    ],
+    "wof:id":404218281,
+    "wof:lastmodified":1449039897,
+    "wof:name":"Sorensen & Gnehm Construction",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [-111.816693,41.727159,-111.816693,41.727159],
+  "geometry": {"coordinates":[-111.816693,41.727159],"type":"Point"}
+}

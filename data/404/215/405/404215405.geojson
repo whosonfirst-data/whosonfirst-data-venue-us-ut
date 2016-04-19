@@ -1,0 +1,66 @@
+{
+  "id": 404215405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-113.688818,37.167158,-113.688818,37.167158",
+    "geom:latitude":37.167158,
+    "geom:longitude":-113.688818,
+    "iso:country":"US",
+    "sg:address":"60 S 400 W",
+    "sg:city":"Ivins",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 628 1477",
+    "sg:postcode":"84738",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ca3YZ1gIW46k6ZhDMc73k_37.167158_-113.688818@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"afd79e81d327dc14fef7a6c6c6696a8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":404215405
+        }
+    ],
+    "wof:id":404215405,
+    "wof:lastmodified":1449040093,
+    "wof:name":"Boucher Drywall Inc",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [-113.688818,37.167158,-113.688818,37.167158],
+  "geometry": {"coordinates":[-113.688818,37.167158],"type":"Point"}
+}

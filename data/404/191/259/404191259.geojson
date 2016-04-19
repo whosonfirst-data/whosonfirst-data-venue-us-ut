@@ -1,0 +1,68 @@
+{
+  "id": 404191259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.961192,40.581074,-111.961192,40.581074",
+    "geom:latitude":40.581074,
+    "geom:longitude":-111.961192,
+    "iso:country":"US",
+    "sg:address":"2805 Ella St",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 561 0736",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728061,
+        102082877,
+        85854601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fWdco76cGtRs10Shm9Yvs_40.581074_-111.961192@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8f1230ab303bef598bbf8cb714491d95",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85854601,
+            "region_id":85688567,
+            "venue_id":404191259
+        }
+    ],
+    "wof:id":404191259,
+    "wof:lastmodified":1449039839,
+    "wof:name":"Mark Oakes Excavating",
+    "wof:parent_id":85854601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [-111.961192,40.581074,-111.961192,40.581074],
+  "geometry": {"coordinates":[-111.961192,40.581074],"type":"Point"}
+}

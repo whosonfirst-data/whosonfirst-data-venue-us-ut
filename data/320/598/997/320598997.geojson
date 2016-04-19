@@ -1,0 +1,84 @@
+{
+  "id": 320598997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.970451,41.222771,-111.970451,41.222771",
+    "geom:latitude":41.222771,
+    "geom:longitude":-111.970451,
+    "iso:country":"US",
+    "sg:address":"2401 Washington Blvd",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 395 8424",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "club",
+        "style",
+        "cocktail",
+        "family",
+        "night"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728033,
+        102083539,
+        85823385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Bz7LbETAzEyxpMlc1TIAv_41.222771_-111.970451@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ff63f402cb7cfd2f85223088b5c41d17",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85823385,
+            "region_id":85688567,
+            "venue_id":320598997
+        }
+    ],
+    "wof:id":320598997,
+    "wof:lastmodified":1449011448,
+    "wof:name":"Nico's Restaurant",
+    "wof:parent_id":85823385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "style",
+        "cocktail",
+        "family",
+        "night"
+    ]
+},
+  "bbox": [-111.970451,41.222771,-111.970451,41.222771],
+  "geometry": {"coordinates":[-111.970451,41.222771],"type":"Point"}
+}

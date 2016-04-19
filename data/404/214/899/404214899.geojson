@@ -1,0 +1,67 @@
+{
+  "id": 404214899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.869163,40.887041,-111.869163,40.887041",
+    "geom:latitude":40.887041,
+    "geom:longitude":-111.869163,
+    "iso:country":"US",
+    "sg:address":"425 Medical Dr",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 295 3439",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727881,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EtgdTL8HbqjO8d5rq0jFs_40.887041_-111.869163@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"888e202b19b4fb073924ed280a988824",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727881,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":404214899
+        }
+    ],
+    "wof:id":404214899,
+    "wof:lastmodified":1449040293,
+    "wof:name":"Mountain View Pharmacy Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [-111.869163,40.887041,-111.869163,40.887041],
+  "geometry": {"coordinates":[-111.869163,40.887041],"type":"Point"}
+}

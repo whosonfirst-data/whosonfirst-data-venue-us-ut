@@ -1,0 +1,70 @@
+{
+  "id": 320597089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.910004,40.879002,-111.910004,40.879002",
+    "geom:latitude":40.879002,
+    "geom:longitude":-111.910004,
+    "iso:country":"US",
+    "sg:address":"190 S 500",
+    "sg:city":"Woods Cross",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 295 6900",
+    "sg:postcode":"84087",
+    "sg:province":"UT",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727887,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QAM57jOH4QI1OovE2ThhH_40.879002_-111.910004@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"48cb9493fa108778b6605400e1a72c30",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727887,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320597089
+        }
+    ],
+    "wof:id":320597089,
+    "wof:lastmodified":1449014914,
+    "wof:name":"Shopko Pharmacy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [-111.910004,40.879002,-111.910004,40.879002],
+  "geometry": {"coordinates":[-111.910004,40.879002],"type":"Point"}
+}

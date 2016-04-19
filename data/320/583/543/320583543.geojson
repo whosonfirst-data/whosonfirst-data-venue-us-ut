@@ -1,0 +1,67 @@
+{
+  "id": 320583543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.879391,40.913093,-111.879391,40.913093",
+    "geom:latitude":40.913093,
+    "geom:longitude":-111.879391,
+    "iso:country":"US",
+    "sg:address":"26 W Porter Ln",
+    "sg:city":"Centerville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 292 9827",
+    "sg:postcode":"84014",
+    "sg:province":"UT",
+    "sg:website":"http://www.kohls.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727879,
+        102083563
+    ],
+    "wof:brand_id":420575041,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WTp3yUNoeXKcCuerCA67X_40.913093_-111.879391@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"42da813b98e80c688c0c0d2cf006ccf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727879,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320583543
+        }
+    ],
+    "wof:id":320583543,
+    "wof:lastmodified":1457209360,
+    "wof:name":"Kohl's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.879391,
+    40.913093,
+    -111.879391,
+    40.913093
+],
+  "geometry": {"coordinates":[-111.879391,40.913093],"type":"Point"}
+}

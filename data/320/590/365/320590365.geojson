@@ -1,0 +1,71 @@
+{
+  "id": 320590365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.932086,40.852211,-111.932086,40.852211",
+    "geom:latitude":40.852211,
+    "geom:longitude":-111.932086,
+    "iso:country":"US",
+    "sg:address":"575 Cutler Dr",
+    "sg:city":"North Salt Lake",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 936 0318",
+    "sg:postcode":"84054",
+    "sg:province":"UT",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "sg:website":"www.spectrumcharter.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727887,
+        102083563,
+        85848919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fWVbpWkSvCvB1UQdjKoqx_40.852211_-111.932086@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5866d0a144d5c889311a2e67f736f5cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727887,
+            "neighbourhood_id":85848919,
+            "region_id":85688567,
+            "venue_id":320590365
+        }
+    ],
+    "wof:id":320590365,
+    "wof:lastmodified":1449013481,
+    "wof:name":"Spectrum Academy",
+    "wof:parent_id":85848919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [-111.932086,40.852211,-111.932086,40.852211],
+  "geometry": {"coordinates":[-111.932086,40.852211],"type":"Point"}
+}

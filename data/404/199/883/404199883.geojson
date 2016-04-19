@@ -1,0 +1,68 @@
+{
+  "id": 404199883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.883976,40.526828,-111.883976,40.526828",
+    "geom:latitude":40.526828,
+    "geom:longitude":-111.883976,
+    "iso:country":"US",
+    "sg:address":"111 E 12300 S",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 566 4513",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mail",
+        "order"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727849,
+        102082877,
+        85823005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60JWpithrdVzf4s60fuoPZ_40.526828_-111.883976@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b3e1bf7de3f33869d6e160f85ca6fe78",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85823005,
+            "region_id":85688567,
+            "venue_id":404199883
+        }
+    ],
+    "wof:id":404199883,
+    "wof:lastmodified":1449039142,
+    "wof:name":"Cenegenics",
+    "wof:parent_id":85823005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "order"
+    ]
+},
+  "bbox": [-111.883976,40.526828,-111.883976,40.526828],
+  "geometry": {"coordinates":[-111.883976,40.526828],"type":"Point"}
+}

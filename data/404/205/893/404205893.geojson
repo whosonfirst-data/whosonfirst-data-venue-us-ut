@@ -1,0 +1,67 @@
+{
+  "id": 404205893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.480766,40.599985,-112.480766,40.599985",
+    "geom:latitude":40.599985,
+    "geom:longitude":-112.480766,
+    "iso:country":"US",
+    "sg:address":"465 W Main St",
+    "sg:city":"Grantsville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 884 6343",
+    "sg:postcode":"84029",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727965,
+        102086945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18jw4nZssA8W728yHudgAm_40.599985_-112.480766@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"95c9d6e87edc1e9e5f2e9fd56d440d3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086945,
+            "locality_id":101727965,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":404205893
+        }
+    ],
+    "wof:id":404205893,
+    "wof:lastmodified":1449039833,
+    "wof:name":"Coffee Express & Disc Smoke",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [-112.480766,40.599985,-112.480766,40.599985],
+  "geometry": {"coordinates":[-112.480766,40.599985],"type":"Point"}
+}

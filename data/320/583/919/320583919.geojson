@@ -1,0 +1,73 @@
+{
+  "id": 320583919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.898408,40.526779,-111.898408,40.526779",
+    "geom:latitude":40.526779,
+    "geom:longitude":-111.898408,
+    "iso:country":"US",
+    "sg:address":"247 W 12300 S",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 495 9144",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727849,
+        102082877,
+        85823005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5k39c9vzgOwojT80Td8a3w_40.526779_-111.898408@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5dad05a9885a475fa3e34a3277af4643",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85823005,
+            "region_id":85688567,
+            "venue_id":320583919
+        }
+    ],
+    "wof:id":320583919,
+    "wof:lastmodified":1449014181,
+    "wof:name":"Daily Espresso",
+    "wof:parent_id":85823005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "espresso"
+    ]
+},
+  "bbox": [-111.898408,40.526779,-111.898408,40.526779],
+  "geometry": {"coordinates":[-111.898408,40.526779],"type":"Point"}
+}

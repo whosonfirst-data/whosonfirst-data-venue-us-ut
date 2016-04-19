@@ -1,0 +1,65 @@
+{
+  "id": 404202791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-109.5005,40.414428,-109.5005,40.414428",
+    "geom:latitude":40.414428,
+    "geom:longitude":-109.5005,
+    "iso:country":"US",
+    "sg:address":"1420 Weatherby Dr",
+    "sg:city":"Vernal",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 789 9449",
+    "sg:postcode":"84078",
+    "sg:province":"UT",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727931,
+        102083541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2e58GBcaePjutICqfnltQO_40.414428_-109.500500@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"77b1cfee6989e3e908a9b92c5cb6cfe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083541,
+            "locality_id":101727931,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":404202791
+        }
+    ],
+    "wof:id":404202791,
+    "wof:lastmodified":1449040168,
+    "wof:name":"Police Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-109.5005,40.414428,-109.5005,40.414428],
+  "geometry": {"coordinates":[-109.5005,40.414428],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 404197429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.656605,40.282169,-111.656605,40.282169",
+    "geom:latitude":40.282169,
+    "geom:longitude":-111.656605,
+    "iso:country":"US",
+    "sg:address":"3651 N 100 E",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 356 3025",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727863,
+        102083567,
+        85817395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Txo6MDCnUkylOoxYuPITF_40.282169_-111.656605@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b008b86d425f2b2586cec036cdde2f89",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85817395,
+            "region_id":85688567,
+            "venue_id":404197429
+        }
+    ],
+    "wof:id":404197429,
+    "wof:lastmodified":1449040173,
+    "wof:name":"Courtyard Dental",
+    "wof:parent_id":85817395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [-111.656605,40.282169,-111.656605,40.282169],
+  "geometry": {"coordinates":[-111.656605,40.282169],"type":"Point"}
+}

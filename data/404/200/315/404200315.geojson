@@ -1,0 +1,67 @@
+{
+  "id": 404200315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.798622,40.379034,-111.798622,40.379034",
+    "geom:latitude":40.379034,
+    "geom:longitude":-111.798622,
+    "iso:country":"US",
+    "sg:address":"93 N Center St",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 8733",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        102083567,
+        85858273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23Wn6DEshiCq4RD5IATFwT_40.379034_-111.798622@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5e4949f41a4b9069104cb7982e3ec3cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":-1,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":404200315
+        }
+    ],
+    "wof:id":404200315,
+    "wof:lastmodified":1449039520,
+    "wof:name":"Bruco Enterprises Inc",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [-111.798622,40.379034,-111.798622,40.379034],
+  "geometry": {"coordinates":[-111.798622,40.379034],"type":"Point"}
+}

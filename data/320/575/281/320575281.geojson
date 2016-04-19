@@ -1,0 +1,75 @@
+{
+  "id": 320575281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.890737,40.885913,-111.890737,40.885913",
+    "geom:latitude":40.885913,
+    "geom:longitude":-111.890737,
+    "iso:country":"US",
+    "sg:address":"483 W 325 S",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 292 8228",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "sg:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ],
+    "sg:website":"www.camelotpetresort.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727881,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Wplq3eSG44BbmnkPM8v6M_40.885913_-111.890737@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dd842db97a013601252cbce1d318119a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727881,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320575281
+        }
+    ],
+    "wof:id":320575281,
+    "wof:lastmodified":1449012345,
+    "wof:name":"Camelot Pet Resort Spa & Health Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [-111.890737,40.885913,-111.890737,40.885913],
+  "geometry": {"coordinates":[-111.890737,40.885913],"type":"Point"}
+}

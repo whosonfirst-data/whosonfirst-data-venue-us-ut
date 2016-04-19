@@ -1,0 +1,68 @@
+{
+  "id": 320591373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.926003,40.843899,-111.926003,40.843899",
+    "geom:latitude":40.843899,
+    "geom:longitude":-111.926003,
+    "iso:country":"US",
+    "sg:address":"66 N 640 W",
+    "sg:city":"North Salt Lake",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 936 5399",
+    "sg:postcode":"84054",
+    "sg:province":"UT",
+    "sg:tags":[
+        "pizza",
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727895,
+        102083563,
+        85857749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1a4vFVnhdAWqUIukOj9ekp_40.843899_-111.926003@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6f1afba346fb7f163fee52bd4d1f591c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727895,
+            "neighbourhood_id":85857749,
+            "region_id":85688567,
+            "venue_id":320591373
+        }
+    ],
+    "wof:id":320591373,
+    "wof:lastmodified":1449013259,
+    "wof:name":"Tony's & Red Baron Pizza Service",
+    "wof:parent_id":85857749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza",
+        "italian"
+    ]
+},
+  "bbox": [-111.926003,40.843899,-111.926003,40.843899],
+  "geometry": {"coordinates":[-111.926003,40.843899],"type":"Point"}
+}

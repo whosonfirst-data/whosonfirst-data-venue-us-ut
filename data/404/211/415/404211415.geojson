@@ -1,0 +1,66 @@
+{
+  "id": 404211415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.64315,40.225175,-111.64315,40.225175",
+    "geom:latitude":40.225175,
+    "geom:longitude":-111.64315,
+    "iso:country":"US",
+    "sg:address":"610 S State St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 852 6607",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727863,
+        102083567,
+        85880093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5f3a3rtKOC9Uz52tFBDirx_40.225175_-111.643150@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"404824b0374705bea54b005b24f147f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880093,
+            "region_id":85688567,
+            "venue_id":404211415
+        }
+    ],
+    "wof:id":404211415,
+    "wof:lastmodified":1449039342,
+    "wof:name":"Provo Cemetery",
+    "wof:parent_id":85880093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [-111.64315,40.225175,-111.64315,40.225175],
+  "geometry": {"coordinates":[-111.64315,40.225175],"type":"Point"}
+}

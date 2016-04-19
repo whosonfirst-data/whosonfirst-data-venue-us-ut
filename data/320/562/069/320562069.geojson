@@ -1,0 +1,67 @@
+{
+  "id": 320562069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.875,40.875099,-111.875,40.875099",
+    "geom:latitude":40.875099,
+    "geom:longitude":-111.875,
+    "iso:country":"US",
+    "sg:address":"1480 Orchard Dr",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 295 4551",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "sg:tags":[
+        "surgeon",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727881,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nprmrRvRT8QK30AgnwhPX_40.875099_-111.875000@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"937a677075163cba3ec5cff3640d48e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727881,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320562069
+        }
+    ],
+    "wof:id":320562069,
+    "wof:lastmodified":1449013241,
+    "wof:name":"Christensen John J DDS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "oral"
+    ]
+},
+  "bbox": [-111.875,40.875099,-111.875,40.875099],
+  "geometry": {"coordinates":[-111.875,40.875099],"type":"Point"}
+}

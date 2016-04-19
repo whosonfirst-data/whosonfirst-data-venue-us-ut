@@ -1,0 +1,74 @@
+{
+  "id": 320592995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.691318,40.293159,-111.691318,40.293159",
+    "geom:latitude":40.293159,
+    "geom:longitude":-111.691318,
+    "iso:country":"US",
+    "sg:address":"230 S 175 E",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 718 5300",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "glass-wholesale",
+        "shape",
+        "circle",
+        "special",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727865,
+        102083567,
+        85849197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7f4K0sT7b3HS2k61ZArxdx_40.293159_-111.691318@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bbccbc3aab66b989744f206f9da6906e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85849197,
+            "region_id":85688567,
+            "venue_id":320592995
+        }
+    ],
+    "wof:id":320592995,
+    "wof:lastmodified":1449013406,
+    "wof:name":"Broken Glass",
+    "wof:parent_id":85849197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass-wholesale",
+        "shape",
+        "circle",
+        "special",
+        "manufacturer"
+    ]
+},
+  "bbox": [-111.691318,40.293159,-111.691318,40.293159],
+  "geometry": {"coordinates":[-111.691318,40.293159],"type":"Point"}
+}

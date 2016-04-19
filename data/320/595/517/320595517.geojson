@@ -1,0 +1,79 @@
+{
+  "id": 320595517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.899937,40.882397,-111.899937,40.882397",
+    "geom:latitude":40.882397,
+    "geom:longitude":-111.899937,
+    "iso:country":"US",
+    "sg:address":"687 W 700 S",
+    "sg:city":"Woods Cross",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 298 1994",
+    "sg:postcode":"84087",
+    "sg:province":"UT",
+    "sg:tags":[
+        "sandwich",
+        "caterer"
+    ],
+    "sg:website":"www.calsdeli.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727887,
+        102083563,
+        85851805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DOH0VXz0yItMcWejSQRR3_40.882397_-111.899937@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0ae2053931c39875a9cdca4019471318",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727887,
+            "neighbourhood_id":85851805,
+            "region_id":85688567,
+            "venue_id":320595517
+        }
+    ],
+    "wof:id":320595517,
+    "wof:lastmodified":1449014600,
+    "wof:name":"Cal's Deli",
+    "wof:parent_id":85851805,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "caterer"
+    ]
+},
+  "bbox": [-111.899937,40.882397,-111.899937,40.882397],
+  "geometry": {"coordinates":[-111.899937,40.882397],"type":"Point"}
+}

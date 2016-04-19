@@ -1,0 +1,70 @@
+{
+  "id": 404204629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.8925,40.686921,-111.8925,40.686921",
+    "geom:latitude":40.686921,
+    "geom:longitude":-111.8925,
+    "iso:country":"US",
+    "sg:address":"61 W 3900 S",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 284 0200",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:tags":[
+        "govt",
+        "state",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728057,
+        102082877,
+        85810147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XW1dhWPjB0mjIZfIJhixY_40.686921_-111.892500@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"adcb2e2e3c3996cb366c695239bf6728",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85810147,
+            "region_id":85688567,
+            "venue_id":404204629
+        }
+    ],
+    "wof:id":404204629,
+    "wof:lastmodified":1449040351,
+    "wof:name":"Youth Corrections Adm",
+    "wof:parent_id":85810147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "institution"
+    ]
+},
+  "bbox": [-111.8925,40.686921,-111.8925,40.686921],
+  "geometry": {"coordinates":[-111.8925,40.686921],"type":"Point"}
+}

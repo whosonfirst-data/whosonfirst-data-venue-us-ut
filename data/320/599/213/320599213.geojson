@@ -1,0 +1,101 @@
+{
+  "id": 320599213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.949241,41.177878,-111.949241,41.177878",
+    "geom:latitude":41.177878,
+    "geom:longitude":-111.949241,
+    "iso:country":"US",
+    "sg:address":"4699 Harrison Blvd # 300",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 479 8286",
+    "sg:postcode":"84403",
+    "sg:province":"UT",
+    "sg:tags":[
+        "information",
+        "mental",
+        "family",
+        "professional",
+        "counselors-licensed",
+        "psychologist",
+        "individual",
+        "marriage",
+        "child",
+        "counseling",
+        "counselor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728033,
+        102083539,
+        85804639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71s6uZcjbSHE5IQSzQ8Tjq_41.177878_-111.949241@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5352e4a7db5ba2f036a41b3221463cc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85804639,
+            "region_id":85688567,
+            "venue_id":320599213
+        }
+    ],
+    "wof:id":320599213,
+    "wof:lastmodified":1449012987,
+    "wof:name":"Ogden Center For Counseling & Assessments",
+    "wof:parent_id":85804639,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "mental",
+        "family",
+        "professional",
+        "counselors-licensed",
+        "psychologist",
+        "individual",
+        "marriage",
+        "child",
+        "counseling",
+        "counselor"
+    ]
+},
+  "bbox": [-111.949241,41.177878,-111.949241,41.177878],
+  "geometry": {"coordinates":[-111.949241,41.177878],"type":"Point"}
+}

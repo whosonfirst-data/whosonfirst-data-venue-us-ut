@@ -1,0 +1,66 @@
+{
+  "id": 320583661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.878921,40.907209,-111.878921,40.907209",
+    "geom:latitude":40.907209,
+    "geom:longitude":-111.878921,
+    "iso:country":"US",
+    "sg:address":"1097 S Main St",
+    "sg:city":"Centerville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 296 8888",
+    "sg:postcode":"84014",
+    "sg:province":"UT",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"www.zeponiepizza.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727879,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IRyqtWib8eycp3nFr3tBM_40.907209_-111.878921@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eddbf1989e21a40ae70b2bc40958b85d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727879,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320583661
+        }
+    ],
+    "wof:id":320583661,
+    "wof:lastmodified":1449014180,
+    "wof:name":"Zeponie Pizza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [-111.878921,40.907209,-111.878921,40.907209],
+  "geometry": {"coordinates":[-111.878921,40.907209],"type":"Point"}
+}

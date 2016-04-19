@@ -1,0 +1,66 @@
+{
+  "id": 404198881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.813531,40.611854,-111.813531,40.611854",
+    "geom:latitude":40.611854,
+    "geom:longitude":-111.813531,
+    "iso:country":"US",
+    "sg:address":"7682 Steffensen Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 943 2401",
+    "sg:postcode":"84121",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728065,
+        102082877,
+        85803915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0l2igre3MzCO90T8vxtEW5_40.611854_-111.813531@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e0f269c0ff3b5fc5d6a23a09fe284a5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728065,
+            "neighbourhood_id":85803915,
+            "region_id":85688567,
+            "venue_id":404198881
+        }
+    ],
+    "wof:id":404198881,
+    "wof:lastmodified":1449039458,
+    "wof:name":"Brent C Montague",
+    "wof:parent_id":85803915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [-111.813531,40.611854,-111.813531,40.611854],
+  "geometry": {"coordinates":[-111.813531,40.611854],"type":"Point"}
+}

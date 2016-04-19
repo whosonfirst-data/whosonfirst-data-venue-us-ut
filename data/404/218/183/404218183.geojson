@@ -1,0 +1,68 @@
+{
+  "id": 404218183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.719261,40.333761,-111.719261,40.333761",
+    "geom:latitude":40.333761,
+    "geom:longitude":-111.719261,
+    "iso:country":"US",
+    "sg:address":"160 W 200 S",
+    "sg:city":"Lindon",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 785 2640",
+    "sg:postcode":"84042",
+    "sg:province":"UT",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727839,
+        102083567,
+        85879987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ge3NLFqOPJPsdv7SKSPbd_40.333761_-111.719261@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7d356b38fa7097be1c4b1f681f3536e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727839,
+            "neighbourhood_id":85879987,
+            "region_id":85688567,
+            "venue_id":404218183
+        }
+    ],
+    "wof:id":404218183,
+    "wof:lastmodified":1449039897,
+    "wof:name":"M K Johnson Trucking Inc",
+    "wof:parent_id":85879987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [-111.719261,40.333761,-111.719261,40.333761],
+  "geometry": {"coordinates":[-111.719261,40.333761],"type":"Point"}
+}

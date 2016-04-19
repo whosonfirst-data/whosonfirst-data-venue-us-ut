@@ -1,0 +1,71 @@
+{
+  "id": 320592121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.901001,40.855598,-111.901001,40.855598",
+    "geom:latitude":40.855598,
+    "geom:longitude":-111.901001,
+    "iso:country":"US",
+    "sg:address":"755 N Highway 89",
+    "sg:city":"North Salt Lake",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bicycle Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 295 6711",
+    "sg:postcode":"84054",
+    "sg:province":"UT",
+    "sg:tags":[
+        "bike"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727881,
+        102083563,
+        85835391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49Mg9g0jv8COX8VvCHdFYe_40.855598_-111.901001@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1a3065fa08f6d600c1d9f56e241ef5f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727881,
+            "neighbourhood_id":85835391,
+            "region_id":85688567,
+            "venue_id":320592121
+        }
+    ],
+    "wof:id":320592121,
+    "wof:lastmodified":1449013404,
+    "wof:name":"Schwinn Bicycle Dealers",
+    "wof:parent_id":85835391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bike"
+    ]
+},
+  "bbox": [-111.901001,40.855598,-111.901001,40.855598],
+  "geometry": {"coordinates":[-111.901001,40.855598],"type":"Point"}
+}

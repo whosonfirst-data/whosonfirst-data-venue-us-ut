@@ -1,0 +1,66 @@
+{
+  "id": 404209699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.666188,40.111457,-111.666188,40.111457",
+    "geom:latitude":40.111457,
+    "geom:longitude":-111.666188,
+    "iso:country":"US",
+    "sg:address":"654 W 100 N",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 3346",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YuJCqSxXF69eqgS6zmFpz_40.111457_-111.666188@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6c0c43d49ddf4704d59ea23c3a99f6b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":404209699
+        }
+    ],
+    "wof:id":404209699,
+    "wof:lastmodified":1449040195,
+    "wof:name":"Dandy Service & Maintenance",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [-111.666188,40.111457,-111.666188,40.111457],
+  "geometry": {"coordinates":[-111.666188,40.111457],"type":"Point"}
+}

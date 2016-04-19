@@ -1,0 +1,87 @@
+{
+  "id": 320598989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.829629,41.761196,-111.829629,41.761196",
+    "geom:latitude":41.761196,
+    "geom:longitude":-111.829629,
+    "iso:country":"US",
+    "sg:address":"169 E 1600 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 9493",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "auto",
+        "property",
+        "casualty",
+        "homeowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_373VMN2yIQqJWISyCCl4rU_41.761196_-111.829629@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b9088af266a4398464fad940fd726987",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":320598989
+        }
+    ],
+    "wof:id":320598989,
+    "wof:lastmodified":1449011448,
+    "wof:name":"Smith, Gary - Farmers Insurance",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto",
+        "property",
+        "casualty",
+        "homeowner"
+    ]
+},
+  "bbox": [-111.829629,41.761196,-111.829629,41.761196],
+  "geometry": {"coordinates":[-111.829629,41.761196],"type":"Point"}
+}

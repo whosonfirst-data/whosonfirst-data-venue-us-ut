@@ -1,0 +1,76 @@
+{
+  "id": 320599911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.658703,40.232996,-111.658703,40.232996",
+    "geom:latitude":40.232996,
+    "geom:longitude":-111.658703,
+    "iso:country":"US",
+    "sg:address":"51 S University Ave # 320",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 375 7881",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "government-united",
+        "state",
+        "legislator"
+    ],
+    "sg:website":"http://www.senate.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727863,
+        102083567,
+        85880065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KObneTE3wMZvpHsoEtXjH_40.232996_-111.658703@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d62009ac3bceafd6f740aa1b84426e0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880065,
+            "region_id":85688567,
+            "venue_id":320599911
+        }
+    ],
+    "wof:id":320599911,
+    "wof:lastmodified":1449012992,
+    "wof:name":"Senate, United States",
+    "wof:parent_id":85880065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government-united",
+        "state",
+        "legislator"
+    ]
+},
+  "bbox": [-111.658703,40.232996,-111.658703,40.232996],
+  "geometry": {"coordinates":[-111.658703,40.232996],"type":"Point"}
+}

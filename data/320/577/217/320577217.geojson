@@ -1,0 +1,68 @@
+{
+  "id": 320577217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.876432,40.92648,-111.876432,40.92648",
+    "geom:latitude":40.92648,
+    "geom:longitude":-111.876432,
+    "iso:country":"US",
+    "sg:address":"836 Bonita Wy",
+    "sg:city":"Centerville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 915 9797",
+    "sg:postcode":"84014",
+    "sg:province":"UT",
+    "sg:tags":[
+        "home",
+        "inspector"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727879,
+        102083563,
+        85809721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fClcMdEqbH1zH5ceYbhiF_40.926480_-111.876432@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e4963a386af3b5e59d5128ac1a2e0331",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727879,
+            "neighbourhood_id":85809721,
+            "region_id":85688567,
+            "venue_id":320577217
+        }
+    ],
+    "wof:id":320577217,
+    "wof:lastmodified":1449015076,
+    "wof:name":"Inspect-It 1st Property Inspection",
+    "wof:parent_id":85809721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "inspector"
+    ]
+},
+  "bbox": [-111.876432,40.92648,-111.876432,40.92648],
+  "geometry": {"coordinates":[-111.876432,40.92648],"type":"Point"}
+}

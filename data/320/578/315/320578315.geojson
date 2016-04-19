@@ -1,0 +1,66 @@
+{
+  "id": 320578315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.878998,40.921299,-111.878998,40.921299",
+    "geom:latitude":40.921299,
+    "geom:longitude":-111.878998,
+    "iso:country":"US",
+    "sg:address":"388 N Main St",
+    "sg:city":"Centerville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 294 2555",
+    "sg:postcode":"84014",
+    "sg:province":"UT",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"www.papamurphys.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727879,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QOwZ7KSHhbMbDMc3i6pEL_40.921299_-111.878998@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"52a26e004b12254cb08197d32edadb1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727879,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320578315
+        }
+    ],
+    "wof:id":320578315,
+    "wof:lastmodified":1449012205,
+    "wof:name":"Papa Murphy's Take'n'bake Pizza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [-111.878998,40.921299,-111.878998,40.921299],
+  "geometry": {"coordinates":[-111.878998,40.921299],"type":"Point"}
+}

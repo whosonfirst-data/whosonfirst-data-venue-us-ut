@@ -1,0 +1,66 @@
+{
+  "id": 404203145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.657441,40.240302,-111.657441,40.240302",
+    "geom:latitude":40.240302,
+    "geom:longitude":-111.657441,
+    "iso:country":"US",
+    "sg:address":"44 E 500 N",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 377 1254",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727863,
+        102083567,
+        85880121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lzc4QwKcjzPeM2HxtOEoo_40.240302_-111.657441@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bb569fb34755d0bca3b92b870b6f0a06",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880121,
+            "region_id":85688567,
+            "venue_id":404203145
+        }
+    ],
+    "wof:id":404203145,
+    "wof:lastmodified":1449039547,
+    "wof:name":"Veldon's Dry Cleaners",
+    "wof:parent_id":85880121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [-111.657441,40.240302,-111.657441,40.240302],
+  "geometry": {"coordinates":[-111.657441,40.240302],"type":"Point"}
+}

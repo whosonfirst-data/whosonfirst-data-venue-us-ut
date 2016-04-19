@@ -1,0 +1,71 @@
+{
+  "id": 404192767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.768273,41.117719,-111.768273,41.117719",
+    "geom:latitude":41.117719,
+    "geom:longitude":-111.768273,
+    "iso:country":"US",
+    "sg:address":"4275 N 3800 W",
+    "sg:city":"Morgan",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 876 3322",
+    "sg:postcode":"84050",
+    "sg:province":"UT",
+    "sg:tags":[
+        "station",
+        "gasoline",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69v9YnagMUinZQ2ITv21Gq_41.117719_-111.768273@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c65425b28f9978c87122ec86129d7386",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":404192767
+        }
+    ],
+    "wof:id":404192767,
+    "wof:lastmodified":1449039978,
+    "wof:name":"Hinds Quick Stop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline",
+        "oil"
+    ]
+},
+  "bbox": [-111.768273,41.117719,-111.768273,41.117719],
+  "geometry": {"coordinates":[-111.768273,41.117719],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 320599997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.986899,41.185196,-111.986899,41.185196",
+    "geom:latitude":41.185196,
+    "geom:longitude":-111.986899,
+    "iso:country":"US",
+    "sg:address":"4261 Riverdale Rd",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 334 5103",
+    "sg:postcode":"84405",
+    "sg:province":"UT",
+    "sg:tags":[
+        "clothing"
+    ],
+    "sg:website":"http://www.tjmaxx.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728031,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OPJ0cVc2vCMpWdsAXIALY_41.185196_-111.986899@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4a180254cc9f0eb7377b97c0053a3069",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728031,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320599997
+        }
+    ],
+    "wof:id":320599997,
+    "wof:lastmodified":1449012992,
+    "wof:name":"T.J. Maxx",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clothing"
+    ]
+},
+  "bbox": [-111.986899,41.185196,-111.986899,41.185196],
+  "geometry": {"coordinates":[-111.986899,41.185196],"type":"Point"}
+}

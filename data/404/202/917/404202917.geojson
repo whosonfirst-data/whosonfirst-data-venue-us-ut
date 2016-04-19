@@ -1,0 +1,68 @@
+{
+  "id": 404202917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.97651,41.070219,-111.97651,41.070219",
+    "geom:latitude":41.070219,
+    "geom:longitude":-111.97651,
+    "iso:country":"US",
+    "sg:address":"711 N Main St",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 544 9566",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "personal",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PMft9VKY5RVTXXTmx2iEm_41.070219_-111.976510@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fd3762ae731433960317f17ebb0a1efa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":404202917
+        }
+    ],
+    "wof:id":404202917,
+    "wof:lastmodified":1449040168,
+    "wof:name":"Wells Fargo",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "institution"
+    ]
+},
+  "bbox": [-111.97651,41.070219,-111.97651,41.070219],
+  "geometry": {"coordinates":[-111.97651,41.070219],"type":"Point"}
+}

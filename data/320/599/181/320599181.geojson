@@ -1,0 +1,73 @@
+{
+  "id": 320599181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.02561,41.225895,-112.02561,41.225895",
+    "geom:latitude":41.225895,
+    "geom:longitude":-112.02561,
+    "iso:country":"US",
+    "sg:address":"2251 S 1900 W",
+    "sg:city":"OGDEN",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 528 9563",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ],
+    "sg:website":"http://ecustomsut.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728013,
+        102083539,
+        85818351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xUnkoe3Hny70BjBMrWwO7_41.225895_-112.025610@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"181cbb3a6c52b8e83301e56bc44e4e5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85818351,
+            "region_id":85688567,
+            "venue_id":320599181
+        }
+    ],
+    "wof:id":320599181,
+    "wof:lastmodified":1449012990,
+    "wof:name":"Elite Customs",
+    "wof:parent_id":85818351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [-112.02561,41.225895,-112.02561,41.225895],
+  "geometry": {"coordinates":[-112.02561,41.225895],"type":"Point"}
+}

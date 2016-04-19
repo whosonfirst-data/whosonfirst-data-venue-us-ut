@@ -1,0 +1,74 @@
+{
+  "id": 320587993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.084663,40.694341,-112.084663,40.694341",
+    "geom:latitude":40.694341,
+    "geom:longitude":-112.084663,
+    "iso:country":"US",
+    "sg:address":"3596 Pleasant Green Dr",
+    "sg:city":"Magna",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 259 9960",
+    "sg:postcode":"84044",
+    "sg:province":"UT",
+    "sg:tags":[
+        "delivery",
+        "messenger",
+        "courier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728255,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sz1TrJqcShKEPmC1rLA9v_40.694341_-112.084663@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"16c975865253b5a9677a9761dfcbf5bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728255,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320587993
+        }
+    ],
+    "wof:id":320587993,
+    "wof:lastmodified":1449012556,
+    "wof:name":"Dave Serbeck Carriers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "messenger",
+        "courier"
+    ]
+},
+  "bbox": [-112.084663,40.694341,-112.084663,40.694341],
+  "geometry": {"coordinates":[-112.084663,40.694341],"type":"Point"}
+}

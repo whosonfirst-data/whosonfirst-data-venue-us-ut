@@ -1,0 +1,86 @@
+{
+  "id": 320561909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.892227,40.891166,-111.892227,40.891166",
+    "geom:latitude":40.891166,
+    "geom:longitude":-111.892227,
+    "iso:country":"US",
+    "sg:address":"175 N 500 W",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 292 2354",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop",
+        "wi-fi",
+        "espresso",
+        "hotspot",
+        "restaurant"
+    ],
+    "sg:website":"http://www.starbuckscoffee.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727881,
+        102083563,
+        85854881
+    ],
+    "wof:brand_id":420574001,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MHHEVfNfRg0HnPucqYP6D_40.891166_-111.892227@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ef230955369f7abfd3b1db2dcad6fa09",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727881,
+            "neighbourhood_id":85854881,
+            "region_id":85688567,
+            "venue_id":320561909
+        }
+    ],
+    "wof:id":320561909,
+    "wof:lastmodified":1457208105,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85854881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "wi-fi",
+        "espresso",
+        "hotspot",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    -111.892227,
+    40.891166,
+    -111.892227,
+    40.891166
+],
+  "geometry": {"coordinates":[-111.89222700000001,40.891166],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 320585253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.897412,40.981721,-111.897412,40.981721",
+    "geom:latitude":40.981721,
+    "geom:longitude":-111.897412,
+    "iso:country":"US",
+    "sg:address":"1401 N Hwy 89",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 5900",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "medical"
+    ],
+    "sg:website":"www.fibroandfatigue.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85833427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AfIyWSbL1OImp0wrRZSSm_40.981721_-111.897412@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"30d42a547f17976e315e584845906774",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85833427,
+            "region_id":85688567,
+            "venue_id":320585253
+        }
+    ],
+    "wof:id":320585253,
+    "wof:lastmodified":1449013758,
+    "wof:name":"Center for Treatment of Chronic Fatigue and Fibromyalgia",
+    "wof:parent_id":85833427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [-111.897412,40.981721,-111.897412,40.981721],
+  "geometry": {"coordinates":[-111.897412,40.981721],"type":"Point"}
+}

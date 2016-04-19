@@ -1,0 +1,70 @@
+{
+  "id": 320600759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.645342,40.228231,-111.645342,40.228231",
+    "geom:latitude":40.228231,
+    "geom:longitude":-111.645342,
+    "iso:country":"US",
+    "sg:address":"406 S State St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 375 7087",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:tags":[
+        "cake",
+        "pastry",
+        "wedding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727863,
+        102083567,
+        85880093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qRkOC8BczrDL53GxlreVh_40.228231_-111.645342@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ba32d14c3e287656af544b7845cec86d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880093,
+            "region_id":85688567,
+            "venue_id":320600759
+        }
+    ],
+    "wof:id":320600759,
+    "wof:lastmodified":1449011582,
+    "wof:name":"Anitas Cakes",
+    "wof:parent_id":85880093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cake",
+        "pastry",
+        "wedding"
+    ]
+},
+  "bbox": [-111.645342,40.228231,-111.645342,40.228231],
+  "geometry": {"coordinates":[-111.645342,40.228231],"type":"Point"}
+}

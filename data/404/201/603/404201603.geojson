@@ -1,0 +1,70 @@
+{
+  "id": 404201603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.926062,40.844999,-111.926062,40.844999",
+    "geom:latitude":40.844999,
+    "geom:longitude":-111.926062,
+    "iso:country":"US",
+    "sg:address":"126 N 640 W",
+    "sg:city":"North Salt Lake",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 936 9550",
+    "sg:postcode":"84054",
+    "sg:province":"UT",
+    "sg:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727895,
+        102083563,
+        85857749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OtdZ9ilCD6OkG3mqReChV_40.844999_-111.926062@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"82d6678fa5ba85733746e1ff59598777",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727895,
+            "neighbourhood_id":85857749,
+            "region_id":85688567,
+            "venue_id":404201603
+        }
+    ],
+    "wof:id":404201603,
+    "wof:lastmodified":1449040161,
+    "wof:name":"Thermal West Ind Inc",
+    "wof:parent_id":85857749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ]
+},
+  "bbox": [-111.926062,40.844999,-111.926062,40.844999],
+  "geometry": {"coordinates":[-111.926062,40.844999],"type":"Point"}
+}

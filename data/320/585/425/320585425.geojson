@@ -1,0 +1,66 @@
+{
+  "id": 320585425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.883003,40.987099,-111.883003,40.987099",
+    "geom:latitude":40.987099,
+    "geom:longitude":-111.883003,
+    "iso:country":"US",
+    "sg:address":"410 N 200 E",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 0111",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0t55u7VJ11WuI30fYwnwy8_40.987099_-111.883003@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"78fc4d5dbcc8c8198b39c8da4cc24b92",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":320585425
+        }
+    ],
+    "wof:id":320585425,
+    "wof:lastmodified":1449013754,
+    "wof:name":"G & L Electric Service Inc",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [-111.883003,40.987099,-111.883003,40.987099],
+  "geometry": {"coordinates":[-111.883003,40.987099],"type":"Point"}
+}

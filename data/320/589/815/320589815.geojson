@@ -1,0 +1,68 @@
+{
+  "id": 320589815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.911659,40.853073,-111.911659,40.853073",
+    "geom:latitude":40.853073,
+    "geom:longitude":-111.911659,
+    "iso:country":"US",
+    "sg:address":"640 N Main St Ste 2151",
+    "sg:city":"North Salt Lake",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 746 0777",
+    "sg:postcode":"84054",
+    "sg:province":"UT",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727881,
+        102083563,
+        85835391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gGpUYfWJJ3ZBYmPOzoo3x_40.853073_-111.911659@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4de3ebb82f934166f5075a10271cf56c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727881,
+            "neighbourhood_id":85835391,
+            "region_id":85688567,
+            "venue_id":320589815
+        }
+    ],
+    "wof:id":320589815,
+    "wof:lastmodified":1449013255,
+    "wof:name":"Silver Rock Mortgage",
+    "wof:parent_id":85835391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [-111.911659,40.853073,-111.911659,40.853073],
+  "geometry": {"coordinates":[-111.911659,40.853073],"type":"Point"}
+}

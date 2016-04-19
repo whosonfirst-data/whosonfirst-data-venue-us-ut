@@ -1,0 +1,75 @@
+{
+  "id": 320557795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.874697,40.901498,-111.874697,40.901498",
+    "geom:latitude":40.901498,
+    "geom:longitude":-111.874697,
+    "iso:country":"US",
+    "sg:address":"300 E 1200 N",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 402 1900",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727881,
+        102083563
+    ],
+    "wof:brand_id":420574629,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xccJqVzimTKbpN4QLThLs_40.901498_-111.874697@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"686886027ea44b720df617fb75483152",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727881,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320557795
+        }
+    ],
+    "wof:id":320557795,
+    "wof:lastmodified":1457209065,
+    "wof:name":"Schools Public",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -111.874697,
+    40.901498,
+    -111.874697,
+    40.901498
+],
+  "geometry": {"coordinates":[-111.874697,40.901498],"type":"Point"}
+}

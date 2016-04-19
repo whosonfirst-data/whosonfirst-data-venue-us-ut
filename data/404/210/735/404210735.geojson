@@ -1,0 +1,68 @@
+{
+  "id": 404210735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.697692,40.302715,-111.697692,40.302715",
+    "geom:latitude":40.302715,
+    "geom:longitude":-111.697692,
+    "iso:country":"US",
+    "sg:address":"397 N State St",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 655 1140",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zqvoICXYcK2UKc7Df3Jtv_40.302715_-111.697692@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e8a07cd647ff243a8df738bf968eae4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":404210735
+        }
+    ],
+    "wof:id":404210735,
+    "wof:lastmodified":1449039420,
+    "wof:name":"Rocky's Tires 400 North LLC",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-111.697692,40.302715,-111.697692,40.302715],
+  "geometry": {"coordinates":[-111.697692,40.302715],"type":"Point"}
+}

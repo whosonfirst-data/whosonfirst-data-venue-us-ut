@@ -1,0 +1,73 @@
+{
+  "id": 320588889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.888445,40.620811,-111.888445,40.620811",
+    "geom:latitude":40.620811,
+    "geom:longitude":-111.888445,
+    "iso:country":"US",
+    "sg:address":"90 Fort Union Blvd Ste 102",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 266 1333",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728051,
+        102082877,
+        85851957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09x0HD4ITR4GjazrkQGgWt_40.620811_-111.888445@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b3eb4bf41879811ee0acfde33c9744df",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85851957,
+            "region_id":85688567,
+            "venue_id":320588889
+        }
+    ],
+    "wof:id":320588889,
+    "wof:lastmodified":1449014228,
+    "wof:name":"Professional Brokers",
+    "wof:parent_id":85851957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [-111.888445,40.620811,-111.888445,40.620811],
+  "geometry": {"coordinates":[-111.888445,40.620811],"type":"Point"}
+}

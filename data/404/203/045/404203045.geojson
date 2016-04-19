@@ -1,0 +1,67 @@
+{
+  "id": 404203045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.767679,40.369884,-111.767679,40.369884",
+    "geom:latitude":40.369884,
+    "geom:longitude":-111.767679,
+    "iso:country":"US",
+    "sg:address":"1384 W State Rd",
+    "sg:city":"Pleasant Grove",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 785 8848",
+    "sg:postcode":"84062",
+    "sg:province":"UT",
+    "sg:tags":[
+        "advisory",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        102083567,
+        85879981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53OHWjTrPDViDHEhe0I9x3_40.369884_-111.767679@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bba868578e52af7b1a8b869c1d38dc5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":-1,
+            "neighbourhood_id":85879981,
+            "region_id":85688567,
+            "venue_id":404203045
+        }
+    ],
+    "wof:id":404203045,
+    "wof:lastmodified":1449039550,
+    "wof:name":"Rock Canyon Advisors",
+    "wof:parent_id":85879981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "financial"
+    ]
+},
+  "bbox": [-111.767679,40.369884,-111.767679,40.369884],
+  "geometry": {"coordinates":[-111.767679,40.369884],"type":"Point"}
+}

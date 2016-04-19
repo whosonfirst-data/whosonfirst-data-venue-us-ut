@@ -1,0 +1,73 @@
+{
+  "id": 320579329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.878815,40.921388,-111.878815,40.921388",
+    "geom:latitude":40.921388,
+    "geom:longitude":-111.878815,
+    "iso:country":"US",
+    "sg:address":"392 N Main St",
+    "sg:city":"Centerville",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 397 0725",
+    "sg:postcode":"84014",
+    "sg:province":"UT",
+    "sg:tags":[
+        "game",
+        "video"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727879,
+        102083563
+    ],
+    "wof:brand_id":420573763,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1I4AaTrgmtXnv4Wx3wdglY_40.921388_-111.878815@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cbdbd74c032889e575af473190a2f423",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727879,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320579329
+        }
+    ],
+    "wof:id":320579329,
+    "wof:lastmodified":1457207158,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "game",
+        "video"
+    ]
+},
+  "bbox": [
+    -111.878815,
+    40.921388,
+    -111.878815,
+    40.921388
+],
+  "geometry": {"coordinates":[-111.878815,40.921388],"type":"Point"}
+}

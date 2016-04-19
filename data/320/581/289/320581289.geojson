@@ -1,0 +1,66 @@
+{
+  "id": 320581289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.894008,40.922758,-111.894008,40.922758",
+    "geom:latitude":40.922758,
+    "geom:longitude":-111.894008,
+    "iso:country":"US",
+    "sg:address":"1046 W 500 N",
+    "sg:city":"Centerville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 292 3138",
+    "sg:postcode":"84014",
+    "sg:province":"UT",
+    "sg:tags":[
+        "painter"
+    ],
+    "sg:website":"www.peckspainting.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        102083563,
+        85850499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52leQu2PeHq7eQyZPpZ7kd_40.922758_-111.894008@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8287428cbf66bfed79b70fdb88cf81a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":-1,
+            "neighbourhood_id":85850499,
+            "region_id":85688567,
+            "venue_id":320581289
+        }
+    ],
+    "wof:id":320581289,
+    "wof:lastmodified":1449012046,
+    "wof:name":"Peck's Painting",
+    "wof:parent_id":85850499,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [-111.894008,40.922758,-111.894008,40.922758],
+  "geometry": {"coordinates":[-111.894008,40.922758],"type":"Point"}
+}

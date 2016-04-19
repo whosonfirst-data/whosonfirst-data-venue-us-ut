@@ -1,0 +1,87 @@
+{
+  "id": 320586575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.759858,40.340408,-111.759858,40.340408",
+    "geom:latitude":40.340408,
+    "geom:longitude":-111.759858,
+    "iso:country":"US",
+    "sg:address":"193 N 2000 W",
+    "sg:city":"Lindon",
+    "sg:classifiers":[
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 785 3442",
+    "sg:postcode":"84042",
+    "sg:province":"UT",
+    "sg:tags":[
+        "parish",
+        "specialty",
+        "mothproofing",
+        "government-county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727839,
+        102083567,
+        85879985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SDWCrnuXzElGxxBSG280T_40.340408_-111.759858@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2ed15b2cfdb4de1ea1e0ac80a9db4fda",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727839,
+            "neighbourhood_id":85879985,
+            "region_id":85688567,
+            "venue_id":320586575
+        }
+    ],
+    "wof:id":320586575,
+    "wof:lastmodified":1449014530,
+    "wof:name":"North Utah Vly Animal Shelter",
+    "wof:parent_id":85879985,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parish",
+        "specialty",
+        "mothproofing",
+        "government-county"
+    ]
+},
+  "bbox": [-111.759858,40.340408,-111.759858,40.340408],
+  "geometry": {"coordinates":[-111.759858,40.340408],"type":"Point"}
+}

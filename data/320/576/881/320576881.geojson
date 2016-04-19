@@ -1,0 +1,71 @@
+{
+  "id": 320576881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.899002,40.864799,-111.899002,40.864799",
+    "geom:latitude":40.864799,
+    "geom:longitude":-111.899002,
+    "iso:country":"US",
+    "sg:address":"2355 S 625 W",
+    "sg:city":"Woods Cross",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 298 6333",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "sg:tags":[
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727887,
+        102083563
+    ],
+    "wof:brand_id":420573775,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fkuny8PX30tE8qlGZNEOV_40.864799_-111.899002@1303263095"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dea227e3f4fd2d1df4ab7cb0624fa923",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727887,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320576881
+        }
+    ],
+    "wof:id":320576881,
+    "wof:lastmodified":1457207249,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -111.899002,
+    40.864799,
+    -111.899002,
+    40.864799
+],
+  "geometry": {"coordinates":[-111.899002,40.864799],"type":"Point"}
+}

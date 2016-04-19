@@ -1,0 +1,66 @@
+{
+  "id": 404213347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.898019,40.839172,-111.898019,40.839172",
+    "geom:latitude":40.839172,
+    "geom:longitude":-111.898019,
+    "iso:country":"US",
+    "sg:address":"122 Coventry Ln",
+    "sg:city":"North Salt Lake",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 936 0102",
+    "sg:postcode":"84054",
+    "sg:province":"UT",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727895,
+        102083563,
+        85839735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AvpTyhJLijitdwANmHm1e_40.839172_-111.898019@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"40db5758a21118b6b6faac99ac14812e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727895,
+            "neighbourhood_id":85839735,
+            "region_id":85688567,
+            "venue_id":404213347
+        }
+    ],
+    "wof:id":404213347,
+    "wof:lastmodified":1449039100,
+    "wof:name":"Wash It Carwash",
+    "wof:parent_id":85839735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [-111.898019,40.839172,-111.898019,40.839172],
+  "geometry": {"coordinates":[-111.898019,40.839172],"type":"Point"}
+}

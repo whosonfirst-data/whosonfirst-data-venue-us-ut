@@ -1,0 +1,72 @@
+{
+  "id": 320589503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.861395,40.623856,-111.861395,40.623856",
+    "geom:latitude":40.623856,
+    "geom:longitude":-111.861395,
+    "iso:country":"US",
+    "sg:address":"1042 Fort Union Blvd # 486",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 733 5456",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728051,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0i5yV73unmuty4DXnD8n7z_40.623856_-111.861395@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e5a90fa9fe29e5ec65acbd584d7df2ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320589503
+        }
+    ],
+    "wof:id":320589503,
+    "wof:lastmodified":1449013259,
+    "wof:name":"Collins & Assoc Realty",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [-111.861395,40.623856,-111.861395,40.623856],
+  "geometry": {"coordinates":[-111.861395,40.623856],"type":"Point"}
+}

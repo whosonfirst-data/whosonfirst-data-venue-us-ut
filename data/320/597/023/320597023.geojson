@@ -1,0 +1,83 @@
+{
+  "id": 320597023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.833801,40.56628,-111.833801,40.56628",
+    "geom:latitude":40.56628,
+    "geom:longitude":-111.833801,
+    "iso:country":"US",
+    "sg:address":"1993 E 10180 S",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 518 0045",
+    "sg:postcode":"84092",
+    "sg:province":"UT",
+    "sg:tags":[
+        "entertainment",
+        "children's",
+        "planning",
+        "convention",
+        "decorating",
+        "rental",
+        "event"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728077,
+        102082877,
+        85818849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50AsNWVbOkajZKhuCcutfw_40.566280_-111.833801@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5864f4da14c245f32b3e257b67e60574",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85818849,
+            "region_id":85688567,
+            "venue_id":320597023
+        }
+    ],
+    "wof:id":320597023,
+    "wof:lastmodified":1449014917,
+    "wof:name":"Boppity Boo Events",
+    "wof:parent_id":85818849,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "entertainment",
+        "children's",
+        "planning",
+        "convention",
+        "decorating",
+        "rental",
+        "event"
+    ]
+},
+  "bbox": [-111.833801,40.56628,-111.833801,40.56628],
+  "geometry": {"coordinates":[-111.833801,40.56628],"type":"Point"}
+}

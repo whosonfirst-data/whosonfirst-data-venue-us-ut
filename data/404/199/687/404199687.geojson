@@ -1,0 +1,70 @@
+{
+  "id": 404199687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.668135,40.251637,-111.668135,40.251637",
+    "geom:latitude":40.251637,
+    "geom:longitude":-111.668135,
+    "iso:country":"US",
+    "sg:address":"1245 N State St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 650 494 1021",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop",
+        "automobile",
+        "foreign"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727863,
+        102083567,
+        85880107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oLHnEe09a5UPXELrAOmWv_40.251637_-111.668135@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9a7b6b472405138181b9fe5c99e8706f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880107,
+            "region_id":85688567,
+            "venue_id":404199687
+        }
+    ],
+    "wof:id":404199687,
+    "wof:lastmodified":1449039140,
+    "wof:name":"Rosenthal Service",
+    "wof:parent_id":85880107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "automobile",
+        "foreign"
+    ]
+},
+  "bbox": [-111.668135,40.251637,-111.668135,40.251637],
+  "geometry": {"coordinates":[-111.668135,40.251637],"type":"Point"}
+}

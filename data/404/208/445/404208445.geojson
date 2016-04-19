@@ -1,0 +1,67 @@
+{
+  "id": 404208445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.92147,40.86156,-111.92147,40.86156",
+    "geom:latitude":40.86156,
+    "geom:longitude":-111.92147,
+    "iso:country":"US",
+    "sg:address":"455 W 1100 N",
+    "sg:city":"North Salt Lake",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 292 7770",
+    "sg:postcode":"84054",
+    "sg:province":"UT",
+    "sg:tags":[
+        "trucking"
+    ],
+    "sg:website":"www.horseshoexp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727887,
+        102083563,
+        85848919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dmheDAj1tDN9Rgf9k6l1H_40.861560_-111.921470@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"38504e44bd2db94accb215add0af1a80",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727887,
+            "neighbourhood_id":85848919,
+            "region_id":85688567,
+            "venue_id":404208445
+        }
+    ],
+    "wof:id":404208445,
+    "wof:lastmodified":1449039155,
+    "wof:name":"Horseshoe Express",
+    "wof:parent_id":85848919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [-111.92147,40.86156,-111.92147,40.86156],
+  "geometry": {"coordinates":[-111.92147,40.86156],"type":"Point"}
+}

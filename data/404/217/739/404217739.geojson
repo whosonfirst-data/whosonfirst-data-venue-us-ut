@@ -1,0 +1,61 @@
+{
+  "id": 404217739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.839324,40.665967,-111.839324,40.665967",
+    "geom:latitude":40.665967,
+    "geom:longitude":-111.839324,
+    "iso:country":"US",
+    "sg:address":"4700 Highland Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 277 9939",
+    "sg:postcode":"84117",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728049,
+        102082877,
+        85825901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LGRnTmJUBXwh4n0lnieBs_40.665967_-111.839324@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a70309e84214c9aadd4384c8831db170",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728049,
+            "neighbourhood_id":85825901,
+            "region_id":85688567,
+            "venue_id":404217739
+        }
+    ],
+    "wof:id":404217739,
+    "wof:lastmodified":1449040268,
+    "wof:name":"Sportzshot",
+    "wof:parent_id":85825901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-111.839324,40.665967,-111.839324,40.665967],
+  "geometry": {"coordinates":[-111.839324,40.665967],"type":"Point"}
+}

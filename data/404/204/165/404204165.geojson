@@ -1,0 +1,67 @@
+{
+  "id": 404204165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.854989,41.946734,-111.854989,41.946734",
+    "geom:latitude":41.946734,
+    "geom:longitude":-111.854989,
+    "iso:country":"US",
+    "sg:address":"92 E 1600 S",
+    "sg:city":"Lewiston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 258 5373",
+    "sg:postcode":"84320",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727581,
+        102082881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31uwPaIfjHE9y00W7mjHqO_41.946734_-111.854989@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a9f2b01c4673028f5e5c6760ae588d59",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727581,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":404204165
+        }
+    ],
+    "wof:id":404204165,
+    "wof:lastmodified":1449040349,
+    "wof:name":"North Cache Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [-111.854989,41.946734,-111.854989,41.946734],
+  "geometry": {"coordinates":[-111.854989,41.946734],"type":"Point"}
+}

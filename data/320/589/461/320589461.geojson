@@ -1,0 +1,72 @@
+{
+  "id": 320589461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-111.890171,40.625157,-111.890171,40.625157",
+    "geom:latitude":40.625157,
+    "geom:longitude":-111.890171,
+    "iso:country":"US",
+    "sg:address":"6928 S State St",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 590 3290",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ],
+    "sg:website":"http://www.chrisbody.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728051,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34KdH7luH0LiEjf9LcH45G_40.625157_-111.890171@1303263096"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9245e85b08d893acfded47bfff1b1cc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":-1,
+            "region_id":85688567,
+            "venue_id":320589461
+        }
+    ],
+    "wof:id":320589461,
+    "wof:lastmodified":1449013256,
+    "wof:name":"Chris Body & Paint Incorporated",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [-111.890171,40.625157,-111.890171,40.625157],
+  "geometry": {"coordinates":[-111.890171,40.625157],"type":"Point"}
+}

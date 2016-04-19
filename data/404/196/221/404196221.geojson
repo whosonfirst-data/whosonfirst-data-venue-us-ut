@@ -1,0 +1,67 @@
+{
+  "id": 404196221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-112.019622,41.107526,-112.019622,41.107526",
+    "geom:latitude":41.107526,
+    "geom:longitude":-112.019622,
+    "iso:country":"US",
+    "sg:address":"397 State St",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 614 0100",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "broker",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        102083563,
+        85851583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PQ5xqzrxVkrBqROVKn64T_41.107526_-112.019622@1294252057"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5fafaa233a9a89b9f38fddd611e34e55",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":-1,
+            "neighbourhood_id":85851583,
+            "region_id":85688567,
+            "venue_id":404196221
+        }
+    ],
+    "wof:id":404196221,
+    "wof:lastmodified":1449039320,
+    "wof:name":"BCM Logistics",
+    "wof:parent_id":85851583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "trucking"
+    ]
+},
+  "bbox": [-112.019622,41.107526,-112.019622,41.107526],
+  "geometry": {"coordinates":[-112.019622,41.107526],"type":"Point"}
+}
