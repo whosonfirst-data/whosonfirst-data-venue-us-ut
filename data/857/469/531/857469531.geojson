@@ -1,0 +1,71 @@
+{
+  "id": 857469531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.938158,41.315407,-111.938158,41.315407",
+    "geom:latitude":41.315407,
+    "geom:longitude":-111.938158,
+    "iso:country":"US",
+    "sg:address":"3068 N 1375 E",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 782 8030",
+    "sg:postcode":"84414",
+    "sg:province":"UT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85824645,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pcaVKSPkps16RAMAvB0OC_41.315407_-111.938158@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130163,
+    "wof:geomhash":"6dfa90a50c187726971e3d52c6882513",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85824645,
+            "region_id":85688567,
+            "venue_id":857469531
+        }
+    ],
+    "wof:id":857469531,
+    "wof:lastmodified":1464130163,
+    "wof:name":"David W & Linda G Skeen",
+    "wof:parent_id":85824645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.938158,
+    41.315407,
+    -111.938158,
+    41.315407
+],
+  "geometry": {"coordinates":[-111.938158,41.315407],"type":"Point"}
+}

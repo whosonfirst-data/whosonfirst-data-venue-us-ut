@@ -1,0 +1,71 @@
+{
+  "id": 857093453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.914256,41.0344,-111.914256,41.0344",
+    "geom:latitude":41.0344,
+    "geom:longitude":-111.914256,
+    "iso:country":"US",
+    "sg:address":"18 S Country Ln",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 546 2312",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "investor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RTHEeuwqPunrWp1su8kod_41.034400_-111.914256@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121760,
+    "wof:geomhash":"f9f1058fd4708d39de64889507efa25d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857093453
+        }
+    ],
+    "wof:id":857093453,
+    "wof:lastmodified":1464121760,
+    "wof:name":"Folkman Investment Company LLC",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investor"
+    ]
+},
+  "bbox": [
+    -111.914256,
+    41.0344,
+    -111.914256,
+    41.0344
+],
+  "geometry": {"coordinates":[-111.91425599999999,41.0344],"type":"Point"}
+}

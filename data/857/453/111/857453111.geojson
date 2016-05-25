@@ -1,0 +1,75 @@
+{
+  "id": 857453111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.624693,40.327937,-111.624693,40.327937",
+    "geom:latitude":40.327937,
+    "geom:longitude":-111.624693,
+    "iso:country":"US",
+    "sg:address":"1483 Spring Dell Dr",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 226 2760",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "water",
+        "line",
+        "sewer",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85857673,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SR9F8U3QzhU7e5sFCsHpz_40.327937_-111.624693@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129818,
+    "wof:geomhash":"d448de84fb9fdef2b90daec01f25c9e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85857673,
+            "region_id":85688567,
+            "venue_id":857453111
+        }
+    ],
+    "wof:id":857453111,
+    "wof:lastmodified":1464129818,
+    "wof:name":"R W Davis Construction Inc",
+    "wof:parent_id":85857673,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "line",
+        "sewer",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.624693,
+    40.327937,
+    -111.624693,
+    40.327937
+],
+  "geometry": {"coordinates":[-111.62469299999999,40.327937],"type":"Point"}
+}

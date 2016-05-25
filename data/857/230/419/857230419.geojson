@@ -1,0 +1,75 @@
+{
+  "id": 857230419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.965342,41.060221,-111.965342,41.060221",
+    "geom:latitude":41.060221,
+    "geom:longitude":-111.965342,
+    "iso:country":"US",
+    "sg:address":"55 E Gentile St",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 544 7404",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6k7XHM4plC4XDk9pVZLF3d_41.060221_-111.965342@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124815,
+    "wof:geomhash":"3f18450b7a11b4740edde5d2da675845",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857230419
+        }
+    ],
+    "wof:id":857230419,
+    "wof:lastmodified":1464124815,
+    "wof:name":"J & J Self Storage",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -111.965342,
+    41.060221,
+    -111.965342,
+    41.060221
+],
+  "geometry": {"coordinates":[-111.96534200000001,41.060221],"type":"Point"}
+}

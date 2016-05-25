@@ -1,0 +1,77 @@
+{
+  "id": 857386833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.898913,40.63727,-111.898913,40.63727",
+    "geom:latitude":40.63727,
+    "geom:longitude":-111.898913,
+    "iso:country":"US",
+    "sg:address":"333 W 6160 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 261 4076",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:tags":[
+        "water",
+        "well",
+        "drilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728051,
+        102082877,
+        85803901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AWKGZq93Go1OkkjWAfSY3_40.637270_-111.898913@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128353,
+    "wof:geomhash":"62af6ee3f502416b67b2f8f2569ad1d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85803901,
+            "region_id":85688567,
+            "venue_id":857386833
+        }
+    ],
+    "wof:id":857386833,
+    "wof:lastmodified":1464128353,
+    "wof:name":"Davis Drilling",
+    "wof:parent_id":85803901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "well",
+        "drilling"
+    ]
+},
+  "bbox": [
+    -111.898913,
+    40.63727,
+    -111.898913,
+    40.63727
+],
+  "geometry": {"coordinates":[-111.89891299999999,40.63727],"type":"Point"}
+}

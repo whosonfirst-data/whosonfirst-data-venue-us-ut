@@ -1,0 +1,73 @@
+{
+  "id": 857398697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.85968,40.726119,-111.85968,40.726119",
+    "geom:latitude":40.726119,
+    "geom:longitude":-111.85968,
+    "iso:country":"US",
+    "sg:address":"2016 S 1100 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 466 2171",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85858269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48PMIFkA4JF3hXUSHF3H9E_40.726119_-111.859680@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128600,
+    "wof:geomhash":"249044059a8d2d31ed4d0204012d04cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85858269,
+            "region_id":85688567,
+            "venue_id":857398697
+        }
+    ],
+    "wof:id":857398697,
+    "wof:lastmodified":1464128600,
+    "wof:name":"Antique Shoppe",
+    "wof:parent_id":85858269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -111.85968,
+    40.726119,
+    -111.85968,
+    40.726119
+],
+  "geometry": {"coordinates":[-111.85968,40.726119],"type":"Point"}
+}

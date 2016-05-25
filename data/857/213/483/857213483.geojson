@@ -1,0 +1,69 @@
+{
+  "id": 857213483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.662061,40.303833,-111.662061,40.303833",
+    "geom:latitude":40.303833,
+    "geom:longitude":-111.662061,
+    "iso:country":"US",
+    "sg:address":"280 W Rivier Park Dr",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 229 1248",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tKAE4iAZyPQNEIdUeyT64_40.303833_-111.662061@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124473,
+    "wof:geomhash":"3212d6d07b68bd47ca9419c1a46369d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857213483
+        }
+    ],
+    "wof:id":857213483,
+    "wof:lastmodified":1464124473,
+    "wof:name":"Altamirano Lucia Scott MD",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -111.662061,
+    40.303833,
+    -111.662061,
+    40.303833
+],
+  "geometry": {"coordinates":[-111.66206099999999,40.303833],"type":"Point"}
+}

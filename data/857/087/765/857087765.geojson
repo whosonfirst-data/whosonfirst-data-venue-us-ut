@@ -1,0 +1,71 @@
+{
+  "id": 857087765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.577007,40.143911,-111.577007,40.143911",
+    "geom:latitude":40.143911,
+    "geom:longitude":-111.577007,
+    "iso:country":"US",
+    "sg:address":"1515 N 160 E",
+    "sg:city":"Mapleton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 491 9389",
+    "sg:postcode":"84664",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27cNHXJHhHooFQwAvNAZh9_40.143911_-111.577007@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121606,
+    "wof:geomhash":"d0c828e4c6ac1cf61e13101c191a0943",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857087765
+        }
+    ],
+    "wof:id":857087765,
+    "wof:lastmodified":1464121606,
+    "wof:name":"D&M Construction",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -111.577007,
+    40.143911,
+    -111.577007,
+    40.143911
+],
+  "geometry": {"coordinates":[-111.57700699999999,40.143911],"type":"Point"}
+}

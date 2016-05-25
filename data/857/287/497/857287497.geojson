@@ -1,0 +1,75 @@
+{
+  "id": 857287497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.908198,40.667038,-111.908198,40.667038",
+    "geom:latitude":40.667038,
+    "geom:longitude":-111.908198,
+    "iso:country":"US",
+    "sg:address":"530 W 4800 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 269 0775",
+    "sg:postcode":"84123",
+    "sg:province":"UT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85851609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5682JXHNf4zZrNg0n5m7VY_40.667038_-111.908198@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126075,
+    "wof:geomhash":"555d57eef0e4d0da39631d65a90c63ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85851609,
+            "region_id":85688567,
+            "venue_id":857287497
+        }
+    ],
+    "wof:id":857287497,
+    "wof:lastmodified":1464126075,
+    "wof:name":"Circle K Store",
+    "wof:parent_id":85851609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -111.908198,
+    40.667038,
+    -111.908198,
+    40.667038
+],
+  "geometry": {"coordinates":[-111.908198,40.667038],"type":"Point"}
+}

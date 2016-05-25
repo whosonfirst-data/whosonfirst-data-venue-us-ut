@@ -1,0 +1,73 @@
+{
+  "id": 857370233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.797286,40.36766,-111.797286,40.36766",
+    "geom:latitude":40.36766,
+    "geom:longitude":-111.797286,
+    "iso:country":"US",
+    "sg:address":"72 E Frontage Rd",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 2928",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "commercial",
+        "storage",
+        "special"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OjcMCiBBMcwYHHRWyvGMg_40.367660_-111.797286@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127910,
+    "wof:geomhash":"b1f11c0618ebf6352e213f9d7de67d22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857370233
+        }
+    ],
+    "wof:id":857370233,
+    "wof:lastmodified":1464127910,
+    "wof:name":"Harbor Storage",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage",
+        "special"
+    ]
+},
+  "bbox": [
+    -111.797286,
+    40.36766,
+    -111.797286,
+    40.36766
+],
+  "geometry": {"coordinates":[-111.797286,40.36766],"type":"Point"}
+}

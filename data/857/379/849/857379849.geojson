@@ -1,0 +1,68 @@
+{
+  "id": 857379849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.970762,41.211347,-111.970762,41.211347",
+    "geom:latitude":41.211347,
+    "geom:longitude":-111.970762,
+    "iso:country":"US",
+    "sg:address":"2955 Washington Blvd",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 394 3474",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85810249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vrRPLLViusy01f5mQnoNe_41.211347_-111.970762@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128113,
+    "wof:geomhash":"40e04ba4cdbb30fb10f3508339eabc92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85810249,
+            "region_id":85688567,
+            "venue_id":857379849
+        }
+    ],
+    "wof:id":857379849,
+    "wof:lastmodified":1464128113,
+    "wof:name":"Klenke Floral Inc",
+    "wof:parent_id":85810249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.970762,
+    41.211347,
+    -111.970762,
+    41.211347
+],
+  "geometry": {"coordinates":[-111.97076199999999,41.211347],"type":"Point"}
+}

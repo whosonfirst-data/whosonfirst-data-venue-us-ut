@@ -1,0 +1,73 @@
+{
+  "id": 857167437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.677474,40.256831,-111.677474,40.256831",
+    "geom:latitude":40.256831,
+    "geom:longitude":-111.677474,
+    "iso:country":"US",
+    "sg:address":"1777 N 1050 W",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 4718",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5e8du2fKHb07kIqNNg7iDC_40.256831_-111.677474@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123520,
+    "wof:geomhash":"b16561c1d97a7a1347f3ab90db573091",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880063,
+            "region_id":85688567,
+            "venue_id":857167437
+        }
+    ],
+    "wof:id":857167437,
+    "wof:lastmodified":1464123520,
+    "wof:name":"Token Photography",
+    "wof:parent_id":85880063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -111.677474,
+    40.256831,
+    -111.677474,
+    40.256831
+],
+  "geometry": {"coordinates":[-111.677474,40.256831],"type":"Point"}
+}

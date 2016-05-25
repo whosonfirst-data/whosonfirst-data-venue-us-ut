@@ -1,0 +1,68 @@
+{
+  "id": 857225875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.899647,40.696621,-111.899647,40.696621",
+    "geom:latitude":40.696621,
+    "geom:longitude":-111.899647,
+    "iso:country":"US",
+    "sg:address":"3571 S 300 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 262 6994",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85810147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wtNobtFrylxNoMW2U4wvc_40.696621_-111.899647@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124727,
+    "wof:geomhash":"31780ff6f56739ad18bd50128d2d04cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85810147,
+            "region_id":85688567,
+            "venue_id":857225875
+        }
+    ],
+    "wof:id":857225875,
+    "wof:lastmodified":1464124727,
+    "wof:name":"Plastic Fabricating",
+    "wof:parent_id":85810147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.899647,
+    40.696621,
+    -111.899647,
+    40.696621
+],
+  "geometry": {"coordinates":[-111.899647,40.696621],"type":"Point"}
+}

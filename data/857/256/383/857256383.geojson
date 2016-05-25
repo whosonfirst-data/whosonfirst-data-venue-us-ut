@@ -1,0 +1,71 @@
+{
+  "id": 857256383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.829267,41.311819,-111.829267,41.311819",
+    "geom:latitude":41.311819,
+    "geom:longitude":-111.829267,
+    "iso:country":"US",
+    "sg:address":"4767 E 2800 N",
+    "sg:city":"Eden",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Signs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 745 3959",
+    "sg:postcode":"84310",
+    "sg:province":"UT",
+    "sg:tags":[
+        "specialty",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85824645,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cKbkyGyyovCGsrkNuNp0m_41.311819_-111.829267@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125415,
+    "wof:geomhash":"b70683ef92d8bd4f807753220f4505a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85824645,
+            "region_id":85688567,
+            "venue_id":857256383
+        }
+    ],
+    "wof:id":857256383,
+    "wof:lastmodified":1464125415,
+    "wof:name":"Signs Etc",
+    "wof:parent_id":85824645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.829267,
+    41.311819,
+    -111.829267,
+    41.311819
+],
+  "geometry": {"coordinates":[-111.829267,41.311819],"type":"Point"}
+}

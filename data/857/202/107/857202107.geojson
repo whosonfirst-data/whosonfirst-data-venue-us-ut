@@ -1,0 +1,75 @@
+{
+  "id": 857202107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.733724,40.298969,-111.733724,40.298969",
+    "geom:latitude":40.298969,
+    "geom:longitude":-111.733724,
+    "iso:country":"US",
+    "sg:address":"280 N Geneva Rd",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 225 6490",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727827,
+        102083567,
+        85821287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NdNfIRFwXPMbMB94S3trc_40.298969_-111.733724@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124214,
+    "wof:geomhash":"e82eaed24fc1f0ab6d0031f393cc0745",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727827,
+            "neighbourhood_id":85821287,
+            "region_id":85688567,
+            "venue_id":857202107
+        }
+    ],
+    "wof:id":857202107,
+    "wof:lastmodified":1464124214,
+    "wof:name":"Overman Concrete Inc",
+    "wof:parent_id":85821287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.733724,
+    40.298969,
+    -111.733724,
+    40.298969
+],
+  "geometry": {"coordinates":[-111.733724,40.298969],"type":"Point"}
+}

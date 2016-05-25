@@ -1,0 +1,68 @@
+{
+  "id": 857239909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.891054,40.666935,-111.891054,40.666935",
+    "geom:latitude":40.666935,
+    "geom:longitude":-111.891054,
+    "iso:country":"US",
+    "sg:address":"5 E 4800 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 268 6004",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85804367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oRV6xcHK2JyGFNJPc8exN_40.666935_-111.891054@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125007,
+    "wof:geomhash":"525a714f648772c45c2a23df43f7dbdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85804367,
+            "region_id":85688567,
+            "venue_id":857239909
+        }
+    ],
+    "wof:id":857239909,
+    "wof:lastmodified":1464125007,
+    "wof:name":"Go In Sytle",
+    "wof:parent_id":85804367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.891054,
+    40.666935,
+    -111.891054,
+    40.666935
+],
+  "geometry": {"coordinates":[-111.891054,40.666935],"type":"Point"}
+}

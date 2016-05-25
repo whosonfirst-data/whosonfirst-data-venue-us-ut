@@ -1,0 +1,71 @@
+{
+  "id": 857318945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.906235,41.124486,-111.906235,41.124486",
+    "geom:latitude":41.124486,
+    "geom:longitude":-111.906235,
+    "iso:country":"US",
+    "sg:address":"2765 E 7825 S",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 476 1046",
+    "sg:postcode":"84405",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727911,
+        102083563,
+        85847875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hZmQb97gRF06CYMB8UkXu_41.124486_-111.906235@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126829,
+    "wof:geomhash":"99c542f93c2f561fa25c39ef04b52012",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727911,
+            "neighbourhood_id":85847875,
+            "region_id":85688567,
+            "venue_id":857318945
+        }
+    ],
+    "wof:id":857318945,
+    "wof:lastmodified":1464126829,
+    "wof:name":"Savvy Salon",
+    "wof:parent_id":85847875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.906235,
+    41.124486,
+    -111.906235,
+    41.124486
+],
+  "geometry": {"coordinates":[-111.906235,41.124486],"type":"Point"}
+}

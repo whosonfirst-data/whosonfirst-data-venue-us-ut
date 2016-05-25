@@ -1,0 +1,76 @@
+{
+  "id": 857491651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.025993,41.122019,-112.025993,41.122019",
+    "geom:latitude":41.122019,
+    "geom:longitude":-112.025993,
+    "iso:country":"US",
+    "sg:address":"564 N Main St",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/north-davis/132877-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 774 7568",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85851583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XsAhN3LksXfwrs0IEh4mV_41.122019_-112.025993@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130647,
+    "wof:geomhash":"7987ff96e5f8b19d9eb5f498aa39325d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85851583,
+            "region_id":85688567,
+            "venue_id":857491651
+        }
+    ],
+    "wof:id":857491651,
+    "wof:lastmodified":1464130647,
+    "wof:name":"Subway",
+    "wof:parent_id":85851583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -112.025993,
+    41.122019,
+    -112.025993,
+    41.122019
+],
+  "geometry": {"coordinates":[-112.025993,41.122019],"type":"Point"}
+}

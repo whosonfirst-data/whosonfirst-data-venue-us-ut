@@ -1,0 +1,71 @@
+{
+  "id": 857136549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.938687,41.035507,-111.938687,41.035507",
+    "geom:latitude":41.035507,
+    "geom:longitude":-111.938687,
+    "iso:country":"US",
+    "sg:address":"47 N Main St",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 589 4516",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "legal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0W6lRQ2jgO58zNfF0S2nn7_41.035507_-111.938687@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122820,
+    "wof:geomhash":"409ab50170d90ba48f5b1b19caf2f559",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857136549
+        }
+    ],
+    "wof:id":857136549,
+    "wof:lastmodified":1464122820,
+    "wof:name":"ERA",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "legal"
+    ]
+},
+  "bbox": [
+    -111.938687,
+    41.035507,
+    -111.938687,
+    41.035507
+],
+  "geometry": {"coordinates":[-111.938687,41.035507],"type":"Point"}
+}

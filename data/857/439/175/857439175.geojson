@@ -1,0 +1,67 @@
+{
+  "id": 857439175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834171,41.762935,-111.834171,41.762935",
+    "geom:latitude":41.762935,
+    "geom:longitude":-111.834171,
+    "iso:country":"US",
+    "sg:address":"1750 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 9530",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:website":"www.kmart.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CVV2o9wGEFO3uY8IwTiAk_41.762935_-111.834171@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129553,
+    "wof:geomhash":"b6742450b98a08a77a793a72ba55abc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857439175
+        }
+    ],
+    "wof:id":857439175,
+    "wof:lastmodified":1464129553,
+    "wof:name":"Kmart",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.834171,
+    41.762935,
+    -111.834171,
+    41.762935
+],
+  "geometry": {"coordinates":[-111.834171,41.762935],"type":"Point"}
+}

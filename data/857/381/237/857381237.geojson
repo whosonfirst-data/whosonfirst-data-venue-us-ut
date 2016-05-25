@@ -1,0 +1,68 @@
+{
+  "id": 857381237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.973475,41.220767,-111.973475,41.220767",
+    "geom:latitude":41.220767,
+    "geom:longitude":-111.973475,
+    "iso:country":"US",
+    "sg:address":"208 25th St",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 622 5588",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85820759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qfSsnh8f0lEu0CjWDAzbj_41.220767_-111.973475@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128157,
+    "wof:geomhash":"3e938abd97ebc7454c0318852201ff49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85820759,
+            "region_id":85688567,
+            "venue_id":857381237
+        }
+    ],
+    "wof:id":857381237,
+    "wof:lastmodified":1464128157,
+    "wof:name":"Laffs Comedy Club",
+    "wof:parent_id":85820759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.973475,
+    41.220767,
+    -111.973475,
+    41.220767
+],
+  "geometry": {"coordinates":[-111.97347499999999,41.220767],"type":"Point"}
+}

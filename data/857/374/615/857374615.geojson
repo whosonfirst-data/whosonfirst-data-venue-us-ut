@@ -1,0 +1,68 @@
+{
+  "id": 857374615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.84532,40.77219,-111.84532,40.77219",
+    "geom:latitude":40.77219,
+    "geom:longitude":-111.84532,
+    "iso:country":"US",
+    "sg:address":"1515 Military Way",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Labor Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 359 7244",
+    "sg:postcode":"84103",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85806677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yPt9H4t4CapDA1Cjz6vIz_40.772190_-111.845320@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128000,
+    "wof:geomhash":"c6891cdfbb74b3c7483cc54958f59c4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85806677,
+            "region_id":85688567,
+            "venue_id":857374615
+        }
+    ],
+    "wof:id":857374615,
+    "wof:lastmodified":1464128000,
+    "wof:name":"Ruggles Health Institute Lc",
+    "wof:parent_id":85806677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.84532,
+    40.77219,
+    -111.84532,
+    40.77219
+],
+  "geometry": {"coordinates":[-111.84532,40.77219],"type":"Point"}
+}

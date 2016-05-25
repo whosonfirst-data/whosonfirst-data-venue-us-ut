@@ -1,0 +1,71 @@
+{
+  "id": 857367253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.788909,40.364268,-111.788909,40.364268",
+    "geom:latitude":40.364268,
+    "geom:longitude":-111.788909,
+    "iso:country":"US",
+    "sg:address":"380 E 620 S",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 3434",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "equipment",
+        "playground"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3srDAVXhW9HwZuA9eNa5kO_40.364268_-111.788909@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127849,
+    "wof:geomhash":"c7de7dd4cd8bb7d3c0bb5770d150d0eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857367253
+        }
+    ],
+    "wof:id":857367253,
+    "wof:lastmodified":1464127849,
+    "wof:name":"Woodplay Of Utah",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "playground"
+    ]
+},
+  "bbox": [
+    -111.788909,
+    40.364268,
+    -111.788909,
+    40.364268
+],
+  "geometry": {"coordinates":[-111.788909,40.364268],"type":"Point"}
+}

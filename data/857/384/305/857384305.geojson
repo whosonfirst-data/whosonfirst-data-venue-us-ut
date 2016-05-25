@@ -1,0 +1,75 @@
+{
+  "id": 857384305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.590921,40.1062,-111.590921,40.1062",
+    "geom:latitude":40.1062,
+    "geom:longitude":-111.590921,
+    "iso:country":"US",
+    "sg:address":"1075 W 2620 S",
+    "sg:city":"Mapleton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 489 0500",
+    "sg:postcode":"84664",
+    "sg:province":"UT",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19OYOiuNt9rE6a38ZNceSw_40.106200_-111.590921@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128250,
+    "wof:geomhash":"cf3e0069306cbb44267c7ca471a5030e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857384305
+        }
+    ],
+    "wof:id":857384305,
+    "wof:lastmodified":1464128250,
+    "wof:name":"Country Cats Resort LLC",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -111.590921,
+    40.1062,
+    -111.590921,
+    40.1062
+],
+  "geometry": {"coordinates":[-111.59092099999999,40.1062],"type":"Point"}
+}

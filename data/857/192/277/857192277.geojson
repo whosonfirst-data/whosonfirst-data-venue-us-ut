@@ -1,0 +1,73 @@
+{
+  "id": 857192277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.845047,40.728967,-111.845047,40.728967",
+    "geom:latitude":40.728967,
+    "geom:longitude":-111.845047,
+    "iso:country":"US",
+    "sg:address":"1919 S 1600 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 466 1874",
+    "sg:postcode":"84105",
+    "sg:province":"UT",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85857009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13wTd1m7881c5U5SOopzPT_40.728967_-111.845047@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124029,
+    "wof:geomhash":"a54bfcf9136a7239f7606cdd7a506e85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85857009,
+            "region_id":85688567,
+            "venue_id":857192277
+        }
+    ],
+    "wof:id":857192277,
+    "wof:lastmodified":1464124029,
+    "wof:name":"Home Inspector",
+    "wof:parent_id":85857009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -111.845047,
+    40.728967,
+    -111.845047,
+    40.728967
+],
+  "geometry": {"coordinates":[-111.84504699999999,40.728967],"type":"Point"}
+}

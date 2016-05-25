@@ -1,0 +1,83 @@
+{
+  "id": 857382511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.735223,40.275159,-111.735223,40.275159",
+    "geom:latitude":40.275159,
+    "geom:longitude":-111.735223,
+    "iso:country":"US",
+    "sg:address":"1111 S 1680 W",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 765 9848",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop",
+        "installation",
+        "automobile",
+        "glass",
+        "car",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727827,
+        102083567,
+        85821287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oW1ttY6crjOWkFpVwZ1Lc_40.275159_-111.735223@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128198,
+    "wof:geomhash":"a64b44f85a40a9ca01d9e634990d0e2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727827,
+            "neighbourhood_id":85821287,
+            "region_id":85688567,
+            "venue_id":857382511
+        }
+    ],
+    "wof:id":857382511,
+    "wof:lastmodified":1464128198,
+    "wof:name":"Windshield Experts LLC",
+    "wof:parent_id":85821287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "installation",
+        "automobile",
+        "glass",
+        "car",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -111.735223,
+    40.275159,
+    -111.735223,
+    40.275159
+],
+  "geometry": {"coordinates":[-111.735223,40.275159],"type":"Point"}
+}

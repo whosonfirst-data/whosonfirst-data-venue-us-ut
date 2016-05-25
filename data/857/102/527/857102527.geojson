@@ -1,0 +1,79 @@
+{
+  "id": 857102527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.665222,40.233869,-111.665222,40.233869",
+    "geom:latitude":40.233869,
+    "geom:longitude":-111.665222,
+    "iso:country":"US",
+    "sg:address":"330 W Center St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 6827",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "hearing",
+        "equipment",
+        "supply",
+        "impaired"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iztN4vzBWLTekPud3E5lO_40.233869_-111.665222@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121971,
+    "wof:geomhash":"735b99702322381ebdaea9d4700c6d24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880065,
+            "region_id":85688567,
+            "venue_id":857102527
+        }
+    ],
+    "wof:id":857102527,
+    "wof:lastmodified":1464121971,
+    "wof:name":"Harris Hearing Aid Ctr",
+    "wof:parent_id":85880065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hearing",
+        "equipment",
+        "supply",
+        "impaired"
+    ]
+},
+  "bbox": [
+    -111.665222,
+    40.233869,
+    -111.665222,
+    40.233869
+],
+  "geometry": {"coordinates":[-111.665222,40.233869],"type":"Point"}
+}

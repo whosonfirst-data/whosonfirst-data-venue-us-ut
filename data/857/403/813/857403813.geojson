@@ -1,0 +1,75 @@
+{
+  "id": 857403813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.816023,40.708079,-111.816023,40.708079",
+    "geom:latitude":40.708079,
+    "geom:longitude":-111.816023,
+    "iso:country":"US",
+    "sg:address":"2833 S Wainwright Rd",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 599 6065",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85859423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60GZdCc70XnBoXC280ujVq_40.708079_-111.816023@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128699,
+    "wof:geomhash":"b479044f51ede2c3f2f2262cae84ad34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85859423,
+            "region_id":85688567,
+            "venue_id":857403813
+        }
+    ],
+    "wof:id":857403813,
+    "wof:lastmodified":1464128699,
+    "wof:name":"Advantage Roofing & Construct",
+    "wof:parent_id":85859423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.816023,
+    40.708079,
+    -111.816023,
+    40.708079
+],
+  "geometry": {"coordinates":[-111.816023,40.708079],"type":"Point"}
+}

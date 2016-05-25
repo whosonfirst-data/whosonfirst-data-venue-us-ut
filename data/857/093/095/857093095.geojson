@@ -1,0 +1,71 @@
+{
+  "id": 857093095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.607632,40.092066,-111.607632,40.092066",
+    "geom:latitude":40.092066,
+    "geom:longitude":-111.607632,
+    "iso:country":"US",
+    "sg:address":"1354 S 2850 E",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 6693",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qtJNzV7okC6RWbUHwEZAo_40.092066_-111.607632@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121753,
+    "wof:geomhash":"fc6356949dbf698044464441f550a800",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857093095
+        }
+    ],
+    "wof:id":857093095,
+    "wof:lastmodified":1464121753,
+    "wof:name":"Foran Preschool",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -111.607632,
+    40.092066,
+    -111.607632,
+    40.092066
+],
+  "geometry": {"coordinates":[-111.607632,40.092066],"type":"Point"}
+}

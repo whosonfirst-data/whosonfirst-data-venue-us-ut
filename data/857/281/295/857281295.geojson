@@ -1,0 +1,75 @@
+{
+  "id": 857281295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.707063,40.264085,-111.707063,40.264085",
+    "geom:latitude":40.264085,
+    "geom:longitude":-111.707063,
+    "iso:country":"US",
+    "sg:address":"1834 Sandhill Rd",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 226 1292",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36YxrP4jIn11w1f1R4tQgF_40.264085_-111.707063@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125947,
+    "wof:geomhash":"8e5a0b79cee8563a42a9d986cb10460e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880087,
+            "region_id":85688567,
+            "venue_id":857281295
+        }
+    ],
+    "wof:id":857281295,
+    "wof:lastmodified":1464125947,
+    "wof:name":"Ascent Inc",
+    "wof:parent_id":85880087,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -111.707063,
+    40.264085,
+    -111.707063,
+    40.264085
+],
+  "geometry": {"coordinates":[-111.70706300000001,40.264085],"type":"Point"}
+}

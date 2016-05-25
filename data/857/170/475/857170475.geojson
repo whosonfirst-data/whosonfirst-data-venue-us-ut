@@ -1,0 +1,71 @@
+{
+  "id": 857170475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.625177,40.104627,-111.625177,40.104627",
+    "geom:latitude":40.104627,
+    "geom:longitude":-111.625177,
+    "iso:country":"US",
+    "sg:address":"1636 E 410 S",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 794 1576",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iWjauDE1gIIRIdNzZkmS2_40.104627_-111.625177@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123594,
+    "wof:geomhash":"62637db37eaa5de73472c453f9470b84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857170475
+        }
+    ],
+    "wof:id":857170475,
+    "wof:lastmodified":1464123594,
+    "wof:name":"Lending Co",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -111.625177,
+    40.104627,
+    -111.625177,
+    40.104627
+],
+  "geometry": {"coordinates":[-111.62517699999999,40.104627],"type":"Point"}
+}

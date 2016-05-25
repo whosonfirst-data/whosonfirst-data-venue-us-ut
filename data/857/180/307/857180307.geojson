@@ -1,0 +1,73 @@
+{
+  "id": 857180307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.662393,40.263368,-111.662393,40.263368",
+    "geom:latitude":40.263368,
+    "geom:longitude":-111.662393,
+    "iso:country":"US",
+    "sg:address":"247 W 2230 North St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 374 2405",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1U82HladJPsDK1uXe9WCLU_40.263368_-111.662393@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123803,
+    "wof:geomhash":"d5e8ac764aee07f8b29f83121d98aa25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880063,
+            "region_id":85688567,
+            "venue_id":857180307
+        }
+    ],
+    "wof:id":857180307,
+    "wof:lastmodified":1464123803,
+    "wof:name":"Francis Dental Center",
+    "wof:parent_id":85880063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -111.662393,
+    40.263368,
+    -111.662393,
+    40.263368
+],
+  "geometry": {"coordinates":[-111.66239299999999,40.263368],"type":"Point"}
+}

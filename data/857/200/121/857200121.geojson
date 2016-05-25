@@ -1,0 +1,68 @@
+{
+  "id": 857200121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.888363,40.666441,-111.888363,40.666441",
+    "geom:latitude":40.666441,
+    "geom:longitude":-111.888363,
+    "iso:country":"US",
+    "sg:address":"4854 S State St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 265 0595",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85804367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yQMb4CYjuevcbvFRayWNb_40.666441_-111.888363@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124178,
+    "wof:geomhash":"57d9073078b0834b2d05c13a21f558e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85804367,
+            "region_id":85688567,
+            "venue_id":857200121
+        }
+    ],
+    "wof:id":857200121,
+    "wof:lastmodified":1464124178,
+    "wof:name":"Ruths Aunt Antiques",
+    "wof:parent_id":85804367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.888363,
+    40.666441,
+    -111.888363,
+    40.666441
+],
+  "geometry": {"coordinates":[-111.888363,40.666441],"type":"Point"}
+}

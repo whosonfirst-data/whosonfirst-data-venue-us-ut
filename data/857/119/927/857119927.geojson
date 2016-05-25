@@ -1,0 +1,71 @@
+{
+  "id": 857119927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.679414,40.044222,-111.679414,40.044222",
+    "geom:latitude":40.044222,
+    "geom:longitude":-111.679414,
+    "iso:country":"US",
+    "sg:address":"695 S 300 W",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 423 2510",
+    "sg:postcode":"84653",
+    "sg:province":"UT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2l6Ne8E8JXHarb1uFZCQF6_40.044222_-111.679414@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122448,
+    "wof:geomhash":"3632b6fc757caa2b7a6b036b72dc484b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857119927
+        }
+    ],
+    "wof:id":857119927,
+    "wof:lastmodified":1464122448,
+    "wof:name":"Church Of Jesus Christ Of Lds",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -111.679414,
+    40.044222,
+    -111.679414,
+    40.044222
+],
+  "geometry": {"coordinates":[-111.67941399999999,40.044222],"type":"Point"}
+}

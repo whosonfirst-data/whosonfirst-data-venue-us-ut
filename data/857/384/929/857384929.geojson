@@ -1,0 +1,73 @@
+{
+  "id": 857384929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.978146,40.726138,-111.978146,40.726138",
+    "geom:latitude":40.726138,
+    "geom:longitude":-111.978146,
+    "iso:country":"US",
+    "sg:address":"3642 W 2100 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 746 3255",
+    "sg:postcode":"84120",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85844521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55v07WidcFFsMEvVzBpRc8_40.726138_-111.978146@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128268,
+    "wof:geomhash":"c1ad581c0821c87aed0ed4ad8d4eeab4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85844521,
+            "region_id":85688567,
+            "venue_id":857384929
+        }
+    ],
+    "wof:id":857384929,
+    "wof:lastmodified":1464128268,
+    "wof:name":"Prettyman Construction",
+    "wof:parent_id":85844521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.978146,
+    40.726138,
+    -111.978146,
+    40.726138
+],
+  "geometry": {"coordinates":[-111.978146,40.726138],"type":"Point"}
+}

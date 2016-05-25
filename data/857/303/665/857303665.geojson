@@ -1,0 +1,71 @@
+{
+  "id": 857303665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.930034,41.000869,-111.930034,41.000869",
+    "geom:latitude":41.000869,
+    "geom:longitude":-111.930034,
+    "iso:country":"US",
+    "sg:address":"397 E Shepard Ln",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 447 3437",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yFNG9oLvfLErVIuaEZCaY_41.000869_-111.930034@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126490,
+    "wof:geomhash":"e66bf18af3a4ef8871c4f505934c262d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857303665
+        }
+    ],
+    "wof:id":857303665,
+    "wof:lastmodified":1464126490,
+    "wof:name":"AAA Maintenance Home Inc",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -111.930034,
+    41.000869,
+    -111.930034,
+    41.000869
+],
+  "geometry": {"coordinates":[-111.93003400000001,41.000869],"type":"Point"}
+}

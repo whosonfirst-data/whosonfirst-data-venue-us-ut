@@ -1,0 +1,73 @@
+{
+  "id": 857479305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.931963,40.69851,-111.931963,40.69851",
+    "geom:latitude":40.69851,
+    "geom:longitude":-111.931963,
+    "iso:country":"US",
+    "sg:address":"1426 W 3500 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 972 1199",
+    "sg:postcode":"84119",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85816697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LBsoIt8HiIbyBMuSiKP2O_40.698510_-111.931963@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130357,
+    "wof:geomhash":"b250f82435bd4ad6d875546d6744aba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85816697,
+            "region_id":85688567,
+            "venue_id":857479305
+        }
+    ],
+    "wof:id":857479305,
+    "wof:lastmodified":1464130357,
+    "wof:name":"Salon Francescas",
+    "wof:parent_id":85816697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.931963,
+    40.69851,
+    -111.931963,
+    40.69851
+],
+  "geometry": {"coordinates":[-111.931963,40.69851],"type":"Point"}
+}

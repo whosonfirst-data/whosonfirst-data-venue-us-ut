@@ -1,0 +1,71 @@
+{
+  "id": 857131835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.780449,40.673333,-111.780449,40.673333",
+    "geom:latitude":40.673333,
+    "geom:longitude":-111.780449,
+    "iso:country":"US",
+    "sg:address":"4459 S Zarahemla Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 278 2666",
+    "sg:postcode":"84124",
+    "sg:province":"UT",
+    "sg:tags":[
+        "consultant",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85835599,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nDi7S79fC6pR7YNPpv5MR_40.673333_-111.780449@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122716,
+    "wof:geomhash":"a9cc6f6ac7bd4cd6b84c5bc3bfbd85e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85835599,
+            "region_id":85688567,
+            "venue_id":857131835
+        }
+    ],
+    "wof:id":857131835,
+    "wof:lastmodified":1464122716,
+    "wof:name":"Laberge Consulting",
+    "wof:parent_id":85835599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "business"
+    ]
+},
+  "bbox": [
+    -111.780449,
+    40.673333,
+    -111.780449,
+    40.673333
+],
+  "geometry": {"coordinates":[-111.780449,40.673333],"type":"Point"}
+}

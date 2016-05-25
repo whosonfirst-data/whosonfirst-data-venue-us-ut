@@ -1,0 +1,73 @@
+{
+  "id": 857383811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.956269,41.058125,-111.956269,41.058125",
+    "geom:latitude":41.058125,
+    "geom:longitude":-111.956269,
+    "iso:country":"US",
+    "sg:address":"75 Mill Rd",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 444 0141",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "avon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Crab5WMJn4XDNHw3ZeZVJ_41.058125_-111.956269@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128237,
+    "wof:geomhash":"e0f70ba59bdede4bfe3a95c94c1813d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857383811
+        }
+    ],
+    "wof:id":857383811,
+    "wof:lastmodified":1464128237,
+    "wof:name":"Avon By Berta",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "avon"
+    ]
+},
+  "bbox": [
+    -111.956269,
+    41.058125,
+    -111.956269,
+    41.058125
+],
+  "geometry": {"coordinates":[-111.95626900000001,41.058125],"type":"Point"}
+}

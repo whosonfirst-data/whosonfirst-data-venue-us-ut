@@ -1,0 +1,74 @@
+{
+  "id": 857102443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.665619,40.263646,-111.665619,40.263646",
+    "geom:latitude":40.263646,
+    "geom:longitude":-111.665619,
+    "iso:country":"US",
+    "sg:address":"404 W 2230 N",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 226 2565",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "sg:website":"www.wilsondiamonds.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pufJuvD5YwgKrzjJSHeIo_40.263646_-111.665619@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121970,
+    "wof:geomhash":"635f227345f0a301454483d95a776e49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880063,
+            "region_id":85688567,
+            "venue_id":857102443
+        }
+    ],
+    "wof:id":857102443,
+    "wof:lastmodified":1464121970,
+    "wof:name":"Wilson Diamonds",
+    "wof:parent_id":85880063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -111.665619,
+    40.263646,
+    -111.665619,
+    40.263646
+],
+  "geometry": {"coordinates":[-111.66561900000001,40.263646],"type":"Point"}
+}

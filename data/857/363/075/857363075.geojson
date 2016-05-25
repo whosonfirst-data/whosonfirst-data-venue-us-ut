@@ -1,0 +1,71 @@
+{
+  "id": 857363075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.695783,40.233782,-111.695783,40.233782",
+    "geom:latitude":40.233782,
+    "geom:longitude":-111.695783,
+    "iso:country":"US",
+    "sg:address":"2075 W Center St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 377 5030",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880073,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cz5B1Qs95VRMTVuIJbifL_40.233782_-111.695783@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127762,
+    "wof:geomhash":"91b43eafc135b0e3de93409324780595",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880073,
+            "region_id":85688567,
+            "venue_id":857363075
+        }
+    ],
+    "wof:id":857363075,
+    "wof:lastmodified":1464127762,
+    "wof:name":"D & L Corp",
+    "wof:parent_id":85880073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -111.695783,
+    40.233782,
+    -111.695783,
+    40.233782
+],
+  "geometry": {"coordinates":[-111.69578300000001,40.233782],"type":"Point"}
+}

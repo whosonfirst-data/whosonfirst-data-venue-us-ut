@@ -1,0 +1,84 @@
+{
+  "id": 857414091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.784287,40.373586,-111.784287,40.373586",
+    "geom:latitude":40.373586,
+    "geom:longitude":-111.784287,
+    "iso:country":"US",
+    "sg:address":"530 E State Rd",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 772 0961",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "refinishing",
+        "floor",
+        "hardwood",
+        "laying",
+        "resurfacing",
+        "mill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qMCduM0CSswHAInmvnjm5_40.373586_-111.784287@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128946,
+    "wof:geomhash":"8bf0bdb650ad7cc4a1caa617d957b723",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857414091
+        }
+    ],
+    "wof:id":857414091,
+    "wof:lastmodified":1464128946,
+    "wof:name":"Mountain Heights Hardwood Flrs",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refinishing",
+        "floor",
+        "hardwood",
+        "laying",
+        "resurfacing",
+        "mill"
+    ]
+},
+  "bbox": [
+    -111.784287,
+    40.373586,
+    -111.784287,
+    40.373586
+],
+  "geometry": {"coordinates":[-111.78428700000001,40.373586],"type":"Point"}
+}

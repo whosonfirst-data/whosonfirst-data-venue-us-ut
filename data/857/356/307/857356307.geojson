@@ -1,0 +1,73 @@
+{
+  "id": 857356307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.667479,40.23383,-111.667479,40.23383",
+    "geom:latitude":40.23383,
+    "geom:longitude":-111.667479,
+    "iso:country":"US",
+    "sg:address":"402 W Center St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 374 8273",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2t4sP3EJzcWltAvNvUqBgj_40.233830_-111.667479@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127622,
+    "wof:geomhash":"c2e72f82c0090037c8504d9164467b8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880065,
+            "region_id":85688567,
+            "venue_id":857356307
+        }
+    ],
+    "wof:id":857356307,
+    "wof:lastmodified":1464127622,
+    "wof:name":"AAA Furniture Co",
+    "wof:parent_id":85880065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furniture"
+    ]
+},
+  "bbox": [
+    -111.667479,
+    40.23383,
+    -111.667479,
+    40.23383
+],
+  "geometry": {"coordinates":[-111.667479,40.23383],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857201371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.997937,40.597225,-111.997937,40.597225",
+    "geom:latitude":40.597225,
+    "geom:longitude":-111.997937,
+    "iso:country":"US",
+    "sg:address":"8409 S Bingham Vw",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 561 0770",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85854997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tpOFO8DzXG84VqUtTo89H_40.597225_-111.997937@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124201,
+    "wof:geomhash":"ba79b95fe65a1b5c0d75bf947ac51eae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85854997,
+            "region_id":85688567,
+            "venue_id":857201371
+        }
+    ],
+    "wof:id":857201371,
+    "wof:lastmodified":1464124201,
+    "wof:name":"Carb Master",
+    "wof:parent_id":85854997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -111.997937,
+    40.597225,
+    -111.997937,
+    40.597225
+],
+  "geometry": {"coordinates":[-111.99793699999999,40.597225],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 857492113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.70679,40.324017,-111.70679,40.324017",
+    "geom:latitude":40.324017,
+    "geom:longitude":-111.70679,
+    "iso:country":"US",
+    "sg:address":"1470 N State St",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/provo-orem/149764-einstein-bros/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 434 9222",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SiktbjKZNfXABRosgUA1o_40.324017_-111.706790@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130665,
+    "wof:geomhash":"a559f444fbc2ab97693677e658582989",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":857492113
+        }
+    ],
+    "wof:id":857492113,
+    "wof:lastmodified":1464130665,
+    "wof:name":"Einstein Bros",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ]
+},
+  "bbox": [
+    -111.70679,
+    40.324017,
+    -111.70679,
+    40.324017
+],
+  "geometry": {"coordinates":[-111.70679,40.324017],"type":"Point"}
+}

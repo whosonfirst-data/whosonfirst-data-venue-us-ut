@@ -1,0 +1,71 @@
+{
+  "id": 857091255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.844325,41.730936,-111.844325,41.730936",
+    "geom:latitude":41.730936,
+    "geom:longitude":-111.844325,
+    "iso:country":"US",
+    "sg:address":"32 Marindale Ave",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 755 8636",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "theatrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0O9wEsyqbOvHILiXGGohcA_41.730936_-111.844325@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121718,
+    "wof:geomhash":"ce12b4865c19878aeee80b5e5fd062bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857091255
+        }
+    ],
+    "wof:id":857091255,
+    "wof:lastmodified":1464121718,
+    "wof:name":"Smoke Productions",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "theatrical"
+    ]
+},
+  "bbox": [
+    -111.844325,
+    41.730936,
+    -111.844325,
+    41.730936
+],
+  "geometry": {"coordinates":[-111.844325,41.730936],"type":"Point"}
+}

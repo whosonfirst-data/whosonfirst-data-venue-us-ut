@@ -1,0 +1,75 @@
+{
+  "id": 857476385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.850275,40.717049,-111.850275,40.717049",
+    "geom:latitude":40.717049,
+    "geom:longitude":-111.850275,
+    "iso:country":"US",
+    "sg:address":"2532 Chadwick St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 485 8981",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "hardware",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85851323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65UoqSgaitCvI2zaEuwZmG_40.717049_-111.850275@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130303,
+    "wof:geomhash":"a09bab25b9a3337e111ea909ab67cc80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85851323,
+            "region_id":85688567,
+            "venue_id":857476385
+        }
+    ],
+    "wof:id":857476385,
+    "wof:lastmodified":1464130303,
+    "wof:name":"Scientific Assessment Tech",
+    "wof:parent_id":85851323,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hardware",
+        "software"
+    ]
+},
+  "bbox": [
+    -111.850275,
+    40.717049,
+    -111.850275,
+    40.717049
+],
+  "geometry": {"coordinates":[-111.850275,40.717049],"type":"Point"}
+}

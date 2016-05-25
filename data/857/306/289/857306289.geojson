@@ -1,0 +1,74 @@
+{
+  "id": 857306289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.726883,40.293834,-111.726883,40.293834",
+    "geom:latitude":40.293834,
+    "geom:longitude":-111.726883,
+    "iso:country":"US",
+    "sg:address":"150 Mountain Way Dr",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 229 6200",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "engineer"
+    ],
+    "sg:website":"www.collisionsafety.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727827,
+        102083567,
+        85821287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UvY64A89fdv3YHAR8NWiw_40.293834_-111.726883@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126545,
+    "wof:geomhash":"ca1db8442806d4176dd1f53671b9d03b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727827,
+            "neighbourhood_id":85821287,
+            "region_id":85688567,
+            "venue_id":857306289
+        }
+    ],
+    "wof:id":857306289,
+    "wof:lastmodified":1464126545,
+    "wof:name":"Collision Safety Engineering",
+    "wof:parent_id":85821287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -111.726883,
+    40.293834,
+    -111.726883,
+    40.293834
+],
+  "geometry": {"coordinates":[-111.726883,40.293834],"type":"Point"}
+}

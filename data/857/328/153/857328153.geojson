@@ -1,0 +1,73 @@
+{
+  "id": 857328153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.004312,41.228174,-112.004312,41.228174",
+    "geom:latitude":41.228174,
+    "geom:longitude":-112.004312,
+    "iso:country":"US",
+    "sg:address":"900 Wilson Ln",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 393 3812",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85818351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4m3VRnLDZY28Dd1dnfPS4L_41.228174_-112.004312@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127014,
+    "wof:geomhash":"e08d3f6378b1ebf46314c69656d5b15b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85818351,
+            "region_id":85688567,
+            "venue_id":857328153
+        }
+    ],
+    "wof:id":857328153,
+    "wof:lastmodified":1464127014,
+    "wof:name":"Godfrey Body & Paint",
+    "wof:parent_id":85818351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -112.004312,
+    41.228174,
+    -112.004312,
+    41.228174
+],
+  "geometry": {"coordinates":[-112.004312,41.228174],"type":"Point"}
+}

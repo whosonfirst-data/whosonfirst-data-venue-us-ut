@@ -1,0 +1,73 @@
+{
+  "id": 857104721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.671172,40.059601,-111.671172,40.059601",
+    "geom:latitude":40.059601,
+    "geom:longitude":-111.671172,
+    "iso:country":"US",
+    "sg:address":"387 N 100 E",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 423 9159",
+    "sg:postcode":"84653",
+    "sg:province":"UT",
+    "sg:tags":[
+        "duplicating",
+        "copying"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GWMcCSYJhExUGNsUp8WG3_40.059601_-111.671172@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122020,
+    "wof:geomhash":"d44a39441e512a81245e162c7e6bbb6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857104721
+        }
+    ],
+    "wof:id":857104721,
+    "wof:lastmodified":1464122020,
+    "wof:name":"Copy Shack",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "duplicating",
+        "copying"
+    ]
+},
+  "bbox": [
+    -111.671172,
+    40.059601,
+    -111.671172,
+    40.059601
+],
+  "geometry": {"coordinates":[-111.671172,40.059601],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857306231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.833589,40.417213,-111.833589,40.417213",
+    "geom:latitude":40.417213,
+    "geom:longitude":-111.833589,
+    "iso:country":"US",
+    "sg:address":"2255 N 1000 E",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 766 8789",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1P2tbNHgVTDbMXrMaMT6pC_40.417213_-111.833589@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126543,
+    "wof:geomhash":"ebce14647d093e8431d6b150b6192de6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857306231
+        }
+    ],
+    "wof:id":857306231,
+    "wof:lastmodified":1464126543,
+    "wof:name":"Eric Harmsen Piano Craftsman",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -111.833589,
+    40.417213,
+    -111.833589,
+    40.417213
+],
+  "geometry": {"coordinates":[-111.833589,40.417213],"type":"Point"}
+}

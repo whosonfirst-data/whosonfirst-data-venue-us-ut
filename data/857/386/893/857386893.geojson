@@ -1,0 +1,73 @@
+{
+  "id": 857386893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834805,41.73443,-111.834805,41.73443",
+    "geom:latitude":41.73443,
+    "geom:longitude":-111.834805,
+    "iso:country":"US",
+    "sg:address":"186 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 4814",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3434XAMEaytkS5RlWuD6VP_41.734430_-111.834805@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128358,
+    "wof:geomhash":"b92f867f2f3ad2290bae5683062cb536",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857386893
+        }
+    ],
+    "wof:id":857386893,
+    "wof:lastmodified":1464128358,
+    "wof:name":"A H Palmer & Sons",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.834805,
+    41.73443,
+    -111.834805,
+    41.73443
+],
+  "geometry": {"coordinates":[-111.834805,41.73443],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857472541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.873297,40.889362,-111.873297,40.889362",
+    "geom:latitude":40.889362,
+    "geom:longitude":-111.873297,
+    "iso:country":"US",
+    "sg:address":"374 E Center St",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 296 5915",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727881,
+        102083563,
+        85807249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qFJnT98SyMXR2twQ5i6lL_40.889362_-111.873297@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130229,
+    "wof:geomhash":"40d0d021c46323c7e96a57eed6ca808c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727881,
+            "neighbourhood_id":85807249,
+            "region_id":85688567,
+            "venue_id":857472541
+        }
+    ],
+    "wof:id":857472541,
+    "wof:lastmodified":1464130229,
+    "wof:name":"Oasis Health Body",
+    "wof:parent_id":85807249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.873297,
+    40.889362,
+    -111.873297,
+    40.889362
+],
+  "geometry": {"coordinates":[-111.87329699999999,40.889362],"type":"Point"}
+}

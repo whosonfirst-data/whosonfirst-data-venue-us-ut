@@ -1,0 +1,73 @@
+{
+  "id": 857262331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.853716,40.719141,-111.853716,40.719141",
+    "geom:latitude":40.719141,
+    "geom:longitude":-111.853716,
+    "iso:country":"US",
+    "sg:address":"1252 Driggs Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 668 0770",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85819795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63Cd17eKCXnbITResV8NiY_40.719141_-111.853716@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125541,
+    "wof:geomhash":"7b9aff7f35f295f38df8754adb1261be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85819795,
+            "region_id":85688567,
+            "venue_id":857262331
+        }
+    ],
+    "wof:id":857262331,
+    "wof:lastmodified":1464125541,
+    "wof:name":"Highline Consulting LLC",
+    "wof:parent_id":85819795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    -111.853716,
+    40.719141,
+    -111.853716,
+    40.719141
+],
+  "geometry": {"coordinates":[-111.85371600000001,40.719141],"type":"Point"}
+}

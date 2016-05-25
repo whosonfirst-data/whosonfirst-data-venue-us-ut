@@ -1,0 +1,68 @@
+{
+  "id": 857108411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.867136,40.772755,-111.867136,40.772755",
+    "geom:latitude":40.772755,
+    "geom:longitude":-111.867136,
+    "iso:country":"US",
+    "sg:address":"702 E 3rd Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 533 8671",
+    "sg:postcode":"84103",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0e8RxKgf0Y97y8MPZ7nGL9_40.772755_-111.867136@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122097,
+    "wof:geomhash":"29a3e46b81a4752e825b9f2a0d523ce3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871029,
+            "region_id":85688567,
+            "venue_id":857108411
+        }
+    ],
+    "wof:id":857108411,
+    "wof:lastmodified":1464122097,
+    "wof:name":"Wild Rose Mountain Sports",
+    "wof:parent_id":85871029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.867136,
+    40.772755,
+    -111.867136,
+    40.772755
+],
+  "geometry": {"coordinates":[-111.867136,40.772755],"type":"Point"}
+}

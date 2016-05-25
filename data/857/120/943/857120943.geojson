@@ -1,0 +1,75 @@
+{
+  "id": 857120943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.703669,40.316716,-111.703669,40.316716",
+    "geom:latitude":40.316716,
+    "geom:longitude":-111.703669,
+    "iso:country":"US",
+    "sg:address":"1055 N State St",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 6565",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SKSMpV664RRfQqwwSC117_40.316716_-111.703669@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122469,
+    "wof:geomhash":"6849d7d4c7e9cee9ddaed086dfe884a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":857120943
+        }
+    ],
+    "wof:id":857120943,
+    "wof:lastmodified":1464122469,
+    "wof:name":"Westec Electric Co",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.703669,
+    40.316716,
+    -111.703669,
+    40.316716
+],
+  "geometry": {"coordinates":[-111.703669,40.316716],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857492371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.061084,41.176158,-112.061084,41.176158",
+    "geom:latitude":41.176158,
+    "geom:longitude":-112.061084,
+    "iso:country":"US",
+    "sg:address":"3404 W 4800 S",
+    "sg:city":"Roy",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/ogden/81098-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 776 6100",
+    "sg:postcode":"84067",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85804651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QgrJDaP8e3HGnxJQFwgk6_41.176158_-112.061084@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130674,
+    "wof:geomhash":"76087dd9f92c16fb45f7e0fdec1bbd45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85804651,
+            "region_id":85688567,
+            "venue_id":857492371
+        }
+    ],
+    "wof:id":857492371,
+    "wof:lastmodified":1464130674,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85804651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -112.061084,
+    41.176158,
+    -112.061084,
+    41.176158
+],
+  "geometry": {"coordinates":[-112.06108399999999,41.176158],"type":"Point"}
+}

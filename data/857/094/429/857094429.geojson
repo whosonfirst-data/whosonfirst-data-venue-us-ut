@@ -1,0 +1,68 @@
+{
+  "id": 857094429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.042168,41.177002,-112.042168,41.177002",
+    "geom:latitude":41.177002,
+    "geom:longitude":-112.042168,
+    "iso:country":"US",
+    "sg:address":"2615 W 4750 S",
+    "sg:city":"Roy",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 775 8037",
+    "sg:postcode":"84067",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728023,
+        102083539,
+        85853469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KAQIgWQM22A2OttWUM9ea_41.177002_-112.042168@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121778,
+    "wof:geomhash":"7e2e491b9d5605d02ecb2cad6a1e8e21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728023,
+            "neighbourhood_id":85853469,
+            "region_id":85688567,
+            "venue_id":857094429
+        }
+    ],
+    "wof:id":857094429,
+    "wof:lastmodified":1464121778,
+    "wof:name":"Henderson Sewing Machine",
+    "wof:parent_id":85853469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.042168,
+    41.177002,
+    -112.042168,
+    41.177002
+],
+  "geometry": {"coordinates":[-112.042168,41.177002],"type":"Point"}
+}

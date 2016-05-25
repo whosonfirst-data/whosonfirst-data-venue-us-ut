@@ -1,0 +1,71 @@
+{
+  "id": 857348773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.648871,40.105761,-111.648871,40.105761",
+    "geom:latitude":40.105761,
+    "geom:longitude":-111.648871,
+    "iso:country":"US",
+    "sg:address":"350 E 300 S",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 5090",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_592RhZ5bYRcCTem0MAnImS_40.105761_-111.648871@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127459,
+    "wof:geomhash":"6fbc5a3394514f9cca347e8f320d7187",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857348773
+        }
+    ],
+    "wof:id":857348773,
+    "wof:lastmodified":1464127459,
+    "wof:name":"Spanish Fork City Ball Park",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -111.648871,
+    40.105761,
+    -111.648871,
+    40.105761
+],
+  "geometry": {"coordinates":[-111.648871,40.105761],"type":"Point"}
+}

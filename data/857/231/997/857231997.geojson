@@ -1,0 +1,69 @@
+{
+  "id": 857231997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.794532,40.381105,-111.794532,40.381105",
+    "geom:latitude":40.381105,
+    "geom:longitude":-111.794532,
+    "iso:country":"US",
+    "sg:address":"115 E 200 N",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 6027",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nvIN7z7d6EfH1AhZjUuMP_40.381105_-111.794532@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124842,
+    "wof:geomhash":"99661cb9aea7609af4918e026b5feb1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857231997
+        }
+    ],
+    "wof:id":857231997,
+    "wof:lastmodified":1464124842,
+    "wof:name":"Mad Scientist Medical Software",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [
+    -111.794532,
+    40.381105,
+    -111.794532,
+    40.381105
+],
+  "geometry": {"coordinates":[-111.794532,40.381105],"type":"Point"}
+}

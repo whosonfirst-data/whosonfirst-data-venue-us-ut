@@ -1,0 +1,69 @@
+{
+  "id": 857244729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.738402,41.256085,-111.738402,41.256085",
+    "geom:latitude":41.256085,
+    "geom:longitude":-111.738402,
+    "iso:country":"US",
+    "sg:address":"378 S 8750 E",
+    "sg:city":"Huntsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 745 6904",
+    "sg:postcode":"84317",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85818631,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZWpyoLYEOko7CWcyNq15X_41.256085_-111.738402@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125127,
+    "wof:geomhash":"843005b45b4bcaaceb22c9645ef6a750",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85818631,
+            "region_id":85688567,
+            "venue_id":857244729
+        }
+    ],
+    "wof:id":857244729,
+    "wof:lastmodified":1464125127,
+    "wof:name":"D & S Cnstr Svcs Ltd Com",
+    "wof:parent_id":85818631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -111.738402,
+    41.256085,
+    -111.738402,
+    41.256085
+],
+  "geometry": {"coordinates":[-111.73840199999999,41.256085],"type":"Point"}
+}

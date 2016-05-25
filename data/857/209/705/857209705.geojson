@@ -1,0 +1,77 @@
+{
+  "id": 857209705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.022296,41.113908,-112.022296,41.113908",
+    "geom:latitude":41.113908,
+    "geom:longitude":-112.022296,
+    "iso:country":"US",
+    "sg:address":"5 E Center St",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 773 9420",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "concrete",
+        "additive",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85851583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6K5dXGBsDJ8zUCI8ENEBeT_41.113908_-112.022296@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124385,
+    "wof:geomhash":"d4065743f834159b439724bb0124322d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85851583,
+            "region_id":85688567,
+            "venue_id":857209705
+        }
+    ],
+    "wof:id":857209705,
+    "wof:lastmodified":1464124385,
+    "wof:name":"ICI Americas Inc",
+    "wof:parent_id":85851583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "additive",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -112.022296,
+    41.113908,
+    -112.022296,
+    41.113908
+],
+  "geometry": {"coordinates":[-112.022296,41.113908],"type":"Point"}
+}

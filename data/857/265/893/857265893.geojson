@@ -1,0 +1,68 @@
+{
+  "id": 857265893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.654631,40.270885,-111.654631,40.270885",
+    "geom:latitude":40.270885,
+    "geom:longitude":-111.654631,
+    "iso:country":"US",
+    "sg:address":"2734 Edgewood Dr",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 375 9297",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZCHgzfckE6N7Vf0S9esxf_40.270885_-111.654631@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125609,
+    "wof:geomhash":"6bcb9f340d6c636e8bc1c4527ebc1d98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880109,
+            "region_id":85688567,
+            "venue_id":857265893
+        }
+    ],
+    "wof:id":857265893,
+    "wof:lastmodified":1464125609,
+    "wof:name":"Edgewood Condo Association",
+    "wof:parent_id":85880109,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.654631,
+    40.270885,
+    -111.654631,
+    40.270885
+],
+  "geometry": {"coordinates":[-111.65463099999999,40.270885],"type":"Point"}
+}

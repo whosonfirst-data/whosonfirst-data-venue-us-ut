@@ -1,0 +1,67 @@
+{
+  "id": 857370089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834447,41.753009,-111.834447,41.753009",
+    "geom:latitude":41.753009,
+    "geom:longitude":-111.834447,
+    "iso:country":"US",
+    "sg:address":"1224 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 0611",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:website":"www.calranch.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pvFi5IbTeceC76nRgjkSV_41.753009_-111.834447@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127907,
+    "wof:geomhash":"c336ab2f3cf902700fcde4957bb23e22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857370089
+        }
+    ],
+    "wof:id":857370089,
+    "wof:lastmodified":1464127907,
+    "wof:name":"CAL Ranch Stores",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.834447,
+    41.753009,
+    -111.834447,
+    41.753009
+],
+  "geometry": {"coordinates":[-111.834447,41.753009],"type":"Point"}
+}

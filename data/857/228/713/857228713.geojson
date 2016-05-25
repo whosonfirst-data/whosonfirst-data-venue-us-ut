@@ -1,0 +1,73 @@
+{
+  "id": 857228713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.027678,40.626752,-112.027678,40.626752",
+    "geom:latitude":40.626752,
+    "geom:longitude":-112.027678,
+    "iso:country":"US",
+    "sg:address":"6989 Adventure Way",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 966 2507",
+    "sg:postcode":"84084",
+    "sg:province":"UT",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728061,
+        102082877,
+        85854369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YXQS6t1mGG5zmHaBwDyO6_40.626752_-112.027678@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124785,
+    "wof:geomhash":"ef62b009552a327e457b4646be444504",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85854369,
+            "region_id":85688567,
+            "venue_id":857228713
+        }
+    ],
+    "wof:id":857228713,
+    "wof:lastmodified":1464124785,
+    "wof:name":"Parkdale Homes",
+    "wof:parent_id":85854369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -112.027678,
+    40.626752,
+    -112.027678,
+    40.626752
+],
+  "geometry": {"coordinates":[-112.02767799999999,40.626752],"type":"Point"}
+}

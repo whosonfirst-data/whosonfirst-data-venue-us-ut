@@ -1,0 +1,78 @@
+{
+  "id": 857242805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.862131,41.735614,-111.862131,41.735614",
+    "geom:latitude":41.735614,
+    "geom:longitude":-111.862131,
+    "iso:country":"US",
+    "sg:address":"1020 W 200 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 7461",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EIvvNCepAAyw3YORyQUhs_41.735614_-111.862131@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125079,
+    "wof:geomhash":"bd6769eab8641102485a38bba79dbb33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857242805
+        }
+    ],
+    "wof:id":857242805,
+    "wof:lastmodified":1464125079,
+    "wof:name":"L W's Truck Stop",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -111.862131,
+    41.735614,
+    -111.862131,
+    41.735614
+],
+  "geometry": {"coordinates":[-111.86213100000001,41.735614],"type":"Point"}
+}

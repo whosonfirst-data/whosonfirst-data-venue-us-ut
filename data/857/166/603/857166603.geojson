@@ -1,0 +1,77 @@
+{
+  "id": 857166603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.97316,40.522263,-111.97316,40.522263",
+    "geom:latitude":40.522263,
+    "geom:longitude":-111.97316,
+    "iso:country":"US",
+    "sg:address":"3311 W 12600 S",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 253 3119",
+    "sg:postcode":"84065",
+    "sg:province":"UT",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728073,
+        102082877,
+        85845107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11OE57P0iVUWBS5aKosEG3_40.522263_-111.973160@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123497,
+    "wof:geomhash":"c46c7a513eee7842ddb43cc543d5ed0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728073,
+            "neighbourhood_id":85845107,
+            "region_id":85688567,
+            "venue_id":857166603
+        }
+    ],
+    "wof:id":857166603,
+    "wof:lastmodified":1464123497,
+    "wof:name":"Budget Truck Rental",
+    "wof:parent_id":85845107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -111.97316,
+    40.522263,
+    -111.97316,
+    40.522263
+],
+  "geometry": {"coordinates":[-111.97315999999999,40.522263],"type":"Point"}
+}

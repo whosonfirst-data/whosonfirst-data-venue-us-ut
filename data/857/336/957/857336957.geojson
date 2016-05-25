@@ -1,0 +1,77 @@
+{
+  "id": 857336957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.865384,40.700377,-111.865384,40.700377",
+    "geom:latitude":40.700377,
+    "geom:longitude":-111.865384,
+    "iso:country":"US",
+    "sg:address":"3231 S 900 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 483 0885",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop",
+        "coffee",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85832079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4g71rFASMSG8pI6fP1rwvB_40.700377_-111.865384@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127207,
+    "wof:geomhash":"4ea9dfe4362b95969a53c3ba4cd8f701",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85832079,
+            "region_id":85688567,
+            "venue_id":857336957
+        }
+    ],
+    "wof:id":857336957,
+    "wof:lastmodified":1464127207,
+    "wof:name":"Greenhouse Effect Coffee Shop",
+    "wof:parent_id":85832079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee",
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.865384,
+    40.700377,
+    -111.865384,
+    40.700377
+],
+  "geometry": {"coordinates":[-111.86538400000001,40.700377],"type":"Point"}
+}

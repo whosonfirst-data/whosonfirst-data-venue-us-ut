@@ -1,0 +1,73 @@
+{
+  "id": 857173065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.854034,40.695669,-111.854034,40.695669",
+    "geom:latitude":40.695669,
+    "geom:longitude":-111.854034,
+    "iso:country":"US",
+    "sg:address":"1201 E Lorraine Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 485 4499",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85832079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LL1UOwhtHKHufZKD9ThYL_40.695669_-111.854034@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123657,
+    "wof:geomhash":"4c305e7de4da09845f7209f23990be03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85832079,
+            "region_id":85688567,
+            "venue_id":857173065
+        }
+    ],
+    "wof:id":857173065,
+    "wof:lastmodified":1464123657,
+    "wof:name":"Ridge Pointe Construction LLC",
+    "wof:parent_id":85832079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -111.854034,
+    40.695669,
+    -111.854034,
+    40.695669
+],
+  "geometry": {"coordinates":[-111.854034,40.695669],"type":"Point"}
+}

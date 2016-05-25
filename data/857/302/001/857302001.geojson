@@ -1,0 +1,73 @@
+{
+  "id": 857302001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.04459,41.158593,-112.04459,41.158593",
+    "geom:latitude":41.158593,
+    "geom:longitude":-112.04459,
+    "iso:country":"US",
+    "sg:address":"2651 W 5750 S",
+    "sg:city":"Roy",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 825 4108",
+    "sg:postcode":"84067",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728023,
+        102083539,
+        85853469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43rDCiwoSHaSxLnPWgV7HG_41.158593_-112.044590@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126456,
+    "wof:geomhash":"92dbdac4ce1fcab8809eb7026a420cef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728023,
+            "neighbourhood_id":85853469,
+            "region_id":85688567,
+            "venue_id":857302001
+        }
+    ],
+    "wof:id":857302001,
+    "wof:lastmodified":1464126456,
+    "wof:name":"Ross Bennett",
+    "wof:parent_id":85853469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -112.04459,
+    41.158593,
+    -112.04459,
+    41.158593
+],
+  "geometry": {"coordinates":[-112.04459,41.158593],"type":"Point"}
+}

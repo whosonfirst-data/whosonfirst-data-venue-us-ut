@@ -1,0 +1,73 @@
+{
+  "id": 857454907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.630435,40.208687,-111.630435,40.208687",
+    "geom:latitude":40.208687,
+    "geom:longitude":-111.630435,
+    "iso:country":"US",
+    "sg:address":"1645 S State St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 375 8230",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:tags":[
+        "saddlery",
+        "harness"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727863,
+        102083567,
+        85880103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cgGwWTcaCf0FItpNzYf8o_40.208687_-111.630435@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129854,
+    "wof:geomhash":"c51d7e9873c5a1b55c82590f2771dda2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880103,
+            "region_id":85688567,
+            "venue_id":857454907
+        }
+    ],
+    "wof:id":857454907,
+    "wof:lastmodified":1464129854,
+    "wof:name":"Western Trade",
+    "wof:parent_id":85880103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saddlery",
+        "harness"
+    ]
+},
+  "bbox": [
+    -111.630435,
+    40.208687,
+    -111.630435,
+    40.208687
+],
+  "geometry": {"coordinates":[-111.63043500000001,40.208687],"type":"Point"}
+}

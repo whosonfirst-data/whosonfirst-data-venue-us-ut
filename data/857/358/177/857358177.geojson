@@ -1,0 +1,73 @@
+{
+  "id": 857358177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.809794,40.699918,-111.809794,40.699918",
+    "geom:latitude":40.699918,
+    "geom:longitude":-111.809794,
+    "iso:country":"US",
+    "sg:address":"2927 E 3300 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 463 1549",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "instruction",
+        "yoga"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728257,
+        102082877,
+        85854869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EI4dMW28s7OE3FH4mqOzO_40.699918_-111.809794@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127662,
+    "wof:geomhash":"6ccc3dead26319a3c3d05ea89d61e712",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85854869,
+            "region_id":85688567,
+            "venue_id":857358177
+        }
+    ],
+    "wof:id":857358177,
+    "wof:lastmodified":1464127662,
+    "wof:name":"Sonic Yoga",
+    "wof:parent_id":85854869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "yoga"
+    ]
+},
+  "bbox": [
+    -111.809794,
+    40.699918,
+    -111.809794,
+    40.699918
+],
+  "geometry": {"coordinates":[-111.809794,40.699918],"type":"Point"}
+}

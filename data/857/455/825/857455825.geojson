@@ -1,0 +1,73 @@
+{
+  "id": 857455825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.888295,40.725027,-111.888295,40.725027",
+    "geom:latitude":40.725027,
+    "geom:longitude":-111.888295,
+    "iso:country":"US",
+    "sg:address":"2128 S State St",
+    "sg:city":"South Salt Lake",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 484 8536",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85849489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sC3X1oN3ceTwX5FvLthvn_40.725027_-111.888295@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129869,
+    "wof:geomhash":"13f54b77b4c3c3898a16572a6fc8dd12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85849489,
+            "region_id":85688567,
+            "venue_id":857455825
+        }
+    ],
+    "wof:id":857455825,
+    "wof:lastmodified":1464129869,
+    "wof:name":"Colonial Mortuary",
+    "wof:parent_id":85849489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -111.888295,
+    40.725027,
+    -111.888295,
+    40.725027
+],
+  "geometry": {"coordinates":[-111.888295,40.725027],"type":"Point"}
+}

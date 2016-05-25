@@ -1,0 +1,71 @@
+{
+  "id": 857228143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.822749,41.779977,-111.822749,41.779977",
+    "geom:latitude":41.779977,
+    "geom:longitude":-111.822749,
+    "iso:country":"US",
+    "sg:address":"2585 N 400 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 0323",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4P0xpDSkpkH2XzsXKawto8_41.779977_-111.822749@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124774,
+    "wof:geomhash":"0af2ee6755c612ab74cff6670128720c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857228143
+        }
+    ],
+    "wof:id":857228143,
+    "wof:lastmodified":1464124774,
+    "wof:name":"Jacques Beauty Shop",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.822749,
+    41.779977,
+    -111.822749,
+    41.779977
+],
+  "geometry": {"coordinates":[-111.822749,41.779977],"type":"Point"}
+}

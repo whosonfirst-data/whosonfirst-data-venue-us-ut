@@ -1,0 +1,80 @@
+{
+  "id": 857136993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.018507,41.113764,-112.018507,41.113764",
+    "geom:latitude":41.113764,
+    "geom:longitude":-112.018507,
+    "iso:country":"US",
+    "sg:address":"360 E Center St",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 773 7303",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "center",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85851583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DpUl1uXxiOuma6JGONLTz_41.113764_-112.018507@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122829,
+    "wof:geomhash":"4f78bab68b3c761fb30a1551bbca831d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85851583,
+            "region_id":85688567,
+            "venue_id":857136993
+        }
+    ],
+    "wof:id":857136993,
+    "wof:lastmodified":1464122829,
+    "wof:name":"ABC Preschool & Day Care Ctr",
+    "wof:parent_id":85851583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center",
+        "day"
+    ]
+},
+  "bbox": [
+    -112.018507,
+    41.113764,
+    -112.018507,
+    41.113764
+],
+  "geometry": {"coordinates":[-112.018507,41.113764],"type":"Point"}
+}

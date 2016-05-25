@@ -1,0 +1,83 @@
+{
+  "id": 857168699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.906651,40.764919,-111.906651,40.764919",
+    "geom:latitude":40.764919,
+    "geom:longitude":-111.906651,
+    "iso:country":"US",
+    "sg:address":"549 W 200 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 363 8817",
+    "sg:postcode":"84101",
+    "sg:province":"UT",
+    "sg:tags":[
+        "equipment",
+        "electric",
+        "motor"
+    ],
+    "sg:website":"www.thomaselectric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85824499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44TacODng6qn0A8Gmws4hE_40.764919_-111.906651@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123553,
+    "wof:geomhash":"04f72eedb5f0bba01ccf783b8bb3a6da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85824499,
+            "region_id":85688567,
+            "venue_id":857168699
+        }
+    ],
+    "wof:id":857168699,
+    "wof:lastmodified":1464123553,
+    "wof:name":"Thomas Electric Company",
+    "wof:parent_id":85824499,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "electric",
+        "motor"
+    ]
+},
+  "bbox": [
+    -111.906651,
+    40.764919,
+    -111.906651,
+    40.764919
+],
+  "geometry": {"coordinates":[-111.906651,40.764919],"type":"Point"}
+}

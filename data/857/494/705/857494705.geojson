@@ -1,0 +1,76 @@
+{
+  "id": 857494705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.890313,40.621506,-111.890313,40.621506",
+    "geom:latitude":40.621506,
+    "geom:longitude":-111.890313,
+    "iso:country":"US",
+    "sg:address":"7157 S State St",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/8742-hooters/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 568 7778",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "wing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728051,
+        102082877,
+        85851957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZCLBOAFIuvMW1T0UXIR65_40.621603_-111.890426@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130758,
+    "wof:geomhash":"3aebbdb894434a30cb62af29364e7276",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85851957,
+            "region_id":85688567,
+            "venue_id":857494705
+        }
+    ],
+    "wof:id":857494705,
+    "wof:lastmodified":1464130758,
+    "wof:name":"Hooters",
+    "wof:parent_id":85851957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing"
+    ]
+},
+  "bbox": [
+    -111.890313,
+    40.621506,
+    -111.890313,
+    40.621506
+],
+  "geometry": {"coordinates":[-111.89031300000001,40.621506],"type":"Point"}
+}

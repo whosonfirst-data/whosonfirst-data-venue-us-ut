@@ -1,0 +1,68 @@
+{
+  "id": 857099345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.987691,41.088289,-111.987691,41.088289",
+    "geom:latitude":41.088289,
+    "geom:longitude":-111.987691,
+    "iso:country":"US",
+    "sg:address":"1868 N 1200 W",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 775 8195",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kTJU1OTtRY6wyxasdr3DL_41.088289_-111.987691@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121888,
+    "wof:geomhash":"d7cfa47059843d6f92655f96be902c77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857099345
+        }
+    ],
+    "wof:id":857099345,
+    "wof:lastmodified":1464121888,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.987691,
+    41.088289,
+    -111.987691,
+    41.088289
+],
+  "geometry": {"coordinates":[-111.987691,41.088289],"type":"Point"}
+}

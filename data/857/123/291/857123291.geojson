@@ -1,0 +1,71 @@
+{
+  "id": 857123291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.949551,41.322993,-111.949551,41.322993",
+    "geom:latitude":41.322993,
+    "geom:longitude":-111.949551,
+    "iso:country":"US",
+    "sg:address":"3452 N 950 E",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 782 6967",
+    "sg:postcode":"84414",
+    "sg:province":"UT",
+    "sg:tags":[
+        "trust",
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85824645,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_740ZinNq83K0YYJzJwcMxm_41.322993_-111.949551@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122536,
+    "wof:geomhash":"47c6ef91f8ad53bc1324ed487035d8c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85824645,
+            "region_id":85688567,
+            "venue_id":857123291
+        }
+    ],
+    "wof:id":857123291,
+    "wof:lastmodified":1464122536,
+    "wof:name":"Speechly Family Trust",
+    "wof:parent_id":85824645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trust",
+        "management"
+    ]
+},
+  "bbox": [
+    -111.949551,
+    41.322993,
+    -111.949551,
+    41.322993
+],
+  "geometry": {"coordinates":[-111.949551,41.322993],"type":"Point"}
+}

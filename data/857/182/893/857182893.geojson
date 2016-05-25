@@ -1,0 +1,71 @@
+{
+  "id": 857182893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.862458,40.665785,-111.862458,40.665785",
+    "geom:latitude":40.665785,
+    "geom:longitude":-111.862458,
+    "iso:country":"US",
+    "sg:address":"967 Murray Holladay Rd",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 892 0048",
+    "sg:postcode":"84117",
+    "sg:province":"UT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85826429,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Uz50bElIIwzT0rie4PxfN_40.665785_-111.862458@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123855,
+    "wof:geomhash":"994663bdf6972115622f5d49e2c36ea5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85826429,
+            "region_id":85688567,
+            "venue_id":857182893
+        }
+    ],
+    "wof:id":857182893,
+    "wof:lastmodified":1464123855,
+    "wof:name":"Lionel Mauseberg MD",
+    "wof:parent_id":85826429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -111.862458,
+    40.665785,
+    -111.862458,
+    40.665785
+],
+  "geometry": {"coordinates":[-111.862458,40.665785],"type":"Point"}
+}

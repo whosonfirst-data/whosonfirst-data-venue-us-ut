@@ -1,0 +1,75 @@
+{
+  "id": 857477629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.85389,40.735111,-111.85389,40.735111",
+    "geom:latitude":40.735111,
+    "geom:longitude":-111.85389,
+    "iso:country":"US",
+    "sg:address":"1596 S 1300 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 463 1556",
+    "sg:postcode":"84105",
+    "sg:province":"UT",
+    "sg:tags":[
+        "spa",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85857821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Z68J87873kaSLpu4sebZr_40.735111_-111.853890@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130327,
+    "wof:geomhash":"4eee6f51e8ec933a373eddcde3341a2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85857821,
+            "region_id":85688567,
+            "venue_id":857477629
+        }
+    ],
+    "wof:id":857477629,
+    "wof:lastmodified":1464130327,
+    "wof:name":"Wax On Wheels",
+    "wof:parent_id":85857821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spa",
+        "day"
+    ]
+},
+  "bbox": [
+    -111.85389,
+    40.735111,
+    -111.85389,
+    40.735111
+],
+  "geometry": {"coordinates":[-111.85389000000001,40.735111],"type":"Point"}
+}

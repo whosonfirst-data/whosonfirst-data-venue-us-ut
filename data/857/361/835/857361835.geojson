@@ -1,0 +1,68 @@
+{
+  "id": 857361835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.658481,40.281685,-111.658481,40.281685",
+    "geom:latitude":40.281685,
+    "geom:longitude":-111.658481,
+    "iso:country":"US",
+    "sg:address":"3585 N University Ave",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 356 8080",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85817395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dcZATr8rnQUoXZQlLgybR_40.281685_-111.658481@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127738,
+    "wof:geomhash":"04029e96d3a85be14a65c9fe2c8daf16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85817395,
+            "region_id":85688567,
+            "venue_id":857361835
+        }
+    ],
+    "wof:id":857361835,
+    "wof:lastmodified":1464127738,
+    "wof:name":"Adjusters International",
+    "wof:parent_id":85817395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.658481,
+    40.281685,
+    -111.658481,
+    40.281685
+],
+  "geometry": {"coordinates":[-111.65848099999999,40.281685],"type":"Point"}
+}

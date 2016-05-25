@@ -1,0 +1,73 @@
+{
+  "id": 857380773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.912576,41.034849,-111.912576,41.034849",
+    "geom:latitude":41.034849,
+    "geom:longitude":-111.912576,
+    "iso:country":"US",
+    "sg:address":"1150 E 50 S",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 544 2503",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "industrial",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tYGO70q1edjuvtWO151JA_41.034849_-111.912576@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128142,
+    "wof:geomhash":"282130d6807d270f61897cc43da2c084",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857380773
+        }
+    ],
+    "wof:id":857380773,
+    "wof:lastmodified":1464128142,
+    "wof:name":"K M Manufacturing",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.912576,
+    41.034849,
+    -111.912576,
+    41.034849
+],
+  "geometry": {"coordinates":[-111.912576,41.034849],"type":"Point"}
+}

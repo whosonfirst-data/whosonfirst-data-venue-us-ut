@@ -1,0 +1,73 @@
+{
+  "id": 857129765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.960344,40.641843,-111.960344,40.641843",
+    "geom:latitude":40.641843,
+    "geom:longitude":-111.960344,
+    "iso:country":"US",
+    "sg:address":"6006 Ginger St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 968 0777",
+    "sg:postcode":"84118",
+    "sg:province":"UT",
+    "sg:tags":[
+        "operator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728059,
+        102082877,
+        85848647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FkhhVa8Y1LXn5dczoWXz6_40.641843_-111.960344@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122674,
+    "wof:geomhash":"6792751579f95a76fa5476fd26e77116",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728059,
+            "neighbourhood_id":85848647,
+            "region_id":85688567,
+            "venue_id":857129765
+        }
+    ],
+    "wof:id":857129765,
+    "wof:lastmodified":1464122674,
+    "wof:name":"Corey Enterprises",
+    "wof:parent_id":85848647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator"
+    ]
+},
+  "bbox": [
+    -111.960344,
+    40.641843,
+    -111.960344,
+    40.641843
+],
+  "geometry": {"coordinates":[-111.96034400000001,40.641843],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857225581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.880061,40.75203,-111.880061,40.75203",
+    "geom:latitude":40.75203,
+    "geom:longitude":-111.880061,
+    "iso:country":"US",
+    "sg:address":"361 E 800 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 359 9100",
+    "sg:postcode":"84111",
+    "sg:province":"UT",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SW1sQZ8sboNM6a61tHxRw_40.752030_-111.880061@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124722,
+    "wof:geomhash":"7d1db8b8d532dc5e1d9ccf220516e172",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871021,
+            "region_id":85688567,
+            "venue_id":857225581
+        }
+    ],
+    "wof:id":857225581,
+    "wof:lastmodified":1464124722,
+    "wof:name":"Herbal Life Distr",
+    "wof:parent_id":85871021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -111.880061,
+    40.75203,
+    -111.880061,
+    40.75203
+],
+  "geometry": {"coordinates":[-111.880061,40.75203],"type":"Point"}
+}

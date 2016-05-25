@@ -1,0 +1,71 @@
+{
+  "id": 857314321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.033561,41.074605,-112.033561,41.074605",
+    "geom:latitude":41.074605,
+    "geom:longitude":-112.033561,
+    "iso:country":"US",
+    "sg:address":"3693 W Gordon Ave",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 444 3406",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85868169,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LnC3IiNTlg4E4ANUb8oba_41.074605_-112.033561@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126710,
+    "wof:geomhash":"62fc6c8ee48d78a49de47f4f9924ee59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "neighbourhood_id":85868169,
+            "region_id":85688567,
+            "venue_id":857314321
+        }
+    ],
+    "wof:id":857314321,
+    "wof:lastmodified":1464126710,
+    "wof:name":"Ivory Homes",
+    "wof:parent_id":85868169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -112.033561,
+    41.074605,
+    -112.033561,
+    41.074605
+],
+  "geometry": {"coordinates":[-112.03356100000001,41.074605],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 857081621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.678079,40.300885,-111.678079,40.300885",
+    "geom:latitude":40.300885,
+    "geom:longitude":-111.678079,
+    "iso:country":"US",
+    "sg:address":"715 E 200 N",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 225 3754",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "residence",
+        "build",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85849197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73frbFrTAp4CAjPF2jI8cX_40.300885_-111.678079@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121441,
+    "wof:geomhash":"7501a56c799b490eb3e4a89cb26c96a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85849197,
+            "region_id":85688567,
+            "venue_id":857081621
+        }
+    ],
+    "wof:id":857081621,
+    "wof:lastmodified":1464121441,
+    "wof:name":"Dave Harward Construction",
+    "wof:parent_id":85849197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residence",
+        "build",
+        "family"
+    ]
+},
+  "bbox": [
+    -111.678079,
+    40.300885,
+    -111.678079,
+    40.300885
+],
+  "geometry": {"coordinates":[-111.678079,40.300885],"type":"Point"}
+}

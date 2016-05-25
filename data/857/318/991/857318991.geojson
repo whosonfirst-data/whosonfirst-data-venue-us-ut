@@ -1,0 +1,68 @@
+{
+  "id": 857318991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.062967,41.081026,-112.062967,41.081026",
+    "geom:latitude":41.081026,
+    "geom:longitude":-112.062967,
+    "iso:country":"US",
+    "sg:address":"1835 W 2250 S",
+    "sg:city":"Syracuse",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 776 4313",
+    "sg:postcode":"84075",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727889,
+        102083563,
+        85804563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RuaeSz9G2oLtxad5EVPZh_41.081026_-112.062967@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126830,
+    "wof:geomhash":"697a148075e50991a9c2423b48400df7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727889,
+            "neighbourhood_id":85804563,
+            "region_id":85688567,
+            "venue_id":857318991
+        }
+    ],
+    "wof:id":857318991,
+    "wof:lastmodified":1464126830,
+    "wof:name":"Syracuse Dance Academy",
+    "wof:parent_id":85804563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.062967,
+    41.081026,
+    -112.062967,
+    41.081026
+],
+  "geometry": {"coordinates":[-112.062967,41.081026],"type":"Point"}
+}

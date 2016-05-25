@@ -1,0 +1,73 @@
+{
+  "id": 857079849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.806467,41.794936,-111.806467,41.794936",
+    "geom:latitude":41.794936,
+    "geom:longitude":-111.806467,
+    "iso:country":"US",
+    "sg:address":"535 E 200 S",
+    "sg:city":"Hyde Park",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 563 9132",
+    "sg:postcode":"84318",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mormon",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5w2wr4ZZ8ljNCUIE0hE3I8_41.794936_-111.806467@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121399,
+    "wof:geomhash":"862f54f7682587c377b031c7b02d8363",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857079849
+        }
+    ],
+    "wof:id":857079849,
+    "wof:lastmodified":1464121399,
+    "wof:name":"Hyde Park Sixth Ward",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mormon",
+        "church"
+    ]
+},
+  "bbox": [
+    -111.806467,
+    41.794936,
+    -111.806467,
+    41.794936
+],
+  "geometry": {"coordinates":[-111.806467,41.794936],"type":"Point"}
+}

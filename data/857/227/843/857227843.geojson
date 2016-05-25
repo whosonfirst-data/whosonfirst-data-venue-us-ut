@@ -1,0 +1,75 @@
+{
+  "id": 857227843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.003022,40.300054,-112.003022,40.300054",
+    "geom:latitude":40.300054,
+    "geom:longitude":-112.003022,
+    "iso:country":"US",
+    "sg:address":"2159 E Blossom St",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 789 3492",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727857,
+        102083567,
+        85836317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EJqpCXBR3l0wQWLJqcI6Q_40.300054_-112.003022@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124768,
+    "wof:geomhash":"3a015c0b354a5010df4012e0a6941bd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727857,
+            "neighbourhood_id":85836317,
+            "region_id":85688567,
+            "venue_id":857227843
+        }
+    ],
+    "wof:id":857227843,
+    "wof:lastmodified":1464124768,
+    "wof:name":"Blue Skies Automotive",
+    "wof:parent_id":85836317,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -112.003022,
+    40.300054,
+    -112.003022,
+    40.300054
+],
+  "geometry": {"coordinates":[-112.003022,40.300054],"type":"Point"}
+}

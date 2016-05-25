@@ -1,0 +1,76 @@
+{
+  "id": 857494951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.830422,40.725832,-111.830422,40.725832",
+    "geom:latitude":40.725832,
+    "geom:longitude":-111.830422,
+    "iso:country":"US",
+    "sg:address":"2041 S 2100 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/275719-the-blue-plate-diner/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 463 1151",
+    "sg:postcode":"84108",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85858091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5myo9zBjXAQuWk0SYwEf39_40.726328_-111.830720@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130771,
+    "wof:geomhash":"1bededfeed145d95ea16c9a6ce92bc90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85858091,
+            "region_id":85688567,
+            "venue_id":857494951
+        }
+    ],
+    "wof:id":857494951,
+    "wof:lastmodified":1464130771,
+    "wof:name":"The Blue Plate Diner",
+    "wof:parent_id":85858091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -111.830422,
+    40.725832,
+    -111.830422,
+    40.725832
+],
+  "geometry": {"coordinates":[-111.830422,40.725832],"type":"Point"}
+}

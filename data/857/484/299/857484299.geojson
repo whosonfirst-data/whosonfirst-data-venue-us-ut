@@ -1,0 +1,73 @@
+{
+  "id": 857484299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.016996,41.080744,-112.016996,41.080744",
+    "geom:latitude":41.080744,
+    "geom:longitude":-112.016996,
+    "iso:country":"US",
+    "sg:address":"1410 N 2725 W",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 593 0837",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85851583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LATDpv9hnIiFaVm5EdHKQ_41.080744_-112.016996@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130450,
+    "wof:geomhash":"4e9b2e2ae3ed614b63cd92b2e04b6fd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85851583,
+            "region_id":85688567,
+            "venue_id":857484299
+        }
+    ],
+    "wof:id":857484299,
+    "wof:lastmodified":1464130450,
+    "wof:name":"Shellys Hair Shoppe",
+    "wof:parent_id":85851583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -112.016996,
+    41.080744,
+    -112.016996,
+    41.080744
+],
+  "geometry": {"coordinates":[-112.01699600000001,41.080744],"type":"Point"}
+}

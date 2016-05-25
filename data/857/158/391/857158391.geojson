@@ -1,0 +1,75 @@
+{
+  "id": 857158391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.688162,40.313595,-111.688162,40.313595",
+    "geom:latitude":40.313595,
+    "geom:longitude":-111.688162,
+    "iso:country":"US",
+    "sg:address":"326 E 900 N",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 221 5444",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01eLceFcgcXriCjSyS9bj4_40.313595_-111.688162@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123313,
+    "wof:geomhash":"913783b4b42de66e32bdcc2c0c90877b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":857158391
+        }
+    ],
+    "wof:id":857158391,
+    "wof:lastmodified":1464123313,
+    "wof:name":"Rolling Lube",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -111.688162,
+    40.313595,
+    -111.688162,
+    40.313595
+],
+  "geometry": {"coordinates":[-111.68816200000001,40.313595],"type":"Point"}
+}

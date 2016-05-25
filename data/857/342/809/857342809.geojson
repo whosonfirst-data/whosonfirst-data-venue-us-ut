@@ -1,0 +1,75 @@
+{
+  "id": 857342809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.689374,40.282294,-111.689374,40.282294",
+    "geom:latitude":40.282294,
+    "geom:longitude":-111.689374,
+    "iso:country":"US",
+    "sg:address":"220 E 800 S",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 785 5854",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85830581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lXjwkWiAkgakBp6bIDYNk_40.282294_-111.689374@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127330,
+    "wof:geomhash":"9fe4458b05608359633dcb89c14806ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85830581,
+            "region_id":85688567,
+            "venue_id":857342809
+        }
+    ],
+    "wof:id":857342809,
+    "wof:lastmodified":1464127330,
+    "wof:name":"Wasatch Developers Inc",
+    "wof:parent_id":85830581,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.689374,
+    40.282294,
+    -111.689374,
+    40.282294
+],
+  "geometry": {"coordinates":[-111.689374,40.282294],"type":"Point"}
+}

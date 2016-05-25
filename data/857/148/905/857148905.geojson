@@ -1,0 +1,75 @@
+{
+  "id": 857148905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.695006,40.229781,-111.695006,40.229781",
+    "geom:latitude":40.229781,
+    "geom:longitude":-111.695006,
+    "iso:country":"US",
+    "sg:address":"320 S 2050 W",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 375 2994",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mobile",
+        "home",
+        "site",
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880073,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6L86PLiFuBKigsYqag4yQA_40.229781_-111.695006@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123122,
+    "wof:geomhash":"f8212ed932a5d448a3265f0e6b684e7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880073,
+            "region_id":85688567,
+            "venue_id":857148905
+        }
+    ],
+    "wof:id":857148905,
+    "wof:lastmodified":1464123122,
+    "wof:name":"KOA Campground",
+    "wof:parent_id":85880073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home",
+        "site",
+        "trailer"
+    ]
+},
+  "bbox": [
+    -111.695006,
+    40.229781,
+    -111.695006,
+    40.229781
+],
+  "geometry": {"coordinates":[-111.69500600000001,40.229781],"type":"Point"}
+}

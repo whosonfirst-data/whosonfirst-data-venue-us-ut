@@ -1,0 +1,71 @@
+{
+  "id": 857478369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.819472,40.59448,-111.819472,40.59448",
+    "geom:latitude":40.59448,
+    "geom:longitude":-111.819472,
+    "iso:country":"US",
+    "sg:address":"8655 S Snow Bird Dr",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 942 2887",
+    "sg:postcode":"84093",
+    "sg:province":"UT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728077,
+        102082877,
+        85843389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mJC57QNC18K8o3f4BLJlc_40.594480_-111.819472@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130342,
+    "wof:geomhash":"57d2ce2963919332a26adee2aa69c067",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85843389,
+            "region_id":85688567,
+            "venue_id":857478369
+        }
+    ],
+    "wof:id":857478369,
+    "wof:lastmodified":1464130342,
+    "wof:name":"Glmgm Investment Company",
+    "wof:parent_id":85843389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -111.819472,
+    40.59448,
+    -111.819472,
+    40.59448
+],
+  "geometry": {"coordinates":[-111.819472,40.59448],"type":"Point"}
+}

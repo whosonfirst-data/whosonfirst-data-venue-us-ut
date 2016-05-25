@@ -1,0 +1,73 @@
+{
+  "id": 857172529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.957413,40.782299,-111.957413,40.782299",
+    "geom:latitude":40.782299,
+    "geom:longitude":-111.957413,
+    "iso:country":"US",
+    "sg:address":"581 N 2360 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 575 2911",
+    "sg:postcode":"84116",
+    "sg:province":"UT",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85856293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2S2mYE9QcONeiRGAf3axNv_40.782299_-111.957413@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123642,
+    "wof:geomhash":"4a5597840aeb05c64da8168632015168",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85856293,
+            "region_id":85688567,
+            "venue_id":857172529
+        }
+    ],
+    "wof:id":857172529,
+    "wof:lastmodified":1464123642,
+    "wof:name":"Salt Lake City Firestation 11",
+    "wof:parent_id":85856293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -111.957413,
+    40.782299,
+    -111.957413,
+    40.782299
+],
+  "geometry": {"coordinates":[-111.957413,40.782299],"type":"Point"}
+}

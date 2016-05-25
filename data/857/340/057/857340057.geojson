@@ -1,0 +1,74 @@
+{
+  "id": 857340057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.008952,41.097187,-112.008952,41.097187",
+    "geom:latitude":41.097187,
+    "geom:longitude":-112.008952,
+    "iso:country":"US",
+    "sg:address":"1145 State St",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 773 7579",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mexican"
+    ],
+    "sg:website":"www.el-burrito.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qKfHVkMDy883D6HBMkuzH_41.097187_-112.008952@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127279,
+    "wof:geomhash":"2cfce9812ed865814e5bf2e9513b5e82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857340057
+        }
+    ],
+    "wof:id":857340057,
+    "wof:lastmodified":1464127279,
+    "wof:name":"Manuel's El Burrito Restaurant",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -112.008952,
+    41.097187,
+    -112.008952,
+    41.097187
+],
+  "geometry": {"coordinates":[-112.00895199999999,41.097187],"type":"Point"}
+}

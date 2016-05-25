@@ -1,0 +1,79 @@
+{
+  "id": 857311981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.973555,41.222867,-111.973555,41.222867",
+    "geom:latitude":41.222867,
+    "geom:longitude":-111.973555,
+    "iso:country":"US",
+    "sg:address":"214 24th St",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 394 8032",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "marking",
+        "devices",
+        "business",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85820759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Of0U0GwisdP6rovWq7DU2_41.222867_-111.973555@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126661,
+    "wof:geomhash":"edae165066313a95f930ee352881c122",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85820759,
+            "region_id":85688567,
+            "venue_id":857311981
+        }
+    ],
+    "wof:id":857311981,
+    "wof:lastmodified":1464126661,
+    "wof:name":"Ogden Stamp Co",
+    "wof:parent_id":85820759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "devices",
+        "business",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.973555,
+    41.222867,
+    -111.973555,
+    41.222867
+],
+  "geometry": {"coordinates":[-111.973555,41.222867],"type":"Point"}
+}

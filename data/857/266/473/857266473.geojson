@@ -1,0 +1,66 @@
+{
+  "id": 857266473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.994381,37.191289,-112.994381,37.191289",
+    "geom:latitude":37.191289,
+    "geom:longitude":-112.994381,
+    "iso:country":"US",
+    "sg:address":"624 Zion Park Blvd",
+    "sg:city":"Springdale",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 772 3950",
+    "sg:postcode":"84767",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727619,
+        102082879,
+        85822405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SxAtVtNPhFWYdwv7euQSi_37.191289_-112.994381@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125620,
+    "wof:geomhash":"1d8e1bd33b54646302ada138f151cd1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727619,
+            "neighbourhood_id":85822405,
+            "region_id":85688567,
+            "venue_id":857266473
+        }
+    ],
+    "wof:id":857266473,
+    "wof:lastmodified":1464125620,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85822405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.994381,
+    37.191289,
+    -112.994381,
+    37.191289
+],
+  "geometry": {"coordinates":[-112.994381,37.191289],"type":"Point"}
+}

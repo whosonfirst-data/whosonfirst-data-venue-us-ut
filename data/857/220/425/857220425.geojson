@@ -1,0 +1,67 @@
+{
+  "id": 857220425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.747126,40.037399,-111.747126,40.037399",
+    "geom:latitude":40.037399,
+    "geom:longitude":-111.747126,
+    "iso:country":"US",
+    "sg:address":"851 W 450 S",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 6040",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:website":"www.nebo.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55oQklk9pNRNYCFU5DC4jt_40.037399_-111.747126@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124621,
+    "wof:geomhash":"7a924199f7402b7f0e40d70c53f44d93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857220425
+        }
+    ],
+    "wof:id":857220425,
+    "wof:lastmodified":1464124621,
+    "wof:name":"Payson Middle School",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.747126,
+    40.037399,
+    -111.747126,
+    40.037399
+],
+  "geometry": {"coordinates":[-111.74712599999999,40.037399],"type":"Point"}
+}

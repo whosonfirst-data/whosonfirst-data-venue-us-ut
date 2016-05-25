@@ -1,0 +1,73 @@
+{
+  "id": 857204459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.972561,40.379962,-111.972561,40.379962",
+    "geom:latitude":40.379962,
+    "geom:longitude":-111.972561,
+    "iso:country":"US",
+    "sg:address":"3688 E Campus Dr",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 789 4414",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727857,
+        102083567,
+        85836317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Vz8mw0xzz9No55Dg3yeQY_40.379962_-111.972561@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124278,
+    "wof:geomhash":"e45fa8e455ef26414b6526735924f60c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727857,
+            "neighbourhood_id":85836317,
+            "region_id":85688567,
+            "venue_id":857204459
+        }
+    ],
+    "wof:id":857204459,
+    "wof:lastmodified":1464124278,
+    "wof:name":"Family First Dentistry",
+    "wof:parent_id":85836317,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -111.972561,
+    40.379962,
+    -111.972561,
+    40.379962
+],
+  "geometry": {"coordinates":[-111.972561,40.379962],"type":"Point"}
+}

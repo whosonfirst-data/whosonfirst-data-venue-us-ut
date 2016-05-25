@@ -1,0 +1,71 @@
+{
+  "id": 857404911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.643358,40.011643,-111.643358,40.011643",
+    "geom:latitude":40.011643,
+    "geom:longitude":-111.643358,
+    "iso:country":"US",
+    "sg:address":"135 E Highline Dr",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 423 2813",
+    "sg:postcode":"84653",
+    "sg:province":"UT",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_211i2EuCGmI3L2HipH27sf_40.011643_-111.643358@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128726,
+    "wof:geomhash":"b46dabb4a54fe8eed8f9df1385040d42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857404911
+        }
+    ],
+    "wof:id":857404911,
+    "wof:lastmodified":1464128726,
+    "wof:name":"Toronto Consulting Inc",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -111.643358,
+    40.011643,
+    -111.643358,
+    40.011643
+],
+  "geometry": {"coordinates":[-111.64335800000001,40.011643],"type":"Point"}
+}

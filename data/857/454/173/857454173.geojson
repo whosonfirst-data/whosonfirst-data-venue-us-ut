@@ -1,0 +1,73 @@
+{
+  "id": 857454173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.785484,40.374119,-111.785484,40.374119",
+    "geom:latitude":40.374119,
+    "geom:longitude":-111.785484,
+    "iso:country":"US",
+    "sg:address":"62 S 500 E",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 2630",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74RMGg6k5z0CLMmB6biU9U_40.374119_-111.785484@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129841,
+    "wof:geomhash":"8d417b441c0df283ffabbdf55e8bfcff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857454173
+        }
+    ],
+    "wof:id":857454173,
+    "wof:lastmodified":1464129841,
+    "wof:name":"John's Auto Repair",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -111.785484,
+    40.374119,
+    -111.785484,
+    40.374119
+],
+  "geometry": {"coordinates":[-111.785484,40.374119],"type":"Point"}
+}

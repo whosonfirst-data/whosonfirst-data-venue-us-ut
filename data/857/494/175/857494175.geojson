@@ -1,0 +1,76 @@
+{
+  "id": 857494175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.65894,40.217435,-111.65894,40.217435",
+    "geom:latitude":40.217435,
+    "geom:longitude":-111.65894,
+    "iso:country":"US",
+    "sg:address":"1225 S University Ave",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/provo-orem/212923-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 7341",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QucgAZJlrTJbyqzyprM1P_40.217435_-111.658940@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130739,
+    "wof:geomhash":"0182d05cffdb29a8fd42b8729cc954c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880069,
+            "region_id":85688567,
+            "venue_id":857494175
+        }
+    ],
+    "wof:id":857494175,
+    "wof:lastmodified":1464130739,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85880069,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -111.65894,
+    40.217435,
+    -111.65894,
+    40.217435
+],
+  "geometry": {"coordinates":[-111.65894,40.217435],"type":"Point"}
+}

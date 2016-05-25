@@ -1,0 +1,71 @@
+{
+  "id": 857208117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.029445,41.074606,-112.029445,41.074606",
+    "geom:latitude":41.074606,
+    "geom:longitude":-112.029445,
+    "iso:country":"US",
+    "sg:address":"3347 W Gordon Ave",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 593 1980",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85868169,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67eXEOa79v4CkNzGuwr1kx_41.074606_-112.029445@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124353,
+    "wof:geomhash":"88fad3103828f37bf525e431c13db62a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "neighbourhood_id":85868169,
+            "region_id":85688567,
+            "venue_id":857208117
+        }
+    ],
+    "wof:id":857208117,
+    "wof:lastmodified":1464124353,
+    "wof:name":"Sun Valley Mortgage",
+    "wof:parent_id":85868169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -112.029445,
+    41.074606,
+    -112.029445,
+    41.074606
+],
+  "geometry": {"coordinates":[-112.029445,41.074606],"type":"Point"}
+}

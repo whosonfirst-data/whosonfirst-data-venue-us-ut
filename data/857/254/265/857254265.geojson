@@ -1,0 +1,84 @@
+{
+  "id": 857254265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.660399,40.236724,-111.660399,40.236724",
+    "geom:latitude":40.236724,
+    "geom:longitude":-111.660399,
+    "iso:country":"US",
+    "sg:address":"276 N 100 W",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 812 0663",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "video",
+        "disc",
+        "tape",
+        "cassette"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35v9WCOOs0OUxamZAqzVSR_40.236724_-111.660399@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125353,
+    "wof:geomhash":"62cde0fcb657a1ce73fb14dfa31e5a12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880121,
+            "region_id":85688567,
+            "venue_id":857254265
+        }
+    ],
+    "wof:id":857254265,
+    "wof:lastmodified":1464125353,
+    "wof:name":"Video & Music El Mexicano LLC",
+    "wof:parent_id":85880121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "disc",
+        "tape",
+        "cassette"
+    ]
+},
+  "bbox": [
+    -111.660399,
+    40.236724,
+    -111.660399,
+    40.236724
+],
+  "geometry": {"coordinates":[-111.660399,40.236724],"type":"Point"}
+}

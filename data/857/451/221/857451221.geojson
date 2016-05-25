@@ -1,0 +1,73 @@
+{
+  "id": 857451221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.97506,41.0601,-111.97506,41.0601",
+    "geom:latitude":41.0601,
+    "geom:longitude":-111.97506,
+    "iso:country":"US",
+    "sg:address":"137 Flint St",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 546 0990",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62y1SE39vE8BnAlYzzr372_41.060100_-111.975060@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129787,
+    "wof:geomhash":"804fa09ccfac94f6f5cf583a3361b932",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857451221
+        }
+    ],
+    "wof:id":857451221,
+    "wof:lastmodified":1464129787,
+    "wof:name":"Church Of Christ",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -111.97506,
+    41.0601,
+    -111.97506,
+    41.0601
+],
+  "geometry": {"coordinates":[-111.97506,41.0601],"type":"Point"}
+}

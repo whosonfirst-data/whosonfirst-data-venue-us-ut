@@ -1,0 +1,73 @@
+{
+  "id": 857158361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.929564,40.761401,-111.929564,40.761401",
+    "geom:latitude":40.761401,
+    "geom:longitude":-111.929564,
+    "iso:country":"US",
+    "sg:address":"384 Navajo St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 328 4624",
+    "sg:postcode":"84104",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85808519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06CkN1f1nfNHduf2UjXrEY_40.761401_-111.929564@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123312,
+    "wof:geomhash":"22582e5d94d470d484c91aeba82a0acc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85808519,
+            "region_id":85688567,
+            "venue_id":857158361
+        }
+    ],
+    "wof:id":857158361,
+    "wof:lastmodified":1464123312,
+    "wof:name":"Great Western Drywall Inc",
+    "wof:parent_id":85808519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.929564,
+    40.761401,
+    -111.929564,
+    40.761401
+],
+  "geometry": {"coordinates":[-111.929564,40.761401],"type":"Point"}
+}

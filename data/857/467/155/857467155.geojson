@@ -1,0 +1,74 @@
+{
+  "id": 857467155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834644,41.745557,-111.834644,41.745557",
+    "geom:latitude":41.745557,
+    "geom:longitude":-111.834644,
+    "iso:country":"US",
+    "sg:address":"755 N Hwy 91",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 713 4777",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "sg:website":"www.stevenshenager.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SYmYOclCLhI4V6Qn2Uqzv_41.745557_-111.834644@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130110,
+    "wof:geomhash":"115a35d083b04c9c92629c24ebf7834d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857467155
+        }
+    ],
+    "wof:id":857467155,
+    "wof:lastmodified":1464130110,
+    "wof:name":"Stevens Henager College",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -111.834644,
+    41.745557,
+    -111.834644,
+    41.745557
+],
+  "geometry": {"coordinates":[-111.834644,41.745557],"type":"Point"}
+}

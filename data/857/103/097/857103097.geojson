@@ -1,0 +1,75 @@
+{
+  "id": 857103097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.665079,40.282635,-111.665079,40.282635",
+    "geom:latitude":40.282635,
+    "geom:longitude":-111.665079,
+    "iso:country":"US",
+    "sg:address":"3627 N 400 West St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 225 7024",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TrC1sfGnEnGupv347A5zA_40.282635_-111.665079@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121985,
+    "wof:geomhash":"ef94a6043b62ee4c75d6d5ab498f9c78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880109,
+            "region_id":85688567,
+            "venue_id":857103097
+        }
+    ],
+    "wof:id":857103097,
+    "wof:lastmodified":1464121985,
+    "wof:name":"Penrod Brothers Trucking",
+    "wof:parent_id":85880109,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -111.665079,
+    40.282635,
+    -111.665079,
+    40.282635
+],
+  "geometry": {"coordinates":[-111.66507900000001,40.282635],"type":"Point"}
+}

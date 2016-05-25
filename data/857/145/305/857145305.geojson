@@ -1,0 +1,68 @@
+{
+  "id": 857145305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.933172,40.631268,-111.933172,40.631268",
+    "geom:latitude":40.631268,
+    "geom:longitude":-111.933172,
+    "iso:country":"US",
+    "sg:address":"6617 S 1460 W",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 261 2847",
+    "sg:postcode":"84123",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85853339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ftbWQFuYSOTF5EwTk38Am_40.631268_-111.933172@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123048,
+    "wof:geomhash":"f85af7f3642a3a7a49ce55c24dcbec79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85853339,
+            "region_id":85688567,
+            "venue_id":857145305
+        }
+    ],
+    "wof:id":857145305,
+    "wof:lastmodified":1464123048,
+    "wof:name":"Bonneville Premium Pest Cntrl",
+    "wof:parent_id":85853339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.933172,
+    40.631268,
+    -111.933172,
+    40.631268
+],
+  "geometry": {"coordinates":[-111.933172,40.631268],"type":"Point"}
+}

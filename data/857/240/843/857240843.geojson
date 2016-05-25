@@ -1,0 +1,75 @@
+{
+  "id": 857240843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.845092,40.643042,-111.845092,40.643042",
+    "geom:latitude":40.643042,
+    "geom:longitude":-111.845092,
+    "iso:country":"US",
+    "sg:address":"5986 Fontaine Bleu Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 518 9164",
+    "sg:postcode":"84121",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85840591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XSidoRWv5w9Azzfho47Dg_40.643042_-111.845092@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125024,
+    "wof:geomhash":"7476f1a843987d43b14765d2416d95db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85840591,
+            "region_id":85688567,
+            "venue_id":857240843
+        }
+    ],
+    "wof:id":857240843,
+    "wof:lastmodified":1464125024,
+    "wof:name":"Reese Mechanical Inc",
+    "wof:parent_id":85840591,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.845092,
+    40.643042,
+    -111.845092,
+    40.643042
+],
+  "geometry": {"coordinates":[-111.84509199999999,40.643042],"type":"Point"}
+}

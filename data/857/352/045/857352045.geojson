@@ -1,0 +1,73 @@
+{
+  "id": 857352045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.986598,41.251976,-111.986598,41.251976",
+    "geom:latitude":41.251976,
+    "geom:longitude":-111.986598,
+    "iso:country":"US",
+    "sg:address":"370 W 7th St",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 399 5893",
+    "sg:postcode":"84404",
+    "sg:province":"UT",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85815115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47uZlNSvmVZQYinoDdI9JT_41.251976_-111.986598@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127529,
+    "wof:geomhash":"ce7a449ebcef4926b7fc97eac50b68df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85815115,
+            "region_id":85688567,
+            "venue_id":857352045
+        }
+    ],
+    "wof:id":857352045,
+    "wof:lastmodified":1464127529,
+    "wof:name":"Stauffer's Towing & Repair",
+    "wof:parent_id":85815115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -111.986598,
+    41.251976,
+    -111.986598,
+    41.251976
+],
+  "geometry": {"coordinates":[-111.986598,41.251976],"type":"Point"}
+}

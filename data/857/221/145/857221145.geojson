@@ -1,0 +1,77 @@
+{
+  "id": 857221145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.905445,40.667259,-111.905445,40.667259",
+    "geom:latitude":40.667259,
+    "geom:longitude":-111.905445,
+    "iso:country":"US",
+    "sg:address":"465 W 4800 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 281 2860",
+    "sg:postcode":"84123",
+    "sg:province":"UT",
+    "sg:tags":[
+        "salon",
+        "coin",
+        "tanning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85811485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KQ6bV1fwy0TLJQovB5Wcp_40.667259_-111.905445@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124641,
+    "wof:geomhash":"7982402791e867c6f7a69eb84d9d16fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85811485,
+            "region_id":85688567,
+            "venue_id":857221145
+        }
+    ],
+    "wof:id":857221145,
+    "wof:lastmodified":1464124641,
+    "wof:name":"Quick Stop Tanning Salon",
+    "wof:parent_id":85811485,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon",
+        "coin",
+        "tanning"
+    ]
+},
+  "bbox": [
+    -111.905445,
+    40.667259,
+    -111.905445,
+    40.667259
+],
+  "geometry": {"coordinates":[-111.905445,40.667259],"type":"Point"}
+}

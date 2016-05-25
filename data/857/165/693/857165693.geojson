@@ -1,0 +1,79 @@
+{
+  "id": 857165693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.844731,40.712409,-111.844731,40.712409",
+    "geom:latitude":40.712409,
+    "geom:longitude":-111.844731,
+    "iso:country":"US",
+    "sg:address":"2817 Hartford St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 209 4505",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "distributor",
+        "scanning",
+        "tracking",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85851323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Gu6tvgDfgkn0V3cDBZjpq_40.712409_-111.844731@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123480,
+    "wof:geomhash":"6b519fc52424a31457e62b05bfd07239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85851323,
+            "region_id":85688567,
+            "venue_id":857165693
+        }
+    ],
+    "wof:id":857165693,
+    "wof:lastmodified":1464123480,
+    "wof:name":"C R S Data Solutions",
+    "wof:parent_id":85851323,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distributor",
+        "scanning",
+        "tracking",
+        "sales"
+    ]
+},
+  "bbox": [
+    -111.844731,
+    40.712409,
+    -111.844731,
+    40.712409
+],
+  "geometry": {"coordinates":[-111.844731,40.712409],"type":"Point"}
+}

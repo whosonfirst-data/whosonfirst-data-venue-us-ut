@@ -1,0 +1,73 @@
+{
+  "id": 857357925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.83788,40.750668,-111.83788,40.750668",
+    "geom:latitude":40.750668,
+    "geom:longitude":-111.83788,
+    "iso:country":"US",
+    "sg:address":"1836 Sunnyside Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 582 8158",
+    "sg:postcode":"84108",
+    "sg:province":"UT",
+    "sg:tags":[
+        "book"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85859305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qzI7UaHjyiDtz3KpzhkV9_40.750668_-111.837880@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127657,
+    "wof:geomhash":"fd36eef2caf2cbbcc4edb8081dc854d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85859305,
+            "region_id":85688567,
+            "venue_id":857357925
+        }
+    ],
+    "wof:id":857357925,
+    "wof:lastmodified":1464127657,
+    "wof:name":"Wheelwright Press Ltd",
+    "wof:parent_id":85859305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "book"
+    ]
+},
+  "bbox": [
+    -111.83788,
+    40.750668,
+    -111.83788,
+    40.750668
+],
+  "geometry": {"coordinates":[-111.83788,40.750668],"type":"Point"}
+}

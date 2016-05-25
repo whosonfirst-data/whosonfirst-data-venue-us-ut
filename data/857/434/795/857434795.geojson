@@ -1,0 +1,75 @@
+{
+  "id": 857434795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.02606,40.497105,-112.02606,40.497105",
+    "geom:latitude":40.497105,
+    "geom:longitude":-112.02606,
+    "iso:country":"US",
+    "sg:address":"5673 Adeline Ct",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 254 5546",
+    "sg:postcode":"84096",
+    "sg:province":"UT",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728047,
+        102082877,
+        85819751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JfYUmlzVkHNsxAgy56f15_40.497105_-112.026060@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129462,
+    "wof:geomhash":"48bc424f132c3aa7bb5a26ed06a144c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728047,
+            "neighbourhood_id":85819751,
+            "region_id":85688567,
+            "venue_id":857434795
+        }
+    ],
+    "wof:id":857434795,
+    "wof:lastmodified":1464129462,
+    "wof:name":"Cherry Assoc Video",
+    "wof:parent_id":85819751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -112.02606,
+    40.497105,
+    -112.02606,
+    40.497105
+],
+  "geometry": {"coordinates":[-112.02606,40.497105],"type":"Point"}
+}

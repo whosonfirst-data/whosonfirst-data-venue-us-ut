@@ -1,0 +1,68 @@
+{
+  "id": 857424851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.677835,40.235727,-111.677835,40.235727",
+    "geom:latitude":40.235727,
+    "geom:longitude":-111.677835,
+    "iso:country":"US",
+    "sg:address":"156 N 1100 W",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 2146",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xlXUOEdmsWAgYW3yiHlzt_40.235727_-111.677835@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129219,
+    "wof:geomhash":"fd8ca1231e25886bc83786c2cbca7502",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880067,
+            "region_id":85688567,
+            "venue_id":857424851
+        }
+    ],
+    "wof:id":857424851,
+    "wof:lastmodified":1464129219,
+    "wof:name":"Tronex",
+    "wof:parent_id":85880067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.677835,
+    40.235727,
+    -111.677835,
+    40.235727
+],
+  "geometry": {"coordinates":[-111.677835,40.235727],"type":"Point"}
+}

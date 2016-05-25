@@ -1,0 +1,73 @@
+{
+  "id": 857383883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.995365,40.538674,-111.995365,40.538674",
+    "geom:latitude":40.538674,
+    "geom:longitude":-111.995365,
+    "iso:country":"US",
+    "sg:address":"11758 S 4380 W",
+    "sg:city":"South Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 253 2035",
+    "sg:postcode":"84095",
+    "sg:province":"UT",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728073,
+        102082877,
+        85845107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tjoDyD2wfIj66kt2Gah7Y_40.538674_-111.995365@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128239,
+    "wof:geomhash":"e5c562d007afa580ffcd9ac540fe71f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728073,
+            "neighbourhood_id":85845107,
+            "region_id":85688567,
+            "venue_id":857383883
+        }
+    ],
+    "wof:id":857383883,
+    "wof:lastmodified":1464128239,
+    "wof:name":"Sorensen Photography",
+    "wof:parent_id":85845107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -111.995365,
+    40.538674,
+    -111.995365,
+    40.538674
+],
+  "geometry": {"coordinates":[-111.99536500000001,40.538674],"type":"Point"}
+}

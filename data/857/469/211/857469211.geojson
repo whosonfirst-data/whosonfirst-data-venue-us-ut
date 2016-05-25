@@ -1,0 +1,73 @@
+{
+  "id": 857469211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.911401,40.977011,-111.911401,40.977011",
+    "geom:latitude":40.977011,
+    "geom:longitude":-111.911401,
+    "iso:country":"US",
+    "sg:address":"151 S 1100 W",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 4080",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "fairground"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727907,
+        102083563,
+        85828873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kzefACktvwEwUYzk84WFZ_40.977011_-111.911401@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130155,
+    "wof:geomhash":"66b637b19a75e70cd2408ae3695a7821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85828873,
+            "region_id":85688567,
+            "venue_id":857469211
+        }
+    ],
+    "wof:id":857469211,
+    "wof:lastmodified":1464130155,
+    "wof:name":"Davis County Fairgrounds",
+    "wof:parent_id":85828873,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fairground"
+    ]
+},
+  "bbox": [
+    -111.911401,
+    40.977011,
+    -111.911401,
+    40.977011
+],
+  "geometry": {"coordinates":[-111.911401,40.977011],"type":"Point"}
+}

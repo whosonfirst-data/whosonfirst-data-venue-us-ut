@@ -1,0 +1,68 @@
+{
+  "id": 857123129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.007733,40.298746,-112.007733,40.298746",
+    "geom:latitude":40.298746,
+    "geom:longitude":-112.007733,
+    "iso:country":"US",
+    "sg:address":"1875 Canary Way",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 789 5881",
+    "sg:postcode":"84005",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727857,
+        102083567,
+        85836317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_378I6Z9dDOajKUXLsouaG0_40.298746_-112.007733@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122532,
+    "wof:geomhash":"747f6e29034bda523871adfce7cbc340",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727857,
+            "neighbourhood_id":85836317,
+            "region_id":85688567,
+            "venue_id":857123129
+        }
+    ],
+    "wof:id":857123129,
+    "wof:lastmodified":1464122532,
+    "wof:name":"Business Data Corp",
+    "wof:parent_id":85836317,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.007733,
+    40.298746,
+    -112.007733,
+    40.298746
+],
+  "geometry": {"coordinates":[-112.007733,40.298746],"type":"Point"}
+}

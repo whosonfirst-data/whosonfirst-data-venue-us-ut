@@ -1,0 +1,73 @@
+{
+  "id": 857160611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.709827,40.312137,-111.709827,40.312137",
+    "geom:latitude":40.312137,
+    "geom:longitude":-111.709827,
+    "iso:country":"US",
+    "sg:address":"476 W 800 N",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 221 7615",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XnchPsg62BP8SmROA3w0H_40.312137_-111.709827@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123355,
+    "wof:geomhash":"93f9d6a50311e03b240921cb4dd9ba8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":857160611
+        }
+    ],
+    "wof:id":857160611,
+    "wof:lastmodified":1464123355,
+    "wof:name":"Christiansen & Jones Dentistry",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -111.709827,
+    40.312137,
+    -111.709827,
+    40.312137
+],
+  "geometry": {"coordinates":[-111.709827,40.312137],"type":"Point"}
+}

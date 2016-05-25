@@ -1,0 +1,73 @@
+{
+  "id": 857183111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.845158,40.670459,-111.845158,40.670459",
+    "geom:latitude":40.670459,
+    "geom:longitude":-111.845158,
+    "iso:country":"US",
+    "sg:address":"1758 E 4620 S",
+    "sg:city":"Holladay",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 274 1449",
+    "sg:postcode":"84117",
+    "sg:province":"UT",
+    "sg:tags":[
+        "genealogist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85825901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CJS179QdSHY4iExP3R5g4_40.670459_-111.845158@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123858,
+    "wof:geomhash":"94c04a9f02d59b03147c73689fca5584",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85825901,
+            "region_id":85688567,
+            "venue_id":857183111
+        }
+    ],
+    "wof:id":857183111,
+    "wof:lastmodified":1464123858,
+    "wof:name":"Genalogy Explorer",
+    "wof:parent_id":85825901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "genealogist"
+    ]
+},
+  "bbox": [
+    -111.845158,
+    40.670459,
+    -111.845158,
+    40.670459
+],
+  "geometry": {"coordinates":[-111.845158,40.670459],"type":"Point"}
+}

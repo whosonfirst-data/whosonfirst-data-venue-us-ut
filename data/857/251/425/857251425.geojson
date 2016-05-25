@@ -1,0 +1,73 @@
+{
+  "id": 857251425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.932579,40.609458,-111.932579,40.609458",
+    "geom:latitude":40.609458,
+    "geom:longitude":-111.932579,
+    "iso:country":"US",
+    "sg:address":"1417 W 7800 S",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 568 3811",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85817621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NQq3itRV6xqLuZIO0U3nm_40.609458_-111.932579@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125279,
+    "wof:geomhash":"ad48c910db5c4bec060b32e466bee752",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85817621,
+            "region_id":85688567,
+            "venue_id":857251425
+        }
+    ],
+    "wof:id":857251425,
+    "wof:lastmodified":1464125279,
+    "wof:name":"Carburetor Specialists",
+    "wof:parent_id":85817621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty"
+    ]
+},
+  "bbox": [
+    -111.932579,
+    40.609458,
+    -111.932579,
+    40.609458
+],
+  "geometry": {"coordinates":[-111.932579,40.609458],"type":"Point"}
+}

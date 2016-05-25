@@ -1,0 +1,77 @@
+{
+  "id": 857468833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.899598,40.671366,-111.899598,40.671366",
+    "geom:latitude":40.671366,
+    "geom:longitude":-111.899598,
+    "iso:country":"US",
+    "sg:address":"4701 S 300 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 261 8034",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automotive",
+        "truck",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85851609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sCabCULVg7GjSB9XP0k5r_40.671366_-111.899598@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130146,
+    "wof:geomhash":"c460c2f3f7407533a2de7242e1e494b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85851609,
+            "region_id":85688567,
+            "venue_id":857468833
+        }
+    ],
+    "wof:id":857468833,
+    "wof:lastmodified":1464130146,
+    "wof:name":"Turn Key Service Tech Inc",
+    "wof:parent_id":85851609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "truck",
+        "general"
+    ]
+},
+  "bbox": [
+    -111.899598,
+    40.671366,
+    -111.899598,
+    40.671366
+],
+  "geometry": {"coordinates":[-111.899598,40.671366],"type":"Point"}
+}

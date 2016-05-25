@@ -1,0 +1,68 @@
+{
+  "id": 857337863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.691468,40.289458,-111.691468,40.289458",
+    "geom:latitude":40.289458,
+    "geom:longitude":-111.691468,
+    "iso:country":"US",
+    "sg:address":"658 S State St",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 3661",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85849197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36fXNnCA9ltgJiP1dU6cXs_40.289458_-111.691468@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127229,
+    "wof:geomhash":"8a07f2ab9421b6c46a64c5f9104d1ce3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85849197,
+            "region_id":85688567,
+            "venue_id":857337863
+        }
+    ],
+    "wof:id":857337863,
+    "wof:lastmodified":1464127229,
+    "wof:name":"Great Western Chiropractic",
+    "wof:parent_id":85849197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.691468,
+    40.289458,
+    -111.691468,
+    40.289458
+],
+  "geometry": {"coordinates":[-111.691468,40.289458],"type":"Point"}
+}

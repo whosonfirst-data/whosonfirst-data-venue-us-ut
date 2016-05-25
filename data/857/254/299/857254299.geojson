@@ -1,0 +1,73 @@
+{
+  "id": 857254299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.668728,40.291936,-111.668728,40.291936",
+    "geom:latitude":40.291936,
+    "geom:longitude":-111.668728,
+    "iso:country":"US",
+    "sg:address":"4416 Stafford Ct",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 3046",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "glass",
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34yaxwywNbutCNkUwSPcQb_40.291936_-111.668728@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125354,
+    "wof:geomhash":"151eb5094d302336f26ba5013d2caf44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857254299
+        }
+    ],
+    "wof:id":857254299,
+    "wof:lastmodified":1464125354,
+    "wof:name":"Art Glass Specialties",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.668728,
+    40.291936,
+    -111.668728,
+    40.291936
+],
+  "geometry": {"coordinates":[-111.668728,40.291936],"type":"Point"}
+}

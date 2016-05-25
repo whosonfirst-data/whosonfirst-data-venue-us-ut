@@ -1,0 +1,75 @@
+{
+  "id": 857177659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.79639,40.59698,-111.79639,40.59698",
+    "geom:latitude":40.59698,
+    "geom:longitude":-111.79639,
+    "iso:country":"US",
+    "sg:address":"8467 Dynasty Way",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 733 4358",
+    "sg:postcode":"84121",
+    "sg:province":"UT",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728065,
+        102082877,
+        85851641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46jKQS1uYhm3MS6KT9IWSG_40.596980_-111.796390@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123745,
+    "wof:geomhash":"373bc0ed5a335488d24d1b326c2e5c71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728065,
+            "neighbourhood_id":85851641,
+            "region_id":85688567,
+            "venue_id":857177659
+        }
+    ],
+    "wof:id":857177659,
+    "wof:lastmodified":1464123745,
+    "wof:name":"Oral Design Dental Laboratory",
+    "wof:parent_id":85851641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -111.79639,
+    40.59698,
+    -111.79639,
+    40.59698
+],
+  "geometry": {"coordinates":[-111.79639,40.59698],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857436887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.867078,41.627854,-111.867078,41.627854",
+    "geom:latitude":41.627854,
+    "geom:longitude":-111.867078,
+    "iso:country":"US",
+    "sg:address":"405 W 300 S",
+    "sg:city":"Hyrum",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 245 6866",
+    "sg:postcode":"84319",
+    "sg:province":"UT",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727555,
+        102082881,
+        85823067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JlIuJq0XVAsGGfWC3PfC6_41.627854_-111.867078@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129509,
+    "wof:geomhash":"61b8389dc125f86fc95f1c0a968db733",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727555,
+            "neighbourhood_id":85823067,
+            "region_id":85688567,
+            "venue_id":857436887
+        }
+    ],
+    "wof:id":857436887,
+    "wof:lastmodified":1464129509,
+    "wof:name":"Parks & Recreation Div",
+    "wof:parent_id":85823067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -111.867078,
+    41.627854,
+    -111.867078,
+    41.627854
+],
+  "geometry": {"coordinates":[-111.86707800000001,41.627854],"type":"Point"}
+}

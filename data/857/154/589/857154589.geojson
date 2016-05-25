@@ -1,0 +1,77 @@
+{
+  "id": 857154589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834795,41.734781,-111.834795,41.734781",
+    "geom:latitude":41.734781,
+    "geom:longitude":-111.834795,
+    "iso:country":"US",
+    "sg:address":"170 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 7242",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "administration",
+        "program",
+        "economic",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JvFEuXbxDABPkd1ZDK1er_41.734781_-111.834795@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123238,
+    "wof:geomhash":"17f0d2e6715ee3374a219f0954ee585c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857154589
+        }
+    ],
+    "wof:id":857154589,
+    "wof:lastmodified":1464123238,
+    "wof:name":"Brag",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "administration",
+        "program",
+        "economic",
+        "general"
+    ]
+},
+  "bbox": [
+    -111.834795,
+    41.734781,
+    -111.834795,
+    41.734781
+],
+  "geometry": {"coordinates":[-111.834795,41.734781],"type":"Point"}
+}

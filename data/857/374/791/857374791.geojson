@@ -1,0 +1,73 @@
+{
+  "id": 857374791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.869236,40.762906,-111.869236,40.762906",
+    "geom:latitude":40.762906,
+    "geom:longitude":-111.869236,
+    "iso:country":"US",
+    "sg:address":"745 E 300 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 519 7194",
+    "sg:postcode":"84102",
+    "sg:province":"UT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40lTxETZnHTFJS8WrcJAGq_40.762906_-111.869236@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128004,
+    "wof:geomhash":"bc01e59601b22cbe59a03133ab659c69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871021,
+            "region_id":85688567,
+            "venue_id":857374791
+        }
+    ],
+    "wof:id":857374791,
+    "wof:lastmodified":1464128004,
+    "wof:name":"Brent J Christensen MD",
+    "wof:parent_id":85871021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -111.869236,
+    40.762906,
+    -111.869236,
+    40.762906
+],
+  "geometry": {"coordinates":[-111.869236,40.762906],"type":"Point"}
+}

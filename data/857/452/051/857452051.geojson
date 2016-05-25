@@ -1,0 +1,73 @@
+{
+  "id": 857452051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.042055,41.08908,-112.042055,41.08908",
+    "geom:latitude":41.08908,
+    "geom:longitude":-112.042055,
+    "iso:country":"US",
+    "sg:address":"975 W 1700 S",
+    "sg:city":"Syracuse",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 773 7262",
+    "sg:postcode":"84075",
+    "sg:province":"UT",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727889,
+        102083563,
+        85804563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50CDonE9LchjWdXG8X9ac8_41.089080_-112.042055@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129800,
+    "wof:geomhash":"305bc9493efb03fdb9b38996faa0e935",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727889,
+            "neighbourhood_id":85804563,
+            "region_id":85688567,
+            "venue_id":857452051
+        }
+    ],
+    "wof:id":857452051,
+    "wof:lastmodified":1464129800,
+    "wof:name":"Barnes Banking Co",
+    "wof:parent_id":85804563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -112.042055,
+    41.08908,
+    -112.042055,
+    41.08908
+],
+  "geometry": {"coordinates":[-112.042055,41.08908],"type":"Point"}
+}

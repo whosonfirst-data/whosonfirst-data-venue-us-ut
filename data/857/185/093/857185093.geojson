@@ -1,0 +1,71 @@
+{
+  "id": 857185093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.884194,41.6409,-111.884194,41.6409",
+    "geom:latitude":41.6409,
+    "geom:longitude":-111.884194,
+    "iso:country":"US",
+    "sg:address":"2150 W Hwy 101",
+    "sg:city":"Hyrum",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 245 2000",
+    "sg:postcode":"84319",
+    "sg:province":"UT",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727555,
+        102082881,
+        85823067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39RMkvdIoNBA1TISQ2U8K5_41.640900_-111.884194@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123899,
+    "wof:geomhash":"2bb36198f35145d4aa11c8eb6bf11259",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727555,
+            "neighbourhood_id":85823067,
+            "region_id":85688567,
+            "venue_id":857185093
+        }
+    ],
+    "wof:id":857185093,
+    "wof:lastmodified":1464123899,
+    "wof:name":"K & K Welding",
+    "wof:parent_id":85823067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -111.884194,
+    41.6409,
+    -111.884194,
+    41.6409
+],
+  "geometry": {"coordinates":[-111.88419399999999,41.6409],"type":"Point"}
+}

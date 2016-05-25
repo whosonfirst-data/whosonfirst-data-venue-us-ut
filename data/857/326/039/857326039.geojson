@@ -1,0 +1,75 @@
+{
+  "id": 857326039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.81665,40.692719,-111.81665,40.692719",
+    "geom:latitude":40.692719,
+    "geom:longitude":-111.81665,
+    "iso:country":"US",
+    "sg:address":"2636 E Hillside Pines Cir",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 272 0578",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "housing",
+        "family",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728257,
+        102082877,
+        85854869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JbpZdm86uf0sbRHuT6MVZ_40.692719_-111.816650@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126969,
+    "wof:geomhash":"0b34caa410347aef36a2e4c8dec27786",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85854869,
+            "region_id":85688567,
+            "venue_id":857326039
+        }
+    ],
+    "wof:id":857326039,
+    "wof:lastmodified":1464126969,
+    "wof:name":"Cottage Communities",
+    "wof:parent_id":85854869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "housing",
+        "family",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.81665,
+    40.692719,
+    -111.81665,
+    40.692719
+],
+  "geometry": {"coordinates":[-111.81665,40.692719],"type":"Point"}
+}

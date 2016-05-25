@@ -1,0 +1,73 @@
+{
+  "id": 857129483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.724035,40.285351,-111.724035,40.285351",
+    "geom:latitude":40.285351,
+    "geom:longitude":-111.724035,
+    "iso:country":"US",
+    "sg:address":"655 S 1200 W",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 227 7373",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727827,
+        102083567,
+        85821287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53GPr2ujEJjPcUqDXU40CW_40.285351_-111.724035@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122664,
+    "wof:geomhash":"1c8a82d4b988f8fa573a394721d9674c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727827,
+            "neighbourhood_id":85821287,
+            "region_id":85688567,
+            "venue_id":857129483
+        }
+    ],
+    "wof:id":857129483,
+    "wof:lastmodified":1464122664,
+    "wof:name":"Winter Haven Apartments",
+    "wof:parent_id":85821287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -111.724035,
+    40.285351,
+    -111.724035,
+    40.285351
+],
+  "geometry": {"coordinates":[-111.724035,40.285351],"type":"Point"}
+}

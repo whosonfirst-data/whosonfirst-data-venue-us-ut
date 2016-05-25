@@ -1,0 +1,73 @@
+{
+  "id": 857270801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.819568,40.597459,-111.819568,40.597459",
+    "geom:latitude":40.597459,
+    "geom:longitude":-111.819568,
+    "iso:country":"US",
+    "sg:address":"2429 E Barcelona Dr",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 942 6154",
+    "sg:postcode":"84093",
+    "sg:province":"UT",
+    "sg:tags":[
+        "station",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728077,
+        102082877,
+        85843389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1u3CM6IXJfTy4hElf46SKf_40.597459_-111.819568@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125700,
+    "wof:geomhash":"9b0f3d41edf73cec3c02f6fd70a1de4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85843389,
+            "region_id":85688567,
+            "venue_id":857270801
+        }
+    ],
+    "wof:id":857270801,
+    "wof:lastmodified":1464125700,
+    "wof:name":"JB Distributing Inc",
+    "wof:parent_id":85843389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gas"
+    ]
+},
+  "bbox": [
+    -111.819568,
+    40.597459,
+    -111.819568,
+    40.597459
+],
+  "geometry": {"coordinates":[-111.819568,40.597459],"type":"Point"}
+}

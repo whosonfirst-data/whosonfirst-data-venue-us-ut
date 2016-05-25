@@ -1,0 +1,73 @@
+{
+  "id": 857156729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.849765,40.725969,-111.849765,40.725969",
+    "geom:latitude":40.725969,
+    "geom:longitude":-111.849765,
+    "iso:country":"US",
+    "sg:address":"1479 E 2100 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 487 2317",
+    "sg:postcode":"84105",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85857009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zkL1rWyQqEtXZjhmGttCd_40.725969_-111.849765@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123280,
+    "wof:geomhash":"983f8b0a4087a2624245fd789f7b7c2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85857009,
+            "region_id":85688567,
+            "venue_id":857156729
+        }
+    ],
+    "wof:id":857156729,
+    "wof:lastmodified":1464123280,
+    "wof:name":"Arbys",
+    "wof:parent_id":85857009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.849765,
+    40.725969,
+    -111.849765,
+    40.725969
+],
+  "geometry": {"coordinates":[-111.849765,40.725969],"type":"Point"}
+}

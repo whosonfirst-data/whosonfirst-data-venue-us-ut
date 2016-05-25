@@ -1,0 +1,73 @@
+{
+  "id": 857133443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.8182,40.688164,-111.8182,40.688164",
+    "geom:latitude":40.688164,
+    "geom:longitude":-111.8182,
+    "iso:country":"US",
+    "sg:address":"3846 S Villa Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 278 3578",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85855049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lQuoMYgQvZ7Ps9jQ4r43I_40.688164_-111.818200@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122747,
+    "wof:geomhash":"447e40828b1423045d0d3471bd80286e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85855049,
+            "region_id":85688567,
+            "venue_id":857133443
+        }
+    ],
+    "wof:id":857133443,
+    "wof:lastmodified":1464122747,
+    "wof:name":"Falsone Roofing Co",
+    "wof:parent_id":85855049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.8182,
+    40.688164,
+    -111.8182,
+    40.688164
+],
+  "geometry": {"coordinates":[-111.8182,40.688164],"type":"Point"}
+}

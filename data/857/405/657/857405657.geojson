@@ -1,0 +1,73 @@
+{
+  "id": 857405657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.90807,40.610849,-111.90807,40.610849",
+    "geom:latitude":40.610849,
+    "geom:longitude":-111.90807,
+    "iso:country":"US",
+    "sg:address":"7841 Allen St",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 566 2909",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "sg:tags":[
+        "woodworker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728051,
+        102082877,
+        85810115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_454X8cqxbRnqbv6ix58pTG_40.610849_-111.908070@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128744,
+    "wof:geomhash":"dbda25b4117f5373b3e6b4b41b75ad37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85810115,
+            "region_id":85688567,
+            "venue_id":857405657
+        }
+    ],
+    "wof:id":857405657,
+    "wof:lastmodified":1464128744,
+    "wof:name":"Acorn Woodworks",
+    "wof:parent_id":85810115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woodworker"
+    ]
+},
+  "bbox": [
+    -111.90807,
+    40.610849,
+    -111.90807,
+    40.610849
+],
+  "geometry": {"coordinates":[-111.90807,40.610849],"type":"Point"}
+}

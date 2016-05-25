@@ -1,0 +1,71 @@
+{
+  "id": 857233443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.924283,41.002531,-111.924283,41.002531",
+    "geom:latitude":41.002531,
+    "geom:longitude":-111.924283,
+    "iso:country":"US",
+    "sg:address":"1348 N 1700 W",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 7772",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EDUNVvmTR6sZpmfpKfJN6_41.002531_-111.924283@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124869,
+    "wof:geomhash":"56b97df81abfdcdda76e7a1e3e793046",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857233443
+        }
+    ],
+    "wof:id":857233443,
+    "wof:lastmodified":1464124869,
+    "wof:name":"Selin Construction",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.924283,
+    41.002531,
+    -111.924283,
+    41.002531
+],
+  "geometry": {"coordinates":[-111.924283,41.002531],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857096603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.928722,41.642325,-111.928722,41.642325",
+    "geom:latitude":41.642325,
+    "geom:longitude":-111.928722,
+    "iso:country":"US",
+    "sg:address":"125 N 200 E",
+    "sg:city":"Wellsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 245 6401",
+    "sg:postcode":"84339",
+    "sg:province":"UT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727555,
+        102082881,
+        85823067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zG8q2vVwZUzcgAKkINUbn_41.642325_-111.928722@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121825,
+    "wof:geomhash":"47ba5517b1317efbe338bc247cfd2cda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727555,
+            "neighbourhood_id":85823067,
+            "region_id":85688567,
+            "venue_id":857096603
+        }
+    ],
+    "wof:id":857096603,
+    "wof:lastmodified":1464121825,
+    "wof:name":"Ed Christensen Construction",
+    "wof:parent_id":85823067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.928722,
+    41.642325,
+    -111.928722,
+    41.642325
+],
+  "geometry": {"coordinates":[-111.92872199999999,41.642325],"type":"Point"}
+}

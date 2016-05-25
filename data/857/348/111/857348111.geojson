@@ -1,0 +1,74 @@
+{
+  "id": 857348111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.889378,40.926179,-111.889378,40.926179",
+    "geom:latitude":40.926179,
+    "geom:longitude":-111.889378,
+    "iso:country":"US",
+    "sg:address":"908 Mountain View Rd",
+    "sg:city":"Centerville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 397 1211",
+    "sg:postcode":"84014",
+    "sg:province":"UT",
+    "sg:tags":[
+        "photographer"
+    ],
+    "sg:website":"www.innovativephotography.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727879,
+        102083563,
+        85850499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rg5GJPQjFFJZLMueBi5KU_40.926179_-111.889378@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127443,
+    "wof:geomhash":"d371fbdb63fd4b74bca45247857203bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727879,
+            "neighbourhood_id":85850499,
+            "region_id":85688567,
+            "venue_id":857348111
+        }
+    ],
+    "wof:id":857348111,
+    "wof:lastmodified":1464127443,
+    "wof:name":"Innovative Photography",
+    "wof:parent_id":85850499,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -111.889378,
+    40.926179,
+    -111.889378,
+    40.926179
+],
+  "geometry": {"coordinates":[-111.88937799999999,40.926179],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857082037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.953607,40.781956,-111.953607,40.781956",
+    "geom:latitude":40.781956,
+    "geom:longitude":-111.953607,
+    "iso:country":"US",
+    "sg:address":"551 N 2200 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 957 4448",
+    "sg:postcode":"84116",
+    "sg:province":"UT",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85856293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LdJoiyOKAheOYeNgV9oSn_40.781956_-111.953607@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121451,
+    "wof:geomhash":"32256c8bbc969bc24f22597ebc7cb74e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85856293,
+            "region_id":85688567,
+            "venue_id":857082037
+        }
+    ],
+    "wof:id":857082037,
+    "wof:lastmodified":1464121451,
+    "wof:name":"Salt Lake Community College",
+    "wof:parent_id":85856293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -111.953607,
+    40.781956,
+    -111.953607,
+    40.781956
+],
+  "geometry": {"coordinates":[-111.95360700000001,40.781956],"type":"Point"}
+}

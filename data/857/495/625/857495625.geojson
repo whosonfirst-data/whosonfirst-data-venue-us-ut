@@ -1,0 +1,77 @@
+{
+  "id": 857495625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.862533,40.725969,-111.862533,40.725969",
+    "geom:latitude":40.725969,
+    "geom:longitude":-111.862533,
+    "iso:country":"US",
+    "sg:address":"2006 S  1000 E B",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"84105",
+    "sg:province":"UT",
+    "sg:tags":[
+        "game-mechanics",
+        "api",
+        "gamification"
+    ],
+    "sg:website":"http://www.IActionable.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85858269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2peUQBGvyLrv0mqh0RtZHx_40.725969_-111.862533@1308186500"
+    },
+    "wof:country":"US",
+    "wof:created":1464130807,
+    "wof:geomhash":"dd85dd35f5a46ac51dc8136a5ed53aea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85858269,
+            "region_id":85688567,
+            "venue_id":857495625
+        }
+    ],
+    "wof:id":857495625,
+    "wof:lastmodified":1464130807,
+    "wof:name":"IActionable",
+    "wof:parent_id":85858269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "game-mechanics",
+        "api",
+        "gamification"
+    ]
+},
+  "bbox": [
+    -111.862533,
+    40.725969,
+    -111.862533,
+    40.725969
+],
+  "geometry": {"coordinates":[-111.862533,40.725969],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857115039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.887538,40.980135,-111.887538,40.980135",
+    "geom:latitude":40.980135,
+    "geom:longitude":-111.887538,
+    "iso:country":"US",
+    "sg:address":"99 S Main St",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 3296",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "county",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727907,
+        102083563,
+        85833427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Pj44PUddY4kYbSHWYgpNY_40.980135_-111.887538@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122313,
+    "wof:geomhash":"c7fcff3cd1029fa22c7425eb8fd5f324",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85833427,
+            "region_id":85688567,
+            "venue_id":857115039
+        }
+    ],
+    "wof:id":857115039,
+    "wof:lastmodified":1464122313,
+    "wof:name":"Davis Environmental Health",
+    "wof:parent_id":85833427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "program"
+    ]
+},
+  "bbox": [
+    -111.887538,
+    40.980135,
+    -111.887538,
+    40.980135
+],
+  "geometry": {"coordinates":[-111.88753800000001,40.980135],"type":"Point"}
+}

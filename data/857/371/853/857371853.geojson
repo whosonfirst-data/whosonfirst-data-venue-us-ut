@@ -1,0 +1,71 @@
+{
+  "id": 857371853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.79292,39.984687,-111.79292,39.984687",
+    "geom:latitude":39.984687,
+    "geom:longitude":-111.79292,
+    "iso:country":"US",
+    "sg:address":"294 W 550 N",
+    "sg:city":"Santaquin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 754 0922",
+    "sg:postcode":"84655",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zYrwv7g3sw4zwVa9NBKhe_39.984687_-111.792920@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127944,
+    "wof:geomhash":"435a887abd8649903d131bf529095774",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857371853
+        }
+    ],
+    "wof:id":857371853,
+    "wof:lastmodified":1464127944,
+    "wof:name":"Mark Shepherd Construction LLC",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -111.79292,
+    39.984687,
+    -111.79292,
+    39.984687
+],
+  "geometry": {"coordinates":[-111.79292,39.984687],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857432003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.008311,40.642759,-112.008311,40.642759",
+    "geom:latitude":40.642759,
+    "geom:longitude":-112.008311,
+    "iso:country":"US",
+    "sg:address":"5967 Coriander Ct",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 965 8848",
+    "sg:postcode":"84118",
+    "sg:province":"UT",
+    "sg:tags":[
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728253,
+        102082877,
+        85833569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6E0Dr9YX8KcYabAwEmzpwE_40.642759_-112.008311@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129391,
+    "wof:geomhash":"d2ee68f485a794e48aa6841288c8928b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728253,
+            "neighbourhood_id":85833569,
+            "region_id":85688567,
+            "venue_id":857432003
+        }
+    ],
+    "wof:id":857432003,
+    "wof:lastmodified":1464129391,
+    "wof:name":"R & P Atv Rentals LLC",
+    "wof:parent_id":85833569,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing"
+    ]
+},
+  "bbox": [
+    -112.008311,
+    40.642759,
+    -112.008311,
+    40.642759
+],
+  "geometry": {"coordinates":[-112.00831100000001,40.642759],"type":"Point"}
+}

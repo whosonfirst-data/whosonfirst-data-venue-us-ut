@@ -1,0 +1,71 @@
+{
+  "id": 857485025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.672918,40.052955,-111.672918,40.052955",
+    "geom:latitude":40.052955,
+    "geom:longitude":-111.672918,
+    "iso:country":"US",
+    "sg:address":"30 E 100 S",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 423 2770",
+    "sg:postcode":"84653",
+    "sg:province":"UT",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10ni5oqplO8anZUOVeTyQs_40.052955_-111.672918@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130468,
+    "wof:geomhash":"cb46eb9cae9deffa03dcd7b626147c25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857485025
+        }
+    ],
+    "wof:id":857485025,
+    "wof:lastmodified":1464130468,
+    "wof:name":"Salem Police Dept",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -111.672918,
+    40.052955,
+    -111.672918,
+    40.052955
+],
+  "geometry": {"coordinates":[-111.672918,40.052955],"type":"Point"}
+}

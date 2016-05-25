@@ -1,0 +1,71 @@
+{
+  "id": 857329075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.702449,40.226171,-111.702449,40.226171",
+    "geom:latitude":40.226171,
+    "geom:longitude":-111.702449,
+    "iso:country":"US",
+    "sg:address":"2317 W 560 S",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 377 1874",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880073,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SGwDg7AamqYyujCzP3Ujj_40.226171_-111.702449@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127035,
+    "wof:geomhash":"00ddf633815b234811c64d7ec169510c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880073,
+            "region_id":85688567,
+            "venue_id":857329075
+        }
+    ],
+    "wof:id":857329075,
+    "wof:lastmodified":1464127035,
+    "wof:name":"Suncrest Electric",
+    "wof:parent_id":85880073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.702449,
+    40.226171,
+    -111.702449,
+    40.226171
+],
+  "geometry": {"coordinates":[-111.702449,40.226171],"type":"Point"}
+}

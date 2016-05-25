@@ -1,0 +1,73 @@
+{
+  "id": 857214011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.82418,41.756224,-111.82418,41.756224",
+    "geom:latitude":41.756224,
+    "geom:longitude":-111.82418,
+    "iso:country":"US",
+    "sg:address":"1335 N 400 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 5181",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "motion",
+        "picture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6f21JVGbpdf53v8s7ITlF8_41.756224_-111.824180@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124487,
+    "wof:geomhash":"da586ce535619c30dc3c218bcaedc903",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857214011
+        }
+    ],
+    "wof:id":857214011,
+    "wof:lastmodified":1464124487,
+    "wof:name":"Fine Line Video",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motion",
+        "picture"
+    ]
+},
+  "bbox": [
+    -111.82418,
+    41.756224,
+    -111.82418,
+    41.756224
+],
+  "geometry": {"coordinates":[-111.82418,41.756224],"type":"Point"}
+}

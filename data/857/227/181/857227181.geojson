@@ -1,0 +1,73 @@
+{
+  "id": 857227181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.970967,41.10119,-111.970967,41.10119",
+    "geom:latitude":41.10119,
+    "geom:longitude":-111.970967,
+    "iso:country":"US",
+    "sg:address":"123 Barrington Way",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 825 2393",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZFhIwcisd5wNAOdcFPIVU_41.101190_-111.970967@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124753,
+    "wof:geomhash":"b67595f1c5937247b2a2068963600038",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857227181
+        }
+    ],
+    "wof:id":857227181,
+    "wof:lastmodified":1464124753,
+    "wof:name":"Budget Fence & Gate Repair",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.970967,
+    41.10119,
+    -111.970967,
+    41.10119
+],
+  "geometry": {"coordinates":[-111.970967,41.10119],"type":"Point"}
+}

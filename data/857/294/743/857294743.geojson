@@ -1,0 +1,88 @@
+{
+  "id": 857294743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.576173,37.086894,-113.576173,37.086894",
+    "geom:latitude":37.086894,
+    "geom:longitude":-113.576173,
+    "iso:country":"US",
+    "sg:address":"376 Sunland Dr",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 673 8666",
+    "sg:postcode":"84790",
+    "sg:province":"UT",
+    "sg:tags":[
+        "physician",
+        "re",
+        "home",
+        "surgeon",
+        "rental",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YsizNUurqaG2VjEpYwrkR_37.086894_-113.576173@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126282,
+    "wof:geomhash":"28de26b5f79e034ed6f4abf55f3e028e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857294743
+        }
+    ],
+    "wof:id":857294743,
+    "wof:lastmodified":1464126282,
+    "wof:name":"Southern Utah Home Oxygen &",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "re",
+        "home",
+        "surgeon",
+        "rental",
+        "care"
+    ]
+},
+  "bbox": [
+    -113.576173,
+    37.086894,
+    -113.576173,
+    37.086894
+],
+  "geometry": {"coordinates":[-113.576173,37.086894],"type":"Point"}
+}

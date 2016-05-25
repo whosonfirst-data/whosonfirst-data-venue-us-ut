@@ -1,0 +1,83 @@
+{
+  "id": 857495255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.662267,40.258506,-111.662267,40.258506",
+    "geom:latitude":40.258506,
+    "geom:longitude":-111.662267,
+    "iso:country":"US",
+    "sg:address":"1774 N University Pkwy",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/provo-orem/135957-jamba-juice/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 377 0404",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Fxw1obmx9JzipFF98c6cm_40.257888_-111.661758@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130786,
+    "wof:geomhash":"8210e3fcf4dbdd2a425594caea513422",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880063,
+            "region_id":85688567,
+            "venue_id":857495255
+        }
+    ],
+    "wof:id":857495255,
+    "wof:lastmodified":1464130786,
+    "wof:name":"Jamba Juice",
+    "wof:parent_id":85880063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ]
+},
+  "bbox": [
+    -111.662267,
+    40.258506,
+    -111.662267,
+    40.258506
+],
+  "geometry": {"coordinates":[-111.662267,40.258506],"type":"Point"}
+}

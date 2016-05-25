@@ -1,0 +1,77 @@
+{
+  "id": 857106713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.920737,40.811078,-111.920737,40.811078",
+    "geom:latitude":40.811078,
+    "geom:longitude":-111.920737,
+    "iso:country":"US",
+    "sg:address":"2211 Warm Springs Rd",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 364 1400",
+    "sg:postcode":"84116",
+    "sg:province":"UT",
+    "sg:tags":[
+        "steel",
+        "fabrication",
+        "structural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85851619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Bo1Epd1bHxhQLylA4TK9W_40.811078_-111.920737@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122064,
+    "wof:geomhash":"b8afdcdf7eb1ac2b9bbcd389078b6c5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85851619,
+            "region_id":85688567,
+            "venue_id":857106713
+        }
+    ],
+    "wof:id":857106713,
+    "wof:lastmodified":1464122064,
+    "wof:name":"Atlas Manufacturing Co",
+    "wof:parent_id":85851619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "fabrication",
+        "structural"
+    ]
+},
+  "bbox": [
+    -111.920737,
+    40.811078,
+    -111.920737,
+    40.811078
+],
+  "geometry": {"coordinates":[-111.920737,40.811078],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857081459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.85367,41.765443,-111.85367,41.765443",
+    "geom:latitude":41.765443,
+    "geom:longitude":-111.85367,
+    "iso:country":"US",
+    "sg:address":"679 W 1800 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 9612",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "body",
+        "auto",
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40jx3uhCH59ZhT0U9xY7BL_41.765443_-111.853670@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121436,
+    "wof:geomhash":"7da9378b2abac5c5441b6cc1cf686d89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857081459
+        }
+    ],
+    "wof:id":857081459,
+    "wof:lastmodified":1464121436,
+    "wof:name":"Cache Valley Upholstery",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "auto",
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -111.85367,
+    41.765443,
+    -111.85367,
+    41.765443
+],
+  "geometry": {"coordinates":[-111.85366999999999,41.765443],"type":"Point"}
+}

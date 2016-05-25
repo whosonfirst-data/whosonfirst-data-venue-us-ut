@@ -1,0 +1,71 @@
+{
+  "id": 857298855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.605915,37.05016,-113.605915,37.05016",
+    "geom:latitude":37.05016,
+    "geom:longitude":-113.605915,
+    "iso:country":"US",
+    "sg:address":"1006 W Bloomington Dr S",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 266 3790",
+    "sg:postcode":"84790",
+    "sg:province":"UT",
+    "sg:tags":[
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727617,
+        102082879,
+        85803851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yU0ArlYR1I9TATXTo4V73_37.050160_-113.605915@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126384,
+    "wof:geomhash":"6c335a418ff640204b5743b43c7f8bf0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85803851,
+            "region_id":85688567,
+            "venue_id":857298855
+        }
+    ],
+    "wof:id":857298855,
+    "wof:lastmodified":1464126384,
+    "wof:name":"Stewart-Decatur SEC Systems",
+    "wof:parent_id":85803851,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system"
+    ]
+},
+  "bbox": [
+    -113.605915,
+    37.05016,
+    -113.605915,
+    37.05016
+],
+  "geometry": {"coordinates":[-113.605915,37.05016],"type":"Point"}
+}

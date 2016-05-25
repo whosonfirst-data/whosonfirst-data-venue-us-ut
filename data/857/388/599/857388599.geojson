@@ -1,0 +1,77 @@
+{
+  "id": 857388599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.926027,40.652035,-111.926027,40.652035",
+    "geom:latitude":40.652035,
+    "geom:longitude":-111.926027,
+    "iso:country":"US",
+    "sg:address":"5463 Walden Glen Dr",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 262 8484",
+    "sg:postcode":"84123",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house",
+        "order",
+        "mail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728059,
+        102082877,
+        85829683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01ZmeJb2CprAlPsaFxEOq1_40.652035_-111.926027@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128395,
+    "wof:geomhash":"53fb020d41ec59be103022cb93e0bf9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728059,
+            "neighbourhood_id":85829683,
+            "region_id":85688567,
+            "venue_id":857388599
+        }
+    ],
+    "wof:id":857388599,
+    "wof:lastmodified":1464128395,
+    "wof:name":"Dare To Bare",
+    "wof:parent_id":85829683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "order",
+        "mail"
+    ]
+},
+  "bbox": [
+    -111.926027,
+    40.652035,
+    -111.926027,
+    40.652035
+],
+  "geometry": {"coordinates":[-111.926027,40.652035],"type":"Point"}
+}

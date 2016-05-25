@@ -1,0 +1,73 @@
+{
+  "id": 857430453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.093327,41.219918,-112.093327,41.219918",
+    "geom:latitude":41.219918,
+    "geom:longitude":-112.093327,
+    "iso:country":"US",
+    "sg:address":"4725 W 2550 S",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 732 9138",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85804651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IWLqSvWkiM6TkiQO355CS_41.219918_-112.093327@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129354,
+    "wof:geomhash":"b805ad854a5c0c640bda2d515b2fc688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85804651,
+            "region_id":85688567,
+            "venue_id":857430453
+        }
+    ],
+    "wof:id":857430453,
+    "wof:lastmodified":1464129354,
+    "wof:name":"Rogers Rods & Parts LLC",
+    "wof:parent_id":85804651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -112.093327,
+    41.219918,
+    -112.093327,
+    41.219918
+],
+  "geometry": {"coordinates":[-112.093327,41.219918],"type":"Point"}
+}

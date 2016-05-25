@@ -1,0 +1,73 @@
+{
+  "id": 857202809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.979427,41.252351,-111.979427,41.252351",
+    "geom:latitude":41.252351,
+    "geom:longitude":-111.979427,
+    "iso:country":"US",
+    "sg:address":"158 Ray St",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 399 0678",
+    "sg:postcode":"84404",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85815115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41DALCVkJ2TLh2nuKQHn0w_41.252351_-111.979427@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124227,
+    "wof:geomhash":"657a3c0bc336342e0dca303d0d20456e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85815115,
+            "region_id":85688567,
+            "venue_id":857202809
+        }
+    ],
+    "wof:id":857202809,
+    "wof:lastmodified":1464124227,
+    "wof:name":"Hennefer Mobile Truck Repair",
+    "wof:parent_id":85815115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -111.979427,
+    41.252351,
+    -111.979427,
+    41.252351
+],
+  "geometry": {"coordinates":[-111.979427,41.252351],"type":"Point"}
+}

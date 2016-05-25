@@ -1,0 +1,78 @@
+{
+  "id": 857220757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.659202,40.214687,-111.659202,40.214687",
+    "geom:latitude":40.214687,
+    "geom:longitude":-111.659202,
+    "iso:country":"US",
+    "sg:address":"1410 S University Ave",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 2450",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77v7rDtutTiD9oE4Sjw2Yw_40.214687_-111.659202@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124628,
+    "wof:geomhash":"98b5cfe5b900e9ee202bb77abca45f33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880069,
+            "region_id":85688567,
+            "venue_id":857220757
+        }
+    ],
+    "wof:id":857220757,
+    "wof:lastmodified":1464124628,
+    "wof:name":"Maverik Country Stores 321",
+    "wof:parent_id":85880069,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -111.659202,
+    40.214687,
+    -111.659202,
+    40.214687
+],
+  "geometry": {"coordinates":[-111.65920199999999,40.214687],"type":"Point"}
+}

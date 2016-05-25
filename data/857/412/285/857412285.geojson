@@ -1,0 +1,71 @@
+{
+  "id": 857412285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.699341,40.035134,-111.699341,40.035134",
+    "geom:latitude":40.035134,
+    "geom:longitude":-111.699341,
+    "iso:country":"US",
+    "sg:address":"1788 W Salem Canal Rd",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 2313",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XJweR2K9YUyhTr7tHz4zb_40.035134_-111.699341@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128909,
+    "wof:geomhash":"21afb06b34d04f375df74e1415fd7aba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857412285
+        }
+    ],
+    "wof:id":857412285,
+    "wof:lastmodified":1464128909,
+    "wof:name":"Westside Self Storage Inc",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -111.699341,
+    40.035134,
+    -111.699341,
+    40.035134
+],
+  "geometry": {"coordinates":[-111.699341,40.035134],"type":"Point"}
+}

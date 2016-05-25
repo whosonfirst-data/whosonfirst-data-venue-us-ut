@@ -1,0 +1,75 @@
+{
+  "id": 857278807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.663847,40.236116,-111.663847,40.236116",
+    "geom:latitude":40.236116,
+    "geom:longitude":-111.663847,
+    "iso:country":"US",
+    "sg:address":"124 N 300 W",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 4211",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yrKEgjKxrjp1i7RgUS4fP_40.236116_-111.663847@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125887,
+    "wof:geomhash":"5e50791933ea451424786d8e7c48f4bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880121,
+            "region_id":85688567,
+            "venue_id":857278807
+        }
+    ],
+    "wof:id":857278807,
+    "wof:lastmodified":1464125887,
+    "wof:name":"Greyhound Bus Lines",
+    "wof:parent_id":85880121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -111.663847,
+    40.236116,
+    -111.663847,
+    40.236116
+],
+  "geometry": {"coordinates":[-111.663847,40.236116],"type":"Point"}
+}

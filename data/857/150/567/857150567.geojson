@@ -1,0 +1,69 @@
+{
+  "id": 857150567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.795114,40.371345,-111.795114,40.371345",
+    "geom:latitude":40.371345,
+    "geom:longitude":-111.795114,
+    "iso:country":"US",
+    "sg:address":"243 S 100 E",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 766 1974",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_231auNNOUjzUVgV0sQrCIP_40.371345_-111.795114@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123160,
+    "wof:geomhash":"3319c8d4cf8d3a58c91b0435ac9f66c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857150567
+        }
+    ],
+    "wof:id":857150567,
+    "wof:lastmodified":1464123160,
+    "wof:name":"Rambos Plaster & Stucco Inc",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.795114,
+    40.371345,
+    -111.795114,
+    40.371345
+],
+  "geometry": {"coordinates":[-111.795114,40.371345],"type":"Point"}
+}

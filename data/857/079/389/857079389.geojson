@@ -1,0 +1,73 @@
+{
+  "id": 857079389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.0035,41.228107,-112.0035,41.228107",
+    "geom:latitude":41.228107,
+    "geom:longitude":-112.0035,
+    "iso:country":"US",
+    "sg:address":"950 Wilson Ln",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 621 0027",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85818351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24vK5mm6GdJlD1CRXSwFlV_41.228107_-112.003500@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121388,
+    "wof:geomhash":"0110b53898fb1211f95bba784a17e165",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85818351,
+            "region_id":85688567,
+            "venue_id":857079389
+        }
+    ],
+    "wof:id":857079389,
+    "wof:lastmodified":1464121388,
+    "wof:name":"Associated Air Handling Inc",
+    "wof:parent_id":85818351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -112.0035,
+    41.228107,
+    -112.0035,
+    41.228107
+],
+  "geometry": {"coordinates":[-112.0035,41.228107],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857438491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.923939,40.864982,-111.923939,40.864982",
+    "geom:latitude":40.864982,
+    "geom:longitude":-111.923939,
+    "iso:country":"US",
+    "sg:address":"2391 S 1560 W",
+    "sg:city":"Woods Cross",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 292 7581",
+    "sg:postcode":"84087",
+    "sg:province":"UT",
+    "sg:tags":[
+        "restoration",
+        "preservation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727887,
+        102083563,
+        85848919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jCEBsgiFz4Q8MiFUEK4MQ_40.864982_-111.923939@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129536,
+    "wof:geomhash":"2b9fe689ecef9c9b07a92c7eabca16c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727887,
+            "neighbourhood_id":85848919,
+            "region_id":85688567,
+            "venue_id":857438491
+        }
+    ],
+    "wof:id":857438491,
+    "wof:lastmodified":1464129536,
+    "wof:name":"CPH Restoration Inc",
+    "wof:parent_id":85848919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "restoration",
+        "preservation"
+    ]
+},
+  "bbox": [
+    -111.923939,
+    40.864982,
+    -111.923939,
+    40.864982
+],
+  "geometry": {"coordinates":[-111.923939,40.864982],"type":"Point"}
+}

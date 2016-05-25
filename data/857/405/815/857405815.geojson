@@ -1,0 +1,73 @@
+{
+  "id": 857405815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.876799,40.754911,-111.876799,40.754911",
+    "geom:latitude":40.754911,
+    "geom:longitude":-111.876799,
+    "iso:country":"US",
+    "sg:address":"450 Sego Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 533 0099",
+    "sg:postcode":"84111",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ipnBXmG3n9OhmPt3MWNI5_40.754911_-111.876799@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128748,
+    "wof:geomhash":"382aa3ebe67dfccc50c11da34293f168",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871021,
+            "region_id":85688567,
+            "venue_id":857405815
+        }
+    ],
+    "wof:id":857405815,
+    "wof:lastmodified":1464128748,
+    "wof:name":"Laraes Beauty Shop",
+    "wof:parent_id":85871021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.876799,
+    40.754911,
+    -111.876799,
+    40.754911
+],
+  "geometry": {"coordinates":[-111.87679900000001,40.754911],"type":"Point"}
+}

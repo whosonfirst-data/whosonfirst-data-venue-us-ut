@@ -1,0 +1,75 @@
+{
+  "id": 857342571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.694186,40.283713,-111.694186,40.283713",
+    "geom:latitude":40.283713,
+    "geom:longitude":-111.694186,
+    "iso:country":"US",
+    "sg:address":"91 E 740 S",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 6919",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85830581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21yxgvM87807lp45VqyAXP_40.283713_-111.694186@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127326,
+    "wof:geomhash":"d3e238a88887d168e6765f45354d71a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85830581,
+            "region_id":85688567,
+            "venue_id":857342571
+        }
+    ],
+    "wof:id":857342571,
+    "wof:lastmodified":1464127326,
+    "wof:name":"Power Express Electric",
+    "wof:parent_id":85830581,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.694186,
+    40.283713,
+    -111.694186,
+    40.283713
+],
+  "geometry": {"coordinates":[-111.694186,40.283713],"type":"Point"}
+}

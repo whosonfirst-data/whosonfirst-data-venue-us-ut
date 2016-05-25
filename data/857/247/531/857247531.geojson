@@ -1,0 +1,73 @@
+{
+  "id": 857247531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.836838,41.76511,-111.836838,41.76511",
+    "geom:latitude":41.76511,
+    "geom:longitude":-111.836838,
+    "iso:country":"US",
+    "sg:address":"195 W 1800 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 770 0508",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1agyWlEp8cXgzMyHYF3TmZ_41.765110_-111.836838@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125190,
+    "wof:geomhash":"108cd08e1d75a10ffb688242ab4f72d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857247531
+        }
+    ],
+    "wof:id":857247531,
+    "wof:lastmodified":1464125190,
+    "wof:name":"Glg Construction",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -111.836838,
+    41.76511,
+    -111.836838,
+    41.76511
+],
+  "geometry": {"coordinates":[-111.836838,41.76511],"type":"Point"}
+}

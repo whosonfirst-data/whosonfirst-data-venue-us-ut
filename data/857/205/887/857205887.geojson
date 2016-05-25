@@ -1,0 +1,73 @@
+{
+  "id": 857205887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.056081,41.089223,-112.056081,41.089223",
+    "geom:latitude":41.089223,
+    "geom:longitude":-112.056081,
+    "iso:country":"US",
+    "sg:address":"1580 Antelope Dr",
+    "sg:city":"Syracuse",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 773 8644",
+    "sg:postcode":"84075",
+    "sg:province":"UT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727889,
+        102083563,
+        85804563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PW1fayzXw4VRp2iPrtIuu_41.089223_-112.056081@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124310,
+    "wof:geomhash":"f27ba515c03e008c4a43d6dfe6f97426",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727889,
+            "neighbourhood_id":85804563,
+            "region_id":85688567,
+            "venue_id":857205887
+        }
+    ],
+    "wof:id":857205887,
+    "wof:lastmodified":1464124310,
+    "wof:name":"John Duffy MD",
+    "wof:parent_id":85804563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -112.056081,
+    41.089223,
+    -112.056081,
+    41.089223
+],
+  "geometry": {"coordinates":[-112.05608100000001,41.089223],"type":"Point"}
+}

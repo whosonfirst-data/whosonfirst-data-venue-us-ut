@@ -1,0 +1,76 @@
+{
+  "id": 857230809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.859115,41.749135,-111.859115,41.749135",
+    "geom:latitude":41.749135,
+    "geom:longitude":-111.859115,
+    "iso:country":"US",
+    "sg:address":"919 N 1000 W",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 6405",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "sg:website":"www.cvelectric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uYLELVW72tA7vtKfKUNcb_41.749135_-111.859115@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124822,
+    "wof:geomhash":"ffbd05991620a303b720324b3573d825",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857230809
+        }
+    ],
+    "wof:id":857230809,
+    "wof:lastmodified":1464124822,
+    "wof:name":"Cache Valley Electric Company",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.859115,
+    41.749135,
+    -111.859115,
+    41.749135
+],
+  "geometry": {"coordinates":[-111.859115,41.749135],"type":"Point"}
+}

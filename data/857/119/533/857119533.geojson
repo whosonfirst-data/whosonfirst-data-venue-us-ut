@@ -1,0 +1,73 @@
+{
+  "id": 857119533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.817113,41.748395,-111.817113,41.748395",
+    "geom:latitude":41.748395,
+    "geom:longitude":-111.817113,
+    "iso:country":"US",
+    "sg:address":"669 E 900 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 7227",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lpoVFp79Jjta1qkHYZq75_41.748395_-111.817113@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122440,
+    "wof:geomhash":"5e06f758e5477937fdb49955ec6f19bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857119533
+        }
+    ],
+    "wof:id":857119533,
+    "wof:lastmodified":1464122440,
+    "wof:name":"Brooklane Apartments",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -111.817113,
+    41.748395,
+    -111.817113,
+    41.748395
+],
+  "geometry": {"coordinates":[-111.81711300000001,41.748395],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 857156511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.811666,40.378059,-111.811666,40.378059",
+    "geom:latitude":40.378059,
+    "geom:longitude":-111.811666,
+    "iso:country":"US",
+    "sg:address":"473 W 50 N",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 492 0001",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "software"
+    ],
+    "sg:website":"www.conntrax.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2o1j1tx1IIlTBNWNtwF060_40.378059_-111.811666@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123275,
+    "wof:geomhash":"ac09934058cf9233bc68de0672e81e7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857156511
+        }
+    ],
+    "wof:id":857156511,
+    "wof:lastmodified":1464123275,
+    "wof:name":"Telescan LLC",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [
+    -111.811666,
+    40.378059,
+    -111.811666,
+    40.378059
+],
+  "geometry": {"coordinates":[-111.811666,40.378059],"type":"Point"}
+}

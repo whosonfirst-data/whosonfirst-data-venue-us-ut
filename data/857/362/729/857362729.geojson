@@ -1,0 +1,75 @@
+{
+  "id": 857362729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.598818,40.125466,-111.598818,40.125466",
+    "geom:latitude":40.125466,
+    "geom:longitude":-111.598818,
+    "iso:country":"US",
+    "sg:address":"650 S Alvey Dr",
+    "sg:city":"Mapleton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 489 6610",
+    "sg:postcode":"84664",
+    "sg:province":"UT",
+    "sg:tags":[
+        "fire",
+        "restoration",
+        "damage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4r82D8F7WT7FWSa2ckutBB_40.125466_-111.598818@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127756,
+    "wof:geomhash":"d747e9774a496e1ef8e2e9c3d90a6892",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857362729
+        }
+    ],
+    "wof:id":857362729,
+    "wof:lastmodified":1464127756,
+    "wof:name":"Jeffers Clearing & Restoration",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "restoration",
+        "damage"
+    ]
+},
+  "bbox": [
+    -111.598818,
+    40.125466,
+    -111.598818,
+    40.125466
+],
+  "geometry": {"coordinates":[-111.59881799999999,40.125466],"type":"Point"}
+}

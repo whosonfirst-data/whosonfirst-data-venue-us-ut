@@ -1,0 +1,75 @@
+{
+  "id": 857380319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.896855,40.915052,-111.896855,40.915052",
+    "geom:latitude":40.915052,
+    "geom:longitude":-111.896855,
+    "iso:country":"US",
+    "sg:address":"2320 N 640 W",
+    "sg:city":"Woods Cross",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 298 2593",
+    "sg:postcode":"84087",
+    "sg:province":"UT",
+    "sg:tags":[
+        "machine",
+        "bursting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727879,
+        102083563,
+        85850499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TJDWQYlUySdudjYi6GJlz_40.915052_-111.896855@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128131,
+    "wof:geomhash":"9bf241060ee4563882c15ee07fcee1c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727879,
+            "neighbourhood_id":85850499,
+            "region_id":85688567,
+            "venue_id":857380319
+        }
+    ],
+    "wof:id":857380319,
+    "wof:lastmodified":1464128131,
+    "wof:name":"Krick Corp",
+    "wof:parent_id":85850499,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "bursting"
+    ]
+},
+  "bbox": [
+    -111.896855,
+    40.915052,
+    -111.896855,
+    40.915052
+],
+  "geometry": {"coordinates":[-111.896855,40.915052],"type":"Point"}
+}

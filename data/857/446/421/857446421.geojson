@@ -1,0 +1,75 @@
+{
+  "id": 857446421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.005608,41.077778,-112.005608,41.077778",
+    "geom:latitude":41.077778,
+    "geom:longitude":-112.005608,
+    "iso:country":"US",
+    "sg:address":"2110 W 1225 N",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 244 8648",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "radio",
+        "installation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5s460lQzxJjYYAeBRIhCHV_41.077778_-112.005608@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129689,
+    "wof:geomhash":"dafd731f9d6d43e64caabf716c2699c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857446421
+        }
+    ],
+    "wof:id":857446421,
+    "wof:lastmodified":1464129689,
+    "wof:name":"Wasatch Avionics LLC",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "radio",
+        "installation"
+    ]
+},
+  "bbox": [
+    -112.005608,
+    41.077778,
+    -112.005608,
+    41.077778
+],
+  "geometry": {"coordinates":[-112.005608,41.077778],"type":"Point"}
+}

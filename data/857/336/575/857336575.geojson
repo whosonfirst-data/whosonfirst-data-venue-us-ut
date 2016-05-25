@@ -1,0 +1,71 @@
+{
+  "id": 857336575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.937258,41.303664,-111.937258,41.303664",
+    "geom:latitude":41.303664,
+    "geom:longitude":-111.937258,
+    "iso:country":"US",
+    "sg:address":"2512 N Mountain Rd",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 782 4181",
+    "sg:postcode":"84414",
+    "sg:province":"UT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85824645,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67G2wDHqnApQ8J6JMENbLO_41.303664_-111.937258@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127199,
+    "wof:geomhash":"8b6cbe40a6060c66e373217e4b0a20b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85824645,
+            "region_id":85688567,
+            "venue_id":857336575
+        }
+    ],
+    "wof:id":857336575,
+    "wof:lastmodified":1464127199,
+    "wof:name":"Dunkley Excavating",
+    "wof:parent_id":85824645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.937258,
+    41.303664,
+    -111.937258,
+    41.303664
+],
+  "geometry": {"coordinates":[-111.937258,41.303664],"type":"Point"}
+}

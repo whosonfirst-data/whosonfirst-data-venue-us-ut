@@ -1,0 +1,75 @@
+{
+  "id": 857284681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.738096,40.044659,-111.738096,40.044659",
+    "geom:latitude":40.044659,
+    "geom:longitude":-111.738096,
+    "iso:country":"US",
+    "sg:address":"332 W 100 N",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 8468",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "glass",
+        "tinting",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EsM0P5w1TUsIE2q0eSBxz_40.044659_-111.738096@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126015,
+    "wof:geomhash":"9c816c8497679b06e9a9616eecf8ed99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857284681
+        }
+    ],
+    "wof:id":857284681,
+    "wof:lastmodified":1464126015,
+    "wof:name":"Slix Auto Detailing",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "tinting",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -111.738096,
+    40.044659,
+    -111.738096,
+    40.044659
+],
+  "geometry": {"coordinates":[-111.738096,40.044659],"type":"Point"}
+}

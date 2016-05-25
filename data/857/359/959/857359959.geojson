@@ -1,0 +1,73 @@
+{
+  "id": 857359959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.5376,37.118228,-113.5376,37.118228",
+    "geom:latitude":37.118228,
+    "geom:longitude":-113.5376,
+    "iso:country":"US",
+    "sg:address":"2056 E 575 N",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 673 1636",
+    "sg:postcode":"84790",
+    "sg:province":"UT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RRCLImvx4E0upRbB4soig_37.118228_-113.537600@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127696,
+    "wof:geomhash":"48ce921145c451fe62f7f1a29536a137",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857359959
+        }
+    ],
+    "wof:id":857359959,
+    "wof:lastmodified":1464127696,
+    "wof:name":"American Sanitary Supply",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -113.5376,
+    37.118228,
+    -113.5376,
+    37.118228
+],
+  "geometry": {"coordinates":[-113.5376,37.118228],"type":"Point"}
+}

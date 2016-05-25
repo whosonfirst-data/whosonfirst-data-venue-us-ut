@@ -1,0 +1,74 @@
+{
+  "id": 857230379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.854462,40.423989,-111.854462,40.423989",
+    "geom:latitude":40.423989,
+    "geom:longitude":-111.854462,
+    "iso:country":"US",
+    "sg:address":"2760 N 300 W",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 768 7035",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "elementary"
+    ],
+    "sg:website":"www.alpine.k12.ut.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727857,
+        102083567,
+        85836317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SQwYlf2fakBk3fkqboRUX_40.423989_-111.854462@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124814,
+    "wof:geomhash":"2ab528b403f4a9aff38c9ab96d5eb9e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727857,
+            "neighbourhood_id":85836317,
+            "region_id":85688567,
+            "venue_id":857230379
+        }
+    ],
+    "wof:id":857230379,
+    "wof:lastmodified":1464124814,
+    "wof:name":"Eagle Crest Elementary",
+    "wof:parent_id":85836317,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -111.854462,
+    40.423989,
+    -111.854462,
+    40.423989
+],
+  "geometry": {"coordinates":[-111.854462,40.423989],"type":"Point"}
+}

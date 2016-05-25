@@ -1,0 +1,76 @@
+{
+  "id": 857083169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.833117,40.58053,-111.833117,40.58053",
+    "geom:latitude":40.58053,
+    "geom:longitude":-111.833117,
+    "iso:country":"US",
+    "sg:address":"2137 E 9400 S",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 944 9417",
+    "sg:postcode":"84093",
+    "sg:province":"UT",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "sg:website":"www.hollywoodvideo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85834879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13tIJnCR8nTJQo3w8hSW3i_40.580530_-111.833117@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121489,
+    "wof:geomhash":"ef4f021067956edb6506e104869a1c06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85834879,
+            "region_id":85688567,
+            "venue_id":857083169
+        }
+    ],
+    "wof:id":857083169,
+    "wof:lastmodified":1464121489,
+    "wof:name":"Hollywood Video",
+    "wof:parent_id":85834879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -111.833117,
+    40.58053,
+    -111.833117,
+    40.58053
+],
+  "geometry": {"coordinates":[-111.833117,40.58053],"type":"Point"}
+}

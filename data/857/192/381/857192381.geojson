@@ -1,0 +1,75 @@
+{
+  "id": 857192381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.026109,41.138872,-112.026109,41.138872",
+    "geom:latitude":41.138872,
+    "geom:longitude":-112.026109,
+    "iso:country":"US",
+    "sg:address":"1741 N Main St",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 825 0150",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85851583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Dbki3MQgiEnwcZ63tTXWO_41.138872_-112.026109@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124031,
+    "wof:geomhash":"8190ee44976f054c4cdd9d8bb952b5dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85851583,
+            "region_id":85688567,
+            "venue_id":857192381
+        }
+    ],
+    "wof:id":857192381,
+    "wof:lastmodified":1464124031,
+    "wof:name":"Caliber Auto Sales",
+    "wof:parent_id":85851583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -112.026109,
+    41.138872,
+    -112.026109,
+    41.138872
+],
+  "geometry": {"coordinates":[-112.02610900000001,41.138872],"type":"Point"}
+}

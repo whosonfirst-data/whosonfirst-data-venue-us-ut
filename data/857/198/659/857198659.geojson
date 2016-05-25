@@ -1,0 +1,71 @@
+{
+  "id": 857198659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.807745,40.699917,-111.807745,40.699917",
+    "geom:latitude":40.699917,
+    "geom:longitude":-111.807745,
+    "iso:country":"US",
+    "sg:address":"2945 E 3300 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 466 7700",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728257,
+        102082877,
+        85854869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WYdPhm68pSrBDCQ3lfiDb_40.699917_-111.807745@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124152,
+    "wof:geomhash":"ee2939af0fd619b0467340ed38b1dfef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85854869,
+            "region_id":85688567,
+            "venue_id":857198659
+        }
+    ],
+    "wof:id":857198659,
+    "wof:lastmodified":1464124152,
+    "wof:name":"Clean Express",
+    "wof:parent_id":85854869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -111.807745,
+    40.699917,
+    -111.807745,
+    40.699917
+],
+  "geometry": {"coordinates":[-111.807745,40.699917],"type":"Point"}
+}

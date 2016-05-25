@@ -1,0 +1,73 @@
+{
+  "id": 857224459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834136,41.768899,-111.834136,41.768899",
+    "geom:latitude":41.768899,
+    "geom:longitude":-111.834136,
+    "iso:country":"US",
+    "sg:address":"28525 25600 North Rd",
+    "sg:city":"Snowville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 872 8164",
+    "sg:postcode":"84336",
+    "sg:province":"UT",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GRstTYFQIoGKgukR3Hcn9_41.768899_-111.834136@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124700,
+    "wof:geomhash":"26890508a11d60b3b3180e007eac5316",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857224459
+        }
+    ],
+    "wof:id":857224459,
+    "wof:lastmodified":1464124700,
+    "wof:name":"Transportation Dept",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -111.834136,
+    41.768899,
+    -111.834136,
+    41.768899
+],
+  "geometry": {"coordinates":[-111.834136,41.768899],"type":"Point"}
+}

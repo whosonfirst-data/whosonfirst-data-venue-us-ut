@@ -1,0 +1,69 @@
+{
+  "id": 857087567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.633984,40.233551,-111.633984,40.233551",
+    "geom:latitude":40.233551,
+    "geom:longitude":-111.633984,
+    "iso:country":"US",
+    "sg:address":"1300 E Center St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 344 4513",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:website":"www.provo.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AvLBc4l3kLS7fInF8ni1r_40.233551_-111.633984@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121598,
+    "wof:geomhash":"d449db8b93a659875b0c8f650b4e208e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880071,
+            "region_id":85688567,
+            "venue_id":857087567
+        }
+    ],
+    "wof:id":857087567,
+    "wof:lastmodified":1464121598,
+    "wof:name":"Oak Springs School",
+    "wof:parent_id":85880071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.633984,
+    40.233551,
+    -111.633984,
+    40.233551
+],
+  "geometry": {"coordinates":[-111.633984,40.233551],"type":"Point"}
+}

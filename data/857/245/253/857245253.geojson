@@ -1,0 +1,75 @@
+{
+  "id": 857245253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.83925,40.388066,-111.83925,40.388066",
+    "geom:latitude":40.388066,
+    "geom:longitude":-111.83925,
+    "iso:country":"US",
+    "sg:address":"770 E Main St",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 766 0171",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76tJLeco11shysOGvStvng_40.388066_-111.839250@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125143,
+    "wof:geomhash":"bb2d67c2689b14265b256d197eefcce4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857245253
+        }
+    ],
+    "wof:id":857245253,
+    "wof:lastmodified":1464125143,
+    "wof:name":"Hollywood Video",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -111.83925,
+    40.388066,
+    -111.83925,
+    40.388066
+],
+  "geometry": {"coordinates":[-111.83925000000001,40.388066],"type":"Point"}
+}

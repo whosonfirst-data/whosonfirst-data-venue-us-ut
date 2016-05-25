@@ -1,0 +1,68 @@
+{
+  "id": 857102375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.892303,40.888444,-111.892303,40.888444",
+    "geom:latitude":40.888444,
+    "geom:longitude":-111.892303,
+    "iso:country":"US",
+    "sg:address":"200 S 500 W",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 295 4416",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727883,
+        102083563,
+        85854881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Dij5N2TzXEVad4ANOksTi_40.888444_-111.892303@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121969,
+    "wof:geomhash":"71d800d74fd1f7edba2937f27baba881",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727883,
+            "neighbourhood_id":85854881,
+            "region_id":85688567,
+            "venue_id":857102375
+        }
+    ],
+    "wof:id":857102375,
+    "wof:lastmodified":1464121969,
+    "wof:name":"TJ Maxx",
+    "wof:parent_id":85854881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.892303,
+    40.888444,
+    -111.892303,
+    40.888444
+],
+  "geometry": {"coordinates":[-111.892303,40.888444],"type":"Point"}
+}

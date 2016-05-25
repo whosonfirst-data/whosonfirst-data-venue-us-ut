@@ -1,0 +1,71 @@
+{
+  "id": 857250769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.950126,41.105022,-111.950126,41.105022",
+    "geom:latitude":41.105022,
+    "geom:longitude":-111.950126,
+    "iso:country":"US",
+    "sg:address":"3135 N Fairfield Rd",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 771 4613",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "packing",
+        "crating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85844663,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TnhoalIzXDkHv4jiCU4vb_41.105022_-111.950126@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125263,
+    "wof:geomhash":"eea6a7cf33f7a7ae57bd16fb1266a720",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "neighbourhood_id":85844663,
+            "region_id":85688567,
+            "venue_id":857250769
+        }
+    ],
+    "wof:id":857250769,
+    "wof:lastmodified":1464125263,
+    "wof:name":"Curry's Packing Paper",
+    "wof:parent_id":85844663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packing",
+        "crating"
+    ]
+},
+  "bbox": [
+    -111.950126,
+    41.105022,
+    -111.950126,
+    41.105022
+],
+  "geometry": {"coordinates":[-111.950126,41.105022],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857384405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.867748,40.677736,-111.867748,40.677736",
+    "geom:latitude":40.677736,
+    "geom:longitude":-111.867748,
+    "iso:country":"US",
+    "sg:address":"842 E 4315 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 281 9795",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85809665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FoPBjQlzXzY2BxrmWhtQe_40.677736_-111.867748@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128253,
+    "wof:geomhash":"6185076d05b31725d0c81e256970a37c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85809665,
+            "region_id":85688567,
+            "venue_id":857384405
+        }
+    ],
+    "wof:id":857384405,
+    "wof:lastmodified":1464128253,
+    "wof:name":"T F F Inc",
+    "wof:parent_id":85809665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -111.867748,
+    40.677736,
+    -111.867748,
+    40.677736
+],
+  "geometry": {"coordinates":[-111.86774800000001,40.677736],"type":"Point"}
+}

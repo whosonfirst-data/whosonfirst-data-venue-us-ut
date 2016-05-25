@@ -1,0 +1,68 @@
+{
+  "id": 857273953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.682947,40.296905,-111.682947,40.296905",
+    "geom:latitude":40.296905,
+    "geom:longitude":-111.682947,
+    "iso:country":"US",
+    "sg:address":"30 S Sage Dr",
+    "sg:city":"Vernon",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 839 3450",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85849197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_386YCq8i6JBWdmlo93iUXq_40.296905_-111.682947@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125769,
+    "wof:geomhash":"0200cc9fc13fb126d1d4860c490a608d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85849197,
+            "region_id":85688567,
+            "venue_id":857273953
+        }
+    ],
+    "wof:id":857273953,
+    "wof:lastmodified":1464125769,
+    "wof:name":"Silver Sage",
+    "wof:parent_id":85849197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.682947,
+    40.296905,
+    -111.682947,
+    40.296905
+],
+  "geometry": {"coordinates":[-111.682947,40.296905],"type":"Point"}
+}

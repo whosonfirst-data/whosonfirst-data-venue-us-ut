@@ -1,0 +1,83 @@
+{
+  "id": 857494657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.945526,41.061538,-111.945526,41.061538",
+    "geom:latitude":41.061538,
+    "geom:longitude":-111.945526,
+    "iso:country":"US",
+    "sg:address":"1088 E Gentile St",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/north-davis/242771-baskin-robbins/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 546 3100",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eseY12LWuoin7A2kYKnWk_41.061597_-111.945420@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130756,
+    "wof:geomhash":"c3c5d5f539cc8e6be6b7940c70240e81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857494657
+        }
+    ],
+    "wof:id":857494657,
+    "wof:lastmodified":1464130756,
+    "wof:name":"Baskin-Robbins",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -111.945526,
+    41.061538,
+    -111.945526,
+    41.061538
+],
+  "geometry": {"coordinates":[-111.945526,41.061538],"type":"Point"}
+}

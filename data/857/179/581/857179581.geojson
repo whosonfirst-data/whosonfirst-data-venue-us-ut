@@ -1,0 +1,73 @@
+{
+  "id": 857179581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.555673,37.119415,-113.555673,37.119415",
+    "geom:latitude":37.119415,
+    "geom:longitude":-113.555673,
+    "iso:country":"US",
+    "sg:address":"511 N 1300 E",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 673 4287",
+    "sg:postcode":"84770",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42ckfufgobA0xFM0MH73uB_37.119415_-113.555673@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123786,
+    "wof:geomhash":"1da6b9eaa54e345663f2d959621691f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857179581
+        }
+    ],
+    "wof:id":857179581,
+    "wof:lastmodified":1464123786,
+    "wof:name":"Redland Repair",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -113.555673,
+    37.119415,
+    -113.555673,
+    37.119415
+],
+  "geometry": {"coordinates":[-113.555673,37.119415],"type":"Point"}
+}

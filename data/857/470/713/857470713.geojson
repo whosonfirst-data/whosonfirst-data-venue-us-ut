@@ -1,0 +1,75 @@
+{
+  "id": 857470713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.629134,40.190845,-111.629134,40.190845",
+    "geom:latitude":40.190845,
+    "geom:longitude":-111.629134,
+    "iso:country":"US",
+    "sg:address":"815 Raymond Klauck Way",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 491 8680",
+    "sg:postcode":"84663",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727829,
+        102083567,
+        85880117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xpk1UY7idnRuTGSeCmqaQ_40.190845_-111.629134@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130184,
+    "wof:geomhash":"1ed0dd8b1659e2487aa9cd342cbd613d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727829,
+            "neighbourhood_id":85880117,
+            "region_id":85688567,
+            "venue_id":857470713
+        }
+    ],
+    "wof:id":857470713,
+    "wof:lastmodified":1464130184,
+    "wof:name":"Interwest Mechanical Contrs",
+    "wof:parent_id":85880117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.629134,
+    40.190845,
+    -111.629134,
+    40.190845
+],
+  "geometry": {"coordinates":[-111.62913399999999,40.190845],"type":"Point"}
+}

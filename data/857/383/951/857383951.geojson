@@ -1,0 +1,80 @@
+{
+  "id": 857383951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.889417,40.705585,-111.889417,40.705585",
+    "geom:latitude":40.705585,
+    "geom:longitude":-111.889417,
+    "iso:country":"US",
+    "sg:address":"47 E White Pl",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 485 5363",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mfg",
+        "cabinet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85854999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bRwOl2szvAq084okzVvT0_40.705585_-111.889417@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128241,
+    "wof:geomhash":"95772a03895552f76d0336a4846e2dd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85854999,
+            "region_id":85688567,
+            "venue_id":857383951
+        }
+    ],
+    "wof:id":857383951,
+    "wof:lastmodified":1464128241,
+    "wof:name":"Wasatch Woodwrights Inc",
+    "wof:parent_id":85854999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "cabinet"
+    ]
+},
+  "bbox": [
+    -111.889417,
+    40.705585,
+    -111.889417,
+    40.705585
+],
+  "geometry": {"coordinates":[-111.88941699999999,40.705585],"type":"Point"}
+}

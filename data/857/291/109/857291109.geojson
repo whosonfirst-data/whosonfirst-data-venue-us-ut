@@ -1,0 +1,71 @@
+{
+  "id": 857291109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.817381,40.540259,-111.817381,40.540259",
+    "geom:latitude":40.540259,
+    "geom:longitude":-111.817381,
+    "iso:country":"US",
+    "sg:address":"2840 Wasatch Blvd",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 942 4848",
+    "sg:postcode":"84092",
+    "sg:province":"UT",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85825243,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Y09IiNUmoszvcikTwCedK_40.540259_-111.817381@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126171,
+    "wof:geomhash":"e71f9152887b78d27100e2e6918335ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85825243,
+            "region_id":85688567,
+            "venue_id":857291109
+        }
+    ],
+    "wof:id":857291109,
+    "wof:lastmodified":1464126171,
+    "wof:name":"Intermountain Funding",
+    "wof:parent_id":85825243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -111.817381,
+    40.540259,
+    -111.817381,
+    40.540259
+],
+  "geometry": {"coordinates":[-111.817381,40.540259],"type":"Point"}
+}

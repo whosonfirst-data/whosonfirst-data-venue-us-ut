@@ -1,0 +1,73 @@
+{
+  "id": 857198823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.802813,41.790425,-111.802813,41.790425",
+    "geom:latitude":41.790425,
+    "geom:longitude":-111.802813,
+    "iso:country":"US",
+    "sg:address":"1325 E 3250 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 2712",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "insulation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XMGWoFH1eEshffa2RfokL_41.790425_-111.802813@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124154,
+    "wof:geomhash":"6579da72a6657ffb1d97582345028f56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857198823
+        }
+    ],
+    "wof:id":857198823,
+    "wof:lastmodified":1464124154,
+    "wof:name":"Bonded Insulation Inc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.802813,
+    41.790425,
+    -111.802813,
+    41.790425
+],
+  "geometry": {"coordinates":[-111.802813,41.790425],"type":"Point"}
+}

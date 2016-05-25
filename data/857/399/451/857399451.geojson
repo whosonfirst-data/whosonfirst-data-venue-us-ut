@@ -1,0 +1,71 @@
+{
+  "id": 857399451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.65381,40.104522,-111.65381,40.104522",
+    "geom:latitude":40.104522,
+    "geom:longitude":-111.65381,
+    "iso:country":"US",
+    "sg:address":"78 E 400 S",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 3573",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4250Bbyp6A8Lv23TFNwFZo_40.104522_-111.653810@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128612,
+    "wof:geomhash":"d27561830d0eae046190550243254c15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857399451
+        }
+    ],
+    "wof:id":857399451,
+    "wof:lastmodified":1464128612,
+    "wof:name":"Utah Valley Tree Svc",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -111.65381,
+    40.104522,
+    -111.65381,
+    40.104522
+],
+  "geometry": {"coordinates":[-111.65380999999999,40.104522],"type":"Point"}
+}

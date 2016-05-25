@@ -1,0 +1,73 @@
+{
+  "id": 857182351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.816243,40.696583,-111.816243,40.696583",
+    "geom:latitude":40.696583,
+    "geom:longitude":-111.816243,
+    "iso:country":"US",
+    "sg:address":"2610 E Evergreen Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 277 2199",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "investment",
+        "closed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728257,
+        102082877,
+        85854869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FyUT97CehyhrJvmszsenD_40.696583_-111.816243@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123843,
+    "wof:geomhash":"0e4e082f616cd9e9cd4961035bbbf815",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85854869,
+            "region_id":85688567,
+            "venue_id":857182351
+        }
+    ],
+    "wof:id":857182351,
+    "wof:lastmodified":1464123843,
+    "wof:name":"H & M Lamb Investments LLC",
+    "wof:parent_id":85854869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investment",
+        "closed"
+    ]
+},
+  "bbox": [
+    -111.816243,
+    40.696583,
+    -111.816243,
+    40.696583
+],
+  "geometry": {"coordinates":[-111.816243,40.696583],"type":"Point"}
+}

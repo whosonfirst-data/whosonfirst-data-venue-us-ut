@@ -1,0 +1,81 @@
+{
+  "id": 857317093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.819665,40.547836,-111.819665,40.547836",
+    "geom:latitude":40.547836,
+    "geom:longitude":-111.819665,
+    "iso:country":"US",
+    "sg:address":"10 Circle Oaks",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 576 7546",
+    "sg:postcode":"84092",
+    "sg:province":"UT",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85825243,
+        102082877,
+        102191575,
+        101728077,
+        85812845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gtvNR1vVNTLGb9ruosZQS_40.547836_-111.819665@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126770,
+    "wof:geomhash":"6b531183edbd6935b88c573d913267df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85825243,
+            "region_id":85688567,
+            "venue_id":857317093
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85812845,
+            "region_id":85688567,
+            "venue_id":857317093
+        }
+    ],
+    "wof:id":857317093,
+    "wof:lastmodified":1464126770,
+    "wof:name":"Mountain West Travel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -111.819665,
+    40.547836,
+    -111.819665,
+    40.547836
+],
+  "geometry": {"coordinates":[-111.819665,40.547836],"type":"Point"}
+}

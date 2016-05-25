@@ -1,0 +1,68 @@
+{
+  "id": 857267213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.872388,40.500301,-111.872388,40.500301",
+    "geom:latitude":40.500301,
+    "geom:longitude":-111.872388,
+    "iso:country":"US",
+    "sg:address":"13834 S 660 E",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 572 4144",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727849,
+        102082877,
+        85815185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12VkwKuvZEE0lgT4AkVpIA_40.500301_-111.872388@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125633,
+    "wof:geomhash":"7ac9183ddb30fbda186cd2c39dc3c37c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85815185,
+            "region_id":85688567,
+            "venue_id":857267213
+        }
+    ],
+    "wof:id":857267213,
+    "wof:lastmodified":1464125633,
+    "wof:name":"Draper Historic Theater",
+    "wof:parent_id":85815185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.872388,
+    40.500301,
+    -111.872388,
+    40.500301
+],
+  "geometry": {"coordinates":[-111.872388,40.500301],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857165141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.008985,40.609903,-112.008985,40.609903",
+    "geom:latitude":40.609903,
+    "geom:longitude":-112.008985,
+    "iso:country":"US",
+    "sg:address":"5027 W 7770 S",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 282 2212",
+    "sg:postcode":"84084",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85813117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bzjDP59xyZyr6OXkAfkBj_40.609903_-112.008985@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123469,
+    "wof:geomhash":"32c66ceb26d407dc514a844417772470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85813117,
+            "region_id":85688567,
+            "venue_id":857165141
+        }
+    ],
+    "wof:id":857165141,
+    "wof:lastmodified":1464123469,
+    "wof:name":"Josh Jensen Construction LLC",
+    "wof:parent_id":85813117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -112.008985,
+    40.609903,
+    -112.008985,
+    40.609903
+],
+  "geometry": {"coordinates":[-112.008985,40.609903],"type":"Point"}
+}

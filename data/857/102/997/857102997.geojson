@@ -1,0 +1,76 @@
+{
+  "id": 857102997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.661214,40.313033,-111.661214,40.313033",
+    "geom:latitude":40.313033,
+    "geom:longitude":-111.661214,
+    "iso:country":"US",
+    "sg:address":"1454 E 820 N",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 221 1362",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "product",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0i7Wl8o1hvt39caKZ4muMZ_40.313033_-111.661214@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121982,
+    "wof:geomhash":"bc093614d63729fb32abba245d9d3fe3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857102997
+        }
+    ],
+    "wof:id":857102997,
+    "wof:lastmodified":1464121982,
+    "wof:name":"Earth Essence Inc",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "health"
+    ]
+},
+  "bbox": [
+    -111.661214,
+    40.313033,
+    -111.661214,
+    40.313033
+],
+  "geometry": {"coordinates":[-111.661214,40.313033],"type":"Point"}
+}

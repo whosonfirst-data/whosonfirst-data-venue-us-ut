@@ -1,0 +1,68 @@
+{
+  "id": 857454411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.661918,40.256601,-111.661918,40.256601",
+    "geom:latitude":40.256601,
+    "geom:longitude":-111.661918,
+    "iso:country":"US",
+    "sg:address":"1675 N 200 West St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 375 4600",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HNnxMbgxYyxbT3hqRry1Q_40.256601_-111.661918@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129845,
+    "wof:geomhash":"01c294ea1299a2ed384dc2687f872d2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880063,
+            "region_id":85688567,
+            "venue_id":857454411
+        }
+    ],
+    "wof:id":857454411,
+    "wof:lastmodified":1464129845,
+    "wof:name":"Larry Braithwaite DDS",
+    "wof:parent_id":85880063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.661918,
+    40.256601,
+    -111.661918,
+    40.256601
+],
+  "geometry": {"coordinates":[-111.661918,40.256601],"type":"Point"}
+}

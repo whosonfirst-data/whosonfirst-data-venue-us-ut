@@ -1,0 +1,73 @@
+{
+  "id": 857320723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.888138,40.74094,-111.888138,40.74094",
+    "geom:latitude":40.74094,
+    "geom:longitude":-111.888138,
+    "iso:country":"US",
+    "sg:address":"1333 S State St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 583 7083",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "manager"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85824705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7V7r4yoS3RosD6sIMGfjRj_40.740940_-111.888138@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126864,
+    "wof:geomhash":"a7b3ae0325a0830500ce70fd6d249c82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85824705,
+            "region_id":85688567,
+            "venue_id":857320723
+        }
+    ],
+    "wof:id":857320723,
+    "wof:lastmodified":1464126864,
+    "wof:name":"Edison Place Apartments",
+    "wof:parent_id":85824705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manager"
+    ]
+},
+  "bbox": [
+    -111.888138,
+    40.74094,
+    -111.888138,
+    40.74094
+],
+  "geometry": {"coordinates":[-111.888138,40.74094],"type":"Point"}
+}

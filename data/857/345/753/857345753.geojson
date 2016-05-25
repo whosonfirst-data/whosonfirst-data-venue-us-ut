@@ -1,0 +1,68 @@
+{
+  "id": 857345753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.036065,41.173635,-112.036065,41.173635",
+    "geom:latitude":41.173635,
+    "geom:longitude":-112.036065,
+    "iso:country":"US",
+    "sg:address":"4956 S 2325 W",
+    "sg:city":"Roy",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 825 4618",
+    "sg:postcode":"84067",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728023,
+        102083539,
+        85853469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29UvRUdxumPTfQoFxhmKgu_41.173635_-112.036065@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127388,
+    "wof:geomhash":"27b5ce83f2b31ef85edfa23ed142d853",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728023,
+            "neighbourhood_id":85853469,
+            "region_id":85688567,
+            "venue_id":857345753
+        }
+    ],
+    "wof:id":857345753,
+    "wof:lastmodified":1464127388,
+    "wof:name":"Marks Place",
+    "wof:parent_id":85853469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.036065,
+    41.173635,
+    -112.036065,
+    41.173635
+],
+  "geometry": {"coordinates":[-112.03606499999999,41.173635],"type":"Point"}
+}

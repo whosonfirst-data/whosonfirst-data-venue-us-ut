@@ -1,0 +1,69 @@
+{
+  "id": 857481713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.790341,40.679296,-111.790341,40.679296",
+    "geom:latitude":40.679296,
+    "geom:longitude":-111.790341,
+    "iso:country":"US",
+    "sg:address":"4209 Jupiter Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 277 9339",
+    "sg:postcode":"84124",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85835599,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tKIQv9hQZj54nCGfvehqs_40.679296_-111.790341@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130401,
+    "wof:geomhash":"01c443bb649413213f2a1f283d0d37fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85835599,
+            "region_id":85688567,
+            "venue_id":857481713
+        }
+    ],
+    "wof:id":857481713,
+    "wof:lastmodified":1464130401,
+    "wof:name":"James L Barber",
+    "wof:parent_id":85835599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.790341,
+    40.679296,
+    -111.790341,
+    40.679296
+],
+  "geometry": {"coordinates":[-111.790341,40.679296],"type":"Point"}
+}

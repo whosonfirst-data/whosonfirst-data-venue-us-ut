@@ -1,0 +1,71 @@
+{
+  "id": 857342739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834745,41.742107,-111.834745,41.742107",
+    "geom:latitude":41.742107,
+    "geom:longitude":-111.834745,
+    "iso:country":"US",
+    "sg:address":"531 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 4936",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LbPr1Ad6aP40IiN0C3vOA_41.742107_-111.834745@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127329,
+    "wof:geomhash":"e11c61008075ff76a40d201965dcef55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857342739
+        }
+    ],
+    "wof:id":857342739,
+    "wof:lastmodified":1464127329,
+    "wof:name":"Atkinson Furniture & Uphlstry",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -111.834745,
+    41.742107,
+    -111.834745,
+    41.742107
+],
+  "geometry": {"coordinates":[-111.834745,41.742107],"type":"Point"}
+}

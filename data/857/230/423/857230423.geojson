@@ -1,0 +1,77 @@
+{
+  "id": 857230423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.895971,40.580737,-111.895971,40.580737",
+    "geom:latitude":40.580737,
+    "geom:longitude":-111.895971,
+    "iso:country":"US",
+    "sg:address":"172 W 9400 S",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 352 7666",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "distance",
+        "long",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85835551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kzxCL3f4GyzvnmSPwIM51_40.580737_-111.895971@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124815,
+    "wof:geomhash":"18c620a3037281e8fad23b6f4d859581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85835551,
+            "region_id":85688567,
+            "venue_id":857230423
+        }
+    ],
+    "wof:id":857230423,
+    "wof:lastmodified":1464124815,
+    "wof:name":"A1 Freight",
+    "wof:parent_id":85835551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distance",
+        "long",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -111.895971,
+    40.580737,
+    -111.895971,
+    40.580737
+],
+  "geometry": {"coordinates":[-111.895971,40.580737],"type":"Point"}
+}

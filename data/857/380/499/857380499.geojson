@@ -1,0 +1,73 @@
+{
+  "id": 857380499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.911343,41.013357,-111.911343,41.013357",
+    "geom:latitude":41.013357,
+    "geom:longitude":-111.911343,
+    "iso:country":"US",
+    "sg:address":"1370 US Hwy 89",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 544 4982",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "industrial",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5foOYyCX6UHdlVpwmYHwD3_41.013357_-111.911343@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128135,
+    "wof:geomhash":"889f57d0b0676223e6a84ec6328efb51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857380499
+        }
+    ],
+    "wof:id":857380499,
+    "wof:lastmodified":1464128135,
+    "wof:name":"Frank Storey Inc",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -111.911343,
+    41.013357,
+    -111.911343,
+    41.013357
+],
+  "geometry": {"coordinates":[-111.911343,41.013357],"type":"Point"}
+}

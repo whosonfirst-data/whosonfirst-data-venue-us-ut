@@ -1,0 +1,73 @@
+{
+  "id": 857293601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.791849,40.618122,-111.791849,40.618122",
+    "geom:latitude":40.618122,
+    "geom:longitude":-111.791849,
+    "iso:country":"US",
+    "sg:address":"7260 S Racquet Club Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 942 0663",
+    "sg:postcode":"84121",
+    "sg:province":"UT",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728065,
+        102082877,
+        85843577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5a9tJeEuLZsZRTYLPO1SEV_40.618122_-111.791849@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126233,
+    "wof:geomhash":"5eba3dc05947762001da3fbf8f173fd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728065,
+            "neighbourhood_id":85843577,
+            "region_id":85688567,
+            "venue_id":857293601
+        }
+    ],
+    "wof:id":857293601,
+    "wof:lastmodified":1464126233,
+    "wof:name":"Doctors Dental Svc",
+    "wof:parent_id":85843577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -111.791849,
+    40.618122,
+    -111.791849,
+    40.618122
+],
+  "geometry": {"coordinates":[-111.791849,40.618122],"type":"Point"}
+}

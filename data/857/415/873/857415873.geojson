@@ -1,0 +1,73 @@
+{
+  "id": 857415873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.704036,40.297066,-111.704036,40.297066",
+    "geom:latitude":40.297066,
+    "geom:longitude":-111.704036,
+    "iso:country":"US",
+    "sg:address":"385 W Center St",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 1117",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85849197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZZ7QVLjXbvvrSRkpIAHzr_40.297066_-111.704036@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129004,
+    "wof:geomhash":"6d2a5bf55598b4d2b62af0dbaaac319b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85849197,
+            "region_id":85688567,
+            "venue_id":857415873
+        }
+    ],
+    "wof:id":857415873,
+    "wof:lastmodified":1464129004,
+    "wof:name":"Alexander B Larsen DDS",
+    "wof:parent_id":85849197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -111.704036,
+    40.297066,
+    -111.704036,
+    40.297066
+],
+  "geometry": {"coordinates":[-111.704036,40.297066],"type":"Point"}
+}

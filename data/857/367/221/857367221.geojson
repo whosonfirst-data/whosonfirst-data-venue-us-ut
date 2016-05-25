@@ -1,0 +1,78 @@
+{
+  "id": 857367221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.009144,40.585418,-112.009144,40.585418",
+    "geom:latitude":40.585418,
+    "geom:longitude":-112.009144,
+    "iso:country":"US",
+    "sg:address":"9118 Meadow Lily Ln",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 282 2627",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85854997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZbhrKhVEkt10ZV9snSoTO_40.585418_-112.009144@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127849,
+    "wof:geomhash":"4c3fce2cfc62fc678a9478b2e9e3d0af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85854997,
+            "region_id":85688567,
+            "venue_id":857367221
+        }
+    ],
+    "wof:id":857367221,
+    "wof:lastmodified":1464127849,
+    "wof:name":"A Quality Furniture Svc Inc",
+    "wof:parent_id":85854997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -112.009144,
+    40.585418,
+    -112.009144,
+    40.585418
+],
+  "geometry": {"coordinates":[-112.00914400000001,40.585418],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857199233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.598881,40.083011,-111.598881,40.083011",
+    "geom:latitude":40.083011,
+    "geom:longitude":-111.598881,
+    "iso:country":"US",
+    "sg:address":"2300 E Powerhouse Rd",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 9816",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "course",
+        "executive",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VwdMd1JUacVS2X1lvTpgx_40.083011_-111.598881@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124161,
+    "wof:geomhash":"9f5e86aa38a0697cdaa5b9dd6defd2ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857199233
+        }
+    ],
+    "wof:id":857199233,
+    "wof:lastmodified":1464124161,
+    "wof:name":"Spanish Fork Golf Course",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course",
+        "executive",
+        "public"
+    ]
+},
+  "bbox": [
+    -111.598881,
+    40.083011,
+    -111.598881,
+    40.083011
+],
+  "geometry": {"coordinates":[-111.59888100000001,40.083011],"type":"Point"}
+}

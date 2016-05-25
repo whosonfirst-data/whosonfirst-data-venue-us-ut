@@ -1,0 +1,73 @@
+{
+  "id": 857275161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.033039,40.514157,-112.033039,40.514157",
+    "geom:latitude":40.514157,
+    "geom:longitude":-112.033039,
+    "iso:country":"US",
+    "sg:address":"13011 S 6000 W",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 254 3231",
+    "sg:postcode":"84096",
+    "sg:province":"UT",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728047,
+        102082877,
+        85819751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MmczH8PEXbTOSotMx6xdb_40.514157_-112.033039@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125794,
+    "wof:geomhash":"65f19bef0562ebd77199cafaef98c5c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728047,
+            "neighbourhood_id":85819751,
+            "region_id":85688567,
+            "venue_id":857275161
+        }
+    ],
+    "wof:id":857275161,
+    "wof:lastmodified":1464125794,
+    "wof:name":"Herriman Pipeline & Dev Co",
+    "wof:parent_id":85819751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -112.033039,
+    40.514157,
+    -112.033039,
+    40.514157
+],
+  "geometry": {"coordinates":[-112.033039,40.514157],"type":"Point"}
+}

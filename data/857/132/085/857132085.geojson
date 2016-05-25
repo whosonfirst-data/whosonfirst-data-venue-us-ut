@@ -1,0 +1,66 @@
+{
+  "id": 857132085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.908715,41.002147,-111.908715,41.002147",
+    "geom:latitude":41.002147,
+    "geom:longitude":-111.908715,
+    "iso:country":"US",
+    "sg:address":"1290 US Hwy 89",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 5900",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4q5J5fFb65gK9Nw1QhVyoh_41.002147_-111.908715@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122720,
+    "wof:geomhash":"75e4e320d25047e113bda282b048e5e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857132085
+        }
+    ],
+    "wof:id":857132085,
+    "wof:lastmodified":1464122720,
+    "wof:name":"Cherry Creek Framery",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.908715,
+    41.002147,
+    -111.908715,
+    41.002147
+],
+  "geometry": {"coordinates":[-111.908715,41.002147],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857444341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.938665,41.036181,-111.938665,41.036181",
+    "geom:latitude":41.036181,
+    "geom:longitude":-111.938665,
+    "iso:country":"US",
+    "sg:address":"15 N Main St",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 546 1804",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repairing",
+        "parlor",
+        "boot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rhj6t729VzSZSJWLP3SyM_41.036181_-111.938665@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129645,
+    "wof:geomhash":"307106f841388b82515f48a4f4010752",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857444341
+        }
+    ],
+    "wof:id":857444341,
+    "wof:lastmodified":1464129645,
+    "wof:name":"Ray's Shoe Repair",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "parlor",
+        "boot"
+    ]
+},
+  "bbox": [
+    -111.938665,
+    41.036181,
+    -111.938665,
+    41.036181
+],
+  "geometry": {"coordinates":[-111.938665,41.036181],"type":"Point"}
+}

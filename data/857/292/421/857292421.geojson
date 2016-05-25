@@ -1,0 +1,71 @@
+{
+  "id": 857292421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.814978,40.696653,-111.814978,40.696653",
+    "geom:latitude":40.696653,
+    "geom:longitude":-111.814978,
+    "iso:country":"US",
+    "sg:address":"2702 E Evergreen Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 468 5831",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728257,
+        102082877,
+        85854869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rvK3scpjfBHffkah6Io1z_40.696653_-111.814978@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126208,
+    "wof:geomhash":"1093fbd1605313cbbc02cf1e6724e697",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85854869,
+            "region_id":85688567,
+            "venue_id":857292421
+        }
+    ],
+    "wof:id":857292421,
+    "wof:lastmodified":1464126208,
+    "wof:name":"Church Of Jesus Christ Of Lds",
+    "wof:parent_id":85854869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -111.814978,
+    40.696653,
+    -111.814978,
+    40.696653
+],
+  "geometry": {"coordinates":[-111.814978,40.696653],"type":"Point"}
+}

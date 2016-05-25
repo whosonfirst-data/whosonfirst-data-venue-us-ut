@@ -1,0 +1,75 @@
+{
+  "id": 857086735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.897931,40.667279,-111.897931,40.667279",
+    "geom:latitude":40.667279,
+    "geom:longitude":-111.897931,
+    "iso:country":"US",
+    "sg:address":"247 W 4800 S",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 265 8748",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85811485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51OLYJpUvnaEvmWrkPR2KZ_40.667279_-111.897931@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121576,
+    "wof:geomhash":"513655b654542ad5f9ed8e434f13f8f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85811485,
+            "region_id":85688567,
+            "venue_id":857086735
+        }
+    ],
+    "wof:id":857086735,
+    "wof:lastmodified":1464121576,
+    "wof:name":"Lynn's Auto Svc",
+    "wof:parent_id":85811485,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -111.897931,
+    40.667279,
+    -111.897931,
+    40.667279
+],
+  "geometry": {"coordinates":[-111.897931,40.667279],"type":"Point"}
+}

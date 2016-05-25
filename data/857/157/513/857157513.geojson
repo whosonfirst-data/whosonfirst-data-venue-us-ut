@@ -1,0 +1,82 @@
+{
+  "id": 857157513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.833119,40.603734,-111.833119,40.603734",
+    "geom:latitude":40.603734,
+    "geom:longitude":-111.833119,
+    "iso:country":"US",
+    "sg:address":"8184 Highland Dr",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 943 5383",
+    "sg:postcode":"84093",
+    "sg:province":"UT",
+    "sg:tags":[
+        "rehabilitation",
+        "outpatient",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85857943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eCvqrrCSVWnxvcKC1eOGj_40.603734_-111.833119@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123294,
+    "wof:geomhash":"1735a8830f0d983a0af8ca2bf2be528b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85857943,
+            "region_id":85688567,
+            "venue_id":857157513
+        }
+    ],
+    "wof:id":857157513,
+    "wof:lastmodified":1464123294,
+    "wof:name":"Re Entry Rehabilitation Svc",
+    "wof:parent_id":85857943,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehabilitation",
+        "outpatient",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -111.833119,
+    40.603734,
+    -111.833119,
+    40.603734
+],
+  "geometry": {"coordinates":[-111.833119,40.603734],"type":"Point"}
+}

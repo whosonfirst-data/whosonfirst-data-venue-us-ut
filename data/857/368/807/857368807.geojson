@@ -1,0 +1,79 @@
+{
+  "id": 857368807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.958122,40.7191,-111.958122,40.7191",
+    "geom:latitude":40.7191,
+    "geom:longitude":-111.958122,
+    "iso:country":"US",
+    "sg:address":"2580 S 2700 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 973 2036",
+    "sg:postcode":"84119",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop",
+        "lettering",
+        "truck",
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85844521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ux5zUbfCQdh3GcrfMSsRy_40.719100_-111.958122@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127879,
+    "wof:geomhash":"90b69a9fef22ce983c8c2abba397e5de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85844521,
+            "region_id":85688567,
+            "venue_id":857368807
+        }
+    ],
+    "wof:id":857368807,
+    "wof:lastmodified":1464127879,
+    "wof:name":"A & D Body and Paint",
+    "wof:parent_id":85844521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "lettering",
+        "truck",
+        "paint"
+    ]
+},
+  "bbox": [
+    -111.958122,
+    40.7191,
+    -111.958122,
+    40.7191
+],
+  "geometry": {"coordinates":[-111.958122,40.7191],"type":"Point"}
+}

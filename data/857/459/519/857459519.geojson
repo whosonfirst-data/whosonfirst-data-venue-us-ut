@@ -1,0 +1,66 @@
+{
+  "id": 857459519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.829082,41.753232,-111.829082,41.753232",
+    "geom:latitude":41.753232,
+    "geom:longitude":-111.829082,
+    "iso:country":"US",
+    "sg:address":"1230 N 200 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 4134",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sHlOls22NYuRitN1Ap4Jc_41.753232_-111.829082@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129941,
+    "wof:geomhash":"9214d430f16879af6cc3236360d7faa7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857459519
+        }
+    ],
+    "wof:id":857459519,
+    "wof:lastmodified":1464129941,
+    "wof:name":"Logan Family Dental Center",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.829082,
+    41.753232,
+    -111.829082,
+    41.753232
+],
+  "geometry": {"coordinates":[-111.829082,41.753232],"type":"Point"}
+}

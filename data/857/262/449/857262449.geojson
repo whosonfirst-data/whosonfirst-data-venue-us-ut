@@ -1,0 +1,71 @@
+{
+  "id": 857262449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.872589,40.928625,-111.872589,40.928625",
+    "geom:latitude":40.928625,
+    "geom:longitude":-111.872589,
+    "iso:country":"US",
+    "sg:address":"943 N Shadow Mountain Cir E",
+    "sg:city":"Centerville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 299 9899",
+    "sg:postcode":"84014",
+    "sg:province":"UT",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727879,
+        102083563,
+        85849063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qTgCtQCQL0rNAKLiBn1B3_40.928625_-111.872589@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125543,
+    "wof:geomhash":"e474de48a3c750ec6b2c9f02cd1552f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727879,
+            "neighbourhood_id":85849063,
+            "region_id":85688567,
+            "venue_id":857262449
+        }
+    ],
+    "wof:id":857262449,
+    "wof:lastmodified":1464125543,
+    "wof:name":"D B Walker & Co Inc",
+    "wof:parent_id":85849063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -111.872589,
+    40.928625,
+    -111.872589,
+    40.928625
+],
+  "geometry": {"coordinates":[-111.872589,40.928625],"type":"Point"}
+}

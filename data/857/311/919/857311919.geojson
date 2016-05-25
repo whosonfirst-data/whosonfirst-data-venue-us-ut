@@ -1,0 +1,71 @@
+{
+  "id": 857311919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.830953,41.735077,-111.830953,41.735077",
+    "geom:latitude":41.735077,
+    "geom:longitude":-111.830953,
+    "iso:country":"US",
+    "sg:address":"160 E 200 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 4882",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TllTduksIHqWDgCYzElwm_41.735077_-111.830953@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126659,
+    "wof:geomhash":"09d6f0796d55b7bbfd471b1aeb2651de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857311919
+        }
+    ],
+    "wof:id":857311919,
+    "wof:lastmodified":1464126659,
+    "wof:name":"Douglas F Smith Inc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -111.830953,
+    41.735077,
+    -111.830953,
+    41.735077
+],
+  "geometry": {"coordinates":[-111.83095299999999,41.735077],"type":"Point"}
+}

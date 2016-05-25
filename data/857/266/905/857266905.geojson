@@ -1,0 +1,68 @@
+{
+  "id": 857266905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.938825,40.627375,-111.938825,40.627375",
+    "geom:latitude":40.627375,
+    "geom:longitude":-111.938825,
+    "iso:country":"US",
+    "sg:address":"6802 S Redwood Rd",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 566 6861",
+    "sg:postcode":"84084",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85824493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hgGH1Xnzg6tho6OZCN4Wo_40.627375_-111.938825@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125628,
+    "wof:geomhash":"68e8ccb5654c86bdb4498eace0622746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85824493,
+            "region_id":85688567,
+            "venue_id":857266905
+        }
+    ],
+    "wof:id":857266905,
+    "wof:lastmodified":1464125628,
+    "wof:name":"Payless Shoe Source",
+    "wof:parent_id":85824493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.938825,
+    40.627375,
+    -111.938825,
+    40.627375
+],
+  "geometry": {"coordinates":[-111.93882499999999,40.627375],"type":"Point"}
+}

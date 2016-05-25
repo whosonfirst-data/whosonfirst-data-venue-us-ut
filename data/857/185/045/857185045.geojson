@@ -1,0 +1,69 @@
+{
+  "id": 857185045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.795531,41.249712,-111.795531,41.249712",
+    "geom:latitude":41.249712,
+    "geom:longitude":-111.795531,
+    "iso:country":"US",
+    "sg:address":"5597 E Hwy 39",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 745 3567",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85818631,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CH0YM39s70pN2Hubd7tGJ_41.249712_-111.795531@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123899,
+    "wof:geomhash":"60f805463769518bec65f55393094e58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85818631,
+            "region_id":85688567,
+            "venue_id":857185045
+        }
+    ],
+    "wof:id":857185045,
+    "wof:lastmodified":1464123899,
+    "wof:name":"Weber Anethesia Inc",
+    "wof:parent_id":85818631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -111.795531,
+    41.249712,
+    -111.795531,
+    41.249712
+],
+  "geometry": {"coordinates":[-111.795531,41.249712],"type":"Point"}
+}

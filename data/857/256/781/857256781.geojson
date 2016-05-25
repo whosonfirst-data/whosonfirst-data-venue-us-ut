@@ -1,0 +1,77 @@
+{
+  "id": 857256781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.309907,37.176993,-113.309907,37.176993",
+    "geom:latitude":37.176993,
+    "geom:longitude":-113.309907,
+    "iso:country":"US",
+    "sg:address":"65 N 1150 W",
+    "sg:city":"Hurricane",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 635 1185",
+    "sg:postcode":"84737",
+    "sg:province":"UT",
+    "sg:tags":[
+        "treatment",
+        "psychiatric",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727631,
+        102082879,
+        85824093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DL7PdWKDwwUtvQQoTwIAm_37.176993_-113.309907@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125423,
+    "wof:geomhash":"6c04205e8d77f0e47b477f0abf132885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727631,
+            "neighbourhood_id":85824093,
+            "region_id":85688567,
+            "venue_id":857256781
+        }
+    ],
+    "wof:id":857256781,
+    "wof:lastmodified":1464125423,
+    "wof:name":"Sunrise Academy",
+    "wof:parent_id":85824093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "treatment",
+        "psychiatric",
+        "facility"
+    ]
+},
+  "bbox": [
+    -113.309907,
+    37.176993,
+    -113.309907,
+    37.176993
+],
+  "geometry": {"coordinates":[-113.309907,37.176993],"type":"Point"}
+}

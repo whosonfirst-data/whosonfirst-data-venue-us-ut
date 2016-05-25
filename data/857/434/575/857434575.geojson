@@ -1,0 +1,71 @@
+{
+  "id": 857434575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.81172,40.589909,-111.81172,40.589909",
+    "geom:latitude":40.589909,
+    "geom:longitude":-111.81172,
+    "iso:country":"US",
+    "sg:address":"2707 Willow Wick Dr",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 942 5529",
+    "sg:postcode":"84093",
+    "sg:province":"UT",
+    "sg:tags":[
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728077,
+        102082877,
+        85843389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26swBb1IS4NyFHI7Jk03uL_40.589909_-111.811720@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129457,
+    "wof:geomhash":"8ca0a5bdfc6253b45f5ea2d1d4fb62f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85843389,
+            "region_id":85688567,
+            "venue_id":857434575
+        }
+    ],
+    "wof:id":857434575,
+    "wof:lastmodified":1464129457,
+    "wof:name":"John Wilhite Architect",
+    "wof:parent_id":85843389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architectural"
+    ]
+},
+  "bbox": [
+    -111.81172,
+    40.589909,
+    -111.81172,
+    40.589909
+],
+  "geometry": {"coordinates":[-111.81171999999999,40.589909],"type":"Point"}
+}

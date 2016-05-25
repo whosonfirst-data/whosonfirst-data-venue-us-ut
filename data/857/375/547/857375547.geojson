@@ -1,0 +1,77 @@
+{
+  "id": 857375547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.950604,41.043423,-111.950604,41.043423",
+    "geom:latitude":41.043423,
+    "geom:longitude":-111.950604,
+    "iso:country":"US",
+    "sg:address":"427 Market St",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 546 4034",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "water",
+        "well",
+        "drilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49HsQS6w0LDu0of8w4YKId_41.043423_-111.950604@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128019,
+    "wof:geomhash":"9cc0d94d07302986da7e60541c674a5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857375547
+        }
+    ],
+    "wof:id":857375547,
+    "wof:lastmodified":1464128019,
+    "wof:name":"Top Dead Center Drilling Inc",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "well",
+        "drilling"
+    ]
+},
+  "bbox": [
+    -111.950604,
+    41.043423,
+    -111.950604,
+    41.043423
+],
+  "geometry": {"coordinates":[-111.950604,41.043423],"type":"Point"}
+}

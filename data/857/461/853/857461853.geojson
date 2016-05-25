@@ -1,0 +1,75 @@
+{
+  "id": 857461853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.90429,40.696616,-111.90429,40.696616",
+    "geom:latitude":40.696616,
+    "geom:longitude":-111.90429,
+    "iso:country":"US",
+    "sg:address":"464 W 3440 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 566 2303",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85810147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aSGU0kmPM8idKkNoGN8Jz_40.696616_-111.904290@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129988,
+    "wof:geomhash":"2d35e1f268962866007755d8aaa79f4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85810147,
+            "region_id":85688567,
+            "venue_id":857461853
+        }
+    ],
+    "wof:id":857461853,
+    "wof:lastmodified":1464129988,
+    "wof:name":"Dunford Products Inc",
+    "wof:parent_id":85810147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.90429,
+    40.696616,
+    -111.90429,
+    40.696616
+],
+  "geometry": {"coordinates":[-111.90429,40.696616],"type":"Point"}
+}

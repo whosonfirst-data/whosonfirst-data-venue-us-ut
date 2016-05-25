@@ -1,0 +1,72 @@
+{
+  "id": 857494191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.694033,40.234326,-111.694033,40.234326",
+    "geom:latitude":40.234326,
+    "geom:longitude":-111.694033,
+    "iso:country":"US",
+    "sg:address":"2002 W Center St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/provo-orem/132836-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 377 0849",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880073,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76VVGJh6BHSCriYgVpOe5I_40.234326_-111.694033@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130739,
+    "wof:geomhash":"13872aa9435df5fda1d6934e53847ce0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880073,
+            "region_id":85688567,
+            "venue_id":857494191
+        }
+    ],
+    "wof:id":857494191,
+    "wof:lastmodified":1464130739,
+    "wof:name":"Subway",
+    "wof:parent_id":85880073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -111.694033,
+    40.234326,
+    -111.694033,
+    40.234326
+],
+  "geometry": {"coordinates":[-111.694033,40.234326],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857492461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.892618,40.558796,-111.892618,40.558796",
+    "geom:latitude":40.558796,
+    "geom:longitude":-111.892618,
+    "iso:country":"US",
+    "sg:address":"61 W 10600 S",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/37327-la-frontera/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 553 9500",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85850585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xAF2h6ZKa8HtmjOrXAX59_40.558796_-111.892618@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130680,
+    "wof:geomhash":"0f1e6e8709f8c950ceab8811fa93c642",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85850585,
+            "region_id":85688567,
+            "venue_id":857492461
+        }
+    ],
+    "wof:id":857492461,
+    "wof:lastmodified":1464130680,
+    "wof:name":"La Frontera",
+    "wof:parent_id":85850585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -111.892618,
+    40.558796,
+    -111.892618,
+    40.558796
+],
+  "geometry": {"coordinates":[-111.892618,40.558796],"type":"Point"}
+}

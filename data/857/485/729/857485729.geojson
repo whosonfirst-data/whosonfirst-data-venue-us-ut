@@ -1,0 +1,73 @@
+{
+  "id": 857485729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.662574,40.285555,-111.662574,40.285555",
+    "geom:latitude":40.285555,
+    "geom:longitude":-111.662574,
+    "iso:country":"US",
+    "sg:address":"3872 N Cove Dr",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 222 9636",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08MgpgDiPUhwNL0ZlvKawq_40.285555_-111.662574@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130480,
+    "wof:geomhash":"ae9c67464663c39bac2ac175028709d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880091,
+            "region_id":85688567,
+            "venue_id":857485729
+        }
+    ],
+    "wof:id":857485729,
+    "wof:lastmodified":1464130480,
+    "wof:name":"Soft H2o Inc",
+    "wof:parent_id":85880091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -111.662574,
+    40.285555,
+    -111.662574,
+    40.285555
+],
+  "geometry": {"coordinates":[-111.66257400000001,40.285555],"type":"Point"}
+}

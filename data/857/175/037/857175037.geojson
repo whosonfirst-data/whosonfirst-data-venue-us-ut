@@ -1,0 +1,71 @@
+{
+  "id": 857175037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.790263,41.759201,-111.790263,41.759201",
+    "geom:latitude":41.759201,
+    "geom:longitude":-111.790263,
+    "iso:country":"US",
+    "sg:address":"1514 N 1770 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 0689",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FurXf6FvnWMkKyNX9yz7n_41.759201_-111.790263@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123695,
+    "wof:geomhash":"827280602aa53024e4b54ac5672b7773",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857175037
+        }
+    ],
+    "wof:id":857175037,
+    "wof:lastmodified":1464123695,
+    "wof:name":"Kim Watts",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -111.790263,
+    41.759201,
+    -111.790263,
+    41.759201
+],
+  "geometry": {"coordinates":[-111.790263,41.759201],"type":"Point"}
+}

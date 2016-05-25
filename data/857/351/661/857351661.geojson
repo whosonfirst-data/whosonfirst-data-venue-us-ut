@@ -1,0 +1,77 @@
+{
+  "id": 857351661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.675738,40.306443,-111.675738,40.306443",
+    "geom:latitude":40.306443,
+    "geom:longitude":-111.675738,
+    "iso:country":"US",
+    "sg:address":"847 E 500 N",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 4846",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "management",
+        "maintenance"
+    ],
+    "sg:website":"www.mvmonline.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LQL898xdjdcBC7K8TJs0f_40.306443_-111.675738@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127517,
+    "wof:geomhash":"665bd641045ac13b2f99acc8b0eb22bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857351661
+        }
+    ],
+    "wof:id":857351661,
+    "wof:lastmodified":1464127517,
+    "wof:name":"Mountain View Management Inc",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -111.675738,
+    40.306443,
+    -111.675738,
+    40.306443
+],
+  "geometry": {"coordinates":[-111.675738,40.306443],"type":"Point"}
+}

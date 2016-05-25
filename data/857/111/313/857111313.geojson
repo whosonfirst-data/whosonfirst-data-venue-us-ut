@@ -1,0 +1,75 @@
+{
+  "id": 857111313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.919606,40.769257,-111.919606,40.769257",
+    "geom:latitude":40.769257,
+    "geom:longitude":-111.919606,
+    "iso:country":"US",
+    "sg:address":"957 W South Temple",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 364 3642",
+    "sg:postcode":"84104",
+    "sg:province":"UT",
+    "sg:tags":[
+        "feed",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85856843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SmQGcOfst2fTsVUCdGcUk_40.769257_-111.919606@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122216,
+    "wof:geomhash":"39663a3c30be08a82992666fbd778d71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85856843,
+            "region_id":85688567,
+            "venue_id":857111313
+        }
+    ],
+    "wof:id":857111313,
+    "wof:lastmodified":1464122216,
+    "wof:name":"Western Brine Shrimp Intl",
+    "wof:parent_id":85856843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feed",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.919606,
+    40.769257,
+    -111.919606,
+    40.769257
+],
+  "geometry": {"coordinates":[-111.919606,40.769257],"type":"Point"}
+}

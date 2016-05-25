@@ -1,0 +1,71 @@
+{
+  "id": 857363771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.849399,41.748701,-111.849399,41.748701",
+    "geom:latitude":41.748701,
+    "geom:longitude":-111.849399,
+    "iso:country":"US",
+    "sg:address":"885 N 600 W",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 0442",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2j8v8zPhpio8L7TF2lJK4i_41.748701_-111.849399@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127781,
+    "wof:geomhash":"bd899318e6ca845c764cf9cc7f9f3410",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857363771
+        }
+    ],
+    "wof:id":857363771,
+    "wof:lastmodified":1464127781,
+    "wof:name":"Lundahl Cold Storage",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "storage"
+    ]
+},
+  "bbox": [
+    -111.849399,
+    41.748701,
+    -111.849399,
+    41.748701
+],
+  "geometry": {"coordinates":[-111.84939900000001,41.748701],"type":"Point"}
+}

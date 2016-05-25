@@ -1,0 +1,77 @@
+{
+  "id": 857167111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.909789,40.697482,-111.909789,40.697482",
+    "geom:latitude":40.697482,
+    "geom:longitude":-111.909789,
+    "iso:country":"US",
+    "sg:address":"616 W 3410 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 261 3044",
+    "sg:postcode":"84119",
+    "sg:province":"UT",
+    "sg:tags":[
+        "steel",
+        "welding",
+        "fabricating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85847441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0os08qyOJ9aUvLCDCTPrU4_40.697482_-111.909789@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123513,
+    "wof:geomhash":"9deb0d8a975947d7fc2ab3916a53873f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85847441,
+            "region_id":85688567,
+            "venue_id":857167111
+        }
+    ],
+    "wof:id":857167111,
+    "wof:lastmodified":1464123513,
+    "wof:name":"Stoddard Steel",
+    "wof:parent_id":85847441,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "welding",
+        "fabricating"
+    ]
+},
+  "bbox": [
+    -111.909789,
+    40.697482,
+    -111.909789,
+    40.697482
+],
+  "geometry": {"coordinates":[-111.909789,40.697482],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857328099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.621561,40.202238,-111.621561,40.202238",
+    "geom:latitude":40.202238,
+    "geom:longitude":-111.621561,
+    "iso:country":"US",
+    "sg:address":"2272 Mountain View Pkwy",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 361 4821",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:tags":[
+        "lead",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727829,
+        102083567,
+        85880117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AfqGPBF3otqXSo0JhdauQ_40.202238_-111.621561@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127014,
+    "wof:geomhash":"cb82c53608f9d7a391d7b3eb6e9021fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727829,
+            "neighbourhood_id":85880117,
+            "region_id":85688567,
+            "venue_id":857328099
+        }
+    ],
+    "wof:id":857328099,
+    "wof:lastmodified":1464127014,
+    "wof:name":"Perfect Worlds Ltd",
+    "wof:parent_id":85880117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lead",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.621561,
+    40.202238,
+    -111.621561,
+    40.202238
+],
+  "geometry": {"coordinates":[-111.621561,40.202238],"type":"Point"}
+}

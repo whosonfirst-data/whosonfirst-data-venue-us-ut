@@ -1,0 +1,75 @@
+{
+  "id": 857115375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.827885,40.711814,-111.827885,40.711814",
+    "geom:latitude":40.711814,
+    "geom:longitude":-111.827885,
+    "iso:country":"US",
+    "sg:address":"2180 Vimont Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 484 6257",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "loan",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85859457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SNCTtgnJJE177fnOosmSA_40.711814_-111.827885@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122322,
+    "wof:geomhash":"13f2bdaefa7864f39ea564d2a65ec7ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85859457,
+            "region_id":85688567,
+            "venue_id":857115375
+        }
+    ],
+    "wof:id":857115375,
+    "wof:lastmodified":1464122322,
+    "wof:name":"Highland Home Loans Lc",
+    "wof:parent_id":85859457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "broker"
+    ]
+},
+  "bbox": [
+    -111.827885,
+    40.711814,
+    -111.827885,
+    40.711814
+],
+  "geometry": {"coordinates":[-111.82788499999999,40.711814],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857158853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.846559,40.396559,-111.846559,40.396559",
+    "geom:latitude":40.396559,
+    "geom:longitude":-111.846559,
+    "iso:country":"US",
+    "sg:address":"108 E State St",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 768 8034",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RjJw4SjbkF1Wkl5jPmUBB_40.396559_-111.846559@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123324,
+    "wof:geomhash":"2b03841ba31f058779d5f1dbbd8e55f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857158853
+        }
+    ],
+    "wof:id":857158853,
+    "wof:lastmodified":1464123324,
+    "wof:name":"Hart's Gas & Food",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -111.846559,
+    40.396559,
+    -111.846559,
+    40.396559
+],
+  "geometry": {"coordinates":[-111.846559,40.396559],"type":"Point"}
+}

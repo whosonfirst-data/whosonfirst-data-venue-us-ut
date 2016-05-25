@@ -1,0 +1,69 @@
+{
+  "id": 857146205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.812524,40.377878,-111.812524,40.377878",
+    "geom:latitude":40.377878,
+    "geom:longitude":-111.812524,
+    "iso:country":"US",
+    "sg:address":"100 W State Rd",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 972 338 7700",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YLfQ7hQE8rctDvuLWb2Yi_40.377878_-111.812524@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123064,
+    "wof:geomhash":"250b7e1e2e938d4e1c805d12dfada12d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857146205
+        }
+    ],
+    "wof:id":857146205,
+    "wof:lastmodified":1464123064,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.812524,
+    40.377878,
+    -111.812524,
+    40.377878
+],
+  "geometry": {"coordinates":[-111.812524,40.377878],"type":"Point"}
+}

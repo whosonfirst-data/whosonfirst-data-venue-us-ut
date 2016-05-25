@@ -1,0 +1,71 @@
+{
+  "id": 857240273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.732357,40.043481,-111.732357,40.043481",
+    "geom:latitude":40.043481,
+    "geom:longitude":-111.732357,
+    "iso:country":"US",
+    "sg:address":"12 S Main St",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 3998",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "sewing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08A3Ajwj5WRLFlSeUgPFyK_40.043481_-111.732357@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125014,
+    "wof:geomhash":"ea2b97fdb4eb5fa91c78222bd000347c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857240273
+        }
+    ],
+    "wof:id":857240273,
+    "wof:lastmodified":1464125014,
+    "wof:name":"Creekside Needleart",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sewing"
+    ]
+},
+  "bbox": [
+    -111.732357,
+    40.043481,
+    -111.732357,
+    40.043481
+],
+  "geometry": {"coordinates":[-111.73235699999999,40.043481],"type":"Point"}
+}

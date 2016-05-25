@@ -1,0 +1,75 @@
+{
+  "id": 857309903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.79391,40.672589,-111.79391,40.672589",
+    "geom:latitude":40.672589,
+    "geom:longitude":-111.79391,
+    "iso:country":"US",
+    "sg:address":"4554 Brockbank Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 274 5294",
+    "sg:postcode":"84124",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85833111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Wdwf6FRn7Egoipnm0CknY_40.672589_-111.793910@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126616,
+    "wof:geomhash":"4c6c0347d5905da72217c171da0703d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85833111,
+            "region_id":85688567,
+            "venue_id":857309903
+        }
+    ],
+    "wof:id":857309903,
+    "wof:lastmodified":1464126616,
+    "wof:name":"Meik Emigration Properties",
+    "wof:parent_id":85833111,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -111.79391,
+    40.672589,
+    -111.79391,
+    40.672589
+],
+  "geometry": {"coordinates":[-111.79391,40.672589],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857436211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834199,41.769503,-111.834199,41.769503",
+    "geom:latitude":41.769503,
+    "geom:longitude":-111.834199,
+    "iso:country":"US",
+    "sg:address":"2175 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 1018",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JO5ADxCa5RlcWdHrZtxGP_41.769503_-111.834199@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129493,
+    "wof:geomhash":"ff374880c9204e5f2f75e17086d11566",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857436211
+        }
+    ],
+    "wof:id":857436211,
+    "wof:lastmodified":1464129493,
+    "wof:name":"Fisher Home Furnishings",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -111.834199,
+    41.769503,
+    -111.834199,
+    41.769503
+],
+  "geometry": {"coordinates":[-111.834199,41.769503],"type":"Point"}
+}

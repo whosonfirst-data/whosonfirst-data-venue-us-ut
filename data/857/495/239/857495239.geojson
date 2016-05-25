@@ -1,0 +1,81 @@
+{
+  "id": 857495239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.659483,40.233923,-111.659483,40.233923",
+    "geom:latitude":40.233923,
+    "geom:longitude":-111.659483,
+    "iso:country":"US",
+    "sg:address":"42 W Center St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/provo-orem/270986-hickory-kist-deli/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 9969",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "deli",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6L7zMznESExWoF9ERj7dVZ_40.233856_-111.659868@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130786,
+    "wof:geomhash":"373855a46776a7cea4084da68a8393af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880065,
+            "region_id":85688567,
+            "venue_id":857495239
+        }
+    ],
+    "wof:id":857495239,
+    "wof:lastmodified":1464130786,
+    "wof:name":"Hickory Kist Deli",
+    "wof:parent_id":85880065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "deli",
+        "american"
+    ]
+},
+  "bbox": [
+    -111.659483,
+    40.233923,
+    -111.659483,
+    40.233923
+],
+  "geometry": {"coordinates":[-111.65948299999999,40.233923],"type":"Point"}
+}

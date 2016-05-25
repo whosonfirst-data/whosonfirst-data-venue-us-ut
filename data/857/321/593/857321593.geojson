@@ -1,0 +1,75 @@
+{
+  "id": 857321593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.94846,40.70385,-111.94846,40.70385",
+    "geom:latitude":40.70385,
+    "geom:longitude":-111.94846,
+    "iso:country":"US",
+    "sg:address":"2101 W 3100 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 974 4833",
+    "sg:postcode":"84119",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mormon",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85832291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mUc4tCqwfd4kTDFmarWaf_40.703850_-111.948460@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126881,
+    "wof:geomhash":"0d56b741332ba9db7f35906038a0dd06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85832291,
+            "region_id":85688567,
+            "venue_id":857321593
+        }
+    ],
+    "wof:id":857321593,
+    "wof:lastmodified":1464126881,
+    "wof:name":"Granger Twenty-Fifth Ward",
+    "wof:parent_id":85832291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mormon",
+        "church"
+    ]
+},
+  "bbox": [
+    -111.94846,
+    40.70385,
+    -111.94846,
+    40.70385
+],
+  "geometry": {"coordinates":[-111.94846,40.70385],"type":"Point"}
+}

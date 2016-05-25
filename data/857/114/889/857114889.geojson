@@ -1,0 +1,75 @@
+{
+  "id": 857114889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.610205,37.048891,-113.610205,37.048891",
+    "geom:latitude":37.048891,
+    "geom:longitude":-113.610205,
+    "iso:country":"US",
+    "sg:address":"3611 Marigold Way",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 674 2576",
+    "sg:postcode":"84790",
+    "sg:province":"UT",
+    "sg:tags":[
+        "alarm",
+        "burglar",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727617,
+        102082879,
+        85803851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DzBKjho9NbscTRpper2yR_37.048891_-113.610205@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122311,
+    "wof:geomhash":"1f1e40ae971c5fff4c42c8761fc4cecd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85803851,
+            "region_id":85688567,
+            "venue_id":857114889
+        }
+    ],
+    "wof:id":857114889,
+    "wof:lastmodified":1464122311,
+    "wof:name":"Reliance Alarm",
+    "wof:parent_id":85803851,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alarm",
+        "burglar",
+        "system"
+    ]
+},
+  "bbox": [
+    -113.610205,
+    37.048891,
+    -113.610205,
+    37.048891
+],
+  "geometry": {"coordinates":[-113.61020499999999,37.048891],"type":"Point"}
+}

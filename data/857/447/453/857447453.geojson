@@ -1,0 +1,73 @@
+{
+  "id": 857447453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.782521,40.672114,-111.782521,40.672114",
+    "geom:latitude":40.672114,
+    "geom:longitude":-111.782521,
+    "iso:country":"US",
+    "sg:address":"4543 S Zarahemla Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 274 9595",
+    "sg:postcode":"84124",
+    "sg:province":"UT",
+    "sg:tags":[
+        "chemical",
+        "process",
+        "instrumentation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85835599,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Nmx9fHa8pRQ9JvthiRFnh_40.672114_-111.782521@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129711,
+    "wof:geomhash":"f1746c21ba8dbd946fa20fa73990c8e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85835599,
+            "region_id":85688567,
+            "venue_id":857447453
+        }
+    ],
+    "wof:id":857447453,
+    "wof:lastmodified":1464129711,
+    "wof:name":"Industrial Raman Instrs LLC",
+    "wof:parent_id":85835599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical",
+        "process",
+        "instrumentation"
+    ]
+},
+  "bbox": [
+    -111.782521,
+    40.672114,
+    -111.782521,
+    40.672114
+],
+  "geometry": {"coordinates":[-111.782521,40.672114],"type":"Point"}
+}

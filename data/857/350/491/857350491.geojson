@@ -1,0 +1,78 @@
+{
+  "id": 857350491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.732169,40.052684,-111.732169,40.052684",
+    "geom:latitude":40.052684,
+    "geom:longitude":-111.732169,
+    "iso:country":"US",
+    "sg:address":"840 N Main St",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 9281",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "gasoline",
+        "product",
+        "station",
+        "petroleum"
+    ],
+    "sg:website":"www.flyingj.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WD8icUIw0sceLoyXJ4rN4_40.052684_-111.732169@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127496,
+    "wof:geomhash":"987833195c4e85a99a6db3a0eea14608",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857350491
+        }
+    ],
+    "wof:id":857350491,
+    "wof:lastmodified":1464127496,
+    "wof:name":"Flying J Travel Plaza",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gasoline",
+        "product",
+        "station",
+        "petroleum"
+    ]
+},
+  "bbox": [
+    -111.732169,
+    40.052684,
+    -111.732169,
+    40.052684
+],
+  "geometry": {"coordinates":[-111.732169,40.052684],"type":"Point"}
+}

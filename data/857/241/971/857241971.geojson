@@ -1,0 +1,71 @@
+{
+  "id": 857241971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.804274,41.759378,-111.804274,41.759378",
+    "geom:latitude":41.759378,
+    "geom:longitude":-111.804274,
+    "iso:country":"US",
+    "sg:address":"1590 N 1200 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 3900",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gT9hWKibGToSMgHhHE6sT_41.759378_-111.804274@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125058,
+    "wof:geomhash":"4ddacf0e7a00ab6946f1b448704c73e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857241971
+        }
+    ],
+    "wof:id":857241971,
+    "wof:lastmodified":1464125058,
+    "wof:name":"Johnson Dry Wall & Painting",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.804274,
+    41.759378,
+    -111.804274,
+    41.759378
+],
+  "geometry": {"coordinates":[-111.80427400000001,41.759378],"type":"Point"}
+}

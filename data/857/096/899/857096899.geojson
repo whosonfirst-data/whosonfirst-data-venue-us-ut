@@ -1,0 +1,75 @@
+{
+  "id": 857096899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.937085,40.60959,-111.937085,40.60959",
+    "geom:latitude":40.60959,
+    "geom:longitude":-111.937085,
+    "iso:country":"US",
+    "sg:address":"1606 W 7800 S",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 255 5460",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85824493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62m0wojXCowF0EiANCi4NW_40.609590_-111.937085@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121830,
+    "wof:geomhash":"7f3f5e00f33b4d204f04779086045fb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85824493,
+            "region_id":85688567,
+            "venue_id":857096899
+        }
+    ],
+    "wof:id":857096899,
+    "wof:lastmodified":1464121830,
+    "wof:name":"Universal Painting",
+    "wof:parent_id":85824493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.937085,
+    40.60959,
+    -111.937085,
+    40.60959
+],
+  "geometry": {"coordinates":[-111.937085,40.60959],"type":"Point"}
+}

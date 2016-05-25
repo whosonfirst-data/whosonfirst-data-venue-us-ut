@@ -1,0 +1,68 @@
+{
+  "id": 857484835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.949247,40.57723,-111.949247,40.57723",
+    "geom:latitude":40.57723,
+    "geom:longitude":-111.949247,
+    "iso:country":"US",
+    "sg:address":"2265 Hobbs Dr",
+    "sg:city":"South Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 254 7748",
+    "sg:postcode":"84095",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728055,
+        102082877,
+        85821341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bwPKBvZNnFbFoXNxbOAnE_40.577230_-111.949247@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130462,
+    "wof:geomhash":"932a632a9d5d2410fd131e8cb79932e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728055,
+            "neighbourhood_id":85821341,
+            "region_id":85688567,
+            "venue_id":857484835
+        }
+    ],
+    "wof:id":857484835,
+    "wof:lastmodified":1464130462,
+    "wof:name":"Getaway Properties Inc",
+    "wof:parent_id":85821341,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.949247,
+    40.57723,
+    -111.949247,
+    40.57723
+],
+  "geometry": {"coordinates":[-111.949247,40.57723],"type":"Point"}
+}

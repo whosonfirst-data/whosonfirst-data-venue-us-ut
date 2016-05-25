@@ -1,0 +1,71 @@
+{
+  "id": 857407449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.811115,41.801797,-111.811115,41.801797",
+    "geom:latitude":41.801797,
+    "geom:longitude":-111.811115,
+    "iso:country":"US",
+    "sg:address":"335 E 150 N",
+    "sg:city":"Hyde Park",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 563 5216",
+    "sg:postcode":"84318",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gguhQ1acNB6gE7WFj6iC6_41.801797_-111.811115@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128783,
+    "wof:geomhash":"a870c09ebb4bcef4222ea03e7bc679fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857407449
+        }
+    ],
+    "wof:id":857407449,
+    "wof:lastmodified":1464128783,
+    "wof:name":"Rainier Construction LLC",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -111.811115,
+    41.801797,
+    -111.811115,
+    41.801797
+],
+  "geometry": {"coordinates":[-111.811115,41.801797],"type":"Point"}
+}

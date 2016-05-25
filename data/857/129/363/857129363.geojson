@@ -1,0 +1,71 @@
+{
+  "id": 857129363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.843728,40.387958,-111.843728,40.387958",
+    "geom:latitude":40.387958,
+    "geom:longitude":-111.843728,
+    "iso:country":"US",
+    "sg:address":"380 E Main St",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 766 3330",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ObnormMg4Zpt0pk0oQbaC_40.387958_-111.843728@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122658,
+    "wof:geomhash":"a996d4fe9f08db519b113589c8a555c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857129363
+        }
+    ],
+    "wof:id":857129363,
+    "wof:lastmodified":1464122658,
+    "wof:name":"Same First Home Mortgage",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -111.843728,
+    40.387958,
+    -111.843728,
+    40.387958
+],
+  "geometry": {"coordinates":[-111.843728,40.387958],"type":"Point"}
+}

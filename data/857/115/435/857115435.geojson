@@ -1,0 +1,81 @@
+{
+  "id": 857115435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.729963,40.274384,-111.729963,40.274384",
+    "geom:latitude":40.274384,
+    "geom:longitude":-111.729963,
+    "iso:country":"US",
+    "sg:address":"1452 Bus Park Dr",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 5015",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "water",
+        "fire",
+        "restoration",
+        "damage",
+        "flood"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727827,
+        102083567,
+        85821287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Cy22triZKBttDxHPxPtab_40.274384_-111.729963@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122325,
+    "wof:geomhash":"1236ddfe300b872c3d635fc891253f6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727827,
+            "neighbourhood_id":85821287,
+            "region_id":85688567,
+            "venue_id":857115435
+        }
+    ],
+    "wof:id":857115435,
+    "wof:lastmodified":1464122325,
+    "wof:name":"National Restoration",
+    "wof:parent_id":85821287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "fire",
+        "restoration",
+        "damage",
+        "flood"
+    ]
+},
+  "bbox": [
+    -111.729963,
+    40.274384,
+    -111.729963,
+    40.274384
+],
+  "geometry": {"coordinates":[-111.729963,40.274384],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857180963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.805405,40.374824,-111.805405,40.374824",
+    "geom:latitude":40.374824,
+    "geom:longitude":-111.805405,
+    "iso:country":"US",
+    "sg:address":"254 W 100 S",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 8357",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ldyhNyMb8ssZADeeKmsUF_40.374824_-111.805405@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123815,
+    "wof:geomhash":"566db42ecc40a50e0692c530226fc023",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857180963
+        }
+    ],
+    "wof:id":857180963,
+    "wof:lastmodified":1464123815,
+    "wof:name":"Western Pipe Maintenance Inc",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -111.805405,
+    40.374824,
+    -111.805405,
+    40.374824
+],
+  "geometry": {"coordinates":[-111.80540499999999,40.374824],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857110061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.856296,40.59548,-111.856296,40.59548",
+    "geom:latitude":40.59548,
+    "geom:longitude":-111.856296,
+    "iso:country":"US",
+    "sg:address":"8576 S Colene Dr",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 561 7293",
+    "sg:postcode":"84094",
+    "sg:province":"UT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85847325,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LgxxwEeJhqHGcutb0LAGv_40.595480_-111.856296@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122167,
+    "wof:geomhash":"00ee98b15c0e9d771fd638e209b306a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85847325,
+            "region_id":85688567,
+            "venue_id":857110061
+        }
+    ],
+    "wof:id":857110061,
+    "wof:lastmodified":1464122167,
+    "wof:name":"Consolidated Concrete Inc",
+    "wof:parent_id":85847325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.856296,
+    40.59548,
+    -111.856296,
+    40.59548
+],
+  "geometry": {"coordinates":[-111.856296,40.59548],"type":"Point"}
+}

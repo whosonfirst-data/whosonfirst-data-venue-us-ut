@@ -1,0 +1,73 @@
+{
+  "id": 857381173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.890681,40.604184,-111.890681,40.604184",
+    "geom:latitude":40.604184,
+    "geom:longitude":-111.890681,
+    "iso:country":"US",
+    "sg:address":"8245 S State St",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 566 2334",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "sg:tags":[
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728051,
+        102082877,
+        85810115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tYqF5uFSC6VF3IxYpoX5m_40.604184_-111.890681@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128154,
+    "wof:geomhash":"0c2d1043154cfd689ee2964ad35a88dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85810115,
+            "region_id":85688567,
+            "venue_id":857381173
+        }
+    ],
+    "wof:id":857381173,
+    "wof:lastmodified":1464128154,
+    "wof:name":"Utah Transit",
+    "wof:parent_id":85810115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "line"
+    ]
+},
+  "bbox": [
+    -111.890681,
+    40.604184,
+    -111.890681,
+    40.604184
+],
+  "geometry": {"coordinates":[-111.890681,40.604184],"type":"Point"}
+}

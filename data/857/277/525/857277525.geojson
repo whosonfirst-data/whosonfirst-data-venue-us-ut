@@ -1,0 +1,68 @@
+{
+  "id": 857277525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.970593,41.219588,-111.970593,41.219588",
+    "geom:latitude":41.219588,
+    "geom:longitude":-111.970593,
+    "iso:country":"US",
+    "sg:address":"2549 Washington Blvd",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 399 8455",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85820759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OUz5IN6wnKth5o3C812J2_41.219588_-111.970593@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125860,
+    "wof:geomhash":"1abc3a0a963461366884c0acd91bb6f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85820759,
+            "region_id":85688567,
+            "venue_id":857277525
+        }
+    ],
+    "wof:id":857277525,
+    "wof:lastmodified":1464125860,
+    "wof:name":"Weber County 2nd District Crt",
+    "wof:parent_id":85820759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.970593,
+    41.219588,
+    -111.970593,
+    41.219588
+],
+  "geometry": {"coordinates":[-111.97059299999999,41.219588],"type":"Point"}
+}

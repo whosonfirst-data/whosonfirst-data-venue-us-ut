@@ -1,0 +1,71 @@
+{
+  "id": 857432411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.922209,41.026585,-111.922209,41.026585",
+    "geom:latitude":41.026585,
+    "geom:longitude":-111.922209,
+    "iso:country":"US",
+    "sg:address":"681 Cherry Wood Rd",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 544 1084",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "investor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ELLEujB4gBWJUfUTakVGM_41.026585_-111.922209@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129410,
+    "wof:geomhash":"fc9325f7518eb6b2cbf774645c447dd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857432411
+        }
+    ],
+    "wof:id":857432411,
+    "wof:lastmodified":1464129410,
+    "wof:name":"Brinkerhoff Investments LLC",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investor"
+    ]
+},
+  "bbox": [
+    -111.922209,
+    41.026585,
+    -111.922209,
+    41.026585
+],
+  "geometry": {"coordinates":[-111.922209,41.026585],"type":"Point"}
+}

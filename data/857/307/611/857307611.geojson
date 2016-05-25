@@ -1,0 +1,71 @@
+{
+  "id": 857307611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.838322,41.737261,-111.838322,41.737261",
+    "geom:latitude":41.737261,
+    "geom:longitude":-111.838322,
+    "iso:country":"US",
+    "sg:address":"105 W 300 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 2405",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "disability"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YWFl85tiHPHPyeBcEuwAi_41.737261_-111.838322@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126570,
+    "wof:geomhash":"4569ef828de101a7fecc3570f4f128db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857307611
+        }
+    ],
+    "wof:id":857307611,
+    "wof:lastmodified":1464126570,
+    "wof:name":"Rise Inc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "disability"
+    ]
+},
+  "bbox": [
+    -111.838322,
+    41.737261,
+    -111.838322,
+    41.737261
+],
+  "geometry": {"coordinates":[-111.83832200000001,41.737261],"type":"Point"}
+}

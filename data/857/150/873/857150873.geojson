@@ -1,0 +1,87 @@
+{
+  "id": 857150873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.939391,41.179252,-111.939391,41.179252",
+    "geom:latitude":41.179252,
+    "geom:longitude":-111.939391,
+    "iso:country":"US",
+    "sg:address":"1574 E 4600 S",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 394 5303",
+    "sg:postcode":"84403",
+    "sg:province":"UT",
+    "sg:tags":[
+        "operation",
+        "timber",
+        "tract"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85808451,
+        85804639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XyHNKRtPOc84L4p8EeoTA_41.179252_-111.939391@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123166,
+    "wof:geomhash":"84e07dbed133c77a0e1ff4dc263ef61f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85808451,
+            "region_id":85688567,
+            "venue_id":857150873
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85804639,
+            "region_id":85688567,
+            "venue_id":857150873
+        }
+    ],
+    "wof:id":857150873,
+    "wof:lastmodified":1464123166,
+    "wof:name":"Nelson Tree Farms Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation",
+        "timber",
+        "tract"
+    ]
+},
+  "bbox": [
+    -111.939391,
+    41.179252,
+    -111.939391,
+    41.179252
+],
+  "geometry": {"coordinates":[-111.939391,41.179252],"type":"Point"}
+}

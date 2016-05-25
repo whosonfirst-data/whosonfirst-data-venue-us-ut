@@ -1,0 +1,75 @@
+{
+  "id": 857355869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.637086,40.279458,-111.637086,40.279458",
+    "geom:latitude":40.279458,
+    "geom:longitude":-111.637086,
+    "iso:country":"US",
+    "sg:address":"3454 Sioux Cir",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 370 0914",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2e9TtTVzvKE0M84Bekjp8v_40.279458_-111.637086@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127614,
+    "wof:geomhash":"2b455535ae403c6e173969213c25e160",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880111,
+            "region_id":85688567,
+            "venue_id":857355869
+        }
+    ],
+    "wof:id":857355869,
+    "wof:lastmodified":1464127614,
+    "wof:name":"Stratford Group",
+    "wof:parent_id":85880111,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -111.637086,
+    40.279458,
+    -111.637086,
+    40.279458
+],
+  "geometry": {"coordinates":[-111.637086,40.279458],"type":"Point"}
+}

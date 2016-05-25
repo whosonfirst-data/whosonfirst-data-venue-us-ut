@@ -1,0 +1,69 @@
+{
+  "id": 857453871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.007113,41.066735,-112.007113,41.066735",
+    "geom:latitude":41.066735,
+    "geom:longitude":-112.007113,
+    "iso:country":"US",
+    "sg:address":"105 N 2200 W",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 5535",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85868169,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rvdsh5JNj0Z5VJUEUCW8m_41.066735_-112.007113@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129835,
+    "wof:geomhash":"41b764b56edd17671c9fc3f44521c333",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "neighbourhood_id":85868169,
+            "region_id":85688567,
+            "venue_id":857453871
+        }
+    ],
+    "wof:id":857453871,
+    "wof:lastmodified":1464129835,
+    "wof:name":"National Equine Lending Co",
+    "wof:parent_id":85868169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -112.007113,
+    41.066735,
+    -112.007113,
+    41.066735
+],
+  "geometry": {"coordinates":[-112.007113,41.066735],"type":"Point"}
+}

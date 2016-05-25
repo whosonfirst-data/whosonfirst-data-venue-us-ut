@@ -1,0 +1,71 @@
+{
+  "id": 857104449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.847879,40.398078,-111.847879,40.398078",
+    "geom:latitude":40.398078,
+    "geom:longitude":-111.847879,
+    "iso:country":"US",
+    "sg:address":"801 N 100 E",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 766 2677",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NxC7KMBbFetEYb4oA2HX2_40.398078_-111.847879@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122015,
+    "wof:geomhash":"adfaffbc85bba9eb03983899264cc845",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857104449
+        }
+    ],
+    "wof:id":857104449,
+    "wof:lastmodified":1464122015,
+    "wof:name":"Butterfield Auto Sales Inc",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -111.847879,
+    40.398078,
+    -111.847879,
+    40.398078
+],
+  "geometry": {"coordinates":[-111.84787900000001,40.398078],"type":"Point"}
+}

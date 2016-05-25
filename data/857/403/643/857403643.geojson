@@ -1,0 +1,75 @@
+{
+  "id": 857403643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.877525,40.576165,-111.877525,40.576165",
+    "geom:latitude":40.576165,
+    "geom:longitude":-111.877525,
+    "iso:country":"US",
+    "sg:address":"9742 Quindaro Rd",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 501 0821",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "food",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85854667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CdH13uBm83JxSk0dgGfrA_40.576165_-111.877525@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128695,
+    "wof:geomhash":"29cdd4786797ff8708abe5aab7f42f43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85854667,
+            "region_id":85688567,
+            "venue_id":857403643
+        }
+    ],
+    "wof:id":857403643,
+    "wof:lastmodified":1464128695,
+    "wof:name":"T Marriott & Co",
+    "wof:parent_id":85854667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "broker"
+    ]
+},
+  "bbox": [
+    -111.877525,
+    40.576165,
+    -111.877525,
+    40.576165
+],
+  "geometry": {"coordinates":[-111.87752500000001,40.576165],"type":"Point"}
+}

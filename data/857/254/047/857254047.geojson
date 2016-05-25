@@ -1,0 +1,74 @@
+{
+  "id": 857254047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.004602,41.07759,-112.004602,41.07759",
+    "geom:latitude":41.07759,
+    "geom:longitude":-112.004602,
+    "iso:country":"US",
+    "sg:address":"1183 N 2100 W",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 544 5520",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dealer"
+    ],
+    "sg:website":"www.beehiveldsbooks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Giwp9fBzRzLR9bZUO0EJd_41.077590_-112.004602@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125347,
+    "wof:geomhash":"227ee517f2cc72bf079cd680cb984850",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857254047
+        }
+    ],
+    "wof:id":857254047,
+    "wof:lastmodified":1464125347,
+    "wof:name":"Beehive Book",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -112.004602,
+    41.07759,
+    -112.004602,
+    41.07759
+],
+  "geometry": {"coordinates":[-112.00460200000001,41.07759],"type":"Point"}
+}

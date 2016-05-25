@@ -1,0 +1,75 @@
+{
+  "id": 857238737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.008171,41.244513,-112.008171,41.244513",
+    "geom:latitude":41.244513,
+    "geom:longitude":-112.008171,
+    "iso:country":"US",
+    "sg:address":"1167 W 12th St",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 622 7279",
+    "sg:postcode":"84404",
+    "sg:province":"UT",
+    "sg:tags":[
+        "depository",
+        "banking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85818351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AZtHUMlqsukN4IWAwW1ja_41.244513_-112.008171@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124977,
+    "wof:geomhash":"00faf45320691b2b1983142ba33fadc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85818351,
+            "region_id":85688567,
+            "venue_id":857238737
+        }
+    ],
+    "wof:id":857238737,
+    "wof:lastmodified":1464124977,
+    "wof:name":"Mr Money",
+    "wof:parent_id":85818351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "depository",
+        "banking"
+    ]
+},
+  "bbox": [
+    -112.008171,
+    41.244513,
+    -112.008171,
+    41.244513
+],
+  "geometry": {"coordinates":[-112.008171,41.244513],"type":"Point"}
+}

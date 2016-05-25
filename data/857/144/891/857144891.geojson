@@ -1,0 +1,80 @@
+{
+  "id": 857144891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.007824,40.638683,-112.007824,40.638683",
+    "geom:latitude":40.638683,
+    "geom:longitude":-112.007824,
+    "iso:country":"US",
+    "sg:address":"4918 W 6200 S",
+    "sg:city":"Kearns",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 967 6897",
+    "sg:postcode":"84118",
+    "sg:province":"UT",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "sg:website":"www.blockbuster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728253,
+        102082877,
+        85833569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2laXzRZEaiHXN6CKMd1e4Z_40.638683_-112.007824@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123032,
+    "wof:geomhash":"b28b045dfa65c9b5db2815f22addd4c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728253,
+            "neighbourhood_id":85833569,
+            "region_id":85688567,
+            "venue_id":857144891
+        }
+    ],
+    "wof:id":857144891,
+    "wof:lastmodified":1464123032,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85833569,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -112.007824,
+    40.638683,
+    -112.007824,
+    40.638683
+],
+  "geometry": {"coordinates":[-112.007824,40.638683],"type":"Point"}
+}

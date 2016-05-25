@@ -1,0 +1,74 @@
+{
+  "id": 857493073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.858174,40.72329,-111.858174,40.72329",
+    "geom:latitude":40.72329,
+    "geom:longitude":-111.858174,
+    "iso:country":"US",
+    "sg:address":"1135 Wilmington Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/232198-maggie-moos/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 412 0222",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85857009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QooJUTbrWyDezSLLZ995A_40.723290_-111.858174@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130701,
+    "wof:geomhash":"5e661964794d47947614b5038168ee67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85857009,
+            "region_id":85688567,
+            "venue_id":857493073
+        }
+    ],
+    "wof:id":857493073,
+    "wof:lastmodified":1464130701,
+    "wof:name":"Maggie Moo's",
+    "wof:parent_id":85857009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -111.858174,
+    40.72329,
+    -111.858174,
+    40.72329
+],
+  "geometry": {"coordinates":[-111.85817400000001,40.72329],"type":"Point"}
+}

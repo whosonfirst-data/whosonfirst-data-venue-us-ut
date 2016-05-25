@@ -1,0 +1,75 @@
+{
+  "id": 857431501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.938581,41.036474,-111.938581,41.036474",
+    "geom:latitude":41.036474,
+    "geom:longitude":-111.938581,
+    "iso:country":"US",
+    "sg:address":"140 N Main St",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 593 8311",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "parlor",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RSV1fQTpzdAxs5cr1oiIm_41.036474_-111.938581@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129376,
+    "wof:geomhash":"183b8f3be49729370883664292e3583e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857431501
+        }
+    ],
+    "wof:id":857431501,
+    "wof:lastmodified":1464129376,
+    "wof:name":"Frosted Rock",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parlor",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -111.938581,
+    41.036474,
+    -111.938581,
+    41.036474
+],
+  "geometry": {"coordinates":[-111.938581,41.036474],"type":"Point"}
+}

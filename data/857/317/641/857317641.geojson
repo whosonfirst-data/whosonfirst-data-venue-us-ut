@@ -1,0 +1,80 @@
+{
+  "id": 857317641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.728969,40.27675,-111.728969,40.27675",
+    "geom:latitude":40.27675,
+    "geom:longitude":-111.728969,
+    "iso:country":"US",
+    "sg:address":"1110 S Geneva Rd",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 227 8900",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "bus",
+        "line",
+        "management",
+        "consulting"
+    ],
+    "sg:website":"www.rideuta.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727827,
+        102083567,
+        85821287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4txxYUX6kqrEFBjEQjYDDX_40.276750_-111.728969@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126787,
+    "wof:geomhash":"f9e31ad44c42355f9eac1816d3b2f4b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727827,
+            "neighbourhood_id":85821287,
+            "region_id":85688567,
+            "venue_id":857317641
+        }
+    ],
+    "wof:id":857317641,
+    "wof:lastmodified":1464126787,
+    "wof:name":"Utah Transit Authority",
+    "wof:parent_id":85821287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line",
+        "management",
+        "consulting"
+    ]
+},
+  "bbox": [
+    -111.728969,
+    40.27675,
+    -111.728969,
+    40.27675
+],
+  "geometry": {"coordinates":[-111.72896900000001,40.27675],"type":"Point"}
+}

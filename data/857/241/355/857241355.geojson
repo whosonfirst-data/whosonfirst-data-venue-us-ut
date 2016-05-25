@@ -1,0 +1,73 @@
+{
+  "id": 857241355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.02573,41.209384,-112.02573,41.209384",
+    "geom:latitude":41.209384,
+    "geom:longitude":-112.02573,
+    "iso:country":"US",
+    "sg:address":"3004 S 1900 W",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 392 1944",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85818351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17GbkJ2VSyj5COZ7GcmYAB_41.209384_-112.025730@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125041,
+    "wof:geomhash":"30b3494bd3774a07c138b03511000d5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85818351,
+            "region_id":85688567,
+            "venue_id":857241355
+        }
+    ],
+    "wof:id":857241355,
+    "wof:lastmodified":1464125041,
+    "wof:name":"Automatic Transmission Center",
+    "wof:parent_id":85818351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -112.02573,
+    41.209384,
+    -112.02573,
+    41.209384
+],
+  "geometry": {"coordinates":[-112.02573,41.209384],"type":"Point"}
+}

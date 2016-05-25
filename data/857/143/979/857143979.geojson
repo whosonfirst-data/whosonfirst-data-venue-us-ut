@@ -1,0 +1,71 @@
+{
+  "id": 857143979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.897837,40.997655,-111.897837,40.997655",
+    "geom:latitude":40.997655,
+    "geom:longitude":-111.897837,
+    "iso:country":"US",
+    "sg:address":"1033 N Main St",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 5003",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dIR19hSj4cTQglwZscQKT_40.997655_-111.897837@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122999,
+    "wof:geomhash":"bfdfa3776bb842dd202118814495180e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857143979
+        }
+    ],
+    "wof:id":857143979,
+    "wof:lastmodified":1464122999,
+    "wof:name":"Callahan Tile Inc",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.897837,
+    40.997655,
+    -111.897837,
+    40.997655
+],
+  "geometry": {"coordinates":[-111.897837,40.997655],"type":"Point"}
+}

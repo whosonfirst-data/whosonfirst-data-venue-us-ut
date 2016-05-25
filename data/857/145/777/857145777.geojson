@@ -1,0 +1,75 @@
+{
+  "id": 857145777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.838894,40.639602,-111.838894,40.639602",
+    "geom:latitude":40.639602,
+    "geom:longitude":-111.838894,
+    "iso:country":"US",
+    "sg:address":"6162 S Tall Oak Ln",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 277 7088",
+    "sg:postcode":"84121",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85821553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6j2AmqamHiLQiHn1P27OHM_40.639602_-111.838894@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123056,
+    "wof:geomhash":"c0fd9db0fa88a8993f27dc49c4086fae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85821553,
+            "region_id":85688567,
+            "venue_id":857145777
+        }
+    ],
+    "wof:id":857145777,
+    "wof:lastmodified":1464123056,
+    "wof:name":"Lawrence C Diehl",
+    "wof:parent_id":85821553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -111.838894,
+    40.639602,
+    -111.838894,
+    40.639602
+],
+  "geometry": {"coordinates":[-111.838894,40.639602],"type":"Point"}
+}

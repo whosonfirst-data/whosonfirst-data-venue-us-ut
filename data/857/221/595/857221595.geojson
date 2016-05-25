@@ -1,0 +1,71 @@
+{
+  "id": 857221595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.825889,40.388541,-111.825889,40.388541",
+    "geom:latitude":40.388541,
+    "geom:longitude":-111.825889,
+    "iso:country":"US",
+    "sg:address":"1603 E State St",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 420 1976",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "civic",
+        "social"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6At3wePzj2uDWOpUuHJMhq_40.388541_-111.825889@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124648,
+    "wof:geomhash":"71aa953930161445ef361cfc239edccd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857221595
+        }
+    ],
+    "wof:id":857221595,
+    "wof:lastmodified":1464124648,
+    "wof:name":"Because We Care Foundation",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "civic",
+        "social"
+    ]
+},
+  "bbox": [
+    -111.825889,
+    40.388541,
+    -111.825889,
+    40.388541
+],
+  "geometry": {"coordinates":[-111.825889,40.388541],"type":"Point"}
+}

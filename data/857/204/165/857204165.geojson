@@ -1,0 +1,79 @@
+{
+  "id": 857204165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.522452,37.109876,-113.522452,37.109876",
+    "geom:latitude":37.109876,
+    "geom:longitude":-113.522452,
+    "iso:country":"US",
+    "sg:address":"125 E Riverside Dr",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 628 6900",
+    "sg:postcode":"84790",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automotive",
+        "convenience",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SnzITEd24OKDTgsTVjA1X_37.109876_-113.522452@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124272,
+    "wof:geomhash":"452c101aa51170344ffb5a96cd44db89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857204165
+        }
+    ],
+    "wof:id":857204165,
+    "wof:lastmodified":1464124272,
+    "wof:name":"Chevron",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "convenience",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -113.522452,
+    37.109876,
+    -113.522452,
+    37.109876
+],
+  "geometry": {"coordinates":[-113.522452,37.109876],"type":"Point"}
+}

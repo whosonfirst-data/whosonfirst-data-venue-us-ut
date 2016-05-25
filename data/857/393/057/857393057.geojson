@@ -1,0 +1,71 @@
+{
+  "id": 857393057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.936046,41.016744,-111.936046,41.016744",
+    "geom:latitude":41.016744,
+    "geom:longitude":-111.936046,
+    "iso:country":"US",
+    "sg:address":"74 E Monticello Dr",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 544 8710",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "personal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cbHfmDrvA3zozYuHUF3cW_41.016744_-111.936046@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128484,
+    "wof:geomhash":"b4bea694ecaeb0d26fe6e5de9db7df96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857393057
+        }
+    ],
+    "wof:id":857393057,
+    "wof:lastmodified":1464128484,
+    "wof:name":"Wedding Magic",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal"
+    ]
+},
+  "bbox": [
+    -111.936046,
+    41.016744,
+    -111.936046,
+    41.016744
+],
+  "geometry": {"coordinates":[-111.936046,41.016744],"type":"Point"}
+}

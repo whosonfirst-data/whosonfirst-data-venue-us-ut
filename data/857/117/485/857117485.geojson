@@ -1,0 +1,81 @@
+{
+  "id": 857117485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.824264,40.540467,-111.824264,40.540467",
+    "geom:latitude":40.540467,
+    "geom:longitude":-111.824264,
+    "iso:country":"US",
+    "sg:address":"11606 Hidden Valley Blvd",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 576 0107",
+    "sg:postcode":"84092",
+    "sg:province":"UT",
+    "sg:tags":[
+        "operator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85825243,
+        102082877,
+        102191575,
+        101728077,
+        85812845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YR8JxJVgUgYVm6dA8Yqw6_40.540467_-111.824264@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122399,
+    "wof:geomhash":"8f1feca2c13e383c4062b4672ee17359",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85825243,
+            "region_id":85688567,
+            "venue_id":857117485
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85812845,
+            "region_id":85688567,
+            "venue_id":857117485
+        }
+    ],
+    "wof:id":857117485,
+    "wof:lastmodified":1464122399,
+    "wof:name":"Vending Hutch",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator"
+    ]
+},
+  "bbox": [
+    -111.824264,
+    40.540467,
+    -111.824264,
+    40.540467
+],
+  "geometry": {"coordinates":[-111.824264,40.540467],"type":"Point"}
+}

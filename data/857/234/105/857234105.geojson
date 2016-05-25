@@ -1,0 +1,71 @@
+{
+  "id": 857234105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.791815,40.600986,-111.791815,40.600986",
+    "geom:latitude":40.600986,
+    "geom:longitude":-111.791815,
+    "iso:country":"US",
+    "sg:address":"8311 Top of the World Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 944 4936",
+    "sg:postcode":"84121",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85843219,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ToR6CWxlKYipNGF5stAGa_40.600986_-111.791815@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124882,
+    "wof:geomhash":"1db915830ee5f5aca32601b95d234fed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85843219,
+            "region_id":85688567,
+            "venue_id":857234105
+        }
+    ],
+    "wof:id":857234105,
+    "wof:lastmodified":1464124882,
+    "wof:name":"T H Properties Ltd",
+    "wof:parent_id":85843219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -111.791815,
+    40.600986,
+    -111.791815,
+    40.600986
+],
+  "geometry": {"coordinates":[-111.791815,40.600986],"type":"Point"}
+}

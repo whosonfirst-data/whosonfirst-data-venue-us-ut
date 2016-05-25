@@ -1,0 +1,71 @@
+{
+  "id": 857428987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.976441,41.706678,-111.976441,41.706678",
+    "geom:latitude":41.706678,
+    "geom:longitude":-111.976441,
+    "iso:country":"US",
+    "sg:address":"68 S Main St",
+    "sg:city":"Mendon",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 713 4747",
+    "sg:postcode":"84325",
+    "sg:province":"UT",
+    "sg:tags":[
+        "event"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727555,
+        102082881,
+        85823067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tAdMzsa175uErDmpgS5mj_41.706678_-111.976441@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129317,
+    "wof:geomhash":"9632e9c1667df218031c5b32c54cd329",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727555,
+            "neighbourhood_id":85823067,
+            "region_id":85688567,
+            "venue_id":857428987
+        }
+    ],
+    "wof:id":857428987,
+    "wof:lastmodified":1464129317,
+    "wof:name":"Event Source",
+    "wof:parent_id":85823067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "event"
+    ]
+},
+  "bbox": [
+    -111.976441,
+    41.706678,
+    -111.976441,
+    41.706678
+],
+  "geometry": {"coordinates":[-111.97644099999999,41.706678],"type":"Point"}
+}

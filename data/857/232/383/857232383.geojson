@@ -1,0 +1,71 @@
+{
+  "id": 857232383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.799728,41.735383,-111.799728,41.735383",
+    "geom:latitude":41.735383,
+    "geom:longitude":-111.799728,
+    "iso:country":"US",
+    "sg:address":"220 Quail Way",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 5402",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77IIdeUTwYT2i9wOSAiWAx_41.735383_-111.799728@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124850,
+    "wof:geomhash":"a8ad3bc458cb9b5091ed15ffb95cc574",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857232383
+        }
+    ],
+    "wof:id":857232383,
+    "wof:lastmodified":1464124850,
+    "wof:name":"Economy Auto Inc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -111.799728,
+    41.735383,
+    -111.799728,
+    41.735383
+],
+  "geometry": {"coordinates":[-111.799728,41.735383],"type":"Point"}
+}

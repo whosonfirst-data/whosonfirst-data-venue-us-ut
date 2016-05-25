@@ -1,0 +1,73 @@
+{
+  "id": 857084471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.020239,41.097802,-112.020239,41.097802",
+    "geom:latitude":41.097802,
+    "geom:longitude":-112.020239,
+    "iso:country":"US",
+    "sg:address":"1101 S Freeport Industrial Pkwy",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 525 1007",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85851583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BWjDcbPdoiOBtEWTscBHr_41.097802_-112.020239@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121519,
+    "wof:geomhash":"cb8ce628a99505f3b3fe5e8a4eede896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85851583,
+            "region_id":85688567,
+            "venue_id":857084471
+        }
+    ],
+    "wof:id":857084471,
+    "wof:lastmodified":1464121519,
+    "wof:name":"Scully Distribution",
+    "wof:parent_id":85851583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -112.020239,
+    41.097802,
+    -112.020239,
+    41.097802
+],
+  "geometry": {"coordinates":[-112.020239,41.097802],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857082709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.699769,40.273643,-111.699769,40.273643",
+    "geom:latitude":40.273643,
+    "geom:longitude":-111.699769,
+    "iso:country":"US",
+    "sg:address":"268 W 1300 S",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 226 6050",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85813259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rN9NM2027hk8qjppnKoED_40.273643_-111.699769@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121477,
+    "wof:geomhash":"d6c2e6c85656163a4b9cb8673d4d9d2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85813259,
+            "region_id":85688567,
+            "venue_id":857082709
+        }
+    ],
+    "wof:id":857082709,
+    "wof:lastmodified":1464121477,
+    "wof:name":"TJ Maxx",
+    "wof:parent_id":85813259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.699769,
+    40.273643,
+    -111.699769,
+    40.273643
+],
+  "geometry": {"coordinates":[-111.699769,40.273643],"type":"Point"}
+}

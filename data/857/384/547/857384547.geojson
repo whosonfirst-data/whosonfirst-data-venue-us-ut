@@ -1,0 +1,75 @@
+{
+  "id": 857384547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.931544,40.671261,-111.931544,40.671261",
+    "geom:latitude":40.671261,
+    "geom:longitude":-111.931544,
+    "iso:country":"US",
+    "sg:address":"4546 Thornwood Ave",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 262 1470",
+    "sg:postcode":"84123",
+    "sg:province":"UT",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728059,
+        102082877,
+        85806869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7V0vV0GJivyGSxt9QbgmuE_40.671261_-111.931544@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128256,
+    "wof:geomhash":"e83ee0fcb9dca6af8168ef3cd1a7d9e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728059,
+            "neighbourhood_id":85806869,
+            "region_id":85688567,
+            "venue_id":857384547
+        }
+    ],
+    "wof:id":857384547,
+    "wof:lastmodified":1464128256,
+    "wof:name":"Jenreco",
+    "wof:parent_id":85806869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.931544,
+    40.671261,
+    -111.931544,
+    40.671261
+],
+  "geometry": {"coordinates":[-111.931544,40.671261],"type":"Point"}
+}

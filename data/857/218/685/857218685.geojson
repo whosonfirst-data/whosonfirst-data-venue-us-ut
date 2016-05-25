@@ -1,0 +1,68 @@
+{
+  "id": 857218685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.915372,40.343531,-111.915372,40.343531",
+    "geom:latitude":40.343531,
+    "geom:longitude":-111.915372,
+    "iso:country":"US",
+    "sg:address":"1052 Emerald Ct",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 282 8806",
+    "sg:postcode":"84045",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727857,
+        102083567,
+        85836317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07RzVwiTFgfutklNIDOC3t_40.343531_-111.915372@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124590,
+    "wof:geomhash":"5af87c6f0da7213b3dbf36889e322fef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727857,
+            "neighbourhood_id":85836317,
+            "region_id":85688567,
+            "venue_id":857218685
+        }
+    ],
+    "wof:id":857218685,
+    "wof:lastmodified":1464124590,
+    "wof:name":"Buchanan Doors",
+    "wof:parent_id":85836317,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.915372,
+    40.343531,
+    -111.915372,
+    40.343531
+],
+  "geometry": {"coordinates":[-111.915372,40.343531],"type":"Point"}
+}

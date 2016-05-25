@@ -1,0 +1,75 @@
+{
+  "id": 857089085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.667511,40.217103,-111.667511,40.217103",
+    "geom:latitude":40.217103,
+    "geom:longitude":-111.667511,
+    "iso:country":"US",
+    "sg:address":"1330 S 500 W",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 375 1400",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "venetian",
+        "blind"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ysy81LXCWUfopO3i3NjDN_40.217103_-111.667511@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121645,
+    "wof:geomhash":"bfe7949721903b9cec8036c2f7c6eef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880077,
+            "region_id":85688567,
+            "venue_id":857089085
+        }
+    ],
+    "wof:id":857089085,
+    "wof:lastmodified":1464121645,
+    "wof:name":"Heritage Cleaning Systems",
+    "wof:parent_id":85880077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "venetian",
+        "blind"
+    ]
+},
+  "bbox": [
+    -111.667511,
+    40.217103,
+    -111.667511,
+    40.217103
+],
+  "geometry": {"coordinates":[-111.667511,40.217103],"type":"Point"}
+}

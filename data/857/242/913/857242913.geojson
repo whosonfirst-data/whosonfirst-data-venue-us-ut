@@ -1,0 +1,68 @@
+{
+  "id": 857242913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.888321,40.684531,-111.888321,40.684531",
+    "geom:latitude":40.684531,
+    "geom:longitude":-111.888321,
+    "iso:country":"US",
+    "sg:address":"3976 S State St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 281 2500",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85810147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4C40tXHIN9TzPIzk5BSCmj_40.684531_-111.888321@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125081,
+    "wof:geomhash":"f1a1e8236de1c5b0de430789da27f888",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85810147,
+            "region_id":85688567,
+            "venue_id":857242913
+        }
+    ],
+    "wof:id":857242913,
+    "wof:lastmodified":1464125081,
+    "wof:name":"Farmers Insurance",
+    "wof:parent_id":85810147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.888321,
+    40.684531,
+    -111.888321,
+    40.684531
+],
+  "geometry": {"coordinates":[-111.888321,40.684531],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 857333985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.878752,40.712727,-111.878752,40.712727",
+    "geom:latitude":40.712727,
+    "geom:longitude":-111.878752,
+    "iso:country":"US",
+    "sg:address":"403 E 2700 S",
+    "sg:city":"South Salt Lake",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 487 6611",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "process",
+        "server"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85858223,
+        101728075,
+        85871027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Q4WVXEo3Z3guXj8s3g7Yj_40.712727_-111.878752@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127147,
+    "wof:geomhash":"4877628dd336451c7562f522dab7805e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85858223,
+            "region_id":85688567,
+            "venue_id":857333985
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871027,
+            "region_id":85688567,
+            "venue_id":857333985
+        }
+    ],
+    "wof:id":857333985,
+    "wof:lastmodified":1464127147,
+    "wof:name":"Constable Info-Best Process",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "process",
+        "server"
+    ]
+},
+  "bbox": [
+    -111.878752,
+    40.712727,
+    -111.878752,
+    40.712727
+],
+  "geometry": {"coordinates":[-111.87875200000001,40.712727],"type":"Point"}
+}

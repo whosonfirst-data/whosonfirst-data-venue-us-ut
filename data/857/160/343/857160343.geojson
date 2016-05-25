@@ -1,0 +1,75 @@
+{
+  "id": 857160343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834993,40.606999,-111.834993,40.606999",
+    "geom:latitude":40.606999,
+    "geom:longitude":-111.834993,
+    "iso:country":"US",
+    "sg:address":"8042 Hunters Meadow Cir",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 942 3055",
+    "sg:postcode":"84093",
+    "sg:province":"UT",
+    "sg:tags":[
+        "merchant",
+        "processing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85857943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0btIqnYvQ8NZHnmQmYDDc4_40.606999_-111.834993@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123350,
+    "wof:geomhash":"5ef9c0e53efdb70ca03bb002b61a91dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85857943,
+            "region_id":85688567,
+            "venue_id":857160343
+        }
+    ],
+    "wof:id":857160343,
+    "wof:lastmodified":1464123350,
+    "wof:name":"Cash Flow Inc",
+    "wof:parent_id":85857943,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchant",
+        "processing"
+    ]
+},
+  "bbox": [
+    -111.834993,
+    40.606999,
+    -111.834993,
+    40.606999
+],
+  "geometry": {"coordinates":[-111.834993,40.606999],"type":"Point"}
+}

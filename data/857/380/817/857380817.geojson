@@ -1,0 +1,68 @@
+{
+  "id": 857380817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.651935,40.283287,-111.651935,40.283287",
+    "geom:latitude":40.283287,
+    "geom:longitude":-111.651935,
+    "iso:country":"US",
+    "sg:address":"3661 N Canyon Rd",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 226 7994",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85817395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bkrHLPghCDut2VZeyyWLy_40.283287_-111.651935@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128143,
+    "wof:geomhash":"9772465193f8c73b8247e0ea6dd189de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85817395,
+            "region_id":85688567,
+            "venue_id":857380817
+        }
+    ],
+    "wof:id":857380817,
+    "wof:lastmodified":1464128143,
+    "wof:name":"Edgemont Pharmacy",
+    "wof:parent_id":85817395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.651935,
+    40.283287,
+    -111.651935,
+    40.283287
+],
+  "geometry": {"coordinates":[-111.65193499999999,40.283287],"type":"Point"}
+}

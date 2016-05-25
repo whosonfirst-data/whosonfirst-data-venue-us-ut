@@ -1,0 +1,73 @@
+{
+  "id": 857245645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.662037,40.242807,-111.662037,40.242807",
+    "geom:latitude":40.242807,
+    "geom:longitude":-111.662037,
+    "iso:country":"US",
+    "sg:address":"668 N Freedom Blvd",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 8614",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "financing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73OnrooAHLW3R0zSxJo7R9_40.242807_-111.662037@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125152,
+    "wof:geomhash":"8b5b69de4448c93cd9b3f1e499fdfc95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880121,
+            "region_id":85688567,
+            "venue_id":857245645
+        }
+    ],
+    "wof:id":857245645,
+    "wof:lastmodified":1464125152,
+    "wof:name":"Wells Fargo Financial",
+    "wof:parent_id":85880121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "financing"
+    ]
+},
+  "bbox": [
+    -111.662037,
+    40.242807,
+    -111.662037,
+    40.242807
+],
+  "geometry": {"coordinates":[-111.662037,40.242807],"type":"Point"}
+}

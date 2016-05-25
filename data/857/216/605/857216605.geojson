@@ -1,0 +1,71 @@
+{
+  "id": 857216605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.930023,41.018979,-111.930023,41.018979",
+    "geom:latitude":41.018979,
+    "geom:longitude":-111.930023,
+    "iso:country":"US",
+    "sg:address":"295 E Burton Ln",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 546 9605",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bHY2oxQFrmXcsQd4ZQw5W_41.018979_-111.930023@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124544,
+    "wof:geomhash":"657031854790ca0bae45227ff2d2ffd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857216605
+        }
+    ],
+    "wof:id":857216605,
+    "wof:lastmodified":1464124544,
+    "wof:name":"Mission Produce",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -111.930023,
+    41.018979,
+    -111.930023,
+    41.018979
+],
+  "geometry": {"coordinates":[-111.93002300000001,41.018979],"type":"Point"}
+}

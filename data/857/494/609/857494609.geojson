@@ -1,0 +1,72 @@
+{
+  "id": 857494609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.786612,40.374189,-111.786612,40.374189",
+    "geom:latitude":40.374189,
+    "geom:longitude":-111.786612,
+    "iso:country":"US",
+    "sg:address":"450 E State Rd",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/american-fork-pleasant-grove/166022-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 6322",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Jf4Op0h0qhOdF7uaVUx5d_40.374137_-111.786450@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130754,
+    "wof:geomhash":"62a3cdb85969803a17e8cd32051ae02b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857494609
+        }
+    ],
+    "wof:id":857494609,
+    "wof:lastmodified":1464130754,
+    "wof:name":"Arby's",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -111.786612,
+    40.374189,
+    -111.786612,
+    40.374189
+],
+  "geometry": {"coordinates":[-111.78661200000001,40.374189],"type":"Point"}
+}

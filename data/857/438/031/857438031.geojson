@@ -1,0 +1,73 @@
+{
+  "id": 857438031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.792853,41.740298,-111.792853,41.740298",
+    "geom:latitude":41.740298,
+    "geom:longitude":-111.792853,
+    "iso:country":"US",
+    "sg:address":"1430 Canyon Rd",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 6305",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lIkqFBvZKZ1u2iupU5Zd1_41.740298_-111.792853@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129529,
+    "wof:geomhash":"3ceda1b38b6353723fbab5ecb34892a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857438031
+        }
+    ],
+    "wof:id":857438031,
+    "wof:lastmodified":1464129529,
+    "wof:name":"Emis",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -111.792853,
+    41.740298,
+    -111.792853,
+    41.740298
+],
+  "geometry": {"coordinates":[-111.79285299999999,41.740298],"type":"Point"}
+}

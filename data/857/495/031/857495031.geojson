@@ -1,0 +1,76 @@
+{
+  "id": 857495031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.841183,40.665918,-111.841183,40.665918",
+    "geom:latitude":40.665918,
+    "geom:longitude":-111.841183,
+    "iso:country":"US",
+    "sg:address":"1775 Murray Holladay Rd",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/214597-5-buck-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 272 1636",
+    "sg:postcode":"84117",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85825901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_603svgVdq3IUg8F0SCqY9f_40.666021_-111.842016@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130774,
+    "wof:geomhash":"628c0fc5978e875e11fcc7f28e280196",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85825901,
+            "region_id":85688567,
+            "venue_id":857495031
+        }
+    ],
+    "wof:id":857495031,
+    "wof:lastmodified":1464130774,
+    "wof:name":"5 Buck Pizza",
+    "wof:parent_id":85825901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -111.841183,
+    40.665918,
+    -111.841183,
+    40.665918
+],
+  "geometry": {"coordinates":[-111.841183,40.665918],"type":"Point"}
+}

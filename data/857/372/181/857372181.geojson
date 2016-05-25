@@ -1,0 +1,69 @@
+{
+  "id": 857372181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.821652,40.386969,-111.821652,40.386969",
+    "geom:latitude":40.386969,
+    "geom:longitude":-111.821652,
+    "iso:country":"US",
+    "sg:address":"650 N 900 W",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 2234",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0M8xgr51ivwpuUq29I4RFD_40.386969_-111.821652@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127954,
+    "wof:geomhash":"bc510fd0abcf893a6841fbc600a4a9bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857372181
+        }
+    ],
+    "wof:id":857372181,
+    "wof:lastmodified":1464127954,
+    "wof:name":"Carson Meats",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -111.821652,
+    40.386969,
+    -111.821652,
+    40.386969
+],
+  "geometry": {"coordinates":[-111.821652,40.386969],"type":"Point"}
+}

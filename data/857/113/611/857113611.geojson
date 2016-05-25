@@ -1,0 +1,75 @@
+{
+  "id": 857113611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.678445,40.267902,-111.678445,40.267902",
+    "geom:latitude":40.267902,
+    "geom:longitude":-111.678445,
+    "iso:country":"US",
+    "sg:address":"663 E 1600 S",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 226 7589",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85880081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SRm2ivR8wFYRHaeS3qpi4_40.267902_-111.678445@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122271,
+    "wof:geomhash":"384769eb8d15fef6ea82278010d7a8b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85880081,
+            "region_id":85688567,
+            "venue_id":857113611
+        }
+    ],
+    "wof:id":857113611,
+    "wof:lastmodified":1464122271,
+    "wof:name":"Pro Form Manufacturing Inc",
+    "wof:parent_id":85880081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.678445,
+    40.267902,
+    -111.678445,
+    40.267902
+],
+  "geometry": {"coordinates":[-111.678445,40.267902],"type":"Point"}
+}

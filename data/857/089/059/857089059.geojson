@@ -1,0 +1,75 @@
+{
+  "id": 857089059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.743109,40.035067,-111.743109,40.035067",
+    "geom:latitude":40.035067,
+    "geom:longitude":-111.743109,
+    "iso:country":"US",
+    "sg:address":"638 W 600 S",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 1123",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IdSd3JG9HnjzCyc5i37q1_40.035067_-111.743109@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121644,
+    "wof:geomhash":"759304c7204b153ab3044efc17f0d1d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857089059
+        }
+    ],
+    "wof:id":857089059,
+    "wof:lastmodified":1464121644,
+    "wof:name":"Kay General Contractors",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.743109,
+    40.035067,
+    -111.743109,
+    40.035067
+],
+  "geometry": {"coordinates":[-111.743109,40.035067],"type":"Point"}
+}

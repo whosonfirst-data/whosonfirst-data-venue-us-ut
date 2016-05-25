@@ -1,0 +1,73 @@
+{
+  "id": 857398565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.610679,40.177225,-111.610679,40.177225",
+    "geom:latitude":40.177225,
+    "geom:longitude":-111.610679,
+    "iso:country":"US",
+    "sg:address":"717 N Main St",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 489 3698",
+    "sg:postcode":"84663",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727829,
+        102083567,
+        85880117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71GLtEftJk97feDdiB2lhh_40.177225_-111.610679@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128598,
+    "wof:geomhash":"28d03466634e0da6fa86ca11387cad51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727829,
+            "neighbourhood_id":85880117,
+            "region_id":85688567,
+            "venue_id":857398565
+        }
+    ],
+    "wof:id":857398565,
+    "wof:lastmodified":1464128598,
+    "wof:name":"Book Mark",
+    "wof:parent_id":85880117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -111.610679,
+    40.177225,
+    -111.610679,
+    40.177225
+],
+  "geometry": {"coordinates":[-111.610679,40.177225],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857079121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.830782,40.387393,-111.830782,40.387393",
+    "geom:latitude":40.387393,
+    "geom:longitude":-111.830782,
+    "iso:country":"US",
+    "sg:address":"110 S Interstate Plaza Dr",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 766 2080",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11QHF11DQEvbnvyb1NgV5t_40.387393_-111.830782@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121382,
+    "wof:geomhash":"890ff8538f4b052c2ba845c6c125d78a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857079121
+        }
+    ],
+    "wof:id":857079121,
+    "wof:lastmodified":1464121382,
+    "wof:name":"Truck World",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -111.830782,
+    40.387393,
+    -111.830782,
+    40.387393
+],
+  "geometry": {"coordinates":[-111.830782,40.387393],"type":"Point"}
+}

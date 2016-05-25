@@ -1,0 +1,71 @@
+{
+  "id": 857488619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.681353,40.04859,-111.681353,40.04859",
+    "geom:latitude":40.04859,
+    "geom:longitude":-111.681353,
+    "iso:country":"US",
+    "sg:address":"395 S 400 W",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 423 2073",
+    "sg:postcode":"84653",
+    "sg:province":"UT",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65srIx83Xl2LXn4w0B0Uwz_40.048590_-111.681353@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130549,
+    "wof:geomhash":"60564dec3b6f6256ab0dd715bf002c31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857488619
+        }
+    ],
+    "wof:id":857488619,
+    "wof:lastmodified":1464130549,
+    "wof:name":"Vintage Furniture Antiques",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -111.681353,
+    40.04859,
+    -111.681353,
+    40.04859
+],
+  "geometry": {"coordinates":[-111.681353,40.04859],"type":"Point"}
+}

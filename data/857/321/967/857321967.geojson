@@ -1,0 +1,71 @@
+{
+  "id": 857321967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.826149,41.754661,-111.826149,41.754661",
+    "geom:latitude":41.754661,
+    "geom:longitude":-111.826149,
+    "iso:country":"US",
+    "sg:address":"314 E 1270 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 0132",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0unXrtfcVWzSp3NHCycakr_41.754661_-111.826149@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126888,
+    "wof:geomhash":"e53842b90bf33aedae5ddbb5c9484bf1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857321967
+        }
+    ],
+    "wof:id":857321967,
+    "wof:lastmodified":1464126888,
+    "wof:name":"Baywebs Studio Inc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "datum"
+    ]
+},
+  "bbox": [
+    -111.826149,
+    41.754661,
+    -111.826149,
+    41.754661
+],
+  "geometry": {"coordinates":[-111.826149,41.754661],"type":"Point"}
+}

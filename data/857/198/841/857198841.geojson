@@ -1,0 +1,71 @@
+{
+  "id": 857198841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.792384,41.749807,-111.792384,41.749807",
+    "geom:latitude":41.749807,
+    "geom:longitude":-111.792384,
+    "iso:country":"US",
+    "sg:address":"1656 E 1030 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 770 8853",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6x3SqAu8CIu2IOL9QJqoiB_41.749807_-111.792384@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124155,
+    "wof:geomhash":"603c720df4f9d178880b575c6e841f3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857198841
+        }
+    ],
+    "wof:id":857198841,
+    "wof:lastmodified":1464124155,
+    "wof:name":"Watershed Systems Group Inc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -111.792384,
+    41.749807,
+    -111.792384,
+    41.749807
+],
+  "geometry": {"coordinates":[-111.792384,41.749807],"type":"Point"}
+}

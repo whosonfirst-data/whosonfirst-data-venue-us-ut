@@ -1,0 +1,75 @@
+{
+  "id": 857443955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.7035,40.273511,-111.7035,40.273511",
+    "geom:latitude":40.273511,
+    "geom:longitude":-111.7035,
+    "iso:country":"US",
+    "sg:address":"65 W University Pkwy",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 1524",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fetUEkkbsoa7JPYHoIZuQ_40.273511_-111.703500@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129638,
+    "wof:geomhash":"c6ca5f88db8ce47046f3cf3d4558630b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880087,
+            "region_id":85688567,
+            "venue_id":857443955
+        }
+    ],
+    "wof:id":857443955,
+    "wof:lastmodified":1464129638,
+    "wof:name":"World Savings",
+    "wof:parent_id":85880087,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -111.7035,
+    40.273511,
+    -111.7035,
+    40.273511
+],
+  "geometry": {"coordinates":[-111.70350000000001,40.273511],"type":"Point"}
+}

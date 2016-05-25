@@ -1,0 +1,73 @@
+{
+  "id": 857421381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.971002,40.534423,-111.971002,40.534423",
+    "geom:latitude":40.534423,
+    "geom:longitude":-111.971002,
+    "iso:country":"US",
+    "sg:address":"3341 Law Creek Cir",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 446 8504",
+    "sg:postcode":"84065",
+    "sg:province":"UT",
+    "sg:tags":[
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728073,
+        102082877,
+        85845107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Q3425uhDOgt6riTiOehFd_40.534423_-111.971002@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129135,
+    "wof:geomhash":"2d29f042a9d47a1bd8fdf07b0e4b1c77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728073,
+            "neighbourhood_id":85845107,
+            "region_id":85688567,
+            "venue_id":857421381
+        }
+    ],
+    "wof:id":857421381,
+    "wof:lastmodified":1464129135,
+    "wof:name":"Key Medical",
+    "wof:parent_id":85845107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital"
+    ]
+},
+  "bbox": [
+    -111.971002,
+    40.534423,
+    -111.971002,
+    40.534423
+],
+  "geometry": {"coordinates":[-111.971002,40.534423],"type":"Point"}
+}

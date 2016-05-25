@@ -1,0 +1,84 @@
+{
+  "id": 857495279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.656613,40.2443,-111.656613,40.2443",
+    "geom:latitude":40.2443,
+    "geom:longitude":-111.656613,
+    "iso:country":"US",
+    "sg:address":"111 East 800 North",
+    "sg:city":"Provo ",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/provo-orem/18627-brick-oven-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 374 8800",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "calzones",
+        "american",
+        "italian",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ANGnXkQhwBbtGXcPVp2KP_40.244386_-111.656303@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130787,
+    "wof:geomhash":"9ec810cb5902c97130ee4b0f258eb867",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880085,
+            "region_id":85688567,
+            "venue_id":857495279
+        }
+    ],
+    "wof:id":857495279,
+    "wof:lastmodified":1464130787,
+    "wof:name":"Brick Oven Restaurant",
+    "wof:parent_id":85880085,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "calzones",
+        "american",
+        "italian",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -111.656613,
+    40.2443,
+    -111.656613,
+    40.2443
+],
+  "geometry": {"coordinates":[-111.65661299999999,40.2443],"type":"Point"}
+}

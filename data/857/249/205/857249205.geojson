@@ -1,0 +1,80 @@
+{
+  "id": 857249205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.909315,40.598353,-111.909315,40.598353",
+    "geom:latitude":40.598353,
+    "geom:longitude":-111.909315,
+    "iso:country":"US",
+    "sg:address":"659 Sandy Pkwy",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 568 9184",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "upholstered",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85818097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uIfyUV9Q8XJbusTAwxMze_40.598353_-111.909315@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125226,
+    "wof:geomhash":"19db7975c4623ea776fa97fb1df84917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85818097,
+            "region_id":85688567,
+            "venue_id":857249205
+        }
+    ],
+    "wof:id":857249205,
+    "wof:lastmodified":1464125226,
+    "wof:name":"Douglas Duncan Design Services",
+    "wof:parent_id":85818097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholstered",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.909315,
+    40.598353,
+    -111.909315,
+    40.598353
+],
+  "geometry": {"coordinates":[-111.90931500000001,40.598353],"type":"Point"}
+}

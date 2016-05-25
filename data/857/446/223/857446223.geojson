@@ -1,0 +1,77 @@
+{
+  "id": 857446223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.704295,40.318029,-111.704295,40.318029",
+    "geom:latitude":40.318029,
+    "geom:longitude":-111.704295,
+    "iso:country":"US",
+    "sg:address":"1169 N State St",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 802 7660",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68PQgCZkJjSYmpEVlUrMHU_40.318029_-111.704295@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129686,
+    "wof:geomhash":"a7bcbd0b7e6a31135fd6739f987d4123",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":857446223
+        }
+    ],
+    "wof:id":857446223,
+    "wof:lastmodified":1464129686,
+    "wof:name":"Automotive Services of Orem",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -111.704295,
+    40.318029,
+    -111.704295,
+    40.318029
+],
+  "geometry": {"coordinates":[-111.704295,40.318029],"type":"Point"}
+}

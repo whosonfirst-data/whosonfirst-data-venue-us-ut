@@ -1,0 +1,74 @@
+{
+  "id": 857433895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.851276,41.728038,-111.851276,41.728038",
+    "geom:latitude":41.728038,
+    "geom:longitude":-111.851276,
+    "iso:country":"US",
+    "sg:address":"195 S 700 W",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 1901",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "medicinal",
+        "prod"
+    ],
+    "sg:website":"www.frontiersci.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Z1xFyFQJVTalOvO2tNZNr_41.728038_-111.851276@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129445,
+    "wof:geomhash":"b34b968b34a905c06d8661b07c1629d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857433895
+        }
+    ],
+    "wof:id":857433895,
+    "wof:lastmodified":1464129445,
+    "wof:name":"Frontier Scientific Inc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicinal",
+        "prod"
+    ]
+},
+  "bbox": [
+    -111.851276,
+    41.728038,
+    -111.851276,
+    41.728038
+],
+  "geometry": {"coordinates":[-111.851276,41.728038],"type":"Point"}
+}

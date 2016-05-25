@@ -1,0 +1,71 @@
+{
+  "id": 857255069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.010868,41.060087,-112.010868,41.060087",
+    "geom:latitude":41.060087,
+    "geom:longitude":-112.010868,
+    "iso:country":"US",
+    "sg:address":"2463 W Gentile St",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 544 3825",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85868169,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64mNDdeIcGjbTZ107NBMa0_41.060087_-112.010868@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125378,
+    "wof:geomhash":"abac299439609840f8666e56449c09d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "neighbourhood_id":85868169,
+            "region_id":85688567,
+            "venue_id":857255069
+        }
+    ],
+    "wof:id":857255069,
+    "wof:lastmodified":1464125378,
+    "wof:name":"Dibble Farms Inc",
+    "wof:parent_id":85868169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -112.010868,
+    41.060087,
+    -112.010868,
+    41.060087
+],
+  "geometry": {"coordinates":[-112.010868,41.060087],"type":"Point"}
+}

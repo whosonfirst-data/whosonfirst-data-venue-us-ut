@@ -1,0 +1,83 @@
+{
+  "id": 857278387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.856496,40.769605,-111.856496,40.769605",
+    "geom:latitude":40.769605,
+    "geom:longitude":-111.856496,
+    "iso:country":"US",
+    "sg:address":"40 S St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 468 0555",
+    "sg:postcode":"84103",
+    "sg:province":"UT",
+    "sg:tags":[
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85853739,
+        85871029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zgPG6q3C0uSOhWefyquQO_40.769605_-111.856496@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125877,
+    "wof:geomhash":"19706621f674d6d49b2c35603becd0b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85853739,
+            "region_id":85688567,
+            "venue_id":857278387
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871029,
+            "region_id":85688567,
+            "venue_id":857278387
+        }
+    ],
+    "wof:id":857278387,
+    "wof:lastmodified":1464125877,
+    "wof:name":"A B C Printing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial"
+    ]
+},
+  "bbox": [
+    -111.856496,
+    40.769605,
+    -111.856496,
+    40.769605
+],
+  "geometry": {"coordinates":[-111.85649600000001,40.769605],"type":"Point"}
+}

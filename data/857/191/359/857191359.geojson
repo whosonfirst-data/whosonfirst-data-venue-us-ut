@@ -1,0 +1,78 @@
+{
+  "id": 857191359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.009244,41.107629,-112.009244,41.107629",
+    "geom:latitude":41.107629,
+    "geom:longitude":-112.009244,
+    "iso:country":"US",
+    "sg:address":"894 S Birch St",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 773 9118",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "scooter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85851583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cPqxDyrnohF29B1AHVoAd_41.107629_-112.009244@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124013,
+    "wof:geomhash":"95fc46120c885358972a677ea0218b1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85851583,
+            "region_id":85688567,
+            "venue_id":857191359
+        }
+    ],
+    "wof:id":857191359,
+    "wof:lastmodified":1464124013,
+    "wof:name":"Zee's Cycle & Racing Inc",
+    "wof:parent_id":85851583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter"
+    ]
+},
+  "bbox": [
+    -112.009244,
+    41.107629,
+    -112.009244,
+    41.107629
+],
+  "geometry": {"coordinates":[-112.009244,41.107629],"type":"Point"}
+}

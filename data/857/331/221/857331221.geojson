@@ -1,0 +1,68 @@
+{
+  "id": 857331221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.885273,40.705696,-111.885273,40.705696",
+    "geom:latitude":40.705696,
+    "geom:longitude":-111.885273,
+    "iso:country":"US",
+    "sg:address":"296 E Gregson Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Labor Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 463 0014",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85854999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JRt3kDdpPu5uJUYUROgcU_40.705696_-111.885273@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127082,
+    "wof:geomhash":"2dd641df971796b58181a305858234c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85854999,
+            "region_id":85688567,
+            "venue_id":857331221
+        }
+    ],
+    "wof:id":857331221,
+    "wof:lastmodified":1464127082,
+    "wof:name":"Aguilera Homestead Lc",
+    "wof:parent_id":85854999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.885273,
+    40.705696,
+    -111.885273,
+    40.705696
+],
+  "geometry": {"coordinates":[-111.885273,40.705696],"type":"Point"}
+}

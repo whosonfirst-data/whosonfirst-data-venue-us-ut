@@ -1,0 +1,66 @@
+{
+  "id": 857340105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.835299,41.722366,-111.835299,41.722366",
+    "geom:latitude":41.722366,
+    "geom:longitude":-111.835299,
+    "iso:country":"US",
+    "sg:address":"489 S Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 9824",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aE6aG0IF3ghUekjxrenTQ_41.722366_-111.835299@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127280,
+    "wof:geomhash":"16c9b4a4face2864e18edd4db88386fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857340105
+        }
+    ],
+    "wof:id":857340105,
+    "wof:lastmodified":1464127280,
+    "wof:name":"Wash Tub",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.835299,
+    41.722366,
+    -111.835299,
+    41.722366
+],
+  "geometry": {"coordinates":[-111.83529900000001,41.722366],"type":"Point"}
+}

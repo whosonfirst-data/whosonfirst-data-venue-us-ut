@@ -1,0 +1,68 @@
+{
+  "id": 857428603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.676875,40.253751,-111.676875,40.253751",
+    "geom:latitude":40.253751,
+    "geom:longitude":-111.676875,
+    "iso:country":"US",
+    "sg:address":"1669 Jordan Ave",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 8141",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GNX0ThBPF7LvEEn21xqa7_40.253751_-111.676875@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129307,
+    "wof:geomhash":"32149b6a60b47f044025c7187f306c31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880063,
+            "region_id":85688567,
+            "venue_id":857428603
+        }
+    ],
+    "wof:id":857428603,
+    "wof:lastmodified":1464129307,
+    "wof:name":"Snyder Properties",
+    "wof:parent_id":85880063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.676875,
+    40.253751,
+    -111.676875,
+    40.253751
+],
+  "geometry": {"coordinates":[-111.676875,40.253751],"type":"Point"}
+}

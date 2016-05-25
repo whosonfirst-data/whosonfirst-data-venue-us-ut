@@ -1,0 +1,71 @@
+{
+  "id": 857378649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.817316,41.729527,-111.817316,41.729527",
+    "geom:latitude":41.729527,
+    "geom:longitude":-111.817316,
+    "iso:country":"US",
+    "sg:address":"70 River Circle Dr",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 4241",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64oQ7baT5NbeUW6c8WdIfT_41.729527_-111.817316@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128088,
+    "wof:geomhash":"5091ec976cf1e9de70f65bf4273c9d2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857378649
+        }
+    ],
+    "wof:id":857378649,
+    "wof:lastmodified":1464128088,
+    "wof:name":"Becky's Cleaning Svc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -111.817316,
+    41.729527,
+    -111.817316,
+    41.729527
+],
+  "geometry": {"coordinates":[-111.81731600000001,41.729527],"type":"Point"}
+}

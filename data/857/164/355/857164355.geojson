@@ -1,0 +1,75 @@
+{
+  "id": 857164355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.645167,40.28434,-111.645167,40.28434",
+    "geom:latitude":40.28434,
+    "geom:longitude":-111.645167,
+    "iso:country":"US",
+    "sg:address":"746 E 3800 N",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 226 0993",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85817395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TQMS2eSDyNooDmLc2LvxS_40.284340_-111.645167@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123452,
+    "wof:geomhash":"b9ccc967a79a1138e26eb4a50669f248",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85817395,
+            "region_id":85688567,
+            "venue_id":857164355
+        }
+    ],
+    "wof:id":857164355,
+    "wof:lastmodified":1464123452,
+    "wof:name":"Lansoft Inc",
+    "wof:parent_id":85817395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -111.645167,
+    40.28434,
+    -111.645167,
+    40.28434
+],
+  "geometry": {"coordinates":[-111.645167,40.28434],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857175441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.648131,40.293529,-111.648131,40.293529",
+    "geom:latitude":40.293529,
+    "geom:longitude":-111.648131,
+    "iso:country":"US",
+    "sg:address":"350 E 4525 N",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 376 0794",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69jO91panB1L7KBMutiwwo_40.293529_-111.648131@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123701,
+    "wof:geomhash":"b39c77bbcafcb11991e4b5c8a3d314b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880091,
+            "region_id":85688567,
+            "venue_id":857175441
+        }
+    ],
+    "wof:id":857175441,
+    "wof:lastmodified":1464123701,
+    "wof:name":"Summit Dental Lab",
+    "wof:parent_id":85880091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -111.648131,
+    40.293529,
+    -111.648131,
+    40.293529
+],
+  "geometry": {"coordinates":[-111.64813100000001,40.293529],"type":"Point"}
+}

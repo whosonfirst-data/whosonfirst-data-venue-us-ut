@@ -1,0 +1,75 @@
+{
+  "id": 857449237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.855389,40.760795,-111.855389,40.760795",
+    "geom:latitude":40.760795,
+    "geom:longitude":-111.855389,
+    "iso:country":"US",
+    "sg:address":"306 Douglas St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 582 8228",
+    "sg:postcode":"84102",
+    "sg:province":"UT",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85853739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IybFj1mR1h3KX3LNzB2mB_40.760795_-111.855389@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129741,
+    "wof:geomhash":"ea39f1ec9822dd67bc40df45acaff26f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85853739,
+            "region_id":85688567,
+            "venue_id":857449237
+        }
+    ],
+    "wof:id":857449237,
+    "wof:lastmodified":1464129741,
+    "wof:name":"Health Care Software",
+    "wof:parent_id":85853739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -111.855389,
+    40.760795,
+    -111.855389,
+    40.760795
+],
+  "geometry": {"coordinates":[-111.855389,40.760795],"type":"Point"}
+}

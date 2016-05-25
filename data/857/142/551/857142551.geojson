@@ -1,0 +1,73 @@
+{
+  "id": 857142551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.682997,40.270135,-111.682997,40.270135",
+    "geom:latitude":40.270135,
+    "geom:longitude":-111.682997,
+    "iso:country":"US",
+    "sg:address":"1425 S State St",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 852 2828",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85880081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hG00KKHtXvKfRKc4YzeSx_40.270135_-111.682997@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122952,
+    "wof:geomhash":"5c80a365e5a0eb73bcce4775b2a9d12d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85880081,
+            "region_id":85688567,
+            "venue_id":857142551
+        }
+    ],
+    "wof:id":857142551,
+    "wof:lastmodified":1464122952,
+    "wof:name":"Robert J De Bry & Assoc",
+    "wof:parent_id":85880081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -111.682997,
+    40.270135,
+    -111.682997,
+    40.270135
+],
+  "geometry": {"coordinates":[-111.682997,40.270135],"type":"Point"}
+}

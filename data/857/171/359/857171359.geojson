@@ -1,0 +1,73 @@
+{
+  "id": 857171359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.805626,41.741804,-111.805626,41.741804",
+    "geom:latitude":41.741804,
+    "geom:longitude":-111.805626,
+    "iso:country":"US",
+    "sg:address":"944 E Hwy 89",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 1288",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zgShhSodZZOMJWKEVJ9dI_41.741804_-111.805626@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123613,
+    "wof:geomhash":"503a161c475e907a975185418cc1e61b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857171359
+        }
+    ],
+    "wof:id":857171359,
+    "wof:lastmodified":1464123613,
+    "wof:name":"Heritage Brookside Home Care",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -111.805626,
+    41.741804,
+    -111.805626,
+    41.741804
+],
+  "geometry": {"coordinates":[-111.805626,41.741804],"type":"Point"}
+}

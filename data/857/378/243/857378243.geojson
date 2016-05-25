@@ -1,0 +1,73 @@
+{
+  "id": 857378243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.984125,41.083813,-111.984125,41.083813",
+    "geom:latitude":41.083813,
+    "geom:longitude":-111.984125,
+    "iso:country":"US",
+    "sg:address":"1936 Woodland Park Dr",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 546 4828",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Vqo6nufHVgMnDk7rLzHqj_41.083813_-111.984125@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128080,
+    "wof:geomhash":"23f22e46207c07478816708cbf9367c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857378243
+        }
+    ],
+    "wof:id":857378243,
+    "wof:lastmodified":1464128080,
+    "wof:name":"Village Hearth",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.984125,
+    41.083813,
+    -111.984125,
+    41.083813
+],
+  "geometry": {"coordinates":[-111.98412500000001,41.083813],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857389659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.675522,40.233851,-111.675522,40.233851",
+    "geom:latitude":40.233851,
+    "geom:longitude":-111.675522,
+    "iso:country":"US",
+    "sg:address":"910 W Center St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 375 5167",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WLUJdYS8kS7imncJlMvbo_40.233851_-111.675522@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128424,
+    "wof:geomhash":"a085f87fb56f03b8a3d28a68b9d42ec2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880067,
+            "region_id":85688567,
+            "venue_id":857389659
+        }
+    ],
+    "wof:id":857389659,
+    "wof:lastmodified":1464128424,
+    "wof:name":"Steve's 9th West Crest",
+    "wof:parent_id":85880067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.675522,
+    40.233851,
+    -111.675522,
+    40.233851
+],
+  "geometry": {"coordinates":[-111.675522,40.233851],"type":"Point"}
+}

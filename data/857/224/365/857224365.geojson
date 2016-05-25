@@ -1,0 +1,75 @@
+{
+  "id": 857224365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.890704,40.554455,-111.890704,40.554455",
+    "geom:latitude":40.554455,
+    "geom:longitude":-111.890704,
+    "iso:country":"US",
+    "sg:address":"10875 S State St",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 816 1900",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "equipment",
+        "exercise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85850585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wtowC7FyMckctH6fTbX4S_40.554455_-111.890704@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124698,
+    "wof:geomhash":"7f8b72cc937a1f46374368a0089c2ded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85850585,
+            "region_id":85688567,
+            "venue_id":857224365
+        }
+    ],
+    "wof:id":857224365,
+    "wof:lastmodified":1464124698,
+    "wof:name":"Utah Home Fitness",
+    "wof:parent_id":85850585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "exercise"
+    ]
+},
+  "bbox": [
+    -111.890704,
+    40.554455,
+    -111.890704,
+    40.554455
+],
+  "geometry": {"coordinates":[-111.890704,40.554455],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857398967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.876855,40.762616,-111.876855,40.762616",
+    "geom:latitude":40.762616,
+    "geom:longitude":-111.876855,
+    "iso:country":"US",
+    "sg:address":"326 S 500 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 355 2300",
+    "sg:postcode":"84102",
+    "sg:province":"UT",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SHXbmIOmk4Bs9mAAJGVZw_40.762616_-111.876855@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128604,
+    "wof:geomhash":"b92f56731a2a7f0afca90e5ff6a35577",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871021,
+            "region_id":85688567,
+            "venue_id":857398967
+        }
+    ],
+    "wof:id":857398967,
+    "wof:lastmodified":1464128604,
+    "wof:name":"Travel Desk Inc",
+    "wof:parent_id":85871021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -111.876855,
+    40.762616,
+    -111.876855,
+    40.762616
+],
+  "geometry": {"coordinates":[-111.87685500000001,40.762616],"type":"Point"}
+}

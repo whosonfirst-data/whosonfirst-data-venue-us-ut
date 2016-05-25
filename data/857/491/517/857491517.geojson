@@ -1,0 +1,72 @@
+{
+  "id": 857491517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.801407,40.366347,-111.801407,40.366347",
+    "geom:latitude":40.366347,
+    "geom:longitude":-111.801407,
+    "iso:country":"US",
+    "sg:address":"737 N 100 E",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/lehi/34027-pier-49-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 763 1777",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71eyVOiJoOmpQFHCQxp58l_40.366347_-111.801407@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130636,
+    "wof:geomhash":"66c2817c43f5990f2d8a4af776f426ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857491517
+        }
+    ],
+    "wof:id":857491517,
+    "wof:lastmodified":1464130636,
+    "wof:name":"Pier 49 Pizza",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -111.801407,
+    40.366347,
+    -111.801407,
+    40.366347
+],
+  "geometry": {"coordinates":[-111.801407,40.366347],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857242157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.957413,40.782697,-111.957413,40.782697",
+    "geom:latitude":40.782697,
+    "geom:longitude":-111.957413,
+    "iso:country":"US",
+    "sg:address":"649 N 2360 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 364 6616",
+    "sg:postcode":"84116",
+    "sg:province":"UT",
+    "sg:tags":[
+        "air",
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85856293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26lNEEaz4M2TwdHeKZiuyE_40.782697_-111.957413@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125062,
+    "wof:geomhash":"a11e4b5736178cb94baef0b2fdbfa374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85856293,
+            "region_id":85688567,
+            "venue_id":857242157
+        }
+    ],
+    "wof:id":857242157,
+    "wof:lastmodified":1464125062,
+    "wof:name":"Air Methods Corp",
+    "wof:parent_id":85856293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -111.957413,
+    40.782697,
+    -111.957413,
+    40.782697
+],
+  "geometry": {"coordinates":[-111.957413,40.782697],"type":"Point"}
+}

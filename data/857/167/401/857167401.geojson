@@ -1,0 +1,71 @@
+{
+  "id": 857167401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.665867,40.308739,-111.665867,40.308739",
+    "geom:latitude":40.308739,
+    "geom:longitude":-111.665867,
+    "iso:country":"US",
+    "sg:address":"1265 E 620 N",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 226 5346",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "merchandise",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JPJs63hdu3Esvfhzu2XfL_40.308739_-111.665867@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123519,
+    "wof:geomhash":"ac288739c3a0beef9a9fb2262aed2a47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857167401
+        }
+    ],
+    "wof:id":857167401,
+    "wof:lastmodified":1464123519,
+    "wof:name":"Rocky Mountain Way",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise",
+        "general"
+    ]
+},
+  "bbox": [
+    -111.665867,
+    40.308739,
+    -111.665867,
+    40.308739
+],
+  "geometry": {"coordinates":[-111.66586700000001,40.308739],"type":"Point"}
+}

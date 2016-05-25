@@ -1,0 +1,73 @@
+{
+  "id": 857193517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.826226,41.710123,-111.826226,41.710123",
+    "geom:latitude":41.710123,
+    "geom:longitude":-111.826226,
+    "iso:country":"US",
+    "sg:address":"345 W 100 N",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 9374",
+    "sg:postcode":"84332",
+    "sg:province":"UT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23iO7feHFz5dwWqOquEItQ_41.710123_-111.826226@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124051,
+    "wof:geomhash":"623afacb86493799d498e3a13e117b77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857193517
+        }
+    ],
+    "wof:id":857193517,
+    "wof:lastmodified":1464124051,
+    "wof:name":"Knight Storage",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -111.826226,
+    41.710123,
+    -111.826226,
+    41.710123
+],
+  "geometry": {"coordinates":[-111.82622600000001,41.710123],"type":"Point"}
+}

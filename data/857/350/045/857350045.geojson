@@ -1,0 +1,73 @@
+{
+  "id": 857350045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.668665,40.042863,-111.668665,40.042863",
+    "geom:latitude":40.042863,
+    "geom:longitude":-111.668665,
+    "iso:country":"US",
+    "sg:address":"795 S 240 E",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 423 1696",
+    "sg:postcode":"84653",
+    "sg:province":"UT",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uubDOeTDhqs38I9Fjzmdk_40.042863_-111.668665@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127486,
+    "wof:geomhash":"910c495f811b605552607f0b5db3c85b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857350045
+        }
+    ],
+    "wof:id":857350045,
+    "wof:lastmodified":1464127486,
+    "wof:name":"SCO Inc",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -111.668665,
+    40.042863,
+    -111.668665,
+    40.042863
+],
+  "geometry": {"coordinates":[-111.668665,40.042863],"type":"Point"}
+}

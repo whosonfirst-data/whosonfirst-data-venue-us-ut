@@ -1,0 +1,75 @@
+{
+  "id": 857333355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.845355,40.725967,-111.845355,40.725967",
+    "geom:latitude":40.725967,
+    "geom:longitude":-111.845355,
+    "iso:country":"US",
+    "sg:address":"1511 E 2100 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 433 0125",
+    "sg:postcode":"84105",
+    "sg:province":"UT",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85857009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ykvPHqUV4jmoQ9wl02nQr_40.725967_-111.845355@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127131,
+    "wof:geomhash":"cfa1a0fdf7664b9ded97a87d58b037c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85857009,
+            "region_id":85688567,
+            "venue_id":857333355
+        }
+    ],
+    "wof:id":857333355,
+    "wof:lastmodified":1464127131,
+    "wof:name":"Spring Communications",
+    "wof:parent_id":85857009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -111.845355,
+    40.725967,
+    -111.845355,
+    40.725967
+],
+  "geometry": {"coordinates":[-111.845355,40.725967],"type":"Point"}
+}

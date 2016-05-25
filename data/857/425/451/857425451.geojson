@@ -1,0 +1,69 @@
+{
+  "id": 857425451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.954727,41.311735,-111.954727,41.311735",
+    "geom:latitude":41.311735,
+    "geom:longitude":-111.954727,
+    "iso:country":"US",
+    "sg:address":"823 E 2850 N",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 782 5758",
+    "sg:postcode":"84414",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85824645,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TN3Bo7a01KYOUX2JnfRZ9_41.311735_-111.954727@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129237,
+    "wof:geomhash":"70be723da030f3f15b01b62a4a4ec09c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85824645,
+            "region_id":85688567,
+            "venue_id":857425451
+        }
+    ],
+    "wof:id":857425451,
+    "wof:lastmodified":1464129237,
+    "wof:name":"Koldewyn Plumbing & Heating",
+    "wof:parent_id":85824645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.954727,
+    41.311735,
+    -111.954727,
+    41.311735
+],
+  "geometry": {"coordinates":[-111.95472700000001,41.311735],"type":"Point"}
+}

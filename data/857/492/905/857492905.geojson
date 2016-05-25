@@ -1,0 +1,74 @@
+{
+  "id": 857492905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.90411,40.765636,-111.90411,40.765636",
+    "geom:latitude":40.765636,
+    "geom:longitude":-111.90411,
+    "iso:country":"US",
+    "sg:address":"169 S Rio Grande St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/35229-costa-vida/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 456 8646",
+    "sg:postcode":"84101",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85852649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xQPlyleh27Wl5FvPYbEPe_40.765636_-111.904110@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130696,
+    "wof:geomhash":"8bc237c54ac0b7ca01c14851d1e60797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85852649,
+            "region_id":85688567,
+            "venue_id":857492905
+        }
+    ],
+    "wof:id":857492905,
+    "wof:lastmodified":1464130696,
+    "wof:name":"Costa Vida",
+    "wof:parent_id":85852649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -111.90411,
+    40.765636,
+    -111.90411,
+    40.765636
+],
+  "geometry": {"coordinates":[-111.90411,40.765636],"type":"Point"}
+}

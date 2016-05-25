@@ -1,0 +1,75 @@
+{
+  "id": 857363205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.972617,41.212384,-111.972617,41.212384",
+    "geom:latitude":41.212384,
+    "geom:longitude":-111.972617,
+    "iso:country":"US",
+    "sg:address":"320 29th St",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 544 4711",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85810249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0R5mic4nnMAGC0C1k85Bjh_41.212384_-111.972617@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127765,
+    "wof:geomhash":"e554ec9238562443e8ef963abed241cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85810249,
+            "region_id":85688567,
+            "venue_id":857363205
+        }
+    ],
+    "wof:id":857363205,
+    "wof:lastmodified":1464127765,
+    "wof:name":"Stow-Away Storage",
+    "wof:parent_id":85810249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -111.972617,
+    41.212384,
+    -111.972617,
+    41.212384
+],
+  "geometry": {"coordinates":[-111.972617,41.212384],"type":"Point"}
+}

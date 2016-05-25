@@ -1,0 +1,73 @@
+{
+  "id": 857411841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.047154,41.166185,-112.047154,41.166185",
+    "geom:latitude":41.166185,
+    "geom:longitude":-112.047154,
+    "iso:country":"US",
+    "sg:address":"5341 S 2775 W",
+    "sg:city":"Roy",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 774 8136",
+    "sg:postcode":"84067",
+    "sg:province":"UT",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728023,
+        102083539,
+        85853469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4w5bADuKIsFR4CWjE4lWSy_41.166185_-112.047154@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128895,
+    "wof:geomhash":"27894e7fdcbe010eec290323037677fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728023,
+            "neighbourhood_id":85853469,
+            "region_id":85688567,
+            "venue_id":857411841
+        }
+    ],
+    "wof:id":857411841,
+    "wof:lastmodified":1464128895,
+    "wof:name":"TS Travel",
+    "wof:parent_id":85853469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -112.047154,
+    41.166185,
+    -112.047154,
+    41.166185
+],
+  "geometry": {"coordinates":[-112.04715400000001,41.166185],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857184801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.849103,40.56926,-111.849103,40.56926",
+    "geom:latitude":40.56926,
+    "geom:longitude":-111.849103,
+    "iso:country":"US",
+    "sg:address":"1477 Budding Cir",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 576 1550",
+    "sg:postcode":"84092",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85846597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25yHRr0AwMIOC33tb0VurY_40.569260_-111.849103@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123894,
+    "wof:geomhash":"0fdaeca06962d238f673d8f578096807",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85846597,
+            "region_id":85688567,
+            "venue_id":857184801
+        }
+    ],
+    "wof:id":857184801,
+    "wof:lastmodified":1464123894,
+    "wof:name":"Quest Leasing LLC",
+    "wof:parent_id":85846597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.849103,
+    40.56926,
+    -111.849103,
+    40.56926
+],
+  "geometry": {"coordinates":[-111.849103,40.56926],"type":"Point"}
+}

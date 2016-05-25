@@ -1,0 +1,73 @@
+{
+  "id": 857460187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.98645,41.065585,-111.98645,41.065585",
+    "geom:latitude":41.065585,
+    "geom:longitude":-111.98645,
+    "iso:country":"US",
+    "sg:address":"500 Sugar St",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 552 3600",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41xDzE8abWm8nfzkqfGiqy_41.065585_-111.986450@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129952,
+    "wof:geomhash":"f3b4c225cdfa501aa706ce9956ecd437",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857460187
+        }
+    ],
+    "wof:id":857460187,
+    "wof:lastmodified":1464129952,
+    "wof:name":"Smith's Management",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -111.98645,
+    41.065585,
+    -111.98645,
+    41.065585
+],
+  "geometry": {"coordinates":[-111.98645,41.065585],"type":"Point"}
+}

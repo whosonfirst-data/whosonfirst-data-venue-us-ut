@@ -1,0 +1,73 @@
+{
+  "id": 857105243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.83655,41.727833,-111.83655,41.727833",
+    "geom:latitude":41.727833,
+    "geom:longitude":-111.83655,
+    "iso:country":"US",
+    "sg:address":"51 W 200 S",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 5222",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "wedding",
+        "chapel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bkfeUWGM9bJibN80zoigI_41.727833_-111.836550@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122030,
+    "wof:geomhash":"1dc3731bbd3685f4cbaa1cfae0e026e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857105243
+        }
+    ],
+    "wof:id":857105243,
+    "wof:lastmodified":1464122030,
+    "wof:name":"Cottage Restaurant",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wedding",
+        "chapel"
+    ]
+},
+  "bbox": [
+    -111.83655,
+    41.727833,
+    -111.83655,
+    41.727833
+],
+  "geometry": {"coordinates":[-111.83655,41.727833],"type":"Point"}
+}

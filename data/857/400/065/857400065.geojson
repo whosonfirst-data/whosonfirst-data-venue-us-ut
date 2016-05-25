@@ -1,0 +1,78 @@
+{
+  "id": 857400065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.905713,40.670919,-111.905713,40.670919",
+    "geom:latitude":40.670919,
+    "geom:longitude":-111.905713,
+    "iso:country":"US",
+    "sg:address":"4646 Riverside Dr",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 270 2446",
+    "sg:postcode":"84123",
+    "sg:province":"UT",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "sg:website":"www.murray.utah.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85851609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uEqHJTW9htiEAMG1ncMMj_40.670919_-111.905713@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128624,
+    "wof:geomhash":"cc5d565fe6be84b9d4d47c0f304626f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85851609,
+            "region_id":85688567,
+            "venue_id":857400065
+        }
+    ],
+    "wof:id":857400065,
+    "wof:lastmodified":1464128624,
+    "wof:name":"Murray Street Dept",
+    "wof:parent_id":85851609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -111.905713,
+    40.670919,
+    -111.905713,
+    40.670919
+],
+  "geometry": {"coordinates":[-111.90571300000001,40.670919],"type":"Point"}
+}

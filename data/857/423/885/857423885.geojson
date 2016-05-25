@@ -1,0 +1,92 @@
+{
+  "id": 857423885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.835352,41.718369,-111.835352,41.718369",
+    "geom:latitude":41.718369,
+    "geom:longitude":-111.835352,
+    "iso:country":"US",
+    "sg:address":"805 S Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 3657",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "gasoline",
+        "convenience",
+        "general",
+        "filling",
+        "station",
+        "dealer",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YPEE4Zde6MRL9nyYBw7ek_41.718369_-111.835352@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129191,
+    "wof:geomhash":"2d885cc6a7c8307eb28af02ad4c2da24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857423885
+        }
+    ],
+    "wof:id":857423885,
+    "wof:lastmodified":1464129191,
+    "wof:name":"Barker's White Pine Gallery",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "gallery",
+        "gasoline",
+        "convenience",
+        "general",
+        "filling",
+        "station",
+        "dealer",
+        "store"
+    ]
+},
+  "bbox": [
+    -111.835352,
+    41.718369,
+    -111.835352,
+    41.718369
+],
+  "geometry": {"coordinates":[-111.835352,41.718369],"type":"Point"}
+}

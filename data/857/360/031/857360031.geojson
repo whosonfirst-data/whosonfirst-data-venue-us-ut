@@ -1,0 +1,74 @@
+{
+  "id": 857360031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.885554,40.779087,-111.885554,40.779087",
+    "geom:latitude":40.779087,
+    "geom:longitude":-111.885554,
+    "iso:country":"US",
+    "sg:address":"330 E Capitol Blvd",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 538 1031",
+    "sg:postcode":"84103",
+    "sg:province":"UT",
+    "sg:tags":[
+        "state"
+    ],
+    "sg:website":"www.justice.utah.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85809299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25MVSAB7vXPyNQEpcWyrGq_40.779087_-111.885554@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127697,
+    "wof:geomhash":"5aa222eff9cc6ef83ac316c9488056bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85809299,
+            "region_id":85688567,
+            "venue_id":857360031
+        }
+    ],
+    "wof:id":857360031,
+    "wof:lastmodified":1464127697,
+    "wof:name":"Criminal & Juvenile Justice",
+    "wof:parent_id":85809299,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -111.885554,
+    40.779087,
+    -111.885554,
+    40.779087
+],
+  "geometry": {"coordinates":[-111.885554,40.779087],"type":"Point"}
+}

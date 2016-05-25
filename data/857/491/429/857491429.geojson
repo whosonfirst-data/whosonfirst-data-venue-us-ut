@@ -1,0 +1,80 @@
+{
+  "id": 857491429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.658722,40.227897,-111.658722,40.227897",
+    "geom:latitude":40.227897,
+    "geom:longitude":-111.658722,
+    "iso:country":"US",
+    "sg:address":"435 S University Ave",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 7270",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "covering",
+        "paint",
+        "improvement",
+        "floor"
+    ],
+    "sg:website":"www.sherwin.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hY0zY7V2XXKgqveGvVcVq_40.227501_-111.658631@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464130631,
+    "wof:geomhash":"01645ebc2b63f166c2a064729f5b533f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880065,
+            "region_id":85688567,
+            "venue_id":857491429
+        }
+    ],
+    "wof:id":857491429,
+    "wof:lastmodified":1464130631,
+    "wof:name":"Sherwin-Williams",
+    "wof:parent_id":85880065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "covering",
+        "paint",
+        "improvement",
+        "floor"
+    ]
+},
+  "bbox": [
+    -111.658722,
+    40.227897,
+    -111.658722,
+    40.227897
+],
+  "geometry": {"coordinates":[-111.658722,40.227897],"type":"Point"}
+}

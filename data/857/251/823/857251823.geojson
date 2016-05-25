@@ -1,0 +1,71 @@
+{
+  "id": 857251823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.817127,40.699859,-111.817127,40.699859",
+    "geom:latitude":40.699859,
+    "geom:longitude":-111.817127,
+    "iso:country":"US",
+    "sg:address":"3365 S Oakwood St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 274 1220",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728257,
+        102082877,
+        85854869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53Xgn2KrEpIgr8hvc0esJp_40.699859_-111.817127@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125288,
+    "wof:geomhash":"081c8044b79a78d145ad60fc3ea57805",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85854869,
+            "region_id":85688567,
+            "venue_id":857251823
+        }
+    ],
+    "wof:id":857251823,
+    "wof:lastmodified":1464125288,
+    "wof:name":"Hawthorne Brown",
+    "wof:parent_id":85854869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -111.817127,
+    40.699859,
+    -111.817127,
+    40.699859
+],
+  "geometry": {"coordinates":[-111.817127,40.699859],"type":"Point"}
+}

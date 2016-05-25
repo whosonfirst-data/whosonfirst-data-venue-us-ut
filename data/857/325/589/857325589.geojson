@@ -1,0 +1,75 @@
+{
+  "id": 857325589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.641661,40.120163,-111.641661,40.120163",
+    "geom:latitude":40.120163,
+    "geom:longitude":-111.641661,
+    "iso:country":"US",
+    "sg:address":"765 E 800 N",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 794 3111",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop",
+        "equipment",
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31mO1FOxu4cgVsOcZdu2cW_40.120163_-111.641661@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126962,
+    "wof:geomhash":"a10fbcfabf6ce9e4fccf4d428e2402bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857325589
+        }
+    ],
+    "wof:id":857325589,
+    "wof:lastmodified":1464126962,
+    "wof:name":"Outer Beauty",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "equipment",
+        "establishment"
+    ]
+},
+  "bbox": [
+    -111.641661,
+    40.120163,
+    -111.641661,
+    40.120163
+],
+  "geometry": {"coordinates":[-111.641661,40.120163],"type":"Point"}
+}

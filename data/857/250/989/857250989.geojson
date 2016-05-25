@@ -1,0 +1,69 @@
+{
+  "id": 857250989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.790584,40.381015,-111.790584,40.381015",
+    "geom:latitude":40.381015,
+    "geom:longitude":-111.790584,
+    "iso:country":"US",
+    "sg:address":"270 E 200 N",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 763 3065",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78UQaOeb8wIwdz4njRaQUU_40.381015_-111.790584@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125270,
+    "wof:geomhash":"8d0d22f19b901927a3b5c67c14902ba8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857250989
+        }
+    ],
+    "wof:id":857250989,
+    "wof:lastmodified":1464125270,
+    "wof:name":"American Fork Bldg Inspection",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -111.790584,
+    40.381015,
+    -111.790584,
+    40.381015
+],
+  "geometry": {"coordinates":[-111.790584,40.381015],"type":"Point"}
+}

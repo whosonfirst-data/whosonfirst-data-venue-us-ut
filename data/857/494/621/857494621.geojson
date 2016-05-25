@@ -1,0 +1,83 @@
+{
+  "id": 857494621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.020386,41.10806,-112.020386,41.10806",
+    "geom:latitude":41.10806,
+    "geom:longitude":-112.020386,
+    "iso:country":"US",
+    "sg:address":"435 S State St",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/north-davis/242770-baskin-robbins/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 825 3131",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85851583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aAFgfw7GKld3eyuu1B4XJ_41.107937_-112.019950@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130754,
+    "wof:geomhash":"2685f5c5feac7476d739456170c63b7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85851583,
+            "region_id":85688567,
+            "venue_id":857494621
+        }
+    ],
+    "wof:id":857494621,
+    "wof:lastmodified":1464130754,
+    "wof:name":"Baskin-Robbins",
+    "wof:parent_id":85851583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -112.020386,
+    41.10806,
+    -112.020386,
+    41.10806
+],
+  "geometry": {"coordinates":[-112.020386,41.10806],"type":"Point"}
+}

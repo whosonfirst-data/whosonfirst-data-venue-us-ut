@@ -1,0 +1,75 @@
+{
+  "id": 857085977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.839952,40.777503,-111.839952,40.777503",
+    "geom:latitude":40.777503,
+    "geom:longitude":-111.839952,
+    "iso:country":"US",
+    "sg:address":"1600 Federal Pointe Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 596 7085",
+    "sg:postcode":"84103",
+    "sg:province":"UT",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85819067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GIkEa9N1oGznsfx7je2Bx_40.777503_-111.839952@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121562,
+    "wof:geomhash":"ffc103f7f6ee64d6b25abf30ca7d1430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85819067,
+            "region_id":85688567,
+            "venue_id":857085977
+        }
+    ],
+    "wof:id":857085977,
+    "wof:lastmodified":1464121562,
+    "wof:name":"Federal Pointe Home HOA",
+    "wof:parent_id":85819067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -111.839952,
+    40.777503,
+    -111.839952,
+    40.777503
+],
+  "geometry": {"coordinates":[-111.839952,40.777503],"type":"Point"}
+}

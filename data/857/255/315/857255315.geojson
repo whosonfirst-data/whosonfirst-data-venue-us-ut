@@ -1,0 +1,73 @@
+{
+  "id": 857255315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.584819,40.144166,-111.584819,40.144166",
+    "geom:latitude":40.144166,
+    "geom:longitude":-111.584819,
+    "iso:country":"US",
+    "sg:address":"1492 N 520 W",
+    "sg:city":"Mapleton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 489 1202",
+    "sg:postcode":"84664",
+    "sg:province":"UT",
+    "sg:tags":[
+        "metalworking",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6j9gHcas3fiVokpkomcPPs_40.144166_-111.584819@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125382,
+    "wof:geomhash":"b92c0253e7d4c27577b3cc5ebfd4b0af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857255315
+        }
+    ],
+    "wof:id":857255315,
+    "wof:lastmodified":1464125382,
+    "wof:name":"Rs Metalworks Inc",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "metalworking",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.584819,
+    40.144166,
+    -111.584819,
+    40.144166
+],
+  "geometry": {"coordinates":[-111.584819,40.144166],"type":"Point"}
+}

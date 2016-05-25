@@ -1,0 +1,68 @@
+{
+  "id": 857477387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.916737,40.742071,-111.916737,40.742071",
+    "geom:latitude":40.742071,
+    "geom:longitude":-111.916737,
+    "iso:country":"US",
+    "sg:address":"1245 S 900 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 975 1334",
+    "sg:postcode":"84104",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85833353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7F2m21XSDij8C0nSaHDqsQ_40.742071_-111.916737@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130322,
+    "wof:geomhash":"05b4052521f817d944b68e35050e016e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85833353,
+            "region_id":85688567,
+            "venue_id":857477387
+        }
+    ],
+    "wof:id":857477387,
+    "wof:lastmodified":1464130322,
+    "wof:name":"Penney Wise Gas & Food",
+    "wof:parent_id":85833353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.916737,
+    40.742071,
+    -111.916737,
+    40.742071
+],
+  "geometry": {"coordinates":[-111.916737,40.742071],"type":"Point"}
+}

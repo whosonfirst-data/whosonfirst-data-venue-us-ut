@@ -1,0 +1,75 @@
+{
+  "id": 857137277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.824345,41.802402,-111.824345,41.802402",
+    "geom:latitude":41.802402,
+    "geom:longitude":-111.824345,
+    "iso:country":"US",
+    "sg:address":"183 N 200 W",
+    "sg:city":"Hyde Park",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Home Furnishings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 563 5750",
+    "sg:postcode":"84318",
+    "sg:province":"UT",
+    "sg:tags":[
+        "tile",
+        "ceramic",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31y1IWT2kl0JhWCpvpcX1C_41.802402_-111.824345@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122834,
+    "wof:geomhash":"f014fc072fd2d2bf5a32d147dc288a88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857137277
+        }
+    ],
+    "wof:id":857137277,
+    "wof:lastmodified":1464122834,
+    "wof:name":"True Line Tile Inc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "ceramic",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.824345,
+    41.802402,
+    -111.824345,
+    41.802402
+],
+  "geometry": {"coordinates":[-111.82434499999999,41.802402],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857459903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.836115,41.731473,-111.836115,41.731473",
+    "geom:latitude":41.731473,
+    "geom:longitude":-111.836115,
+    "iso:country":"US",
+    "sg:address":"69 W Center St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 2345",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31FmtYjnF5yVAylKKnhITC_41.731473_-111.836115@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129948,
+    "wof:geomhash":"12b5136877ccb93ceab22cbd1d3bb884",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857459903
+        }
+    ],
+    "wof:id":857459903,
+    "wof:lastmodified":1464129948,
+    "wof:name":"Anderson's Seed & Garden Store",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -111.836115,
+    41.731473,
+    -111.836115,
+    41.731473
+],
+  "geometry": {"coordinates":[-111.83611500000001,41.731473],"type":"Point"}
+}

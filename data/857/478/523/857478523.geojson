@@ -1,0 +1,75 @@
+{
+  "id": 857478523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.837828,40.715399,-111.837828,40.715399",
+    "geom:latitude":40.715399,
+    "geom:longitude":-111.837828,
+    "iso:country":"US",
+    "sg:address":"2640 Wellington St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 485 3935",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85851323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_782jkGj07vcd6Ho60ccFtj_40.715399_-111.837828@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130344,
+    "wof:geomhash":"5d37c4c12b3b2d3219fd0fd5e0ccfb02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85851323,
+            "region_id":85688567,
+            "venue_id":857478523
+        }
+    ],
+    "wof:id":857478523,
+    "wof:lastmodified":1464130344,
+    "wof:name":"A KWIK Response Locksmiths",
+    "wof:parent_id":85851323,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -111.837828,
+    40.715399,
+    -111.837828,
+    40.715399
+],
+  "geometry": {"coordinates":[-111.837828,40.715399],"type":"Point"}
+}

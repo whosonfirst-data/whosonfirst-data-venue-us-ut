@@ -1,0 +1,75 @@
+{
+  "id": 857159851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.045333,41.12512,-112.045333,41.12512",
+    "geom:latitude":41.12512,
+    "geom:longitude":-112.045333,
+    "iso:country":"US",
+    "sg:address":"777 N 1000 W",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 776 1207",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85819031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LfeZG6RyOHkrBf1Xbozci_41.125120_-112.045333@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123342,
+    "wof:geomhash":"9b45c7f8abc870001fc4434e901ef6f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85819031,
+            "region_id":85688567,
+            "venue_id":857159851
+        }
+    ],
+    "wof:id":857159851,
+    "wof:lastmodified":1464123342,
+    "wof:name":"Byrns Paint Co",
+    "wof:parent_id":85819031,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -112.045333,
+    41.12512,
+    -112.045333,
+    41.12512
+],
+  "geometry": {"coordinates":[-112.045333,41.12512],"type":"Point"}
+}

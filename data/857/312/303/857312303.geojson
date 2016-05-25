@@ -1,0 +1,75 @@
+{
+  "id": 857312303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.896091,40.620584,-111.896091,40.620584",
+    "geom:latitude":40.620584,
+    "geom:longitude":-111.896091,
+    "iso:country":"US",
+    "sg:address":"38 W 7200 S",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 561 1330",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728051,
+        102082877,
+        85851957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dULZhbzMKbQoVFOgRXX8L_40.620584_-111.896091@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126667,
+    "wof:geomhash":"996375b29adb26a5a62a6d84d7980479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85851957,
+            "region_id":85688567,
+            "venue_id":857312303
+        }
+    ],
+    "wof:id":857312303,
+    "wof:lastmodified":1464126667,
+    "wof:name":"Hertz Rent A Car",
+    "wof:parent_id":85851957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -111.896091,
+    40.620584,
+    -111.896091,
+    40.620584
+],
+  "geometry": {"coordinates":[-111.896091,40.620584],"type":"Point"}
+}

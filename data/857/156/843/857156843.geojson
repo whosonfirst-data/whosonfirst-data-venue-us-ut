@@ -1,0 +1,75 @@
+{
+  "id": 857156843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.020559,40.574585,-112.020559,40.574585",
+    "geom:latitude":40.574585,
+    "geom:longitude":-112.020559,
+    "iso:country":"US",
+    "sg:address":"9731 Hawley Park Rd",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 280 8238",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728247,
+        102082877,
+        85813417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20aCPAQjBa6vboWFFsrxKy_40.574585_-112.020559@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123281,
+    "wof:geomhash":"fb24c1cfdc94782578aad1b6004c8a06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728247,
+            "neighbourhood_id":85813417,
+            "region_id":85688567,
+            "venue_id":857156843
+        }
+    ],
+    "wof:id":857156843,
+    "wof:lastmodified":1464123281,
+    "wof:name":"TLC Storage",
+    "wof:parent_id":85813417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -112.020559,
+    40.574585,
+    -112.020559,
+    40.574585
+],
+  "geometry": {"coordinates":[-112.02055900000001,40.574585],"type":"Point"}
+}

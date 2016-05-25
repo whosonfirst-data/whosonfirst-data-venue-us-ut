@@ -1,0 +1,69 @@
+{
+  "id": 857268163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.935748,41.303861,-111.935748,41.303861",
+    "geom:latitude":41.303861,
+    "geom:longitude":-111.935748,
+    "iso:country":"US",
+    "sg:address":"1518 E 2525 N",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 782 6148",
+    "sg:postcode":"84414",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85824645,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CuFKQ8ppJkjCfgtkrcxbI_41.303861_-111.935748@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125651,
+    "wof:geomhash":"a0e5a0423a20d9d9f88e1a4aa7076545",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85824645,
+            "region_id":85688567,
+            "venue_id":857268163
+        }
+    ],
+    "wof:id":857268163,
+    "wof:lastmodified":1464125651,
+    "wof:name":"Wasatch Drywall & Repair",
+    "wof:parent_id":85824645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.935748,
+    41.303861,
+    -111.935748,
+    41.303861
+],
+  "geometry": {"coordinates":[-111.935748,41.303861],"type":"Point"}
+}

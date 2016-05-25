@@ -1,0 +1,76 @@
+{
+  "id": 857210043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.987764,41.091538,-111.987764,41.091538",
+    "geom:latitude":41.091538,
+    "geom:longitude":-111.987764,
+    "iso:country":"US",
+    "sg:address":"2244 University Park Blvd",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 593 9993",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "sg:website":"www.destinationhomes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ImrWCSvhwa763AJGDXbmf_41.091538_-111.987764@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124391,
+    "wof:geomhash":"ba520f27d65d957d617178243adaaf8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857210043
+        }
+    ],
+    "wof:id":857210043,
+    "wof:lastmodified":1464124391,
+    "wof:name":"Destination Homes",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -111.987764,
+    41.091538,
+    -111.987764,
+    41.091538
+],
+  "geometry": {"coordinates":[-111.987764,41.091538],"type":"Point"}
+}

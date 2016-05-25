@@ -1,0 +1,73 @@
+{
+  "id": 857144341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.811968,40.699774,-111.811968,40.699774",
+    "geom:latitude":40.699774,
+    "geom:longitude":-111.811968,
+    "iso:country":"US",
+    "sg:address":"2730 E 3300 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 487 0896",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728257,
+        102082877,
+        85854869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GuYMnrRr5CK3PfHozPDG3_40.699774_-111.811968@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123019,
+    "wof:geomhash":"6e5d395048d5d1b160e4b2010321a1aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85854869,
+            "region_id":85688567,
+            "venue_id":857144341
+        }
+    ],
+    "wof:id":857144341,
+    "wof:lastmodified":1464123019,
+    "wof:name":"Heritage Eastridge Rehab Ctr",
+    "wof:parent_id":85854869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -111.811968,
+    40.699774,
+    -111.811968,
+    40.699774
+],
+  "geometry": {"coordinates":[-111.81196799999999,40.699774],"type":"Point"}
+}

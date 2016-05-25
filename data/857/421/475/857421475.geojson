@@ -1,0 +1,73 @@
+{
+  "id": 857421475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.828397,41.719475,-111.828397,41.719475",
+    "geom:latitude":41.719475,
+    "geom:longitude":-111.828397,
+    "iso:country":"US",
+    "sg:address":"318 E 700 S",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 5843",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MKxh30majj71DMHnY6rXA_41.719475_-111.828397@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129137,
+    "wof:geomhash":"ef2561276f8a80e6705535b4247e2ced",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857421475
+        }
+    ],
+    "wof:id":857421475,
+    "wof:lastmodified":1464129137,
+    "wof:name":"Allsop Mfg LLC",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.828397,
+    41.719475,
+    -111.828397,
+    41.719475
+],
+  "geometry": {"coordinates":[-111.828397,41.719475],"type":"Point"}
+}

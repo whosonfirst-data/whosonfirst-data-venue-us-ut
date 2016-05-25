@@ -1,0 +1,75 @@
+{
+  "id": 857423075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.026159,41.105318,-112.026159,41.105318",
+    "geom:latitude":41.105318,
+    "geom:longitude":-112.026159,
+    "iso:country":"US",
+    "sg:address":"642 S Main St",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 776 1344",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85851583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64HWfDzEKk0i0ZrjW5FpV3_41.105318_-112.026159@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129169,
+    "wof:geomhash":"1520c74f03140206c0d6ebe2aba1ff1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85851583,
+            "region_id":85688567,
+            "venue_id":857423075
+        }
+    ],
+    "wof:id":857423075,
+    "wof:lastmodified":1464129169,
+    "wof:name":"Armadillo Automotive",
+    "wof:parent_id":85851583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -112.026159,
+    41.105318,
+    -112.026159,
+    41.105318
+],
+  "geometry": {"coordinates":[-112.02615900000001,41.105318],"type":"Point"}
+}

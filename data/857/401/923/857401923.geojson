@@ -1,0 +1,73 @@
+{
+  "id": 857401923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.800614,41.744309,-111.800614,41.744309",
+    "geom:latitude":41.744309,
+    "geom:longitude":-111.800614,
+    "iso:country":"US",
+    "sg:address":"1341 E 700 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 7180",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "garment",
+        "agent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6R1mzGmYJt4XvZMJn0wRV9_41.744309_-111.800614@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128665,
+    "wof:geomhash":"ccb3b171e8d823d9cdf2a0216a7f7e85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857401923
+        }
+    ],
+    "wof:id":857401923,
+    "wof:lastmodified":1464128665,
+    "wof:name":"Express Drycleaning",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "agent"
+    ]
+},
+  "bbox": [
+    -111.800614,
+    41.744309,
+    -111.800614,
+    41.744309
+],
+  "geometry": {"coordinates":[-111.800614,41.744309],"type":"Point"}
+}

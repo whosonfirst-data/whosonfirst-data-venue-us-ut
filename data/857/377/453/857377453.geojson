@@ -1,0 +1,68 @@
+{
+  "id": 857377453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.704779,40.303553,-111.704779,40.303553",
+    "geom:latitude":40.303553,
+    "geom:longitude":-111.704779,
+    "iso:country":"US",
+    "sg:address":"300 W 350 N",
+    "sg:city":"Myton",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 722 2150",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3clZXIqLLR7CZtdQDJT5zf_40.303553_-111.704779@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128066,
+    "wof:geomhash":"29eba17051df5b27544087e29b21b901",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":857377453
+        }
+    ],
+    "wof:id":857377453,
+    "wof:lastmodified":1464128066,
+    "wof:name":"Fort Myton",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.704779,
+    40.303553,
+    -111.704779,
+    40.303553
+],
+  "geometry": {"coordinates":[-111.704779,40.303553],"type":"Point"}
+}

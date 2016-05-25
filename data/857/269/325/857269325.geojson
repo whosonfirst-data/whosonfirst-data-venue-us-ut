@@ -1,0 +1,71 @@
+{
+  "id": 857269325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.831814,41.757574,-111.831814,41.757574",
+    "geom:latitude":41.757574,
+    "geom:longitude":-111.831814,
+    "iso:country":"US",
+    "sg:address":"115 E 1400 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 6619",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7U331BSifxSi0GmIGBKcU4_41.757574_-111.831814@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125672,
+    "wof:geomhash":"577e523a4dd6e3c5a69ee78ac9f6010a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857269325
+        }
+    ],
+    "wof:id":857269325,
+    "wof:lastmodified":1464125672,
+    "wof:name":"Marz Beauty Salon",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.831814,
+    41.757574,
+    -111.831814,
+    41.757574
+],
+  "geometry": {"coordinates":[-111.83181399999999,41.757574],"type":"Point"}
+}

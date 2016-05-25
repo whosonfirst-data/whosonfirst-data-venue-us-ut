@@ -1,0 +1,75 @@
+{
+  "id": 857198879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.875804,40.973955,-111.875804,40.973955",
+    "geom:latitude":40.973955,
+    "geom:longitude":-111.875804,
+    "iso:country":"US",
+    "sg:address":"383 S 500 E",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 0093",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727907,
+        102083563,
+        85833427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5a8A89eCGJ9ud2CeSmKjMS_40.973955_-111.875804@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124155,
+    "wof:geomhash":"0228d8ed0bad7631106d1a0389e470d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85833427,
+            "region_id":85688567,
+            "venue_id":857198879
+        }
+    ],
+    "wof:id":857198879,
+    "wof:lastmodified":1464124155,
+    "wof:name":"Maple Creek Ltd Partnership",
+    "wof:parent_id":85833427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -111.875804,
+    40.973955,
+    -111.875804,
+    40.973955
+],
+  "geometry": {"coordinates":[-111.875804,40.973955],"type":"Point"}
+}

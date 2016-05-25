@@ -1,0 +1,71 @@
+{
+  "id": 857363425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.801172,41.805334,-111.801172,41.805334",
+    "geom:latitude":41.805334,
+    "geom:longitude":-111.801172,
+    "iso:country":"US",
+    "sg:address":"740 E 300 N",
+    "sg:city":"Hyde Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 563 9263",
+    "sg:postcode":"84318",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mShl2rojOKCvnsOgI2i7t_41.805334_-111.801172@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127769,
+    "wof:geomhash":"4ab861713e78a28fbd5d0313926d4181",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857363425
+        }
+    ],
+    "wof:id":857363425,
+    "wof:lastmodified":1464127769,
+    "wof:name":"Kampin Kitchen",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.801172,
+    41.805334,
+    -111.801172,
+    41.805334
+],
+  "geometry": {"coordinates":[-111.80117199999999,41.805334],"type":"Point"}
+}

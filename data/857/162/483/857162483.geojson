@@ -1,0 +1,71 @@
+{
+  "id": 857162483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.9087,41.091157,-111.9087,41.091157",
+    "geom:latitude":41.091157,
+    "geom:longitude":-111.9087,
+    "iso:country":"US",
+    "sg:address":"2120 Valley View Dr",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 497 0094",
+    "sg:postcode":"84040",
+    "sg:province":"UT",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727911,
+        102083563,
+        85847875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MNAhNcULO8vo1KLU1swlN_41.091157_-111.908700@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123414,
+    "wof:geomhash":"2d3464bd3223abfa6d155cdffdcad6a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727911,
+            "neighbourhood_id":85847875,
+            "region_id":85688567,
+            "venue_id":857162483
+        }
+    ],
+    "wof:id":857162483,
+    "wof:lastmodified":1464123414,
+    "wof:name":"Stanford A Graham PC",
+    "wof:parent_id":85847875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -111.9087,
+    41.091157,
+    -111.9087,
+    41.091157
+],
+  "geometry": {"coordinates":[-111.9087,41.091157],"type":"Point"}
+}

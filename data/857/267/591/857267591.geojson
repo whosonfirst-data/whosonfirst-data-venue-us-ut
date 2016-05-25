@@ -1,0 +1,75 @@
+{
+  "id": 857267591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.048196,41.111829,-112.048196,41.111829",
+    "geom:latitude":41.111829,
+    "geom:longitude":-112.048196,
+    "iso:country":"US",
+    "sg:address":"1202 W 150 S",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 779 2301",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727889,
+        102083563,
+        85804563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13McXEETRsYUU6KpAQcK1U_41.111829_-112.048196@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125640,
+    "wof:geomhash":"e6a8c46cb8db4a557ae48d6a153ce025",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727889,
+            "neighbourhood_id":85804563,
+            "region_id":85688567,
+            "venue_id":857267591
+        }
+    ],
+    "wof:id":857267591,
+    "wof:lastmodified":1464125640,
+    "wof:name":"Intermountain Mechanical Svc",
+    "wof:parent_id":85804563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -112.048196,
+    41.111829,
+    -112.048196,
+    41.111829
+],
+  "geometry": {"coordinates":[-112.048196,41.111829],"type":"Point"}
+}

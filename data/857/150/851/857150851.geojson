@@ -1,0 +1,71 @@
+{
+  "id": 857150851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.966873,37.007397,-112.966873,37.007397",
+    "geom:latitude":37.007397,
+    "geom:longitude":-112.966873,
+    "iso:country":"US",
+    "sg:address":"1020 Hildale St",
+    "sg:city":"Hildale",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 874 1011",
+    "sg:postcode":"84784",
+    "sg:province":"UT",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727619,
+        102082879,
+        85822405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RrE4ARX9lgQy0wxtetBJy_37.007397_-112.966873@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123165,
+    "wof:geomhash":"a9674970fb5831daf4647f43ba0f2436",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727619,
+            "neighbourhood_id":85822405,
+            "region_id":85688567,
+            "venue_id":857150851
+        }
+    ],
+    "wof:id":857150851,
+    "wof:lastmodified":1464123165,
+    "wof:name":"Standard Fuel",
+    "wof:parent_id":85822405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -112.966873,
+    37.007397,
+    -112.966873,
+    37.007397
+],
+  "geometry": {"coordinates":[-112.96687300000001,37.007397],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857371027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.810819,40.376951,-111.810819,40.376951",
+    "geom:latitude":40.376951,
+    "geom:longitude":-111.810819,
+    "iso:country":"US",
+    "sg:address":"462 W Main St",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 4280",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48mYSVnO5l03dNzcqVhgc9_40.376951_-111.810819@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127925,
+    "wof:geomhash":"3b9dc2e81b9c81fe5429b92a870dc633",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857371027
+        }
+    ],
+    "wof:id":857371027,
+    "wof:lastmodified":1464127925,
+    "wof:name":"Nick's Book Exchange",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -111.810819,
+    40.376951,
+    -111.810819,
+    40.376951
+],
+  "geometry": {"coordinates":[-111.810819,40.376951],"type":"Point"}
+}

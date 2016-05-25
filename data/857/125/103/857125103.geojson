@@ -1,0 +1,71 @@
+{
+  "id": 857125103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.942692,41.028517,-111.942692,41.028517",
+    "geom:latitude":41.028517,
+    "geom:longitude":-111.942692,
+    "iso:country":"US",
+    "sg:address":"261 S 300 W",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 546 8093",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "herb"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yKF34UnhZHr7ROuREhekm_41.028517_-111.942692@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122572,
+    "wof:geomhash":"a8368e20d628f3dcd5ebb98a1ae6a723",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857125103
+        }
+    ],
+    "wof:id":857125103,
+    "wof:lastmodified":1464122572,
+    "wof:name":"Herbalife Distributor",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "herb"
+    ]
+},
+  "bbox": [
+    -111.942692,
+    41.028517,
+    -111.942692,
+    41.028517
+],
+  "geometry": {"coordinates":[-111.94269199999999,41.028517],"type":"Point"}
+}

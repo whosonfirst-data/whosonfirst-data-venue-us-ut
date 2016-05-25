@@ -1,0 +1,74 @@
+{
+  "id": 857491763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.907519,41.001558,-111.907519,41.001558",
+    "geom:latitude":41.001558,
+    "geom:longitude":-111.907519,
+    "iso:country":"US",
+    "sg:address":"1282 N Highway 89",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/south-davis/132814-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 2430",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09hyUDcXPfPj5oTHefC1zT_41.001558_-111.907519@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130651,
+    "wof:geomhash":"c96afaa7381db7999dd07abe5f2eb8ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857491763
+        }
+    ],
+    "wof:id":857491763,
+    "wof:lastmodified":1464130651,
+    "wof:name":"Subway",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -111.907519,
+    41.001558,
+    -111.907519,
+    41.001558
+],
+  "geometry": {"coordinates":[-111.90751899999999,41.001558],"type":"Point"}
+}

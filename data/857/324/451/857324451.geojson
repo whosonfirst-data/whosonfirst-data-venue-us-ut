@@ -1,0 +1,72 @@
+{
+  "id": 857324451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.787565,40.011766,-111.787565,40.011766",
+    "geom:latitude":40.011766,
+    "geom:longitude":-111.787565,
+    "iso:country":"US",
+    "sg:address":"5625 W 12000 S",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 4819",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shipper"
+    ],
+    "sg:website":"www.mcmullinorchards.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4K1mo13fxElhkOZEeQSGPm_40.011766_-111.787565@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126939,
+    "wof:geomhash":"bbcf81ee72c95599f10fbd2406411d0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857324451
+        }
+    ],
+    "wof:id":857324451,
+    "wof:lastmodified":1464126939,
+    "wof:name":"Mc Mullin Orchards Inc",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipper"
+    ]
+},
+  "bbox": [
+    -111.787565,
+    40.011766,
+    -111.787565,
+    40.011766
+],
+  "geometry": {"coordinates":[-111.787565,40.011766],"type":"Point"}
+}

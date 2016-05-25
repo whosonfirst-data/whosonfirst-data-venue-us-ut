@@ -1,0 +1,73 @@
+{
+  "id": 857395015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.286186,37.249814,-113.286186,37.249814",
+    "geom:latitude":37.249814,
+    "geom:longitude":-113.286186,
+    "iso:country":"US",
+    "sg:address":"42 Willow Ln",
+    "sg:city":"Toquerville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 635 8211",
+    "sg:postcode":"84746",
+    "sg:province":"UT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727611,
+        102082879,
+        85803113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5O17d6gGoSmEof8hGvTZDy_37.249814_-113.286186@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128527,
+    "wof:geomhash":"e7ceb5568dee6d7752bc4c3459d9fe96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727611,
+            "neighbourhood_id":85803113,
+            "region_id":85688567,
+            "venue_id":857395015
+        }
+    ],
+    "wof:id":857395015,
+    "wof:lastmodified":1464128527,
+    "wof:name":"Jones Gary W Concrete Inc",
+    "wof:parent_id":85803113,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -113.286186,
+    37.249814,
+    -113.286186,
+    37.249814
+],
+  "geometry": {"coordinates":[-113.286186,37.249814],"type":"Point"}
+}

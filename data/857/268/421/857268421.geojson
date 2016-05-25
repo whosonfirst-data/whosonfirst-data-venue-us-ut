@@ -1,0 +1,71 @@
+{
+  "id": 857268421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.609579,40.088409,-111.609579,40.088409",
+    "geom:latitude":40.088409,
+    "geom:longitude":-111.609579,
+    "iso:country":"US",
+    "sg:address":"1633 Spanish Ridge Dr",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 794 1242",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OrMtqgYPrdBZOSRU9ZCFB_40.088409_-111.609579@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125656,
+    "wof:geomhash":"577359159dc2fb57406b1a044ea1be63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857268421
+        }
+    ],
+    "wof:id":857268421,
+    "wof:lastmodified":1464125656,
+    "wof:name":"AAA Safe Storage Center Inc",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -111.609579,
+    40.088409,
+    -111.609579,
+    40.088409
+],
+  "geometry": {"coordinates":[-111.609579,40.088409],"type":"Point"}
+}

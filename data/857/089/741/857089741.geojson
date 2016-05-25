@@ -1,0 +1,87 @@
+{
+  "id": 857089741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.865545,40.70355,-111.865545,40.70355",
+    "geom:latitude":40.70355,
+    "geom:longitude":-111.865545,
+    "iso:country":"US",
+    "sg:address":"3120 S 900 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 466 6392",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "spa",
+        "hot",
+        "tub"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85858223,
+        85832079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mcuGxO6ydwWkqyrOWmJ8I_40.703550_-111.865545@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121667,
+    "wof:geomhash":"c615ec37a279aabfd3582ad6ff77a971",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85858223,
+            "region_id":85688567,
+            "venue_id":857089741
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85832079,
+            "region_id":85688567,
+            "venue_id":857089741
+        }
+    ],
+    "wof:id":857089741,
+    "wof:lastmodified":1464121667,
+    "wof:name":"Action Spa Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spa",
+        "hot",
+        "tub"
+    ]
+},
+  "bbox": [
+    -111.865545,
+    40.70355,
+    -111.865545,
+    40.70355
+],
+  "geometry": {"coordinates":[-111.865545,40.70355],"type":"Point"}
+}

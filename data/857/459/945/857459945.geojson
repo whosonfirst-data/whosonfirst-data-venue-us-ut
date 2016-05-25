@@ -1,0 +1,75 @@
+{
+  "id": 857459945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.907964,40.797842,-111.907964,40.797842",
+    "geom:latitude":40.797842,
+    "geom:longitude":-111.907964,
+    "iso:country":"US",
+    "sg:address":"1212 Beck St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 322 5878",
+    "sg:postcode":"84116",
+    "sg:province":"UT",
+    "sg:tags":[
+        "propane",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85829255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HtSJ2ZwzHdtyZBdLYAJYY_40.797842_-111.907964@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129948,
+    "wof:geomhash":"c00610a000e9a71ef16b7d855c3c931b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85829255,
+            "region_id":85688567,
+            "venue_id":857459945
+        }
+    ],
+    "wof:id":857459945,
+    "wof:lastmodified":1464129948,
+    "wof:name":"AmeriGas",
+    "wof:parent_id":85829255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "propane",
+        "gas"
+    ]
+},
+  "bbox": [
+    -111.907964,
+    40.797842,
+    -111.907964,
+    40.797842
+],
+  "geometry": {"coordinates":[-111.90796400000001,40.797842],"type":"Point"}
+}

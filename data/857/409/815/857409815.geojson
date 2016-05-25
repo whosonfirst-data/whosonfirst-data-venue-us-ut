@@ -1,0 +1,71 @@
+{
+  "id": 857409815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.054434,41.069012,-112.054434,41.069012",
+    "geom:latitude":41.069012,
+    "geom:longitude":-112.054434,
+    "iso:country":"US",
+    "sg:address":"3090 S Bluff Rd",
+    "sg:city":"Syracuse",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 773 3608",
+    "sg:postcode":"84075",
+    "sg:province":"UT",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85868169,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05vAjn7t8QdwNSTBFmQwbs_41.069012_-112.054434@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128830,
+    "wof:geomhash":"9052612e35b4bb9e9e6996b72b7c0c59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "neighbourhood_id":85868169,
+            "region_id":85688567,
+            "venue_id":857409815
+        }
+    ],
+    "wof:id":857409815,
+    "wof:lastmodified":1464128830,
+    "wof:name":"Ivory Homes",
+    "wof:parent_id":85868169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -112.054434,
+    41.069012,
+    -112.054434,
+    41.069012
+],
+  "geometry": {"coordinates":[-112.054434,41.069012],"type":"Point"}
+}

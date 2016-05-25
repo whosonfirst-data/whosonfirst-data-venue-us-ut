@@ -1,0 +1,69 @@
+{
+  "id": 857176159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.84713,40.594963,-111.84713,40.594963",
+    "geom:latitude":40.594963,
+    "geom:longitude":-111.84713,
+    "iso:country":"US",
+    "sg:address":"1530 E 8600 S",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 565 9066",
+    "sg:postcode":"84093",
+    "sg:province":"UT",
+    "sg:tags":[
+        "door"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85847325,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50oakERO3yo1YrYBUIM61w_40.594963_-111.847130@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123717,
+    "wof:geomhash":"c40b9430e9d62df1ed7499dc7a4bad36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85847325,
+            "region_id":85688567,
+            "venue_id":857176159
+        }
+    ],
+    "wof:id":857176159,
+    "wof:lastmodified":1464123717,
+    "wof:name":"Roberts Garage Doors",
+    "wof:parent_id":85847325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "door"
+    ]
+},
+  "bbox": [
+    -111.84713,
+    40.594963,
+    -111.84713,
+    40.594963
+],
+  "geometry": {"coordinates":[-111.84713000000001,40.594963],"type":"Point"}
+}

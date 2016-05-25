@@ -1,0 +1,71 @@
+{
+  "id": 857129901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.734318,40.044622,-111.734318,40.044622",
+    "geom:latitude":40.044622,
+    "geom:longitude":-111.734318,
+    "iso:country":"US",
+    "sg:address":"180 W 100 N",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 4779",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "pump"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Rdi1dt9hI2oC1yXFyuTjD_40.044622_-111.734318@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122679,
+    "wof:geomhash":"4cdcfe48b337238dd4e122ae89838cf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857129901
+        }
+    ],
+    "wof:id":857129901,
+    "wof:lastmodified":1464122679,
+    "wof:name":"Barnes Electrical Svc Tech",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pump"
+    ]
+},
+  "bbox": [
+    -111.734318,
+    40.044622,
+    -111.734318,
+    40.044622
+],
+  "geometry": {"coordinates":[-111.734318,40.044622],"type":"Point"}
+}

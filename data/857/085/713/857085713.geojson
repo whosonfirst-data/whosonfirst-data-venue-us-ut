@@ -1,0 +1,71 @@
+{
+  "id": 857085713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.947339,41.321032,-111.947339,41.321032",
+    "geom:latitude":41.321032,
+    "geom:longitude":-111.947339,
+    "iso:country":"US",
+    "sg:address":"3373 N 1050 E",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 737 0125",
+    "sg:postcode":"84414",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85824645,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14qaYbvOgQU0TclxIw0Sgo_41.321032_-111.947339@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121555,
+    "wof:geomhash":"0d59b6a0f147d45c5f18f6650f78d57a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85824645,
+            "region_id":85688567,
+            "venue_id":857085713
+        }
+    ],
+    "wof:id":857085713,
+    "wof:lastmodified":1464121555,
+    "wof:name":"Harmony Electric Inc",
+    "wof:parent_id":85824645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.947339,
+    41.321032,
+    -111.947339,
+    41.321032
+],
+  "geometry": {"coordinates":[-111.947339,41.321032],"type":"Point"}
+}

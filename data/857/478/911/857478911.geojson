@@ -1,0 +1,75 @@
+{
+  "id": 857478911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.702191,40.315573,-111.702191,40.315573",
+    "geom:latitude":40.315573,
+    "geom:longitude":-111.702191,
+    "iso:country":"US",
+    "sg:address":"257 W 990 N",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 225 6600",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rF62IFNjqgNaBW4v7Hso7_40.315573_-111.702191@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130351,
+    "wof:geomhash":"36fa79dd07e060529788888ccc69d31e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":857478911
+        }
+    ],
+    "wof:id":857478911,
+    "wof:lastmodified":1464130351,
+    "wof:name":"Protech",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -111.702191,
+    40.315573,
+    -111.702191,
+    40.315573
+],
+  "geometry": {"coordinates":[-111.702191,40.315573],"type":"Point"}
+}

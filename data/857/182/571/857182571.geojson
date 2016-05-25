@@ -1,0 +1,68 @@
+{
+  "id": 857182571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.606962,37.10977,-113.606962,37.10977",
+    "geom:latitude":37.10977,
+    "geom:longitude":-113.606962,
+    "iso:country":"US",
+    "sg:address":"67 N 1100 W",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 656 2123",
+    "sg:postcode":"84770",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vsD7QZUTtZzJXeWQFqDSW_37.109770_-113.606962@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123848,
+    "wof:geomhash":"0d66c4e90fa4681e91fae02174efead2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857182571
+        }
+    ],
+    "wof:id":857182571,
+    "wof:lastmodified":1464123848,
+    "wof:name":"Hofheins Inc",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.606962,
+    37.10977,
+    -113.606962,
+    37.10977
+],
+  "geometry": {"coordinates":[-113.606962,37.10977],"type":"Point"}
+}

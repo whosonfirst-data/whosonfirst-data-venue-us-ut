@@ -1,0 +1,75 @@
+{
+  "id": 857197173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.963002,41.07837,-111.963002,41.07837",
+    "geom:latitude":41.07837,
+    "geom:longitude":-111.963002,
+    "iso:country":"US",
+    "sg:address":"139 E 1250 N",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 547 1762",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1r2nFB9ZzVKChwf6XcYbDB_41.078370_-111.963002@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124122,
+    "wof:geomhash":"765b7fd86acaf670fb37f34fc1f43769",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857197173
+        }
+    ],
+    "wof:id":857197173,
+    "wof:lastmodified":1464124122,
+    "wof:name":"Starlite Electric",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.963002,
+    41.07837,
+    -111.963002,
+    41.07837
+],
+  "geometry": {"coordinates":[-111.963002,41.07837],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857288873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.915226,41.106871,-111.915226,41.106871",
+    "geom:latitude":41.106871,
+    "geom:longitude":-111.915226,
+    "iso:country":"US",
+    "sg:address":"2600 Hobbs View Cir",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 771 2525",
+    "sg:postcode":"84040",
+    "sg:province":"UT",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727911,
+        102083563,
+        85847875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29ERo69RPOTNo1y6xrmzuY_41.106871_-111.915226@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126107,
+    "wof:geomhash":"9a43a6e227512d29d26231623d80b41c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727911,
+            "neighbourhood_id":85847875,
+            "region_id":85688567,
+            "venue_id":857288873
+        }
+    ],
+    "wof:id":857288873,
+    "wof:lastmodified":1464126107,
+    "wof:name":"Apple Village Assisted Living",
+    "wof:parent_id":85847875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -111.915226,
+    41.106871,
+    -111.915226,
+    41.106871
+],
+  "geometry": {"coordinates":[-111.915226,41.106871],"type":"Point"}
+}

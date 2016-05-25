@@ -1,0 +1,71 @@
+{
+  "id": 857339975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.652825,40.121089,-111.652825,40.121089",
+    "geom:latitude":40.121089,
+    "geom:longitude":-111.652825,
+    "iso:country":"US",
+    "sg:address":"826 N 100 E",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 794 3567",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zDdgHBWJB1SAd6N2oqcTk_40.121089_-111.652825@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127277,
+    "wof:geomhash":"fefe79d574c0097e0a74618a953ac248",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857339975
+        }
+    ],
+    "wof:id":857339975,
+    "wof:lastmodified":1464127277,
+    "wof:name":"Spanish Fork Dental",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -111.652825,
+    40.121089,
+    -111.652825,
+    40.121089
+],
+  "geometry": {"coordinates":[-111.65282500000001,40.121089],"type":"Point"}
+}

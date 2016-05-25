@@ -1,0 +1,82 @@
+{
+  "id": 857355473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.654847,40.113002,-111.654847,40.113002",
+    "geom:latitude":40.113002,
+    "geom:longitude":-111.654847,
+    "iso:country":"US",
+    "sg:address":"257 N Main St",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Jewelry",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 3015",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "trophy",
+        "stone",
+        "medal",
+        "award"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74Rvi4JqlyodHIEOy867sD_40.113002_-111.654847@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127602,
+    "wof:geomhash":"54f77cd0d587ddfe7445f881b628ee74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857355473
+        }
+    ],
+    "wof:id":857355473,
+    "wof:lastmodified":1464127602,
+    "wof:name":"Cole's House Of Trophies",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trophy",
+        "stone",
+        "medal",
+        "award"
+    ]
+},
+  "bbox": [
+    -111.654847,
+    40.113002,
+    -111.654847,
+    40.113002
+],
+  "geometry": {"coordinates":[-111.654847,40.113002],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857372783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.904769,40.899167,-111.904769,40.899167",
+    "geom:latitude":40.899167,
+    "geom:longitude":-111.904769,
+    "iso:country":"US",
+    "sg:address":"900 N 900 W",
+    "sg:city":"Woods Cross",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 299 4161",
+    "sg:postcode":"84087",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mormon",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727883,
+        102083563,
+        85818403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hZQmBbvrkC9yJN3SMHu2f_40.899167_-111.904769@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127965,
+    "wof:geomhash":"ba1dd1d5ecc79e6da15a40c3d349c626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727883,
+            "neighbourhood_id":85818403,
+            "region_id":85688567,
+            "venue_id":857372783
+        }
+    ],
+    "wof:id":857372783,
+    "wof:lastmodified":1464127965,
+    "wof:name":"West Bountiful Tenth Ward",
+    "wof:parent_id":85818403,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mormon",
+        "church"
+    ]
+},
+  "bbox": [
+    -111.904769,
+    40.899167,
+    -111.904769,
+    40.899167
+],
+  "geometry": {"coordinates":[-111.904769,40.899167],"type":"Point"}
+}

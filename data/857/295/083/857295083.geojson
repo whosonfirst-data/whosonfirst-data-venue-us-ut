@@ -1,0 +1,73 @@
+{
+  "id": 857295083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.921165,41.12153,-111.921165,41.12153",
+    "geom:latitude":41.12153,
+    "geom:longitude":-111.921165,
+    "iso:country":"US",
+    "sg:address":"7989 S 2250 E",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 476 2914",
+    "sg:postcode":"84405",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mormon",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727911,
+        102083563,
+        85847875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hVC89wCZtEVQiEjZ7MSD0_41.121530_-111.921165@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126294,
+    "wof:geomhash":"38a9e18435c52ca28c581f6ce823e17e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727911,
+            "neighbourhood_id":85847875,
+            "region_id":85688567,
+            "venue_id":857295083
+        }
+    ],
+    "wof:id":857295083,
+    "wof:lastmodified":1464126294,
+    "wof:name":"South Weber Fourth Ward",
+    "wof:parent_id":85847875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mormon",
+        "church"
+    ]
+},
+  "bbox": [
+    -111.921165,
+    41.12153,
+    -111.921165,
+    41.12153
+],
+  "geometry": {"coordinates":[-111.921165,41.12153],"type":"Point"}
+}

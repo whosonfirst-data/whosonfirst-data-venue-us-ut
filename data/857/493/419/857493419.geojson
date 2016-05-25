@@ -1,0 +1,82 @@
+{
+  "id": 857493419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.942933,40.651641,-111.942933,40.651641",
+    "geom:latitude":40.651641,
+    "geom:longitude":-111.942933,
+    "iso:country":"US",
+    "sg:address":"5486 S 1900 W",
+    "sg:city":"Taylorsville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/95981-souper-salad/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 964 6452",
+    "sg:postcode":"84118",
+    "sg:province":"UT",
+    "sg:tags":[
+        "smoothy",
+        "soup",
+        "american",
+        "salad",
+        "juice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728059,
+        102082877,
+        85844177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6J0rxBVeqFRVJlGTjZoMc7_40.651641_-111.942933@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130713,
+    "wof:geomhash":"80ce7eed7b55cc12100f378d72906a4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728059,
+            "neighbourhood_id":85844177,
+            "region_id":85688567,
+            "venue_id":857493419
+        }
+    ],
+    "wof:id":857493419,
+    "wof:lastmodified":1464130713,
+    "wof:name":"Souper Salad",
+    "wof:parent_id":85844177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "soup",
+        "american",
+        "salad",
+        "juice"
+    ]
+},
+  "bbox": [
+    -111.942933,
+    40.651641,
+    -111.942933,
+    40.651641
+],
+  "geometry": {"coordinates":[-111.942933,40.651641],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 857082367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.002719,41.092745,-112.002719,41.092745",
+    "geom:latitude":41.092745,
+    "geom:longitude":-112.002719,
+    "iso:country":"US",
+    "sg:address":"1190 E 1450 S",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 776 4800",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "info",
+        "hospital",
+        "specialty",
+        "drug",
+        "outpatient",
+        "abuse",
+        "treatment",
+        "addiction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uNSR8EOD26TZTTo8aJ5vc_41.092745_-112.002719@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121462,
+    "wof:geomhash":"1276306f45333044305355e27b30d4ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857082367
+        }
+    ],
+    "wof:id":857082367,
+    "wof:lastmodified":1464121462,
+    "wof:name":"Substance Abuse Out Patient",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "info",
+        "hospital",
+        "specialty",
+        "drug",
+        "outpatient",
+        "abuse",
+        "treatment",
+        "addiction"
+    ]
+},
+  "bbox": [
+    -112.002719,
+    41.092745,
+    -112.002719,
+    41.092745
+],
+  "geometry": {"coordinates":[-112.002719,41.092745],"type":"Point"}
+}

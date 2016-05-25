@@ -1,0 +1,77 @@
+{
+  "id": 857449137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.658673,40.235096,-111.658673,40.235096",
+    "geom:latitude":40.235096,
+    "geom:longitude":-111.658673,
+    "iso:country":"US",
+    "sg:address":"1 N University Ave",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 378 4777",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "department",
+        "admission",
+        "registration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BewZTYBTsogw1PTrT2Pyd_40.235096_-111.658673@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129740,
+    "wof:geomhash":"9558ae39845988e916c43f697f20cb6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880065,
+            "region_id":85688567,
+            "venue_id":857449137
+        }
+    ],
+    "wof:id":857449137,
+    "wof:lastmodified":1464129740,
+    "wof:name":"B Y U Off High Schl/Collge",
+    "wof:parent_id":85880065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "admission",
+        "registration"
+    ]
+},
+  "bbox": [
+    -111.658673,
+    40.235096,
+    -111.658673,
+    40.235096
+],
+  "geometry": {"coordinates":[-111.65867299999999,40.235096],"type":"Point"}
+}

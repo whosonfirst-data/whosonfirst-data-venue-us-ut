@@ -1,0 +1,74 @@
+{
+  "id": 857493803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834097,41.769856,-111.834097,41.769856",
+    "geom:latitude":41.769856,
+    "geom:longitude":-111.834097,
+    "iso:country":"US",
+    "sg:address":"2044 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/logan/100298-golden-corral/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 787 9750",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6melVa2kVybxmnQk89XJrB_41.769856_-111.834097@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130724,
+    "wof:geomhash":"78d056532218ff37487649cc083559fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857493803
+        }
+    ],
+    "wof:id":857493803,
+    "wof:lastmodified":1464130724,
+    "wof:name":"Golden Corral",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -111.834097,
+    41.769856,
+    -111.834097,
+    41.769856
+],
+  "geometry": {"coordinates":[-111.834097,41.769856],"type":"Point"}
+}

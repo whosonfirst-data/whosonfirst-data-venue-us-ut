@@ -1,0 +1,73 @@
+{
+  "id": 857432289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.812644,40.687129,-111.812644,40.687129",
+    "geom:latitude":40.687129,
+    "geom:longitude":-111.812644,
+    "iso:country":"US",
+    "sg:address":"2811 E 3900 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 424 9903",
+    "sg:postcode":"84124",
+    "sg:province":"UT",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85855049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31pFWZaLqAGz9too0hMouj_40.687129_-111.812644@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129405,
+    "wof:geomhash":"2e22b471e49a0195dbfd69154a7bec17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85855049,
+            "region_id":85688567,
+            "venue_id":857432289
+        }
+    ],
+    "wof:id":857432289,
+    "wof:lastmodified":1464129405,
+    "wof:name":"I R Truck'n",
+    "wof:parent_id":85855049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -111.812644,
+    40.687129,
+    -111.812644,
+    40.687129
+],
+  "geometry": {"coordinates":[-111.81264400000001,40.687129],"type":"Point"}
+}

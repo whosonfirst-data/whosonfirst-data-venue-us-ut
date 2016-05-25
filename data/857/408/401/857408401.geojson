@@ -1,0 +1,73 @@
+{
+  "id": 857408401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.922508,40.65975,-111.922508,40.65975",
+    "geom:latitude":40.65975,
+    "geom:longitude":-111.922508,
+    "iso:country":"US",
+    "sg:address":"1073 Stanley Glen Ln",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 263 9254",
+    "sg:postcode":"84123",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728059,
+        102082877,
+        85829683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54x72JZjXkgBBdcVtCdz2U_40.659750_-111.922508@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128802,
+    "wof:geomhash":"2cf26a3d63a48105bacd1ad49b81a7e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728059,
+            "neighbourhood_id":85829683,
+            "region_id":85688567,
+            "venue_id":857408401
+        }
+    ],
+    "wof:id":857408401,
+    "wof:lastmodified":1464128802,
+    "wof:name":"Scott Adams Inc",
+    "wof:parent_id":85829683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -111.922508,
+    40.65975,
+    -111.922508,
+    40.65975
+],
+  "geometry": {"coordinates":[-111.92250799999999,40.65975],"type":"Point"}
+}

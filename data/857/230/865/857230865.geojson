@@ -1,0 +1,74 @@
+{
+  "id": 857230865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.654701,40.112297,-111.654701,40.112297",
+    "geom:latitude":40.112297,
+    "geom:longitude":-111.654701,
+    "iso:country":"US",
+    "sg:address":"112 N Main St",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 794 2474",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "picture",
+        "frame"
+    ],
+    "sg:website":"www.bennionartandframe.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fmbJ4pMOyfgfDz00JwYVn_40.112297_-111.654701@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124823,
+    "wof:geomhash":"c0c6cefec4e33956c11c114e68840d61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857230865
+        }
+    ],
+    "wof:id":857230865,
+    "wof:lastmodified":1464124823,
+    "wof:name":"Bennion Art & Frame",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "picture",
+        "frame"
+    ]
+},
+  "bbox": [
+    -111.654701,
+    40.112297,
+    -111.654701,
+    40.112297
+],
+  "geometry": {"coordinates":[-111.654701,40.112297],"type":"Point"}
+}

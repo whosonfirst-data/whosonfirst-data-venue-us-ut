@@ -1,0 +1,73 @@
+{
+  "id": 857205565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.006208,40.591103,-112.006208,40.591103",
+    "geom:latitude":40.591103,
+    "geom:longitude":-112.006208,
+    "iso:country":"US",
+    "sg:address":"4842 W 8820 S",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 898 5000",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85854997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ypz66WwKgm4roeDOTBcPZ_40.591103_-112.006208@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124304,
+    "wof:geomhash":"aa7c016c41972e2499b4ac90c55e7f6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85854997,
+            "region_id":85688567,
+            "venue_id":857205565
+        }
+    ],
+    "wof:id":857205565,
+    "wof:lastmodified":1464124304,
+    "wof:name":"Brick Kicker",
+    "wof:parent_id":85854997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -112.006208,
+    40.591103,
+    -112.006208,
+    40.591103
+],
+  "geometry": {"coordinates":[-112.006208,40.591103],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 857464003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.021368,41.060107,-112.021368,41.060107",
+    "geom:latitude":41.060107,
+    "geom:longitude":-112.021368,
+    "iso:country":"US",
+    "sg:address":"2767 W Gentile St",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 544 9005",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "photographer"
+    ],
+    "sg:website":"www.robertwoodphoto.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85868169,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20kNCAphQA9nE2i4HN6QOG_41.060107_-112.021368@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130035,
+    "wof:geomhash":"53c9db2a2f87637f4b8c6e09264298fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "neighbourhood_id":85868169,
+            "region_id":85688567,
+            "venue_id":857464003
+        }
+    ],
+    "wof:id":857464003,
+    "wof:lastmodified":1464130035,
+    "wof:name":"Robert Wood Photography",
+    "wof:parent_id":85868169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -112.021368,
+    41.060107,
+    -112.021368,
+    41.060107
+],
+  "geometry": {"coordinates":[-112.021368,41.060107],"type":"Point"}
+}

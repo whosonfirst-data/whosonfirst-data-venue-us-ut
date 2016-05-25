@@ -1,0 +1,73 @@
+{
+  "id": 857148101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.965111,40.64224,-111.965111,40.64224",
+    "geom:latitude":40.64224,
+    "geom:longitude":-111.965111,
+    "iso:country":"US",
+    "sg:address":"3078 Don Francisco Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 968 1654",
+    "sg:postcode":"84118",
+    "sg:province":"UT",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728059,
+        102082877,
+        85848647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SCG1Dqw7wFB2ys4zPVzbS_40.642240_-111.965111@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123101,
+    "wof:geomhash":"a7078441d0603293eacfd2e6f407bf13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728059,
+            "neighbourhood_id":85848647,
+            "region_id":85688567,
+            "venue_id":857148101
+        }
+    ],
+    "wof:id":857148101,
+    "wof:lastmodified":1464123101,
+    "wof:name":"Wilderness Construction",
+    "wof:parent_id":85848647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -111.965111,
+    40.64224,
+    -111.965111,
+    40.64224
+],
+  "geometry": {"coordinates":[-111.96511099999999,40.64224],"type":"Point"}
+}

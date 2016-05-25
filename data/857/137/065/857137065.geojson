@@ -1,0 +1,69 @@
+{
+  "id": 857137065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.860266,40.666657,-111.860266,40.666657",
+    "geom:latitude":40.666657,
+    "geom:longitude":-111.860266,
+    "iso:country":"US",
+    "sg:address":"1094 Loch Lomand Way",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 262 9577",
+    "sg:postcode":"84117",
+    "sg:province":"UT",
+    "sg:tags":[
+        "investment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85826429,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OPKfgHjsQs2l5nrt58v08_40.666657_-111.860266@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122830,
+    "wof:geomhash":"3b9fc2fff281876a4c135cec5913ced5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85826429,
+            "region_id":85688567,
+            "venue_id":857137065
+        }
+    ],
+    "wof:id":857137065,
+    "wof:lastmodified":1464122830,
+    "wof:name":"Jamestowne Investment Co",
+    "wof:parent_id":85826429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investment"
+    ]
+},
+  "bbox": [
+    -111.860266,
+    40.666657,
+    -111.860266,
+    40.666657
+],
+  "geometry": {"coordinates":[-111.860266,40.666657],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857213817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.636714,40.092742,-111.636714,40.092742",
+    "geom:latitude":40.092742,
+    "geom:longitude":-111.636714,
+    "iso:country":"US",
+    "sg:address":"990 E 1330 S",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 221 8280",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Gsjbxq3nDneqpV73FEn5A_40.092742_-111.636714@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124481,
+    "wof:geomhash":"54aa6fb798c7996d159e54133674007b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857213817
+        }
+    ],
+    "wof:id":857213817,
+    "wof:lastmodified":1464124481,
+    "wof:name":"Moake Plumbing & Heating L L C",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.636714,
+    40.092742,
+    -111.636714,
+    40.092742
+],
+  "geometry": {"coordinates":[-111.636714,40.092742],"type":"Point"}
+}

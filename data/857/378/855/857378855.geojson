@@ -1,0 +1,73 @@
+{
+  "id": 857378855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.814076,41.746401,-111.814076,41.746401",
+    "geom:latitude":41.746401,
+    "geom:longitude":-111.814076,
+    "iso:country":"US",
+    "sg:address":"705 N 800 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 0780",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "sorority",
+        "fraternity"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1f3feHUHZ1kH1SIFF9TwTp_41.746401_-111.814076@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128092,
+    "wof:geomhash":"4d310fb6c43c5fdcd6c93ae89bda851c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857378855
+        }
+    ],
+    "wof:id":857378855,
+    "wof:lastmodified":1464128092,
+    "wof:name":"Sigma Chi Fraternity",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sorority",
+        "fraternity"
+    ]
+},
+  "bbox": [
+    -111.814076,
+    41.746401,
+    -111.814076,
+    41.746401
+],
+  "geometry": {"coordinates":[-111.814076,41.746401],"type":"Point"}
+}

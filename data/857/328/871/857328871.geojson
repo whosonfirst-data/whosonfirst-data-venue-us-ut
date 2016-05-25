@@ -1,0 +1,75 @@
+{
+  "id": 857328871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.672049,40.255863,-111.672049,40.255863",
+    "geom:latitude":40.255863,
+    "geom:longitude":-111.672049,
+    "iso:country":"US",
+    "sg:address":"1415 N State St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 7920",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop",
+        "thrift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41pNx9qXcv6fnhVWRALwTD_40.255863_-111.672049@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127029,
+    "wof:geomhash":"82de44b6ab656583bc93d8d838ca7dfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880063,
+            "region_id":85688567,
+            "venue_id":857328871
+        }
+    ],
+    "wof:id":857328871,
+    "wof:lastmodified":1464127029,
+    "wof:name":"Deseret Industries",
+    "wof:parent_id":85880063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "thrift"
+    ]
+},
+  "bbox": [
+    -111.672049,
+    40.255863,
+    -111.672049,
+    40.255863
+],
+  "geometry": {"coordinates":[-111.672049,40.255863],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857432823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.883866,40.912541,-111.883866,40.912541",
+    "geom:latitude":40.912541,
+    "geom:longitude":-111.883866,
+    "iso:country":"US",
+    "sg:address":"289 Williams Ln",
+    "sg:city":"Centerville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 298 7718",
+    "sg:postcode":"84014",
+    "sg:province":"UT",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727879,
+        102083563,
+        85842111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06rZTS3Z8ivS3cpBQrBn6Y_40.912541_-111.883866@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129422,
+    "wof:geomhash":"40422bd2a567ff137f218cb541973e11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727879,
+            "neighbourhood_id":85842111,
+            "region_id":85688567,
+            "venue_id":857432823
+        }
+    ],
+    "wof:id":857432823,
+    "wof:lastmodified":1464129422,
+    "wof:name":"Landvisions Landscape Inc",
+    "wof:parent_id":85842111,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -111.883866,
+    40.912541,
+    -111.883866,
+    40.912541
+],
+  "geometry": {"coordinates":[-111.883866,40.912541],"type":"Point"}
+}

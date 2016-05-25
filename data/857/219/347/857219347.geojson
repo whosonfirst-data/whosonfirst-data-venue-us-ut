@@ -1,0 +1,75 @@
+{
+  "id": 857219347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.853009,40.706468,-111.853009,40.706468",
+    "geom:latitude":40.706468,
+    "geom:longitude":-111.853009,
+    "iso:country":"US",
+    "sg:address":"2965 Highland Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 466 1577",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "club",
+        "night"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85851323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hH465cEg00Lx33wEShsAf_40.706468_-111.853009@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124602,
+    "wof:geomhash":"42550ca5cccf929c271482242d57fb85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85851323,
+            "region_id":85688567,
+            "venue_id":857219347
+        }
+    ],
+    "wof:id":857219347,
+    "wof:lastmodified":1464124602,
+    "wof:name":"Bongo",
+    "wof:parent_id":85851323,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "night"
+    ]
+},
+  "bbox": [
+    -111.853009,
+    40.706468,
+    -111.853009,
+    40.706468
+],
+  "geometry": {"coordinates":[-111.853009,40.706468],"type":"Point"}
+}

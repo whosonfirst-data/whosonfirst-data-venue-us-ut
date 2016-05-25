@@ -1,0 +1,73 @@
+{
+  "id": 857309007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.70246,40.317568,-111.70246,40.317568",
+    "geom:latitude":40.317568,
+    "geom:longitude":-111.70246,
+    "iso:country":"US",
+    "sg:address":"1102 N 300 W",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 235 9075",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7k12t1eci1EuW9z16LHuqG_40.317568_-111.702460@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126599,
+    "wof:geomhash":"6ec243c15851f2942b26b0132e96a0c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":857309007
+        }
+    ],
+    "wof:id":857309007,
+    "wof:lastmodified":1464126599,
+    "wof:name":"Utah Valley Solatubes",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.70246,
+    40.317568,
+    -111.70246,
+    40.317568
+],
+  "geometry": {"coordinates":[-111.70246,40.317568],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857435873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.950126,41.105022,-111.950126,41.105022",
+    "geom:latitude":41.105022,
+    "geom:longitude":-111.950126,
+    "iso:country":"US",
+    "sg:address":"3135 N Fairfield Rd",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 771 9099",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "hospice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85844663,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dG3QdJChQYEFR69gqdFfU_41.105022_-111.950126@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129484,
+    "wof:geomhash":"eea6a7cf33f7a7ae57bd16fb1266a720",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "neighbourhood_id":85844663,
+            "region_id":85688567,
+            "venue_id":857435873
+        }
+    ],
+    "wof:id":857435873,
+    "wof:lastmodified":1464129484,
+    "wof:name":"Legacy Health Care Inc",
+    "wof:parent_id":85844663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospice"
+    ]
+},
+  "bbox": [
+    -111.950126,
+    41.105022,
+    -111.950126,
+    41.105022
+],
+  "geometry": {"coordinates":[-111.950126,41.105022],"type":"Point"}
+}

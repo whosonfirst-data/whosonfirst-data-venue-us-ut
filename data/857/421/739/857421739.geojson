@@ -1,0 +1,73 @@
+{
+  "id": 857421739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.967534,40.605101,-111.967534,40.605101",
+    "geom:latitude":40.605101,
+    "geom:longitude":-111.967534,
+    "iso:country":"US",
+    "sg:address":"3238 W 8050 S",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 561 4849",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85843301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08xH6lSajWOgdV7m95hXLM_40.605101_-111.967534@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129141,
+    "wof:geomhash":"2d283be659200c871ea5765e9ff3cb4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85843301,
+            "region_id":85688567,
+            "venue_id":857421739
+        }
+    ],
+    "wof:id":857421739,
+    "wof:lastmodified":1464129141,
+    "wof:name":"Profiles",
+    "wof:parent_id":85843301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.967534,
+    40.605101,
+    -111.967534,
+    40.605101
+],
+  "geometry": {"coordinates":[-111.967534,40.605101],"type":"Point"}
+}

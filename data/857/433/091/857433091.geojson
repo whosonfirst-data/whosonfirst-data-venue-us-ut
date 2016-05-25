@@ -1,0 +1,71 @@
+{
+  "id": 857433091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.788975,41.752047,-111.788975,41.752047",
+    "geom:latitude":41.752047,
+    "geom:longitude":-111.788975,
+    "iso:country":"US",
+    "sg:address":"1161 Aspen Dr",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 1021",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bXp75JUkqR665Rr1MujXn_41.752047_-111.788975@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129428,
+    "wof:geomhash":"683059ad5080f754dbccf98de99fa91e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857433091
+        }
+    ],
+    "wof:id":857433091,
+    "wof:lastmodified":1464129428,
+    "wof:name":"Pocatello Central Park",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.788975,
+    41.752047,
+    -111.788975,
+    41.752047
+],
+  "geometry": {"coordinates":[-111.78897499999999,41.752047],"type":"Point"}
+}

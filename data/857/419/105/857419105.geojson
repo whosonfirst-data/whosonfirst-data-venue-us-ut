@@ -1,0 +1,75 @@
+{
+  "id": 857419105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.895482,40.835123,-111.895482,40.835123",
+    "geom:latitude":40.835123,
+    "geom:longitude":-111.895482,
+    "iso:country":"US",
+    "sg:address":"365 Constitution Way",
+    "sg:city":"North Salt Lake",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 363 0363",
+    "sg:postcode":"84054",
+    "sg:province":"UT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727895,
+        102083563,
+        85839735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NPgqqY8UVdQEuwOqJZjKJ_40.835123_-111.895482@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129079,
+    "wof:geomhash":"ac73fd31367c8ade463917e6fe54ff2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727895,
+            "neighbourhood_id":85839735,
+            "region_id":85688567,
+            "venue_id":857419105
+        }
+    ],
+    "wof:id":857419105,
+    "wof:lastmodified":1464129079,
+    "wof:name":"SOS Plumbing & Drain Svc",
+    "wof:parent_id":85839735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.895482,
+    40.835123,
+    -111.895482,
+    40.835123
+],
+  "geometry": {"coordinates":[-111.895482,40.835123],"type":"Point"}
+}

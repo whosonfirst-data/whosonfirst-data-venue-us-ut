@@ -1,0 +1,80 @@
+{
+  "id": 857155879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.874626,40.771177,-111.874626,40.771177",
+    "geom:latitude":40.771177,
+    "geom:longitude":-111.874626,
+    "iso:country":"US",
+    "sg:address":"73 G St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 532 1212",
+    "sg:postcode":"84103",
+    "sg:province":"UT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85809299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EdhKzzHEmN4Ml2II0RzhO_40.771177_-111.874626@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123264,
+    "wof:geomhash":"5d13e6f07989caeea95f4f98b4e92a00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85809299,
+            "region_id":85688567,
+            "venue_id":857155879
+        }
+    ],
+    "wof:id":857155879,
+    "wof:lastmodified":1464123264,
+    "wof:name":"Susan Mirow PHD MD",
+    "wof:parent_id":85809299,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -111.874626,
+    40.771177,
+    -111.874626,
+    40.771177
+],
+  "geometry": {"coordinates":[-111.87462600000001,40.771177],"type":"Point"}
+}

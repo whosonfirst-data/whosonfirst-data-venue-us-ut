@@ -1,0 +1,74 @@
+{
+  "id": 857493899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.971194,41.197485,-111.971194,41.197485",
+    "geom:latitude":41.197485,
+    "geom:longitude":-111.971194,
+    "iso:country":"US",
+    "sg:address":"3607 Washington Blvd",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/ogden/279736-ye-lions-den-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 399 5804",
+    "sg:postcode":"84403",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728021,
+        102083539,
+        85810865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41pp1zrNYu7GblyBNeWlDe_41.197485_-111.971194@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130728,
+    "wof:geomhash":"8a5a5c63f9f9413228d005656ff74aec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728021,
+            "neighbourhood_id":85810865,
+            "region_id":85688567,
+            "venue_id":857493899
+        }
+    ],
+    "wof:id":857493899,
+    "wof:lastmodified":1464130728,
+    "wof:name":"Ye Lion's Den Restaurant",
+    "wof:parent_id":85810865,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -111.971194,
+    41.197485,
+    -111.971194,
+    41.197485
+],
+  "geometry": {"coordinates":[-111.971194,41.197485],"type":"Point"}
+}

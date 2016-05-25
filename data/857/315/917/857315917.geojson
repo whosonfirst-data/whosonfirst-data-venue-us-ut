@@ -1,0 +1,68 @@
+{
+  "id": 857315917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.64637,40.226919,-111.64637,40.226919",
+    "geom:latitude":40.226919,
+    "geom:longitude":-111.64637,
+    "iso:country":"US",
+    "sg:address":"602 E 500 S",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 533 2700",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RIdPa9JldJZt5AImtOVfn_40.226919_-111.646370@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126739,
+    "wof:geomhash":"7c91d6e583dca643fc4e7496435cfcf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880093,
+            "region_id":85688567,
+            "venue_id":857315917
+        }
+    ],
+    "wof:id":857315917,
+    "wof:lastmodified":1464126739,
+    "wof:name":"Grand Buffet",
+    "wof:parent_id":85880093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.64637,
+    40.226919,
+    -111.64637,
+    40.226919
+],
+  "geometry": {"coordinates":[-111.64637,40.226919],"type":"Point"}
+}

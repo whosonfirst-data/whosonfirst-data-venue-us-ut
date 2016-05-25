@@ -1,0 +1,71 @@
+{
+  "id": 857129909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.699505,40.239405,-111.699505,40.239405",
+    "geom:latitude":40.239405,
+    "geom:longitude":-111.699505,
+    "iso:country":"US",
+    "sg:address":"423 N 2330 W",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 1944",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mail",
+        "order"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880073,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GPBKHT3Erz2eMatu3kYlo_40.239405_-111.699505@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122679,
+    "wof:geomhash":"5e5871bb4e213ef031a09f99c7f16e23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880073,
+            "region_id":85688567,
+            "venue_id":857129909
+        }
+    ],
+    "wof:id":857129909,
+    "wof:lastmodified":1464122679,
+    "wof:name":"Infoads",
+    "wof:parent_id":85880073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "order"
+    ]
+},
+  "bbox": [
+    -111.699505,
+    40.239405,
+    -111.699505,
+    40.239405
+],
+  "geometry": {"coordinates":[-111.699505,40.239405],"type":"Point"}
+}

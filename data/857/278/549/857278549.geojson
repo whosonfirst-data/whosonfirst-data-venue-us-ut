@@ -1,0 +1,72 @@
+{
+  "id": 857278549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.84606,41.718876,-111.84606,41.718876",
+    "geom:latitude":41.718876,
+    "geom:longitude":-111.84606,
+    "iso:country":"US",
+    "sg:address":"419 W 700 S",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 750 9893",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "village"
+    ],
+    "sg:website":"www.loganutah.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3I2JgJVJTEo9sS8bBUCHLt_41.718876_-111.846060@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125880,
+    "wof:geomhash":"0098fc3ff3b265eb352ade6a6a445a28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857278549
+        }
+    ],
+    "wof:id":857278549,
+    "wof:lastmodified":1464125880,
+    "wof:name":"Logan City Zoo",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -111.84606,
+    41.718876,
+    -111.84606,
+    41.718876
+],
+  "geometry": {"coordinates":[-111.84605999999999,41.718876],"type":"Point"}
+}

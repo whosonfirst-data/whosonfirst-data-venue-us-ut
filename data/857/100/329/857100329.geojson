@@ -1,0 +1,73 @@
+{
+  "id": 857100329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.826905,41.710135,-111.826905,41.710135",
+    "geom:latitude":41.710135,
+    "geom:longitude":-111.826905,
+    "iso:country":"US",
+    "sg:address":"325 W 100 N",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 8824",
+    "sg:postcode":"84332",
+    "sg:province":"UT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JIYM5ZPOpIyGb3qR1ihdr_41.710135_-111.826905@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121917,
+    "wof:geomhash":"4909d746b8cbe374cd61508df751e49f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857100329
+        }
+    ],
+    "wof:id":857100329,
+    "wof:lastmodified":1464121917,
+    "wof:name":"Coldwell Banker Gold Key",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -111.826905,
+    41.710135,
+    -111.826905,
+    41.710135
+],
+  "geometry": {"coordinates":[-111.826905,41.710135],"type":"Point"}
+}

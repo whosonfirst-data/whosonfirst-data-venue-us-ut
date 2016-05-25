@@ -1,0 +1,77 @@
+{
+  "id": 857234525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.927228,40.725176,-111.927228,40.725176",
+    "geom:latitude":40.725176,
+    "geom:longitude":-111.927228,
+    "iso:country":"US",
+    "sg:address":"2133 S 1260 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 628 2226",
+    "sg:postcode":"84119",
+    "sg:province":"UT",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85848029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2q2ELyqJOuB3HjLtBtW4ZU_40.725176_-111.927228@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124892,
+    "wof:geomhash":"e8d6971780e7be60cbefe5e93d8ca7ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85848029,
+            "region_id":85688567,
+            "venue_id":857234525
+        }
+    ],
+    "wof:id":857234525,
+    "wof:lastmodified":1464124892,
+    "wof:name":"Croft Beck Floors Inc",
+    "wof:parent_id":85848029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.927228,
+    40.725176,
+    -111.927228,
+    40.725176
+],
+  "geometry": {"coordinates":[-111.927228,40.725176],"type":"Point"}
+}

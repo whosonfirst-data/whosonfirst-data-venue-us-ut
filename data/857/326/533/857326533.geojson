@@ -1,0 +1,75 @@
+{
+  "id": 857326533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.891242,40.685071,-111.891242,40.685071",
+    "geom:latitude":40.685071,
+    "geom:longitude":-111.891242,
+    "iso:country":"US",
+    "sg:address":"4036 S Main St",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 288 2066",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85810147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71v1S38BlO4tutI9IUh7Mh_40.685071_-111.891242@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126980,
+    "wof:geomhash":"18494a7f681272ea924509b36d59ed67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85810147,
+            "region_id":85688567,
+            "venue_id":857326533
+        }
+    ],
+    "wof:id":857326533,
+    "wof:lastmodified":1464126980,
+    "wof:name":"Car Traders LLC",
+    "wof:parent_id":85810147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -111.891242,
+    40.685071,
+    -111.891242,
+    40.685071
+],
+  "geometry": {"coordinates":[-111.89124200000001,40.685071],"type":"Point"}
+}

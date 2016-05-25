@@ -1,0 +1,73 @@
+{
+  "id": 857100059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.664056,40.244301,-111.664056,40.244301",
+    "geom:latitude":40.244301,
+    "geom:longitude":-111.664056,
+    "iso:country":"US",
+    "sg:address":"251 W 800 N",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 852 6000",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WD3wT3prjVInP70rWEiJd_40.244301_-111.664056@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121908,
+    "wof:geomhash":"6b0939d47cb445d15ace8c66ed2c3497",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880121,
+            "region_id":85688567,
+            "venue_id":857100059
+        }
+    ],
+    "wof:id":857100059,
+    "wof:lastmodified":1464121908,
+    "wof:name":"Provo Recycling Dept",
+    "wof:parent_id":85880121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -111.664056,
+    40.244301,
+    -111.664056,
+    40.244301
+],
+  "geometry": {"coordinates":[-111.664056,40.244301],"type":"Point"}
+}

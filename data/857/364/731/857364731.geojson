@@ -1,0 +1,71 @@
+{
+  "id": 857364731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.910058,41.026952,-111.910058,41.026952",
+    "geom:latitude":41.026952,
+    "geom:longitude":-111.910058,
+    "iso:country":"US",
+    "sg:address":"1074 E Nicholls Rd",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 544 0401",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "executive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fUqAJ0ZbwkyxxuWyjO4NQ_41.026952_-111.910058@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127799,
+    "wof:geomhash":"18f14b507adada9ab1eb1fb205d83e81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857364731
+        }
+    ],
+    "wof:id":857364731,
+    "wof:lastmodified":1464127799,
+    "wof:name":"Davis Park Course",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "executive"
+    ]
+},
+  "bbox": [
+    -111.910058,
+    41.026952,
+    -111.910058,
+    41.026952
+],
+  "geometry": {"coordinates":[-111.91005800000001,41.026952],"type":"Point"}
+}

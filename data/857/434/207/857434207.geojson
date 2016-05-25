@@ -1,0 +1,75 @@
+{
+  "id": 857434207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.921737,41.032508,-111.921737,41.032508",
+    "geom:latitude":41.032508,
+    "geom:longitude":-111.921737,
+    "iso:country":"US",
+    "sg:address":"113 S 700 E",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 544 3131",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Kod3ikCGaDULVlXQF7YSs_41.032508_-111.921737@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129450,
+    "wof:geomhash":"c247ec9ed89c11a0443d182acc56ea59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857434207
+        }
+    ],
+    "wof:id":857434207,
+    "wof:lastmodified":1464129450,
+    "wof:name":"Richins Bar R Ranch",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -111.921737,
+    41.032508,
+    -111.921737,
+    41.032508
+],
+  "geometry": {"coordinates":[-111.92173699999999,41.032508],"type":"Point"}
+}

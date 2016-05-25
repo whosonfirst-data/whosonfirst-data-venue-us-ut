@@ -1,0 +1,80 @@
+{
+  "id": 857493537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.855329,40.632798,-111.855329,40.632798",
+    "geom:latitude":40.632798,
+    "geom:longitude":-111.855329,
+    "iso:country":"US",
+    "sg:address":"6500 S 1300 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/89073-sweet-tomatoes/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 943 0977",
+    "sg:postcode":"84121",
+    "sg:province":"UT",
+    "sg:tags":[
+        "soup",
+        "american",
+        "pastry",
+        "salad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85802555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5esC5I9WzGF2JUgBh1rYLQ_40.632798_-111.855329@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130716,
+    "wof:geomhash":"42f4e2891250f52a15e234a5eaf218d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85802555,
+            "region_id":85688567,
+            "venue_id":857493537
+        }
+    ],
+    "wof:id":857493537,
+    "wof:lastmodified":1464130716,
+    "wof:name":"Sweet Tomatoes",
+    "wof:parent_id":85802555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "soup",
+        "american",
+        "pastry",
+        "salad"
+    ]
+},
+  "bbox": [
+    -111.855329,
+    40.632798,
+    -111.855329,
+    40.632798
+],
+  "geometry": {"coordinates":[-111.855329,40.632798],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857380321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.980353,37.00315,-112.980353,37.00315",
+    "geom:latitude":37.00315,
+    "geom:longitude":-112.980353,
+    "iso:country":"US",
+    "sg:address":"725 Lauritzen St",
+    "sg:city":"Hildale",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Plants",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 874 2311",
+    "sg:postcode":"84784",
+    "sg:province":"UT",
+    "sg:tags":[
+        "nursery",
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727619,
+        102082879,
+        85822405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WTB3cGf4inYtT3I7mifHf_37.003150_-112.980353@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128131,
+    "wof:geomhash":"559d063f219e6439710389458a831084",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727619,
+            "neighbourhood_id":85822405,
+            "region_id":85688567,
+            "venue_id":857380321
+        }
+    ],
+    "wof:id":857380321,
+    "wof:lastmodified":1464128131,
+    "wof:name":"Southwest Nursery",
+    "wof:parent_id":85822405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursery",
+        "tree"
+    ]
+},
+  "bbox": [
+    -112.980353,
+    37.00315,
+    -112.980353,
+    37.00315
+],
+  "geometry": {"coordinates":[-112.98035299999999,37.00315],"type":"Point"}
+}

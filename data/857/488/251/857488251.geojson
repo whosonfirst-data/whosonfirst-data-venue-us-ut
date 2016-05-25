@@ -1,0 +1,75 @@
+{
+  "id": 857488251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.657027,37.143747,-113.657027,37.143747",
+    "geom:latitude":37.143747,
+    "geom:longitude":-113.657027,
+    "iso:country":"US",
+    "sg:address":"3459 Serenity Ln",
+    "sg:city":"Santa Clara",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 674 2572",
+    "sg:postcode":"84765",
+    "sg:province":"UT",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kD5QyehbDnouldCV60014_37.143747_-113.657027@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130542,
+    "wof:geomhash":"c29332edc8f22edefd420b4af807db0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857488251
+        }
+    ],
+    "wof:id":857488251,
+    "wof:lastmodified":1464130542,
+    "wof:name":"Touch Painting Paralleled",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -113.657027,
+    37.143747,
+    -113.657027,
+    37.143747
+],
+  "geometry": {"coordinates":[-113.657027,37.143747],"type":"Point"}
+}

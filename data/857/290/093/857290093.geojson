@@ -1,0 +1,77 @@
+{
+  "id": 857290093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.643062,40.248522,-111.643062,40.248522",
+    "geom:latitude":40.248522,
+    "geom:longitude":-111.643062,
+    "iso:country":"US",
+    "sg:address":"1190 N 900 East St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 422 7620",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "clinic",
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TsoHtXvtvHM60D8ymv90y_40.248522_-111.643062@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126151,
+    "wof:geomhash":"8be0070f8b07e9ec5fd92432d914664e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880125,
+            "region_id":85688567,
+            "venue_id":857290093
+        }
+    ],
+    "wof:id":857290093,
+    "wof:lastmodified":1464126151,
+    "wof:name":"LDS Family Services",
+    "wof:parent_id":85880125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -111.643062,
+    40.248522,
+    -111.643062,
+    40.248522
+],
+  "geometry": {"coordinates":[-111.643062,40.248522],"type":"Point"}
+}

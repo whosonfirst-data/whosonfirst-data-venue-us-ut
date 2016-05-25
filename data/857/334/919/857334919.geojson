@@ -1,0 +1,71 @@
+{
+  "id": 857334919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.667022,40.299512,-111.667022,40.299512",
+    "geom:latitude":40.299512,
+    "geom:longitude":-111.667022,
+    "iso:country":"US",
+    "sg:address":"73 N 1200 E",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 226 6910",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "development",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Mio0mWk4XCvCvTsDYAeVv_40.299512_-111.667022@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127165,
+    "wof:geomhash":"220f502abaa6a417e6dce65302c6a96c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857334919
+        }
+    ],
+    "wof:id":857334919,
+    "wof:lastmodified":1464127165,
+    "wof:name":"Technology Partners",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "software"
+    ]
+},
+  "bbox": [
+    -111.667022,
+    40.299512,
+    -111.667022,
+    40.299512
+],
+  "geometry": {"coordinates":[-111.667022,40.299512],"type":"Point"}
+}

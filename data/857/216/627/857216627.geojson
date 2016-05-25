@@ -1,0 +1,75 @@
+{
+  "id": 857216627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.637554,37.126493,-113.637554,37.126493",
+    "geom:latitude":37.126493,
+    "geom:longitude":-113.637554,
+    "iso:country":"US",
+    "sg:address":"2251 Santa Clara Dr",
+    "sg:city":"Santa Clara",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 674 0682",
+    "sg:postcode":"84765",
+    "sg:province":"UT",
+    "sg:tags":[
+        "equipment",
+        "power"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37465basaYUSAELQPZSkbm_37.126493_-113.637554@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124544,
+    "wof:geomhash":"90d2b23d69769342223c92b25942ed06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857216627
+        }
+    ],
+    "wof:id":857216627,
+    "wof:lastmodified":1464124544,
+    "wof:name":"Alldredge Power Equipment",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "power"
+    ]
+},
+  "bbox": [
+    -113.637554,
+    37.126493,
+    -113.637554,
+    37.126493
+],
+  "geometry": {"coordinates":[-113.63755399999999,37.126493],"type":"Point"}
+}

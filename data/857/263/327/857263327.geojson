@@ -1,0 +1,73 @@
+{
+  "id": 857263327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.004011,40.303762,-112.004011,40.303762",
+    "geom:latitude":40.303762,
+    "geom:longitude":-112.004011,
+    "iso:country":"US",
+    "sg:address":"2080 Spring St",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 592 9018",
+    "sg:postcode":"84005",
+    "sg:province":"UT",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727857,
+        102083567,
+        85836317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ruFvzoulXQqzr9LuQksZK_40.303762_-112.004011@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125559,
+    "wof:geomhash":"4a64940801f6c20d0c811c86ef37fe90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727857,
+            "neighbourhood_id":85836317,
+            "region_id":85688567,
+            "venue_id":857263327
+        }
+    ],
+    "wof:id":857263327,
+    "wof:lastmodified":1464125559,
+    "wof:name":"Wasatch Pines",
+    "wof:parent_id":85836317,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -112.004011,
+    40.303762,
+    -112.004011,
+    40.303762
+],
+  "geometry": {"coordinates":[-112.00401100000001,40.303762],"type":"Point"}
+}

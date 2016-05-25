@@ -1,0 +1,68 @@
+{
+  "id": 857320873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.695019,40.265892,-111.695019,40.265892",
+    "geom:latitude":40.265892,
+    "geom:longitude":-111.695019,
+    "iso:country":"US",
+    "sg:address":"1786 S Main St",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 225 2202",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10hRZl6PbMKYcMjBIfsjL9_40.265892_-111.695019@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126867,
+    "wof:geomhash":"34028ae0fdde5a6a926240d7653b2947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880087,
+            "region_id":85688567,
+            "venue_id":857320873
+        }
+    ],
+    "wof:id":857320873,
+    "wof:lastmodified":1464126867,
+    "wof:name":"Busy Corner Inc",
+    "wof:parent_id":85880087,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.695019,
+    40.265892,
+    -111.695019,
+    40.265892
+],
+  "geometry": {"coordinates":[-111.695019,40.265892],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857351127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.62392,40.101866,-111.62392,40.101866",
+    "geom:latitude":40.101866,
+    "geom:longitude":-111.62392,
+    "iso:country":"US",
+    "sg:address":"1748 E 640 S",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 7705",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1olqYngaZHAvvB1V2e9fVl_40.101866_-111.623920@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127508,
+    "wof:geomhash":"b6044cbe5b92502b767a878609d7b6ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857351127
+        }
+    ],
+    "wof:id":857351127,
+    "wof:lastmodified":1464127508,
+    "wof:name":"Dixon Electric",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.62392,
+    40.101866,
+    -111.62392,
+    40.101866
+],
+  "geometry": {"coordinates":[-111.62392,40.101866],"type":"Point"}
+}

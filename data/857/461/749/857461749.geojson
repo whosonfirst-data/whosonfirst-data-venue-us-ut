@@ -1,0 +1,73 @@
+{
+  "id": 857461749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.843766,41.757839,-111.843766,41.757839",
+    "geom:latitude":41.757839,
+    "geom:longitude":-111.843766,
+    "iso:country":"US",
+    "sg:address":"357 W 1400 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 7202",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor",
+        "con"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34ndKQ9Pgd8JKfDFIjs46a_41.757839_-111.843766@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129986,
+    "wof:geomhash":"26a92d2f4775aaeb9c65ce1a55739441",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857461749
+        }
+    ],
+    "wof:id":857461749,
+    "wof:lastmodified":1464129986,
+    "wof:name":"Tenko Metals Inc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "con"
+    ]
+},
+  "bbox": [
+    -111.843766,
+    41.757839,
+    -111.843766,
+    41.757839
+],
+  "geometry": {"coordinates":[-111.843766,41.757839],"type":"Point"}
+}

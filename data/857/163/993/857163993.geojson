@@ -1,0 +1,68 @@
+{
+  "id": 857163993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.916888,40.743472,-111.916888,40.743472",
+    "geom:latitude":40.743472,
+    "geom:longitude":-111.916888,
+    "iso:country":"US",
+    "sg:address":"1168 S 900 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 977 9197",
+    "sg:postcode":"84104",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85833353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kAsgtswMu97Yd9uYz2WDJ_40.743472_-111.916888@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123445,
+    "wof:geomhash":"7cac2410540803a39cf7e0ac211fdd6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85833353,
+            "region_id":85688567,
+            "venue_id":857163993
+        }
+    ],
+    "wof:id":857163993,
+    "wof:lastmodified":1464123445,
+    "wof:name":"Lei's Floral Design & Cater",
+    "wof:parent_id":85833353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.916888,
+    40.743472,
+    -111.916888,
+    40.743472
+],
+  "geometry": {"coordinates":[-111.916888,40.743472],"type":"Point"}
+}

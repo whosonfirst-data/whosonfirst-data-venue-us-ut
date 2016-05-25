@@ -1,0 +1,69 @@
+{
+  "id": 857376659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.853237,40.594396,-111.853237,40.594396",
+    "geom:latitude":40.594396,
+    "geom:longitude":-111.853237,
+    "iso:country":"US",
+    "sg:address":"8650 S 1300 E",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 563 1688",
+    "sg:postcode":"84094",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85847325,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NGuHxtWNIEk7HhfxvZa5c_40.594396_-111.853237@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128050,
+    "wof:geomhash":"105c1afa744082cf48dd32784c49b51d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85847325,
+            "region_id":85688567,
+            "venue_id":857376659
+        }
+    ],
+    "wof:id":857376659,
+    "wof:lastmodified":1464128050,
+    "wof:name":"Cafe Anh Hong 2",
+    "wof:parent_id":85847325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.853237,
+    40.594396,
+    -111.853237,
+    40.594396
+],
+  "geometry": {"coordinates":[-111.85323699999999,40.594396],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 857263021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.847182,40.712649,-111.847182,40.712649",
+    "geom:latitude":40.712649,
+    "geom:longitude":-111.847182,
+    "iso:country":"US",
+    "sg:address":"2828 Fillmore St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 466 6186",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "medical",
+        "imaging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85851323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZxdgP8QkLCmypsWS8zSK3_40.712649_-111.847182@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125554,
+    "wof:geomhash":"2ec7e03d294efa4cc044bbceaa85e4b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85851323,
+            "region_id":85688567,
+            "venue_id":857263021
+        }
+    ],
+    "wof:id":857263021,
+    "wof:lastmodified":1464125554,
+    "wof:name":"Canyon Medical Imaging LLC",
+    "wof:parent_id":85851323,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "imaging"
+    ]
+},
+  "bbox": [
+    -111.847182,
+    40.712649,
+    -111.847182,
+    40.712649
+],
+  "geometry": {"coordinates":[-111.847182,40.712649],"type":"Point"}
+}

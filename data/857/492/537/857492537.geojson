@@ -1,0 +1,76 @@
+{
+  "id": 857492537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.065526,41.089193,-112.065526,41.089193",
+    "geom:latitude":41.089193,
+    "geom:longitude":-112.065526,
+    "iso:country":"US",
+    "sg:address":"2052 W 1700 S",
+    "sg:city":"Syracuse",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/north-davis/77707-papa-murphys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 776 2233",
+    "sg:postcode":"84075",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727889,
+        102083563,
+        85804563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DcTeEPzBfsVPxQkjWfcHF_41.089193_-112.065526@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130683,
+    "wof:geomhash":"dbcd285e93c423c9834e31529cb2d25d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727889,
+            "neighbourhood_id":85804563,
+            "region_id":85688567,
+            "venue_id":857492537
+        }
+    ],
+    "wof:id":857492537,
+    "wof:lastmodified":1464130683,
+    "wof:name":"Papa Murphy's",
+    "wof:parent_id":85804563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -112.065526,
+    41.089193,
+    -112.065526,
+    41.089193
+],
+  "geometry": {"coordinates":[-112.06552600000001,41.089193],"type":"Point"}
+}

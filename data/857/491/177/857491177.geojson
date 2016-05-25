@@ -1,0 +1,84 @@
+{
+  "id": 857491177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.880211,40.935169,-111.880211,40.935169",
+    "geom:latitude":40.935169,
+    "geom:longitude":-111.880211,
+    "iso:country":"US",
+    "sg:address":"1398 N 75 W",
+    "sg:city":"Centerville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 292 9639",
+    "sg:postcode":"84014",
+    "sg:province":"UT",
+    "sg:tags":[
+        "cake",
+        "wedding",
+        "pastry",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727879,
+        102083563,
+        85809721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6W9v9ssL7ACEssTIkI6S4W_40.934699_-111.880189@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464130624,
+    "wof:geomhash":"91206131a212b252ae6b93a0b24c4a74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727879,
+            "neighbourhood_id":85809721,
+            "region_id":85688567,
+            "venue_id":857491177
+        }
+    ],
+    "wof:id":857491177,
+    "wof:lastmodified":1464130624,
+    "wof:name":"Mrs Flinders Cake",
+    "wof:parent_id":85809721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cake",
+        "wedding",
+        "pastry",
+        "supply"
+    ]
+},
+  "bbox": [
+    -111.880211,
+    40.935169,
+    -111.880211,
+    40.935169
+],
+  "geometry": {"coordinates":[-111.880211,40.935169],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 857164195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.890352,40.622992,-111.890352,40.622992",
+    "geom:latitude":40.622992,
+    "geom:longitude":-111.890352,
+    "iso:country":"US",
+    "sg:address":"175 W 7065 S",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 255 2556",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate",
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728051,
+        102082877,
+        85851957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DqJ3BCyLIDAmzTgfKAq6x_40.622992_-111.890352@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123449,
+    "wof:geomhash":"6a96add57eb86cfadd25dbf5318df2f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85851957,
+            "region_id":85688567,
+            "venue_id":857164195
+        }
+    ],
+    "wof:id":857164195,
+    "wof:lastmodified":1464123449,
+    "wof:name":"Diamond Glass Co",
+    "wof:parent_id":85851957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "plate",
+        "repair"
+    ]
+},
+  "bbox": [
+    -111.890352,
+    40.622992,
+    -111.890352,
+    40.622992
+],
+  "geometry": {"coordinates":[-111.89035199999999,40.622992],"type":"Point"}
+}

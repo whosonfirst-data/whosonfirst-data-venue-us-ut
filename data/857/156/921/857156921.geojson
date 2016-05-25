@@ -1,0 +1,75 @@
+{
+  "id": 857156921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.899649,40.697079,-111.899649,40.697079",
+    "geom:latitude":40.697079,
+    "geom:longitude":-111.899649,
+    "iso:country":"US",
+    "sg:address":"3591 S 300 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 265 2690",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85810147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nTYJ0IrnJ4jbP4J5vqevo_40.697079_-111.899649@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123283,
+    "wof:geomhash":"60be61118f6116d16349e1425f5f0890",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85810147,
+            "region_id":85688567,
+            "venue_id":857156921
+        }
+    ],
+    "wof:id":857156921,
+    "wof:lastmodified":1464123283,
+    "wof:name":"Craftsman",
+    "wof:parent_id":85810147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.899649,
+    40.697079,
+    -111.899649,
+    40.697079
+],
+  "geometry": {"coordinates":[-111.899649,40.697079],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 857155507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.862526,40.767254,-111.862526,40.767254",
+    "geom:latitude":40.767254,
+    "geom:longitude":-111.862526,
+    "iso:country":"US",
+    "sg:address":"945 E 100 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 595 1919",
+    "sg:postcode":"84102",
+    "sg:province":"UT",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85853739,
+        85871029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3E4ytCWoA3e17MM4U1azXC_40.767254_-111.862526@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123258,
+    "wof:geomhash":"684dab6f90a74452f3266a7cda139f27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85853739,
+            "region_id":85688567,
+            "venue_id":857155507
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871029,
+            "region_id":85688567,
+            "venue_id":857155507
+        }
+    ],
+    "wof:id":857155507,
+    "wof:lastmodified":1464123258,
+    "wof:name":"Solomon Chacon",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -111.862526,
+    40.767254,
+    -111.862526,
+    40.767254
+],
+  "geometry": {"coordinates":[-111.862526,40.767254],"type":"Point"}
+}

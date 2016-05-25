@@ -1,0 +1,73 @@
+{
+  "id": 857212223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.905382,40.699049,-111.905382,40.699049",
+    "geom:latitude":40.699049,
+    "geom:longitude":-111.905382,
+    "iso:country":"US",
+    "sg:address":"3407 S 500 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 257 0140",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85810147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aF0o0U6iH1eTavUx5utnn_40.699049_-111.905382@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124443,
+    "wof:geomhash":"e8dac8ea5aa8bf005ca4e9b866ace100",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85810147,
+            "region_id":85688567,
+            "venue_id":857212223
+        }
+    ],
+    "wof:id":857212223,
+    "wof:lastmodified":1464124443,
+    "wof:name":"Acme Bail of Utah",
+    "wof:parent_id":85810147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -111.905382,
+    40.699049,
+    -111.905382,
+    40.699049
+],
+  "geometry": {"coordinates":[-111.905382,40.699049],"type":"Point"}
+}

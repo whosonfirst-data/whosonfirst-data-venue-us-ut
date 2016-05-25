@@ -1,0 +1,75 @@
+{
+  "id": 857162653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.598105,40.130156,-111.598105,40.130156",
+    "geom:latitude":40.130156,
+    "geom:longitude":-111.598105,
+    "iso:country":"US",
+    "sg:address":"1690 W Maple St",
+    "sg:city":"Mapleton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 489 6713",
+    "sg:postcode":"84664",
+    "sg:province":"UT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GBZwYN4wgTOcXYf7GMeN7_40.130156_-111.598105@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123417,
+    "wof:geomhash":"e871439f528835da0ceb2f037edf5281",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857162653
+        }
+    ],
+    "wof:id":857162653,
+    "wof:lastmodified":1464123417,
+    "wof:name":"Martin Ingram",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -111.598105,
+    40.130156,
+    -111.598105,
+    40.130156
+],
+  "geometry": {"coordinates":[-111.598105,40.130156],"type":"Point"}
+}

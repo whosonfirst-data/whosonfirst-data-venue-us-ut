@@ -1,0 +1,75 @@
+{
+  "id": 857098045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.891005,40.725634,-111.891005,40.725634",
+    "geom:latitude":40.725634,
+    "geom:longitude":-111.891005,
+    "iso:country":"US",
+    "sg:address":"2037 S Main St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 484 5909",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "control",
+        "weight"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85849489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XtUphOmWqUddTuSeOWlRT_40.725634_-111.891005@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121858,
+    "wof:geomhash":"98fbd5bacbc1a723c5df230a132b1fb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85849489,
+            "region_id":85688567,
+            "venue_id":857098045
+        }
+    ],
+    "wof:id":857098045,
+    "wof:lastmodified":1464121858,
+    "wof:name":"Salt Lake City Diet Clinic",
+    "wof:parent_id":85849489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "weight"
+    ]
+},
+  "bbox": [
+    -111.891005,
+    40.725634,
+    -111.891005,
+    40.725634
+],
+  "geometry": {"coordinates":[-111.89100500000001,40.725634],"type":"Point"}
+}

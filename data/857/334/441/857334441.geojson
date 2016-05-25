@@ -1,0 +1,66 @@
+{
+  "id": 857334441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.732202,40.044029,-111.732202,40.044029",
+    "geom:latitude":40.044029,
+    "geom:longitude":-111.732202,
+    "iso:country":"US",
+    "sg:address":"54 N Main St",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 2585",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ibIoKAUc6UFw68HCTGQiE_40.044029_-111.732202@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127156,
+    "wof:geomhash":"8832d67d1b56201511ea77b1f6a3307e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857334441
+        }
+    ],
+    "wof:id":857334441,
+    "wof:lastmodified":1464127156,
+    "wof:name":"Petal Pantry",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.732202,
+    40.044029,
+    -111.732202,
+    40.044029
+],
+  "geometry": {"coordinates":[-111.732202,40.044029],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857345935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.797526,40.378309,-111.797526,40.378309",
+    "geom:latitude":40.378309,
+    "geom:longitude":-111.797526,
+    "iso:country":"US",
+    "sg:address":"31 Church St",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 763 8729",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pgYQF5nL5QxNCXyP9fXCu_40.378309_-111.797526@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127391,
+    "wof:geomhash":"789340fe22aeb6399cb5f2b47ae1ee65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857345935
+        }
+    ],
+    "wof:id":857345935,
+    "wof:lastmodified":1464127391,
+    "wof:name":"American Fork City Youth Court",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -111.797526,
+    40.378309,
+    -111.797526,
+    40.378309
+],
+  "geometry": {"coordinates":[-111.797526,40.378309],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 857210119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.662183,40.228568,-111.662183,40.228568",
+    "geom:latitude":40.228568,
+    "geom:longitude":-111.662183,
+    "iso:country":"US",
+    "sg:address":"315 S Freedom Blvd",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 375 0900",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "salon",
+        "coin"
+    ],
+    "sg:website":"www.seasidetan.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZvmZmPcc2YVacDwQWKH06_40.228568_-111.662183@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124392,
+    "wof:geomhash":"3e0403dbe3a918278dbb1a36b7774f03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880065,
+            "region_id":85688567,
+            "venue_id":857210119
+        }
+    ],
+    "wof:id":857210119,
+    "wof:lastmodified":1464124392,
+    "wof:name":"Sea Side Laundry & Tanning",
+    "wof:parent_id":85880065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon",
+        "coin"
+    ]
+},
+  "bbox": [
+    -111.662183,
+    40.228568,
+    -111.662183,
+    40.228568
+],
+  "geometry": {"coordinates":[-111.662183,40.228568],"type":"Point"}
+}

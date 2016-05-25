@@ -1,0 +1,69 @@
+{
+  "id": 857260991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.697316,40.237629,-111.697316,40.237629",
+    "geom:latitude":40.237629,
+    "geom:longitude":-111.697316,
+    "iso:country":"US",
+    "sg:address":"2342 W 300 N",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 796 9353",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880073,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WEGeLP6MH4C6YYuCLFSo4_40.237629_-111.697316@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125510,
+    "wof:geomhash":"8ca3effa057636d021523ec210818ca2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880073,
+            "region_id":85688567,
+            "venue_id":857260991
+        }
+    ],
+    "wof:id":857260991,
+    "wof:lastmodified":1464125510,
+    "wof:name":"Utah Diesel Center",
+    "wof:parent_id":85880073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -111.697316,
+    40.237629,
+    -111.697316,
+    40.237629
+],
+  "geometry": {"coordinates":[-111.697316,40.237629],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857220259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.89982,40.689878,-111.89982,40.689878",
+    "geom:latitude":40.689878,
+    "geom:longitude":-111.89982,
+    "iso:country":"US",
+    "sg:address":"3690 S 300 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 264 1200",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85810147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IVFddvSyJbJ6nJRTWrhYs_40.689878_-111.899820@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124618,
+    "wof:geomhash":"50412e7481b5617770b92614d8482a7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85810147,
+            "region_id":85688567,
+            "venue_id":857220259
+        }
+    ],
+    "wof:id":857220259,
+    "wof:lastmodified":1464124618,
+    "wof:name":"A Company Inc",
+    "wof:parent_id":85810147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.89982,
+    40.689878,
+    -111.89982,
+    40.689878
+],
+  "geometry": {"coordinates":[-111.89982000000001,40.689878],"type":"Point"}
+}

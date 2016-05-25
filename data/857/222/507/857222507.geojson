@@ -1,0 +1,73 @@
+{
+  "id": 857222507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.885828,40.638504,-111.885828,40.638504",
+    "geom:latitude":40.638504,
+    "geom:longitude":-111.885828,
+    "iso:country":"US",
+    "sg:address":"125 E 6100 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 268 9827",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:tags":[
+        "special"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85822549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BBUbllBC2Z5SV3Nf4mLgp_40.638504_-111.885828@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124666,
+    "wof:geomhash":"ef0a5a304b030ba110de062edaf5eab3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85822549,
+            "region_id":85688567,
+            "venue_id":857222507
+        }
+    ],
+    "wof:id":857222507,
+    "wof:lastmodified":1464124666,
+    "wof:name":"Murray Storage Center",
+    "wof:parent_id":85822549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "special"
+    ]
+},
+  "bbox": [
+    -111.885828,
+    40.638504,
+    -111.885828,
+    40.638504
+],
+  "geometry": {"coordinates":[-111.885828,40.638504],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 857421629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.793809,40.376781,-111.793809,40.376781",
+    "geom:latitude":40.376781,
+    "geom:longitude":-111.793809,
+    "iso:country":"US",
+    "sg:address":"175 E State Rd",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 1755",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:website":"www.mykmart.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tvhdnQno2t6Go6691aCF3_40.376781_-111.793809@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129139,
+    "wof:geomhash":"0328137976641bd876ef14f5fe906a5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857421629
+        }
+    ],
+    "wof:id":857421629,
+    "wof:lastmodified":1464129139,
+    "wof:name":"Kmart",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.793809,
+    40.376781,
+    -111.793809,
+    40.376781
+],
+  "geometry": {"coordinates":[-111.793809,40.376781],"type":"Point"}
+}

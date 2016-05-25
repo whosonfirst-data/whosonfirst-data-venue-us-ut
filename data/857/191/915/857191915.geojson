@@ -1,0 +1,73 @@
+{
+  "id": 857191915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.018473,41.220722,-112.018473,41.220722",
+    "geom:latitude":41.220722,
+    "geom:longitude":-112.018473,
+    "iso:country":"US",
+    "sg:address":"2488 S 1620 W",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 791 2911",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85818351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1w9SV7W4C2MFX1snFdpzqx_41.220722_-112.018473@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124023,
+    "wof:geomhash":"8f2535946fbd7d10fb8d38a52521e540",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85818351,
+            "region_id":85688567,
+            "venue_id":857191915
+        }
+    ],
+    "wof:id":857191915,
+    "wof:lastmodified":1464124023,
+    "wof:name":"HMS",
+    "wof:parent_id":85818351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -112.018473,
+    41.220722,
+    -112.018473,
+    41.220722
+],
+  "geometry": {"coordinates":[-112.018473,41.220722],"type":"Point"}
+}

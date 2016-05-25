@@ -1,0 +1,73 @@
+{
+  "id": 857136559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.911238,41.117962,-111.911238,41.117962",
+    "geom:latitude":41.117962,
+    "geom:longitude":-111.911238,
+    "iso:country":"US",
+    "sg:address":"2625 E 8200 S",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 479 5012",
+    "sg:postcode":"84405",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727911,
+        102083563,
+        85847875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_264G5u5lejYPP20Uk5ltCs_41.117962_-111.911238@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122821,
+    "wof:geomhash":"40761eaef287010b4f81321f34b415ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727911,
+            "neighbourhood_id":85847875,
+            "region_id":85688567,
+            "venue_id":857136559
+        }
+    ],
+    "wof:id":857136559,
+    "wof:lastmodified":1464122821,
+    "wof:name":"Wells Western Electric",
+    "wof:parent_id":85847875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.911238,
+    41.117962,
+    -111.911238,
+    41.117962
+],
+  "geometry": {"coordinates":[-111.911238,41.117962],"type":"Point"}
+}

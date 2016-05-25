@@ -1,0 +1,73 @@
+{
+  "id": 857190783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.672267,40.252931,-111.672267,40.252931",
+    "geom:latitude":40.252931,
+    "geom:longitude":-111.672267,
+    "iso:country":"US",
+    "sg:address":"723 Columbia Ln",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 375 1260",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7F77OD9LA0y6ajpVyh3ODr_40.252931_-111.672267@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124002,
+    "wof:geomhash":"874432e2d6b879ad589d9d2b2f42e1ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880107,
+            "region_id":85688567,
+            "venue_id":857190783
+        }
+    ],
+    "wof:id":857190783,
+    "wof:lastmodified":1464124002,
+    "wof:name":"Clark Mechanical Contractors",
+    "wof:parent_id":85880107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.672267,
+    40.252931,
+    -111.672267,
+    40.252931
+],
+  "geometry": {"coordinates":[-111.67226700000001,40.252931],"type":"Point"}
+}

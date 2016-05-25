@@ -1,0 +1,75 @@
+{
+  "id": 857351903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.844595,40.406026,-111.844595,40.406026",
+    "geom:latitude":40.406026,
+    "geom:longitude":-111.844595,
+    "iso:country":"US",
+    "sg:address":"1490 N 300 E",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 379 3886",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XSTf1IkfG5S68juIeDvYC_40.406026_-111.844595@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127526,
+    "wof:geomhash":"a4d38a9f237be59912c43b23257d93e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857351903
+        }
+    ],
+    "wof:id":857351903,
+    "wof:lastmodified":1464127526,
+    "wof:name":"Rapid Rooter",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ]
+},
+  "bbox": [
+    -111.844595,
+    40.406026,
+    -111.844595,
+    40.406026
+],
+  "geometry": {"coordinates":[-111.844595,40.406026],"type":"Point"}
+}

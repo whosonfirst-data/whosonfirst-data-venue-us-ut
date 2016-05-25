@@ -1,0 +1,75 @@
+{
+  "id": 857363725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.925999,40.597684,-111.925999,40.597684",
+    "geom:latitude":40.597684,
+    "geom:longitude":-111.925999,
+    "iso:country":"US",
+    "sg:address":"1228 W 8450 S",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 255 3063",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85817621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_216t1VHXW5yWWvXhifBfk2_40.597684_-111.925999@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127780,
+    "wof:geomhash":"678647cc1a3363ccfc784ae7239514a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85817621,
+            "region_id":85688567,
+            "venue_id":857363725
+        }
+    ],
+    "wof:id":857363725,
+    "wof:lastmodified":1464127780,
+    "wof:name":"Edwin F Gardner",
+    "wof:parent_id":85817621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.925999,
+    40.597684,
+    -111.925999,
+    40.597684
+],
+  "geometry": {"coordinates":[-111.925999,40.597684],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857466053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.576935,37.106576,-113.576935,37.106576",
+    "geom:latitude":37.106576,
+    "geom:longitude":-113.576935,
+    "iso:country":"US",
+    "sg:address":"303 E 100 S",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 673 3301",
+    "sg:postcode":"84770",
+    "sg:province":"UT",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gULIuWYLWBX41GKyQ8HNP_37.106576_-113.576935@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130089,
+    "wof:geomhash":"45bbf6163716f1ae47a91948158f338c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857466053
+        }
+    ],
+    "wof:id":857466053,
+    "wof:lastmodified":1464130089,
+    "wof:name":"Veterans Of Foreign Wars",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -113.576935,
+    37.106576,
+    -113.576935,
+    37.106576
+],
+  "geometry": {"coordinates":[-113.57693500000001,37.106576],"type":"Point"}
+}

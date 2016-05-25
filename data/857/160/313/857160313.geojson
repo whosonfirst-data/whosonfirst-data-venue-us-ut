@@ -1,0 +1,77 @@
+{
+  "id": 857160313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.638194,40.185902,-111.638194,40.185902",
+    "geom:latitude":40.185902,
+    "geom:longitude":-111.638194,
+    "iso:country":"US",
+    "sg:address":"1460 N 1750 W",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 489 3622",
+    "sg:postcode":"84663",
+    "sg:province":"UT",
+    "sg:tags":[
+        "plaza",
+        "truck",
+        "stops"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727829,
+        102083567,
+        85880117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PisrJjlRP5Dg2RsRVZUR9_40.185902_-111.638194@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123350,
+    "wof:geomhash":"396d643dcd75aabd649fd942d0f774c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727829,
+            "neighbourhood_id":85880117,
+            "region_id":85688567,
+            "venue_id":857160313
+        }
+    ],
+    "wof:id":857160313,
+    "wof:lastmodified":1464123350,
+    "wof:name":"Flying J Travel Plaza",
+    "wof:parent_id":85880117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plaza",
+        "truck",
+        "stops"
+    ]
+},
+  "bbox": [
+    -111.638194,
+    40.185902,
+    -111.638194,
+    40.185902
+],
+  "geometry": {"coordinates":[-111.638194,40.185902],"type":"Point"}
+}

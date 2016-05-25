@@ -1,0 +1,75 @@
+{
+  "id": 857274463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.977043,40.706365,-111.977043,40.706365",
+    "geom:latitude":40.706365,
+    "geom:longitude":-111.977043,
+    "iso:country":"US",
+    "sg:address":"2881 S 3600 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 886 9202",
+    "sg:postcode":"84119",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automotive",
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85844521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xccfPaqmnYQvCFmXeYuS5_40.706365_-111.977043@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125780,
+    "wof:geomhash":"e703a03bdf896d4d3f4ca6957910d930",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85844521,
+            "region_id":85688567,
+            "venue_id":857274463
+        }
+    ],
+    "wof:id":857274463,
+    "wof:lastmodified":1464125780,
+    "wof:name":"Kearns Towing",
+    "wof:parent_id":85844521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -111.977043,
+    40.706365,
+    -111.977043,
+    40.706365
+],
+  "geometry": {"coordinates":[-111.97704299999999,40.706365],"type":"Point"}
+}

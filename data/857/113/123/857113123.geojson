@@ -1,0 +1,71 @@
+{
+  "id": 857113123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.8331,41.779973,-111.8331,41.779973",
+    "geom:latitude":41.779973,
+    "geom:longitude":-111.8331,
+    "iso:country":"US",
+    "sg:address":"38 E 2600 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 6135",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LASqZ8PRATBWTqUI8pZEk_41.779973_-111.833100@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122260,
+    "wof:geomhash":"6c2565337310cd32af87887e290eca5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857113123
+        }
+    ],
+    "wof:id":857113123,
+    "wof:lastmodified":1464122260,
+    "wof:name":"Cache Meadow Veterinary Clinic",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -111.8331,
+    41.779973,
+    -111.8331,
+    41.779973
+],
+  "geometry": {"coordinates":[-111.8331,41.779973],"type":"Point"}
+}

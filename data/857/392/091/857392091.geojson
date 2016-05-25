@@ -1,0 +1,73 @@
+{
+  "id": 857392091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.673254,40.063746,-111.673254,40.063746",
+    "geom:latitude":40.063746,
+    "geom:longitude":-111.673254,
+    "iso:country":"US",
+    "sg:address":"441 N Main St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Signs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 423 9154",
+    "sg:postcode":"84653",
+    "sg:province":"UT",
+    "sg:tags":[
+        "specialty",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CeMxLtH3KSdFxtO1iSeFS_40.063746_-111.673254@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128468,
+    "wof:geomhash":"a5da88e2a11eff5c318db9773995ff25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857392091
+        }
+    ],
+    "wof:id":857392091,
+    "wof:lastmodified":1464128468,
+    "wof:name":"Design Resource",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.673254,
+    40.063746,
+    -111.673254,
+    40.063746
+],
+  "geometry": {"coordinates":[-111.673254,40.063746],"type":"Point"}
+}

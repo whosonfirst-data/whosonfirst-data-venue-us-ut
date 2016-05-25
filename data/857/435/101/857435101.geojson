@@ -1,0 +1,75 @@
+{
+  "id": 857435101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.816604,40.536673,-111.816604,40.536673",
+    "geom:latitude":40.536673,
+    "geom:longitude":-111.816604,
+    "iso:country":"US",
+    "sg:address":"11877 Hidden Canyon Ln",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 553 9698",
+    "sg:postcode":"84092",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mail",
+        "consulting",
+        "business",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85825243,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AwjhJ4E7P8kr99an4ZzA8_40.536673_-111.816604@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129469,
+    "wof:geomhash":"9c7abcba2e071e3110cd7338d1c0dfba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85825243,
+            "region_id":85688567,
+            "venue_id":857435101
+        }
+    ],
+    "wof:id":857435101,
+    "wof:lastmodified":1464129469,
+    "wof:name":"Frogznet",
+    "wof:parent_id":85825243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "consulting",
+        "business",
+        "house"
+    ]
+},
+  "bbox": [
+    -111.816604,
+    40.536673,
+    -111.816604,
+    40.536673
+],
+  "geometry": {"coordinates":[-111.816604,40.536673],"type":"Point"}
+}

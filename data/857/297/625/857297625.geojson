@@ -1,0 +1,71 @@
+{
+  "id": 857297625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.903974,41.692744,-111.903974,41.692744",
+    "geom:latitude":41.692744,
+    "geom:longitude":-111.903974,
+    "iso:country":"US",
+    "sg:address":"2905 W 2200 S",
+    "sg:city":"Wellsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 3285",
+    "sg:postcode":"84339",
+    "sg:province":"UT",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727555,
+        102082881,
+        85823067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SWWSN70OmB8o2471w5YJl_41.692744_-111.903974@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126357,
+    "wof:geomhash":"a730a5850985a6f7c6430865c2d92a7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727555,
+            "neighbourhood_id":85823067,
+            "region_id":85688567,
+            "venue_id":857297625
+        }
+    ],
+    "wof:id":857297625,
+    "wof:lastmodified":1464126357,
+    "wof:name":"Dennis Riggs Painting Inc",
+    "wof:parent_id":85823067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -111.903974,
+    41.692744,
+    -111.903974,
+    41.692744
+],
+  "geometry": {"coordinates":[-111.90397400000001,41.692744],"type":"Point"}
+}

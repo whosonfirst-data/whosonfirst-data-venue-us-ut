@@ -1,0 +1,76 @@
+{
+  "id": 857494185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.658166,40.234794,-111.658166,40.234794",
+    "geom:latitude":40.234794,
+    "geom:longitude":-111.658166,
+    "iso:country":"US",
+    "sg:address":"86 N University Ave ",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/provo-orem/284889-spark-restaurant-lounge/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 701 6780",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zg9MsNHjXfTR6zWBw485K_40.234794_-111.658166@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130739,
+    "wof:geomhash":"07e2ed421e7ddccfd90022176da01aef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880065,
+            "region_id":85688567,
+            "venue_id":857494185
+        }
+    ],
+    "wof:id":857494185,
+    "wof:lastmodified":1464130739,
+    "wof:name":"Spark Restaurant Lounge",
+    "wof:parent_id":85880065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [
+    -111.658166,
+    40.234794,
+    -111.658166,
+    40.234794
+],
+  "geometry": {"coordinates":[-111.65816599999999,40.234794],"type":"Point"}
+}

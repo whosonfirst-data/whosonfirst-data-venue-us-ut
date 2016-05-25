@@ -1,0 +1,74 @@
+{
+  "id": 857492427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.890721,40.562876,-111.890721,40.562876",
+    "geom:latitude":40.562876,
+    "geom:longitude":-111.890721,
+    "iso:country":"US",
+    "sg:address":"10369 S State St",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/37250-costa-vida/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 542 7030",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85852927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47ukTp55ovE0vY2qozNdhJ_40.562876_-111.890721@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130676,
+    "wof:geomhash":"d85e472122bf170fa9efe87b387df586",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85852927,
+            "region_id":85688567,
+            "venue_id":857492427
+        }
+    ],
+    "wof:id":857492427,
+    "wof:lastmodified":1464130676,
+    "wof:name":"Costa Vida",
+    "wof:parent_id":85852927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -111.890721,
+    40.562876,
+    -111.890721,
+    40.562876
+],
+  "geometry": {"coordinates":[-111.890721,40.562876],"type":"Point"}
+}

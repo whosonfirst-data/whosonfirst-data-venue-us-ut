@@ -1,0 +1,71 @@
+{
+  "id": 857447075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.904529,41.021947,-111.904529,41.021947",
+    "geom:latitude":41.021947,
+    "geom:longitude":-111.904529,
+    "iso:country":"US",
+    "sg:address":"1468 Harvey Rd",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 544 4645",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Z298jjgz4hyJ2IkXoBZCk_41.021947_-111.904529@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129703,
+    "wof:geomhash":"09d735169df2117773d862975831563f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857447075
+        }
+    ],
+    "wof:id":857447075,
+    "wof:lastmodified":1464129703,
+    "wof:name":"Donald B Rohbock",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -111.904529,
+    41.021947,
+    -111.904529,
+    41.021947
+],
+  "geometry": {"coordinates":[-111.904529,41.021947],"type":"Point"}
+}

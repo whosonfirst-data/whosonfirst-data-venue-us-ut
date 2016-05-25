@@ -1,0 +1,86 @@
+{
+  "id": 857161033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.612374,40.163036,-111.612374,40.163036",
+    "geom:latitude":40.163036,
+    "geom:longitude":-111.612374,
+    "iso:country":"US",
+    "sg:address":"241 S 100 W",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 489 8242",
+    "sg:postcode":"84663",
+    "sg:province":"UT",
+    "sg:tags":[
+        "woodworker",
+        "product",
+        "wood",
+        "household",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727829,
+        102083567,
+        85880117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56u5HeiOc4XXzYKtMUZg4f_40.163036_-111.612374@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123369,
+    "wof:geomhash":"57f417c6f30451d50601e3d7eba5160b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727829,
+            "neighbourhood_id":85880117,
+            "region_id":85688567,
+            "venue_id":857161033
+        }
+    ],
+    "wof:id":857161033,
+    "wof:lastmodified":1464123369,
+    "wof:name":"Heritage Woodworks Inc",
+    "wof:parent_id":85880117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woodworker",
+        "product",
+        "wood",
+        "household",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.612374,
+    40.163036,
+    -111.612374,
+    40.163036
+],
+  "geometry": {"coordinates":[-111.612374,40.163036],"type":"Point"}
+}

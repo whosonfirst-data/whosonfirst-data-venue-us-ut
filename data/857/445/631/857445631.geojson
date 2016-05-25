@@ -1,0 +1,71 @@
+{
+  "id": 857445631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.90655,41.02046,-111.90655,41.02046",
+    "geom:latitude":41.02046,
+    "geom:longitude":-111.90655,
+    "iso:country":"US",
+    "sg:address":"910 S Mountain Rd",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 546 0861",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23mzbvZJe6EokqJSx0NJd4_41.020460_-111.906550@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129675,
+    "wof:geomhash":"76390f898747c66cbf0bc86269e5749a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857445631
+        }
+    ],
+    "wof:id":857445631,
+    "wof:lastmodified":1464129675,
+    "wof:name":"Fruit Heights City Office",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -111.90655,
+    41.02046,
+    -111.90655,
+    41.02046
+],
+  "geometry": {"coordinates":[-111.90655,41.02046],"type":"Point"}
+}

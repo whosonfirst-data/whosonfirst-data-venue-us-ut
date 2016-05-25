@@ -1,0 +1,77 @@
+{
+  "id": 857332129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.025002,40.696629,-112.025002,40.696629",
+    "geom:latitude":40.696629,
+    "geom:longitude":-112.025002,
+    "iso:country":"US",
+    "sg:address":"5696 W 3500 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 955 4440",
+    "sg:postcode":"84128",
+    "sg:province":"UT",
+    "sg:tags":[
+        "parlor",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85802447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BrTPtKlnWabcEChbNqjFO_40.696629_-112.025002@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127103,
+    "wof:geomhash":"acb5c84a76a7f118c549ec014c42e596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85802447,
+            "region_id":85688567,
+            "venue_id":857332129
+        }
+    ],
+    "wof:id":857332129,
+    "wof:lastmodified":1464127103,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85802447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parlor",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -112.025002,
+    40.696629,
+    -112.025002,
+    40.696629
+],
+  "geometry": {"coordinates":[-112.025002,40.696629],"type":"Point"}
+}

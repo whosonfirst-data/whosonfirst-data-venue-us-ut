@@ -1,0 +1,75 @@
+{
+  "id": 857290627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.674135,40.233701,-111.674135,40.233701",
+    "geom:latitude":40.233701,
+    "geom:longitude":-111.674135,
+    "iso:country":"US",
+    "sg:address":"825 W Center St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 374 6931",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02ZO8O5gTZk8wDQhV9rmF8_40.233701_-111.674135@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126160,
+    "wof:geomhash":"5d26b69981e5c4eb181211a18b401a84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880075,
+            "region_id":85688567,
+            "venue_id":857290627
+        }
+    ],
+    "wof:id":857290627,
+    "wof:lastmodified":1464126160,
+    "wof:name":"SDS Auto Ctr",
+    "wof:parent_id":85880075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -111.674135,
+    40.233701,
+    -111.674135,
+    40.233701
+],
+  "geometry": {"coordinates":[-111.67413500000001,40.233701],"type":"Point"}
+}

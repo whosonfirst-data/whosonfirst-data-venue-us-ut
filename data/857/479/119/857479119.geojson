@@ -1,0 +1,76 @@
+{
+  "id": 857479119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.809648,40.699768,-111.809648,40.699768",
+    "geom:latitude":40.699768,
+    "geom:longitude":-111.809648,
+    "iso:country":"US",
+    "sg:address":"2850 E 3300 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 487 3882",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "durable"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728257,
+        102082877,
+        85854869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46sxPY410Movjp6QTbgO7t_40.699768_-111.809648@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130355,
+    "wof:geomhash":"dfbb35e7cce7f5d009597f0f3bf0a862",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85854869,
+            "region_id":85688567,
+            "venue_id":857479119
+        }
+    ],
+    "wof:id":857479119,
+    "wof:lastmodified":1464130355,
+    "wof:name":"Interstate Specialties Inc",
+    "wof:parent_id":85854869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "durable"
+    ]
+},
+  "bbox": [
+    -111.809648,
+    40.699768,
+    -111.809648,
+    40.699768
+],
+  "geometry": {"coordinates":[-111.809648,40.699768],"type":"Point"}
+}

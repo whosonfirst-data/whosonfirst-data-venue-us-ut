@@ -1,0 +1,79 @@
+{
+  "id": 857208041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.841545,40.666008,-111.841545,40.666008",
+    "geom:latitude":40.666008,
+    "geom:longitude":-111.841545,
+    "iso:country":"US",
+    "sg:address":"1769 Murray Holladay Rd",
+    "sg:city":"Holladay",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 274 8448",
+    "sg:postcode":"84117",
+    "sg:province":"UT",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85825901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tidpveO2mNGZ53sksp30F_40.666008_-111.841545@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124351,
+    "wof:geomhash":"c8b9f73e907f16d101a5c977a2460dfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85825901,
+            "region_id":85688567,
+            "venue_id":857208041
+        }
+    ],
+    "wof:id":857208041,
+    "wof:lastmodified":1464124351,
+    "wof:name":"Hollywood Video",
+    "wof:parent_id":85825901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -111.841545,
+    40.666008,
+    -111.841545,
+    40.666008
+],
+  "geometry": {"coordinates":[-111.841545,40.666008],"type":"Point"}
+}

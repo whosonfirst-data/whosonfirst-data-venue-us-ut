@@ -1,0 +1,75 @@
+{
+  "id": 857280529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.87187,40.729539,-111.87187,40.729539",
+    "geom:latitude":40.729539,
+    "geom:longitude":-111.87187,
+    "iso:country":"US",
+    "sg:address":"631 Garfield Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 466 0848",
+    "sg:postcode":"84105",
+    "sg:province":"UT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3p33Ks4LW9U874tweT84JZ_40.729539_-111.871870@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125931,
+    "wof:geomhash":"d49dc60de32637e552dfcf6c5c75d98f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871027,
+            "region_id":85688567,
+            "venue_id":857280529
+        }
+    ],
+    "wof:id":857280529,
+    "wof:lastmodified":1464125931,
+    "wof:name":"Fearless Dolphins Aquatics",
+    "wof:parent_id":85871027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -111.87187,
+    40.729539,
+    -111.87187,
+    40.729539
+],
+  "geometry": {"coordinates":[-111.87187,40.729539],"type":"Point"}
+}

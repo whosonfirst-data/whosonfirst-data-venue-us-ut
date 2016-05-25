@@ -1,0 +1,77 @@
+{
+  "id": 857165105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.614743,40.157317,-111.614743,40.157317",
+    "geom:latitude":40.157317,
+    "geom:longitude":-111.614743,
+    "iso:country":"US",
+    "sg:address":"234 W 700 S",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 489 9362",
+    "sg:postcode":"84663",
+    "sg:province":"UT",
+    "sg:tags":[
+        "feed",
+        "coal",
+        "grain"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727829,
+        102083567,
+        85880117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Yq4nDotqURay24x9XpgZB_40.157317_-111.614743@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123468,
+    "wof:geomhash":"f01d0d084fa08683628a9a4be79b48f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727829,
+            "neighbourhood_id":85880117,
+            "region_id":85688567,
+            "venue_id":857165105
+        }
+    ],
+    "wof:id":857165105,
+    "wof:lastmodified":1464123468,
+    "wof:name":"Boyer Coal & Feed",
+    "wof:parent_id":85880117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feed",
+        "coal",
+        "grain"
+    ]
+},
+  "bbox": [
+    -111.614743,
+    40.157317,
+    -111.614743,
+    40.157317
+],
+  "geometry": {"coordinates":[-111.614743,40.157317],"type":"Point"}
+}

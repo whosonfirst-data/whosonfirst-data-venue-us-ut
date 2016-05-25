@@ -1,0 +1,77 @@
+{
+  "id": 857082197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.871052,40.538406,-111.871052,40.538406",
+    "geom:latitude":40.538406,
+    "geom:longitude":-111.871052,
+    "iso:country":"US",
+    "sg:address":"11757 S 700 E",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 571 3664",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727849,
+        102082877,
+        85858009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FtSem997noK2EHXrpeMtU_40.538406_-111.871052@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121454,
+    "wof:geomhash":"350b4ca7164fe0853d0b8443d591e827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85858009,
+            "region_id":85688567,
+            "venue_id":857082197
+        }
+    ],
+    "wof:id":857082197,
+    "wof:lastmodified":1464121454,
+    "wof:name":"Home Sweet Kennels",
+    "wof:parent_id":85858009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -111.871052,
+    40.538406,
+    -111.871052,
+    40.538406
+],
+  "geometry": {"coordinates":[-111.87105200000001,40.538406],"type":"Point"}
+}

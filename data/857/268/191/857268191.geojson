@@ -1,0 +1,69 @@
+{
+  "id": 857268191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.952186,41.10709,-111.952186,41.10709",
+    "geom:latitude":41.10709,
+    "geom:longitude":-111.952186,
+    "iso:country":"US",
+    "sg:address":"3100 N 750 E",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 334 9400",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85844663,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7e4A0XFQ3VAsqpffwNUOWo_41.107090_-111.952186@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125652,
+    "wof:geomhash":"951f915dcb847bf3285b3b219dbbaef5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "neighbourhood_id":85844663,
+            "region_id":85688567,
+            "venue_id":857268191
+        }
+    ],
+    "wof:id":857268191,
+    "wof:lastmodified":1464125652,
+    "wof:name":"IFS Towing",
+    "wof:parent_id":85844663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -111.952186,
+    41.10709,
+    -111.952186,
+    41.10709
+],
+  "geometry": {"coordinates":[-111.952186,41.10709],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857275019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.551799,37.115709,-113.551799,37.115709",
+    "geom:latitude":37.115709,
+    "geom:longitude":-113.551799,
+    "iso:country":"US",
+    "sg:address":"250 Red Cliffs Dr",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 628 7066",
+    "sg:postcode":"84790",
+    "sg:province":"UT",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nIDcl8qyXu6EukTLXE5FY_37.115709_-113.551799@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125791,
+    "wof:geomhash":"45c8b7a6ec9c1331ede56754537f7526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857275019
+        }
+    ],
+    "wof:id":857275019,
+    "wof:lastmodified":1464125791,
+    "wof:name":"Dress Barn",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -113.551799,
+    37.115709,
+    -113.551799,
+    37.115709
+],
+  "geometry": {"coordinates":[-113.551799,37.115709],"type":"Point"}
+}

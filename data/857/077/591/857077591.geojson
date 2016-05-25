@@ -1,0 +1,70 @@
+{
+  "id": 857077591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.798467,40.379679,-111.798467,40.379679",
+    "geom:latitude":40.379679,
+    "geom:longitude":-111.798467,
+    "iso:country":"US",
+    "sg:address":"122 N Center St",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 766 2200",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "sg:website":"www.alpinedental.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nerx7F0FTxMtBFU54i58T_40.379679_-111.798467@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121346,
+    "wof:geomhash":"aa1d5c2975ff333f8136af8a7ccd1bd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857077591
+        }
+    ],
+    "wof:id":857077591,
+    "wof:lastmodified":1464121346,
+    "wof:name":"Alpine Dental Laboratory",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -111.798467,
+    40.379679,
+    -111.798467,
+    40.379679
+],
+  "geometry": {"coordinates":[-111.798467,40.379679],"type":"Point"}
+}

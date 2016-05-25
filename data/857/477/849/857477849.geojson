@@ -1,0 +1,75 @@
+{
+  "id": 857477849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.87894,40.758407,-111.87894,40.758407",
+    "geom:latitude":40.758407,
+    "geom:longitude":-111.87894,
+    "iso:country":"US",
+    "sg:address":"424 E 500 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 521 0600",
+    "sg:postcode":"84111",
+    "sg:province":"UT",
+    "sg:tags":[
+        "application",
+        "provider"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PeNluelFgYHJjJeoYozNR_40.758407_-111.878940@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130334,
+    "wof:geomhash":"54966755d9c887f3ae78d87b35f42ead",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871021,
+            "region_id":85688567,
+            "venue_id":857477849
+        }
+    ],
+    "wof:id":857477849,
+    "wof:lastmodified":1464130334,
+    "wof:name":"Ereinsurecom Inc",
+    "wof:parent_id":85871021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "application",
+        "provider"
+    ]
+},
+  "bbox": [
+    -111.87894,
+    40.758407,
+    -111.87894,
+    40.758407
+],
+  "geometry": {"coordinates":[-111.87894,40.758407],"type":"Point"}
+}

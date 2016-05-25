@@ -1,0 +1,79 @@
+{
+  "id": 857491735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.859856,40.528176,-111.859856,40.528176",
+    "geom:latitude":40.528176,
+    "geom:longitude":-111.859856,
+    "iso:country":"US",
+    "sg:address":"1101 Draper Pkwy",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/34247-juicetree-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 984 3016",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727849,
+        102082877,
+        85815193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jSiLK1b546rBgf50uu6I6_40.528176_-111.859856@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130650,
+    "wof:geomhash":"6d0108bd4fac5315031240a79d9795a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85815193,
+            "region_id":85688567,
+            "venue_id":857491735
+        }
+    ],
+    "wof:id":857491735,
+    "wof:lastmodified":1464130650,
+    "wof:name":"JuiceTree Cafe",
+    "wof:parent_id":85815193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -111.859856,
+    40.528176,
+    -111.859856,
+    40.528176
+],
+  "geometry": {"coordinates":[-111.85985599999999,40.528176],"type":"Point"}
+}

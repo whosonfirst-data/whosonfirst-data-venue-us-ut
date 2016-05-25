@@ -1,0 +1,73 @@
+{
+  "id": 857431063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.931371,41.640835,-111.931371,41.640835",
+    "geom:latitude":41.640835,
+    "geom:longitude":-111.931371,
+    "iso:country":"US",
+    "sg:address":"196 N 100 E",
+    "sg:city":"Wellsville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 245 3736",
+    "sg:postcode":"84339",
+    "sg:province":"UT",
+    "sg:tags":[
+        "equipment",
+        "playground"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727555,
+        102082881,
+        85823067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58rTuD5U4o3RWUdDvK23qH_41.640835_-111.931371@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129367,
+    "wof:geomhash":"be930f8e47b620841a155dd49d7df887",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727555,
+            "neighbourhood_id":85823067,
+            "region_id":85688567,
+            "venue_id":857431063
+        }
+    ],
+    "wof:id":857431063,
+    "wof:lastmodified":1464129367,
+    "wof:name":"Playco Recreation",
+    "wof:parent_id":85823067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "playground"
+    ]
+},
+  "bbox": [
+    -111.931371,
+    41.640835,
+    -111.931371,
+    41.640835
+],
+  "geometry": {"coordinates":[-111.931371,41.640835],"type":"Point"}
+}

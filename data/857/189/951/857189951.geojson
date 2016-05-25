@@ -1,0 +1,75 @@
+{
+  "id": 857189951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.89463,41.00067,-111.89463,41.00067",
+    "geom:latitude":41.00067,
+    "geom:longitude":-111.89463,
+    "iso:country":"US",
+    "sg:address":"329 W 1150 N",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 0112",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QQVz93wekFEYGOLqdrBqt_41.000670_-111.894630@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123989,
+    "wof:geomhash":"980442e7ebfb54afd59127793ecf7b19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857189951
+        }
+    ],
+    "wof:id":857189951,
+    "wof:lastmodified":1464123989,
+    "wof:name":"Phoenix Construction Company",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -111.89463,
+    41.00067,
+    -111.89463,
+    41.00067
+],
+  "geometry": {"coordinates":[-111.89463000000001,41.00067],"type":"Point"}
+}

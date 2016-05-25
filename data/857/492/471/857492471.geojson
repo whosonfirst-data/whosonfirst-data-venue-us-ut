@@ -1,0 +1,76 @@
+{
+  "id": 857492471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.890931,40.580485,-111.890931,40.580485",
+    "geom:latitude":40.580485,
+    "geom:longitude":-111.890931,
+    "iso:country":"US",
+    "sg:address":"9400 S State St",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/25607-joes-crab-shack/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 255 9571",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85835551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60QgdhlEirGT0zbkwqju0l_40.580485_-111.890931@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130680,
+    "wof:geomhash":"7cb8036b651dc291cb615dd9a116e465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85835551,
+            "region_id":85688567,
+            "venue_id":857492471
+        }
+    ],
+    "wof:id":857492471,
+    "wof:lastmodified":1464130680,
+    "wof:name":"Joe's Crab Shack",
+    "wof:parent_id":85835551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -111.890931,
+    40.580485,
+    -111.890931,
+    40.580485
+],
+  "geometry": {"coordinates":[-111.89093099999999,40.580485],"type":"Point"}
+}

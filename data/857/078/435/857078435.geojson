@@ -1,0 +1,75 @@
+{
+  "id": 857078435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.677811,40.308642,-111.677811,40.308642",
+    "geom:latitude":40.308642,
+    "geom:longitude":-111.677811,
+    "iso:country":"US",
+    "sg:address":"614 N 750 E",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 6470",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "grocery",
+        "drink",
+        "soft",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iGvqxkW65hLpjdGI4YvMb_40.308642_-111.677811@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121364,
+    "wof:geomhash":"942575803357f997da5c260959f27cda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857078435
+        }
+    ],
+    "wof:id":857078435,
+    "wof:lastmodified":1464121364,
+    "wof:name":"Howies Premium Root Beer Inc",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "drink",
+        "soft",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.677811,
+    40.308642,
+    -111.677811,
+    40.308642
+],
+  "geometry": {"coordinates":[-111.67781100000001,40.308642],"type":"Point"}
+}

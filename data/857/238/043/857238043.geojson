@@ -1,0 +1,73 @@
+{
+  "id": 857238043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.796708,41.803199,-111.796708,41.803199",
+    "geom:latitude":41.803199,
+    "geom:longitude":-111.796708,
+    "iso:country":"US",
+    "sg:address":"951 Canyon Rd",
+    "sg:city":"Hyde Park",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 563 5944",
+    "sg:postcode":"84328",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DRKKuwh3XoqXWrbtAURUZ_41.803199_-111.796708@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124965,
+    "wof:geomhash":"bf1fb1bf276b324cf41585fb5a0ac44e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857238043
+        }
+    ],
+    "wof:id":857238043,
+    "wof:lastmodified":1464124965,
+    "wof:name":"Rick's Tile",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.796708,
+    41.803199,
+    -111.796708,
+    41.803199
+],
+  "geometry": {"coordinates":[-111.796708,41.803199],"type":"Point"}
+}

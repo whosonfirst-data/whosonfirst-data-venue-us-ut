@@ -1,0 +1,68 @@
+{
+  "id": 857239561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.04532,41.095091,-112.04532,41.095091",
+    "geom:latitude":41.095091,
+    "geom:longitude":-112.04532,
+    "iso:country":"US",
+    "sg:address":"1391 S 1000 W",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 825 0762",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727889,
+        102083563,
+        85804563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4v9ZitVDXoEPeuog9C8Ppk_41.095091_-112.045320@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124993,
+    "wof:geomhash":"07c8e7914eaa086168454ecccdd6958e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727889,
+            "neighbourhood_id":85804563,
+            "region_id":85688567,
+            "venue_id":857239561
+        }
+    ],
+    "wof:id":857239561,
+    "wof:lastmodified":1464124993,
+    "wof:name":"Fashion Fantasy",
+    "wof:parent_id":85804563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.04532,
+    41.095091,
+    -112.04532,
+    41.095091
+],
+  "geometry": {"coordinates":[-112.04532,41.095091],"type":"Point"}
+}

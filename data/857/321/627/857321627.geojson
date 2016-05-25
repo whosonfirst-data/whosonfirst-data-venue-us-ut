@@ -1,0 +1,73 @@
+{
+  "id": 857321627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.268666,37.20271,-113.268666,37.20271",
+    "geom:latitude":37.20271,
+    "geom:longitude":-113.268666,
+    "iso:country":"US",
+    "sg:address":"47 E 70 N",
+    "sg:city":"La Verkin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 635 4935",
+    "sg:postcode":"84745",
+    "sg:province":"UT",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727631,
+        102082879,
+        85824093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2664qU1cVuh5m5dwmipAYY_37.202710_-113.268666@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126882,
+    "wof:geomhash":"3cb630e54b7f3e6d1cb760ef040314f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727631,
+            "neighbourhood_id":85824093,
+            "region_id":85688567,
+            "venue_id":857321627
+        }
+    ],
+    "wof:id":857321627,
+    "wof:lastmodified":1464126882,
+    "wof:name":"J L Car Wash",
+    "wof:parent_id":85824093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -113.268666,
+    37.20271,
+    -113.268666,
+    37.20271
+],
+  "geometry": {"coordinates":[-113.268666,37.20271],"type":"Point"}
+}

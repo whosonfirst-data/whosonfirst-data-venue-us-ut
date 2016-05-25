@@ -1,0 +1,73 @@
+{
+  "id": 857412725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.640982,40.289522,-111.640982,40.289522",
+    "geom:latitude":40.289522,
+    "geom:longitude":-111.640982,
+    "iso:country":"US",
+    "sg:address":"4156 Dover Ln",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 9176",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "sanitary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0up0kuXwChaRRCSt0lBSpP_40.289522_-111.640982@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128917,
+    "wof:geomhash":"315db170117af662ea91aa4594673c5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880091,
+            "region_id":85688567,
+            "venue_id":857412725
+        }
+    ],
+    "wof:id":857412725,
+    "wof:lastmodified":1464128917,
+    "wof:name":"All Pro Sweeping",
+    "wof:parent_id":85880091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sanitary"
+    ]
+},
+  "bbox": [
+    -111.640982,
+    40.289522,
+    -111.640982,
+    40.289522
+],
+  "geometry": {"coordinates":[-111.64098199999999,40.289522],"type":"Point"}
+}

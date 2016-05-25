@@ -1,0 +1,71 @@
+{
+  "id": 857468905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.828875,41.760749,-111.828875,41.760749",
+    "geom:latitude":41.760749,
+    "geom:longitude":-111.828875,
+    "iso:country":"US",
+    "sg:address":"1580 N 200 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 8787",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7j7fm77JYeStGBd0be4LDT_41.760749_-111.828875@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130147,
+    "wof:geomhash":"b34b53fad47f5b70514e378a91afd75b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857468905
+        }
+    ],
+    "wof:id":857468905,
+    "wof:lastmodified":1464130147,
+    "wof:name":"North Pointe Apartments",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -111.828875,
+    41.760749,
+    -111.828875,
+    41.760749
+],
+  "geometry": {"coordinates":[-111.828875,41.760749],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857398507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.607357,40.093658,-111.607357,40.093658",
+    "geom:latitude":40.093658,
+    "geom:longitude":-111.607357,
+    "iso:country":"US",
+    "sg:address":"2875 E Canyon Rd",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 0848",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "tile",
+        "ceramic",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7idQOLbT9XQHNOMu90orRA_40.093658_-111.607357@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128597,
+    "wof:geomhash":"66dbc9c1fa4f1ff87493f75dc2c54a09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857398507
+        }
+    ],
+    "wof:id":857398507,
+    "wof:lastmodified":1464128597,
+    "wof:name":"C&S Ceramics",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "ceramic",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.607357,
+    40.093658,
+    -111.607357,
+    40.093658
+],
+  "geometry": {"coordinates":[-111.60735699999999,40.093658],"type":"Point"}
+}

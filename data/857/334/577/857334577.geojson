@@ -1,0 +1,73 @@
+{
+  "id": 857334577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.720456,40.044574,-111.720456,40.044574",
+    "geom:latitude":40.044574,
+    "geom:longitude":-111.720456,
+    "iso:country":"US",
+    "sg:address":"765 E 100 N",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 1555",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kxEaeFmPRSMUnlG6ieXu4_40.044574_-111.720456@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127159,
+    "wof:geomhash":"537e66d1f7a5e5d4f7da481d595c14f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857334577
+        }
+    ],
+    "wof:id":857334577,
+    "wof:lastmodified":1464127159,
+    "wof:name":"Stone Creek Family Practice",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -111.720456,
+    40.044574,
+    -111.720456,
+    40.044574
+],
+  "geometry": {"coordinates":[-111.720456,40.044574],"type":"Point"}
+}

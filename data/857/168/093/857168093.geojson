@@ -1,0 +1,71 @@
+{
+  "id": 857168093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.937589,41.62425,-111.937589,41.62425",
+    "geom:latitude":41.62425,
+    "geom:longitude":-111.937589,
+    "iso:country":"US",
+    "sg:address":"112 700 S",
+    "sg:city":"Wellsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 245 4380",
+    "sg:postcode":"84339",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727555,
+        102082881,
+        85823067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZqU4YUj377rdJaoKJ846b_41.624250_-111.937589@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123534,
+    "wof:geomhash":"4d6a2d21bc98b67e7d59a0d911903892",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727555,
+            "neighbourhood_id":85823067,
+            "region_id":85688567,
+            "venue_id":857168093
+        }
+    ],
+    "wof:id":857168093,
+    "wof:lastmodified":1464123534,
+    "wof:name":"Brandt Construction Inc",
+    "wof:parent_id":85823067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -111.937589,
+    41.62425,
+    -111.937589,
+    41.62425
+],
+  "geometry": {"coordinates":[-111.937589,41.62425],"type":"Point"}
+}

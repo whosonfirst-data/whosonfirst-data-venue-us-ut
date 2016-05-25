@@ -1,0 +1,79 @@
+{
+  "id": 857475255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.029692,41.130094,-112.029692,41.130094",
+    "geom:latitude":41.130094,
+    "geom:longitude":-112.029692,
+    "iso:country":"US",
+    "sg:address":"207 W 1125 N",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 728 4931",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house",
+        "mail",
+        "sales",
+        "direct"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85851583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zZBM71afpg61JJclj8Fmm_41.130094_-112.029692@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130284,
+    "wof:geomhash":"4c58d1645597fe905f686718d8e6269b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85851583,
+            "region_id":85688567,
+            "venue_id":857475255
+        }
+    ],
+    "wof:id":857475255,
+    "wof:lastmodified":1464130284,
+    "wof:name":"Mary Kay Cosmedics",
+    "wof:parent_id":85851583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "mail",
+        "sales",
+        "direct"
+    ]
+},
+  "bbox": [
+    -112.029692,
+    41.130094,
+    -112.029692,
+    41.130094
+],
+  "geometry": {"coordinates":[-112.029692,41.130094],"type":"Point"}
+}

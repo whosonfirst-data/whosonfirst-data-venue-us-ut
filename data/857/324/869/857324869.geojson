@@ -1,0 +1,71 @@
+{
+  "id": 857324869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.785319,40.373689,-111.785319,40.373689",
+    "geom:latitude":40.373689,
+    "geom:longitude":-111.785319,
+    "iso:country":"US",
+    "sg:address":"191 S 500 E",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 8790",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ds2N18G12IR8zD2xeua1m_40.373689_-111.785319@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126947,
+    "wof:geomhash":"a41a7cfc71be4bb354cf4978442bba7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857324869
+        }
+    ],
+    "wof:id":857324869,
+    "wof:lastmodified":1464126947,
+    "wof:name":"J & J Health Foods",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -111.785319,
+    40.373689,
+    -111.785319,
+    40.373689
+],
+  "geometry": {"coordinates":[-111.785319,40.373689],"type":"Point"}
+}

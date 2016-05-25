@@ -1,0 +1,73 @@
+{
+  "id": 857181505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.850103,40.699995,-111.850103,40.699995",
+    "geom:latitude":40.699995,
+    "geom:longitude":-111.850103,
+    "iso:country":"US",
+    "sg:address":"1453 E 3300 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 467 6622",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85832079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YYLDfYvDtgsQRuo90R0Zp_40.699995_-111.850103@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123825,
+    "wof:geomhash":"5aa6c8c461815f6d322d5c55f2212075",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85832079,
+            "region_id":85688567,
+            "venue_id":857181505
+        }
+    ],
+    "wof:id":857181505,
+    "wof:lastmodified":1464123825,
+    "wof:name":"Barber's Exclusive",
+    "wof:parent_id":85832079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.850103,
+    40.699995,
+    -111.850103,
+    40.699995
+],
+  "geometry": {"coordinates":[-111.850103,40.699995],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 857163057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.908902,40.620009,-111.908902,40.620009",
+    "geom:latitude":40.620009,
+    "geom:longitude":-111.908902,
+    "iso:country":"US",
+    "sg:address":"644 W 7250 S",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 352 0271",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "sg:tags":[
+        "restoration",
+        "damage",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728051,
+        102082877,
+        85803901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FwCOSHGBmZXSf8u1Dml60_40.620009_-111.908902@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123424,
+    "wof:geomhash":"c75ae68f2738250ba5e7e44b61a8f854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85803901,
+            "region_id":85688567,
+            "venue_id":857163057
+        }
+    ],
+    "wof:id":857163057,
+    "wof:lastmodified":1464123424,
+    "wof:name":"Heritage Restoration Inc",
+    "wof:parent_id":85803901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "restoration",
+        "damage",
+        "protection"
+    ]
+},
+  "bbox": [
+    -111.908902,
+    40.620009,
+    -111.908902,
+    40.620009
+],
+  "geometry": {"coordinates":[-111.908902,40.620009],"type":"Point"}
+}

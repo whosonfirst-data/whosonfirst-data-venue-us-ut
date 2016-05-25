@@ -1,0 +1,71 @@
+{
+  "id": 857155745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.853221,40.595826,-111.853221,40.595826",
+    "geom:latitude":40.595826,
+    "geom:longitude":-111.853221,
+    "iso:country":"US",
+    "sg:address":"8524 S 1300 E",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 561 3314",
+    "sg:postcode":"84094",
+    "sg:province":"UT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85847325,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BvxbAglnxnLKFqKkzFM8N_40.595826_-111.853221@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123262,
+    "wof:geomhash":"46e55e638a87e1fccd3c7fb30ea9a515",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85847325,
+            "region_id":85688567,
+            "venue_id":857155745
+        }
+    ],
+    "wof:id":857155745,
+    "wof:lastmodified":1464123262,
+    "wof:name":"Shauna Self",
+    "wof:parent_id":85847325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -111.853221,
+    40.595826,
+    -111.853221,
+    40.595826
+],
+  "geometry": {"coordinates":[-111.853221,40.595826],"type":"Point"}
+}

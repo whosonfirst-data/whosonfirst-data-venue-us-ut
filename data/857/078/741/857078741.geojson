@@ -1,0 +1,69 @@
+{
+  "id": 857078741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.84978,40.590523,-111.84978,40.590523",
+    "geom:latitude":40.590523,
+    "geom:longitude":-111.84978,
+    "iso:country":"US",
+    "sg:address":"1377 E 8850 South St",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 571 0463",
+    "sg:postcode":"84093",
+    "sg:province":"UT",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85847325,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3h1snNxLebXgs8YOq6zIyJ_40.590523_-111.849780@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121370,
+    "wof:geomhash":"7dd1fa432cb043ca36f7e4dab8944029",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85847325,
+            "region_id":85688567,
+            "venue_id":857078741
+        }
+    ],
+    "wof:id":857078741,
+    "wof:lastmodified":1464121370,
+    "wof:name":"Martin Landscaping",
+    "wof:parent_id":85847325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -111.84978,
+    40.590523,
+    -111.84978,
+    40.590523
+],
+  "geometry": {"coordinates":[-111.84978,40.590523],"type":"Point"}
+}

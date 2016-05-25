@@ -1,0 +1,77 @@
+{
+  "id": 857192019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.986444,40.604828,-111.986444,40.604828",
+    "geom:latitude":40.604828,
+    "geom:longitude":-111.986444,
+    "iso:country":"US",
+    "sg:address":"8060 S 4000 W",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 280 1831",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "test",
+        "soil",
+        "sample"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85813117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IZSevgrsDWKS50oXydoIY_40.604828_-111.986444@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124025,
+    "wof:geomhash":"36844ba9e7566da937a343cd83d22467",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85813117,
+            "region_id":85688567,
+            "venue_id":857192019
+        }
+    ],
+    "wof:id":857192019,
+    "wof:lastmodified":1464124025,
+    "wof:name":"Overland Drilling Inc",
+    "wof:parent_id":85813117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "test",
+        "soil",
+        "sample"
+    ]
+},
+  "bbox": [
+    -111.986444,
+    40.604828,
+    -111.986444,
+    40.604828
+],
+  "geometry": {"coordinates":[-111.98644400000001,40.604828],"type":"Point"}
+}

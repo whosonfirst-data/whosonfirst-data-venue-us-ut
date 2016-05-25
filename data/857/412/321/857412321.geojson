@@ -1,0 +1,77 @@
+{
+  "id": 857412321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.861024,40.734441,-111.861024,40.734441",
+    "geom:latitude":40.734441,
+    "geom:longitude":-111.861024,
+    "iso:country":"US",
+    "sg:address":"1059 Logan Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 485 1931",
+    "sg:postcode":"84105",
+    "sg:province":"UT",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85855583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MenqlO2gR2DtHiEgC0M4Y_40.734441_-111.861024@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128910,
+    "wof:geomhash":"c29b812ac306923cdae7a0f0ba74f2a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85855583,
+            "region_id":85688567,
+            "venue_id":857412321
+        }
+    ],
+    "wof:id":857412321,
+    "wof:lastmodified":1464128910,
+    "wof:name":"Throw Me A Bone Petsitting",
+    "wof:parent_id":85855583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -111.861024,
+    40.734441,
+    -111.861024,
+    40.734441
+],
+  "geometry": {"coordinates":[-111.861024,40.734441],"type":"Point"}
+}

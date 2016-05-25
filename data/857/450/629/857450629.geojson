@@ -1,0 +1,73 @@
+{
+  "id": 857450629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.854027,40.590015,-111.854027,40.590015",
+    "geom:latitude":40.590015,
+    "geom:longitude":-111.854027,
+    "iso:country":"US",
+    "sg:address":"8775 S 1275 E",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 561 9149",
+    "sg:postcode":"84094",
+    "sg:province":"UT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85847325,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4U29wfA1D238tylrHCT7DG_40.590015_-111.854027@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129772,
+    "wof:geomhash":"23169bfe8f6bb274e0706fadaa77c0e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85847325,
+            "region_id":85688567,
+            "venue_id":857450629
+        }
+    ],
+    "wof:id":857450629,
+    "wof:lastmodified":1464129772,
+    "wof:name":"Mortenson Donut Delivery",
+    "wof:parent_id":85847325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -111.854027,
+    40.590015,
+    -111.854027,
+    40.590015
+],
+  "geometry": {"coordinates":[-111.854027,40.590015],"type":"Point"}
+}

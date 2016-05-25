@@ -1,0 +1,75 @@
+{
+  "id": 857330637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.848812,40.859587,-111.848812,40.859587",
+    "geom:latitude":40.859587,
+    "geom:longitude":-111.848812,
+    "iso:country":"US",
+    "sg:address":"2692 Grand Oak Cir",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 298 5309",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727881,
+        102083563,
+        85824933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1um3W6IaDzanYSnkX37XVM_40.859587_-111.848812@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127066,
+    "wof:geomhash":"edf1b0ef951e6c9b559c9a4853fab9ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727881,
+            "neighbourhood_id":85824933,
+            "region_id":85688567,
+            "venue_id":857330637
+        }
+    ],
+    "wof:id":857330637,
+    "wof:lastmodified":1464127066,
+    "wof:name":"England Painting LLC",
+    "wof:parent_id":85824933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.848812,
+    40.859587,
+    -111.848812,
+    40.859587
+],
+  "geometry": {"coordinates":[-111.848812,40.859587],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 857190929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.892632,40.739428,-111.892632,40.739428",
+    "geom:latitude":40.739428,
+    "geom:longitude":-111.892632,
+    "iso:country":"US",
+    "sg:address":"1414 Richards St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 485 1858",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85856491,
+        85825915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7O03EOp4TjTmDzXqFNBZK5_40.739428_-111.892632@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124005,
+    "wof:geomhash":"78cf3d3ff501851068bd699586818fa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85856491,
+            "region_id":85688567,
+            "venue_id":857190929
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85825915,
+            "region_id":85688567,
+            "venue_id":857190929
+        }
+    ],
+    "wof:id":857190929,
+    "wof:lastmodified":1464124005,
+    "wof:name":"Cash Property Maintenance",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -111.892632,
+    40.739428,
+    -111.892632,
+    40.739428
+],
+  "geometry": {"coordinates":[-111.89263200000001,40.739428],"type":"Point"}
+}

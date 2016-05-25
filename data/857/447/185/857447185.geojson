@@ -1,0 +1,75 @@
+{
+  "id": 857447185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.627778,37.125515,-113.627778,37.125515",
+    "geom:latitude":37.125515,
+    "geom:longitude":-113.627778,
+    "iso:country":"US",
+    "sg:address":"1003 N 2100 W",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 634 9531",
+    "sg:postcode":"84770",
+    "sg:province":"UT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Dr5nCC1u45DJf5gdq8Flb_37.125515_-113.627778@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129706,
+    "wof:geomhash":"7051866be681f7384344e27d87a76574",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857447185
+        }
+    ],
+    "wof:id":857447185,
+    "wof:lastmodified":1464129706,
+    "wof:name":"John Jimerson Concrete",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -113.627778,
+    37.125515,
+    -113.627778,
+    37.125515
+],
+  "geometry": {"coordinates":[-113.62777800000001,37.125515],"type":"Point"}
+}

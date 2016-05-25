@@ -1,0 +1,73 @@
+{
+  "id": 857488007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.655341,40.101421,-111.655341,40.101421",
+    "geom:latitude":40.101421,
+    "geom:longitude":-111.655341,
+    "iso:country":"US",
+    "sg:address":"570 S Main St",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 0614",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0H7z6CwUCkvsGTaBnYyNA1_40.101421_-111.655341@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130537,
+    "wof:geomhash":"e4d59425d5a685eb63e32528b0b39ed1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857488007
+        }
+    ],
+    "wof:id":857488007,
+    "wof:lastmodified":1464130537,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -111.655341,
+    40.101421,
+    -111.655341,
+    40.101421
+],
+  "geometry": {"coordinates":[-111.65534100000001,40.101421],"type":"Point"}
+}

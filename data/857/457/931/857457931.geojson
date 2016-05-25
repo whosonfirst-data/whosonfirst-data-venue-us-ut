@@ -1,0 +1,73 @@
+{
+  "id": 857457931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.799892,41.772913,-111.799892,41.772913",
+    "geom:latitude":41.772913,
+    "geom:longitude":-111.799892,
+    "iso:country":"US",
+    "sg:address":"1306 E 2300 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 755 7810",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kU29MBhTDGK5rtvUqVEmy_41.772913_-111.799892@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129915,
+    "wof:geomhash":"05689a5fcc9766dd4a4da9fcceaddf31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857457931
+        }
+    ],
+    "wof:id":857457931,
+    "wof:lastmodified":1464129915,
+    "wof:name":"Greenville Wood",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.799892,
+    41.772913,
+    -111.799892,
+    41.772913
+],
+  "geometry": {"coordinates":[-111.799892,41.772913],"type":"Point"}
+}

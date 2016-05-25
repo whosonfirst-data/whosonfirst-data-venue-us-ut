@@ -1,0 +1,71 @@
+{
+  "id": 857111365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.847815,40.587024,-111.847815,40.587024",
+    "geom:latitude":40.587024,
+    "geom:longitude":-111.847815,
+    "iso:country":"US",
+    "sg:address":"9045 Waters Cir",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 572 5774",
+    "sg:postcode":"84093",
+    "sg:province":"UT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85847325,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TnS4cX77NZ2zZp4y55cFE_40.587024_-111.847815@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122217,
+    "wof:geomhash":"6e3f3c13dcfff661963f9a9ae458da61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85847325,
+            "region_id":85688567,
+            "venue_id":857111365
+        }
+    ],
+    "wof:id":857111365,
+    "wof:lastmodified":1464122217,
+    "wof:name":"Osborne Concrete Construction",
+    "wof:parent_id":85847325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.847815,
+    40.587024,
+    -111.847815,
+    40.587024
+],
+  "geometry": {"coordinates":[-111.847815,40.587024],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857447317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.8874,40.559461,-111.8874,40.559461",
+    "geom:latitude":40.559461,
+    "geom:longitude":-111.8874,
+    "iso:country":"US",
+    "sg:address":"10433 S Weeping Willow Dr",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 571 5131",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85852927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YTmBIC7cTfG8xmvKe3srk_40.559461_-111.887400@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129709,
+    "wof:geomhash":"717fe2068f2a01d3f070f098412284e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85852927,
+            "region_id":85688567,
+            "venue_id":857447317
+        }
+    ],
+    "wof:id":857447317,
+    "wof:lastmodified":1464129709,
+    "wof:name":"B&B Gun Works",
+    "wof:parent_id":85852927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.8874,
+    40.559461,
+    -111.8874,
+    40.559461
+],
+  "geometry": {"coordinates":[-111.8874,40.559461],"type":"Point"}
+}

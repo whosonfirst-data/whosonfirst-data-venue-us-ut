@@ -1,0 +1,71 @@
+{
+  "id": 857443141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.951125,41.300032,-111.951125,41.300032",
+    "geom:latitude":41.300032,
+    "geom:longitude":-111.951125,
+    "iso:country":"US",
+    "sg:address":"2286 Fruitland Dr",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 782 0829",
+    "sg:postcode":"84414",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85824645,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SpjM50OLLV7eDngTFgKzW_41.300032_-111.951125@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129624,
+    "wof:geomhash":"75de164b193a68ab0eded403a018830e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85824645,
+            "region_id":85688567,
+            "venue_id":857443141
+        }
+    ],
+    "wof:id":857443141,
+    "wof:lastmodified":1464129624,
+    "wof:name":"Reeves Electric",
+    "wof:parent_id":85824645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.951125,
+    41.300032,
+    -111.951125,
+    41.300032
+],
+  "geometry": {"coordinates":[-111.951125,41.300032],"type":"Point"}
+}

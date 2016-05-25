@@ -1,0 +1,72 @@
+{
+  "id": 857102737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.835921,41.748341,-111.835921,41.748341",
+    "geom:latitude":41.748341,
+    "geom:longitude":-111.835921,
+    "iso:country":"US",
+    "sg:address":"95 W 900 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 2151",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.bridgerlandanimalhospital.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eCPXDr3FLKPCJSC39PHRW_41.748341_-111.835921@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121976,
+    "wof:geomhash":"1ab55efef6ff44555a2881e88c44e677",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857102737
+        }
+    ],
+    "wof:id":857102737,
+    "wof:lastmodified":1464121976,
+    "wof:name":"Bridgerland Animal Hospital",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -111.835921,
+    41.748341,
+    -111.835921,
+    41.748341
+],
+  "geometry": {"coordinates":[-111.835921,41.748341],"type":"Point"}
+}

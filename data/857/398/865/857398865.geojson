@@ -1,0 +1,76 @@
+{
+  "id": 857398865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.891023,40.771922,-111.891023,40.771922",
+    "geom:latitude":40.771922,
+    "geom:longitude":-111.891023,
+    "iso:country":"US",
+    "sg:address":"130 N Main St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 488 4663",
+    "sg:postcode":"84103",
+    "sg:province":"UT",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "sg:website":"www.homeloan.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85809381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07IXGfkEyxDvHFsX5DMfl0_40.771922_-111.891023@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128603,
+    "wof:geomhash":"4aa3696ea6f36268433f171132118d51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85809381,
+            "region_id":85688567,
+            "venue_id":857398865
+        }
+    ],
+    "wof:id":857398865,
+    "wof:lastmodified":1464128603,
+    "wof:name":"Home Loan Corp",
+    "wof:parent_id":85809381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -111.891023,
+    40.771922,
+    -111.891023,
+    40.771922
+],
+  "geometry": {"coordinates":[-111.891023,40.771922],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857090419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.853044,40.569567,-111.853044,40.569567",
+    "geom:latitude":40.569567,
+    "geom:longitude":-111.853044,
+    "iso:country":"US",
+    "sg:address":"9825 S 1300 E",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 523 8500",
+    "sg:postcode":"84094",
+    "sg:province":"UT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85846597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qgl1iFUUK7d677O4RgVot_40.569567_-111.853044@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121689,
+    "wof:geomhash":"9e7965e90cf97c36052a2a4eb9c152b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85846597,
+            "region_id":85688567,
+            "venue_id":857090419
+        }
+    ],
+    "wof:id":857090419,
+    "wof:lastmodified":1464121689,
+    "wof:name":"Kids Etc",
+    "wof:parent_id":85846597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -111.853044,
+    40.569567,
+    -111.853044,
+    40.569567
+],
+  "geometry": {"coordinates":[-111.853044,40.569567],"type":"Point"}
+}

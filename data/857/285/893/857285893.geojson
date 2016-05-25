@@ -1,0 +1,69 @@
+{
+  "id": 857285893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.895319,40.77597,-111.895319,40.77597",
+    "geom:latitude":40.77597,
+    "geom:longitude":-111.895319,
+    "iso:country":"US",
+    "sg:address":"352 Quince St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 363 3066",
+    "sg:postcode":"84103",
+    "sg:province":"UT",
+    "sg:website":"www.jamesbrownshow.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85804489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qhszetqOjYgaJHxTDpBDB_40.775970_-111.895319@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126043,
+    "wof:geomhash":"f92ff5f5e4bd7fcf2474207ad9b74332",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85804489,
+            "region_id":85688567,
+            "venue_id":857285893
+        }
+    ],
+    "wof:id":857285893,
+    "wof:lastmodified":1464126043,
+    "wof:name":"James Brown Show",
+    "wof:parent_id":85804489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.895319,
+    40.77597,
+    -111.895319,
+    40.77597
+],
+  "geometry": {"coordinates":[-111.895319,40.77597],"type":"Point"}
+}

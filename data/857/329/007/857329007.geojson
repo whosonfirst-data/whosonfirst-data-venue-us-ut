@@ -1,0 +1,68 @@
+{
+  "id": 857329007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.025526,41.226868,-112.025526,41.226868",
+    "geom:latitude":41.226868,
+    "geom:longitude":-112.025526,
+    "iso:country":"US",
+    "sg:address":"2222 S 1900 W",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 399 8380",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85818351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6j5sbKpfXEwFVngMFTuYec_41.226868_-112.025526@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127034,
+    "wof:geomhash":"709423a0e42fd2e2f3ac30b85f1923da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85818351,
+            "region_id":85688567,
+            "venue_id":857329007
+        }
+    ],
+    "wof:id":857329007,
+    "wof:lastmodified":1464127034,
+    "wof:name":"Weber County Agriculture",
+    "wof:parent_id":85818351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.025526,
+    41.226868,
+    -112.025526,
+    41.226868
+],
+  "geometry": {"coordinates":[-112.025526,41.226868],"type":"Point"}
+}

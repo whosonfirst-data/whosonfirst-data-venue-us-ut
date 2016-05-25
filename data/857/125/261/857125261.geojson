@@ -1,0 +1,78 @@
+{
+  "id": 857125261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.926439,40.86156,-111.926439,40.86156",
+    "geom:latitude":40.86156,
+    "geom:longitude":-111.926439,
+    "iso:country":"US",
+    "sg:address":"695 W 1100 N",
+    "sg:city":"North Salt Lake",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 298 2999",
+    "sg:postcode":"84054",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automobile",
+        "co",
+        "drive",
+        "transporter"
+    ],
+    "sg:website":"www.unitedroad.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727887,
+        102083563,
+        85848919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kGeGrUpimxtbDqUDuyPm7_40.861560_-111.926439@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122574,
+    "wof:geomhash":"15cff38643382f42b193cd061a1e9086",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727887,
+            "neighbourhood_id":85848919,
+            "region_id":85688567,
+            "venue_id":857125261
+        }
+    ],
+    "wof:id":857125261,
+    "wof:lastmodified":1464122574,
+    "wof:name":"United Road Svc",
+    "wof:parent_id":85848919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "co",
+        "drive",
+        "transporter"
+    ]
+},
+  "bbox": [
+    -111.926439,
+    40.86156,
+    -111.926439,
+    40.86156
+],
+  "geometry": {"coordinates":[-111.926439,40.86156],"type":"Point"}
+}

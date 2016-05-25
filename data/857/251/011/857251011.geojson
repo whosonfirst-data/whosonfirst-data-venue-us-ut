@@ -1,0 +1,75 @@
+{
+  "id": 857251011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.699674,40.328771,-111.699674,40.328771",
+    "geom:latitude":40.328771,
+    "geom:longitude":-111.699674,
+    "iso:country":"US",
+    "sg:address":"148 W 1720 N",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 225 2994",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5omnrrmpqkDXmR1cXUoBzK_40.328771_-111.699674@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125270,
+    "wof:geomhash":"6784d7db3981ede499c170f0a87039e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":857251011
+        }
+    ],
+    "wof:id":857251011,
+    "wof:lastmodified":1464125270,
+    "wof:name":"Evergreen Properties LLC",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -111.699674,
+    40.328771,
+    -111.699674,
+    40.328771
+],
+  "geometry": {"coordinates":[-111.699674,40.328771],"type":"Point"}
+}

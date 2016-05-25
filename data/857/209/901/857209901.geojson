@@ -1,0 +1,75 @@
+{
+  "id": 857209901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.858585,40.708987,-111.858585,40.708987",
+    "geom:latitude":40.708987,
+    "geom:longitude":-111.858585,
+    "iso:country":"US",
+    "sg:address":"1215 Crandall Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 484 2644",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85851323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Vxm38bUFCzl4TieoG5Xgw_40.708987_-111.858585@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124388,
+    "wof:geomhash":"1acbcc8466c8378ac7ae1b5ccc9f7ffd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85851323,
+            "region_id":85688567,
+            "venue_id":857209901
+        }
+    ],
+    "wof:id":857209901,
+    "wof:lastmodified":1464124388,
+    "wof:name":"Intermountain Tile & Stone",
+    "wof:parent_id":85851323,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -111.858585,
+    40.708987,
+    -111.858585,
+    40.708987
+],
+  "geometry": {"coordinates":[-111.85858500000001,40.708987],"type":"Point"}
+}

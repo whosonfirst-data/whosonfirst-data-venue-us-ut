@@ -1,0 +1,76 @@
+{
+  "id": 857494213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.662228,40.250567,-111.662228,40.250567",
+    "geom:latitude":40.250567,
+    "geom:longitude":-111.662228,
+    "iso:country":"US",
+    "sg:address":"211 W 1230 N",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/provo-orem/212921-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 374 6909",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tMDLEBDWxGbQww9Z2TM1x_40.250567_-111.662228@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130740,
+    "wof:geomhash":"f2b674c631cd601829513d74f0834442",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880063,
+            "region_id":85688567,
+            "venue_id":857494213
+        }
+    ],
+    "wof:id":857494213,
+    "wof:lastmodified":1464130740,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85880063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -111.662228,
+    40.250567,
+    -111.662228,
+    40.250567
+],
+  "geometry": {"coordinates":[-111.662228,40.250567],"type":"Point"}
+}

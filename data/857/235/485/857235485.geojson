@@ -1,0 +1,77 @@
+{
+  "id": 857235485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.655402,40.282773,-111.655402,40.282773",
+    "geom:latitude":40.282773,
+    "geom:longitude":-111.655402,
+    "iso:country":"US",
+    "sg:address":"109 E 3700 N",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 375 0576",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mfg",
+        "drapery",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85817395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09OdiORybwoenLwe8IeBIL_40.282773_-111.655402@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124912,
+    "wof:geomhash":"c96fe49fde692fe86f33c9c6ba6e022d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85817395,
+            "region_id":85688567,
+            "venue_id":857235485
+        }
+    ],
+    "wof:id":857235485,
+    "wof:lastmodified":1464124912,
+    "wof:name":"Laytons Drapery & Blinds",
+    "wof:parent_id":85817395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "drapery",
+        "custom"
+    ]
+},
+  "bbox": [
+    -111.655402,
+    40.282773,
+    -111.655402,
+    40.282773
+],
+  "geometry": {"coordinates":[-111.655402,40.282773],"type":"Point"}
+}

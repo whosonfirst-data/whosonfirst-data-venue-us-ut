@@ -1,0 +1,71 @@
+{
+  "id": 857247037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.835022,41.732428,-111.835022,41.732428",
+    "geom:latitude":41.732428,
+    "geom:longitude":-111.835022,
+    "iso:country":"US",
+    "sg:address":"45 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 755 8079",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eE7TvY46yDmF5JYr6B84o_41.732428_-111.835022@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125178,
+    "wof:geomhash":"1976fe7dc94e196f49b4966bec85642f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857247037
+        }
+    ],
+    "wof:id":857247037,
+    "wof:lastmodified":1464125178,
+    "wof:name":"Guardian Ad Litem",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -111.835022,
+    41.732428,
+    -111.835022,
+    41.732428
+],
+  "geometry": {"coordinates":[-111.835022,41.732428],"type":"Point"}
+}

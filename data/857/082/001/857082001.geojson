@@ -1,0 +1,73 @@
+{
+  "id": 857082001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.81695,40.672548,-111.81695,40.672548",
+    "geom:latitude":40.672548,
+    "geom:longitude":-111.81695,
+    "iso:country":"US",
+    "sg:address":"4537 Wander Ln",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 278 7894",
+    "sg:postcode":"84117",
+    "sg:province":"UT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728049,
+        102082877,
+        85807679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IPabNZfGY5vzIyD7zwT0J_40.672548_-111.816950@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121450,
+    "wof:geomhash":"811c1100fdaf65fcaebb062de4d34e9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728049,
+            "neighbourhood_id":85807679,
+            "region_id":85688567,
+            "venue_id":857082001
+        }
+    ],
+    "wof:id":857082001,
+    "wof:lastmodified":1464121450,
+    "wof:name":"Banks Day Care",
+    "wof:parent_id":85807679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -111.81695,
+    40.672548,
+    -111.81695,
+    40.672548
+],
+  "geometry": {"coordinates":[-111.81695000000001,40.672548],"type":"Point"}
+}

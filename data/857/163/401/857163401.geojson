@@ -1,0 +1,69 @@
+{
+  "id": 857163401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.809353,40.394201,-111.809353,40.394201",
+    "geom:latitude":40.394201,
+    "geom:longitude":-111.809353,
+    "iso:country":"US",
+    "sg:address":"894 N 400 W",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 772 0752",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "operator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6L9GqzG2RitYbYjyiC3NOc_40.394201_-111.809353@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123431,
+    "wof:geomhash":"85390f5617cd43c2c76c9ec77a8844f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857163401
+        }
+    ],
+    "wof:id":857163401,
+    "wof:lastmodified":1464123431,
+    "wof:name":"Assist 2 Stockton Vending",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator"
+    ]
+},
+  "bbox": [
+    -111.809353,
+    40.394201,
+    -111.809353,
+    40.394201
+],
+  "geometry": {"coordinates":[-111.809353,40.394201],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857229261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.924006,41.014338,-111.924006,41.014338",
+    "geom:latitude":41.014338,
+    "geom:longitude":-111.924006,
+    "iso:country":"US",
+    "sg:address":"634 E 1250 S",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 6253",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EvRvoOr62TSNezRogzyBC_41.014338_-111.924006@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124794,
+    "wof:geomhash":"0febdbd54759ad3b2d0cb8e629186900",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857229261
+        }
+    ],
+    "wof:id":857229261,
+    "wof:lastmodified":1464124794,
+    "wof:name":"Lamb Industries LLC",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.924006,
+    41.014338,
+    -111.924006,
+    41.014338
+],
+  "geometry": {"coordinates":[-111.92400600000001,41.014338],"type":"Point"}
+}

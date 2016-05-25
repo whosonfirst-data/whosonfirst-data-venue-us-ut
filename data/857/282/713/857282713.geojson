@@ -1,0 +1,68 @@
+{
+  "id": 857282713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.940571,41.155475,-111.940571,41.155475",
+    "geom:latitude":41.155475,
+    "geom:longitude":-111.940571,
+    "iso:country":"US",
+    "sg:address":"1493 E Ridgeline Dr",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 475 9900",
+    "sg:postcode":"84405",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728021,
+        102083539,
+        85831977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Q5uQaKcRY824f0Brkmzzi_41.155475_-111.940571@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125976,
+    "wof:geomhash":"a5f6d6f5089cd8db108acfdc2317d5c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728021,
+            "neighbourhood_id":85831977,
+            "region_id":85688567,
+            "venue_id":857282713
+        }
+    ],
+    "wof:id":857282713,
+    "wof:lastmodified":1464125976,
+    "wof:name":"Keller Williams Realtors",
+    "wof:parent_id":85831977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.940571,
+    41.155475,
+    -111.940571,
+    41.155475
+],
+  "geometry": {"coordinates":[-111.94057100000001,41.155475],"type":"Point"}
+}

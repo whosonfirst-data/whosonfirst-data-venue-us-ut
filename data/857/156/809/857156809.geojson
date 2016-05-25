@@ -1,0 +1,75 @@
+{
+  "id": 857156809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.02498,40.707016,-112.02498,40.707016",
+    "geom:latitude":40.707016,
+    "geom:longitude":-112.02498,
+    "iso:country":"US",
+    "sg:address":"2920 S 5600 W",
+    "sg:city":"West Valley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 964 8687",
+    "sg:postcode":"84120",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85802447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JJZeTo2iwLZXuVxL5D9Az_40.707016_-112.024980@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123281,
+    "wof:geomhash":"e44e34b6fc5de27dbb25b115cbe44274",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85802447,
+            "region_id":85688567,
+            "venue_id":857156809
+        }
+    ],
+    "wof:id":857156809,
+    "wof:lastmodified":1464123281,
+    "wof:name":"Every Need Auto Repair",
+    "wof:parent_id":85802447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -112.02498,
+    40.707016,
+    -112.02498,
+    40.707016
+],
+  "geometry": {"coordinates":[-112.02498,40.707016],"type":"Point"}
+}

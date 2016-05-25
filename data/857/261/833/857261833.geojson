@@ -1,0 +1,77 @@
+{
+  "id": 857261833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.905393,40.680308,-111.905393,40.680308",
+    "geom:latitude":40.680308,
+    "geom:longitude":-111.905393,
+    "iso:country":"US",
+    "sg:address":"4191 S 500 W",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 261 4524",
+    "sg:postcode":"84123",
+    "sg:province":"UT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85851609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uzpfBe0sk5gfoYgooT77x_40.680308_-111.905393@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125532,
+    "wof:geomhash":"fec6f8b90cc6731b825bf722c5307e19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85851609,
+            "region_id":85688567,
+            "venue_id":857261833
+        }
+    ],
+    "wof:id":857261833,
+    "wof:lastmodified":1464125532,
+    "wof:name":"Best Priced Auto Repair",
+    "wof:parent_id":85851609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -111.905393,
+    40.680308,
+    -111.905393,
+    40.680308
+],
+  "geometry": {"coordinates":[-111.905393,40.680308],"type":"Point"}
+}

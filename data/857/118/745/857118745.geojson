@@ -1,0 +1,75 @@
+{
+  "id": 857118745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.034964,40.514222,-112.034964,40.514222",
+    "geom:latitude":40.514222,
+    "geom:longitude":-112.034964,
+    "iso:country":"US",
+    "sg:address":"6000 W 13100 S",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 254 8136",
+    "sg:postcode":"84096",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mormon",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728047,
+        102082877,
+        85819751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cGgdbhGjivr78IX5f0Tuk_40.514222_-112.034964@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122425,
+    "wof:geomhash":"60d39fbe4500c6d35b777c0e50403205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728047,
+            "neighbourhood_id":85819751,
+            "region_id":85688567,
+            "venue_id":857118745
+        }
+    ],
+    "wof:id":857118745,
+    "wof:lastmodified":1464122425,
+    "wof:name":"Rose Canyon Ward",
+    "wof:parent_id":85819751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mormon",
+        "church"
+    ]
+},
+  "bbox": [
+    -112.034964,
+    40.514222,
+    -112.034964,
+    40.514222
+],
+  "geometry": {"coordinates":[-112.034964,40.514222],"type":"Point"}
+}

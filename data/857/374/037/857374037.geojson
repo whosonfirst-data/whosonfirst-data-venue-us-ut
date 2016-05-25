@@ -1,0 +1,80 @@
+{
+  "id": 857374037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.799132,40.378108,-111.799132,40.378108",
+    "geom:latitude":40.378108,
+    "geom:longitude":-111.799132,
+    "iso:country":"US",
+    "sg:address":"38 N Merchant St",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 763 9788",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "merchandise",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_365LLutHXSVkeQu7yVuDoi_40.378108_-111.799132@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127990,
+    "wof:geomhash":"ffa1b58400a079915ff72de62a294377",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857374037
+        }
+    ],
+    "wof:id":857374037,
+    "wof:lastmodified":1464127990,
+    "wof:name":"Altus Fine Art LLC",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "gallery",
+        "merchandise",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -111.799132,
+    40.378108,
+    -111.799132,
+    40.378108
+],
+  "geometry": {"coordinates":[-111.799132,40.378108],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857247065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.6516,40.23979,-111.6516,40.23979",
+    "geom:latitude":40.23979,
+    "geom:longitude":-111.6516,
+    "iso:country":"US",
+    "sg:address":"442 N 400 E",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 2569",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0erDF063cRX3m6nSuzj8zx_40.239790_-111.651600@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125179,
+    "wof:geomhash":"31341b66044e192ba94478832f82c460",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880085,
+            "region_id":85688567,
+            "venue_id":857247065
+        }
+    ],
+    "wof:id":857247065,
+    "wof:lastmodified":1464125179,
+    "wof:name":"Brookview Apartments",
+    "wof:parent_id":85880085,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -111.6516,
+    40.23979,
+    -111.6516,
+    40.23979
+],
+  "geometry": {"coordinates":[-111.6516,40.23979],"type":"Point"}
+}

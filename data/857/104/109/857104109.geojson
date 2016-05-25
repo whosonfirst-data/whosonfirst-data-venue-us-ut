@@ -1,0 +1,75 @@
+{
+  "id": 857104109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.674475,40.258391,-111.674475,40.258391",
+    "geom:latitude":40.258391,
+    "geom:longitude":-111.674475,
+    "iso:country":"US",
+    "sg:address":"1735 N State St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 9627",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UyuQl35A5v8exAPgqg1WY_40.258391_-111.674475@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122008,
+    "wof:geomhash":"d061ff93e44ccbfa7a2399f7ae578304",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880063,
+            "region_id":85688567,
+            "venue_id":857104109
+        }
+    ],
+    "wof:id":857104109,
+    "wof:lastmodified":1464122008,
+    "wof:name":"Robert Simmons MD",
+    "wof:parent_id":85880063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -111.674475,
+    40.258391,
+    -111.674475,
+    40.258391
+],
+  "geometry": {"coordinates":[-111.674475,40.258391],"type":"Point"}
+}

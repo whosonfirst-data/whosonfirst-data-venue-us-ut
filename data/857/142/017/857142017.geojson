@@ -1,0 +1,73 @@
+{
+  "id": 857142017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.68664,40.331213,-111.68664,40.331213",
+    "geom:latitude":40.331213,
+    "geom:longitude":-111.68664,
+    "iso:country":"US",
+    "sg:address":"1886 Heather Dr",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 229 9080",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eHZO32eZPoGx2GNIDzA8H_40.331213_-111.686640@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122942,
+    "wof:geomhash":"17ef941486235974b2b09a163ebfa252",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":857142017
+        }
+    ],
+    "wof:id":857142017,
+    "wof:lastmodified":1464122942,
+    "wof:name":"Heather Ridge Home",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -111.68664,
+    40.331213,
+    -111.68664,
+    40.331213
+],
+  "geometry": {"coordinates":[-111.68664,40.331213],"type":"Point"}
+}

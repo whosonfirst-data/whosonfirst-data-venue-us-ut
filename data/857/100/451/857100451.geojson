@@ -1,0 +1,71 @@
+{
+  "id": 857100451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.932274,41.015414,-111.932274,41.015414",
+    "geom:latitude":41.015414,
+    "geom:longitude":-111.932274,
+    "iso:country":"US",
+    "sg:address":"1137 Shadowridge Dr",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 593 6600",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "book"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1w8Ru5VXwNYkNupJhEHznv_41.015414_-111.932274@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121921,
+    "wof:geomhash":"287a75c72a6ca3387ea2f84de8eb8dee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857100451
+        }
+    ],
+    "wof:id":857100451,
+    "wof:lastmodified":1464121921,
+    "wof:name":"Banta Publications Group",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "book"
+    ]
+},
+  "bbox": [
+    -111.932274,
+    41.015414,
+    -111.932274,
+    41.015414
+],
+  "geometry": {"coordinates":[-111.93227400000001,41.015414],"type":"Point"}
+}

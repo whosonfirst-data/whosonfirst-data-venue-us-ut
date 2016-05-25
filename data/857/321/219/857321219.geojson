@@ -1,0 +1,75 @@
+{
+  "id": 857321219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.045248,41.133896,-112.045248,41.133896",
+    "geom:latitude":41.133896,
+    "geom:longitude":-112.045248,
+    "iso:country":"US",
+    "sg:address":"1300 N 1000 W",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 544 4711",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85819031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cBSp40XTnL9eHhGpEcrEH_41.133896_-112.045248@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126873,
+    "wof:geomhash":"b7cfa89554ad1593f36898aad4ad2fe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85819031,
+            "region_id":85688567,
+            "venue_id":857321219
+        }
+    ],
+    "wof:id":857321219,
+    "wof:lastmodified":1464126873,
+    "wof:name":"Clinton Storage Ctr",
+    "wof:parent_id":85819031,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -112.045248,
+    41.133896,
+    -112.045248,
+    41.133896
+],
+  "geometry": {"coordinates":[-112.045248,41.133896],"type":"Point"}
+}

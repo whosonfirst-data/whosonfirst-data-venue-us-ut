@@ -1,0 +1,75 @@
+{
+  "id": 857151077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.809232,40.653949,-111.809232,40.653949",
+    "geom:latitude":40.653949,
+    "geom:longitude":-111.809232,
+    "iso:country":"US",
+    "sg:address":"5237 Hillsden Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 277 9710",
+    "sg:postcode":"84117",
+    "sg:province":"UT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728049,
+        102082877,
+        85825905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09rumw5tvjU1Rz82K5XIuO_40.653949_-111.809232@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123170,
+    "wof:geomhash":"630119bb46bf2f2113667240bff8ef06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728049,
+            "neighbourhood_id":85825905,
+            "region_id":85688567,
+            "venue_id":857151077
+        }
+    ],
+    "wof:id":857151077,
+    "wof:lastmodified":1464123170,
+    "wof:name":"Pills Excavtg",
+    "wof:parent_id":85825905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.809232,
+    40.653949,
+    -111.809232,
+    40.653949
+],
+  "geometry": {"coordinates":[-111.80923199999999,40.653949],"type":"Point"}
+}

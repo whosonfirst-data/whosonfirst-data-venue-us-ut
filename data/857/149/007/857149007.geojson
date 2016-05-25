@@ -1,0 +1,71 @@
+{
+  "id": 857149007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.839185,41.76271,-111.839185,41.76271",
+    "geom:latitude":41.76271,
+    "geom:longitude":-111.839185,
+    "iso:country":"US",
+    "sg:address":"1638 N 200 W",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 750 5900",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "scanning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oxCDYuXJMIl7E1veK5JHq_41.762710_-111.839185@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123123,
+    "wof:geomhash":"fa0a1cd847e58cb04d337cb5a73fdc26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857149007
+        }
+    ],
+    "wof:id":857149007,
+    "wof:lastmodified":1464123123,
+    "wof:name":"Video Scrapbook",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scanning"
+    ]
+},
+  "bbox": [
+    -111.839185,
+    41.76271,
+    -111.839185,
+    41.76271
+],
+  "geometry": {"coordinates":[-111.839185,41.76271],"type":"Point"}
+}

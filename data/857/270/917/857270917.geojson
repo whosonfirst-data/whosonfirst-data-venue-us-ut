@@ -1,0 +1,73 @@
+{
+  "id": 857270917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.787112,40.031588,-111.787112,40.031588",
+    "geom:latitude":40.031588,
+    "geom:longitude":-111.787112,
+    "iso:country":"US",
+    "sg:address":"10951 S 5600 W",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 4618",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SvH5eO722cFr7wriVcpxl_40.031588_-111.787112@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125704,
+    "wof:geomhash":"8d0cff5e34347a2ce29960e6c6748b3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857270917
+        }
+    ],
+    "wof:id":857270917,
+    "wof:lastmodified":1464125704,
+    "wof:name":"Small Industries",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.787112,
+    40.031588,
+    -111.787112,
+    40.031588
+],
+  "geometry": {"coordinates":[-111.78711199999999,40.031588],"type":"Point"}
+}

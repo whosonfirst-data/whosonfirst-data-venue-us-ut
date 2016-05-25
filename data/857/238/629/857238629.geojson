@@ -1,0 +1,71 @@
+{
+  "id": 857238629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.790945,39.968948,-111.790945,39.968948",
+    "geom:latitude":39.968948,
+    "geom:longitude":-111.790945,
+    "iso:country":"US",
+    "sg:address":"409 S 300 W",
+    "sg:city":"Santaquin",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 754 0813",
+    "sg:postcode":"84655",
+    "sg:province":"UT",
+    "sg:tags":[
+        "skilled"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sXEIdY60afahuVRmf5yIi_39.968948_-111.790945@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124975,
+    "wof:geomhash":"0062376027ea9d958c1e7f12ee384893",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857238629
+        }
+    ],
+    "wof:id":857238629,
+    "wof:lastmodified":1464124975,
+    "wof:name":"Latter Day Assisted Living",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled"
+    ]
+},
+  "bbox": [
+    -111.790945,
+    39.968948,
+    -111.790945,
+    39.968948
+],
+  "geometry": {"coordinates":[-111.79094499999999,39.968948],"type":"Point"}
+}

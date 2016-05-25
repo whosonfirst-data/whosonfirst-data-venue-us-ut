@@ -1,0 +1,77 @@
+{
+  "id": 857304105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834279,41.758696,-111.834279,41.758696",
+    "geom:latitude":41.758696,
+    "geom:longitude":-111.834279,
+    "iso:country":"US",
+    "sg:address":"1460 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 755 2801",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ymssWkk5u46EIiaxw6Mny_41.758696_-111.834279@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126499,
+    "wof:geomhash":"0fc813a5cab1e9bd6cdcdda8fbc44c86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857304105
+        }
+    ],
+    "wof:id":857304105,
+    "wof:lastmodified":1464126499,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -111.834279,
+    41.758696,
+    -111.834279,
+    41.758696
+],
+  "geometry": {"coordinates":[-111.834279,41.758696],"type":"Point"}
+}

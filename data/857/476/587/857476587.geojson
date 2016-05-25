@@ -1,0 +1,71 @@
+{
+  "id": 857476587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.776185,40.352167,-111.776185,40.352167",
+    "geom:latitude":40.352167,
+    "geom:longitude":-111.776185,
+    "iso:country":"US",
+    "sg:address":"1276 S 820 E",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 0309",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "supply",
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0h5SsRrVdDNbLjsdYFzSos_40.352167_-111.776185@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130306,
+    "wof:geomhash":"1e7de6cd9c1880f409e0014ba12997ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857476587
+        }
+    ],
+    "wof:id":857476587,
+    "wof:lastmodified":1464130306,
+    "wof:name":"Franson Noble Engineering",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -111.776185,
+    40.352167,
+    -111.776185,
+    40.352167
+],
+  "geometry": {"coordinates":[-111.776185,40.352167],"type":"Point"}
+}

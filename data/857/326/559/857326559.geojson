@@ -1,0 +1,75 @@
+{
+  "id": 857326559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.102727,41.201636,-112.102727,41.201636",
+    "geom:latitude":41.201636,
+    "geom:longitude":-112.102727,
+    "iso:country":"US",
+    "sg:address":"3882 S 5100 W",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 731 2486",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "sanitary",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85804651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OHtb2WLAdIJrOMCk5Iqz8_41.201636_-112.102727@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126981,
+    "wof:geomhash":"5d12e848c447bcfec9ad38c83c33edcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85804651,
+            "region_id":85688567,
+            "venue_id":857326559
+        }
+    ],
+    "wof:id":857326559,
+    "wof:lastmodified":1464126981,
+    "wof:name":"Campbell Roofing",
+    "wof:parent_id":85804651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sanitary",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -112.102727,
+    41.201636,
+    -112.102727,
+    41.201636
+],
+  "geometry": {"coordinates":[-112.102727,41.201636],"type":"Point"}
+}

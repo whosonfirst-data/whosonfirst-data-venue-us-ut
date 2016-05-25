@@ -1,0 +1,71 @@
+{
+  "id": 857383923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.798369,40.385751,-111.798369,40.385751",
+    "geom:latitude":40.385751,
+    "geom:longitude":-111.798369,
+    "iso:country":"US",
+    "sg:address":"454 N Center St",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 763 3081",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "passenger",
+        "executive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6K1WcgDqImEmj9KC9ksfHY_40.385751_-111.798369@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128241,
+    "wof:geomhash":"15b131a7004e7f88cdafa03f8b39babe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857383923
+        }
+    ],
+    "wof:id":857383923,
+    "wof:lastmodified":1464128241,
+    "wof:name":"Recreation Dept",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "executive"
+    ]
+},
+  "bbox": [
+    -111.798369,
+    40.385751,
+    -111.798369,
+    40.385751
+],
+  "geometry": {"coordinates":[-111.79836899999999,40.385751],"type":"Point"}
+}

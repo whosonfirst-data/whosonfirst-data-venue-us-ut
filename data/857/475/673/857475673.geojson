@@ -1,0 +1,73 @@
+{
+  "id": 857475673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.819403,40.595287,-111.819403,40.595287",
+    "geom:latitude":40.595287,
+    "geom:longitude":-111.819403,
+    "iso:country":"US",
+    "sg:address":"8624 Alta Canyon Dr",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 944 3860",
+    "sg:postcode":"84093",
+    "sg:province":"UT",
+    "sg:tags":[
+        "programming",
+        "network"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728077,
+        102082877,
+        85843389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EYLRkMlrfjUNzUNEvh5ko_40.595287_-111.819403@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130291,
+    "wof:geomhash":"c8d9f56b3825650c425d842fa0716316",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85843389,
+            "region_id":85688567,
+            "venue_id":857475673
+        }
+    ],
+    "wof:id":857475673,
+    "wof:lastmodified":1464130291,
+    "wof:name":"Forgis LLC",
+    "wof:parent_id":85843389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programming",
+        "network"
+    ]
+},
+  "bbox": [
+    -111.819403,
+    40.595287,
+    -111.819403,
+    40.595287
+],
+  "geometry": {"coordinates":[-111.81940299999999,40.595287],"type":"Point"}
+}

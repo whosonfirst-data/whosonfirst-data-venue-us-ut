@@ -1,0 +1,75 @@
+{
+  "id": 857411809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.847367,41.718885,-111.847367,41.718885",
+    "geom:latitude":41.718885,
+    "geom:longitude":-111.847367,
+    "iso:country":"US",
+    "sg:address":"565 W 700 S",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 6677",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "range",
+        "baseball",
+        "batting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UcNyO7xnpewwhUH9fsCse_41.718885_-111.847367@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128895,
+    "wof:geomhash":"cf044daf19829e2f8b83d48b30de8371",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857411809
+        }
+    ],
+    "wof:id":857411809,
+    "wof:lastmodified":1464128895,
+    "wof:name":"Batting Cages",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "range",
+        "baseball",
+        "batting"
+    ]
+},
+  "bbox": [
+    -111.847367,
+    41.718885,
+    -111.847367,
+    41.718885
+],
+  "geometry": {"coordinates":[-111.84736700000001,41.718885],"type":"Point"}
+}

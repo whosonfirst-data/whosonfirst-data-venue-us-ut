@@ -1,0 +1,68 @@
+{
+  "id": 857420511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.003796,40.658581,-112.003796,40.658581",
+    "geom:latitude":40.658581,
+    "geom:longitude":-112.003796,
+    "iso:country":"US",
+    "sg:address":"4766 W 5100 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 679 0808",
+    "sg:postcode":"84118",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728253,
+        102082877,
+        85833393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ySUJjqTYR16JlRYciA6Aw_40.658581_-112.003796@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129107,
+    "wof:geomhash":"42da30b80b0f6ba3598ec75510cc085f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728253,
+            "neighbourhood_id":85833393,
+            "region_id":85688567,
+            "venue_id":857420511
+        }
+    ],
+    "wof:id":857420511,
+    "wof:lastmodified":1464129107,
+    "wof:name":"Ancy Company Corporation",
+    "wof:parent_id":85833393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.003796,
+    40.658581,
+    -112.003796,
+    40.658581
+],
+  "geometry": {"coordinates":[-112.00379599999999,40.658581],"type":"Point"}
+}

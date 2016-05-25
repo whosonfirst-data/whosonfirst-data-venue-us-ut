@@ -1,0 +1,75 @@
+{
+  "id": 857328899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.963194,40.676311,-111.963194,40.676311",
+    "geom:latitude":40.676311,
+    "geom:longitude":-111.963194,
+    "iso:country":"US",
+    "sg:address":"4368 S Weymouth Cir",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 955 9455",
+    "sg:postcode":"84119",
+    "sg:province":"UT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85834353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oDSRfqk9Jq5rxpv34kSTm_40.676311_-111.963194@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127030,
+    "wof:geomhash":"60f28eed9b7ef839e04f41398b66d21e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85834353,
+            "region_id":85688567,
+            "venue_id":857328899
+        }
+    ],
+    "wof:id":857328899,
+    "wof:lastmodified":1464127030,
+    "wof:name":"Aaron's Affordable Plumbing",
+    "wof:parent_id":85834353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.963194,
+    40.676311,
+    -111.963194,
+    40.676311
+],
+  "geometry": {"coordinates":[-111.963194,40.676311],"type":"Point"}
+}

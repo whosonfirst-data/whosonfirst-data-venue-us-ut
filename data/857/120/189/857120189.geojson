@@ -1,0 +1,77 @@
+{
+  "id": 857120189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.045256,41.091976,-112.045256,41.091976",
+    "geom:latitude":41.091976,
+    "geom:longitude":-112.045256,
+    "iso:country":"US",
+    "sg:address":"1575 S 1000 W",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 728 3776",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "operated",
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727889,
+        102083563,
+        85804563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66t8Ju8xrs3eOnkOlfcmP1_41.091976_-112.045256@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122453,
+    "wof:geomhash":"86408b46b91dd998bd888d74919baeb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727889,
+            "neighbourhood_id":85804563,
+            "region_id":85688567,
+            "venue_id":857120189
+        }
+    ],
+    "wof:id":857120189,
+    "wof:lastmodified":1464122453,
+    "wof:name":"Willy Wash & Detail",
+    "wof:parent_id":85804563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operated",
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -112.045256,
+    41.091976,
+    -112.045256,
+    41.091976
+],
+  "geometry": {"coordinates":[-112.04525599999999,41.091976],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857278437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.974335,40.550235,-111.974335,40.550235",
+    "geom:latitude":40.550235,
+    "geom:longitude":-111.974335,
+    "iso:country":"US",
+    "sg:address":"11125 S 3510 W",
+    "sg:city":"South Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 254 4583",
+    "sg:postcode":"84095",
+    "sg:province":"UT",
+    "sg:tags":[
+        "camp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728055,
+        102082877,
+        85831981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FmVx603J635wQpEjMWLWX_40.550235_-111.974335@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125877,
+    "wof:geomhash":"667bd66ee25eb292b9d7bb38cb9ef990",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728055,
+            "neighbourhood_id":85831981,
+            "region_id":85688567,
+            "venue_id":857278437
+        }
+    ],
+    "wof:id":857278437,
+    "wof:lastmodified":1464125877,
+    "wof:name":"Wasatch Connection",
+    "wof:parent_id":85831981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -111.974335,
+    40.550235,
+    -111.974335,
+    40.550235
+],
+  "geometry": {"coordinates":[-111.974335,40.550235],"type":"Point"}
+}

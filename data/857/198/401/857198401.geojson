@@ -1,0 +1,68 @@
+{
+  "id": 857198401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.865672,40.775656,-111.865672,40.775656",
+    "geom:latitude":40.775656,
+    "geom:longitude":-111.865672,
+    "iso:country":"US",
+    "sg:address":"275 M St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 455 8161",
+    "sg:postcode":"84103",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1G4i2MKBJe2DZBWvbOrvlG_40.775656_-111.865672@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124147,
+    "wof:geomhash":"aa12f060eb10a9422badcd1fb9976e65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871029,
+            "region_id":85688567,
+            "venue_id":857198401
+        }
+    ],
+    "wof:id":857198401,
+    "wof:lastmodified":1464124147,
+    "wof:name":"Gold & Silver",
+    "wof:parent_id":85871029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.865672,
+    40.775656,
+    -111.865672,
+    40.775656
+],
+  "geometry": {"coordinates":[-111.865672,40.775656],"type":"Point"}
+}

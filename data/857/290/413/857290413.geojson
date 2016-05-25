@@ -1,0 +1,73 @@
+{
+  "id": 857290413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.905339,40.674662,-111.905339,40.674662",
+    "geom:latitude":40.674662,
+    "geom:longitude":-111.905339,
+    "iso:country":"US",
+    "sg:address":"454 W 4500 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 743 0221",
+    "sg:postcode":"84123",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85851609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vML1ki15i2YglSXpwkmrI_40.674662_-111.905339@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126157,
+    "wof:geomhash":"248a61ec31e5885f962d519974ecb2e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85851609,
+            "region_id":85688567,
+            "venue_id":857290413
+        }
+    ],
+    "wof:id":857290413,
+    "wof:lastmodified":1464126157,
+    "wof:name":"Burger King",
+    "wof:parent_id":85851609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.905339,
+    40.674662,
+    -111.905339,
+    40.674662
+],
+  "geometry": {"coordinates":[-111.905339,40.674662],"type":"Point"}
+}

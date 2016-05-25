@@ -1,0 +1,72 @@
+{
+  "id": 857268713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.905036,41.000825,-111.905036,41.000825",
+    "geom:latitude":41.000825,
+    "geom:longitude":-111.905036,
+    "iso:country":"US",
+    "sg:address":"810 Shepard Ln",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 9191",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "engineer"
+    ],
+    "sg:website":"www.westest.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mKmQ31BZGIpy74ulWJ3P3_41.000825_-111.905036@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125661,
+    "wof:geomhash":"a63c7fa3d2385fb50d2a4d81e34ed94a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857268713
+        }
+    ],
+    "wof:id":857268713,
+    "wof:lastmodified":1464125661,
+    "wof:name":"Westest Engineering Corp",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -111.905036,
+    41.000825,
+    -111.905036,
+    41.000825
+],
+  "geometry": {"coordinates":[-111.905036,41.000825],"type":"Point"}
+}

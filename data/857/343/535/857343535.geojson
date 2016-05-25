@@ -1,0 +1,73 @@
+{
+  "id": 857343535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834401,41.74957,-111.834401,41.74957",
+    "geom:latitude":41.74957,
+    "geom:longitude":-111.834401,
+    "iso:country":"US",
+    "sg:address":"930 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 787 0644",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "company",
+        "title"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wWg1I2xfXw85ji0VJiCWM_41.749570_-111.834401@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127344,
+    "wof:geomhash":"b2d14ba78813470b6aa27b41ffbe3315",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857343535
+        }
+    ],
+    "wof:id":857343535,
+    "wof:lastmodified":1464127344,
+    "wof:name":"Utah Title Loans",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "title"
+    ]
+},
+  "bbox": [
+    -111.834401,
+    41.74957,
+    -111.834401,
+    41.74957
+],
+  "geometry": {"coordinates":[-111.834401,41.74957],"type":"Point"}
+}

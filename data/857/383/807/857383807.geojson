@@ -1,0 +1,73 @@
+{
+  "id": 857383807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.570428,40.140595,-111.570428,40.140595",
+    "geom:latitude":40.140595,
+    "geom:longitude":-111.570428,
+    "iso:country":"US",
+    "sg:address":"1083 N 700 E",
+    "sg:city":"Mapleton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 491 8741",
+    "sg:postcode":"84664",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2X30fNkLnm6i7LM406RECV_40.140595_-111.570428@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128236,
+    "wof:geomhash":"ac93edeecd44a981e461ea7b4236959d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857383807
+        }
+    ],
+    "wof:id":857383807,
+    "wof:lastmodified":1464128236,
+    "wof:name":"Tj Electric LLC",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.570428,
+    40.140595,
+    -111.570428,
+    40.140595
+],
+  "geometry": {"coordinates":[-111.57042800000001,40.140595],"type":"Point"}
+}

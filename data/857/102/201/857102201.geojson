@@ -1,0 +1,71 @@
+{
+  "id": 857102201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.732381,40.035079,-111.732381,40.035079",
+    "geom:latitude":40.035079,
+    "geom:longitude":-111.732381,
+    "iso:country":"US",
+    "sg:address":"590 S Main St",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 1349",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7K9nz1Q7BAwrrGutslxh8c_40.035079_-111.732381@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121965,
+    "wof:geomhash":"3f05dce6c4265329d95d25a26bc89799",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857102201
+        }
+    ],
+    "wof:id":857102201,
+    "wof:lastmodified":1464121965,
+    "wof:name":"Family History Ctr",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -111.732381,
+    40.035079,
+    -111.732381,
+    40.035079
+],
+  "geometry": {"coordinates":[-111.732381,40.035079],"type":"Point"}
+}

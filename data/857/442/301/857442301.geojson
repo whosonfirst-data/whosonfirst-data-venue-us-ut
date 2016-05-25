@@ -1,0 +1,73 @@
+{
+  "id": 857442301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.913857,41.011301,-111.913857,41.011301",
+    "geom:latitude":41.011301,
+    "geom:longitude":-111.913857,
+    "iso:country":"US",
+    "sg:address":"1280 W 1875 N",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 1959",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mormon",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gId1GjAowpuV8vpTPeJRg_41.011301_-111.913857@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129610,
+    "wof:geomhash":"c03c1a1cb854402491a3045df31d4fd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857442301
+        }
+    ],
+    "wof:id":857442301,
+    "wof:lastmodified":1464129610,
+    "wof:name":"Oakridge Seventh Ward",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mormon",
+        "church"
+    ]
+},
+  "bbox": [
+    -111.913857,
+    41.011301,
+    -111.913857,
+    41.011301
+],
+  "geometry": {"coordinates":[-111.91385699999999,41.011301],"type":"Point"}
+}

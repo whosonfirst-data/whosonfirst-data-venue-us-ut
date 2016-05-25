@@ -1,0 +1,68 @@
+{
+  "id": 857410689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.63983,40.276769,-111.63983,40.276769",
+    "geom:latitude":40.276769,
+    "geom:longitude":-111.63983,
+    "iso:country":"US",
+    "sg:address":"3180 N Mohawk Ln",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 374 8747",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NQhuZhPHQK18p1MunWfUH_40.276769_-111.639830@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128863,
+    "wof:geomhash":"492ed11a14de7eb8b79ef4cd2c948e47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880111,
+            "region_id":85688567,
+            "venue_id":857410689
+        }
+    ],
+    "wof:id":857410689,
+    "wof:lastmodified":1464128863,
+    "wof:name":"Discovery Dynamics",
+    "wof:parent_id":85880111,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.63983,
+    40.276769,
+    -111.63983,
+    40.276769
+],
+  "geometry": {"coordinates":[-111.63983,40.276769],"type":"Point"}
+}

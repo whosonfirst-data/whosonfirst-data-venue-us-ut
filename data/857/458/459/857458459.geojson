@@ -1,0 +1,73 @@
+{
+  "id": 857458459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.83498,41.729067,-111.83498,41.729067",
+    "geom:latitude":41.729067,
+    "geom:longitude":-111.83498,
+    "iso:country":"US",
+    "sg:address":"150 S Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 8551",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dealer",
+        "rug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5otAdVePLH7IAwUuiaDH1d_41.729067_-111.834980@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129925,
+    "wof:geomhash":"caa06140ae5147fddc6b00ca12cb68e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857458459
+        }
+    ],
+    "wof:id":857458459,
+    "wof:lastmodified":1464129925,
+    "wof:name":"Ogden's Carpet Outlets",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "rug"
+    ]
+},
+  "bbox": [
+    -111.83498,
+    41.729067,
+    -111.83498,
+    41.729067
+],
+  "geometry": {"coordinates":[-111.83498,41.729067],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857341151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.839625,40.381806,-111.839625,40.381806",
+    "geom:latitude":40.381806,
+    "geom:longitude":-111.839625,
+    "iso:country":"US",
+    "sg:address":"595 S 600 E",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 768 9423",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XM9JpfFMMT1Gk4NRbHldU_40.381806_-111.839625@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127300,
+    "wof:geomhash":"ec896409b92879104f5f2a4046b4d897",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857341151
+        }
+    ],
+    "wof:id":857341151,
+    "wof:lastmodified":1464127300,
+    "wof:name":"Thomas J Peck & Sons",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -111.839625,
+    40.381806,
+    -111.839625,
+    40.381806
+],
+  "geometry": {"coordinates":[-111.839625,40.381806],"type":"Point"}
+}

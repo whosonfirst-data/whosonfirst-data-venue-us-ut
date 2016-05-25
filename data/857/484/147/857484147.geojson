@@ -1,0 +1,75 @@
+{
+  "id": 857484147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.957987,40.742175,-111.957987,40.742175",
+    "geom:latitude":40.742175,
+    "geom:longitude":-111.957987,
+    "iso:country":"US",
+    "sg:address":"1115 Pioneer Rd",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 972 5590",
+    "sg:postcode":"84104",
+    "sg:province":"UT",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85814799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01ympM08mmpv9kZemaLqQ9_40.742175_-111.957987@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130448,
+    "wof:geomhash":"ecce6211ffa6037caa65eb3c230c6fa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85814799,
+            "region_id":85688567,
+            "venue_id":857484147
+        }
+    ],
+    "wof:id":857484147,
+    "wof:lastmodified":1464130448,
+    "wof:name":"Blanchard Metals Processing Co",
+    "wof:parent_id":85814799,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.957987,
+    40.742175,
+    -111.957987,
+    40.742175
+],
+  "geometry": {"coordinates":[-111.957987,40.742175],"type":"Point"}
+}

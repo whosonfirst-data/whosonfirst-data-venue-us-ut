@@ -1,0 +1,73 @@
+{
+  "id": 857162901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.859376,40.703868,-111.859376,40.703868",
+    "geom:latitude":40.703868,
+    "geom:longitude":-111.859376,
+    "iso:country":"US",
+    "sg:address":"1180 Brickyard Rd",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 487 2207",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85832079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TPAZkD6kmE19RhcUB6o9g_40.703868_-111.859376@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123421,
+    "wof:geomhash":"b3ee44b5d698a9877ff599246b3e4796",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85832079,
+            "region_id":85688567,
+            "venue_id":857162901
+        }
+    ],
+    "wof:id":857162901,
+    "wof:lastmodified":1464123421,
+    "wof:name":"Office Max",
+    "wof:parent_id":85832079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -111.859376,
+    40.703868,
+    -111.859376,
+    40.703868
+],
+  "geometry": {"coordinates":[-111.859376,40.703868],"type":"Point"}
+}

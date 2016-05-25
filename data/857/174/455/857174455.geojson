@@ -1,0 +1,75 @@
+{
+  "id": 857174455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.892152,40.890494,-111.892152,40.890494",
+    "geom:latitude":40.890494,
+    "geom:longitude":-111.892152,
+    "iso:country":"US",
+    "sg:address":"194 N 500 W",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 294 7204",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727883,
+        102083563,
+        85854881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BsrQh0EU1rMHqs00uNb0o_40.890494_-111.892152@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123683,
+    "wof:geomhash":"e0394f71912b626192802d0a17990679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727883,
+            "neighbourhood_id":85854881,
+            "region_id":85688567,
+            "venue_id":857174455
+        }
+    ],
+    "wof:id":857174455,
+    "wof:lastmodified":1464123683,
+    "wof:name":"Walton's Self Storage",
+    "wof:parent_id":85854881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -111.892152,
+    40.890494,
+    -111.892152,
+    40.890494
+],
+  "geometry": {"coordinates":[-111.892152,40.890494],"type":"Point"}
+}

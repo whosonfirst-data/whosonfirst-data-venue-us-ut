@@ -1,0 +1,76 @@
+{
+  "id": 857492551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.978664,40.623419,-111.978664,40.623419",
+    "geom:latitude":40.623419,
+    "geom:longitude":-111.978664,
+    "iso:country":"US",
+    "sg:address":"7033 Plaza Center Dr",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/160950-carls-jr/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 260 1224",
+    "sg:postcode":"84084",
+    "sg:province":"UT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85831951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1s7mawyMLetIqCdrvhcPVJ_40.623419_-111.978664@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130683,
+    "wof:geomhash":"6780efdaf999a195aeb497a2dfd45d91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85831951,
+            "region_id":85688567,
+            "venue_id":857492551
+        }
+    ],
+    "wof:id":857492551,
+    "wof:lastmodified":1464130683,
+    "wof:name":"Carl's Jr.",
+    "wof:parent_id":85831951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -111.978664,
+    40.623419,
+    -111.978664,
+    40.623419
+],
+  "geometry": {"coordinates":[-111.97866399999999,40.623419],"type":"Point"}
+}

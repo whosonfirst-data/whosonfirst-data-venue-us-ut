@@ -1,0 +1,71 @@
+{
+  "id": 857114569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.913058,41.006143,-111.913058,41.006143",
+    "geom:latitude":41.006143,
+    "geom:longitude":-111.913058,
+    "iso:country":"US",
+    "sg:address":"1564 Pinehurst Ln",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 447 3411",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "reporting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33AvjNIhWMnoiFQc1JrEKJ_41.006143_-111.913058@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122303,
+    "wof:geomhash":"293467f31582e96e2e1255c71d11d29b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857114569
+        }
+    ],
+    "wof:id":857114569,
+    "wof:lastmodified":1464122303,
+    "wof:name":"Wadsworth Inc",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reporting"
+    ]
+},
+  "bbox": [
+    -111.913058,
+    41.006143,
+    -111.913058,
+    41.006143
+],
+  "geometry": {"coordinates":[-111.91305800000001,41.006143],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857150841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.848866,41.759574,-111.848866,41.759574",
+    "geom:latitude":41.759574,
+    "geom:longitude":-111.848866,
+    "iso:country":"US",
+    "sg:address":"1706 N 600 W",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 7660",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70c8ZeouC6Z4Ksho6ycgHN_41.759574_-111.848866@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123165,
+    "wof:geomhash":"e3b9cb7859a9ce4632ec61cb278b7475",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857150841
+        }
+    ],
+    "wof:id":857150841,
+    "wof:lastmodified":1464123165,
+    "wof:name":"Larsen Plumbing & Heating Inc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.848866,
+    41.759574,
+    -111.848866,
+    41.759574
+],
+  "geometry": {"coordinates":[-111.848866,41.759574],"type":"Point"}
+}

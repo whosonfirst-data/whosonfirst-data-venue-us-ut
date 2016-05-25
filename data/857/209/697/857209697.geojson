@@ -1,0 +1,75 @@
+{
+  "id": 857209697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.878201,40.781829,-111.878201,40.781829",
+    "geom:latitude":40.781829,
+    "geom:longitude":-111.878201,
+    "iso:country":"US",
+    "sg:address":"374 11th Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 585 7111",
+    "sg:postcode":"84103",
+    "sg:province":"UT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85840375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EqHpxdxlsNhoydbqtjDpY_40.781829_-111.878201@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124384,
+    "wof:geomhash":"59de32b089a297411e2a08049eccf729",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85840375,
+            "region_id":85688567,
+            "venue_id":857209697
+        }
+    ],
+    "wof:id":857209697,
+    "wof:lastmodified":1464124384,
+    "wof:name":"Daniel Rapp MD",
+    "wof:parent_id":85840375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -111.878201,
+    40.781829,
+    -111.878201,
+    40.781829
+],
+  "geometry": {"coordinates":[-111.878201,40.781829],"type":"Point"}
+}

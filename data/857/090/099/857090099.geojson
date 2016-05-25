@@ -1,0 +1,69 @@
+{
+  "id": 857090099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.04166,41.066082,-112.04166,41.066082",
+    "geom:latitude":41.066082,
+    "geom:longitude":-112.04166,
+    "iso:country":"US",
+    "sg:address":"3250 S 800 W",
+    "sg:city":"Syracuse",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 774 8992",
+    "sg:postcode":"84075",
+    "sg:province":"UT",
+    "sg:tags":[
+        "billing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85868169,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YtSZ8KxkAUXLYtHjA4Brp_41.066082_-112.041660@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121680,
+    "wof:geomhash":"c04a79254924f0237e0c76c5830004b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "neighbourhood_id":85868169,
+            "region_id":85688567,
+            "venue_id":857090099
+        }
+    ],
+    "wof:id":857090099,
+    "wof:lastmodified":1464121680,
+    "wof:name":"Lakeside Billing",
+    "wof:parent_id":85868169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "billing"
+    ]
+},
+  "bbox": [
+    -112.04166,
+    41.066082,
+    -112.04166,
+    41.066082
+],
+  "geometry": {"coordinates":[-112.04165999999999,41.066082],"type":"Point"}
+}

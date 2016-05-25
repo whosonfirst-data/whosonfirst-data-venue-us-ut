@@ -1,0 +1,68 @@
+{
+  "id": 857485515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.901841,40.642847,-111.901841,40.642847",
+    "geom:latitude":40.642847,
+    "geom:longitude":-111.901841,
+    "iso:country":"US",
+    "sg:address":"381 W 5900 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 268 0735",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85829863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nB3jaBlqzotCLR7vgIEiI_40.642847_-111.901841@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130476,
+    "wof:geomhash":"0fc890244f7b1cd7241d726dcc05a6e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85829863,
+            "region_id":85688567,
+            "venue_id":857485515
+        }
+    ],
+    "wof:id":857485515,
+    "wof:lastmodified":1464130476,
+    "wof:name":"Appliance",
+    "wof:parent_id":85829863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.901841,
+    40.642847,
+    -111.901841,
+    40.642847
+],
+  "geometry": {"coordinates":[-111.901841,40.642847],"type":"Point"}
+}

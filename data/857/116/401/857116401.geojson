@@ -1,0 +1,75 @@
+{
+  "id": 857116401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.849191,41.733623,-111.849191,41.733623",
+    "geom:latitude":41.733623,
+    "geom:longitude":-111.849191,
+    "iso:country":"US",
+    "sg:address":"531 W 100 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 7495",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74gX8u7MO9Ri6AV4wadVdK_41.733623_-111.849191@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122358,
+    "wof:geomhash":"ee2a4e6bad758ed16b2de29714bacb7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857116401
+        }
+    ],
+    "wof:id":857116401,
+    "wof:lastmodified":1464122358,
+    "wof:name":"Wilmore Properties LLC",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -111.849191,
+    41.733623,
+    -111.849191,
+    41.733623
+],
+  "geometry": {"coordinates":[-111.849191,41.733623],"type":"Point"}
+}

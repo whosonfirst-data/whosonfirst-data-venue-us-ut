@@ -1,0 +1,71 @@
+{
+  "id": 857197879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.785462,40.358526,-111.785462,40.358526",
+    "geom:latitude":40.358526,
+    "geom:longitude":-111.785462,
+    "iso:country":"US",
+    "sg:address":"915 S 500 E",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 225 7987",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3p2kuwtwogDiLsPpubmTWF_40.358526_-111.785462@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124137,
+    "wof:geomhash":"a7c434631776ed1976301e49f98f74bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857197879
+        }
+    ],
+    "wof:id":857197879,
+    "wof:lastmodified":1464124137,
+    "wof:name":"Investment Lending",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -111.785462,
+    40.358526,
+    -111.785462,
+    40.358526
+],
+  "geometry": {"coordinates":[-111.785462,40.358526],"type":"Point"}
+}

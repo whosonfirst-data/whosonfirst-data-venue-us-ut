@@ -1,0 +1,73 @@
+{
+  "id": 857223285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.837359,41.731487,-111.837359,41.731487",
+    "geom:latitude":41.731487,
+    "geom:longitude":-111.837359,
+    "iso:country":"US",
+    "sg:address":"13 W Center St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 750 6359",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "communication",
+        "radiotelephone"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37uezvpVR9Qks0kjiD6Wo6_41.731487_-111.837359@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124680,
+    "wof:geomhash":"a8b6ac60f3190f2e5419a0c32d5ff963",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857223285
+        }
+    ],
+    "wof:id":857223285,
+    "wof:lastmodified":1464124680,
+    "wof:name":"Stay-N-Touch LLC",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication",
+        "radiotelephone"
+    ]
+},
+  "bbox": [
+    -111.837359,
+    41.731487,
+    -111.837359,
+    41.731487
+],
+  "geometry": {"coordinates":[-111.83735900000001,41.731487],"type":"Point"}
+}

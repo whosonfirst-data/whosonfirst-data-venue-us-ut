@@ -1,0 +1,73 @@
+{
+  "id": 857477991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.654852,40.109282,-111.654852,40.109282",
+    "geom:latitude":40.109282,
+    "geom:longitude":-111.654852,
+    "iso:country":"US",
+    "sg:address":"40 S Main St",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 8674",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "state",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Dfn7QB1Aco0FHckag0wRG_40.109282_-111.654852@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130336,
+    "wof:geomhash":"3e38b13608d0b9abf2075c455fa6e91e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857477991
+        }
+    ],
+    "wof:id":857477991,
+    "wof:lastmodified":1464130336,
+    "wof:name":"Utah County District Court",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "system"
+    ]
+},
+  "bbox": [
+    -111.654852,
+    40.109282,
+    -111.654852,
+    40.109282
+],
+  "geometry": {"coordinates":[-111.65485200000001,40.109282],"type":"Point"}
+}

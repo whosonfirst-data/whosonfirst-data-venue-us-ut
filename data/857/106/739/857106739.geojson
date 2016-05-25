@@ -1,0 +1,73 @@
+{
+  "id": 857106739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.721349,40.049118,-111.721349,40.049118",
+    "geom:latitude":40.049118,
+    "geom:longitude":-111.721349,
+    "iso:country":"US",
+    "sg:address":"412 N 700 E",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 592 3557",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "load",
+        "hot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3m64er9DcgLAtiXuOpu4cC_40.049118_-111.721349@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122064,
+    "wof:geomhash":"18ba92b78f7c57cb73cea825157f878f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857106739
+        }
+    ],
+    "wof:id":857106739,
+    "wof:lastmodified":1464122064,
+    "wof:name":"Lightning Transport",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "load",
+        "hot"
+    ]
+},
+  "bbox": [
+    -111.721349,
+    40.049118,
+    -111.721349,
+    40.049118
+],
+  "geometry": {"coordinates":[-111.721349,40.049118],"type":"Point"}
+}

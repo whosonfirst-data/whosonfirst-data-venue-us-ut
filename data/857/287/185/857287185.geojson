@@ -1,0 +1,69 @@
+{
+  "id": 857287185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.659954,40.307854,-111.659954,40.307854",
+    "geom:latitude":40.307854,
+    "geom:longitude":-111.659954,
+    "iso:country":"US",
+    "sg:address":"5630 Heritage School Dr",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 225 9788",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Q9T8KtCLqEC0SZcFM8WhC_40.307854_-111.659954@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126068,
+    "wof:geomhash":"e9b8f7767460fbf6a313ef02ab6c2961",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857287185
+        }
+    ],
+    "wof:id":857287185,
+    "wof:lastmodified":1464126068,
+    "wof:name":"Betty McElroy MD",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -111.659954,
+    40.307854,
+    -111.659954,
+    40.307854
+],
+  "geometry": {"coordinates":[-111.659954,40.307854],"type":"Point"}
+}

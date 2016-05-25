@@ -1,0 +1,68 @@
+{
+  "id": 857097769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.706276,40.297081,-111.706276,40.297081",
+    "geom:latitude":40.297081,
+    "geom:longitude":-111.706276,
+    "iso:country":"US",
+    "sg:address":"469 W Center St",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 426 8727",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85849197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16up5SUJL6biqxysYiuZff_40.297081_-111.706276@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121852,
+    "wof:geomhash":"1f0ee60877f816d16abe16d060589618",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85849197,
+            "region_id":85688567,
+            "venue_id":857097769
+        }
+    ],
+    "wof:id":857097769,
+    "wof:lastmodified":1464121852,
+    "wof:name":"Terry D Shields",
+    "wof:parent_id":85849197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.706276,
+    40.297081,
+    -111.706276,
+    40.297081
+],
+  "geometry": {"coordinates":[-111.706276,40.297081],"type":"Point"}
+}

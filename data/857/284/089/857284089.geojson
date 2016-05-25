@@ -1,0 +1,69 @@
+{
+  "id": 857284089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.954704,41.131398,-111.954704,41.131398",
+    "geom:latitude":41.131398,
+    "geom:longitude":-111.954704,
+    "iso:country":"US",
+    "sg:address":"7420 S 1025 E",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 476 8902",
+    "sg:postcode":"84405",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85844663,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_556vUfUqUzADFgZxTMi24A_41.131398_-111.954704@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126002,
+    "wof:geomhash":"2c95790e6f00f09916f9dda96bf0d3ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "neighbourhood_id":85844663,
+            "region_id":85688567,
+            "venue_id":857284089
+        }
+    ],
+    "wof:id":857284089,
+    "wof:lastmodified":1464126002,
+    "wof:name":"Lj Auto Repair",
+    "wof:parent_id":85844663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -111.954704,
+    41.131398,
+    -111.954704,
+    41.131398
+],
+  "geometry": {"coordinates":[-111.95470400000001,41.131398],"type":"Point"}
+}

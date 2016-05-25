@@ -1,0 +1,73 @@
+{
+  "id": 857395545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.712153,40.037114,-111.712153,40.037114",
+    "geom:latitude":40.037114,
+    "geom:longitude":-111.712153,
+    "iso:country":"US",
+    "sg:address":"1164 E 470 S",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 9217",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OxOVxIy2350Lqe7bMiU2d_40.037114_-111.712153@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128537,
+    "wof:geomhash":"42d531521feae66928d558d26856a610",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857395545
+        }
+    ],
+    "wof:id":857395545,
+    "wof:lastmodified":1464128537,
+    "wof:name":"Clayteka Electric Inc",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.712153,
+    40.037114,
+    -111.712153,
+    40.037114
+],
+  "geometry": {"coordinates":[-111.712153,40.037114],"type":"Point"}
+}

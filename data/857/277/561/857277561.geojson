@@ -1,0 +1,73 @@
+{
+  "id": 857277561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.929314,40.634557,-111.929314,40.634557",
+    "geom:latitude":40.634557,
+    "geom:longitude":-111.929314,
+    "iso:country":"US",
+    "sg:address":"6268 S 1300 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 261 9852",
+    "sg:postcode":"84123",
+    "sg:province":"UT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85853339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FU1obm56CooAm26nuCjHK_40.634557_-111.929314@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125860,
+    "wof:geomhash":"da56a000a5d297d797ca89b0557b9ca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85853339,
+            "region_id":85688567,
+            "venue_id":857277561
+        }
+    ],
+    "wof:id":857277561,
+    "wof:lastmodified":1464125860,
+    "wof:name":"West Jordan Community Church",
+    "wof:parent_id":85853339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -111.929314,
+    40.634557,
+    -111.929314,
+    40.634557
+],
+  "geometry": {"coordinates":[-111.92931400000001,40.634557],"type":"Point"}
+}

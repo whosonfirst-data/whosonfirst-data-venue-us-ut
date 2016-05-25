@@ -1,0 +1,68 @@
+{
+  "id": 857486823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.703639,40.249771,-111.703639,40.249771",
+    "geom:latitude":40.249771,
+    "geom:longitude":-111.703639,
+    "iso:country":"US",
+    "sg:address":"1138 N Geneva Rd",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 374 0827",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46TJBeZHPHGrqi2YvhAz03_40.249771_-111.703639@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130499,
+    "wof:geomhash":"7d38d305da3c14d9488929d5e445f34d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880087,
+            "region_id":85688567,
+            "venue_id":857486823
+        }
+    ],
+    "wof:id":857486823,
+    "wof:lastmodified":1464130499,
+    "wof:name":"Katydid Farm",
+    "wof:parent_id":85880087,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.703639,
+    40.249771,
+    -111.703639,
+    40.249771
+],
+  "geometry": {"coordinates":[-111.703639,40.249771],"type":"Point"}
+}

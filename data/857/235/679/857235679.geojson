@@ -1,0 +1,71 @@
+{
+  "id": 857235679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.594896,40.137398,-111.594896,40.137398",
+    "geom:latitude":40.137398,
+    "geom:longitude":-111.594896,
+    "iso:country":"US",
+    "sg:address":"1497 W 800 N",
+    "sg:city":"Mapleton",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 491 6661",
+    "sg:postcode":"84664",
+    "sg:province":"UT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gJnah6IDeI05KjmTxGb3t_40.137398_-111.594896@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124916,
+    "wof:geomhash":"dc4535544def9f9ab497b868e0fb92f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857235679
+        }
+    ],
+    "wof:id":857235679,
+    "wof:lastmodified":1464124916,
+    "wof:name":"Lollipops Daycare",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -111.594896,
+    40.137398,
+    -111.594896,
+    40.137398
+],
+  "geometry": {"coordinates":[-111.59489600000001,40.137398],"type":"Point"}
+}

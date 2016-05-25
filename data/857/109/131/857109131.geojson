@@ -1,0 +1,77 @@
+{
+  "id": 857109131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.976794,40.53086,-111.976794,40.53086",
+    "geom:latitude":40.53086,
+    "geom:longitude":-111.976794,
+    "iso:country":"US",
+    "sg:address":"12090 S 3600 W",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 254 4669",
+    "sg:postcode":"84065",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728073,
+        102082877,
+        85845107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DWFTBLP72BxSSCx2LGQde_40.530860_-111.976794@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122121,
+    "wof:geomhash":"406c105fd81f47f688dd94799525d869",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728073,
+            "neighbourhood_id":85845107,
+            "region_id":85688567,
+            "venue_id":857109131
+        }
+    ],
+    "wof:id":857109131,
+    "wof:lastmodified":1464122121,
+    "wof:name":"Schouten Electric Co Inc",
+    "wof:parent_id":85845107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.976794,
+    40.53086,
+    -111.976794,
+    40.53086
+],
+  "geometry": {"coordinates":[-111.976794,40.53086],"type":"Point"}
+}

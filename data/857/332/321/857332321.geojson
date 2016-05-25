@@ -1,0 +1,73 @@
+{
+  "id": 857332321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.653065,40.111741,-111.653065,40.111741",
+    "geom:latitude":40.111741,
+    "geom:longitude":-111.653065,
+    "iso:country":"US",
+    "sg:address":"155 N 100 E",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 423 1545",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1um1SM0Kd4a7DWn8sOzbB7_40.111741_-111.653065@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127106,
+    "wof:geomhash":"d38caee4b38410b32b3b5f9a81c55ee1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857332321
+        }
+    ],
+    "wof:id":857332321,
+    "wof:lastmodified":1464127106,
+    "wof:name":"Stone's Auto Repair",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -111.653065,
+    40.111741,
+    -111.653065,
+    40.111741
+],
+  "geometry": {"coordinates":[-111.653065,40.111741],"type":"Point"}
+}

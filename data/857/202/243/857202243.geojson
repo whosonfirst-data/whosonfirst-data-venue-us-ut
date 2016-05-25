@@ -1,0 +1,74 @@
+{
+  "id": 857202243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.727387,40.297711,-111.727387,40.297711",
+    "geom:latitude":40.297711,
+    "geom:longitude":-111.727387,
+    "iso:country":"US",
+    "sg:address":"126 N 1330 W",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 221 2933",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "yard"
+    ],
+    "sg:website":"www.unitedrentals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727827,
+        102083567,
+        85821287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ya9Tc55nCC2t7pMlbpVWN_40.297711_-111.727387@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124217,
+    "wof:geomhash":"09f7e0337bb80424aab8b37802ebab06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727827,
+            "neighbourhood_id":85821287,
+            "region_id":85688567,
+            "venue_id":857202243
+        }
+    ],
+    "wof:id":857202243,
+    "wof:lastmodified":1464124217,
+    "wof:name":"United Rentals",
+    "wof:parent_id":85821287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard"
+    ]
+},
+  "bbox": [
+    -111.727387,
+    40.297711,
+    -111.727387,
+    40.297711
+],
+  "geometry": {"coordinates":[-111.72738699999999,40.297711],"type":"Point"}
+}

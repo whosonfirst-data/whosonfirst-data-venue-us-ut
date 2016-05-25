@@ -1,0 +1,71 @@
+{
+  "id": 857436329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.91358,41.038155,-111.91358,41.038155",
+    "geom:latitude":41.038155,
+    "geom:longitude":-111.91358,
+    "iso:country":"US",
+    "sg:address":"1147 Homestead Ln",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 444 2833",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "investor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IqYGz8OjVOj1J8APtIuTh_41.038155_-111.913580@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129496,
+    "wof:geomhash":"a5d23d5c251d2b07bb64e9eb6ec19c03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857436329
+        }
+    ],
+    "wof:id":857436329,
+    "wof:lastmodified":1464129496,
+    "wof:name":"Rich Investments",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investor"
+    ]
+},
+  "bbox": [
+    -111.91358,
+    41.038155,
+    -111.91358,
+    41.038155
+],
+  "geometry": {"coordinates":[-111.91358,41.038155],"type":"Point"}
+}

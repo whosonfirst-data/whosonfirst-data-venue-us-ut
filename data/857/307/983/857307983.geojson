@@ -1,0 +1,75 @@
+{
+  "id": 857307983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.961866,40.723997,-111.961866,40.723997",
+    "geom:latitude":40.723997,
+    "geom:longitude":-111.961866,
+    "iso:country":"US",
+    "sg:address":"2801 W 2200 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 887 7212",
+    "sg:postcode":"84119",
+    "sg:province":"UT",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85844521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qQjkYvHzlQlEwCXGEhdWY_40.723997_-111.961866@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126577,
+    "wof:geomhash":"d71e7ed71e6f45e5c7db7b177f0ae85e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85844521,
+            "region_id":85688567,
+            "venue_id":857307983
+        }
+    ],
+    "wof:id":857307983,
+    "wof:lastmodified":1464126577,
+    "wof:name":"Watkins Motor Lines Inc",
+    "wof:parent_id":85844521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -111.961866,
+    40.723997,
+    -111.961866,
+    40.723997
+],
+  "geometry": {"coordinates":[-111.961866,40.723997],"type":"Point"}
+}

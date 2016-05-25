@@ -1,0 +1,75 @@
+{
+  "id": 857382711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.654706,40.11106,-111.654706,40.11106",
+    "geom:latitude":40.11106,
+    "geom:longitude":-111.654706,
+    "iso:country":"US",
+    "sg:address":"10 N Main St",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 3063",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ggnoeyhoJZehQLA2qLWgd_40.111060_-111.654706@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128201,
+    "wof:geomhash":"d07a2682d7e496f5fd4e937a9e8443b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857382711
+        }
+    ],
+    "wof:id":857382711,
+    "wof:lastmodified":1464128201,
+    "wof:name":"Kens Auto Body",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "used"
+    ]
+},
+  "bbox": [
+    -111.654706,
+    40.11106,
+    -111.654706,
+    40.11106
+],
+  "geometry": {"coordinates":[-111.654706,40.11106],"type":"Point"}
+}

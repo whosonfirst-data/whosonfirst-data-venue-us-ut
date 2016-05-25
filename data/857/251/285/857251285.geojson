@@ -1,0 +1,73 @@
+{
+  "id": 857251285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.894265,40.996365,-111.894265,40.996365",
+    "geom:latitude":40.996365,
+    "geom:longitude":-111.894265,
+    "iso:country":"US",
+    "sg:address":"900 Compton Rd",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 1906",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mormon",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LkQ5qf7vrjUu42nMZ1PUU_40.996365_-111.894265@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125277,
+    "wof:geomhash":"27c031624a2b9d9288025694f14eb82a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857251285
+        }
+    ],
+    "wof:id":857251285,
+    "wof:lastmodified":1464125277,
+    "wof:name":"Farmington Sixth Ward",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mormon",
+        "church"
+    ]
+},
+  "bbox": [
+    -111.894265,
+    40.996365,
+    -111.894265,
+    40.996365
+],
+  "geometry": {"coordinates":[-111.894265,40.996365],"type":"Point"}
+}

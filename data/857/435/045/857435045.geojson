@@ -1,0 +1,75 @@
+{
+  "id": 857435045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.924216,40.561606,-111.924216,40.561606",
+    "geom:latitude":40.561606,
+    "geom:longitude":-111.924216,
+    "iso:country":"US",
+    "sg:address":"1168 S Jordan Pkwy",
+    "sg:city":"South Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 254 8203",
+    "sg:postcode":"84095",
+    "sg:province":"UT",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728055,
+        102082877,
+        85810561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41scG0YVMHxBMEB7Wliqgj_40.561606_-111.924216@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129468,
+    "wof:geomhash":"f4d1c760e67d70488f9de7059e54def9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728055,
+            "neighbourhood_id":85810561,
+            "region_id":85688567,
+            "venue_id":857435045
+        }
+    ],
+    "wof:id":857435045,
+    "wof:lastmodified":1464129468,
+    "wof:name":"Classy Combinations Dance",
+    "wof:parent_id":85810561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -111.924216,
+    40.561606,
+    -111.924216,
+    40.561606
+],
+  "geometry": {"coordinates":[-111.924216,40.561606],"type":"Point"}
+}

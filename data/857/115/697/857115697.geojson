@@ -1,0 +1,75 @@
+{
+  "id": 857115697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.911186,40.529533,-111.911186,40.529533",
+    "geom:latitude":40.529533,
+    "geom:longitude":-111.911186,
+    "iso:country":"US",
+    "sg:address":"12141 Gracie View Pl",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 572 2466",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727849,
+        102082877,
+        85823005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UlELjXqrECvvvrHG2hjFg_40.529533_-111.911186@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122331,
+    "wof:geomhash":"12d0f21d11621a9a02fc20159c1a6f8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85823005,
+            "region_id":85688567,
+            "venue_id":857115697
+        }
+    ],
+    "wof:id":857115697,
+    "wof:lastmodified":1464122331,
+    "wof:name":"Sharp Excavating",
+    "wof:parent_id":85823005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.911186,
+    40.529533,
+    -111.911186,
+    40.529533
+],
+  "geometry": {"coordinates":[-111.911186,40.529533],"type":"Point"}
+}

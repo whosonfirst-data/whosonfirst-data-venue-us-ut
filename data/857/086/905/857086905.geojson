@@ -1,0 +1,74 @@
+{
+  "id": 857086905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834827,41.733943,-111.834827,41.733943",
+    "geom:latitude":41.733943,
+    "geom:longitude":-111.834827,
+    "iso:country":"US",
+    "sg:address":"112 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 0582",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "company",
+        "title"
+    ],
+    "sg:website":"www.landtitleco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wZmcPqtM2YUFGG9Q4aPH7_41.733943_-111.834827@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121579,
+    "wof:geomhash":"c4494a8c02eca238a634d32f56c8a258",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857086905
+        }
+    ],
+    "wof:id":857086905,
+    "wof:lastmodified":1464121579,
+    "wof:name":"Hickman Land Title Co",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "title"
+    ]
+},
+  "bbox": [
+    -111.834827,
+    41.733943,
+    -111.834827,
+    41.733943
+],
+  "geometry": {"coordinates":[-111.834827,41.733943],"type":"Point"}
+}

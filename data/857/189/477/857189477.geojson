@@ -1,0 +1,71 @@
+{
+  "id": 857189477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.840716,40.400995,-111.840716,40.400995",
+    "geom:latitude":40.400995,
+    "geom:longitude":-111.840716,
+    "iso:country":"US",
+    "sg:address":"1048 Hidden Cove Ln",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 766 5702",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "product",
+        "asphalt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Jfuq0oDpNJIA0vdYRJDIh_40.400995_-111.840716@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123981,
+    "wof:geomhash":"dd7197a3e3777e909d291bc919108dc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857189477
+        }
+    ],
+    "wof:id":857189477,
+    "wof:lastmodified":1464123981,
+    "wof:name":"Great Basin Asphalt Products",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "asphalt"
+    ]
+},
+  "bbox": [
+    -111.840716,
+    40.400995,
+    -111.840716,
+    40.400995
+],
+  "geometry": {"coordinates":[-111.840716,40.400995],"type":"Point"}
+}

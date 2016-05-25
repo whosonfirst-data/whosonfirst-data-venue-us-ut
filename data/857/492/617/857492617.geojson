@@ -1,0 +1,78 @@
+{
+  "id": 857492617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.938133,40.589156,-111.938133,40.589156",
+    "geom:latitude":40.589156,
+    "geom:longitude":-111.938133,
+    "iso:country":"US",
+    "sg:address":"8935 Redwood Rd",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/192328-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 565 0888",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85832913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cMvLYPeYFkPuHi0AYXxeu_40.589156_-111.938133@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130685,
+    "wof:geomhash":"7a9f1cd665b6c9f2a6a901fd3558454b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85832913,
+            "region_id":85688567,
+            "venue_id":857492617
+        }
+    ],
+    "wof:id":857492617,
+    "wof:lastmodified":1464130685,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85832913,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -111.938133,
+    40.589156,
+    -111.938133,
+    40.589156
+],
+  "geometry": {"coordinates":[-111.93813299999999,40.589156],"type":"Point"}
+}

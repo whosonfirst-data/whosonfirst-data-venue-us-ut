@@ -1,0 +1,73 @@
+{
+  "id": 857082683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.632479,40.25927,-111.632479,40.25927",
+    "geom:latitude":40.25927,
+    "geom:longitude":-111.632479,
+    "iso:country":"US",
+    "sg:address":"2002 N 1450 E",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 375 2002",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "development"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PLM0ceqIAM4NQ4RyrY1EV_40.259270_-111.632479@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121477,
+    "wof:geomhash":"be6de3ffa796228b9a2c93f293a80d71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880095,
+            "region_id":85688567,
+            "venue_id":857082683
+        }
+    ],
+    "wof:id":857082683,
+    "wof:lastmodified":1464121477,
+    "wof:name":"Cedar Hills Development Corp",
+    "wof:parent_id":85880095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development"
+    ]
+},
+  "bbox": [
+    -111.632479,
+    40.25927,
+    -111.632479,
+    40.25927
+],
+  "geometry": {"coordinates":[-111.632479,40.25927],"type":"Point"}
+}

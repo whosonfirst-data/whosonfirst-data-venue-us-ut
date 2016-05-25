@@ -1,0 +1,73 @@
+{
+  "id": 857439525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.972752,40.613769,-111.972752,40.613769",
+    "geom:latitude":40.613769,
+    "geom:longitude":-111.972752,
+    "iso:country":"US",
+    "sg:address":"7572 S 3430 W",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 280 1778",
+    "sg:postcode":"84084",
+    "sg:province":"UT",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85843301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pFy1xbiEyS4zUREPAwydq_40.613769_-111.972752@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129562,
+    "wof:geomhash":"eda043ee2b03357952bf58cb9fcc3a59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85843301,
+            "region_id":85688567,
+            "venue_id":857439525
+        }
+    ],
+    "wof:id":857439525,
+    "wof:lastmodified":1464129562,
+    "wof:name":"King Pro Janitor",
+    "wof:parent_id":85843301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -111.972752,
+    40.613769,
+    -111.972752,
+    40.613769
+],
+  "geometry": {"coordinates":[-111.972752,40.613769],"type":"Point"}
+}

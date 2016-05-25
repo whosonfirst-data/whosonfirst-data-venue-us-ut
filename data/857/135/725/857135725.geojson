@@ -1,0 +1,71 @@
+{
+  "id": 857135725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.812047,41.725553,-111.812047,41.725553",
+    "geom:latitude":41.725553,
+    "geom:longitude":-111.812047,
+    "iso:country":"US",
+    "sg:address":"924 River Heights Blvd",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 8848",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "investor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oBnegJVeBuXASu0N1gDcG_41.725553_-111.812047@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122798,
+    "wof:geomhash":"1cbd776fab36e5067d708ede0394e0a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857135725
+        }
+    ],
+    "wof:id":857135725,
+    "wof:lastmodified":1464122798,
+    "wof:name":"Crockett Investment Co LLC",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investor"
+    ]
+},
+  "bbox": [
+    -111.812047,
+    41.725553,
+    -111.812047,
+    41.725553
+],
+  "geometry": {"coordinates":[-111.81204700000001,41.725553],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857342779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.653987,40.113806,-111.653987,40.113806",
+    "geom:latitude":40.113806,
+    "geom:longitude":-111.653987,
+    "iso:country":"US",
+    "sg:address":"57 E 300 N",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 8352",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "chambers",
+        "commerce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fxGQaQIWpYKZdDwj2H1a3_40.113806_-111.653987@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127330,
+    "wof:geomhash":"f0a0d8dbf7de3414d933e4085cae3afb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857342779
+        }
+    ],
+    "wof:id":857342779,
+    "wof:lastmodified":1464127330,
+    "wof:name":"Spanish Fork-Salem Chmbr-Comm",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chambers",
+        "commerce"
+    ]
+},
+  "bbox": [
+    -111.653987,
+    40.113806,
+    -111.653987,
+    40.113806
+],
+  "geometry": {"coordinates":[-111.653987,40.113806],"type":"Point"}
+}

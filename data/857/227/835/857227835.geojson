@@ -1,0 +1,75 @@
+{
+  "id": 857227835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.959602,40.587678,-111.959602,40.587678",
+    "geom:latitude":40.587678,
+    "geom:longitude":-111.959602,
+    "iso:country":"US",
+    "sg:address":"2785 W 9000 S",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 253 3265",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85854601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RTxnUab026RkPISRcPxCQ_40.587678_-111.959602@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124768,
+    "wof:geomhash":"65ff0bd42389508ebd3ca40ca9afa9e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85854601,
+            "region_id":85688567,
+            "venue_id":857227835
+        }
+    ],
+    "wof:id":857227835,
+    "wof:lastmodified":1464124768,
+    "wof:name":"Conelco Conrad Electric Co",
+    "wof:parent_id":85854601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.959602,
+    40.587678,
+    -111.959602,
+    40.587678
+],
+  "geometry": {"coordinates":[-111.959602,40.587678],"type":"Point"}
+}

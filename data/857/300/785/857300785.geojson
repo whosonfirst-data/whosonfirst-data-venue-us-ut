@@ -1,0 +1,73 @@
+{
+  "id": 857300785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.826182,40.699767,-111.826182,40.699767",
+    "geom:latitude":40.699767,
+    "geom:longitude":-111.826182,
+    "iso:country":"US",
+    "sg:address":"2272 E 3300 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 484 0355",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85859423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Zw5vWSxD1ARn6t9Ln1bmr_40.699767_-111.826182@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126429,
+    "wof:geomhash":"f27e5fad2cd6bccb8dc7e606ad590a97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85859423,
+            "region_id":85688567,
+            "venue_id":857300785
+        }
+    ],
+    "wof:id":857300785,
+    "wof:lastmodified":1464126429,
+    "wof:name":"Tami Nails",
+    "wof:parent_id":85859423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -111.826182,
+    40.699767,
+    -111.826182,
+    40.699767
+],
+  "geometry": {"coordinates":[-111.826182,40.699767],"type":"Point"}
+}

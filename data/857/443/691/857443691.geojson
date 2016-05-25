@@ -1,0 +1,73 @@
+{
+  "id": 857443691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.010705,37.175166,-113.010705,37.175166",
+    "geom:latitude":37.175166,
+    "geom:longitude":-113.010705,
+    "iso:country":"US",
+    "sg:address":"1416 Zion Park Blvd",
+    "sg:city":"Springdale",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 772 3436",
+    "sg:postcode":"84767",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop",
+        "rock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727619,
+        102082879,
+        85822405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iLh7NSaIXVJQv4dCzK51d_37.175166_-113.010705@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129634,
+    "wof:geomhash":"37dd72691031b1bc908baf4a6db0a304",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727619,
+            "neighbourhood_id":85822405,
+            "region_id":85688567,
+            "venue_id":857443691
+        }
+    ],
+    "wof:id":857443691,
+    "wof:lastmodified":1464129634,
+    "wof:name":"Zion Rock & Gem",
+    "wof:parent_id":85822405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "rock"
+    ]
+},
+  "bbox": [
+    -113.010705,
+    37.175166,
+    -113.010705,
+    37.175166
+],
+  "geometry": {"coordinates":[-113.010705,37.175166],"type":"Point"}
+}

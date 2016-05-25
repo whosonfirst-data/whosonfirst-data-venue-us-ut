@@ -1,0 +1,75 @@
+{
+  "id": 857095861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.305505,37.159281,-113.305505,37.159281",
+    "geom:latitude":37.159281,
+    "geom:longitude":-113.305505,
+    "iso:country":"US",
+    "sg:address":"1096 S 920 W",
+    "sg:city":"Hurricane",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 635 4591",
+    "sg:postcode":"84737",
+    "sg:province":"UT",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727631,
+        102082879,
+        85824093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7m4MVU2uvhU9CUNr2DZPaf_37.159281_-113.305505@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121809,
+    "wof:geomhash":"eadedbee1825ba4b31aadffff0df51f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727631,
+            "neighbourhood_id":85824093,
+            "region_id":85688567,
+            "venue_id":857095861
+        }
+    ],
+    "wof:id":857095861,
+    "wof:lastmodified":1464121809,
+    "wof:name":"Silver State Dental Lab Inc",
+    "wof:parent_id":85824093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -113.305505,
+    37.159281,
+    -113.305505,
+    37.159281
+],
+  "geometry": {"coordinates":[-113.305505,37.159281],"type":"Point"}
+}

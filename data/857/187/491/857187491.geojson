@@ -1,0 +1,73 @@
+{
+  "id": 857187491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.965611,41.059258,-111.965611,41.059258",
+    "geom:latitude":41.059258,
+    "geom:longitude":-111.965611,
+    "iso:country":"US",
+    "sg:address":"12 S Main St",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 547 0888",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "book"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Eyfn5Z2DU0KGeLaK5QksP_41.059258_-111.965611@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123942,
+    "wof:geomhash":"509f22958ffb9c7498349ef28b36b978",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857187491
+        }
+    ],
+    "wof:id":857187491,
+    "wof:lastmodified":1464123942,
+    "wof:name":"Gibbs Smith Textbooks",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "book"
+    ]
+},
+  "bbox": [
+    -111.965611,
+    41.059258,
+    -111.965611,
+    41.059258
+],
+  "geometry": {"coordinates":[-111.965611,41.059258],"type":"Point"}
+}

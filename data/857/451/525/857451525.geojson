@@ -1,0 +1,68 @@
+{
+  "id": 857451525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.603267,40.164957,-111.603267,40.164957",
+    "geom:latitude":40.164957,
+    "geom:longitude":-111.603267,
+    "iso:country":"US",
+    "sg:address":"105 S 400 E",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 489 2840",
+    "sg:postcode":"84663",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727829,
+        102083567,
+        85880117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LqIRagpuZCPjY2vYk9cPQ_40.164957_-111.603267@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129792,
+    "wof:geomhash":"9bc3a37ad9e7ff0f595af7d63bbe3578",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727829,
+            "neighbourhood_id":85880117,
+            "region_id":85688567,
+            "venue_id":857451525
+        }
+    ],
+    "wof:id":857451525,
+    "wof:lastmodified":1464129792,
+    "wof:name":"Grant Elementary School",
+    "wof:parent_id":85880117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.603267,
+    40.164957,
+    -111.603267,
+    40.164957
+],
+  "geometry": {"coordinates":[-111.603267,40.164957],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857452715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.010716,37.175152,-113.010716,37.175152",
+    "geom:latitude":37.175152,
+    "geom:longitude":-113.010716,
+    "iso:country":"US",
+    "sg:address":"1458 Zion Park Blvd",
+    "sg:city":"Springdale",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 772 0575",
+    "sg:postcode":"84767",
+    "sg:province":"UT",
+    "sg:tags":[
+        "tours",
+        "promoter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727619,
+        102082879,
+        85822405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14VtWP3vXQD0E54zJjDWzE_37.175152_-113.010716@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129811,
+    "wof:geomhash":"26fe437fd5fcdab454c8dffe5fc3e1f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727619,
+            "neighbourhood_id":85822405,
+            "region_id":85688567,
+            "venue_id":857452715
+        }
+    ],
+    "wof:id":857452715,
+    "wof:lastmodified":1464129811,
+    "wof:name":"Springdale Cycle Tours",
+    "wof:parent_id":85822405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tours",
+        "promoter"
+    ]
+},
+  "bbox": [
+    -113.010716,
+    37.175152,
+    -113.010716,
+    37.175152
+],
+  "geometry": {"coordinates":[-113.010716,37.175152],"type":"Point"}
+}

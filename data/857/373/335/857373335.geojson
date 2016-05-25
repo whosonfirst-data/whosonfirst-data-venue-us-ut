@@ -1,0 +1,74 @@
+{
+  "id": 857373335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.025636,41.216272,-112.025636,41.216272",
+    "geom:latitude":41.216272,
+    "geom:longitude":-112.025636,
+    "iso:country":"US",
+    "sg:address":"2706 S 1900 W",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 392 8222",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "drinking"
+    ],
+    "sg:website":"www.toolbox.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85818351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DNGKKgZx5n9A7KR456NfP_41.216272_-112.025636@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127977,
+    "wof:geomhash":"dd52c189964617db0c6cf0998efa8d87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85818351,
+            "region_id":85688567,
+            "venue_id":857373335
+        }
+    ],
+    "wof:id":857373335,
+    "wof:lastmodified":1464127977,
+    "wof:name":"Tool Box",
+    "wof:parent_id":85818351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -112.025636,
+    41.216272,
+    -112.025636,
+    41.216272
+],
+  "geometry": {"coordinates":[-112.02563600000001,41.216272],"type":"Point"}
+}

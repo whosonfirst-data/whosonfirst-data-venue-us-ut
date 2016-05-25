@@ -1,0 +1,68 @@
+{
+  "id": 857080295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.990332,40.652856,-111.990332,40.652856",
+    "geom:latitude":40.652856,
+    "geom:longitude":-111.990332,
+    "iso:country":"US",
+    "sg:address":"4188 W 5415 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 969 1986",
+    "sg:postcode":"84118",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728253,
+        102082877,
+        85805333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3850H9FtVaNwk5lVRJbzYl_40.652856_-111.990332@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121411,
+    "wof:geomhash":"2c8084a647faf7c05421ebd6526b90aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728253,
+            "neighbourhood_id":85805333,
+            "region_id":85688567,
+            "venue_id":857080295
+        }
+    ],
+    "wof:id":857080295,
+    "wof:lastmodified":1464121411,
+    "wof:name":"Apothecary West United Drug",
+    "wof:parent_id":85805333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.990332,
+    40.652856,
+    -111.990332,
+    40.652856
+],
+  "geometry": {"coordinates":[-111.990332,40.652856],"type":"Point"}
+}

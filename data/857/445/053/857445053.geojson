@@ -1,0 +1,73 @@
+{
+  "id": 857445053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.031562,40.62548,-112.031562,40.62548",
+    "geom:latitude":40.62548,
+    "geom:longitude":-112.031562,
+    "iso:country":"US",
+    "sg:address":"5930 Jackling Way",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 969 8772",
+    "sg:postcode":"84084",
+    "sg:province":"UT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728061,
+        102082877,
+        85854369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LqNW12nxmxFcPYj8Hs6LZ_40.625480_-112.031562@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129660,
+    "wof:geomhash":"b112290680f6d6a147b7ac45dd9b9415",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85854369,
+            "region_id":85688567,
+            "venue_id":857445053
+        }
+    ],
+    "wof:id":857445053,
+    "wof:lastmodified":1464129660,
+    "wof:name":"Mountain Valley Home Med Equip",
+    "wof:parent_id":85854369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -112.031562,
+    40.62548,
+    -112.031562,
+    40.62548
+],
+  "geometry": {"coordinates":[-112.03156199999999,40.62548],"type":"Point"}
+}

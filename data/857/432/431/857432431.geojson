@@ -1,0 +1,73 @@
+{
+  "id": 857432431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.810935,40.696228,-111.810935,40.696228",
+    "geom:latitude":40.696228,
+    "geom:longitude":-111.810935,
+    "iso:country":"US",
+    "sg:address":"3464 S Sorensen Way",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 484 5012",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "photographic",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728257,
+        102082877,
+        85854869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UrLnxTDsJTFdBH7secCcf_40.696228_-111.810935@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129410,
+    "wof:geomhash":"34abef1b051a64ae7d3b93abe1dbb490",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85854869,
+            "region_id":85688567,
+            "venue_id":857432431
+        }
+    ],
+    "wof:id":857432431,
+    "wof:lastmodified":1464129410,
+    "wof:name":"Cojak Systems",
+    "wof:parent_id":85854869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographic",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.810935,
+    40.696228,
+    -111.810935,
+    40.696228
+],
+  "geometry": {"coordinates":[-111.810935,40.696228],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857080509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.657582,40.093311,-111.657582,40.093311",
+    "geom:latitude":40.093311,
+    "geom:longitude":-111.657582,
+    "iso:country":"US",
+    "sg:address":"1350 Calpac Ave",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 0181",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "sg:website":"www.viewpointmfg.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PGVz6cmPdLFOOaRwpA5NP_40.093311_-111.657582@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121415,
+    "wof:geomhash":"4a6f7869d7d7a6b3bf7278a36594c7ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857080509
+        }
+    ],
+    "wof:id":857080509,
+    "wof:lastmodified":1464121415,
+    "wof:name":"Viewpoint Manufacturing",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.657582,
+    40.093311,
+    -111.657582,
+    40.093311
+],
+  "geometry": {"coordinates":[-111.657582,40.093311],"type":"Point"}
+}

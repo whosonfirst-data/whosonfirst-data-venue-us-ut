@@ -1,0 +1,73 @@
+{
+  "id": 857213193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.92436,40.561494,-111.92436,40.561494",
+    "geom:latitude":40.561494,
+    "geom:longitude":-111.92436,
+    "iso:country":"US",
+    "sg:address":"1173 S Jordan Pkwy",
+    "sg:city":"South Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 254 2193",
+    "sg:postcode":"84095",
+    "sg:province":"UT",
+    "sg:tags":[
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728055,
+        102082877,
+        85810561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26UE8vW0l0R1XYvOVew3sB_40.561494_-111.924360@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124467,
+    "wof:geomhash":"35435c338e3d4e90078f00fce90ce102",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728055,
+            "neighbourhood_id":85810561,
+            "region_id":85688567,
+            "venue_id":857213193
+        }
+    ],
+    "wof:id":857213193,
+    "wof:lastmodified":1464124467,
+    "wof:name":"Beacon Industries",
+    "wof:parent_id":85810561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -111.92436,
+    40.561494,
+    -111.92436,
+    40.561494
+],
+  "geometry": {"coordinates":[-111.92435999999999,40.561494],"type":"Point"}
+}

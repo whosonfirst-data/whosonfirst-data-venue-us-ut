@@ -1,0 +1,71 @@
+{
+  "id": 857262439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.7958,40.377166,-111.7958,40.377166",
+    "geom:latitude":40.377166,
+    "geom:longitude":-111.7958,
+    "iso:country":"US",
+    "sg:address":"76 N 100 E",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 3313",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "photo",
+        "finishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bl4yYyWEeCftWQlWwRZE4_40.377166_-111.795800@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125543,
+    "wof:geomhash":"ec37607ba9edc973d4ec9c726a079f23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857262439
+        }
+    ],
+    "wof:id":857262439,
+    "wof:lastmodified":1464125543,
+    "wof:name":"Allen's Camera & Sound",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo",
+        "finishing"
+    ]
+},
+  "bbox": [
+    -111.7958,
+    40.377166,
+    -111.7958,
+    40.377166
+],
+  "geometry": {"coordinates":[-111.7958,40.377166],"type":"Point"}
+}

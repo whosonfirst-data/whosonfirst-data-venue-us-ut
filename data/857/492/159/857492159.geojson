@@ -1,0 +1,76 @@
+{
+  "id": 857492159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.699713,40.273471,-111.699713,40.273471",
+    "geom:latitude":40.273471,
+    "geom:longitude":-111.699713,
+    "iso:country":"US",
+    "sg:address":"225 W University Pkwy",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/provo-orem/100300-golden-corral/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 225 6299",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dXULfuOfISlNIkWJ22Qg3_40.273471_-111.699713@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130667,
+    "wof:geomhash":"35047b0f35b8e55196fef23901b4c8a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880087,
+            "region_id":85688567,
+            "venue_id":857492159
+        }
+    ],
+    "wof:id":857492159,
+    "wof:lastmodified":1464130667,
+    "wof:name":"Golden Corral",
+    "wof:parent_id":85880087,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -111.699713,
+    40.273471,
+    -111.699713,
+    40.273471
+],
+  "geometry": {"coordinates":[-111.699713,40.273471],"type":"Point"}
+}

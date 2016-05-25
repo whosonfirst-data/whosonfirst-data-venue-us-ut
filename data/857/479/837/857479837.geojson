@@ -1,0 +1,73 @@
+{
+  "id": 857479837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.808636,41.765817,-111.808636,41.765817",
+    "geom:latitude":41.765817,
+    "geom:longitude":-111.808636,
+    "iso:country":"US",
+    "sg:address":"1925 N 1000 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 6497",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "development",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uVbLxsHWEPRfOrOlAfPp4_41.765817_-111.808636@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130367,
+    "wof:geomhash":"2459a5eb307ff188bbb29d4d09315128",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857479837
+        }
+    ],
+    "wof:id":857479837,
+    "wof:lastmodified":1464130367,
+    "wof:name":"Applied Random Logic LLC",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "software"
+    ]
+},
+  "bbox": [
+    -111.808636,
+    41.765817,
+    -111.808636,
+    41.765817
+],
+  "geometry": {"coordinates":[-111.80863600000001,41.765817],"type":"Point"}
+}

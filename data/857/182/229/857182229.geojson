@@ -1,0 +1,73 @@
+{
+  "id": 857182229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.881692,40.689456,-111.881692,40.689456",
+    "geom:latitude":40.689456,
+    "geom:longitude":-111.881692,
+    "iso:country":"US",
+    "sg:address":"320 E Fenton Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 231 3158",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "hauling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85855091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iBT3aM4dGNJiOgLWu5E5v_40.689456_-111.881692@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123840,
+    "wof:geomhash":"f30dd4cc2ca73f8ec9160ab26f7bbbd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85855091,
+            "region_id":85688567,
+            "venue_id":857182229
+        }
+    ],
+    "wof:id":857182229,
+    "wof:lastmodified":1464123840,
+    "wof:name":"Exit 16 Trucking Inc",
+    "wof:parent_id":85855091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling"
+    ]
+},
+  "bbox": [
+    -111.881692,
+    40.689456,
+    -111.881692,
+    40.689456
+],
+  "geometry": {"coordinates":[-111.881692,40.689456],"type":"Point"}
+}

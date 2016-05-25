@@ -1,0 +1,80 @@
+{
+  "id": 857370365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834696,41.738084,-111.834696,41.738084",
+    "geom:latitude":41.738084,
+    "geom:longitude":-111.834696,
+    "iso:country":"US",
+    "sg:address":"350 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 8735",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "cellular",
+        "telephone",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vqGOV3b6vN8TIR4Fchw6O_41.738084_-111.834696@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127914,
+    "wof:geomhash":"5a9e6ed33dcc3ca5d427349a8c094e31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857370365
+        }
+    ],
+    "wof:id":857370365,
+    "wof:lastmodified":1464127914,
+    "wof:name":"Alert Wireless",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cellular",
+        "telephone",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -111.834696,
+    41.738084,
+    -111.834696,
+    41.738084
+],
+  "geometry": {"coordinates":[-111.83469599999999,41.738084],"type":"Point"}
+}

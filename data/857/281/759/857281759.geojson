@@ -1,0 +1,77 @@
+{
+  "id": 857281759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.970473,40.693488,-111.970473,40.693488",
+    "geom:latitude":40.693488,
+    "geom:longitude":-111.970473,
+    "iso:country":"US",
+    "sg:address":"3640 S 3325 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 969 8513",
+    "sg:postcode":"84119",
+    "sg:province":"UT",
+    "sg:tags":[
+        "photo",
+        "commercial",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85818107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7baAqx9wdFfbccnyGvxXbO_40.693488_-111.970473@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125958,
+    "wof:geomhash":"076ba7ad34427e90e9ff02c3729c7ed5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85818107,
+            "region_id":85688567,
+            "venue_id":857281759
+        }
+    ],
+    "wof:id":857281759,
+    "wof:lastmodified":1464125958,
+    "wof:name":"Photo America Inc",
+    "wof:parent_id":85818107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo",
+        "commercial",
+        "design"
+    ]
+},
+  "bbox": [
+    -111.970473,
+    40.693488,
+    -111.970473,
+    40.693488
+],
+  "geometry": {"coordinates":[-111.970473,40.693488],"type":"Point"}
+}

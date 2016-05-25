@@ -1,0 +1,73 @@
+{
+  "id": 857429149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.962344,40.599019,-111.962344,40.599019",
+    "geom:latitude":40.599019,
+    "geom:longitude":-111.962344,
+    "iso:country":"US",
+    "sg:address":"2943 W 8380 S",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 562 3247",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85854601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Z38tLJgdCUeiBswSCYXCj_40.599019_-111.962344@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129321,
+    "wof:geomhash":"aed00d4c82a53e363374b03317eecf7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85854601,
+            "region_id":85688567,
+            "venue_id":857429149
+        }
+    ],
+    "wof:id":857429149,
+    "wof:lastmodified":1464129321,
+    "wof:name":"Kim Salon",
+    "wof:parent_id":85854601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.962344,
+    40.599019,
+    -111.962344,
+    40.599019
+],
+  "geometry": {"coordinates":[-111.962344,40.599019],"type":"Point"}
+}

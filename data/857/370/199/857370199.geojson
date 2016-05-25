@@ -1,0 +1,71 @@
+{
+  "id": 857370199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.724468,40.034978,-111.724468,40.034978",
+    "geom:latitude":40.034978,
+    "geom:longitude":-111.724468,
+    "iso:country":"US",
+    "sg:address":"563 E 600 S",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 0611",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "livestock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5moy2qaXfDB2aES3biO1U1_40.034978_-111.724468@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127909,
+    "wof:geomhash":"6ce3194565341cbe86578434f1d8dcc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857370199
+        }
+    ],
+    "wof:id":857370199,
+    "wof:lastmodified":1464127909,
+    "wof:name":"J P Cattle Co",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "livestock"
+    ]
+},
+  "bbox": [
+    -111.724468,
+    40.034978,
+    -111.724468,
+    40.034978
+],
+  "geometry": {"coordinates":[-111.724468,40.034978],"type":"Point"}
+}

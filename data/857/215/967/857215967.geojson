@@ -1,0 +1,77 @@
+{
+  "id": 857215967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.667505,40.2406,-111.667505,40.2406",
+    "geom:latitude":40.2406,
+    "geom:longitude":-111.667505,
+    "iso:country":"US",
+    "sg:address":"585 N 500 W",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 375 0983",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "medical",
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wR3ooLsdkhNF09eWFIdmw_40.240600_-111.667505@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124532,
+    "wof:geomhash":"84c98c0ee5ab0ed6910201dbb156e73b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880121,
+            "region_id":85688567,
+            "venue_id":857215967
+        }
+    ],
+    "wof:id":857215967,
+    "wof:lastmodified":1464124532,
+    "wof:name":"HealthSouth",
+    "wof:parent_id":85880121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -111.667505,
+    40.2406,
+    -111.667505,
+    40.2406
+],
+  "geometry": {"coordinates":[-111.66750500000001,40.2406],"type":"Point"}
+}

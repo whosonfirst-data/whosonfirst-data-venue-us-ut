@@ -1,0 +1,71 @@
+{
+  "id": 857110285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.893548,41.001166,-111.893548,41.001166",
+    "geom:latitude":41.001166,
+    "geom:longitude":-111.893548,
+    "iso:country":"US",
+    "sg:address":"1116 Alice Ln",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 7097",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ig3zZJuCBoqliOEmXU5F4_41.001166_-111.893548@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122177,
+    "wof:geomhash":"ca5f923b02089ebc3387356e9c6ed964",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857110285
+        }
+    ],
+    "wof:id":857110285,
+    "wof:lastmodified":1464122177,
+    "wof:name":"Water System Design",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -111.893548,
+    41.001166,
+    -111.893548,
+    41.001166
+],
+  "geometry": {"coordinates":[-111.893548,41.001166],"type":"Point"}
+}

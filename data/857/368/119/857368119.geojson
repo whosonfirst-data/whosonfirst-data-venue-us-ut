@@ -1,0 +1,68 @@
+{
+  "id": 857368119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.910191,40.616096,-111.910191,40.616096",
+    "geom:latitude":40.616096,
+    "geom:longitude":-111.910191,
+    "iso:country":"US",
+    "sg:address":"7427 Main St",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 566 6181",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728051,
+        102082877,
+        85810115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NIolmu2VAUlwbvO9jcfzr_40.616096_-111.910191@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127865,
+    "wof:geomhash":"d31515b36f72637555b643d76ef33368",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85810115,
+            "region_id":85688567,
+            "venue_id":857368119
+        }
+    ],
+    "wof:id":857368119,
+    "wof:lastmodified":1464127865,
+    "wof:name":"Clark & Co",
+    "wof:parent_id":85810115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.910191,
+    40.616096,
+    -111.910191,
+    40.616096
+],
+  "geometry": {"coordinates":[-111.910191,40.616096],"type":"Point"}
+}

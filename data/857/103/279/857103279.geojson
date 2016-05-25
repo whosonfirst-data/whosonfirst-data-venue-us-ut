@@ -1,0 +1,73 @@
+{
+  "id": 857103279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.640772,40.260139,-111.640772,40.260139",
+    "geom:latitude":40.260139,
+    "geom:longitude":-111.640772,
+    "iso:country":"US",
+    "sg:address":"584 Wymount Ter",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 371 2879",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85842355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25GbeJGnt0apRLaOjH1dGo_40.260139_-111.640772@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121988,
+    "wof:geomhash":"67e489b554dedeb7c9bfa125d48c3730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85842355,
+            "region_id":85688567,
+            "venue_id":857103279
+        }
+    ],
+    "wof:id":857103279,
+    "wof:lastmodified":1464121988,
+    "wof:name":"Association of Chinese Hearts",
+    "wof:parent_id":85842355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.640772,
+    40.260139,
+    -111.640772,
+    40.260139
+],
+  "geometry": {"coordinates":[-111.640772,40.260139],"type":"Point"}
+}

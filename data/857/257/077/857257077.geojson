@@ -1,0 +1,74 @@
+{
+  "id": 857257077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.877061,40.76508,-111.877061,40.76508",
+    "geom:latitude":40.76508,
+    "geom:longitude":-111.877061,
+    "iso:country":"US",
+    "sg:address":"475 E 200 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 537 6791",
+    "sg:postcode":"84111",
+    "sg:province":"UT",
+    "sg:tags":[
+        "national"
+    ],
+    "sg:website":"www.usbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85809299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43zP1Po72OnSCg5CwXsbXb_40.765080_-111.877061@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125428,
+    "wof:geomhash":"5276ab989f98c6b1ce0314d8129dbebd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85809299,
+            "region_id":85688567,
+            "venue_id":857257077
+        }
+    ],
+    "wof:id":857257077,
+    "wof:lastmodified":1464125428,
+    "wof:name":"US Bank",
+    "wof:parent_id":85809299,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national"
+    ]
+},
+  "bbox": [
+    -111.877061,
+    40.76508,
+    -111.877061,
+    40.76508
+],
+  "geometry": {"coordinates":[-111.877061,40.76508],"type":"Point"}
+}

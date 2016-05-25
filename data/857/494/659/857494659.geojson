@@ -1,0 +1,74 @@
+{
+  "id": 857494659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.000772,41.088883,-112.000772,41.088883",
+    "geom:latitude":41.088883,
+    "geom:longitude":-112.000772,
+    "iso:country":"US",
+    "sg:address":"2029 N Main St",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/north-davis/157634-taco-maker/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 774 8226",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EoNImfELHO5pCTinqC8JH_41.089477_-112.001410@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130756,
+    "wof:geomhash":"2b1fcdda5ef8cdab94023196c4286058",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857494659
+        }
+    ],
+    "wof:id":857494659,
+    "wof:lastmodified":1464130756,
+    "wof:name":"Taco Maker",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -112.000772,
+    41.088883,
+    -112.000772,
+    41.088883
+],
+  "geometry": {"coordinates":[-112.000772,41.088883],"type":"Point"}
+}

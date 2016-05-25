@@ -1,0 +1,75 @@
+{
+  "id": 857205145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.873094,40.77276,-111.873094,40.77276",
+    "geom:latitude":40.77276,
+    "geom:longitude":-111.873094,
+    "iso:country":"US",
+    "sg:address":"502 E 3rd Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 363 6260",
+    "sg:postcode":"84103",
+    "sg:province":"UT",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55azQwmgJRPT7GExSVZmKn_40.772760_-111.873094@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124297,
+    "wof:geomhash":"502f216c2cbb702059b4ad67bc8760f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871029,
+            "region_id":85688567,
+            "venue_id":857205145
+        }
+    ],
+    "wof:id":857205145,
+    "wof:lastmodified":1464124297,
+    "wof:name":"Two Creek Coffee House",
+    "wof:parent_id":85871029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -111.873094,
+    40.77276,
+    -111.873094,
+    40.77276
+],
+  "geometry": {"coordinates":[-111.87309399999999,40.77276],"type":"Point"}
+}

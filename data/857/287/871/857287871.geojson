@@ -1,0 +1,73 @@
+{
+  "id": 857287871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.979059,41.730052,-111.979059,41.730052",
+    "geom:latitude":41.730052,
+    "geom:longitude":-111.979059,
+    "iso:country":"US",
+    "sg:address":"110 S 6000 W",
+    "sg:city":"Mendon",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 4056",
+    "sg:postcode":"84325",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727555,
+        102082881,
+        85823067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SBv2ttvTD7V3fl7pb0G2B_41.730052_-111.979059@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126082,
+    "wof:geomhash":"58e817da4f87846e9460ba34d8c948b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727555,
+            "neighbourhood_id":85823067,
+            "region_id":85688567,
+            "venue_id":857287871
+        }
+    ],
+    "wof:id":857287871,
+    "wof:lastmodified":1464126082,
+    "wof:name":"Gateway Properties LLC",
+    "wof:parent_id":85823067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -111.979059,
+    41.730052,
+    -111.979059,
+    41.730052
+],
+  "geometry": {"coordinates":[-111.97905900000001,41.730052],"type":"Point"}
+}

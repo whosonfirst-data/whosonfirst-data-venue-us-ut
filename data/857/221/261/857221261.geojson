@@ -1,0 +1,75 @@
+{
+  "id": 857221261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.064725,41.069997,-112.064725,41.069997",
+    "geom:latitude":41.069997,
+    "geom:longitude":-112.064725,
+    "iso:country":"US",
+    "sg:address":"3016 S 2000 W",
+    "sg:city":"Syracuse",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 525 9841",
+    "sg:postcode":"84075",
+    "sg:province":"UT",
+    "sg:tags":[
+        "prepackaged",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727889,
+        102083563,
+        85804563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1j9wWjSfaezM0YUedlS2r4_41.069997_-112.064725@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124642,
+    "wof:geomhash":"f6e3f65726497e4a631d6666065d7afd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727889,
+            "neighbourhood_id":85804563,
+            "region_id":85688567,
+            "venue_id":857221261
+        }
+    ],
+    "wof:id":857221261,
+    "wof:lastmodified":1464124642,
+    "wof:name":"Software Lifecycle",
+    "wof:parent_id":85804563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "prepackaged",
+        "software"
+    ]
+},
+  "bbox": [
+    -112.064725,
+    41.069997,
+    -112.064725,
+    41.069997
+],
+  "geometry": {"coordinates":[-112.064725,41.069997],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857469545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.809684,41.7832,-111.809684,41.7832",
+    "geom:latitude":41.7832,
+    "geom:longitude":-111.809684,
+    "iso:country":"US",
+    "sg:address":"975 E 2850 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 755 0388",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06oSoB2Bpah4QKdH6yx9oC_41.783200_-111.809684@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130164,
+    "wof:geomhash":"1fb3d4d4b0964c7a7a495c7c8445293b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857469545
+        }
+    ],
+    "wof:id":857469545,
+    "wof:lastmodified":1464130164,
+    "wof:name":"B W Engineering",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -111.809684,
+    41.7832,
+    -111.809684,
+    41.7832
+],
+  "geometry": {"coordinates":[-111.809684,41.7832],"type":"Point"}
+}

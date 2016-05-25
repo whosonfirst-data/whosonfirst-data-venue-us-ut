@@ -1,0 +1,73 @@
+{
+  "id": 857081267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.83599,40.5406,-111.83599,40.5406",
+    "geom:latitude":40.5406,
+    "geom:longitude":-111.83599,
+    "iso:country":"US",
+    "sg:address":"1954 Oakshire Ln",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 576 0886",
+    "sg:postcode":"84092",
+    "sg:province":"UT",
+    "sg:tags":[
+        "communication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85812845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XHE2lPB9Bl5R9IN0W6TrW_40.540600_-111.835990@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121431,
+    "wof:geomhash":"31620bc4a70b23211acee751e6a543c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85812845,
+            "region_id":85688567,
+            "venue_id":857081267
+        }
+    ],
+    "wof:id":857081267,
+    "wof:lastmodified":1464121431,
+    "wof:name":"Vision Link",
+    "wof:parent_id":85812845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication"
+    ]
+},
+  "bbox": [
+    -111.83599,
+    40.5406,
+    -111.83599,
+    40.5406
+],
+  "geometry": {"coordinates":[-111.83599,40.5406],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857456411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.640071,40.202999,-111.640071,40.202999",
+    "geom:latitude":40.202999,
+    "geom:longitude":-111.640071,
+    "iso:country":"US",
+    "sg:address":"2222 S 950 E",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 375 8344",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:website":"www.hotdocs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727829,
+        102083567,
+        85880117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pJm1CxBlzT3QLDYAScRHL_40.202999_-111.640071@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129880,
+    "wof:geomhash":"a1b225ad31f0817169ceec815eb80a4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727829,
+            "neighbourhood_id":85880117,
+            "region_id":85688567,
+            "venue_id":857456411
+        }
+    ],
+    "wof:id":857456411,
+    "wof:lastmodified":1464129880,
+    "wof:name":"Capsoft Development",
+    "wof:parent_id":85880117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.640071,
+    40.202999,
+    -111.640071,
+    40.202999
+],
+  "geometry": {"coordinates":[-111.64007100000001,40.202999],"type":"Point"}
+}

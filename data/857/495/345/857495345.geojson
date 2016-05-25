@@ -1,0 +1,80 @@
+{
+  "id": 857495345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.643133,40.242991,-111.643133,40.242991",
+    "geom:latitude":40.242991,
+    "geom:longitude":-111.643133,
+    "iso:country":"US",
+    "sg:address":"1234 North 900 East Suite 201",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 377 0588",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:tags":[
+        "genealogy",
+        "onlinedatabase",
+        "familyhistories",
+        "peoplesearch"
+    ],
+    "sg:website":"http://www.worldvitalrecords.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6R9ZMtH8QsPyBsSfKPhg3f_40.242991_-111.643133@1308186496"
+    },
+    "wof:country":"US",
+    "wof:created":1464130790,
+    "wof:geomhash":"09f4065f0888a5edb8fbb61efd8c3e94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880085,
+            "region_id":85688567,
+            "venue_id":857495345
+        }
+    ],
+    "wof:id":857495345,
+    "wof:lastmodified":1464130790,
+    "wof:name":"World Vital Records",
+    "wof:parent_id":85880085,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "genealogy",
+        "onlinedatabase",
+        "familyhistories",
+        "peoplesearch"
+    ]
+},
+  "bbox": [
+    -111.643133,
+    40.242991,
+    -111.643133,
+    40.242991
+],
+  "geometry": {"coordinates":[-111.64313300000001,40.242991],"type":"Point"}
+}

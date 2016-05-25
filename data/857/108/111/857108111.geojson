@@ -1,0 +1,75 @@
+{
+  "id": 857108111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.661824,40.257022,-111.661824,40.257022",
+    "geom:latitude":40.257022,
+    "geom:longitude":-111.661824,
+    "iso:country":"US",
+    "sg:address":"1625 N Freedom Blvd",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 1891",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FWNgVIGXzPx62nbcclQle_40.257022_-111.661824@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122089,
+    "wof:geomhash":"728b7c1942b19e5353312d21468d1ad7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880123,
+            "region_id":85688567,
+            "venue_id":857108111
+        }
+    ],
+    "wof:id":857108111,
+    "wof:lastmodified":1464122089,
+    "wof:name":"Super Sonic Car Wash",
+    "wof:parent_id":85880123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -111.661824,
+    40.257022,
+    -111.661824,
+    40.257022
+],
+  "geometry": {"coordinates":[-111.661824,40.257022],"type":"Point"}
+}

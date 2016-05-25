@@ -1,0 +1,73 @@
+{
+  "id": 857453677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.654596,40.122788,-111.654596,40.122788",
+    "geom:latitude":40.122788,
+    "geom:longitude":-111.654596,
+    "iso:country":"US",
+    "sg:address":"910 N Main St",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 7428",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "national",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6e52oznGrGqzoBNaeYNwO9_40.122788_-111.654596@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129832,
+    "wof:geomhash":"d353481d9c195ac82005e5144893c534",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857453677
+        }
+    ],
+    "wof:id":857453677,
+    "wof:lastmodified":1464129832,
+    "wof:name":"Bank One",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -111.654596,
+    40.122788,
+    -111.654596,
+    40.122788
+],
+  "geometry": {"coordinates":[-111.654596,40.122788],"type":"Point"}
+}

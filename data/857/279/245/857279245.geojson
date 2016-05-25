@@ -1,0 +1,68 @@
+{
+  "id": 857279245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.836829,40.688912,-111.836829,40.688912",
+    "geom:latitude":40.688912,
+    "geom:longitude":-111.836829,
+    "iso:country":"US",
+    "sg:address":"3846 S 1915 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 278 4126",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85859021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JAokwuZHBBfuEBst1LwnB_40.688912_-111.836829@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125903,
+    "wof:geomhash":"723fb0e42072e5c2f510a2f20a16de42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85859021,
+            "region_id":85688567,
+            "venue_id":857279245
+        }
+    ],
+    "wof:id":857279245,
+    "wof:lastmodified":1464125903,
+    "wof:name":"Pet House Call",
+    "wof:parent_id":85859021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.836829,
+    40.688912,
+    -111.836829,
+    40.688912
+],
+  "geometry": {"coordinates":[-111.83682899999999,40.688912],"type":"Point"}
+}

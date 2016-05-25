@@ -1,0 +1,75 @@
+{
+  "id": 857244417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.97715,41.228136,-111.97715,41.228136",
+    "geom:latitude":41.228136,
+    "geom:longitude":-111.97715,
+    "iso:country":"US",
+    "sg:address":"2153 Pingree Ave",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 394 5725",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "linen",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85844217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69PHIb5QhE1uM1GGCsQHoP_41.228136_-111.977150@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125120,
+    "wof:geomhash":"1b46934d6a23cfdb563356a7042bae4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85844217,
+            "region_id":85688567,
+            "venue_id":857244417
+        }
+    ],
+    "wof:id":857244417,
+    "wof:lastmodified":1464125120,
+    "wof:name":"Model Linen Supply",
+    "wof:parent_id":85844217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "linen",
+        "supply"
+    ]
+},
+  "bbox": [
+    -111.97715,
+    41.228136,
+    -111.97715,
+    41.228136
+],
+  "geometry": {"coordinates":[-111.97714999999999,41.228136],"type":"Point"}
+}

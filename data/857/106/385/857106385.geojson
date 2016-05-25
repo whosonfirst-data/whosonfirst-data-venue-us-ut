@@ -1,0 +1,71 @@
+{
+  "id": 857106385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.615818,37.033276,-113.615818,37.033276",
+    "geom:latitude":37.033276,
+    "geom:longitude":-113.615818,
+    "iso:country":"US",
+    "sg:address":"4393 Round Hill Dr",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 674 4090",
+    "sg:postcode":"84790",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727617,
+        102082879,
+        85803851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GzZ6Pl1NTG5xkgeWjqA26_37.033276_-113.615818@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122057,
+    "wof:geomhash":"0786df5fb6ee3e6a0a80826b7d393b8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85803851,
+            "region_id":85688567,
+            "venue_id":857106385
+        }
+    ],
+    "wof:id":857106385,
+    "wof:lastmodified":1464122057,
+    "wof:name":"Rupp Inc",
+    "wof:parent_id":85803851,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -113.615818,
+    37.033276,
+    -113.615818,
+    37.033276
+],
+  "geometry": {"coordinates":[-113.615818,37.033276],"type":"Point"}
+}

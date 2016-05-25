@@ -1,0 +1,77 @@
+{
+  "id": 857158727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.905459,40.756026,-111.905459,40.756026",
+    "geom:latitude":40.756026,
+    "geom:longitude":-111.905459,
+    "iso:country":"US",
+    "sg:address":"686 S 500 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 359 9002",
+    "sg:postcode":"84101",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mfg",
+        "door",
+        "cabinet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85828321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eXvXL6zBMjTXUBm3UYfqL_40.756026_-111.905459@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123322,
+    "wof:geomhash":"d06cf2860b2655231d3c8e2cef220f8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85828321,
+            "region_id":85688567,
+            "venue_id":857158727
+        }
+    ],
+    "wof:id":857158727,
+    "wof:lastmodified":1464123322,
+    "wof:name":"Vinyl Door",
+    "wof:parent_id":85828321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "door",
+        "cabinet"
+    ]
+},
+  "bbox": [
+    -111.905459,
+    40.756026,
+    -111.905459,
+    40.756026
+],
+  "geometry": {"coordinates":[-111.90545899999999,40.756026],"type":"Point"}
+}

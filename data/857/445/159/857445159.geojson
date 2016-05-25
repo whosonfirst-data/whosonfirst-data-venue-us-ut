@@ -1,0 +1,71 @@
+{
+  "id": 857445159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.633207,40.109375,-111.633207,40.109375",
+    "geom:latitude":40.109375,
+    "geom:longitude":-111.633207,
+    "iso:country":"US",
+    "sg:address":"1351 E Center St",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 8376",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wu4ePKWVzC1qNJvxwiYlB_40.109375_-111.633207@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129661,
+    "wof:geomhash":"52321631c7effbdae07877c86a0ac98e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857445159
+        }
+    ],
+    "wof:id":857445159,
+    "wof:lastmodified":1464129661,
+    "wof:name":"Jim's Texaco",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -111.633207,
+    40.109375,
+    -111.633207,
+    40.109375
+],
+  "geometry": {"coordinates":[-111.633207,40.109375],"type":"Point"}
+}

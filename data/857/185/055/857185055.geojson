@@ -1,0 +1,73 @@
+{
+  "id": 857185055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.890005,40.625698,-111.890005,40.625698",
+    "geom:latitude":40.625698,
+    "geom:longitude":-111.890005,
+    "iso:country":"US",
+    "sg:address":"6905 S State St",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 255 7199",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "sg:tags":[
+        "exhaust"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728051,
+        102082877,
+        85851957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kEJ6lV1cSQRBolBUX9MEb_40.625698_-111.890005@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123899,
+    "wof:geomhash":"4ab0b5a1251349d387c2a6855359ec22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85851957,
+            "region_id":85688567,
+            "venue_id":857185055
+        }
+    ],
+    "wof:id":857185055,
+    "wof:lastmodified":1464123899,
+    "wof:name":"Quality Exhaust",
+    "wof:parent_id":85851957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exhaust"
+    ]
+},
+  "bbox": [
+    -111.890005,
+    40.625698,
+    -111.890005,
+    40.625698
+],
+  "geometry": {"coordinates":[-111.890005,40.625698],"type":"Point"}
+}

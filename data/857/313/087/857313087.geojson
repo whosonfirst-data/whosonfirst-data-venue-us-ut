@@ -1,0 +1,75 @@
+{
+  "id": 857313087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.658688,40.23101,-111.658688,40.23101",
+    "geom:latitude":40.23101,
+    "geom:longitude":-111.658688,
+    "iso:country":"US",
+    "sg:address":"298 S University Ave",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 426 9002",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fQ2sXty4nXKjsvptAfhwb_40.231010_-111.658688@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126682,
+    "wof:geomhash":"79a43b09b0965ec6526d71b5eaf17733",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880065,
+            "region_id":85688567,
+            "venue_id":857313087
+        }
+    ],
+    "wof:id":857313087,
+    "wof:lastmodified":1464126682,
+    "wof:name":"Auto Craft Sales & Rental",
+    "wof:parent_id":85880065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -111.658688,
+    40.23101,
+    -111.658688,
+    40.23101
+],
+  "geometry": {"coordinates":[-111.658688,40.23101],"type":"Point"}
+}

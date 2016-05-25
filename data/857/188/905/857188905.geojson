@@ -1,0 +1,80 @@
+{
+  "id": 857188905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.824896,40.377235,-111.824896,40.377235",
+    "geom:latitude":40.377235,
+    "geom:longitude":-111.824896,
+    "iso:country":"US",
+    "sg:address":"79 N 1020 W",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 763 5687",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "control",
+        "equipment",
+        "security",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4n07uzrjvDLl4Oqe4FkHLj_40.377235_-111.824896@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123968,
+    "wof:geomhash":"e0199762430e5f3c889fdb7821375fc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857188905
+        }
+    ],
+    "wof:id":857188905,
+    "wof:lastmodified":1464123968,
+    "wof:name":"Security Innovations Inc",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "equipment",
+        "security",
+        "system"
+    ]
+},
+  "bbox": [
+    -111.824896,
+    40.377235,
+    -111.824896,
+    40.377235
+],
+  "geometry": {"coordinates":[-111.824896,40.377235],"type":"Point"}
+}

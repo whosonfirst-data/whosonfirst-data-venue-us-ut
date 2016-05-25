@@ -1,0 +1,68 @@
+{
+  "id": 857235725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.015588,41.211723,-112.015588,41.211723",
+    "geom:latitude":41.211723,
+    "geom:longitude":-112.015588,
+    "iso:country":"US",
+    "sg:address":"2947 Midland Dr",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 392 3834",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85818351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5f2qnHjZA02EaFbg2Ya35Z_41.211723_-112.015588@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124917,
+    "wof:geomhash":"7dc982388de3fc9ac2022a14cec77f35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85818351,
+            "region_id":85688567,
+            "venue_id":857235725
+        }
+    ],
+    "wof:id":857235725,
+    "wof:lastmodified":1464124917,
+    "wof:name":"American Legion Post 139",
+    "wof:parent_id":85818351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.015588,
+    41.211723,
+    -112.015588,
+    41.211723
+],
+  "geometry": {"coordinates":[-112.01558799999999,41.211723],"type":"Point"}
+}

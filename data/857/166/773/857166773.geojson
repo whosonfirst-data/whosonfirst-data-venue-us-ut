@@ -1,0 +1,72 @@
+{
+  "id": 857166773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.997992,37.188949,-112.997992,37.188949",
+    "geom:latitude":37.188949,
+    "geom:longitude":-112.997992,
+    "iso:country":"US",
+    "sg:address":"855 Zion Park Blvd",
+    "sg:city":"Springdale",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 772 3251",
+    "sg:postcode":"84767",
+    "sg:province":"UT",
+    "sg:tags":[
+        "grocer"
+    ],
+    "sg:website":"www.zionparkmotel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727619,
+        102082879,
+        85822405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4P5YG3TpL2jiP0ijXo2Rxi_37.188949_-112.997992@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123501,
+    "wof:geomhash":"df34bc4b4045657755cb3a4e54b4f906",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727619,
+            "neighbourhood_id":85822405,
+            "region_id":85688567,
+            "venue_id":857166773
+        }
+    ],
+    "wof:id":857166773,
+    "wof:lastmodified":1464123501,
+    "wof:name":"Zion Park Market Motel",
+    "wof:parent_id":85822405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -112.997992,
+    37.188949,
+    -112.997992,
+    37.188949
+],
+  "geometry": {"coordinates":[-112.997992,37.188949],"type":"Point"}
+}

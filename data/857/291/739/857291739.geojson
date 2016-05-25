@@ -1,0 +1,75 @@
+{
+  "id": 857291739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.679322,40.273142,-111.679322,40.273142",
+    "geom:latitude":40.273142,
+    "geom:longitude":-111.679322,
+    "iso:country":"US",
+    "sg:address":"578 E University Pkwy",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 426 5302",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "cleaners",
+        "vacuum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UpWFe9bOMLHJEFnX2JR4l_40.273142_-111.679322@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126190,
+    "wof:geomhash":"92a387da3ff361a15599fbdb301908c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880109,
+            "region_id":85688567,
+            "venue_id":857291739
+        }
+    ],
+    "wof:id":857291739,
+    "wof:lastmodified":1464126190,
+    "wof:name":"Oreck Vacuums",
+    "wof:parent_id":85880109,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "vacuum"
+    ]
+},
+  "bbox": [
+    -111.679322,
+    40.273142,
+    -111.679322,
+    40.273142
+],
+  "geometry": {"coordinates":[-111.679322,40.273142],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857314159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.654834,40.284798,-111.654834,40.284798",
+    "geom:latitude":40.284798,
+    "geom:longitude":-111.654834,
+    "iso:country":"US",
+    "sg:address":"3877 N 200 E",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 226 3794",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "hardware",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85817395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1APkl9eyW4m4Xu11so1AtG_40.284798_-111.654834@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126707,
+    "wof:geomhash":"4315bdb3af1905a259f78ffff1a8ebd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85817395,
+            "region_id":85688567,
+            "venue_id":857314159
+        }
+    ],
+    "wof:id":857314159,
+    "wof:lastmodified":1464126707,
+    "wof:name":"Sewell Direct",
+    "wof:parent_id":85817395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hardware",
+        "software"
+    ]
+},
+  "bbox": [
+    -111.654834,
+    40.284798,
+    -111.654834,
+    40.284798
+],
+  "geometry": {"coordinates":[-111.65483399999999,40.284798],"type":"Point"}
+}

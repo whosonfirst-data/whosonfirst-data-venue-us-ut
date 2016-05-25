@@ -1,0 +1,74 @@
+{
+  "id": 857470459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.795909,40.685408,-111.795909,40.685408",
+    "geom:latitude":40.685408,
+    "geom:longitude":-111.795909,
+    "iso:country":"US",
+    "sg:address":"3965 Wasatch Blvd",
+    "sg:city":"Holladay",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 278 3451",
+    "sg:postcode":"84124",
+    "sg:province":"UT",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "sg:website":"www.henries.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85833111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0z4uVQ68QnwK3W0hpnNqDJ_40.685408_-111.795909@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130179,
+    "wof:geomhash":"3e34e89aaef2c64621cd9f343e218ec0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85833111,
+            "region_id":85688567,
+            "venue_id":857470459
+        }
+    ],
+    "wof:id":857470459,
+    "wof:lastmodified":1464130179,
+    "wof:name":"Henrie's Dry Cleaners",
+    "wof:parent_id":85833111,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -111.795909,
+    40.685408,
+    -111.795909,
+    40.685408
+],
+  "geometry": {"coordinates":[-111.79590899999999,40.685408],"type":"Point"}
+}

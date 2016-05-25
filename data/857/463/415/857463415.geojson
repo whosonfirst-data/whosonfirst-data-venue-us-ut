@@ -1,0 +1,81 @@
+{
+  "id": 857463415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.800925,40.699933,-111.800925,40.699933",
+    "geom:latitude":40.699933,
+    "geom:longitude":-111.800925,
+    "iso:country":"US",
+    "sg:address":"3239 E 3300 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 486 0900",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "baker",
+        "mfg",
+        "bread"
+    ],
+    "sg:website":"www.pierrecountrybakery.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728257,
+        102082877,
+        85854869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cLepzA4d8TARaelBK8iZu_40.699933_-111.800925@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130015,
+    "wof:geomhash":"3a17f8eb7a6b6d36d31e965f5c3895d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85854869,
+            "region_id":85688567,
+            "venue_id":857463415
+        }
+    ],
+    "wof:id":857463415,
+    "wof:lastmodified":1464130015,
+    "wof:name":"Pierre Country Bakery Inc",
+    "wof:parent_id":85854869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker",
+        "mfg",
+        "bread"
+    ]
+},
+  "bbox": [
+    -111.800925,
+    40.699933,
+    -111.800925,
+    40.699933
+],
+  "geometry": {"coordinates":[-111.80092500000001,40.699933],"type":"Point"}
+}

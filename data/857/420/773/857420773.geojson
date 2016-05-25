@@ -1,0 +1,75 @@
+{
+  "id": 857420773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.970783,41.21037,-111.970783,41.21037",
+    "geom:latitude":41.21037,
+    "geom:longitude":-111.970783,
+    "iso:country":"US",
+    "sg:address":"2909 Washington Blvd",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 399 3320",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "carrier",
+        "surety"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85810249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_115ddJn1zNobZtl3oFFGip_41.210370_-111.970783@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129121,
+    "wof:geomhash":"ecfa50a1de7fe3cee1ea3eed91dba740",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85810249,
+            "region_id":85688567,
+            "venue_id":857420773
+        }
+    ],
+    "wof:id":857420773,
+    "wof:lastmodified":1464129121,
+    "wof:name":"Liberty Mutual",
+    "wof:parent_id":85810249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier",
+        "surety"
+    ]
+},
+  "bbox": [
+    -111.970783,
+    41.21037,
+    -111.970783,
+    41.21037
+],
+  "geometry": {"coordinates":[-111.970783,41.21037],"type":"Point"}
+}

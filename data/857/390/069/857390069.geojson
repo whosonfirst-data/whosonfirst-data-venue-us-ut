@@ -1,0 +1,73 @@
+{
+  "id": 857390069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.835124,41.729735,-111.835124,41.729735",
+    "geom:latitude":41.729735,
+    "geom:longitude":-111.835124,
+    "iso:country":"US",
+    "sg:address":"127 S Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 2252",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "wire",
+        "cable"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NqrlSeMU1W6NwfGPKQZZg_41.729735_-111.835124@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128432,
+    "wof:geomhash":"d67dcc62b75f3a219f507963b18f05d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857390069
+        }
+    ],
+    "wof:id":857390069,
+    "wof:lastmodified":1464128432,
+    "wof:name":"Thomson Electric Supply",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wire",
+        "cable"
+    ]
+},
+  "bbox": [
+    -111.835124,
+    41.729735,
+    -111.835124,
+    41.729735
+],
+  "geometry": {"coordinates":[-111.83512399999999,41.729735],"type":"Point"}
+}

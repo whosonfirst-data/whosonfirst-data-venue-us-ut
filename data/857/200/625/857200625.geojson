@@ -1,0 +1,75 @@
+{
+  "id": 857200625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.925784,40.743178,-111.925784,40.743178",
+    "geom:latitude":40.743178,
+    "geom:longitude":-111.925784,
+    "iso:country":"US",
+    "sg:address":"1189 S 1200 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 973 5909",
+    "sg:postcode":"84104",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85833353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61de3Venq9B39iV9xSslfS_40.743178_-111.925784@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124187,
+    "wof:geomhash":"e78cf7a575949e0c6f3e6e8c440dfdbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85833353,
+            "region_id":85688567,
+            "venue_id":857200625
+        }
+    ],
+    "wof:id":857200625,
+    "wof:lastmodified":1464124187,
+    "wof:name":"Wills Auto",
+    "wof:parent_id":85833353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -111.925784,
+    40.743178,
+    -111.925784,
+    40.743178
+],
+  "geometry": {"coordinates":[-111.92578399999999,40.743178],"type":"Point"}
+}

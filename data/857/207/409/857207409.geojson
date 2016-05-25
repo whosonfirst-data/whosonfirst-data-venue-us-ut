@@ -1,0 +1,75 @@
+{
+  "id": 857207409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.724318,40.296096,-111.724318,40.296096",
+    "geom:latitude":40.296096,
+    "geom:longitude":-111.724318,
+    "iso:country":"US",
+    "sg:address":"50 S 1200 W",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 226 1463",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727827,
+        102083567,
+        85821287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dYWfIUDc1LcrPXsEuS29K_40.296096_-111.724318@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124339,
+    "wof:geomhash":"61c488e840af0f854f966bdf051668b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727827,
+            "neighbourhood_id":85821287,
+            "region_id":85688567,
+            "venue_id":857207409
+        }
+    ],
+    "wof:id":857207409,
+    "wof:lastmodified":1464124339,
+    "wof:name":"Gas-N-Go",
+    "wof:parent_id":85821287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -111.724318,
+    40.296096,
+    -111.724318,
+    40.296096
+],
+  "geometry": {"coordinates":[-111.724318,40.296096],"type":"Point"}
+}

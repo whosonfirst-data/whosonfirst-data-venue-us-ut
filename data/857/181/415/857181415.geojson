@@ -1,0 +1,75 @@
+{
+  "id": 857181415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.931936,41.612781,-111.931936,41.612781",
+    "geom:latitude":41.612781,
+    "geom:longitude":-111.931936,
+    "iso:country":"US",
+    "sg:address":"1400 S Center St",
+    "sg:city":"Wellsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 245 6418",
+    "sg:postcode":"84339",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house",
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727555,
+        102082881,
+        85823067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yUtSB1yI3FVo4ZhjDiQWD_41.612781_-111.931936@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123823,
+    "wof:geomhash":"82de28d0faf9426ec4e6f95f98a8e880",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727555,
+            "neighbourhood_id":85823067,
+            "region_id":85688567,
+            "venue_id":857181415
+        }
+    ],
+    "wof:id":857181415,
+    "wof:lastmodified":1464123823,
+    "wof:name":"Mt Sterling Construction Inc",
+    "wof:parent_id":85823067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.931936,
+    41.612781,
+    -111.931936,
+    41.612781
+],
+  "geometry": {"coordinates":[-111.93193599999999,41.612781],"type":"Point"}
+}

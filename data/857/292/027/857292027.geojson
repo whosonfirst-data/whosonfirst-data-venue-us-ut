@@ -1,0 +1,75 @@
+{
+  "id": 857292027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.656215,40.251457,-111.656215,40.251457",
+    "geom:latitude":40.251457,
+    "geom:longitude":-111.656215,
+    "iso:country":"US",
+    "sg:address":"1305 N Canyon Rd",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 371 6800",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KTRpk0BTWmtGqsWYr0zI6_40.251457_-111.656215@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126198,
+    "wof:geomhash":"0d4e436610996b96830baaa0d0ce7fc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880123,
+            "region_id":85688567,
+            "venue_id":857292027
+        }
+    ],
+    "wof:id":857292027,
+    "wof:lastmodified":1464126198,
+    "wof:name":"Canyon Terrace Apartments",
+    "wof:parent_id":85880123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -111.656215,
+    40.251457,
+    -111.656215,
+    40.251457
+],
+  "geometry": {"coordinates":[-111.656215,40.251457],"type":"Point"}
+}

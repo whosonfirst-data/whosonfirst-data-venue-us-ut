@@ -1,0 +1,76 @@
+{
+  "id": 857465857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.845011,40.569418,-111.845011,40.569418",
+    "geom:latitude":40.569418,
+    "geom:longitude":-111.845011,
+    "iso:country":"US",
+    "sg:address":"9929 S Albury Rd",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 571 2154",
+    "sg:postcode":"84092",
+    "sg:province":"UT",
+    "sg:tags":[
+        "confectionery",
+        "candy"
+    ],
+    "sg:website":"www.utahtruffles.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85818849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AkkpaOG44N2KDjNn4UXwW_40.569418_-111.845011@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130086,
+    "wof:geomhash":"9fe81e798b3ba3031bce16f5d879d4f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85818849,
+            "region_id":85688567,
+            "venue_id":857465857
+        }
+    ],
+    "wof:id":857465857,
+    "wof:lastmodified":1464130086,
+    "wof:name":"Utah Truffles",
+    "wof:parent_id":85818849,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectionery",
+        "candy"
+    ]
+},
+  "bbox": [
+    -111.845011,
+    40.569418,
+    -111.845011,
+    40.569418
+],
+  "geometry": {"coordinates":[-111.845011,40.569418],"type":"Point"}
+}

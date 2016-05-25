@@ -1,0 +1,82 @@
+{
+  "id": 857162443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.882122,40.771319,-111.882122,40.771319",
+    "geom:latitude":40.771319,
+    "geom:longitude":-111.882122,
+    "iso:country":"US",
+    "sg:address":"67 B St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 521 3183",
+    "sg:postcode":"84103",
+    "sg:province":"UT",
+    "sg:tags":[
+        "housing",
+        "program",
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85809299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54DrQkkDWni91y9eYrS515_40.771319_-111.882122@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123413,
+    "wof:geomhash":"8f82349445592a34fbf826c2790a0bb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85809299,
+            "region_id":85688567,
+            "venue_id":857162443
+        }
+    ],
+    "wof:id":857162443,
+    "wof:lastmodified":1464123413,
+    "wof:name":"Mercy Housing of Utah Inc",
+    "wof:parent_id":85809299,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "housing",
+        "program",
+        "establishment"
+    ]
+},
+  "bbox": [
+    -111.882122,
+    40.771319,
+    -111.882122,
+    40.771319
+],
+  "geometry": {"coordinates":[-111.882122,40.771319],"type":"Point"}
+}

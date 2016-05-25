@@ -1,0 +1,73 @@
+{
+  "id": 857310971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.017281,41.229231,-112.017281,41.229231",
+    "geom:latitude":41.229231,
+    "geom:longitude":-112.017281,
+    "iso:country":"US",
+    "sg:address":"1997 S 1550 W",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 731 6364",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85818351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LT5kvfdZANRD3YGko9GAH_41.229231_-112.017281@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126639,
+    "wof:geomhash":"b362f6805c424dc23d1fa1a4da92cc3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85818351,
+            "region_id":85688567,
+            "venue_id":857310971
+        }
+    ],
+    "wof:id":857310971,
+    "wof:lastmodified":1464126639,
+    "wof:name":"Fineline Auto Repair",
+    "wof:parent_id":85818351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -112.017281,
+    41.229231,
+    -112.017281,
+    41.229231
+],
+  "geometry": {"coordinates":[-112.017281,41.229231],"type":"Point"}
+}

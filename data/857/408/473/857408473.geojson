@@ -1,0 +1,77 @@
+{
+  "id": 857408473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.897228,40.685125,-111.897228,40.685125",
+    "geom:latitude":40.685125,
+    "geom:longitude":-111.897228,
+    "iso:country":"US",
+    "sg:address":"3975 Howick St",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 262 7200",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85810147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EkorkTqleBAmRnKMywOQM_40.685125_-111.897228@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128803,
+    "wof:geomhash":"24bd8d67af66ca2e001b9a448caddb4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85810147,
+            "region_id":85688567,
+            "venue_id":857408473
+        }
+    ],
+    "wof:id":857408473,
+    "wof:lastmodified":1464128803,
+    "wof:name":"Interlink Imports & Automotive",
+    "wof:parent_id":85810147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -111.897228,
+    40.685125,
+    -111.897228,
+    40.685125
+],
+  "geometry": {"coordinates":[-111.897228,40.685125],"type":"Point"}
+}

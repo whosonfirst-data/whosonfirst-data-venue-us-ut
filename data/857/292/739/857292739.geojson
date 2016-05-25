@@ -1,0 +1,73 @@
+{
+  "id": 857292739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.816516,40.5937,-111.816516,40.5937",
+    "geom:latitude":40.5937,
+    "geom:longitude":-111.816516,
+    "iso:country":"US",
+    "sg:address":"8667 Scotia Ln",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 943 4463",
+    "sg:postcode":"84093",
+    "sg:province":"UT",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728077,
+        102082877,
+        85843389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eB00a0xixaK3wUfOHi01Z_40.593700_-111.816516@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126216,
+    "wof:geomhash":"51181d4a8bf196e93b6bbd7926ce8c1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85843389,
+            "region_id":85688567,
+            "venue_id":857292739
+        }
+    ],
+    "wof:id":857292739,
+    "wof:lastmodified":1464126216,
+    "wof:name":"Patman Enterprises Inc",
+    "wof:parent_id":85843389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -111.816516,
+    40.5937,
+    -111.816516,
+    40.5937
+],
+  "geometry": {"coordinates":[-111.81651599999999,40.5937],"type":"Point"}
+}

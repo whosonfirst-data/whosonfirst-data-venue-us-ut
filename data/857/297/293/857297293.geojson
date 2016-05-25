@@ -1,0 +1,73 @@
+{
+  "id": 857297293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.905708,41.037107,-111.905708,41.037107",
+    "geom:latitude":41.037107,
+    "geom:longitude":-111.905708,
+    "iso:country":"US",
+    "sg:address":"66 N Mountain Rd",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 544 9363",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YGVaV2kO0ZdxtbSQCSwQr_41.037107_-111.905708@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126349,
+    "wof:geomhash":"fe437934057448a5808e8b64ecdd1f4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857297293
+        }
+    ],
+    "wof:id":857297293,
+    "wof:lastmodified":1464126349,
+    "wof:name":"Fruit Heights Health Store",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -111.905708,
+    41.037107,
+    -111.905708,
+    41.037107
+],
+  "geometry": {"coordinates":[-111.905708,41.037107],"type":"Point"}
+}

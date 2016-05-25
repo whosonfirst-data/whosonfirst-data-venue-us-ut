@@ -1,0 +1,71 @@
+{
+  "id": 857141689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.843941,41.76183,-111.843941,41.76183",
+    "geom:latitude":41.76183,
+    "geom:longitude":-111.843941,
+    "iso:country":"US",
+    "sg:address":"1693 N 400 W",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 755 6990",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RnNTbhTBJjELJdZk3oJWj_41.761830_-111.843941@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122934,
+    "wof:geomhash":"6f0086613a2ef7f206914d753ef0b48d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857141689
+        }
+    ],
+    "wof:id":857141689,
+    "wof:lastmodified":1464122934,
+    "wof:name":"Maple Valley Apartments",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -111.843941,
+    41.76183,
+    -111.843941,
+    41.76183
+],
+  "geometry": {"coordinates":[-111.843941,41.76183],"type":"Point"}
+}

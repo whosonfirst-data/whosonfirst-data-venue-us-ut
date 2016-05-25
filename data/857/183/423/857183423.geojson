@@ -1,0 +1,73 @@
+{
+  "id": 857183423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.932839,41.228458,-111.932839,41.228458",
+    "geom:latitude":41.228458,
+    "geom:longitude":-111.932839,
+    "iso:country":"US",
+    "sg:address":"1755 21st St",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 621 7854",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "breeding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85839591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EmEOQpo8Et3SgyFuIm156_41.228458_-111.932839@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123865,
+    "wof:geomhash":"5a2647cd8eef854c09886cc948046c9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85839591,
+            "region_id":85688567,
+            "venue_id":857183423
+        }
+    ],
+    "wof:id":857183423,
+    "wof:lastmodified":1464123865,
+    "wof:name":"Pit Bull Breeding Assoc",
+    "wof:parent_id":85839591,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breeding"
+    ]
+},
+  "bbox": [
+    -111.932839,
+    41.228458,
+    -111.932839,
+    41.228458
+],
+  "geometry": {"coordinates":[-111.932839,41.228458],"type":"Point"}
+}

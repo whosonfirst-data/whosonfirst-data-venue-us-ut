@@ -1,0 +1,76 @@
+{
+  "id": 857181959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.685418,40.275646,-111.685418,40.275646",
+    "geom:latitude":40.275646,
+    "geom:longitude":-111.685418,
+    "iso:country":"US",
+    "sg:address":"1163 S State St",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 434 8888",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "sg:website":"www.pcclub.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85830581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09F710PIRe8Yfy02QT3Fra_40.275646_-111.685418@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123835,
+    "wof:geomhash":"dbc1dd9ccf28971bfda8dfa74779280f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85830581,
+            "region_id":85688567,
+            "venue_id":857181959
+        }
+    ],
+    "wof:id":857181959,
+    "wof:lastmodified":1464123835,
+    "wof:name":"PC Club Utah",
+    "wof:parent_id":85830581,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -111.685418,
+    40.275646,
+    -111.685418,
+    40.275646
+],
+  "geometry": {"coordinates":[-111.685418,40.275646],"type":"Point"}
+}

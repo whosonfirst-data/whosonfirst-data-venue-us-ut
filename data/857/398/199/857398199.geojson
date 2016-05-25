@@ -1,0 +1,77 @@
+{
+  "id": 857398199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.122433,41.191067,-112.122433,41.191067",
+    "geom:latitude":41.191067,
+    "geom:longitude":-112.122433,
+    "iso:country":"US",
+    "sg:address":"3870 S 5900 W",
+    "sg:city":"Hooper",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 731 5226",
+    "sg:postcode":"84315",
+    "sg:province":"UT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85804651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DtICr05l53Qvzva3IH9NJ_41.191067_-112.122433@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128591,
+    "wof:geomhash":"0c6ab96145ae04d1dca2bbcaa29fe3e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85804651,
+            "region_id":85688567,
+            "venue_id":857398199
+        }
+    ],
+    "wof:id":857398199,
+    "wof:lastmodified":1464128591,
+    "wof:name":"Stringham Rural Delivery",
+    "wof:parent_id":85804651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -112.122433,
+    41.191067,
+    -112.122433,
+    41.191067
+],
+  "geometry": {"coordinates":[-112.122433,41.191067],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857138797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.899746,40.710416,-111.899746,40.710416",
+    "geom:latitude":40.710416,
+    "geom:longitude":-111.899746,
+    "iso:country":"US",
+    "sg:address":"2770 S 300 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 466 6091",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85805797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26ZkmeTin8QAvDEkRIimNW_40.710416_-111.899746@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122866,
+    "wof:geomhash":"9b89c4bce4860b7b31b186b2af2e4ef0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85805797,
+            "region_id":85688567,
+            "venue_id":857138797
+        }
+    ],
+    "wof:id":857138797,
+    "wof:lastmodified":1464122866,
+    "wof:name":"Trans Am Transmissions",
+    "wof:parent_id":85805797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -111.899746,
+    40.710416,
+    -111.899746,
+    40.710416
+],
+  "geometry": {"coordinates":[-111.89974599999999,40.710416],"type":"Point"}
+}

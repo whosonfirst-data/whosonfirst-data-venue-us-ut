@@ -1,0 +1,77 @@
+{
+  "id": 857268685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.727214,40.293237,-111.727214,40.293237",
+    "geom:latitude":40.293237,
+    "geom:longitude":-111.727214,
+    "iso:country":"US",
+    "sg:address":"237 S Mountain Lands Dr",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 426 7430",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "govt",
+        "state",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727827,
+        102083567,
+        85821287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Kmb8hfbLzGTdJxM7e4SDo_40.293237_-111.727214@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125661,
+    "wof:geomhash":"7e2b6a724fb0436580b53aa05fccca28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727827,
+            "neighbourhood_id":85821287,
+            "region_id":85688567,
+            "venue_id":857268685
+        }
+    ],
+    "wof:id":857268685,
+    "wof:lastmodified":1464125661,
+    "wof:name":"Youth Corrections",
+    "wof:parent_id":85821287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "institution"
+    ]
+},
+  "bbox": [
+    -111.727214,
+    40.293237,
+    -111.727214,
+    40.293237
+],
+  "geometry": {"coordinates":[-111.727214,40.293237],"type":"Point"}
+}

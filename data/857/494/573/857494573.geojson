@@ -1,0 +1,76 @@
+{
+  "id": 857494573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.536147,37.122289,-113.536147,37.122289",
+    "geom:latitude":37.122289,
+    "geom:longitude":-113.536147,
+    "iso:country":"US",
+    "sg:address":"1694 Red Cliffs Dr",
+    "sg:city":"Saint George",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/st-george/166076-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 656 1625",
+    "sg:postcode":"84790",
+    "sg:province":"UT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xk77E6rD6BGR8isnxw4GK_37.122289_-113.536147@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130753,
+    "wof:geomhash":"d7755018a10eb207ab64916e1b82246d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857494573
+        }
+    ],
+    "wof:id":857494573,
+    "wof:lastmodified":1464130753,
+    "wof:name":"Arby's",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -113.536147,
+    37.122289,
+    -113.536147,
+    37.122289
+],
+  "geometry": {"coordinates":[-113.536147,37.122289],"type":"Point"}
+}

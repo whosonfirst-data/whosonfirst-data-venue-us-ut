@@ -1,0 +1,69 @@
+{
+  "id": 857238647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.854014,40.390903,-111.854014,40.390903",
+    "geom:latitude":40.390903,
+    "geom:longitude":-111.854014,
+    "iso:country":"US",
+    "sg:address":"231 N 300 W",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 766 9006",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "fence"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WY8oWHkLNQxDgffNBhtVA_40.390903_-111.854014@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124976,
+    "wof:geomhash":"b065499a172cf35567ae6bf6adc4d429",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857238647
+        }
+    ],
+    "wof:id":857238647,
+    "wof:lastmodified":1464124976,
+    "wof:name":"Don N Yates Chainlink Fencing",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence"
+    ]
+},
+  "bbox": [
+    -111.854014,
+    40.390903,
+    -111.854014,
+    40.390903
+],
+  "geometry": {"coordinates":[-111.85401400000001,40.390903],"type":"Point"}
+}

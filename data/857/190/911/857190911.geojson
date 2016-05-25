@@ -1,0 +1,68 @@
+{
+  "id": 857190911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.822117,40.728168,-111.822117,40.728168",
+    "geom:latitude":40.728168,
+    "geom:longitude":-111.822117,
+    "iso:country":"US",
+    "sg:address":"1916 Texas St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 485 0938",
+    "sg:postcode":"84108",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85858091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YP0fbiCt69PZkJQYxmFZ7_40.728168_-111.822117@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124004,
+    "wof:geomhash":"d22341f31633f28119dbb12b70b3a353",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85858091,
+            "region_id":85688567,
+            "venue_id":857190911
+        }
+    ],
+    "wof:id":857190911,
+    "wof:lastmodified":1464124004,
+    "wof:name":"Jax Knights",
+    "wof:parent_id":85858091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.822117,
+    40.728168,
+    -111.822117,
+    40.728168
+],
+  "geometry": {"coordinates":[-111.82211700000001,40.728168],"type":"Point"}
+}

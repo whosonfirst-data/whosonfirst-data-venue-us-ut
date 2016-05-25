@@ -1,0 +1,75 @@
+{
+  "id": 857424297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.88822,40.755192,-111.88822,40.755192",
+    "geom:latitude":40.755192,
+    "geom:longitude":-111.88822,
+    "iso:country":"US",
+    "sg:address":"630 S State St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 364 6792",
+    "sg:postcode":"84111",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85867259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64YYWR7JxK6W67YUDDr459_40.755192_-111.888220@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129206,
+    "wof:geomhash":"99234e5d651f7e322254bff0fc3109bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85867259,
+            "region_id":85688567,
+            "venue_id":857424297
+        }
+    ],
+    "wof:id":857424297,
+    "wof:lastmodified":1464129206,
+    "wof:name":"Gary Miller's Foreign Car Svc",
+    "wof:parent_id":85867259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -111.88822,
+    40.755192,
+    -111.88822,
+    40.755192
+],
+  "geometry": {"coordinates":[-111.88822,40.755192],"type":"Point"}
+}

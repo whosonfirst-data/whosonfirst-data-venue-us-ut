@@ -1,0 +1,66 @@
+{
+  "id": 857372601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.677905,40.054718,-111.677905,40.054718",
+    "geom:latitude":40.054718,
+    "geom:longitude":-111.677905,
+    "iso:country":"US",
+    "sg:address":"248 W Center St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 423 7395",
+    "sg:postcode":"84653",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2x3mLBI6VkWVwpJhHScEcw_40.054718_-111.677905@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127962,
+    "wof:geomhash":"534cc0d8d0d444b9a016ce6a7c028f4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857372601
+        }
+    ],
+    "wof:id":857372601,
+    "wof:lastmodified":1464127962,
+    "wof:name":"Diamond Grill",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.677905,
+    40.054718,
+    -111.677905,
+    40.054718
+],
+  "geometry": {"coordinates":[-111.677905,40.054718],"type":"Point"}
+}

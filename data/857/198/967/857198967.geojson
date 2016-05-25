@@ -1,0 +1,73 @@
+{
+  "id": 857198967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.946044,41.041035,-111.946044,41.041035",
+    "geom:latitude":41.041035,
+    "geom:longitude":-111.946044,
+    "iso:country":"US",
+    "sg:address":"380 N 400 W",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 479 3200",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KSNsziNVy8fcPBsJJgSwS_41.041035_-111.946044@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124157,
+    "wof:geomhash":"74ef0a3da11e6241507d2013eff01cd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857198967
+        }
+    ],
+    "wof:id":857198967,
+    "wof:lastmodified":1464124157,
+    "wof:name":"Rocky Mountain Home Care",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -111.946044,
+    41.041035,
+    -111.946044,
+    41.041035
+],
+  "geometry": {"coordinates":[-111.946044,41.041035],"type":"Point"}
+}

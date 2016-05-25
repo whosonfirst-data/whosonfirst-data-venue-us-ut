@@ -1,0 +1,77 @@
+{
+  "id": 857118191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.668494,40.250862,-111.668494,40.250862",
+    "geom:latitude":40.250862,
+    "geom:longitude":-111.668494,
+    "iso:country":"US",
+    "sg:address":"551 Columbia Ln",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 374 6911",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "truck",
+        "rent",
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1H4rnKXGwSUc30cxLWxj2S_40.250862_-111.668494@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122415,
+    "wof:geomhash":"2bdb29f8b4eee55cf8754a7a226c1319",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880107,
+            "region_id":85688567,
+            "venue_id":857118191
+        }
+    ],
+    "wof:id":857118191,
+    "wof:lastmodified":1464122415,
+    "wof:name":"U-Haul",
+    "wof:parent_id":85880107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "rent",
+        "trailer"
+    ]
+},
+  "bbox": [
+    -111.668494,
+    40.250862,
+    -111.668494,
+    40.250862
+],
+  "geometry": {"coordinates":[-111.668494,40.250862],"type":"Point"}
+}

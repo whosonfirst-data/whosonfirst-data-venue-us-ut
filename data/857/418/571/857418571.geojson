@@ -1,0 +1,73 @@
+{
+  "id": 857418571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.655086,40.231402,-111.655086,40.231402",
+    "geom:latitude":40.231402,
+    "geom:longitude":-111.655086,
+    "iso:country":"US",
+    "sg:address":"131 S 200 E",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 377 7693",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MBMGrKpJiguGowlw4HBfi_40.231402_-111.655086@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129070,
+    "wof:geomhash":"493286ade8a35b5542a586caaeeddad6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880093,
+            "region_id":85688567,
+            "venue_id":857418571
+        }
+    ],
+    "wof:id":857418571,
+    "wof:lastmodified":1464129070,
+    "wof:name":"Villa Rose Apartments",
+    "wof:parent_id":85880093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -111.655086,
+    40.231402,
+    -111.655086,
+    40.231402
+],
+  "geometry": {"coordinates":[-111.655086,40.231402],"type":"Point"}
+}

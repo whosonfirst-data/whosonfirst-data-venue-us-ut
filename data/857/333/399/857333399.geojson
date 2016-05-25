@@ -1,0 +1,68 @@
+{
+  "id": 857333399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.703157,40.249218,-111.703157,40.249218",
+    "geom:latitude":40.249218,
+    "geom:longitude":-111.703157,
+    "iso:country":"US",
+    "sg:address":"1180 N Geneva Rd",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 370 0121",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3madUgdGhZV9CeSlG5zfdu_40.249218_-111.703157@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127132,
+    "wof:geomhash":"645067d26dd5257b61d33a3385bf839e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880087,
+            "region_id":85688567,
+            "venue_id":857333399
+        }
+    ],
+    "wof:id":857333399,
+    "wof:lastmodified":1464127132,
+    "wof:name":"Utah Lake Equestrian Center LL",
+    "wof:parent_id":85880087,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.703157,
+    40.249218,
+    -111.703157,
+    40.249218
+],
+  "geometry": {"coordinates":[-111.703157,40.249218],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857256029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.606982,37.05882,-113.606982,37.05882",
+    "geom:latitude":37.05882,
+    "geom:longitude":-113.606982,
+    "iso:country":"US",
+    "sg:address":"2977 Jacob Hamblin Dr",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 628 7976",
+    "sg:postcode":"84790",
+    "sg:province":"UT",
+    "sg:tags":[
+        "carrier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727617,
+        102082879,
+        85803851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FOc4RiHPueZDAeUDI7WaU_37.058820_-113.606982@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125403,
+    "wof:geomhash":"271c539b8931ea095d98924a8bb68c5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85803851,
+            "region_id":85688567,
+            "venue_id":857256029
+        }
+    ],
+    "wof:id":857256029,
+    "wof:lastmodified":1464125403,
+    "wof:name":"Regans Agency",
+    "wof:parent_id":85803851,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier"
+    ]
+},
+  "bbox": [
+    -113.606982,
+    37.05882,
+    -113.606982,
+    37.05882
+],
+  "geometry": {"coordinates":[-113.606982,37.05882],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857281647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.788598,40.612113,-111.788598,40.612113",
+    "geom:latitude":40.612113,
+    "geom:longitude":-111.788598,
+    "iso:country":"US",
+    "sg:address":"7618 Quicksilver Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 581 7715",
+    "sg:postcode":"84121",
+    "sg:province":"UT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85843219,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eUqeMDIysTkdUEJo8a8he_40.612113_-111.788598@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125956,
+    "wof:geomhash":"c405e7a3d07083338e18d7a91efd871d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85843219,
+            "region_id":85688567,
+            "venue_id":857281647
+        }
+    ],
+    "wof:id":857281647,
+    "wof:lastmodified":1464125956,
+    "wof:name":"Sheldon Litwin MD",
+    "wof:parent_id":85843219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -111.788598,
+    40.612113,
+    -111.788598,
+    40.612113
+],
+  "geometry": {"coordinates":[-111.78859799999999,40.612113],"type":"Point"}
+}

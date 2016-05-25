@@ -1,0 +1,75 @@
+{
+  "id": 857279179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.853368,40.508367,-111.853368,40.508367",
+    "geom:latitude":40.508367,
+    "geom:longitude":-111.853368,
+    "iso:country":"US",
+    "sg:address":"13366 S 1300 E",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 576 2805",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mormon",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727849,
+        102082877,
+        85802765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0biUfCs7JQhPUyli8zSCvy_40.508367_-111.853368@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125901,
+    "wof:geomhash":"7576e2606086eebf6f9492c69de177a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85802765,
+            "region_id":85688567,
+            "venue_id":857279179
+        }
+    ],
+    "wof:id":857279179,
+    "wof:lastmodified":1464125901,
+    "wof:name":"Corner Canyon 2nd Ward",
+    "wof:parent_id":85802765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mormon",
+        "church"
+    ]
+},
+  "bbox": [
+    -111.853368,
+    40.508367,
+    -111.853368,
+    40.508367
+],
+  "geometry": {"coordinates":[-111.853368,40.508367],"type":"Point"}
+}

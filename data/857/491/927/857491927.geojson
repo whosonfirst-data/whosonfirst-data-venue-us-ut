@@ -1,0 +1,70 @@
+{
+  "id": 857491927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.853211,40.387772,-111.853211,40.387772",
+    "geom:latitude":40.387772,
+    "geom:longitude":-111.853211,
+    "iso:country":"US",
+    "sg:address":"262 UT-73",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/lehi/36022-cafe-el-lago/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 766 9690",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5x6i1b0IUC1V2F6iH4jCHm_40.387772_-111.853211@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130659,
+    "wof:geomhash":"cdad5cdbf70b757b4e0985fd7e4f2e79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857491927
+        }
+    ],
+    "wof:id":857491927,
+    "wof:lastmodified":1464130659,
+    "wof:name":"Cafe El Lago",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -111.853211,
+    40.387772,
+    -111.853211,
+    40.387772
+],
+  "geometry": {"coordinates":[-111.853211,40.387772],"type":"Point"}
+}

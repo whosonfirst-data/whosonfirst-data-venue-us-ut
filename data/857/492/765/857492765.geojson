@@ -1,0 +1,74 @@
+{
+  "id": 857492765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.682523,40.273461,-111.682523,40.273461",
+    "geom:latitude":40.273461,
+    "geom:longitude":-111.682523,
+    "iso:country":"US",
+    "sg:address":"555 University Pkwy",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/provo-orem/118407-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 225 7104",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85830581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IJbawYVGvzosoBHalMDXf_40.273461_-111.682523@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130690,
+    "wof:geomhash":"33af22f6c4443d1a0b97b1ca4ce10b19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85830581,
+            "region_id":85688567,
+            "venue_id":857492765
+        }
+    ],
+    "wof:id":857492765,
+    "wof:lastmodified":1464130690,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85830581,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -111.682523,
+    40.273461,
+    -111.682523,
+    40.273461
+],
+  "geometry": {"coordinates":[-111.682523,40.273461],"type":"Point"}
+}

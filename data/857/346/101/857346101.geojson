@@ -1,0 +1,69 @@
+{
+  "id": 857346101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.667509,40.239765,-111.667509,40.239765",
+    "geom:latitude":40.239765,
+    "geom:longitude":-111.667509,
+    "iso:country":"US",
+    "sg:address":"449 N 500 W",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 374 4955",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:website":"www.provo.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3klvpd3tSBPLIPf5oD7p4j_40.239765_-111.667509@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127392,
+    "wof:geomhash":"ca6e1c4bcd1c7a7c686ee0f59cc6551c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880121,
+            "region_id":85688567,
+            "venue_id":857346101
+        }
+    ],
+    "wof:id":857346101,
+    "wof:lastmodified":1464127392,
+    "wof:name":"Timpanogos Elementary School",
+    "wof:parent_id":85880121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.667509,
+    40.239765,
+    -111.667509,
+    40.239765
+],
+  "geometry": {"coordinates":[-111.667509,40.239765],"type":"Point"}
+}

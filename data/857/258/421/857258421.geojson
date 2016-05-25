@@ -1,0 +1,71 @@
+{
+  "id": 857258421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.837326,41.733413,-111.837326,41.733413",
+    "geom:latitude":41.733413,
+    "geom:longitude":-111.837326,
+    "iso:country":"US",
+    "sg:address":"11 W 100 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 716 8373",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73to7kA2TtTU9Jnbit2pvy_41.733413_-111.837326@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125462,
+    "wof:geomhash":"3fe5bf1027692da15360178f1cf23d06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857258421
+        }
+    ],
+    "wof:id":857258421,
+    "wof:lastmodified":1464125462,
+    "wof:name":"Cache County Victim Svcs Ctr",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [
+    -111.837326,
+    41.733413,
+    -111.837326,
+    41.733413
+],
+  "geometry": {"coordinates":[-111.837326,41.733413],"type":"Point"}
+}

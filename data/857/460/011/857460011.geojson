@@ -1,0 +1,75 @@
+{
+  "id": 857460011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.814964,40.54094,-111.814964,40.54094",
+    "geom:latitude":40.54094,
+    "geom:longitude":-111.814964,
+    "iso:country":"US",
+    "sg:address":"11581 Woodhampton Dr",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 859 8141",
+    "sg:postcode":"84092",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mfg",
+        "substance",
+        "health",
+        "diagnostic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85825243,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VPhXcOoXqjJ4syZmPzU3o_40.540940_-111.814964@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129950,
+    "wof:geomhash":"6f67c8d77101bc027e58d506b5302a1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85825243,
+            "region_id":85688567,
+            "venue_id":857460011
+        }
+    ],
+    "wof:id":857460011,
+    "wof:lastmodified":1464129950,
+    "wof:name":"Inertia",
+    "wof:parent_id":85825243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "substance",
+        "health",
+        "diagnostic"
+    ]
+},
+  "bbox": [
+    -111.814964,
+    40.54094,
+    -111.814964,
+    40.54094
+],
+  "geometry": {"coordinates":[-111.814964,40.54094],"type":"Point"}
+}

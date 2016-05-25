@@ -1,0 +1,71 @@
+{
+  "id": 857280035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.678863,40.308962,-111.678863,40.308962",
+    "geom:latitude":40.308962,
+    "geom:longitude":-111.678863,
+    "iso:country":"US",
+    "sg:address":"673 E 640 N",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 225 1315",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GzktqicKLpou8V1RyxRPW_40.308962_-111.678863@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125921,
+    "wof:geomhash":"5fb7fcb8cb22074a73eb89beb9503925",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857280035
+        }
+    ],
+    "wof:id":857280035,
+    "wof:lastmodified":1464125921,
+    "wof:name":"Baker & Sons Electric",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.678863,
+    40.308962,
+    -111.678863,
+    40.308962
+],
+  "geometry": {"coordinates":[-111.67886300000001,40.308962],"type":"Point"}
+}

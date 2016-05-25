@@ -1,0 +1,73 @@
+{
+  "id": 857186841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.979088,40.727658,-111.979088,40.727658",
+    "geom:latitude":40.727658,
+    "geom:longitude":-111.979088,
+    "iso:country":"US",
+    "sg:address":"3661 W 1987 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 975 1100",
+    "sg:postcode":"84104",
+    "sg:province":"UT",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85844521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60r4WKxe5fL9guLP0Ah7qr_40.727658_-111.979088@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123929,
+    "wof:geomhash":"b70bc8f49f1ac4e160a9b935db493598",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85844521,
+            "region_id":85688567,
+            "venue_id":857186841
+        }
+    ],
+    "wof:id":857186841,
+    "wof:lastmodified":1464123929,
+    "wof:name":"Utility Mapping Svc UMS",
+    "wof:parent_id":85844521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -111.979088,
+    40.727658,
+    -111.979088,
+    40.727658
+],
+  "geometry": {"coordinates":[-111.979088,40.727658],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857289673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.67874,40.308269,-111.67874,40.308269",
+    "geom:latitude":40.308269,
+    "geom:longitude":-111.67874,
+    "iso:country":"US",
+    "sg:address":"699 E 600 N",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 636 5992",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "breeder",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lRYj6SItIC9b1zXbWUg0n_40.308269_-111.678740@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126144,
+    "wof:geomhash":"a77dc4415d08cfe8bc15c250c0f33770",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857289673
+        }
+    ],
+    "wof:id":857289673,
+    "wof:lastmodified":1464126144,
+    "wof:name":"Storm Aviary & Bird Rescue",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breeder",
+        "animal"
+    ]
+},
+  "bbox": [
+    -111.67874,
+    40.308269,
+    -111.67874,
+    40.308269
+],
+  "geometry": {"coordinates":[-111.67874,40.308269],"type":"Point"}
+}

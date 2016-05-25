@@ -1,0 +1,75 @@
+{
+  "id": 857087129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.894933,40.638507,-111.894933,40.638507",
+    "geom:latitude":40.638507,
+    "geom:longitude":-111.894933,
+    "iso:country":"US",
+    "sg:address":"100 W 6100 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 264 4047",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mormon",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728051,
+        102082877,
+        85803901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44e8dwTs2Q4TMrtYAlHhKd_40.638507_-111.894933@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121584,
+    "wof:geomhash":"5fae824138885f696320bda2caee90ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85803901,
+            "region_id":85688567,
+            "venue_id":857087129
+        }
+    ],
+    "wof:id":857087129,
+    "wof:lastmodified":1464121584,
+    "wof:name":"Murray Nineteenth Ward",
+    "wof:parent_id":85803901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mormon",
+        "church"
+    ]
+},
+  "bbox": [
+    -111.894933,
+    40.638507,
+    -111.894933,
+    40.638507
+],
+  "geometry": {"coordinates":[-111.89493299999999,40.638507],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857227173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.94731,41.311449,-111.94731,41.311449",
+    "geom:latitude":41.311449,
+    "geom:longitude":-111.94731,
+    "iso:country":"US",
+    "sg:address":"2798 N 1050 E",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 941 1205",
+    "sg:postcode":"84414",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85824645,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FsO8s360AQqJALoVuKvvl_41.311449_-111.947310@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124753,
+    "wof:geomhash":"d70f726475bd03cef4ec948b9920798a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85824645,
+            "region_id":85688567,
+            "venue_id":857227173
+        }
+    ],
+    "wof:id":857227173,
+    "wof:lastmodified":1464124753,
+    "wof:name":"M B Mechanical Inc",
+    "wof:parent_id":85824645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.94731,
+    41.311449,
+    -111.94731,
+    41.311449
+],
+  "geometry": {"coordinates":[-111.94731,41.311449],"type":"Point"}
+}

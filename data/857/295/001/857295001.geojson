@@ -1,0 +1,77 @@
+{
+  "id": 857295001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.833556,41.799639,-111.833556,41.799639",
+    "geom:latitude":41.799639,
+    "geom:longitude":-111.833556,
+    "iso:country":"US",
+    "sg:address":"3685 N Hwy 91",
+    "sg:city":"Hyde Park",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 563 6267",
+    "sg:postcode":"84318",
+    "sg:province":"UT",
+    "sg:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06ofFfkhlSZA3yIoRfV2nP_41.799639_-111.833556@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126292,
+    "wof:geomhash":"59fd732300dfd47a57ad258f985af4a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857295001
+        }
+    ],
+    "wof:id":857295001,
+    "wof:lastmodified":1464126292,
+    "wof:name":"J M Mechanical",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.833556,
+    41.799639,
+    -111.833556,
+    41.799639
+],
+  "geometry": {"coordinates":[-111.833556,41.799639],"type":"Point"}
+}

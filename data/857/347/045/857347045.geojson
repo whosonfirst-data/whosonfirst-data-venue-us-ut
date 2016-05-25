@@ -1,0 +1,73 @@
+{
+  "id": 857347045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.651877,40.282559,-111.651877,40.282559",
+    "geom:latitude":40.282559,
+    "geom:longitude":-111.651877,
+    "iso:country":"US",
+    "sg:address":"3707 N Canyon Rd",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 225 7111",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85817395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wcqJVQHUlw6h8vedGznAe_40.282559_-111.651877@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127419,
+    "wof:geomhash":"1741647298491ac0a5610ef8ee18f827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85817395,
+            "region_id":85688567,
+            "venue_id":857347045
+        }
+    ],
+    "wof:id":857347045,
+    "wof:lastmodified":1464127419,
+    "wof:name":"Evan L Perry DDS",
+    "wof:parent_id":85817395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -111.651877,
+    40.282559,
+    -111.651877,
+    40.282559
+],
+  "geometry": {"coordinates":[-111.651877,40.282559],"type":"Point"}
+}

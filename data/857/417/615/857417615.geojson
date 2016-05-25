@@ -1,0 +1,71 @@
+{
+  "id": 857417615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.667914,40.311261,-111.667914,40.311261",
+    "geom:latitude":40.311261,
+    "geom:longitude":-111.667914,
+    "iso:country":"US",
+    "sg:address":"731 N 1180 E",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 229 1772",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05DYyuSQZ3TT9WYnFp15yp_40.311261_-111.667914@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129049,
+    "wof:geomhash":"f8af5d2aaa0a24a7e3978a27a6f4e4ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857417615
+        }
+    ],
+    "wof:id":857417615,
+    "wof:lastmodified":1464129049,
+    "wof:name":"Olsen Apts",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -111.667914,
+    40.311261,
+    -111.667914,
+    40.311261
+],
+  "geometry": {"coordinates":[-111.667914,40.311261],"type":"Point"}
+}

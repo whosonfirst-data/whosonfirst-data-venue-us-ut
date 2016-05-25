@@ -1,0 +1,68 @@
+{
+  "id": 857193749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.890443,40.62138,-111.890443,40.62138",
+    "geom:latitude":40.62138,
+    "geom:longitude":-111.890443,
+    "iso:country":"US",
+    "sg:address":"7141 S State St",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 256 0111",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728051,
+        102082877,
+        85851957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JeE1hK0KcbtojINicxYf8_40.621380_-111.890443@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124055,
+    "wof:geomhash":"87ddf40989607c71f7f49039de577e8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85851957,
+            "region_id":85688567,
+            "venue_id":857193749
+        }
+    ],
+    "wof:id":857193749,
+    "wof:lastmodified":1464124055,
+    "wof:name":"Spinal Rehab Specialists",
+    "wof:parent_id":85851957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.890443,
+    40.62138,
+    -111.890443,
+    40.62138
+],
+  "geometry": {"coordinates":[-111.890443,40.62138],"type":"Point"}
+}

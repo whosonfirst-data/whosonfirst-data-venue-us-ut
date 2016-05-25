@@ -1,0 +1,77 @@
+{
+  "id": 857314741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.665838,40.245748,-111.665838,40.245748",
+    "geom:latitude":40.245748,
+    "geom:longitude":-111.665838,
+    "iso:country":"US",
+    "sg:address":"394 W 880 N",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 375 8978",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "ultrasound",
+        "exam",
+        "diagnostic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5e38xI1nzEBj9OOVqywZq8_40.245748_-111.665838@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126717,
+    "wof:geomhash":"5fadedfcfb6e915e7e1e83540ccd09d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880107,
+            "region_id":85688567,
+            "venue_id":857314741
+        }
+    ],
+    "wof:id":857314741,
+    "wof:lastmodified":1464126717,
+    "wof:name":"Utah Valley Obstetrical Ultras",
+    "wof:parent_id":85880107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ultrasound",
+        "exam",
+        "diagnostic"
+    ]
+},
+  "bbox": [
+    -111.665838,
+    40.245748,
+    -111.665838,
+    40.245748
+],
+  "geometry": {"coordinates":[-111.66583799999999,40.245748],"type":"Point"}
+}

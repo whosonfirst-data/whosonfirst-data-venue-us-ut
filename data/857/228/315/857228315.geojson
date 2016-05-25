@@ -1,0 +1,77 @@
+{
+  "id": 857228315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.861063,40.725969,-111.861063,40.725969",
+    "geom:latitude":40.725969,
+    "geom:longitude":-111.861063,
+    "iso:country":"US",
+    "sg:address":"2007 McClelland St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 486 3652",
+    "sg:postcode":"84105",
+    "sg:province":"UT",
+    "sg:tags":[
+        "piano",
+        "moving",
+        "organ"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85858269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kEhUXAqcI96zdIclezwjM_40.725969_-111.861063@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124777,
+    "wof:geomhash":"57e50cb595211f2a66a2df2fb61de728",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85858269,
+            "region_id":85688567,
+            "venue_id":857228315
+        }
+    ],
+    "wof:id":857228315,
+    "wof:lastmodified":1464124777,
+    "wof:name":"Piano Associates",
+    "wof:parent_id":85858269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "piano",
+        "moving",
+        "organ"
+    ]
+},
+  "bbox": [
+    -111.861063,
+    40.725969,
+    -111.861063,
+    40.725969
+],
+  "geometry": {"coordinates":[-111.861063,40.725969],"type":"Point"}
+}

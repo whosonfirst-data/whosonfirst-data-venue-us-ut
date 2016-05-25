@@ -1,0 +1,71 @@
+{
+  "id": 857444235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.808597,41.763793,-111.808597,41.763793",
+    "geom:latitude":41.763793,
+    "geom:longitude":-111.808597,
+    "iso:country":"US",
+    "sg:address":"1668 N 1000 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 5996",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3moHYp3Z5XWkBQBCp35qC8_41.763793_-111.808597@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129643,
+    "wof:geomhash":"49f21581536d2fb454b54fa79471681e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857444235
+        }
+    ],
+    "wof:id":857444235,
+    "wof:lastmodified":1464129643,
+    "wof:name":"Wong Second Family Ltd PA",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -111.808597,
+    41.763793,
+    -111.808597,
+    41.763793
+],
+  "geometry": {"coordinates":[-111.80859700000001,41.763793],"type":"Point"}
+}

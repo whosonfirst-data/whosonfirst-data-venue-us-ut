@@ -1,0 +1,69 @@
+{
+  "id": 857333769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.042577,41.063997,-112.042577,41.063997",
+    "geom:latitude":41.063997,
+    "geom:longitude":-112.042577,
+    "iso:country":"US",
+    "sg:address":"3428 S 875 W",
+    "sg:city":"Syracuse",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 773 7969",
+    "sg:postcode":"84075",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85868169,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ySli7y2JfZvc9vXTT2A08_41.063997_-112.042577@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127139,
+    "wof:geomhash":"6864859583b6f02ad00c609bd6b74e9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "neighbourhood_id":85868169,
+            "region_id":85688567,
+            "venue_id":857333769
+        }
+    ],
+    "wof:id":857333769,
+    "wof:lastmodified":1464127139,
+    "wof:name":"Summit Mechanical Inc",
+    "wof:parent_id":85868169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -112.042577,
+    41.063997,
+    -112.042577,
+    41.063997
+],
+  "geometry": {"coordinates":[-112.04257699999999,41.063997],"type":"Point"}
+}

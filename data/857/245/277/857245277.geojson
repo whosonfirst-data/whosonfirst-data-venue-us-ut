@@ -1,0 +1,69 @@
+{
+  "id": 857245277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.902221,40.703805,-111.902221,40.703805",
+    "geom:latitude":40.703805,
+    "geom:longitude":-111.902221,
+    "iso:country":"US",
+    "sg:address":"369 W Gregson Ave",
+    "sg:city":"South Salt Lake",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 487 0801",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:website":"www.metchemtesting.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85805797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2U4qojWlg3Ar1g2G2iKgyz_40.703805_-111.902221@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125144,
+    "wof:geomhash":"bf1cabb4f139f5d6d4d02d3e10d62153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85805797,
+            "region_id":85688567,
+            "venue_id":857245277
+        }
+    ],
+    "wof:id":857245277,
+    "wof:lastmodified":1464125144,
+    "wof:name":"Met-Chem Testing Laboratories",
+    "wof:parent_id":85805797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.902221,
+    40.703805,
+    -111.902221,
+    40.703805
+],
+  "geometry": {"coordinates":[-111.902221,40.703805],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857443233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.655058,40.235843,-111.655058,40.235843",
+    "geom:latitude":40.235843,
+    "geom:longitude":-111.655058,
+    "iso:country":"US",
+    "sg:address":"142 N 200 E",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 374 6422",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor",
+        "hanging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36v2ap8izEsRK3NIrR99Ql_40.235843_-111.655058@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129626,
+    "wof:geomhash":"964598dd252c47280aa51d9f0691b7e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880065,
+            "region_id":85688567,
+            "venue_id":857443233
+        }
+    ],
+    "wof:id":857443233,
+    "wof:lastmodified":1464129626,
+    "wof:name":"Clean America",
+    "wof:parent_id":85880065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "hanging"
+    ]
+},
+  "bbox": [
+    -111.655058,
+    40.235843,
+    -111.655058,
+    40.235843
+],
+  "geometry": {"coordinates":[-111.655058,40.235843],"type":"Point"}
+}

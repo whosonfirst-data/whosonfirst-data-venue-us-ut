@@ -1,0 +1,75 @@
+{
+  "id": 857141633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.653094,40.282411,-111.653094,40.282411",
+    "geom:latitude":40.282411,
+    "geom:longitude":-111.653094,
+    "iso:country":"US",
+    "sg:address":"280 E 3700 N",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 225 2411",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85817395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Bt15U7ePGWwynz8wZCVo5_40.282411_-111.653094@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122932,
+    "wof:geomhash":"fdee865f9c08f79d98c2547edb3067dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85817395,
+            "region_id":85688567,
+            "venue_id":857141633
+        }
+    ],
+    "wof:id":857141633,
+    "wof:lastmodified":1464122932,
+    "wof:name":"John Edge Booth Farm LLC",
+    "wof:parent_id":85817395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -111.653094,
+    40.282411,
+    -111.653094,
+    40.282411
+],
+  "geometry": {"coordinates":[-111.653094,40.282411],"type":"Point"}
+}

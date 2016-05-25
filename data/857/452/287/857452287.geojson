@@ -1,0 +1,73 @@
+{
+  "id": 857452287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.86148,41.726907,-111.86148,41.726907",
+    "geom:latitude":41.726907,
+    "geom:longitude":-111.86148,
+    "iso:country":"US",
+    "sg:address":"130 Thomas Ct",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 232 2641",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iHth7SFJTlvEvZV0g2XgK_41.726907_-111.861480@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129804,
+    "wof:geomhash":"cc11cdf394d489f12d53597c3aaa295d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857452287
+        }
+    ],
+    "wof:id":857452287,
+    "wof:lastmodified":1464129804,
+    "wof:name":"Juan Paz",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -111.86148,
+    41.726907,
+    -111.86148,
+    41.726907
+],
+  "geometry": {"coordinates":[-111.86148,41.726907],"type":"Point"}
+}

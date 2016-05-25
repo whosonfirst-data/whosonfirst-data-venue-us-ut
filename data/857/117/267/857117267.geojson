@@ -1,0 +1,71 @@
+{
+  "id": 857117267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.679362,40.048679,-111.679362,40.048679",
+    "geom:latitude":40.048679,
+    "geom:longitude":-111.679362,
+    "iso:country":"US",
+    "sg:address":"385 S 300 W",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 423 1111",
+    "sg:postcode":"84653",
+    "sg:province":"UT",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mb0r8Z1ZVCYxM3cHb1bxM_40.048679_-111.679362@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122395,
+    "wof:geomhash":"bf32d71c9553d65c4b0dbef2261f0cee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857117267
+        }
+    ],
+    "wof:id":857117267,
+    "wof:lastmodified":1464122395,
+    "wof:name":"Double V Enterprises",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -111.679362,
+    40.048679,
+    -111.679362,
+    40.048679
+],
+  "geometry": {"coordinates":[-111.679362,40.048679],"type":"Point"}
+}

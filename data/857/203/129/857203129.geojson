@@ -1,0 +1,71 @@
+{
+  "id": 857203129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.018155,40.625714,-112.018155,40.625714",
+    "geom:latitude":40.625714,
+    "geom:longitude":-112.018155,
+    "iso:country":"US",
+    "sg:address":"6850 Clernates Dr",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 964 7338",
+    "sg:postcode":"84084",
+    "sg:province":"UT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728061,
+        102082877,
+        85854369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2op7vmrjJTDNzG2C60iPWe_40.625714_-112.018155@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124238,
+    "wof:geomhash":"d69a92c3980992c7d381c7ff807f32c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85854369,
+            "region_id":85688567,
+            "venue_id":857203129
+        }
+    ],
+    "wof:id":857203129,
+    "wof:lastmodified":1464124238,
+    "wof:name":"Church Of Jesus Christ Of Lds",
+    "wof:parent_id":85854369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -112.018155,
+    40.625714,
+    -112.018155,
+    40.625714
+],
+  "geometry": {"coordinates":[-112.01815499999999,40.625714],"type":"Point"}
+}

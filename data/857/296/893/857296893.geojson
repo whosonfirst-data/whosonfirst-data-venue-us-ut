@@ -1,0 +1,77 @@
+{
+  "id": 857296893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.093953,41.074673,-112.093953,41.074673",
+    "geom:latitude":41.074673,
+    "geom:longitude":-112.093953,
+    "iso:country":"US",
+    "sg:address":"3807 W 2700 S",
+    "sg:city":"Syracuse",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 825 2351",
+    "sg:postcode":"84075",
+    "sg:province":"UT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727889,
+        102083563,
+        85804563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hAZwvkwhw0m69zkphG7OB_41.074673_-112.093953@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126342,
+    "wof:geomhash":"62f9b7d403f75f0ce1b238fc9c0f1632",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727889,
+            "neighbourhood_id":85804563,
+            "region_id":85688567,
+            "venue_id":857296893
+        }
+    ],
+    "wof:id":857296893,
+    "wof:lastmodified":1464126342,
+    "wof:name":"Seifert Trucking LLC",
+    "wof:parent_id":85804563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -112.093953,
+    41.074673,
+    -112.093953,
+    41.074673
+],
+  "geometry": {"coordinates":[-112.093953,41.074673],"type":"Point"}
+}

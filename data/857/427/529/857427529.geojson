@@ -1,0 +1,73 @@
+{
+  "id": 857427529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.822302,41.729528,-111.822302,41.729528",
+    "geom:latitude":41.729528,
+    "geom:longitude":-111.822302,
+    "iso:country":"US",
+    "sg:address":"89 S 500 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 755 5171",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76TtsP1F8Muz2cmBtuWT3r_41.729528_-111.822302@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129288,
+    "wof:geomhash":"e8b8fa7aa00b2750654e84372e3d052b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857427529
+        }
+    ],
+    "wof:id":857427529,
+    "wof:lastmodified":1464129288,
+    "wof:name":"Family Center",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -111.822302,
+    41.729528,
+    -111.822302,
+    41.729528
+],
+  "geometry": {"coordinates":[-111.82230199999999,41.729528],"type":"Point"}
+}

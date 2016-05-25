@@ -1,0 +1,73 @@
+{
+  "id": 857233731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.966405,37.003633,-112.966405,37.003633",
+    "geom:latitude":37.003633,
+    "geom:longitude":-112.966405,
+    "iso:country":"US",
+    "sg:address":"380 Utah Ave",
+    "sg:city":"Hildale",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 874 2387",
+    "sg:postcode":"84784",
+    "sg:province":"UT",
+    "sg:tags":[
+        "machine",
+        "sewing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727619,
+        102082879,
+        85822405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qCxjsueiGyyNLZ8fddT37_37.003633_-112.966405@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124874,
+    "wof:geomhash":"d0d3ab42d728ca280cec36cf6d7f39b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727619,
+            "neighbourhood_id":85822405,
+            "region_id":85688567,
+            "venue_id":857233731
+        }
+    ],
+    "wof:id":857233731,
+    "wof:lastmodified":1464124874,
+    "wof:name":"Young Designs & Sharpening",
+    "wof:parent_id":85822405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "sewing"
+    ]
+},
+  "bbox": [
+    -112.966405,
+    37.003633,
+    -112.966405,
+    37.003633
+],
+  "geometry": {"coordinates":[-112.96640499999999,37.003633],"type":"Point"}
+}

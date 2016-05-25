@@ -1,0 +1,75 @@
+{
+  "id": 857431065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.900788,40.629806,-111.900788,40.629806",
+    "geom:latitude":40.629806,
+    "geom:longitude":-111.900788,
+    "iso:country":"US",
+    "sg:address":"6623 S 380 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 261 5801",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728051,
+        102082877,
+        85803901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2x4yNzdF9U430QXrExYyQg_40.629806_-111.900788@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129367,
+    "wof:geomhash":"14c571b9b9de38ccf1b380aca42ef717",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85803901,
+            "region_id":85688567,
+            "venue_id":857431065
+        }
+    ],
+    "wof:id":857431065,
+    "wof:lastmodified":1464129367,
+    "wof:name":"Jacobsen Construction",
+    "wof:parent_id":85803901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.900788,
+    40.629806,
+    -111.900788,
+    40.629806
+],
+  "geometry": {"coordinates":[-111.90078800000001,40.629806],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857266919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.91397,40.767163,-111.91397,40.767163",
+    "geom:latitude":40.767163,
+    "geom:longitude":-111.91397,
+    "iso:country":"US",
+    "sg:address":"50 S 800 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 359 4525",
+    "sg:postcode":"84104",
+    "sg:province":"UT",
+    "sg:tags":[
+        "hostel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85856843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61BaoWx1WpkFGGqkpu1gRi_40.767163_-111.913970@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125628,
+    "wof:geomhash":"d36bc7eae31bb4a109eccf41e6f40c7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85856843,
+            "region_id":85688567,
+            "venue_id":857266919
+        }
+    ],
+    "wof:id":857266919,
+    "wof:lastmodified":1464125628,
+    "wof:name":"Hostel Utah Intl",
+    "wof:parent_id":85856843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hostel"
+    ]
+},
+  "bbox": [
+    -111.91397,
+    40.767163,
+    -111.91397,
+    40.767163
+],
+  "geometry": {"coordinates":[-111.91397000000001,40.767163],"type":"Point"}
+}

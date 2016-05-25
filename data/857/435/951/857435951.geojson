@@ -1,0 +1,73 @@
+{
+  "id": 857435951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.712357,40.332053,-111.712357,40.332053",
+    "geom:latitude":40.332053,
+    "geom:longitude":-111.712357,
+    "iso:country":"US",
+    "sg:address":"1950 N State St",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 0999",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eIEpC8Dttnewaf8Rx79Hh_40.332053_-111.712357@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129485,
+    "wof:geomhash":"3c60814f3d5873268b7891b02b7b6ccb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":857435951
+        }
+    ],
+    "wof:id":857435951,
+    "wof:lastmodified":1464129485,
+    "wof:name":"Allen's Super Save Markets",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -111.712357,
+    40.332053,
+    -111.712357,
+    40.332053
+],
+  "geometry": {"coordinates":[-111.712357,40.332053],"type":"Point"}
+}

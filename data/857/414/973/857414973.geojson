@@ -1,0 +1,73 @@
+{
+  "id": 857414973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.86344,41.735632,-111.86344,41.735632",
+    "geom:latitude":41.735632,
+    "geom:longitude":-111.86344,
+    "iso:country":"US",
+    "sg:address":"1180 W 200 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 755 9234",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Xj3UtRaCeP3fnqq42OwnD_41.735632_-111.863440@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128974,
+    "wof:geomhash":"c514eaf1ab6aee5e095bda2bf38c06df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857414973
+        }
+    ],
+    "wof:id":857414973,
+    "wof:lastmodified":1464128974,
+    "wof:name":"Discount Rent-A-Car",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -111.86344,
+    41.735632,
+    -111.86344,
+    41.735632
+],
+  "geometry": {"coordinates":[-111.86344,41.735632],"type":"Point"}
+}

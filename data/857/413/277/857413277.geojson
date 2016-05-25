@@ -1,0 +1,73 @@
+{
+  "id": 857413277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.916284,41.031015,-111.916284,41.031015",
+    "geom:latitude":41.031015,
+    "geom:longitude":-111.916284,
+    "iso:country":"US",
+    "sg:address":"150 Edgehill Dr",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 544 3232",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pOGHzC1aQyRB2Y21WdZPz_41.031015_-111.916284@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128929,
+    "wof:geomhash":"6e0a30e65f3f37cf60d7a1df85e11f9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857413277
+        }
+    ],
+    "wof:id":857413277,
+    "wof:lastmodified":1464128929,
+    "wof:name":"Classic Construction Co Inc",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.916284,
+    41.031015,
+    -111.916284,
+    41.031015
+],
+  "geometry": {"coordinates":[-111.916284,41.031015],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857380435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.000407,41.088387,-112.000407,41.088387",
+    "geom:latitude":41.088387,
+    "geom:longitude":-112.000407,
+    "iso:country":"US",
+    "sg:address":"1860 N Main St",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 773 8723",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2p1ufeclB9W6uRAZIsbReD_41.088387_-112.000407@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128134,
+    "wof:geomhash":"3a6d7162ed370b068892932a786b0202",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857380435
+        }
+    ],
+    "wof:id":857380435,
+    "wof:lastmodified":1464128134,
+    "wof:name":"Sherwin-Williams Paints",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -112.000407,
+    41.088387,
+    -112.000407,
+    41.088387
+],
+  "geometry": {"coordinates":[-112.000407,41.088387],"type":"Point"}
+}

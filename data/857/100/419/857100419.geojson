@@ -1,0 +1,80 @@
+{
+  "id": 857100419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.799651,41.730524,-111.799651,41.730524",
+    "geom:latitude":41.730524,
+    "geom:longitude":-111.799651,
+    "iso:country":"US",
+    "sg:address":"67 S 1400 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 2854",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "designer",
+        "lead",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FMrN6e8Nv7I67RXzILzSn_41.730524_-111.799651@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121920,
+    "wof:geomhash":"f1d21b4fb75dec144ea8ca3df3a3dcd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857100419
+        }
+    ],
+    "wof:id":857100419,
+    "wof:lastmodified":1464121920,
+    "wof:name":"J West Designs",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "designer",
+        "lead",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.799651,
+    41.730524,
+    -111.799651,
+    41.730524
+],
+  "geometry": {"coordinates":[-111.799651,41.730524],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 857424323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.902906,40.526012,-111.902906,40.526012",
+    "geom:latitude":40.526012,
+    "geom:longitude":-111.902906,
+    "iso:country":"US",
+    "sg:address":"12351 Gateway Park Pl",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 571 9991",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727849,
+        102082877,
+        85823005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CMa5JRuDcTL0pb0HUX6xa_40.526012_-111.902906@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129207,
+    "wof:geomhash":"54578d7ce9f10a01ccb7942f945697b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85823005,
+            "region_id":85688567,
+            "venue_id":857424323
+        }
+    ],
+    "wof:id":857424323,
+    "wof:lastmodified":1464129207,
+    "wof:name":"Clearplex",
+    "wof:parent_id":85823005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ]
+},
+  "bbox": [
+    -111.902906,
+    40.526012,
+    -111.902906,
+    40.526012
+],
+  "geometry": {"coordinates":[-111.902906,40.526012],"type":"Point"}
+}

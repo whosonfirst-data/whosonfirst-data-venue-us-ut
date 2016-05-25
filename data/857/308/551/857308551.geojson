@@ -1,0 +1,68 @@
+{
+  "id": 857308551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.881835,40.518151,-111.881835,40.518151",
+    "geom:latitude":40.518151,
+    "geom:longitude":-111.881835,
+    "iso:country":"US",
+    "sg:address":"12838 S 300 E",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 523 1965",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727849,
+        102082877,
+        85815185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kMzD4KvyQEoT93Pu4YXjt_40.518151_-111.881835@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126588,
+    "wof:geomhash":"3bfb7199b6a2cc66235476151002922f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85815185,
+            "region_id":85688567,
+            "venue_id":857308551
+        }
+    ],
+    "wof:id":857308551,
+    "wof:lastmodified":1464126588,
+    "wof:name":"Alpine Glass Co",
+    "wof:parent_id":85815185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.881835,
+    40.518151,
+    -111.881835,
+    40.518151
+],
+  "geometry": {"coordinates":[-111.881835,40.518151],"type":"Point"}
+}

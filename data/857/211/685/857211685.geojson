@@ -1,0 +1,73 @@
+{
+  "id": 857211685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.805582,41.805315,-111.805582,41.805315",
+    "geom:latitude":41.805315,
+    "geom:longitude":-111.805582,
+    "iso:country":"US",
+    "sg:address":"355 N 575 E",
+    "sg:city":"Hyde Park",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 563 6596",
+    "sg:postcode":"84318",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house",
+        "construction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uvDEalt2FYMaku5MPidmv_41.805315_-111.805582@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124433,
+    "wof:geomhash":"56043f654e9509a3b638215aab079523",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857211685
+        }
+    ],
+    "wof:id":857211685,
+    "wof:lastmodified":1464124433,
+    "wof:name":"Continental Realty",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "construction"
+    ]
+},
+  "bbox": [
+    -111.805582,
+    41.805315,
+    -111.805582,
+    41.805315
+],
+  "geometry": {"coordinates":[-111.805582,41.805315],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857464675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.873776,40.7887,-111.873776,40.7887",
+    "geom:latitude":40.7887,
+    "geom:longitude":-111.873776,
+    "iso:country":"US",
+    "sg:address":"460 Northmont Way",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 359 2433",
+    "sg:postcode":"84103",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85837721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rJW5e55z5uWfaPKdbpqdP_40.788700_-111.873776@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130055,
+    "wof:geomhash":"bc55ce82511440bc970bfc64eecca75a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85837721,
+            "region_id":85688567,
+            "venue_id":857464675
+        }
+    ],
+    "wof:id":857464675,
+    "wof:lastmodified":1464130055,
+    "wof:name":"Skolnick Foundation",
+    "wof:parent_id":85837721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.873776,
+    40.7887,
+    -111.873776,
+    40.7887
+],
+  "geometry": {"coordinates":[-111.87377600000001,40.7887],"type":"Point"}
+}

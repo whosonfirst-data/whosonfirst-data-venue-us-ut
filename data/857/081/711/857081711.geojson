@@ -1,0 +1,80 @@
+{
+  "id": 857081711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.84618,40.388037,-111.84618,40.388037",
+    "geom:latitude":40.388037,
+    "geom:longitude":-111.84618,
+    "iso:country":"US",
+    "sg:address":"127 E Main St",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 768 3201",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "salon",
+        "fitness",
+        "physical",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_075oBai9I2SHmG5GfcrE06_40.388037_-111.846180@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121443,
+    "wof:geomhash":"5437bfd293ab964247f9f11e53aac4c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857081711
+        }
+    ],
+    "wof:id":857081711,
+    "wof:lastmodified":1464121443,
+    "wof:name":"Savage Tan",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon",
+        "fitness",
+        "physical",
+        "facility"
+    ]
+},
+  "bbox": [
+    -111.84618,
+    40.388037,
+    -111.84618,
+    40.388037
+],
+  "geometry": {"coordinates":[-111.84618,40.388037],"type":"Point"}
+}

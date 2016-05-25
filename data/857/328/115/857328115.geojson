@@ -1,0 +1,73 @@
+{
+  "id": 857328115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.638756,40.282738,-111.638756,40.282738",
+    "geom:latitude":40.282738,
+    "geom:longitude":-111.638756,
+    "iso:country":"US",
+    "sg:address":"3732 Little Rock Dr",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 229 1217",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85817395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VPCaY7AVy9rAulenJFjCO_40.282738_-111.638756@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127014,
+    "wof:geomhash":"8cb4c3534ab2a3c64ca435578f8f122e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85817395,
+            "region_id":85688567,
+            "venue_id":857328115
+        }
+    ],
+    "wof:id":857328115,
+    "wof:lastmodified":1464127014,
+    "wof:name":"Vanguard Leasing",
+    "wof:parent_id":85817395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing"
+    ]
+},
+  "bbox": [
+    -111.638756,
+    40.282738,
+    -111.638756,
+    40.282738
+],
+  "geometry": {"coordinates":[-111.638756,40.282738],"type":"Point"}
+}

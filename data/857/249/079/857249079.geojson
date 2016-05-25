@@ -1,0 +1,73 @@
+{
+  "id": 857249079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.706204,40.322465,-111.706204,40.322465",
+    "geom:latitude":40.322465,
+    "geom:longitude":-111.706204,
+    "iso:country":"US",
+    "sg:address":"1363 N State St",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 762 0255",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aIQa1FLNSbXuX2bkPTlh9_40.322465_-111.706204@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125223,
+    "wof:geomhash":"5660cad5f38126d390d57b295fa1d124",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":857249079
+        }
+    ],
+    "wof:id":857249079,
+    "wof:lastmodified":1464125223,
+    "wof:name":"Sara Lee Bakery Group",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -111.706204,
+    40.322465,
+    -111.706204,
+    40.322465
+],
+  "geometry": {"coordinates":[-111.706204,40.322465],"type":"Point"}
+}

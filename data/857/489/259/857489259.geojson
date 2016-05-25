@@ -1,0 +1,68 @@
+{
+  "id": 857489259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.974411,41.068539,-111.974411,41.068539",
+    "geom:latitude":41.068539,
+    "geom:longitude":-111.974411,
+    "iso:country":"US",
+    "sg:address":"505 N Main St",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 547 0088",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sBe4XAEZJXcRHbv9fd0Ce_41.068497_-111.974494@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464130569,
+    "wof:geomhash":"0ff26ce900f438f5b63db85af8c900ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857489259
+        }
+    ],
+    "wof:id":857489259,
+    "wof:lastmodified":1464130569,
+    "wof:name":"Mandarin Palace",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.974411,
+    41.068539,
+    -111.974411,
+    41.068539
+],
+  "geometry": {"coordinates":[-111.974411,41.068539],"type":"Point"}
+}

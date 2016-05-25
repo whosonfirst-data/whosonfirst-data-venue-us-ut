@@ -1,0 +1,71 @@
+{
+  "id": 857259211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.913985,41.042948,-111.913985,41.042948",
+    "geom:latitude":41.042948,
+    "geom:longitude":-111.913985,
+    "iso:country":"US",
+    "sg:address":"316 N 1150 E",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 544 0838",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yul6rY66Ns3XwKdyJ4rwl_41.042948_-111.913985@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125475,
+    "wof:geomhash":"769519360b8754f1cd76b32e0d736b6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857259211
+        }
+    ],
+    "wof:id":857259211,
+    "wof:lastmodified":1464125475,
+    "wof:name":"Allure Salon and Day Spa LLC",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -111.913985,
+    41.042948,
+    -111.913985,
+    41.042948
+],
+  "geometry": {"coordinates":[-111.913985,41.042948],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857467709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.010029,41.227975,-112.010029,41.227975",
+    "geom:latitude":41.227975,
+    "geom:longitude":-112.010029,
+    "iso:country":"US",
+    "sg:address":"2245 S 1200 W",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 392 5000",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85818351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uZ8HDeo2CjKRkqU1725eo_41.227975_-112.010029@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130119,
+    "wof:geomhash":"a900f180248e8b52bbaa77b4417919be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85818351,
+            "region_id":85688567,
+            "venue_id":857467709
+        }
+    ],
+    "wof:id":857467709,
+    "wof:lastmodified":1464130119,
+    "wof:name":"Holiday Inn",
+    "wof:parent_id":85818351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.010029,
+    41.227975,
+    -112.010029,
+    41.227975
+],
+  "geometry": {"coordinates":[-112.010029,41.227975],"type":"Point"}
+}

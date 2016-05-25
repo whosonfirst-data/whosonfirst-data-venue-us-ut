@@ -1,0 +1,77 @@
+{
+  "id": 857395275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.639218,40.196542,-111.639218,40.196542",
+    "geom:latitude":40.196542,
+    "geom:longitude":-111.639218,
+    "iso:country":"US",
+    "sg:address":"2700 Kuhni Blvd",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 758 7600",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:tags":[
+        "carcass",
+        "animal",
+        "removal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727829,
+        102083567,
+        85880117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4o4BNgXY9nv2J8DLnZymjr_40.196542_-111.639218@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128531,
+    "wof:geomhash":"786b69f53a19779527c7a3e9768d7e85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727829,
+            "neighbourhood_id":85880117,
+            "region_id":85688567,
+            "venue_id":857395275
+        }
+    ],
+    "wof:id":857395275,
+    "wof:lastmodified":1464128531,
+    "wof:name":"John Kuhni Sons Inc",
+    "wof:parent_id":85880117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carcass",
+        "animal",
+        "removal"
+    ]
+},
+  "bbox": [
+    -111.639218,
+    40.196542,
+    -111.639218,
+    40.196542
+],
+  "geometry": {"coordinates":[-111.639218,40.196542],"type":"Point"}
+}

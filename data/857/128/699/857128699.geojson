@@ -1,0 +1,71 @@
+{
+  "id": 857128699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.619685,37.051866,-113.619685,37.051866",
+    "geom:latitude":37.051866,
+    "geom:longitude":-113.619685,
+    "iso:country":"US",
+    "sg:address":"1686 Navajo Dr",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 628 9337",
+    "sg:postcode":"84790",
+    "sg:province":"UT",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727617,
+        102082879,
+        85803851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bjX4OURRyR0RZiAPT9uEK_37.051866_-113.619685@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122640,
+    "wof:geomhash":"b05ebf4d4945feed8c054294250c949a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85803851,
+            "region_id":85688567,
+            "venue_id":857128699
+        }
+    ],
+    "wof:id":857128699,
+    "wof:lastmodified":1464122640,
+    "wof:name":"Jerry Seely Photo",
+    "wof:parent_id":85803851,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -113.619685,
+    37.051866,
+    -113.619685,
+    37.051866
+],
+  "geometry": {"coordinates":[-113.619685,37.051866],"type":"Point"}
+}

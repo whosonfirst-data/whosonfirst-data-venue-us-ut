@@ -1,0 +1,73 @@
+{
+  "id": 857425677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.987724,41.304048,-111.987724,41.304048",
+    "geom:latitude":41.304048,
+    "geom:longitude":-111.987724,
+    "iso:country":"US",
+    "sg:address":"425 W 2550 N",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 786 2088",
+    "sg:postcode":"84414",
+    "sg:province":"UT",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728025,
+        102083539,
+        85837881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28UKGEb80SARgeClYoDL5r_41.304048_-111.987724@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129245,
+    "wof:geomhash":"87938a91c7c183b6dd124515706247e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728025,
+            "neighbourhood_id":85837881,
+            "region_id":85688567,
+            "venue_id":857425677
+        }
+    ],
+    "wof:id":857425677,
+    "wof:lastmodified":1464129245,
+    "wof:name":"Majestic Elementary Sch",
+    "wof:parent_id":85837881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -111.987724,
+    41.304048,
+    -111.987724,
+    41.304048
+],
+  "geometry": {"coordinates":[-111.987724,41.304048],"type":"Point"}
+}

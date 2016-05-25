@@ -1,0 +1,75 @@
+{
+  "id": 857420843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.822415,40.676104,-111.822415,40.676104",
+    "geom:latitude":40.676104,
+    "geom:longitude":-111.822415,
+    "iso:country":"US",
+    "sg:address":"4390 Butternut Rd",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 278 1419",
+    "sg:postcode":"84124",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repair",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728049,
+        102082877,
+        85827505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jvG9UphTv8t9uTVtVLyVO_40.676104_-111.822415@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129123,
+    "wof:geomhash":"dcc3d055823d5365a636421d37d8591d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728049,
+            "neighbourhood_id":85827505,
+            "region_id":85688567,
+            "venue_id":857420843
+        }
+    ],
+    "wof:id":857420843,
+    "wof:lastmodified":1464129123,
+    "wof:name":"Rogers Break",
+    "wof:parent_id":85827505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -111.822415,
+    40.676104,
+    -111.822415,
+    40.676104
+],
+  "geometry": {"coordinates":[-111.82241500000001,40.676104],"type":"Point"}
+}

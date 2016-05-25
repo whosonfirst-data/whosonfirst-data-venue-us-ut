@@ -1,0 +1,71 @@
+{
+  "id": 857202085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.559536,40.141358,-111.559536,40.141358",
+    "geom:latitude":40.141358,
+    "geom:longitude":-111.559536,
+    "iso:country":"US",
+    "sg:address":"1780 E 1200 N",
+    "sg:city":"Mapleton",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 489 4157",
+    "sg:postcode":"84664",
+    "sg:province":"UT",
+    "sg:tags":[
+        "communication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SVhlRkjwF5G0WQFqlGMOm_40.141358_-111.559536@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124214,
+    "wof:geomhash":"456565b8d355080427a15f5c97327faf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857202085
+        }
+    ],
+    "wof:id":857202085,
+    "wof:lastmodified":1464124214,
+    "wof:name":"Juicy Graphics Inc",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication"
+    ]
+},
+  "bbox": [
+    -111.559536,
+    40.141358,
+    -111.559536,
+    40.141358
+],
+  "geometry": {"coordinates":[-111.55953599999999,40.141358],"type":"Point"}
+}

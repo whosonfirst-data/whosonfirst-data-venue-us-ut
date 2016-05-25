@@ -1,0 +1,73 @@
+{
+  "id": 857229391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.824456,41.737709,-111.824456,41.737709",
+    "geom:latitude":41.737709,
+    "geom:longitude":-111.824456,
+    "iso:country":"US",
+    "sg:address":"300 N 400 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 755 5517",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mormon",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Yl7kd4Xgfj9Q1HkKZ9a9r_41.737709_-111.824456@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124796,
+    "wof:geomhash":"564f7b5c758ea4584d9ec4f99d9a68ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857229391
+        }
+    ],
+    "wof:id":857229391,
+    "wof:lastmodified":1464124796,
+    "wof:name":"Logan Seventeenth Ward",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mormon",
+        "church"
+    ]
+},
+  "bbox": [
+    -111.824456,
+    41.737709,
+    -111.824456,
+    41.737709
+],
+  "geometry": {"coordinates":[-111.824456,41.737709],"type":"Point"}
+}

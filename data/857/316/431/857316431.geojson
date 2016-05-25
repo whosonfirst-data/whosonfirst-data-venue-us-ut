@@ -1,0 +1,75 @@
+{
+  "id": 857316431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.014053,40.63508,-112.014053,40.63508",
+    "geom:latitude":40.63508,
+    "geom:longitude":-112.014053,
+    "iso:country":"US",
+    "sg:address":"5137 Fuchsia Dr",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 955 5366",
+    "sg:postcode":"84084",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85840625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qCadFYadblacWv329jlk4_40.635080_-112.014053@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126754,
+    "wof:geomhash":"ea1636efefca9a70edc5bb478f497a91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85840625,
+            "region_id":85688567,
+            "venue_id":857316431
+        }
+    ],
+    "wof:id":857316431,
+    "wof:lastmodified":1464126754,
+    "wof:name":"Copper Valley Electric LLC",
+    "wof:parent_id":85840625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -112.014053,
+    40.63508,
+    -112.014053,
+    40.63508
+],
+  "geometry": {"coordinates":[-112.014053,40.63508],"type":"Point"}
+}

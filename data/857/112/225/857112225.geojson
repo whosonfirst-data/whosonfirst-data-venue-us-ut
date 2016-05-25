@@ -1,0 +1,73 @@
+{
+  "id": 857112225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.822061,41.732352,-111.822061,41.732352",
+    "geom:latitude":41.732352,
+    "geom:longitude":-111.822061,
+    "iso:country":"US",
+    "sg:address":"44 N 500 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 716 5478",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "occupational",
+        "safety"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OwK7vBeh6OTMrw2DIgcTZ_41.732352_-111.822061@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122237,
+    "wof:geomhash":"53546211468838e6a9f595c81600138f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857112225
+        }
+    ],
+    "wof:id":857112225,
+    "wof:lastmodified":1464122237,
+    "wof:name":"IHC Workmed",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "occupational",
+        "safety"
+    ]
+},
+  "bbox": [
+    -111.822061,
+    41.732352,
+    -111.822061,
+    41.732352
+],
+  "geometry": {"coordinates":[-111.82206100000001,41.732352],"type":"Point"}
+}

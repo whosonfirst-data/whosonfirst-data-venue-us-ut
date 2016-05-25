@@ -1,0 +1,71 @@
+{
+  "id": 857320919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.656903,40.297765,-111.656903,40.297765",
+    "geom:latitude":40.297765,
+    "geom:longitude":-111.656903,
+    "iso:country":"US",
+    "sg:address":"4980 N University Ave",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 420 6176",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "customer",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zrcRDzD2bU4PkN1zbsYPB_40.297765_-111.656903@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126868,
+    "wof:geomhash":"96540d2a6eb9582563883bbe07c2010c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857320919
+        }
+    ],
+    "wof:id":857320919,
+    "wof:lastmodified":1464126868,
+    "wof:name":"Image Messaging Inc",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "customer",
+        "resource"
+    ]
+},
+  "bbox": [
+    -111.656903,
+    40.297765,
+    -111.656903,
+    40.297765
+],
+  "geometry": {"coordinates":[-111.656903,40.297765],"type":"Point"}
+}

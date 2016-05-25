@@ -1,0 +1,73 @@
+{
+  "id": 857475609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.910289,40.613251,-111.910289,40.613251",
+    "geom:latitude":40.613251,
+    "geom:longitude":-111.910289,
+    "iso:country":"US",
+    "sg:address":"7598 Main St",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 255 2311",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728051,
+        102082877,
+        85810115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RTu9INpzCn1l73paLpfvf_40.613251_-111.910289@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130289,
+    "wof:geomhash":"47680f7964d378513c1d1293ffaf6d35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85810115,
+            "region_id":85688567,
+            "venue_id":857475609
+        }
+    ],
+    "wof:id":857475609,
+    "wof:lastmodified":1464130289,
+    "wof:name":"State Package Agency 147",
+    "wof:parent_id":85810115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -111.910289,
+    40.613251,
+    -111.910289,
+    40.613251
+],
+  "geometry": {"coordinates":[-111.91028900000001,40.613251],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857385165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.83495,40.68717,-111.83495,40.68717",
+    "geom:latitude":40.68717,
+    "geom:longitude":-111.83495,
+    "iso:country":"US",
+    "sg:address":"1985 E 3900 S",
+    "sg:city":"Holladay",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 273 3800",
+    "sg:postcode":"84124",
+    "sg:province":"UT",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85859021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0y0KzbECqoJJSx9bL7l9CB_40.687170_-111.834950@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128277,
+    "wof:geomhash":"d6579bca4a25fc5bf75b7a139207d0bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85859021,
+            "region_id":85688567,
+            "venue_id":857385165
+        }
+    ],
+    "wof:id":857385165,
+    "wof:lastmodified":1464128277,
+    "wof:name":"Holladay Group",
+    "wof:parent_id":85859021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -111.83495,
+    40.68717,
+    -111.83495,
+    40.68717
+],
+  "geometry": {"coordinates":[-111.83495000000001,40.68717],"type":"Point"}
+}

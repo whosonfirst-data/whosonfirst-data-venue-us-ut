@@ -1,0 +1,71 @@
+{
+  "id": 857083081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.921478,41.010472,-111.921478,41.010472",
+    "geom:latitude":41.010472,
+    "geom:longitude":-111.921478,
+    "iso:country":"US",
+    "sg:address":"1507 Haight Creek Dr",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 7238",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1chrZIai3aFrFmS4FuAfTl_41.010472_-111.921478@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121488,
+    "wof:geomhash":"529b6ce2c6acb14d14efb6bce039514a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857083081
+        }
+    ],
+    "wof:id":857083081,
+    "wof:lastmodified":1464121488,
+    "wof:name":"Arbys",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.921478,
+    41.010472,
+    -111.921478,
+    41.010472
+],
+  "geometry": {"coordinates":[-111.92147799999999,41.010472],"type":"Point"}
+}

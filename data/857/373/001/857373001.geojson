@@ -1,0 +1,71 @@
+{
+  "id": 857373001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.598028,40.140729,-111.598028,40.140729",
+    "geom:latitude":40.140729,
+    "geom:longitude":-111.598028,
+    "iso:country":"US",
+    "sg:address":"1127 N 1600 W",
+    "sg:city":"Mapleton",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 491 0679",
+    "sg:postcode":"84664",
+    "sg:province":"UT",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3n4ezFEeZbIqh8qg5Z3HOU_40.140729_-111.598028@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127969,
+    "wof:geomhash":"d490f6f38ff70ee8ac7a3d62eab11c0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857373001
+        }
+    ],
+    "wof:id":857373001,
+    "wof:lastmodified":1464127969,
+    "wof:name":"Stark Inc",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -111.598028,
+    40.140729,
+    -111.598028,
+    40.140729
+],
+  "geometry": {"coordinates":[-111.598028,40.140729],"type":"Point"}
+}

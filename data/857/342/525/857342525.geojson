@@ -1,0 +1,75 @@
+{
+  "id": 857342525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.007646,40.597099,-112.007646,40.597099",
+    "geom:latitude":40.597099,
+    "geom:longitude":-112.007646,
+    "iso:country":"US",
+    "sg:address":"4897 Mc Intyre Ct",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 280 8221",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85854997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1X7onaeG9rjTKe0mjCmntO_40.597099_-112.007646@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127325,
+    "wof:geomhash":"8c026462997f3f9116e8bd06cfd2a58a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85854997,
+            "region_id":85688567,
+            "venue_id":857342525
+        }
+    ],
+    "wof:id":857342525,
+    "wof:lastmodified":1464127325,
+    "wof:name":"S & D Cleaning Services",
+    "wof:parent_id":85854997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -112.007646,
+    40.597099,
+    -112.007646,
+    40.597099
+],
+  "geometry": {"coordinates":[-112.00764599999999,40.597099],"type":"Point"}
+}

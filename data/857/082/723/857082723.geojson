@@ -1,0 +1,75 @@
+{
+  "id": 857082723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.91182,40.854455,-111.91182,40.854455",
+    "geom:latitude":40.854455,
+    "geom:longitude":-111.91182,
+    "iso:country":"US",
+    "sg:address":"620 N Main St",
+    "sg:city":"North Salt Lake",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 296 6564",
+    "sg:postcode":"84054",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop",
+        "consignment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727895,
+        102083563,
+        85835391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BemrbvGFFAxApgYt4v7Ma_40.854455_-111.911820@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121478,
+    "wof:geomhash":"362a72c19bfaef0b71d0e9a90dbad298",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727895,
+            "neighbourhood_id":85835391,
+            "region_id":85688567,
+            "venue_id":857082723
+        }
+    ],
+    "wof:id":857082723,
+    "wof:lastmodified":1464121478,
+    "wof:name":"Merchant Traders",
+    "wof:parent_id":85835391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "consignment"
+    ]
+},
+  "bbox": [
+    -111.91182,
+    40.854455,
+    -111.91182,
+    40.854455
+],
+  "geometry": {"coordinates":[-111.91182000000001,40.854455],"type":"Point"}
+}

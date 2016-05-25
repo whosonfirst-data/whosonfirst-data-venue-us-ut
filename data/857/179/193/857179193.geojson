@@ -1,0 +1,73 @@
+{
+  "id": 857179193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.72437,40.300962,-111.72437,40.300962",
+    "geom:latitude":40.300962,
+    "geom:longitude":-111.72437,
+    "iso:country":"US",
+    "sg:address":"225 N 1200 W",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 229 2587",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FFpjsjqWedLV5PN7H5ogj_40.300962_-111.724370@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123779,
+    "wof:geomhash":"818db634d8537e8d47eb9f0a088de50a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":857179193
+        }
+    ],
+    "wof:id":857179193,
+    "wof:lastmodified":1464123779,
+    "wof:name":"Orem City Fire Station",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -111.72437,
+    40.300962,
+    -111.72437,
+    40.300962
+],
+  "geometry": {"coordinates":[-111.72436999999999,40.300962],"type":"Point"}
+}

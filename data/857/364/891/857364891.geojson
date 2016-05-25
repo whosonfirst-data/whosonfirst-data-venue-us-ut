@@ -1,0 +1,67 @@
+{
+  "id": 857364891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.819845,41.757498,-111.819845,41.757498",
+    "geom:latitude":41.757498,
+    "geom:longitude":-111.819845,
+    "iso:country":"US",
+    "sg:address":"575 E 1400 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 792 3636",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:website":"www.carolynkoskan.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fKMineOj92qYHpp5iUMaE_41.757498_-111.819845@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127802,
+    "wof:geomhash":"df09a1055601a3b320502762529aea46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857364891
+        }
+    ],
+    "wof:id":857364891,
+    "wof:lastmodified":1464127802,
+    "wof:name":"Koskan Real Estate",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.819845,
+    41.757498,
+    -111.819845,
+    41.757498
+],
+  "geometry": {"coordinates":[-111.819845,41.757498],"type":"Point"}
+}

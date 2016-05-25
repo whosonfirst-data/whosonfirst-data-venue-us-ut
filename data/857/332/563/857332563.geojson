@@ -1,0 +1,81 @@
+{
+  "id": 857332563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.826073,40.540952,-111.826073,40.540952",
+    "geom:latitude":40.540952,
+    "geom:longitude":-111.826073,
+    "iso:country":"US",
+    "sg:address":"2286 E 11580 S",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 501 8417",
+    "sg:postcode":"84092",
+    "sg:province":"UT",
+    "sg:tags":[
+        "advisory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85825243,
+        102082877,
+        102191575,
+        101728077,
+        85812845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_437xMH8LvLOyCISjSeuJWg_40.540952_-111.826073@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127114,
+    "wof:geomhash":"d4b0dbea58895f68677b3e6d4d1b88bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85825243,
+            "region_id":85688567,
+            "venue_id":857332563
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85812845,
+            "region_id":85688567,
+            "venue_id":857332563
+        }
+    ],
+    "wof:id":857332563,
+    "wof:lastmodified":1464127114,
+    "wof:name":"Hansen Financial Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory"
+    ]
+},
+  "bbox": [
+    -111.826073,
+    40.540952,
+    -111.826073,
+    40.540952
+],
+  "geometry": {"coordinates":[-111.82607299999999,40.540952],"type":"Point"}
+}

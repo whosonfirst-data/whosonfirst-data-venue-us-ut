@@ -1,0 +1,74 @@
+{
+  "id": 857493961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.983163,41.188782,-111.983163,41.188782",
+    "geom:latitude":41.188782,
+    "geom:longitude":-111.983163,
+    "iso:country":"US",
+    "sg:address":"4079 Riverdale Rd",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/ogden/39541-olive-garden-italian-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 627 7077",
+    "sg:postcode":"84405",
+    "sg:province":"UT",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728021,
+        102083539,
+        85810865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bBLuRZ7LiSV05ETy8pYIG_41.188782_-111.983163@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130731,
+    "wof:geomhash":"8fa17acd16e36f5a6bf627921d2e63fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728021,
+            "neighbourhood_id":85810865,
+            "region_id":85688567,
+            "venue_id":857493961
+        }
+    ],
+    "wof:id":857493961,
+    "wof:lastmodified":1464130731,
+    "wof:name":"Olive Garden Italian Restaurant",
+    "wof:parent_id":85810865,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -111.983163,
+    41.188782,
+    -111.983163,
+    41.188782
+],
+  "geometry": {"coordinates":[-111.983163,41.188782],"type":"Point"}
+}

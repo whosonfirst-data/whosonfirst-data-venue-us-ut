@@ -1,0 +1,71 @@
+{
+  "id": 857331565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.798098,40.636591,-111.798098,40.636591",
+    "geom:latitude":40.636591,
+    "geom:longitude":-111.798098,
+    "iso:country":"US",
+    "sg:address":"6440 Wasatch Blvd",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 278 7800",
+    "sg:postcode":"84121",
+    "sg:province":"UT",
+    "sg:tags":[
+        "advisory",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85824735,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wa1fzAw69azEOQOgYk5Fy_40.636591_-111.798098@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127092,
+    "wof:geomhash":"967a27ea5491ff2634c75e4daadc2ace",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85824735,
+            "region_id":85688567,
+            "venue_id":857331565
+        }
+    ],
+    "wof:id":857331565,
+    "wof:lastmodified":1464127092,
+    "wof:name":"Cherokee & Walker",
+    "wof:parent_id":85824735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "financial"
+    ]
+},
+  "bbox": [
+    -111.798098,
+    40.636591,
+    -111.798098,
+    40.636591
+],
+  "geometry": {"coordinates":[-111.798098,40.636591],"type":"Point"}
+}

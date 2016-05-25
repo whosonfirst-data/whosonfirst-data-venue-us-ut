@@ -1,0 +1,73 @@
+{
+  "id": 857165411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.924347,41.121043,-111.924347,41.121043",
+    "geom:latitude":41.121043,
+    "geom:longitude":-111.924347,
+    "iso:country":"US",
+    "sg:address":"7936 S 2100 E",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 479 4647",
+    "sg:postcode":"84405",
+    "sg:province":"UT",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727911,
+        102083563,
+        85847875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aEI0485N0cnXIU0IoZQZs_41.121043_-111.924347@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123474,
+    "wof:geomhash":"27d0f668d1cb03411b5b5c045dbf0b7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727911,
+            "neighbourhood_id":85847875,
+            "region_id":85688567,
+            "venue_id":857165411
+        }
+    ],
+    "wof:id":857165411,
+    "wof:lastmodified":1464123474,
+    "wof:name":"McCann Construction Inc",
+    "wof:parent_id":85847875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.924347,
+    41.121043,
+    -111.924347,
+    41.121043
+],
+  "geometry": {"coordinates":[-111.924347,41.121043],"type":"Point"}
+}

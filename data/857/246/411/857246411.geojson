@@ -1,0 +1,69 @@
+{
+  "id": 857246411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.948477,41.314195,-111.948477,41.314195",
+    "geom:latitude":41.314195,
+    "geom:longitude":-111.948477,
+    "iso:country":"US",
+    "sg:address":"2882 N 1025 E",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 782 6757",
+    "sg:postcode":"84414",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85824645,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lwITQskYOptZXeEyyzmpE_41.314195_-111.948477@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125166,
+    "wof:geomhash":"d99470ebc568c6793ce5395d9f9caf46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85824645,
+            "region_id":85688567,
+            "venue_id":857246411
+        }
+    ],
+    "wof:id":857246411,
+    "wof:lastmodified":1464125166,
+    "wof:name":"Carroll Plumbing & Backfl",
+    "wof:parent_id":85824645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.948477,
+    41.314195,
+    -111.948477,
+    41.314195
+],
+  "geometry": {"coordinates":[-111.948477,41.314195],"type":"Point"}
+}

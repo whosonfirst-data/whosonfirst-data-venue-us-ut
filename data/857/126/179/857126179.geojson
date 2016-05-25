@@ -1,0 +1,71 @@
+{
+  "id": 857126179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.920376,41.000754,-111.920376,41.000754",
+    "geom:latitude":41.000754,
+    "geom:longitude":-111.920376,
+    "iso:country":"US",
+    "sg:address":"175 100 W St",
+    "sg:city":"Vernal",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 789 7458",
+    "sg:postcode":"84078",
+    "sg:province":"UT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Z6uHeiYvfb6MqX8IH4RkF_41.000754_-111.920376@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122591,
+    "wof:geomhash":"06c2f33ffe4d6c56bd46c2299430146c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857126179
+        }
+    ],
+    "wof:id":857126179,
+    "wof:lastmodified":1464122591,
+    "wof:name":"Kenton L Sizemore MD",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -111.920376,
+    41.000754,
+    -111.920376,
+    41.000754
+],
+  "geometry": {"coordinates":[-111.920376,41.000754],"type":"Point"}
+}

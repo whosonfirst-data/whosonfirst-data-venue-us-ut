@@ -1,0 +1,74 @@
+{
+  "id": 857267967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834521,41.753314,-111.834521,41.753314",
+    "geom:latitude":41.753314,
+    "geom:longitude":-111.834521,
+    "iso:country":"US",
+    "sg:address":"1211 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 9220",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "kitchen",
+        "accessory"
+    ],
+    "sg:website":"www.luvtocook.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IBVIUZn3LgFxlBqUoFCWu_41.753314_-111.834521@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125647,
+    "wof:geomhash":"678d0e10cc1b6342c7cf496312683471",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857267967
+        }
+    ],
+    "wof:id":857267967,
+    "wof:lastmodified":1464125647,
+    "wof:name":"Kitchen Kneads Of Logan",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kitchen",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -111.834521,
+    41.753314,
+    -111.834521,
+    41.753314
+],
+  "geometry": {"coordinates":[-111.834521,41.753314],"type":"Point"}
+}

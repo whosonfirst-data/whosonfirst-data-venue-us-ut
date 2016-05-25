@@ -1,0 +1,79 @@
+{
+  "id": 857361301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.65418,40.233629,-111.65418,40.233629",
+    "geom:latitude":40.233629,
+    "geom:longitude":-111.65418,
+    "iso:country":"US",
+    "sg:address":"256 E Center St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 8771",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:tags":[
+        "retardation",
+        "disabled",
+        "mental",
+        "dev"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77NWgzNxxIsQ8hCtEIjRot_40.233629_-111.654180@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127727,
+    "wof:geomhash":"d6ccbb4cbfa1d79c70d17b98cd6636e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880065,
+            "region_id":85688567,
+            "venue_id":857361301
+        }
+    ],
+    "wof:id":857361301,
+    "wof:lastmodified":1464127727,
+    "wof:name":"Provo Care Ctr",
+    "wof:parent_id":85880065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "retardation",
+        "disabled",
+        "mental",
+        "dev"
+    ]
+},
+  "bbox": [
+    -111.65418,
+    40.233629,
+    -111.65418,
+    40.233629
+],
+  "geometry": {"coordinates":[-111.65418,40.233629],"type":"Point"}
+}

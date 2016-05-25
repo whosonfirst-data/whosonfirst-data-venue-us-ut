@@ -1,0 +1,71 @@
+{
+  "id": 857404811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.836075,41.731473,-111.836075,41.731473",
+    "geom:latitude":41.731473,
+    "geom:longitude":-111.836075,
+    "iso:country":"US",
+    "sg:address":"71 W Center St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 9424",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WAGlpogiDm5TCVKgMHHHL_41.731473_-111.836075@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128724,
+    "wof:geomhash":"a12ee3d98ef9646d4e22e235308e925d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857404811
+        }
+    ],
+    "wof:id":857404811,
+    "wof:lastmodified":1464128724,
+    "wof:name":"Allegro Studio Beauty Salon",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.836075,
+    41.731473,
+    -111.836075,
+    41.731473
+],
+  "geometry": {"coordinates":[-111.83607499999999,41.731473],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857481643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.836095,40.606504,-111.836095,40.606504",
+    "geom:latitude":40.606504,
+    "geom:longitude":-111.836095,
+    "iso:country":"US",
+    "sg:address":"7955 Willow Cir",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 944 0675",
+    "sg:postcode":"84093",
+    "sg:province":"UT",
+    "sg:tags":[
+        "banking",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85857943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hLcgjfo711F83BJbOys4M_40.606504_-111.836095@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130399,
+    "wof:geomhash":"1769beedbbc5ec85bfa5f27c512adfb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85857943,
+            "region_id":85688567,
+            "venue_id":857481643
+        }
+    ],
+    "wof:id":857481643,
+    "wof:lastmodified":1464130399,
+    "wof:name":"Reliable Mortgage Services",
+    "wof:parent_id":85857943,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banking",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -111.836095,
+    40.606504,
+    -111.836095,
+    40.606504
+],
+  "geometry": {"coordinates":[-111.836095,40.606504],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857212917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.938157,41.315533,-111.938157,41.315533",
+    "geom:latitude":41.315533,
+    "geom:longitude":-111.938157,
+    "iso:country":"US",
+    "sg:address":"3054 N 1375 E",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 782 4746",
+    "sg:postcode":"84414",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85824645,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42vU58HAc3n7hhyffbOkcW_41.315533_-111.938157@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124462,
+    "wof:geomhash":"c73d84c2702ebb2059f49bab83d4582b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85824645,
+            "region_id":85688567,
+            "venue_id":857212917
+        }
+    ],
+    "wof:id":857212917,
+    "wof:lastmodified":1464124462,
+    "wof:name":"Safe Home Environment",
+    "wof:parent_id":85824645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.938157,
+    41.315533,
+    -111.938157,
+    41.315533
+],
+  "geometry": {"coordinates":[-111.938157,41.315533],"type":"Point"}
+}

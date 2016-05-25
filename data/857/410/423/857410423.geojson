@@ -1,0 +1,75 @@
+{
+  "id": 857410423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.700475,40.309777,-111.700475,40.309777",
+    "geom:latitude":40.309777,
+    "geom:longitude":-111.700475,
+    "iso:country":"US",
+    "sg:address":"608 N State St",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 225 2179",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CFqfvVd9WMwiRT03iO1PV_40.309777_-111.700475@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128854,
+    "wof:geomhash":"6e03be5d1034980141f51896d5e57147",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":857410423
+        }
+    ],
+    "wof:id":857410423,
+    "wof:lastmodified":1464128854,
+    "wof:name":"Fashion Cleaners",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -111.700475,
+    40.309777,
+    -111.700475,
+    40.309777
+],
+  "geometry": {"coordinates":[-111.700475,40.309777],"type":"Point"}
+}

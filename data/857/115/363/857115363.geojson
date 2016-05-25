@@ -1,0 +1,75 @@
+{
+  "id": 857115363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.71786,40.289347,-111.71786,40.289347",
+    "geom:latitude":40.289347,
+    "geom:longitude":-111.71786,
+    "iso:country":"US",
+    "sg:address":"436 S 940 W",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 358 8848",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "management",
+        "export"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727827,
+        102083567,
+        85821287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72JNFpx9olX8mcC3CArAP3_40.289347_-111.717860@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122322,
+    "wof:geomhash":"2a63e5d7a8ebcea731b513289616d701",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727827,
+            "neighbourhood_id":85821287,
+            "region_id":85688567,
+            "venue_id":857115363
+        }
+    ],
+    "wof:id":857115363,
+    "wof:lastmodified":1464122322,
+    "wof:name":"Bioalt Research Grp",
+    "wof:parent_id":85821287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management",
+        "export"
+    ]
+},
+  "bbox": [
+    -111.71786,
+    40.289347,
+    -111.71786,
+    40.289347
+],
+  "geometry": {"coordinates":[-111.71786,40.289347],"type":"Point"}
+}

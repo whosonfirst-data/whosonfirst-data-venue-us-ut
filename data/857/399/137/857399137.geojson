@@ -1,0 +1,75 @@
+{
+  "id": 857399137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.833328,41.803285,-111.833328,41.803285",
+    "geom:latitude":41.803285,
+    "geom:longitude":-111.833328,
+    "iso:country":"US",
+    "sg:address":"4040 N Hwy 91",
+    "sg:city":"Hyde Park",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 563 6280",
+    "sg:postcode":"84318",
+    "sg:province":"UT",
+    "sg:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4o3IPzW0ETeEDtiQx3vV36_41.803285_-111.833328@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128607,
+    "wof:geomhash":"fc7e8200a699a7cf2b583cbb0a2dd65a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857399137
+        }
+    ],
+    "wof:id":857399137,
+    "wof:lastmodified":1464128607,
+    "wof:name":"Cycle's & Sleds",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ]
+},
+  "bbox": [
+    -111.833328,
+    41.803285,
+    -111.833328,
+    41.803285
+],
+  "geometry": {"coordinates":[-111.83332799999999,41.803285],"type":"Point"}
+}

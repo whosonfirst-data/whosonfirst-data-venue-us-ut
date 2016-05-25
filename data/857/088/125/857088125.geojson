@@ -1,0 +1,75 @@
+{
+  "id": 857088125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.958657,40.771429,-111.958657,40.771429",
+    "geom:latitude":40.771429,
+    "geom:longitude":-111.958657,
+    "iso:country":"US",
+    "sg:address":"3007 N Temple St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 583 8411",
+    "sg:postcode":"84116",
+    "sg:province":"UT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85856293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tCRLJYAq7RRhoGUS67WLD_40.771429_-111.958657@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121616,
+    "wof:geomhash":"a75bdb597b6a9a1a9a3571d6b28d54a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85856293,
+            "region_id":85688567,
+            "venue_id":857088125
+        }
+    ],
+    "wof:id":857088125,
+    "wof:lastmodified":1464121616,
+    "wof:name":"Royal Coating",
+    "wof:parent_id":85856293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.958657,
+    40.771429,
+    -111.958657,
+    40.771429
+],
+  "geometry": {"coordinates":[-111.958657,40.771429],"type":"Point"}
+}

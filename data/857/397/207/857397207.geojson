@@ -1,0 +1,71 @@
+{
+  "id": 857397207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.816736,40.406112,-111.816736,40.406112",
+    "geom:latitude":40.406112,
+    "geom:longitude":-111.816736,
+    "iso:country":"US",
+    "sg:address":"9516 N 6620 West St",
+    "sg:city":"Highland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 8064",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xL661EE8Eqceptmm5XBgq_40.406112_-111.816736@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128573,
+    "wof:geomhash":"fa3869e9207b1f5b9e9fb8b1bcfc05c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857397207
+        }
+    ],
+    "wof:id":857397207,
+    "wof:lastmodified":1464128573,
+    "wof:name":"Salt City Electric",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.816736,
+    40.406112,
+    -111.816736,
+    40.406112
+],
+  "geometry": {"coordinates":[-111.81673600000001,40.406112],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 857474141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.894731,40.553768,-111.894731,40.553768",
+    "geom:latitude":40.553768,
+    "geom:longitude":-111.894731,
+    "iso:country":"US",
+    "sg:address":"10985 Auto Mall Dr",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 553 5580",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85850585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KmirJekrQktuyGhduTVco_40.553768_-111.894731@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130259,
+    "wof:geomhash":"a458f25f95b4dcbfb253c0dbef4445ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85850585,
+            "region_id":85688567,
+            "venue_id":857474141
+        }
+    ],
+    "wof:id":857474141,
+    "wof:lastmodified":1464130259,
+    "wof:name":"Larry H Miller Collision",
+    "wof:parent_id":85850585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -111.894731,
+    40.553768,
+    -111.894731,
+    40.553768
+],
+  "geometry": {"coordinates":[-111.89473099999999,40.553768],"type":"Point"}
+}

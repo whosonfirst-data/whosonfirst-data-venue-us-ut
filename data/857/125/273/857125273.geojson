@@ -1,0 +1,82 @@
+{
+  "id": 857125273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.58977,37.10871,-113.58977,37.10871",
+    "geom:latitude":37.10871,
+    "geom:longitude":-113.58977,
+    "iso:country":"US",
+    "sg:address":"71 N 300 W",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 673 5444",
+    "sg:postcode":"84770",
+    "sg:province":"UT",
+    "sg:tags":[
+        "glass",
+        "glazier",
+        "mirror"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6syCi5s0TdGDIEHLVMh6sM_37.108710_-113.589770@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122574,
+    "wof:geomhash":"b769777c9e46fe1140878b4985e995a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857125273
+        }
+    ],
+    "wof:id":857125273,
+    "wof:lastmodified":1464122574,
+    "wof:name":"Sun City Glass Co",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "glazier",
+        "mirror"
+    ]
+},
+  "bbox": [
+    -113.58977,
+    37.10871,
+    -113.58977,
+    37.10871
+],
+  "geometry": {"coordinates":[-113.58977,37.10871],"type":"Point"}
+}

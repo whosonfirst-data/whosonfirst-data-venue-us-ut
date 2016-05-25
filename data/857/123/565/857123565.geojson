@@ -1,0 +1,75 @@
+{
+  "id": 857123565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.873873,40.494871,-111.873873,40.494871",
+    "geom:latitude":40.494871,
+    "geom:longitude":-111.873873,
+    "iso:country":"US",
+    "sg:address":"582 Hollow Creek Rd",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 205 9121",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727849,
+        102082877,
+        85815185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41jlISlj8fYSkO84q9S1gQ_40.494871_-111.873873@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122541,
+    "wof:geomhash":"4b22b48793e902adc5654b09ea3fb231",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85815185,
+            "region_id":85688567,
+            "venue_id":857123565
+        }
+    ],
+    "wof:id":857123565,
+    "wof:lastmodified":1464122541,
+    "wof:name":"Big B Roofing",
+    "wof:parent_id":85815185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.873873,
+    40.494871,
+    -111.873873,
+    40.494871
+],
+  "geometry": {"coordinates":[-111.873873,40.494871],"type":"Point"}
+}

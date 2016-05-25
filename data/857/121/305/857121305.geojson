@@ -1,0 +1,68 @@
+{
+  "id": 857121305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.883618,40.769752,-111.883618,40.769752",
+    "geom:latitude":40.769752,
+    "geom:longitude":-111.883618,
+    "iso:country":"US",
+    "sg:address":"13 A St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 240 2387",
+    "sg:postcode":"84111",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85809299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ie6SnNhQFt7ANqQobFX94_40.769752_-111.883618@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122479,
+    "wof:geomhash":"b7122b9d92a46fd4190cd3b9b585eadd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85809299,
+            "region_id":85688567,
+            "venue_id":857121305
+        }
+    ],
+    "wof:id":857121305,
+    "wof:lastmodified":1464122479,
+    "wof:name":"LDS Church",
+    "wof:parent_id":85809299,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.883618,
+    40.769752,
+    -111.883618,
+    40.769752
+],
+  "geometry": {"coordinates":[-111.883618,40.769752],"type":"Point"}
+}

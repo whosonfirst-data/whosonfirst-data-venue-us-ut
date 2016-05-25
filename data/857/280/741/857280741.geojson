@@ -1,0 +1,74 @@
+{
+  "id": 857280741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.940819,41.038192,-111.940819,41.038192",
+    "geom:latitude":41.038192,
+    "geom:longitude":-111.940819,
+    "iso:country":"US",
+    "sg:address":"170 W 200 N",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 593 9359",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "grocer"
+    ],
+    "sg:website":"www.albertsons.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WwT3MZF1rpNEcbOPKzoeZ_41.038192_-111.940819@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125936,
+    "wof:geomhash":"16d1748f62347aeca3024269dd977d52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857280741
+        }
+    ],
+    "wof:id":857280741,
+    "wof:lastmodified":1464125936,
+    "wof:name":"Albertsons",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -111.940819,
+    41.038192,
+    -111.940819,
+    41.038192
+],
+  "geometry": {"coordinates":[-111.940819,41.038192],"type":"Point"}
+}

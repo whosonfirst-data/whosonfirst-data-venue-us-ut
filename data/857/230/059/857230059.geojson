@@ -1,0 +1,71 @@
+{
+  "id": 857230059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.810083,40.385276,-111.810083,40.385276",
+    "geom:latitude":40.385276,
+    "geom:longitude":-111.810083,
+    "iso:country":"US",
+    "sg:address":"489 N 450 W",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 1838",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DT0ljLnGOa0O4tNzd8Jui_40.385276_-111.810083@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124808,
+    "wof:geomhash":"fe93dcb2f0dca4319ea14a254a02329e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857230059
+        }
+    ],
+    "wof:id":857230059,
+    "wof:lastmodified":1464124808,
+    "wof:name":"Streadbeck Landscaping",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.810083,
+    40.385276,
+    -111.810083,
+    40.385276
+],
+  "geometry": {"coordinates":[-111.81008300000001,40.385276],"type":"Point"}
+}

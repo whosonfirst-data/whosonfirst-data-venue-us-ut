@@ -1,0 +1,71 @@
+{
+  "id": 857157853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.619017,37.048798,-113.619017,37.048798",
+    "geom:latitude":37.048798,
+    "geom:longitude":-113.619017,
+    "iso:country":"US",
+    "sg:address":"1657 Shivwits Dr",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 674 2812",
+    "sg:postcode":"84790",
+    "sg:province":"UT",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727617,
+        102082879,
+        85803851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dos8dDmave99tKV1qgLni_37.048798_-113.619017@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123300,
+    "wof:geomhash":"443c2c9e1486382a30080f2af5125236",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85803851,
+            "region_id":85688567,
+            "venue_id":857157853
+        }
+    ],
+    "wof:id":857157853,
+    "wof:lastmodified":1464123300,
+    "wof:name":"Hillquist Constrctn Co",
+    "wof:parent_id":85803851,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -113.619017,
+    37.048798,
+    -113.619017,
+    37.048798
+],
+  "geometry": {"coordinates":[-113.619017,37.048798],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857386183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.766162,41.253881,-111.766162,41.253881",
+    "geom:latitude":41.253881,
+    "geom:longitude":-111.766162,
+    "iso:country":"US",
+    "sg:address":"7563 E 600 S",
+    "sg:city":"Huntsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 745 9239",
+    "sg:postcode":"84317",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85818631,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Kz0nVnwvlyUsODcAKnuPN_41.253881_-111.766162@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128333,
+    "wof:geomhash":"54e4ebd1863284fe59e48901606971c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85818631,
+            "region_id":85688567,
+            "venue_id":857386183
+        }
+    ],
+    "wof:id":857386183,
+    "wof:lastmodified":1464128333,
+    "wof:name":"Jackal Wallboard",
+    "wof:parent_id":85818631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.766162,
+    41.253881,
+    -111.766162,
+    41.253881
+],
+  "geometry": {"coordinates":[-111.76616199999999,41.253881],"type":"Point"}
+}

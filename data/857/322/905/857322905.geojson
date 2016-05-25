@@ -1,0 +1,77 @@
+{
+  "id": 857322905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.921809,40.699497,-111.921809,40.699497",
+    "geom:latitude":40.699497,
+    "geom:longitude":-111.921809,
+    "iso:country":"US",
+    "sg:address":"1080 W 3300 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 951 737 0219",
+    "sg:postcode":"84119",
+    "sg:province":"UT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85847441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4093duo8yGI4NJ3hsZebT1_40.699497_-111.921809@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126910,
+    "wof:geomhash":"9d3f9b7cc1756af679830589850bfa0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85847441,
+            "region_id":85688567,
+            "venue_id":857322905
+        }
+    ],
+    "wof:id":857322905,
+    "wof:lastmodified":1464126910,
+    "wof:name":"Two Dreamers Trucking",
+    "wof:parent_id":85847441,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -111.921809,
+    40.699497,
+    -111.921809,
+    40.699497
+],
+  "geometry": {"coordinates":[-111.921809,40.699497],"type":"Point"}
+}

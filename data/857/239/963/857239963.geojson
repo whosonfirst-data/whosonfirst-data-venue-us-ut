@@ -1,0 +1,73 @@
+{
+  "id": 857239963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.973425,41.218719,-111.973425,41.218719",
+    "geom:latitude":41.218719,
+    "geom:longitude":-111.973425,
+    "iso:country":"US",
+    "sg:address":"2557 Grant Ave",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 394 5743",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85820759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zJOvnblD3Qgk2F43P6Cp0_41.218719_-111.973425@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125008,
+    "wof:geomhash":"f4a93770d77ac17e5a085abe1d6d5484",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85820759,
+            "region_id":85688567,
+            "venue_id":857239963
+        }
+    ],
+    "wof:id":857239963,
+    "wof:lastmodified":1464125008,
+    "wof:name":"Wonder Bread & Hostess Cakes",
+    "wof:parent_id":85820759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -111.973425,
+    41.218719,
+    -111.973425,
+    41.218719
+],
+  "geometry": {"coordinates":[-111.97342500000001,41.218719],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857278383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.892283,40.707462,-111.892283,40.707462",
+    "geom:latitude":40.707462,
+    "geom:longitude":-111.892283,
+    "iso:country":"US",
+    "sg:address":"10 W 2950 S",
+    "sg:city":"South Salt Lake",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 484 6988",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85854999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Qequ9SMz1B0bNzMASQmbn_40.707462_-111.892283@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125877,
+    "wof:geomhash":"b048d0ca09d8c70ec4c65e47531dc37c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85854999,
+            "region_id":85688567,
+            "venue_id":857278383
+        }
+    ],
+    "wof:id":857278383,
+    "wof:lastmodified":1464125877,
+    "wof:name":"Fidelity Funding",
+    "wof:parent_id":85854999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -111.892283,
+    40.707462,
+    -111.892283,
+    40.707462
+],
+  "geometry": {"coordinates":[-111.89228300000001,40.707462],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857220955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.849355,40.397963,-111.849355,40.397963",
+    "geom:latitude":40.397963,
+    "geom:longitude":-111.849355,
+    "iso:country":"US",
+    "sg:address":"1 E State St",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 766 5521",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UKuPlfeHOUOSgfUjJhrnI_40.397963_-111.849355@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124632,
+    "wof:geomhash":"11ad4203ddc0beb0943030a2526e6c0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857220955
+        }
+    ],
+    "wof:id":857220955,
+    "wof:lastmodified":1464124632,
+    "wof:name":"Victor Tire",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -111.849355,
+    40.397963,
+    -111.849355,
+    40.397963
+],
+  "geometry": {"coordinates":[-111.849355,40.397963],"type":"Point"}
+}

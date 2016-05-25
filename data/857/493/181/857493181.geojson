@@ -1,0 +1,76 @@
+{
+  "id": 857493181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.827002,40.741325,-111.827002,40.741325",
+    "geom:latitude":40.741325,
+    "geom:longitude":-111.827002,
+    "iso:country":"US",
+    "sg:address":"1313 Foothill Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/36212-marie-callenders/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 582 3210",
+    "sg:postcode":"84108",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CaOOCjQkWAxbePfUP1AkX_40.741325_-111.827002@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130705,
+    "wof:geomhash":"828cc41761deb585476915011a964ed0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871023,
+            "region_id":85688567,
+            "venue_id":857493181
+        }
+    ],
+    "wof:id":857493181,
+    "wof:lastmodified":1464130705,
+    "wof:name":"Marie Callender's",
+    "wof:parent_id":85871023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -111.827002,
+    40.741325,
+    -111.827002,
+    40.741325
+],
+  "geometry": {"coordinates":[-111.82700199999999,40.741325],"type":"Point"}
+}

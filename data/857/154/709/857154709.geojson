@@ -1,0 +1,73 @@
+{
+  "id": 857154709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.930951,41.001216,-111.930951,41.001216",
+    "geom:latitude":41.001216,
+    "geom:longitude":-111.930951,
+    "iso:country":"US",
+    "sg:address":"1988 S 350 E",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 1951",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mormon",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_589Piwd2J4kwfYc6Y0AucF_41.001216_-111.930951@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123241,
+    "wof:geomhash":"7a0d06a1ca7bfcc63521ea360f4b56cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857154709
+        }
+    ],
+    "wof:id":857154709,
+    "wof:lastmodified":1464123241,
+    "wof:name":"Oakridge First Ward",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mormon",
+        "church"
+    ]
+},
+  "bbox": [
+    -111.930951,
+    41.001216,
+    -111.930951,
+    41.001216
+],
+  "geometry": {"coordinates":[-111.93095099999999,41.001216],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857196303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.97803,40.726151,-111.97803,40.726151",
+    "geom:latitude":40.726151,
+    "geom:longitude":-111.97803,
+    "iso:country":"US",
+    "sg:address":"3636 W 2100 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 746 1335",
+    "sg:postcode":"84120",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85844521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mwnGCbwFNCu7l7PBmS5N2_40.726151_-111.978030@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124105,
+    "wof:geomhash":"13d766e1691e7e93db8167e62d9cd452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85844521,
+            "region_id":85688567,
+            "venue_id":857196303
+        }
+    ],
+    "wof:id":857196303,
+    "wof:lastmodified":1464124105,
+    "wof:name":"Subway Sandwiches & Salads",
+    "wof:parent_id":85844521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.97803,
+    40.726151,
+    -111.97803,
+    40.726151
+],
+  "geometry": {"coordinates":[-111.97803,40.726151],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857290057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.631806,40.251628,-111.631806,40.251628",
+    "geom:latitude":40.251628,
+    "geom:longitude":-111.631806,
+    "iso:country":"US",
+    "sg:address":"1269 Oak Hill Cir",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 375 8787",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rWArMglxkuUsaZWuJbjwq_40.251628_-111.631806@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126150,
+    "wof:geomhash":"bf9042ba73450c8ec80568e13e761e05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880125,
+            "region_id":85688567,
+            "venue_id":857290057
+        }
+    ],
+    "wof:id":857290057,
+    "wof:lastmodified":1464126150,
+    "wof:name":"Keystone Construction & Rmdlng",
+    "wof:parent_id":85880125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.631806,
+    40.251628,
+    -111.631806,
+    40.251628
+],
+  "geometry": {"coordinates":[-111.631806,40.251628],"type":"Point"}
+}

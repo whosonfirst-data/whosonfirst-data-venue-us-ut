@@ -1,0 +1,74 @@
+{
+  "id": 857495191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.83321,41.757539,-111.83321,41.757539",
+    "geom:latitude":41.757539,
+    "geom:longitude":-111.83321,
+    "iso:country":"US",
+    "sg:address":"43 E 1400 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/logan/37763-ruby-tuesdays/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 5506",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61Ct3sWYTtUwqakRbCrofC_41.757619_-111.833263@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130779,
+    "wof:geomhash":"1c7ee99b05c62caa09a43bef4ce39915",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857495191
+        }
+    ],
+    "wof:id":857495191,
+    "wof:lastmodified":1464130779,
+    "wof:name":"Ruby Tuesdays",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -111.83321,
+    41.757539,
+    -111.83321,
+    41.757539
+],
+  "geometry": {"coordinates":[-111.83320999999999,41.757539],"type":"Point"}
+}

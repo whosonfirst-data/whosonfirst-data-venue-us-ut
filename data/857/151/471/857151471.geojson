@@ -1,0 +1,73 @@
+{
+  "id": 857151471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.946234,41.037293,-111.946234,41.037293",
+    "geom:latitude":41.037293,
+    "geom:longitude":-111.946234,
+    "iso:country":"US",
+    "sg:address":"153 N 400 W",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 528 7218",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zTqBQFyHS3vNlSCxXUyTj_41.037293_-111.946234@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123177,
+    "wof:geomhash":"d6d8bfad3fa96fc7a42359d1852beb0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857151471
+        }
+    ],
+    "wof:id":857151471,
+    "wof:lastmodified":1464123177,
+    "wof:name":"Sound Lab",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -111.946234,
+    41.037293,
+    -111.946234,
+    41.037293
+],
+  "geometry": {"coordinates":[-111.946234,41.037293],"type":"Point"}
+}

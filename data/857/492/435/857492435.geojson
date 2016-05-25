@@ -1,0 +1,76 @@
+{
+  "id": 857492435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.890898,40.566858,-111.890898,40.566858",
+    "geom:latitude":40.566858,
+    "geom:longitude":-111.890898,
+    "iso:country":"US",
+    "sg:address":"10050 S State St",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/37350-fuddruckers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 562 5223",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728055,
+        102082877,
+        85829657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01ZF2jSbNiwdWsPPP7A54G_40.566858_-111.890898@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130676,
+    "wof:geomhash":"3e4aac6e141f1e181da5961bc4600186",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728055,
+            "neighbourhood_id":85829657,
+            "region_id":85688567,
+            "venue_id":857492435
+        }
+    ],
+    "wof:id":857492435,
+    "wof:lastmodified":1464130676,
+    "wof:name":"Fuddruckers",
+    "wof:parent_id":85829657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -111.890898,
+    40.566858,
+    -111.890898,
+    40.566858
+],
+  "geometry": {"coordinates":[-111.89089800000001,40.566858],"type":"Point"}
+}

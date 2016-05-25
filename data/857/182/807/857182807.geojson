@@ -1,0 +1,73 @@
+{
+  "id": 857182807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.808962,41.768289,-111.808962,41.768289",
+    "geom:latitude":41.768289,
+    "geom:longitude":-111.808962,
+    "iso:country":"US",
+    "sg:address":"2015 N 1000 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 1458",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_286EkVsocheLYQG4BgZaka_41.768289_-111.808962@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123853,
+    "wof:geomhash":"acbd77e898871ff2f2f8c575c78fac68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857182807
+        }
+    ],
+    "wof:id":857182807,
+    "wof:lastmodified":1464123853,
+    "wof:name":"Terry Griffin Apts LLC",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -111.808962,
+    41.768289,
+    -111.808962,
+    41.768289
+],
+  "geometry": {"coordinates":[-111.80896199999999,41.768289],"type":"Point"}
+}

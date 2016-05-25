@@ -1,0 +1,73 @@
+{
+  "id": 857449019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.898384,40.658956,-111.898384,40.658956",
+    "geom:latitude":40.658956,
+    "geom:longitude":-111.898384,
+    "iso:country":"US",
+    "sg:address":"5163 S 300 W",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 685 8300",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85853401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oRGHtvZS8OT5NUQAgD1gd_40.658956_-111.898384@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129738,
+    "wof:geomhash":"1f3b92f5f57d8c654412b0413de8210d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85853401,
+            "region_id":85688567,
+            "venue_id":857449019
+        }
+    ],
+    "wof:id":857449019,
+    "wof:lastmodified":1464129738,
+    "wof:name":"Snowy Mountain Research",
+    "wof:parent_id":85853401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -111.898384,
+    40.658956,
+    -111.898384,
+    40.658956
+],
+  "geometry": {"coordinates":[-111.89838399999999,40.658956],"type":"Point"}
+}

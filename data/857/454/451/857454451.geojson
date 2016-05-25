@@ -1,0 +1,75 @@
+{
+  "id": 857454451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.122761,41.163949,-112.122761,41.163949",
+    "geom:latitude":41.163949,
+    "geom:longitude":-112.122761,
+    "iso:country":"US",
+    "sg:address":"5948 W 5500 S",
+    "sg:city":"Hooper",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 985 0244",
+    "sg:postcode":"84315",
+    "sg:province":"UT",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85804651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FKh0MGhZAunJcqgS6u1AY_41.163949_-112.122761@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129846,
+    "wof:geomhash":"b59a9b32e989ff1a86b509a878dcb5f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85804651,
+            "region_id":85688567,
+            "venue_id":857454451
+        }
+    ],
+    "wof:id":857454451,
+    "wof:lastmodified":1464129846,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85804651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -112.122761,
+    41.163949,
+    -112.122761,
+    41.163949
+],
+  "geometry": {"coordinates":[-112.122761,41.163949],"type":"Point"}
+}

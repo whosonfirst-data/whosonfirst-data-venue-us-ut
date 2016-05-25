@@ -1,0 +1,75 @@
+{
+  "id": 857436797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.983009,40.718264,-111.983009,40.718264",
+    "geom:latitude":40.718264,
+    "geom:longitude":-111.983009,
+    "iso:country":"US",
+    "sg:address":"3865 W 2400 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 973 2711",
+    "sg:postcode":"84120",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mail",
+        "order"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85844521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FHo354Uq6ds0DJW6YPW3m_40.718264_-111.983009@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129507,
+    "wof:geomhash":"68cd40d10912b49ad0fe90f68d4defd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85844521,
+            "region_id":85688567,
+            "venue_id":857436797
+        }
+    ],
+    "wof:id":857436797,
+    "wof:lastmodified":1464129507,
+    "wof:name":"Sundance Holdings Group LLC",
+    "wof:parent_id":85844521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "order"
+    ]
+},
+  "bbox": [
+    -111.983009,
+    40.718264,
+    -111.983009,
+    40.718264
+],
+  "geometry": {"coordinates":[-111.983009,40.718264],"type":"Point"}
+}

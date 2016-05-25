@@ -1,0 +1,77 @@
+{
+  "id": 857348659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.288119,37.172156,-113.288119,37.172156",
+    "geom:latitude":37.172156,
+    "geom:longitude":-113.288119,
+    "iso:country":"US",
+    "sg:address":"300 S Main St",
+    "sg:city":"Hurricane",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 635 2566",
+    "sg:postcode":"84737",
+    "sg:province":"UT",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727631,
+        102082879,
+        85824093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7X7SULPi4RI7BWGbRqs8ex_37.172156_-113.288119@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127456,
+    "wof:geomhash":"b5a48d0dd48081bacfafd294314dbadd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727631,
+            "neighbourhood_id":85824093,
+            "region_id":85688567,
+            "venue_id":857348659
+        }
+    ],
+    "wof:id":857348659,
+    "wof:lastmodified":1464127456,
+    "wof:name":"Arrizona Cattle Growers Assn",
+    "wof:parent_id":85824093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -113.288119,
+    37.172156,
+    -113.288119,
+    37.172156
+],
+  "geometry": {"coordinates":[-113.28811899999999,37.172156],"type":"Point"}
+}

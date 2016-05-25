@@ -1,0 +1,74 @@
+{
+  "id": 857238521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.854467,41.727944,-111.854467,41.727944",
+    "geom:latitude":41.727944,
+    "geom:longitude":-111.854467,
+    "iso:country":"US",
+    "sg:address":"720 W 200 S",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 245 0587",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "backpacking",
+        "mountaineering"
+    ],
+    "sg:website":"www.spectrumsports.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oQ2RvapEair1jgFI0urap_41.727944_-111.854467@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124973,
+    "wof:geomhash":"9640c240babcff4c84286629bd0c5eed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857238521
+        }
+    ],
+    "wof:id":857238521,
+    "wof:lastmodified":1464124973,
+    "wof:name":"Spectrum Sports Inc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "backpacking",
+        "mountaineering"
+    ]
+},
+  "bbox": [
+    -111.854467,
+    41.727944,
+    -111.854467,
+    41.727944
+],
+  "geometry": {"coordinates":[-111.854467,41.727944],"type":"Point"}
+}

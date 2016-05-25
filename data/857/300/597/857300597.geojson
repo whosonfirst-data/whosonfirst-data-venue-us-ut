@@ -1,0 +1,73 @@
+{
+  "id": 857300597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.87145,40.929209,-111.87145,40.929209",
+    "geom:latitude":40.929209,
+    "geom:longitude":-111.87145,
+    "iso:country":"US",
+    "sg:address":"1092 Doris St",
+    "sg:city":"Centerville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 292 0169",
+    "sg:postcode":"84014",
+    "sg:province":"UT",
+    "sg:tags":[
+        "company",
+        "holding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727879,
+        102083563,
+        85849063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TsGimgryVg23g0Rl3TinW_40.929209_-111.871450@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126425,
+    "wof:geomhash":"2c28653438145244e5395ddec801379d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727879,
+            "neighbourhood_id":85849063,
+            "region_id":85688567,
+            "venue_id":857300597
+        }
+    ],
+    "wof:id":857300597,
+    "wof:lastmodified":1464126425,
+    "wof:name":"Kielco",
+    "wof:parent_id":85849063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "holding"
+    ]
+},
+  "bbox": [
+    -111.87145,
+    40.929209,
+    -111.87145,
+    40.929209
+],
+  "geometry": {"coordinates":[-111.87145,40.929209],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857283683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.672568,40.03021,-111.672568,40.03021",
+    "geom:latitude":40.03021,
+    "geom:longitude":-111.672568,
+    "iso:country":"US",
+    "sg:address":"11075 Loafer Canyon Rd",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 423 3515",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0T169P5pKo4vncvkSNXkVg_40.030210_-111.672568@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125993,
+    "wof:geomhash":"aa0dca96ede1ea3ed8394563cb702f80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857283683
+        }
+    ],
+    "wof:id":857283683,
+    "wof:lastmodified":1464125993,
+    "wof:name":"Bardsley & Sons Inc",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -111.672568,
+    40.03021,
+    -111.672568,
+    40.03021
+],
+  "geometry": {"coordinates":[-111.672568,40.03021],"type":"Point"}
+}

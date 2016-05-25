@@ -1,0 +1,75 @@
+{
+  "id": 857401151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.867161,40.586625,-111.867161,40.586625",
+    "geom:latitude":40.586625,
+    "geom:longitude":-111.867161,
+    "iso:country":"US",
+    "sg:address":"9068 Enchanted Oak Ln",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 562 2258",
+    "sg:postcode":"84094",
+    "sg:province":"UT",
+    "sg:tags":[
+        "refinishing",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85833023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ALOitwoskUR70ojSnmXmN_40.586625_-111.867161@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128646,
+    "wof:geomhash":"7d284d80cfc4a83b54e89f459594619e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85833023,
+            "region_id":85688567,
+            "venue_id":857401151
+        }
+    ],
+    "wof:id":857401151,
+    "wof:lastmodified":1464128646,
+    "wof:name":"Color Glo",
+    "wof:parent_id":85833023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refinishing",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -111.867161,
+    40.586625,
+    -111.867161,
+    40.586625
+],
+  "geometry": {"coordinates":[-111.867161,40.586625],"type":"Point"}
+}

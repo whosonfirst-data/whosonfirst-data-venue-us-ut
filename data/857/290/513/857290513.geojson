@@ -1,0 +1,73 @@
+{
+  "id": 857290513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.804556,41.293095,-111.804556,41.293095",
+    "geom:latitude":41.293095,
+    "geom:longitude":-111.804556,
+    "iso:country":"US",
+    "sg:address":"6029 E 1900 N",
+    "sg:city":"Eden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 745 0439",
+    "sg:postcode":"84310",
+    "sg:province":"UT",
+    "sg:tags":[
+        "pressure",
+        "cleaning",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85818631,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61Y2xtelLZYpPjcZHVZJfA_41.293095_-111.804556@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126158,
+    "wof:geomhash":"3d8ffd9142dd959273a93fc39face64b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85818631,
+            "region_id":85688567,
+            "venue_id":857290513
+        }
+    ],
+    "wof:id":857290513,
+    "wof:lastmodified":1464126158,
+    "wof:name":"Custom Clean",
+    "wof:parent_id":85818631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pressure",
+        "cleaning",
+        "custom"
+    ]
+},
+  "bbox": [
+    -111.804556,
+    41.293095,
+    -111.804556,
+    41.293095
+],
+  "geometry": {"coordinates":[-111.80455600000001,41.293095],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857308223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.658754,40.234024,-111.658754,40.234024",
+    "geom:latitude":40.234024,
+    "geom:longitude":-111.658754,
+    "iso:country":"US",
+    "sg:address":"77 N University Ave",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 377 8845",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "food"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sgMpXEAcG0wxwEmY0i1rw_40.234024_-111.658754@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126582,
+    "wof:geomhash":"683fb9fe3ebae169e6393a67d316c7a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880065,
+            "region_id":85688567,
+            "venue_id":857308223
+        }
+    ],
+    "wof:id":857308223,
+    "wof:lastmodified":1464126582,
+    "wof:name":"Chaos Trading Co",
+    "wof:parent_id":85880065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food"
+    ]
+},
+  "bbox": [
+    -111.658754,
+    40.234024,
+    -111.658754,
+    40.234024
+],
+  "geometry": {"coordinates":[-111.658754,40.234024],"type":"Point"}
+}

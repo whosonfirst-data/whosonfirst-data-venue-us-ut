@@ -1,0 +1,76 @@
+{
+  "id": 857494501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.293966,37.176503,-113.293966,37.176503",
+    "geom:latitude":37.176503,
+    "geom:longitude":-113.293966,
+    "iso:country":"US",
+    "sg:address":"310 W State St",
+    "sg:city":"Hurricane",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/hurricane/86041-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 635 3100",
+    "sg:postcode":"84737",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727631,
+        102082879,
+        85824093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QT234AuUCMJvwh2GJvbyz_37.176503_-113.293966@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130750,
+    "wof:geomhash":"d746f671205a3035425f1efeb5b6dac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727631,
+            "neighbourhood_id":85824093,
+            "region_id":85688567,
+            "venue_id":857494501
+        }
+    ],
+    "wof:id":857494501,
+    "wof:lastmodified":1464130750,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85824093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -113.293966,
+    37.176503,
+    -113.293966,
+    37.176503
+],
+  "geometry": {"coordinates":[-113.293966,37.176503],"type":"Point"}
+}

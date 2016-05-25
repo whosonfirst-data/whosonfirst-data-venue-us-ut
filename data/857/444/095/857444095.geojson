@@ -1,0 +1,71 @@
+{
+  "id": 857444095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.669192,40.316472,-111.669192,40.316472",
+    "geom:latitude":40.316472,
+    "geom:longitude":-111.669192,
+    "iso:country":"US",
+    "sg:address":"1121 E 1045 N",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 225 2486",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3S00P7AM5bDYPVHrAfn2Qn_40.316472_-111.669192@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129641,
+    "wof:geomhash":"a51e65782f586f941e8e1f9d81380074",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857444095
+        }
+    ],
+    "wof:id":857444095,
+    "wof:lastmodified":1464129641,
+    "wof:name":"Cascade Systems",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -111.669192,
+    40.316472,
+    -111.669192,
+    40.316472
+],
+  "geometry": {"coordinates":[-111.669192,40.316472],"type":"Point"}
+}

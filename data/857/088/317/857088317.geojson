@@ -1,0 +1,77 @@
+{
+  "id": 857088317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.673806,40.215199,-111.673806,40.215199",
+    "geom:latitude":40.215199,
+    "geom:longitude":-111.673806,
+    "iso:country":"US",
+    "sg:address":"780 W 1400 S",
+    "sg:city":"Fillmore",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 743 5000",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "packaging",
+        "cheese",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LFNDOxML4m5yX8mNMRyhi_40.215199_-111.673806@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121621,
+    "wof:geomhash":"f1179956931d9a374a01c28db1c8b407",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880077,
+            "region_id":85688567,
+            "venue_id":857088317
+        }
+    ],
+    "wof:id":857088317,
+    "wof:lastmodified":1464121621,
+    "wof:name":"Great Lakes Cheese Of Utah",
+    "wof:parent_id":85880077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packaging",
+        "cheese",
+        "plant"
+    ]
+},
+  "bbox": [
+    -111.673806,
+    40.215199,
+    -111.673806,
+    40.215199
+],
+  "geometry": {"coordinates":[-111.673806,40.215199],"type":"Point"}
+}

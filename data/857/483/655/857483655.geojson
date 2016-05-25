@@ -1,0 +1,73 @@
+{
+  "id": 857483655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.631563,40.210406,-111.631563,40.210406",
+    "geom:latitude":40.210406,
+    "geom:longitude":-111.631563,
+    "iso:country":"US",
+    "sg:address":"1785 S State St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Home Furnishings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 9135",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:tags":[
+        "material",
+        "floor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727863,
+        102083567,
+        85880103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SSyJ9kjZxQlsmqptfsGPb_40.210406_-111.631563@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130439,
+    "wof:geomhash":"3e788071e25e442a2054faf968c4326a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880103,
+            "region_id":85688567,
+            "venue_id":857483655
+        }
+    ],
+    "wof:id":857483655,
+    "wof:lastmodified":1464130439,
+    "wof:name":"Western Wholesale Floor Cvrng",
+    "wof:parent_id":85880103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material",
+        "floor"
+    ]
+},
+  "bbox": [
+    -111.631563,
+    40.210406,
+    -111.631563,
+    40.210406
+],
+  "geometry": {"coordinates":[-111.631563,40.210406],"type":"Point"}
+}

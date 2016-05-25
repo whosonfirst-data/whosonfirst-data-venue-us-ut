@@ -1,0 +1,68 @@
+{
+  "id": 857137387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.105723,40.299384,-112.105723,40.299384",
+    "geom:latitude":40.299384,
+    "geom:longitude":-112.105723,
+    "iso:country":"US",
+    "sg:address":"3671 N Fillmore Ave",
+    "sg:city":"Cedar Valley",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 766 0160",
+    "sg:postcode":"84013",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727857,
+        102083567,
+        85836317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57NG2mICIAEEauU2HtISL0_40.299384_-112.105723@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122838,
+    "wof:geomhash":"8ebc7868c63fba7b856a36eb8424b88c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727857,
+            "neighbourhood_id":85836317,
+            "region_id":85688567,
+            "venue_id":857137387
+        }
+    ],
+    "wof:id":857137387,
+    "wof:lastmodified":1464122838,
+    "wof:name":"West Desert Airpark LLC",
+    "wof:parent_id":85836317,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.105723,
+    40.299384,
+    -112.105723,
+    40.299384
+],
+  "geometry": {"coordinates":[-112.105723,40.299384],"type":"Point"}
+}

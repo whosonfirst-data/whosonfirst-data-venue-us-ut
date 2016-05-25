@@ -1,0 +1,71 @@
+{
+  "id": 857351101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.617633,40.096542,-111.617633,40.096542",
+    "geom:latitude":40.096542,
+    "geom:longitude":-111.617633,
+    "iso:country":"US",
+    "sg:address":"2235 E Canyon Rd",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 0635",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "investigator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HUBquifAS1bzvIpW2kob3_40.096542_-111.617633@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127507,
+    "wof:geomhash":"4bc0e961d66abe0defe76ee1b9e9a356",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857351101
+        }
+    ],
+    "wof:id":857351101,
+    "wof:lastmodified":1464127507,
+    "wof:name":"Hunstman Investigations",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investigator"
+    ]
+},
+  "bbox": [
+    -111.617633,
+    40.096542,
+    -111.617633,
+    40.096542
+],
+  "geometry": {"coordinates":[-111.617633,40.096542],"type":"Point"}
+}

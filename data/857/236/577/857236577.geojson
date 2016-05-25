@@ -1,0 +1,73 @@
+{
+  "id": 857236577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.861564,40.66704,-111.861564,40.66704",
+    "geom:latitude":40.66704,
+    "geom:longitude":-111.861564,
+    "iso:country":"US",
+    "sg:address":"4735 S Pintail Ct",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 288 0723",
+    "sg:postcode":"84117",
+    "sg:province":"UT",
+    "sg:tags":[
+        "school",
+        "program",
+        "transportation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85826429,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41mUchXSUh9d57THrCq1QR_40.667040_-111.861564@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124937,
+    "wof:geomhash":"3bb053beb807e80df68461ccc886988b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85826429,
+            "region_id":85688567,
+            "venue_id":857236577
+        }
+    ],
+    "wof:id":857236577,
+    "wof:lastmodified":1464124937,
+    "wof:name":"Public Safety Foundation",
+    "wof:parent_id":85826429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "program",
+        "transportation"
+    ]
+},
+  "bbox": [
+    -111.861564,
+    40.66704,
+    -111.861564,
+    40.66704
+],
+  "geometry": {"coordinates":[-111.861564,40.66704],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 857495373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.032267,40.502936,-112.032267,40.502936",
+    "geom:latitude":40.502936,
+    "geom:longitude":-112.032267,
+    "iso:country":"US",
+    "sg:address":"13676 S Eglantina Dr",
+    "sg:city":"Herriman",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 704 1572 ext. 2900",
+    "sg:postcode":"84096",
+    "sg:province":"UT",
+    "sg:tags":[
+        "hospital-data-based-decision-support-systems",
+        "optimal-staffing-and-scheduling-systems",
+        "appropriate-patient-placement-systems",
+        "data-driven-decision-support",
+        "staff-supply-demand-equilibrium"
+    ],
+    "sg:website":"http://www.tesaris.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728047,
+        102082877,
+        85819751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jkR92RhkUCRWFq8rVVnuo_40.502936_-112.032267@1308186497"
+    },
+    "wof:country":"US",
+    "wof:created":1464130791,
+    "wof:geomhash":"304a992615dae1c88b34ed1100f7d745",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728047,
+            "neighbourhood_id":85819751,
+            "region_id":85688567,
+            "venue_id":857495373
+        }
+    ],
+    "wof:id":857495373,
+    "wof:lastmodified":1464130791,
+    "wof:name":"Tesaris",
+    "wof:parent_id":85819751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital-data-based-decision-support-systems",
+        "optimal-staffing-and-scheduling-systems",
+        "appropriate-patient-placement-systems",
+        "data-driven-decision-support",
+        "staff-supply-demand-equilibrium"
+    ]
+},
+  "bbox": [
+    -112.032267,
+    40.502936,
+    -112.032267,
+    40.502936
+],
+  "geometry": {"coordinates":[-112.032267,40.502936],"type":"Point"}
+}

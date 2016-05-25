@@ -1,0 +1,73 @@
+{
+  "id": 857324563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.97138,41.065831,-111.97138,41.065831",
+    "geom:latitude":41.065831,
+    "geom:longitude":-111.97138,
+    "iso:country":"US",
+    "sg:address":"344 N Main St",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 546 6370",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75Hj0lAIKztWa6AN6tE9W0_41.065831_-111.971380@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126942,
+    "wof:geomhash":"78b81c27d410b75e58366fad04e84070",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857324563
+        }
+    ],
+    "wof:id":857324563,
+    "wof:lastmodified":1464126942,
+    "wof:name":"ANC Cleaners",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -111.97138,
+    41.065831,
+    -111.97138,
+    41.065831
+],
+  "geometry": {"coordinates":[-111.97138,41.065831],"type":"Point"}
+}

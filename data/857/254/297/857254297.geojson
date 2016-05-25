@@ -1,0 +1,69 @@
+{
+  "id": 857254297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.705152,40.236777,-111.705152,40.236777",
+    "geom:latitude":40.236777,
+    "geom:longitude":-111.705152,
+    "iso:country":"US",
+    "sg:address":"2670 W 220 N",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 5049",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880073,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RlxMfKMgBBlNyDS71XhcW_40.236777_-111.705152@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125354,
+    "wof:geomhash":"0929d66666782ad7a778a63f3719133f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880073,
+            "region_id":85688567,
+            "venue_id":857254297
+        }
+    ],
+    "wof:id":857254297,
+    "wof:lastmodified":1464125354,
+    "wof:name":"Cheri Way",
+    "wof:parent_id":85880073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.705152,
+    40.236777,
+    -111.705152,
+    40.236777
+],
+  "geometry": {"coordinates":[-111.705152,40.236777],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857218903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834646,41.745188,-111.834646,41.745188",
+    "geom:latitude":41.745188,
+    "geom:longitude":-111.834646,
+    "iso:country":"US",
+    "sg:address":"775 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 8991",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kKXNsOYAAkjyt7wTRTjsE_41.745188_-111.834646@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124594,
+    "wof:geomhash":"43e0e4ec79378b517aa78f0668ac6568",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857218903
+        }
+    ],
+    "wof:id":857218903,
+    "wof:lastmodified":1464124594,
+    "wof:name":"Carquest Auto Parts",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -111.834646,
+    41.745188,
+    -111.834646,
+    41.745188
+],
+  "geometry": {"coordinates":[-111.83464600000001,41.745188],"type":"Point"}
+}

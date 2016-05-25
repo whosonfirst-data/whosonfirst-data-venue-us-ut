@@ -1,0 +1,82 @@
+{
+  "id": 857303249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.892118,40.718749,-111.892118,40.718749",
+    "geom:latitude":40.718749,
+    "geom:longitude":-111.892118,
+    "iso:country":"US",
+    "sg:address":"78 W 2400 S",
+    "sg:city":"South Salt Lake",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 486 0800",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "asbestos",
+        "laboratory",
+        "analysis"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6czidsjYhHwM7uKBuLED2g_40.718749_-111.892118@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126481,
+    "wof:geomhash":"a6b291f62dae4f6906fade4a68b623d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85808611,
+            "region_id":85688567,
+            "venue_id":857303249
+        }
+    ],
+    "wof:id":857303249,
+    "wof:lastmodified":1464126481,
+    "wof:name":"Dixon Information Inc",
+    "wof:parent_id":85808611,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asbestos",
+        "laboratory",
+        "analysis"
+    ]
+},
+  "bbox": [
+    -111.892118,
+    40.718749,
+    -111.892118,
+    40.718749
+],
+  "geometry": {"coordinates":[-111.892118,40.718749],"type":"Point"}
+}

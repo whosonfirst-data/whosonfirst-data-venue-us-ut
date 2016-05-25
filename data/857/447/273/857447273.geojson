@@ -1,0 +1,83 @@
+{
+  "id": 857447273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.856926,40.593555,-111.856926,40.593555",
+    "geom:latitude":40.593555,
+    "geom:longitude":-111.856926,
+    "iso:country":"US",
+    "sg:address":"8788 S 1185 E",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 567 9616",
+    "sg:postcode":"84094",
+    "sg:province":"UT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85847325,
+        102082877,
+        102191575,
+        101728077,
+        85841043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23q7usslLn8qhnF5ntCZDF_40.593555_-111.856926@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129709,
+    "wof:geomhash":"8019e68d2ed3e67beef4ca5ba949de1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85847325,
+            "region_id":85688567,
+            "venue_id":857447273
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85841043,
+            "region_id":85688567,
+            "venue_id":857447273
+        }
+    ],
+    "wof:id":857447273,
+    "wof:lastmodified":1464129709,
+    "wof:name":"Ace Concrete Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.856926,
+    40.593555,
+    -111.856926,
+    40.593555
+],
+  "geometry": {"coordinates":[-111.856926,40.593555],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857270165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.912074,40.790456,-111.912074,40.790456",
+    "geom:latitude":40.790456,
+    "geom:longitude":-111.912074,
+    "iso:country":"US",
+    "sg:address":"1080 Warm Springs Rd",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 654 3733",
+    "sg:postcode":"84116",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85851619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_199dmMIpD3YqL6zoFDw8FK_40.790456_-111.912074@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125689,
+    "wof:geomhash":"026949b499c7943003664d076f6370eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85851619,
+            "region_id":85688567,
+            "venue_id":857270165
+        }
+    ],
+    "wof:id":857270165,
+    "wof:lastmodified":1464125689,
+    "wof:name":"Foreman Construction Co",
+    "wof:parent_id":85851619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.912074,
+    40.790456,
+    -111.912074,
+    40.790456
+],
+  "geometry": {"coordinates":[-111.912074,40.790456],"type":"Point"}
+}

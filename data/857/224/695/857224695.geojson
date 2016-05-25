@@ -1,0 +1,71 @@
+{
+  "id": 857224695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.820124,41.755576,-111.820124,41.755576",
+    "geom:latitude":41.755576,
+    "geom:longitude":-111.820124,
+    "iso:country":"US",
+    "sg:address":"410 E 1250 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 750 5475",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CPG6vCHC4k7jZla9o0hbM_41.755576_-111.820124@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124706,
+    "wof:geomhash":"be07cba5ce6ffb174df14d9b0bd5d881",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857224695
+        }
+    ],
+    "wof:id":857224695,
+    "wof:lastmodified":1464124706,
+    "wof:name":"Best Friends Child Dev Center",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -111.820124,
+    41.755576,
+    -111.820124,
+    41.755576
+],
+  "geometry": {"coordinates":[-111.82012400000001,41.755576],"type":"Point"}
+}

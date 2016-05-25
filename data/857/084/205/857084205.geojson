@@ -1,0 +1,75 @@
+{
+  "id": 857084205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.865852,40.725343,-111.865852,40.725343",
+    "geom:latitude":40.725343,
+    "geom:longitude":-111.865852,
+    "iso:country":"US",
+    "sg:address":"870 E 2100 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 467 6478",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85858269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AK7ZyqSCq1OHjjvCkhAgg_40.725343_-111.865852@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121514,
+    "wof:geomhash":"059eb25f79c4d6363a315b81a7bba776",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85858269,
+            "region_id":85688567,
+            "venue_id":857084205
+        }
+    ],
+    "wof:id":857084205,
+    "wof:lastmodified":1464121514,
+    "wof:name":"Worlds Of Pets",
+    "wof:parent_id":85858269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.865852,
+    40.725343,
+    -111.865852,
+    40.725343
+],
+  "geometry": {"coordinates":[-111.865852,40.725343],"type":"Point"}
+}

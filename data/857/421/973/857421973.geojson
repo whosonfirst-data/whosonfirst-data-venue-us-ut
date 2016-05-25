@@ -1,0 +1,73 @@
+{
+  "id": 857421973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.792968,41.731359,-111.792968,41.731359",
+    "geom:latitude":41.731359,
+    "geom:longitude":-111.792968,
+    "iso:country":"US",
+    "sg:address":"194 Winding Way",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 2339",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4361sXp8oKZlY2vw1Kl82D_41.731359_-111.792968@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129150,
+    "wof:geomhash":"70644bb005c421d536e6431d460b0093",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857421973
+        }
+    ],
+    "wof:id":857421973,
+    "wof:lastmodified":1464129150,
+    "wof:name":"Janes Construction of Logan",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.792968,
+    41.731359,
+    -111.792968,
+    41.731359
+],
+  "geometry": {"coordinates":[-111.792968,41.731359],"type":"Point"}
+}

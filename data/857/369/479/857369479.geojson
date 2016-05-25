@@ -1,0 +1,75 @@
+{
+  "id": 857369479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.911012,40.546653,-111.911012,40.546653",
+    "geom:latitude":40.546653,
+    "geom:longitude":-111.911012,
+    "iso:country":"US",
+    "sg:address":"11273 Trent Dr",
+    "sg:city":"South Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 576 9787",
+    "sg:postcode":"84095",
+    "sg:province":"UT",
+    "sg:tags":[
+        "equipment",
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727849,
+        102082877,
+        85830089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Kx8VppBmAZttOAhIKmsYw_40.546653_-111.911012@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127891,
+    "wof:geomhash":"61432fc1b29d4daff186ffee3a5b7f0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85830089,
+            "region_id":85688567,
+            "venue_id":857369479
+        }
+    ],
+    "wof:id":857369479,
+    "wof:lastmodified":1464127891,
+    "wof:name":"Automotive Equipment Repair",
+    "wof:parent_id":85830089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "industrial"
+    ]
+},
+  "bbox": [
+    -111.911012,
+    40.546653,
+    -111.911012,
+    40.546653
+],
+  "geometry": {"coordinates":[-111.911012,40.546653],"type":"Point"}
+}

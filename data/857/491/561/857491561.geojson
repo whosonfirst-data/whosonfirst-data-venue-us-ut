@@ -1,0 +1,70 @@
+{
+  "id": 857491561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.798501,40.376798,-111.798501,40.376798",
+    "geom:latitude":40.376798,
+    "geom:longitude":-111.798501,
+    "iso:country":"US",
+    "sg:address":"2 E Main St",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/american-fork-pleasant-grove/34564-tangies-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 4955",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aOvxx69Fj8dDTQomZgoII_40.376798_-111.798501@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130638,
+    "wof:geomhash":"ee6684a8852ea59f1f0d37245b2c12bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857491561
+        }
+    ],
+    "wof:id":857491561,
+    "wof:lastmodified":1464130638,
+    "wof:name":"Tangie's Cafe",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -111.798501,
+    40.376798,
+    -111.798501,
+    40.376798
+],
+  "geometry": {"coordinates":[-111.798501,40.376798],"type":"Point"}
+}

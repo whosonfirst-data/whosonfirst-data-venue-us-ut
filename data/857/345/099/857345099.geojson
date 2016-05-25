@@ -1,0 +1,73 @@
+{
+  "id": 857345099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834834,41.733606,-111.834834,41.733606",
+    "geom:latitude":41.733606,
+    "geom:longitude":-111.834834,
+    "iso:country":"US",
+    "sg:address":"130 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 9555",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57KNsDORZRY5aa997Kd2ku_41.733606_-111.834834@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127375,
+    "wof:geomhash":"3750427ff1a0ef70f5c5471007fdc2fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857345099
+        }
+    ],
+    "wof:id":857345099,
+    "wof:lastmodified":1464127375,
+    "wof:name":"Spring Commucations",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -111.834834,
+    41.733606,
+    -111.834834,
+    41.733606
+],
+  "geometry": {"coordinates":[-111.834834,41.733606],"type":"Point"}
+}

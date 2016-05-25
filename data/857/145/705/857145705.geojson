@@ -1,0 +1,73 @@
+{
+  "id": 857145705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.923507,41.11335,-111.923507,41.11335",
+    "geom:latitude":41.11335,
+    "geom:longitude":-111.923507,
+    "iso:country":"US",
+    "sg:address":"3647 N 2225 E",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 771 8807",
+    "sg:postcode":"84040",
+    "sg:province":"UT",
+    "sg:tags":[
+        "support",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727911,
+        102083563,
+        85847875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15SwydhnmhR0Oh0H1h9ZpH_41.113350_-111.923507@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123055,
+    "wof:geomhash":"200e10bf1edf500000d3171661893dae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727911,
+            "neighbourhood_id":85847875,
+            "region_id":85688567,
+            "venue_id":857145705
+        }
+    ],
+    "wof:id":857145705,
+    "wof:lastmodified":1464123055,
+    "wof:name":"Los Alamos Technical Assoc",
+    "wof:parent_id":85847875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "support",
+        "facility"
+    ]
+},
+  "bbox": [
+    -111.923507,
+    41.11335,
+    -111.923507,
+    41.11335
+],
+  "geometry": {"coordinates":[-111.923507,41.11335],"type":"Point"}
+}

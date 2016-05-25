@@ -1,0 +1,73 @@
+{
+  "id": 857297989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.843664,41.575046,-111.843664,41.575046",
+    "geom:latitude":41.575046,
+    "geom:longitude":-111.843664,
+    "iso:country":"US",
+    "sg:address":"395 W 8700 S",
+    "sg:city":"Paradise",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 245 6001",
+    "sg:postcode":"84328",
+    "sg:province":"UT",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727555,
+        102082881,
+        85823067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5p1EkJEXNBc58pSVXEJGqT_41.575046_-111.843664@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126364,
+    "wof:geomhash":"72b1c7b1192d7688f5113927c3c0d65b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727555,
+            "neighbourhood_id":85823067,
+            "region_id":85688567,
+            "venue_id":857297989
+        }
+    ],
+    "wof:id":857297989,
+    "wof:lastmodified":1464126364,
+    "wof:name":"Humboldt Machine",
+    "wof:parent_id":85823067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.843664,
+    41.575046,
+    -111.843664,
+    41.575046
+],
+  "geometry": {"coordinates":[-111.843664,41.575046],"type":"Point"}
+}

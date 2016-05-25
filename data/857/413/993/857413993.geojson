@@ -1,0 +1,71 @@
+{
+  "id": 857413993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.674717,40.295967,-111.674717,40.295967",
+    "geom:latitude":40.295967,
+    "geom:longitude":-111.674717,
+    "iso:country":"US",
+    "sg:address":"117 S 860 E",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 762 0412",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WWle5fydep2eIaAD8CFSP_40.295967_-111.674717@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128944,
+    "wof:geomhash":"0296c4055dc1d7ce33e764c4805e0224",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857413993
+        }
+    ],
+    "wof:id":857413993,
+    "wof:lastmodified":1464128944,
+    "wof:name":"Rdg Construction",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.674717,
+    40.295967,
+    -111.674717,
+    40.295967
+],
+  "geometry": {"coordinates":[-111.674717,40.295967],"type":"Point"}
+}

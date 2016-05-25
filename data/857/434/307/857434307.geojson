@@ -1,0 +1,71 @@
+{
+  "id": 857434307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.637494,40.099473,-111.637494,40.099473",
+    "geom:latitude":40.099473,
+    "geom:longitude":-111.637494,
+    "iso:country":"US",
+    "sg:address":"802 S 950 E",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 794 2263",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VEv7CwOTKuWXdre36jda0_40.099473_-111.637494@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129452,
+    "wof:geomhash":"3eefa82412c66ffbfd58019074d2cc1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857434307
+        }
+    ],
+    "wof:id":857434307,
+    "wof:lastmodified":1464129452,
+    "wof:name":"Groos Full Service Salon",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.637494,
+    40.099473,
+    -111.637494,
+    40.099473
+],
+  "geometry": {"coordinates":[-111.637494,40.099473],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857319897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.654705,40.11078,-111.654705,40.11078",
+    "geom:latitude":40.11078,
+    "geom:longitude":-111.654705,
+    "iso:country":"US",
+    "sg:address":"30 N Main St",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 8601",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Fgu2GW5CgknZwBO12aFE9_40.110780_-111.654705@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126848,
+    "wof:geomhash":"a6c41a819b47e4e1e50fb1d304bdab39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857319897
+        }
+    ],
+    "wof:id":857319897,
+    "wof:lastmodified":1464126848,
+    "wof:name":"Two Jack's Pizza",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -111.654705,
+    40.11078,
+    -111.654705,
+    40.11078
+],
+  "geometry": {"coordinates":[-111.65470500000001,40.11078],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857321233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.818938,41.738875,-111.818938,41.738875",
+    "geom:latitude":41.738875,
+    "geom:longitude":-111.818938,
+    "iso:country":"US",
+    "sg:address":"619 E 400 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 770 8257",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2i9SN7s7WKo6z4bzdt9NPJ_41.738875_-111.818938@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126874,
+    "wof:geomhash":"0f3d54dcff5180dd0730dafe7ebdb221",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857321233
+        }
+    ],
+    "wof:id":857321233,
+    "wof:lastmodified":1464126874,
+    "wof:name":"Art Farm",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -111.818938,
+    41.738875,
+    -111.818938,
+    41.738875
+],
+  "geometry": {"coordinates":[-111.818938,41.738875],"type":"Point"}
+}

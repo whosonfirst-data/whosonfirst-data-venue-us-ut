@@ -1,0 +1,71 @@
+{
+  "id": 857438943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.782591,40.382918,-111.782591,40.382918",
+    "geom:latitude":40.382918,
+    "geom:longitude":-111.782591,
+    "iso:country":"US",
+    "sg:address":"235 N 600 E",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 0571",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "builder",
+        "deck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xWvL1KQAp32cRm2U7A1h7_40.382918_-111.782591@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129549,
+    "wof:geomhash":"518ab321153a96030f7619a44ff633f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857438943
+        }
+    ],
+    "wof:id":857438943,
+    "wof:lastmodified":1464129549,
+    "wof:name":"Ellrebo",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "deck"
+    ]
+},
+  "bbox": [
+    -111.782591,
+    40.382918,
+    -111.782591,
+    40.382918
+],
+  "geometry": {"coordinates":[-111.782591,40.382918],"type":"Point"}
+}

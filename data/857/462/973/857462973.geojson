@@ -1,0 +1,71 @@
+{
+  "id": 857462973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.899008,41.005091,-111.899008,41.005091",
+    "geom:latitude":41.005091,
+    "geom:longitude":-111.899008,
+    "iso:country":"US",
+    "sg:address":"1467 Cherry Blossom Dr",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 447 3300",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Pvpc3LKyUSo30pKMJe01p_41.005091_-111.899008@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130007,
+    "wof:geomhash":"e3dc2e0d3dd417ff20a095945fe0bf45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857462973
+        }
+    ],
+    "wof:id":857462973,
+    "wof:lastmodified":1464130007,
+    "wof:name":"Optionomics Corp",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [
+    -111.899008,
+    41.005091,
+    -111.899008,
+    41.005091
+],
+  "geometry": {"coordinates":[-111.89900799999999,41.005091],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857323463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.833438,40.39608,-111.833438,40.39608",
+    "geom:latitude":40.39608,
+    "geom:longitude":-111.833438,
+    "iso:country":"US",
+    "sg:address":"925 E 700 N",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 768 4294",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "glass",
+        "leaded"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wkpnwXzDKWtEW0w7omzRy_40.396080_-111.833438@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126921,
+    "wof:geomhash":"b072b8058da12b6bb0c07244fd5689b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857323463
+        }
+    ],
+    "wof:id":857323463,
+    "wof:lastmodified":1464126921,
+    "wof:name":"Peacock Studios",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "leaded"
+    ]
+},
+  "bbox": [
+    -111.833438,
+    40.39608,
+    -111.833438,
+    40.39608
+],
+  "geometry": {"coordinates":[-111.833438,40.39608],"type":"Point"}
+}

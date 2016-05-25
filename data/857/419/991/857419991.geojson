@@ -1,0 +1,71 @@
+{
+  "id": 857419991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.662039,40.312834,-111.662039,40.312834",
+    "geom:latitude":40.312834,
+    "geom:longitude":-111.662039,
+    "iso:country":"US",
+    "sg:address":"1415 E 840 N",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 226 2788",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QGoL7XO8ICdzB9eUC0tpo_40.312834_-111.662039@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129093,
+    "wof:geomhash":"ed81ae338b8fc22ba9bf0a10c412dbdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857419991
+        }
+    ],
+    "wof:id":857419991,
+    "wof:lastmodified":1464129093,
+    "wof:name":"Rocky Mountain West Constr",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.662039,
+    40.312834,
+    -111.662039,
+    40.312834
+],
+  "geometry": {"coordinates":[-111.66203899999999,40.312834],"type":"Point"}
+}

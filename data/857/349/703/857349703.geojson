@@ -1,0 +1,75 @@
+{
+  "id": 857349703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.680087,40.253379,-111.680087,40.253379",
+    "geom:latitude":40.253379,
+    "geom:longitude":-111.680087,
+    "iso:country":"US",
+    "sg:address":"1193 W 1460 N",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 5312",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "cement",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vwpO9vOpbGicY1zS8BThG_40.253379_-111.680087@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127479,
+    "wof:geomhash":"c1cf0102d09d7695723ac6d4fb4d6c4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880107,
+            "region_id":85688567,
+            "venue_id":857349703
+        }
+    ],
+    "wof:id":857349703,
+    "wof:lastmodified":1464127479,
+    "wof:name":"Ewell Brothers Construction",
+    "wof:parent_id":85880107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cement",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.680087,
+    40.253379,
+    -111.680087,
+    40.253379
+],
+  "geometry": {"coordinates":[-111.680087,40.253379],"type":"Point"}
+}

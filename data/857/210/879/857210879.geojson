@@ -1,0 +1,73 @@
+{
+  "id": 857210879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.736496,40.338033,-111.736496,40.338033",
+    "geom:latitude":40.338033,
+    "geom:longitude":-111.736496,
+    "iso:country":"US",
+    "sg:address":"950 W Center St",
+    "sg:city":"Lindon",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 785 0851",
+    "sg:postcode":"84042",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727869,
+        102083567,
+        85823969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oNicLJuEPt822uRwe26w6_40.338033_-111.736496@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124411,
+    "wof:geomhash":"2b72b998aecc3f5be899dfc1ffc47817",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727869,
+            "neighbourhood_id":85823969,
+            "region_id":85688567,
+            "venue_id":857210879
+        }
+    ],
+    "wof:id":857210879,
+    "wof:lastmodified":1464124411,
+    "wof:name":"Redman Van & Storage Co",
+    "wof:parent_id":85823969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -111.736496,
+    40.338033,
+    -111.736496,
+    40.338033
+],
+  "geometry": {"coordinates":[-111.736496,40.338033],"type":"Point"}
+}

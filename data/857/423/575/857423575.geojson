@@ -1,0 +1,75 @@
+{
+  "id": 857423575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.663786,40.236515,-111.663786,40.236515",
+    "geom:latitude":40.236515,
+    "geom:longitude":-111.663786,
+    "iso:country":"US",
+    "sg:address":"210 W 200 N",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 375 7740",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "translator",
+        "interpreter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2m1tCDlaosoBhE2HDCG96q_40.236515_-111.663786@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129180,
+    "wof:geomhash":"56657f73c8c7053cff50ebb2f8683c2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880121,
+            "region_id":85688567,
+            "venue_id":857423575
+        }
+    ],
+    "wof:id":857423575,
+    "wof:lastmodified":1464129180,
+    "wof:name":"Translation One",
+    "wof:parent_id":85880121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "translator",
+        "interpreter"
+    ]
+},
+  "bbox": [
+    -111.663786,
+    40.236515,
+    -111.663786,
+    40.236515
+],
+  "geometry": {"coordinates":[-111.663786,40.236515],"type":"Point"}
+}

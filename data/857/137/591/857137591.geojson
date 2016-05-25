@@ -1,0 +1,69 @@
+{
+  "id": 857137591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.837178,40.392827,-111.837178,40.392827",
+    "geom:latitude":40.392827,
+    "geom:longitude":-111.837178,
+    "iso:country":"US",
+    "sg:address":"790 E State St",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 768 4442",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "foundry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IcBdWfgi2rOiBT2WOPct9_40.392827_-111.837178@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122842,
+    "wof:geomhash":"95e86d5f1f6d44321fb608a1fc1faaaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857137591
+        }
+    ],
+    "wof:id":857137591,
+    "wof:lastmodified":1464122842,
+    "wof:name":"Metal Art Foundry",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundry"
+    ]
+},
+  "bbox": [
+    -111.837178,
+    40.392827,
+    -111.837178,
+    40.392827
+],
+  "geometry": {"coordinates":[-111.83717799999999,40.392827],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857178467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.657781,40.019135,-111.657781,40.019135",
+    "geom:latitude":40.019135,
+    "geom:longitude":-111.657781,
+    "iso:country":"US",
+    "sg:address":"110 W Oak Cir",
+    "sg:city":"Woodland Hills",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 423 2345",
+    "sg:postcode":"84653",
+    "sg:province":"UT",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4866Grl8PAAfM0aquv28Ou_40.019135_-111.657781@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123761,
+    "wof:geomhash":"fab98318a6acd3ecf3369d9517271e47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857178467
+        }
+    ],
+    "wof:id":857178467,
+    "wof:lastmodified":1464123761,
+    "wof:name":"Capozzoli Construction",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -111.657781,
+    40.019135,
+    -111.657781,
+    40.019135
+],
+  "geometry": {"coordinates":[-111.657781,40.019135],"type":"Point"}
+}

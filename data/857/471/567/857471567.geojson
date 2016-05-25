@@ -1,0 +1,75 @@
+{
+  "id": 857471567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.987626,41.259315,-111.987626,41.259315",
+    "geom:latitude":41.259315,
+    "geom:longitude":-111.987626,
+    "iso:country":"US",
+    "sg:address":"401 W 2nd St",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 621 2089",
+    "sg:postcode":"84404",
+    "sg:province":"UT",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85815115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51G62gK2w7AFLPix9R94Ya_41.259315_-111.987626@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130207,
+    "wof:geomhash":"82b2664068c940b09de6ed008a54fd11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85815115,
+            "region_id":85688567,
+            "venue_id":857471567
+        }
+    ],
+    "wof:id":857471567,
+    "wof:lastmodified":1464130207,
+    "wof:name":"Sims & Sons Construction Inc",
+    "wof:parent_id":85815115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.987626,
+    41.259315,
+    -111.987626,
+    41.259315
+],
+  "geometry": {"coordinates":[-111.98762600000001,41.259315],"type":"Point"}
+}

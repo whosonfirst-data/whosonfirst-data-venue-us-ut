@@ -1,0 +1,75 @@
+{
+  "id": 857143529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.076223,41.180754,-112.076223,41.180754",
+    "geom:latitude":41.180754,
+    "geom:longitude":-112.076223,
+    "iso:country":"US",
+    "sg:address":"3972 W 4550 S",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 731 7542",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85804651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xriz2t4SzblO5AT8bcD1S_41.180754_-112.076223@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122982,
+    "wof:geomhash":"1004d2b82f83850a5e903c2eb17e52b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85804651,
+            "region_id":85688567,
+            "venue_id":857143529
+        }
+    ],
+    "wof:id":857143529,
+    "wof:lastmodified":1464122982,
+    "wof:name":"A-Line Electric",
+    "wof:parent_id":85804651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -112.076223,
+    41.180754,
+    -112.076223,
+    41.180754
+],
+  "geometry": {"coordinates":[-112.076223,41.180754],"type":"Point"}
+}

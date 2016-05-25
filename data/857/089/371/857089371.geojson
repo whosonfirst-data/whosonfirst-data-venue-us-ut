@@ -1,0 +1,73 @@
+{
+  "id": 857089371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.889568,40.630675,-111.889568,40.630675",
+    "geom:latitude":40.630675,
+    "geom:longitude":-111.889568,
+    "iso:country":"US",
+    "sg:address":"6665 S State St",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 262 0900",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85825767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IZ7ol14NaMqJaoKbCVttO_40.630675_-111.889568@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121654,
+    "wof:geomhash":"716f420babe822a6aac2ec4381db2c12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85825767,
+            "region_id":85688567,
+            "venue_id":857089371
+        }
+    ],
+    "wof:id":857089371,
+    "wof:lastmodified":1464121654,
+    "wof:name":"Cash America Pawn",
+    "wof:parent_id":85825767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -111.889568,
+    40.630675,
+    -111.889568,
+    40.630675
+],
+  "geometry": {"coordinates":[-111.889568,40.630675],"type":"Point"}
+}

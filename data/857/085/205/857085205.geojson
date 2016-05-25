@@ -1,0 +1,76 @@
+{
+  "id": 857085205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.6987,40.237383,-111.6987,40.237383",
+    "geom:latitude":40.237383,
+    "geom:longitude":-111.6987,
+    "iso:country":"US",
+    "sg:address":"2288 W 300 N",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 375 5764",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "recording",
+        "studio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880073,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fKzvZSSe8LA9XGvbG7N9W_40.237383_-111.698700@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121536,
+    "wof:geomhash":"3035cff41313cebac036c1f03d25fa4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880073,
+            "region_id":85688567,
+            "venue_id":857085205
+        }
+    ],
+    "wof:id":857085205,
+    "wof:lastmodified":1464121536,
+    "wof:name":"Rosewood Recording Co Inc",
+    "wof:parent_id":85880073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recording",
+        "studio"
+    ]
+},
+  "bbox": [
+    -111.6987,
+    40.237383,
+    -111.6987,
+    40.237383
+],
+  "geometry": {"coordinates":[-111.6987,40.237383],"type":"Point"}
+}

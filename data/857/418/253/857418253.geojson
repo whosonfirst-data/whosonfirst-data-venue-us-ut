@@ -1,0 +1,76 @@
+{
+  "id": 857418253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.847176,40.766891,-111.847176,40.766891",
+    "geom:latitude":40.766891,
+    "geom:longitude":-111.847176,
+    "iso:country":"US",
+    "sg:address":"288 S 1460 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 538 6280",
+    "sg:postcode":"84112",
+    "sg:province":"UT",
+    "sg:tags":[
+        "state",
+        "resource"
+    ],
+    "sg:website":"www.utah.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85806677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ojFQ204LgLxwNRNGT96Nz_40.766891_-111.847176@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129064,
+    "wof:geomhash":"f490d56082467c51ca8f3e5e055e534c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85806677,
+            "region_id":85688567,
+            "venue_id":857418253
+        }
+    ],
+    "wof:id":857418253,
+    "wof:lastmodified":1464129064,
+    "wof:name":"Emergency Medical Svc Bureau",
+    "wof:parent_id":85806677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "resource"
+    ]
+},
+  "bbox": [
+    -111.847176,
+    40.766891,
+    -111.847176,
+    40.766891
+],
+  "geometry": {"coordinates":[-111.847176,40.766891],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857222501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.789152,39.969017,-111.789152,39.969017",
+    "geom:latitude":39.969017,
+    "geom:longitude":-111.789152,
+    "iso:country":"US",
+    "sg:address":"125 W 400 S",
+    "sg:city":"Santaquin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 787 9385",
+    "sg:postcode":"84655",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5c5k298BvSvsBjaZE4H3ZI_39.969017_-111.789152@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124666,
+    "wof:geomhash":"3db8f64f7b006a08f0a2f7d6c298a148",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857222501
+        }
+    ],
+    "wof:id":857222501,
+    "wof:lastmodified":1464124666,
+    "wof:name":"Joshue D Smith",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -111.789152,
+    39.969017,
+    -111.789152,
+    39.969017
+],
+  "geometry": {"coordinates":[-111.789152,39.969017],"type":"Point"}
+}

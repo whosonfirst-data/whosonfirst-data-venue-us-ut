@@ -1,0 +1,75 @@
+{
+  "id": 857089229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.883934,40.686988,-111.883934,40.686988",
+    "geom:latitude":40.686988,
+    "geom:longitude":-111.883934,
+    "iso:country":"US",
+    "sg:address":"292 E 3900 S",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 268 4111",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85810147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uLssVIxmFZae9xdx7rev4_40.686988_-111.883934@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121649,
+    "wof:geomhash":"d21a975c5348097f0098c384259192cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85810147,
+            "region_id":85688567,
+            "venue_id":857089229
+        }
+    ],
+    "wof:id":857089229,
+    "wof:lastmodified":1464121649,
+    "wof:name":"ABC Mortgage Svc",
+    "wof:parent_id":85810147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -111.883934,
+    40.686988,
+    -111.883934,
+    40.686988
+],
+  "geometry": {"coordinates":[-111.883934,40.686988],"type":"Point"}
+}

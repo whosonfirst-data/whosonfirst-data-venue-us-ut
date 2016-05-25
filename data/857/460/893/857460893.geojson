@@ -1,0 +1,73 @@
+{
+  "id": 857460893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.901846,40.736637,-111.901846,40.736637",
+    "geom:latitude":40.736637,
+    "geom:longitude":-111.901846,
+    "iso:country":"US",
+    "sg:address":"325 Andrew Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 487 6065",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85854115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xfdZrAXv05CpJr5ZJfFbg_40.736637_-111.901846@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129969,
+    "wof:geomhash":"52391be539eeb6dd0fe422d559547dcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85854115,
+            "region_id":85688567,
+            "venue_id":857460893
+        }
+    ],
+    "wof:id":857460893,
+    "wof:lastmodified":1464129969,
+    "wof:name":"Silver Star Event Services",
+    "wof:parent_id":85854115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.901846,
+    40.736637,
+    -111.901846,
+    40.736637
+],
+  "geometry": {"coordinates":[-111.90184600000001,40.736637],"type":"Point"}
+}

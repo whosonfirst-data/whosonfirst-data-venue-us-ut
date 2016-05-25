@@ -1,0 +1,68 @@
+{
+  "id": 857188865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.891338,40.535869,-111.891338,40.535869",
+    "geom:latitude":40.535869,
+    "geom:longitude":-111.891338,
+    "iso:country":"US",
+    "sg:address":"12101 Factory Outlet Dr",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 572 1669",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727849,
+        102082877,
+        85823005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iVytCqThoQzE0oNDP1xjU_40.535869_-111.891338@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123967,
+    "wof:geomhash":"a08c4b081a08b032377408c13e748788",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85823005,
+            "region_id":85688567,
+            "venue_id":857188865
+        }
+    ],
+    "wof:id":857188865,
+    "wof:lastmodified":1464123967,
+    "wof:name":"Buxton Factory Outlet",
+    "wof:parent_id":85823005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.891338,
+    40.535869,
+    -111.891338,
+    40.535869
+],
+  "geometry": {"coordinates":[-111.891338,40.535869],"type":"Point"}
+}

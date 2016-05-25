@@ -1,0 +1,73 @@
+{
+  "id": 857228179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.827692,41.731369,-111.827692,41.731369",
+    "geom:latitude":41.731369,
+    "geom:longitude":-111.827692,
+    "iso:country":"US",
+    "sg:address":"293 E Center St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 4317",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gmTha2Wgzbm1t4OOY62At_41.731369_-111.827692@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124775,
+    "wof:geomhash":"8e13ed619d277aaed263d79902c579af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857228179
+        }
+    ],
+    "wof:id":857228179,
+    "wof:lastmodified":1464124775,
+    "wof:name":"Cox Electric",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.827692,
+    41.731369,
+    -111.827692,
+    41.731369
+],
+  "geometry": {"coordinates":[-111.827692,41.731369],"type":"Point"}
+}

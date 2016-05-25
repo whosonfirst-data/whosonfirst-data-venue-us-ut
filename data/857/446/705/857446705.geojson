@@ -1,0 +1,73 @@
+{
+  "id": 857446705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.673614,40.259312,-111.673614,40.259312",
+    "geom:latitude":40.259312,
+    "geom:longitude":-111.673614,
+    "iso:country":"US",
+    "sg:address":"850 W 1850 N",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 370 9792",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bhPtNzGMVFXGuiRyYoErZ_40.259312_-111.673614@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129695,
+    "wof:geomhash":"03b2c1089aca5e6e410c94af5f896983",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880063,
+            "region_id":85688567,
+            "venue_id":857446705
+        }
+    ],
+    "wof:id":857446705,
+    "wof:lastmodified":1464129695,
+    "wof:name":"Harman Apartments",
+    "wof:parent_id":85880063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -111.673614,
+    40.259312,
+    -111.673614,
+    40.259312
+],
+  "geometry": {"coordinates":[-111.673614,40.259312],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857470083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.730472,40.044614,-111.730472,40.044614",
+    "geom:latitude":40.044614,
+    "geom:longitude":-111.730472,
+    "iso:country":"US",
+    "sg:address":"123 E 100 N",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 2212",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qGcsFZoQm185o5KmSUmgU_40.044614_-111.730472@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130173,
+    "wof:geomhash":"50aa14b1a32745daf4afe8e54f164f9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857470083
+        }
+    ],
+    "wof:id":857470083,
+    "wof:lastmodified":1464130173,
+    "wof:name":"Prospective Health Inc",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -111.730472,
+    40.044614,
+    -111.730472,
+    40.044614
+],
+  "geometry": {"coordinates":[-111.73047200000001,40.044614],"type":"Point"}
+}

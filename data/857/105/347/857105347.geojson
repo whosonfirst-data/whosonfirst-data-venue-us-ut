@@ -1,0 +1,75 @@
+{
+  "id": 857105347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.607492,37.062437,-113.607492,37.062437",
+    "geom:latitude":37.062437,
+    "geom:longitude":-113.607492,
+    "iso:country":"US",
+    "sg:address":"1116 Escalante Dr",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 688 9195",
+    "sg:postcode":"84790",
+    "sg:province":"UT",
+    "sg:tags":[
+        "processing",
+        "electronic",
+        "payment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727617,
+        102082879,
+        85803851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7er9o4ubD8Qerr9I4XbufY_37.062437_-113.607492@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122033,
+    "wof:geomhash":"13de2162f6fc3332a4b66d72978425f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85803851,
+            "region_id":85688567,
+            "venue_id":857105347
+        }
+    ],
+    "wof:id":857105347,
+    "wof:lastmodified":1464122033,
+    "wof:name":"Electronic Payment Processing",
+    "wof:parent_id":85803851,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "processing",
+        "electronic",
+        "payment"
+    ]
+},
+  "bbox": [
+    -113.607492,
+    37.062437,
+    -113.607492,
+    37.062437
+],
+  "geometry": {"coordinates":[-113.60749199999999,37.062437],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857260723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.868738,40.537356,-111.868738,40.537356",
+    "geom:latitude":40.537356,
+    "geom:longitude":-111.868738,
+    "iso:country":"US",
+    "sg:address":"751 Sunset Ponds Dr",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 495 9039",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "residential",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727849,
+        102082877,
+        85858009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02SRh8aCRGQ51Peb4Fxpjq_40.537356_-111.868738@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125503,
+    "wof:geomhash":"27546039e13200d630213ed96e388f9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85858009,
+            "region_id":85688567,
+            "venue_id":857260723
+        }
+    ],
+    "wof:id":857260723,
+    "wof:lastmodified":1464125503,
+    "wof:name":"Judd Construction Inc",
+    "wof:parent_id":85858009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -111.868738,
+    40.537356,
+    -111.868738,
+    40.537356
+],
+  "geometry": {"coordinates":[-111.86873799999999,40.537356],"type":"Point"}
+}

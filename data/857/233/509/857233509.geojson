@@ -1,0 +1,71 @@
+{
+  "id": 857233509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834967,41.73016,-111.834967,41.73016",
+    "geom:latitude":41.73016,
+    "geom:longitude":-111.834967,
+    "iso:country":"US",
+    "sg:address":"94 S Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 750 7870",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "cruise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_604KZ9M4Z2YtM5nJegHPhS_41.730160_-111.834967@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124870,
+    "wof:geomhash":"aaaf51b3dfa0e3a24e7ba6348b508d7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857233509
+        }
+    ],
+    "wof:id":857233509,
+    "wof:lastmodified":1464124870,
+    "wof:name":"Alpine Travel",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cruise"
+    ]
+},
+  "bbox": [
+    -111.834967,
+    41.73016,
+    -111.834967,
+    41.73016
+],
+  "geometry": {"coordinates":[-111.83496700000001,41.73016],"type":"Point"}
+}

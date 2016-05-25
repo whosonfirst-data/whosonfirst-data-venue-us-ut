@@ -1,0 +1,73 @@
+{
+  "id": 857359391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.870368,40.536669,-111.870368,40.536669",
+    "geom:latitude":40.536669,
+    "geom:longitude":-111.870368,
+    "iso:country":"US",
+    "sg:address":"721 Shading Ln",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 501 9542",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "communication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727849,
+        102082877,
+        85858009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QVDJYhQauUI8O2pbMcDUB_40.536669_-111.870368@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127686,
+    "wof:geomhash":"dcdfb6ad13bf36863844fb0f59a8d453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85858009,
+            "region_id":85688567,
+            "venue_id":857359391
+        }
+    ],
+    "wof:id":857359391,
+    "wof:lastmodified":1464127686,
+    "wof:name":"Datacentered LLC",
+    "wof:parent_id":85858009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication"
+    ]
+},
+  "bbox": [
+    -111.870368,
+    40.536669,
+    -111.870368,
+    40.536669
+],
+  "geometry": {"coordinates":[-111.870368,40.536669],"type":"Point"}
+}

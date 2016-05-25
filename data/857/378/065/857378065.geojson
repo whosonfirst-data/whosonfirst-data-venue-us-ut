@@ -1,0 +1,73 @@
+{
+  "id": 857378065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.025945,41.120018,-112.025945,41.120018",
+    "geom:latitude":41.120018,
+    "geom:longitude":-112.025945,
+    "iso:country":"US",
+    "sg:address":"320 N Main St",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 728 9717",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85851583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Fau4uXoZiH46ObZcAYENO_41.120018_-112.025945@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128076,
+    "wof:geomhash":"8667aeba566a5e6299e0c7e7ab33dfe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85851583,
+            "region_id":85688567,
+            "venue_id":857378065
+        }
+    ],
+    "wof:id":857378065,
+    "wof:lastmodified":1464128076,
+    "wof:name":"J RS Service Center",
+    "wof:parent_id":85851583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -112.025945,
+    41.120018,
+    -112.025945,
+    41.120018
+],
+  "geometry": {"coordinates":[-112.02594499999999,41.120018],"type":"Point"}
+}

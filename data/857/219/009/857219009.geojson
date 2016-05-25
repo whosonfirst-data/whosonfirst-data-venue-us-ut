@@ -1,0 +1,73 @@
+{
+  "id": 857219009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834933,41.730934,-111.834933,41.730934",
+    "geom:latitude":41.730934,
+    "geom:longitude":-111.834933,
+    "iso:country":"US",
+    "sg:address":"36 S Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 4602",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "tile",
+        "ceramic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1M6Kok52432dtXasPXyZ7K_41.730934_-111.834933@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124596,
+    "wof:geomhash":"646027b79a4b3a1509ff19556358a197",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857219009
+        }
+    ],
+    "wof:id":857219009,
+    "wof:lastmodified":1464124596,
+    "wof:name":"Carpets Plus",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "ceramic"
+    ]
+},
+  "bbox": [
+    -111.834933,
+    41.730934,
+    -111.834933,
+    41.730934
+],
+  "geometry": {"coordinates":[-111.83493300000001,41.730934],"type":"Point"}
+}

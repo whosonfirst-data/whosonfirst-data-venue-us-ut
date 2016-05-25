@@ -1,0 +1,79 @@
+{
+  "id": 857149341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.88761,40.526693,-111.88761,40.526693",
+    "geom:latitude":40.526693,
+    "geom:longitude":-111.88761,
+    "iso:country":"US",
+    "sg:address":"264 E 12300 S",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 523 1716",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727849,
+        102082877,
+        85823005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UFl98DBLNFWV85LODofLo_40.526693_-111.887610@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123136,
+    "wof:geomhash":"3481b678f5e23d35c9422cc28add97d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85823005,
+            "region_id":85688567,
+            "venue_id":857149341
+        }
+    ],
+    "wof:id":857149341,
+    "wof:lastmodified":1464123136,
+    "wof:name":"Hollywood Video",
+    "wof:parent_id":85823005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -111.88761,
+    40.526693,
+    -111.88761,
+    40.526693
+],
+  "geometry": {"coordinates":[-111.88761,40.526693],"type":"Point"}
+}

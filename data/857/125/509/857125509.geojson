@@ -1,0 +1,75 @@
+{
+  "id": 857125509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.733702,40.302845,-111.733702,40.302845",
+    "geom:latitude":40.302845,
+    "geom:longitude":-111.733702,
+    "iso:country":"US",
+    "sg:address":"74 N Geneva Rd",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 6084",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727827,
+        102083567,
+        85821287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17CqkbPG1riSPRFPihZ3m6_40.302845_-111.733702@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122579,
+    "wof:geomhash":"b8fcaec00e42f087392db6c5cbe91247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727827,
+            "neighbourhood_id":85821287,
+            "region_id":85688567,
+            "venue_id":857125509
+        }
+    ],
+    "wof:id":857125509,
+    "wof:lastmodified":1464122579,
+    "wof:name":"Medallion Motors",
+    "wof:parent_id":85821287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -111.733702,
+    40.302845,
+    -111.733702,
+    40.302845
+],
+  "geometry": {"coordinates":[-111.73370199999999,40.302845],"type":"Point"}
+}

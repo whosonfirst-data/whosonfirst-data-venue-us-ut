@@ -1,0 +1,66 @@
+{
+  "id": 857411273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.738311,40.059983,-111.738311,40.059983",
+    "geom:latitude":40.059983,
+    "geom:longitude":-111.738311,
+    "iso:country":"US",
+    "sg:address":"9388 S 3550 West St",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 3134",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uSD7pHU8Dn7vuFc3IaP8t_40.059983_-111.738311@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128882,
+    "wof:geomhash":"9f81881092020df043d6afc52ef8d5fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857411273
+        }
+    ],
+    "wof:id":857411273,
+    "wof:lastmodified":1464128882,
+    "wof:name":"Hanks Performance Sports",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.738311,
+    40.059983,
+    -111.738311,
+    40.059983
+],
+  "geometry": {"coordinates":[-111.738311,40.059983],"type":"Point"}
+}

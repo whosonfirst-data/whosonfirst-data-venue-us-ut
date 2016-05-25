@@ -1,0 +1,68 @@
+{
+  "id": 857174999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.01233,41.100682,-112.01233,41.100682",
+    "geom:latitude":41.100682,
+    "geom:longitude":-112.01233,
+    "iso:country":"US",
+    "sg:address":"930 State St",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 773 1400",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85851583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bsoNoTPWnVWR1eQ4kNaz9_41.100682_-112.012330@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123694,
+    "wof:geomhash":"62f59d5eda3f3e9e97a5ac5c76dfef4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85851583,
+            "region_id":85688567,
+            "venue_id":857174999
+        }
+    ],
+    "wof:id":857174999,
+    "wof:lastmodified":1464123694,
+    "wof:name":"Tom Stanger Insurance",
+    "wof:parent_id":85851583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.01233,
+    41.100682,
+    -112.01233,
+    41.100682
+],
+  "geometry": {"coordinates":[-112.01233000000001,41.100682],"type":"Point"}
+}

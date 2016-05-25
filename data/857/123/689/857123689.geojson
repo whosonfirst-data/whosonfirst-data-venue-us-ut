@@ -1,0 +1,75 @@
+{
+  "id": 857123689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.726964,40.286511,-111.726964,40.286511",
+    "geom:latitude":40.286511,
+    "geom:longitude":-111.726964,
+    "iso:country":"US",
+    "sg:address":"615 S 1325 W",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 221 5858",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electric",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727827,
+        102083567,
+        85821287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IBotIUA1rpNLvSIdS1bQC_40.286511_-111.726964@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122543,
+    "wof:geomhash":"516f2ff20795bd7464519568fc169cc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727827,
+            "neighbourhood_id":85821287,
+            "region_id":85688567,
+            "venue_id":857123689
+        }
+    ],
+    "wof:id":857123689,
+    "wof:lastmodified":1464122543,
+    "wof:name":"Johnstone Supply",
+    "wof:parent_id":85821287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "motor"
+    ]
+},
+  "bbox": [
+    -111.726964,
+    40.286511,
+    -111.726964,
+    40.286511
+],
+  "geometry": {"coordinates":[-111.726964,40.286511],"type":"Point"}
+}

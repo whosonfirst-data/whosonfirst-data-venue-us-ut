@@ -1,0 +1,75 @@
+{
+  "id": 857144705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.610679,40.177249,-111.610679,40.177249",
+    "geom:latitude":40.177249,
+    "geom:longitude":-111.610679,
+    "iso:country":"US",
+    "sg:address":"715 N Main St",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 636 5231",
+    "sg:postcode":"84663",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727829,
+        102083567,
+        85880117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zpfEAd1RaaZ9OEStIkXaM_40.177249_-111.610679@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123028,
+    "wof:geomhash":"782321429f0f773cc54dad4e04c25106",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727829,
+            "neighbourhood_id":85880117,
+            "region_id":85688567,
+            "venue_id":857144705
+        }
+    ],
+    "wof:id":857144705,
+    "wof:lastmodified":1464123028,
+    "wof:name":"Vintage Homes",
+    "wof:parent_id":85880117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.610679,
+    40.177249,
+    -111.610679,
+    40.177249
+],
+  "geometry": {"coordinates":[-111.610679,40.177249],"type":"Point"}
+}

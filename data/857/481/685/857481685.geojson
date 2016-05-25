@@ -1,0 +1,69 @@
+{
+  "id": 857481685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.662282,40.236298,-111.662282,40.236298",
+    "geom:latitude":40.236298,
+    "geom:longitude":-111.662282,
+    "iso:country":"US",
+    "sg:address":"111 N 200 W",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 370 4100",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:website":"www.zionsbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OZFamX4lp2nszLJM5RL1J_40.236298_-111.662282@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130400,
+    "wof:geomhash":"0dd458a11fdb42faf29f7f9e2b885682",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880121,
+            "region_id":85688567,
+            "venue_id":857481685
+        }
+    ],
+    "wof:id":857481685,
+    "wof:lastmodified":1464130400,
+    "wof:name":"Zions First National Bank",
+    "wof:parent_id":85880121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.662282,
+    40.236298,
+    -111.662282,
+    40.236298
+],
+  "geometry": {"coordinates":[-111.662282,40.236298],"type":"Point"}
+}

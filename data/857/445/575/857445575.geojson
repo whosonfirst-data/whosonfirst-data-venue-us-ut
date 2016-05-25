@@ -1,0 +1,75 @@
+{
+  "id": 857445575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.833318,40.537761,-111.833318,40.537761",
+    "geom:latitude":40.537761,
+    "geom:longitude":-111.833318,
+    "iso:country":"US",
+    "sg:address":"11762 Village Oak Ln",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 523 2127",
+    "sg:postcode":"84092",
+    "sg:province":"UT",
+    "sg:tags":[
+        "pharmaceutical",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85812845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5g7JBkcF1QYdmSgYfknx2L_40.537761_-111.833318@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129674,
+    "wof:geomhash":"6cb24d8ea614895e29aa606274c907e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85812845,
+            "region_id":85688567,
+            "venue_id":857445575
+        }
+    ],
+    "wof:id":857445575,
+    "wof:lastmodified":1464129674,
+    "wof:name":"International Medical Supls",
+    "wof:parent_id":85812845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "product"
+    ]
+},
+  "bbox": [
+    -111.833318,
+    40.537761,
+    -111.833318,
+    40.537761
+],
+  "geometry": {"coordinates":[-111.83331800000001,40.537761],"type":"Point"}
+}

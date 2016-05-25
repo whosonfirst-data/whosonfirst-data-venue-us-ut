@@ -1,0 +1,75 @@
+{
+  "id": 857400983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.001431,40.655718,-112.001431,40.655718",
+    "geom:latitude":40.655718,
+    "geom:longitude":-112.001431,
+    "iso:country":"US",
+    "sg:address":"4686 W 5255 S",
+    "sg:city":"Kearns",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 963 8147",
+    "sg:postcode":"84118",
+    "sg:province":"UT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728253,
+        102082877,
+        85833393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PewpFevNzpSKahTiU913S_40.655718_-112.001431@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128643,
+    "wof:geomhash":"d4aab96a50fa76f20c946988244a9ca3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728253,
+            "neighbourhood_id":85833393,
+            "region_id":85688567,
+            "venue_id":857400983
+        }
+    ],
+    "wof:id":857400983,
+    "wof:lastmodified":1464128643,
+    "wof:name":"Wayment Plumbing",
+    "wof:parent_id":85833393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -112.001431,
+    40.655718,
+    -112.001431,
+    40.655718
+],
+  "geometry": {"coordinates":[-112.001431,40.655718],"type":"Point"}
+}

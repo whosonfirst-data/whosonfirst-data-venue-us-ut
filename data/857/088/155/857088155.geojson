@@ -1,0 +1,73 @@
+{
+  "id": 857088155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.911861,40.999869,-111.911861,40.999869",
+    "geom:latitude":40.999869,
+    "geom:longitude":-111.911861,
+    "iso:country":"US",
+    "sg:address":"1135 1185 N",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 9559",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "company",
+        "holding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_678vw5O5QemJbgKFHnIZNj_40.999869_-111.911861@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121617,
+    "wof:geomhash":"2390c0824389e545ca6f572acc2980cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857088155
+        }
+    ],
+    "wof:id":857088155,
+    "wof:lastmodified":1464121617,
+    "wof:name":"Hudson Holdings LLC",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "holding"
+    ]
+},
+  "bbox": [
+    -111.911861,
+    40.999869,
+    -111.911861,
+    40.999869
+],
+  "geometry": {"coordinates":[-111.911861,40.999869],"type":"Point"}
+}

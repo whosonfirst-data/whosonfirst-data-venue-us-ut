@@ -1,0 +1,86 @@
+{
+  "id": 857351813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.946033,41.163459,-111.946033,41.163459",
+    "geom:latitude":41.163459,
+    "geom:longitude":-111.946033,
+    "iso:country":"US",
+    "sg:address":"1496 E 5600 S",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 479 7169",
+    "sg:postcode":"84403",
+    "sg:province":"UT",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "care",
+        "health",
+        "uniform"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728021,
+        102083539,
+        85831977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Jwt3hpg6qpJ6RUDvZWz2x_41.163459_-111.946033@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127523,
+    "wof:geomhash":"ada55709580d76d5fe9bf10d52a046cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728021,
+            "neighbourhood_id":85831977,
+            "region_id":85688567,
+            "venue_id":857351813
+        }
+    ],
+    "wof:id":857351813,
+    "wof:lastmodified":1464127523,
+    "wof:name":"Scrubworld",
+    "wof:parent_id":85831977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "care",
+        "health",
+        "uniform"
+    ]
+},
+  "bbox": [
+    -111.946033,
+    41.163459,
+    -111.946033,
+    41.163459
+],
+  "geometry": {"coordinates":[-111.946033,41.163459],"type":"Point"}
+}

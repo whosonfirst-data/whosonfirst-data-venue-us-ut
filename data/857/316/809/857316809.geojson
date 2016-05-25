@@ -1,0 +1,75 @@
+{
+  "id": 857316809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.869887,40.558708,-111.869887,40.558708",
+    "geom:latitude":40.558708,
+    "geom:longitude":-111.869887,
+    "iso:country":"US",
+    "sg:address":"750 E 10600 S",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 562 5254",
+    "sg:postcode":"84094",
+    "sg:province":"UT",
+    "sg:tags":[
+        "equipment",
+        "video"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85857477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CJOK3tvATNbkVaMxyEP2z_40.558708_-111.869887@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126761,
+    "wof:geomhash":"3e563e17b4af48fcc42de9d293207f73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85857477,
+            "region_id":85688567,
+            "venue_id":857316809
+        }
+    ],
+    "wof:id":857316809,
+    "wof:lastmodified":1464126761,
+    "wof:name":"Hi-Q Electronics",
+    "wof:parent_id":85857477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "video"
+    ]
+},
+  "bbox": [
+    -111.869887,
+    40.558708,
+    -111.869887,
+    40.558708
+],
+  "geometry": {"coordinates":[-111.86988700000001,40.558708],"type":"Point"}
+}

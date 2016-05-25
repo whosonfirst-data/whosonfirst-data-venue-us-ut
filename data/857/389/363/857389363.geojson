@@ -1,0 +1,73 @@
+{
+  "id": 857389363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.674879,37.163245,-113.674879,37.163245",
+    "geom:latitude":37.163245,
+    "geom:longitude":-113.674879,
+    "iso:country":"US",
+    "sg:address":"276 S 200 E",
+    "sg:city":"Ivins",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 673 5860",
+    "sg:postcode":"84738",
+    "sg:province":"UT",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0i9jf8sxOVTs86qQRHR7Bp_37.163245_-113.674879@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128416,
+    "wof:geomhash":"3e7c519f29678e857fbc634f17ae09bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857389363
+        }
+    ],
+    "wof:id":857389363,
+    "wof:lastmodified":1464128416,
+    "wof:name":"Porter Building Systems LLC",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -113.674879,
+    37.163245,
+    -113.674879,
+    37.163245
+],
+  "geometry": {"coordinates":[-113.674879,37.163245],"type":"Point"}
+}

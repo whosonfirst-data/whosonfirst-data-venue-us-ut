@@ -1,0 +1,73 @@
+{
+  "id": 857151065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.09739,41.202815,-112.09739,41.202815",
+    "geom:latitude":41.202815,
+    "geom:longitude":-112.09739,
+    "iso:country":"US",
+    "sg:address":"4734 W 3450 S",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 774 0633",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85804651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sIkV9acdjxOHjsLq5mELr_41.202815_-112.097390@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123170,
+    "wof:geomhash":"87c48a43b153e12d65e0a7e4976207b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85804651,
+            "region_id":85688567,
+            "venue_id":857151065
+        }
+    ],
+    "wof:id":857151065,
+    "wof:lastmodified":1464123170,
+    "wof:name":"Subway 22747",
+    "wof:parent_id":85804651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -112.09739,
+    41.202815,
+    -112.09739,
+    41.202815
+],
+  "geometry": {"coordinates":[-112.09739,41.202815],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857196623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.837501,41.737256,-111.837501,41.737256",
+    "geom:latitude":41.737256,
+    "geom:longitude":-111.837501,
+    "iso:country":"US",
+    "sg:address":"395 N 100 W",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 7575",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3StR0zDBL1JA6bYYmPcouJ_41.737256_-111.837501@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124112,
+    "wof:geomhash":"51231ca9471e24346d208db59aec8211",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857196623
+        }
+    ],
+    "wof:id":857196623,
+    "wof:lastmodified":1464124112,
+    "wof:name":"Beazer Lock & Key Inc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -111.837501,
+    41.737256,
+    -111.837501,
+    41.737256
+],
+  "geometry": {"coordinates":[-111.837501,41.737256],"type":"Point"}
+}

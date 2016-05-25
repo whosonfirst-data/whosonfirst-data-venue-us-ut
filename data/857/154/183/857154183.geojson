@@ -1,0 +1,71 @@
+{
+  "id": 857154183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.814546,40.699931,-111.814546,40.699931",
+    "geom:latitude":40.699931,
+    "geom:longitude":-111.814546,
+    "iso:country":"US",
+    "sg:address":"2889 E 3300 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 463 4900",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728257,
+        102082877,
+        85854869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0v3SK1HVGvhLfr97rmCyG9_40.699931_-111.814546@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123230,
+    "wof:geomhash":"89f94b0b36fa56d10df5fcdd4f6168ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85854869,
+            "region_id":85688567,
+            "venue_id":857154183
+        }
+    ],
+    "wof:id":857154183,
+    "wof:lastmodified":1464123230,
+    "wof:name":"Edward Jones Co",
+    "wof:parent_id":85854869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -111.814546,
+    40.699931,
+    -111.814546,
+    40.699931
+],
+  "geometry": {"coordinates":[-111.81454600000001,40.699931],"type":"Point"}
+}

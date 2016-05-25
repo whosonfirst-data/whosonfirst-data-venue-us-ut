@@ -1,0 +1,73 @@
+{
+  "id": 857287541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.700134,40.233916,-111.700134,40.233916",
+    "geom:latitude":40.233916,
+    "geom:longitude":-111.700134,
+    "iso:country":"US",
+    "sg:address":"2128 W Center St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 356 1100",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "foundation",
+        "footing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880073,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6n5CSHoueGjeX8OLXDrSml_40.233916_-111.700134@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126076,
+    "wof:geomhash":"5a07333b420a826f7207a9862c552b7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880073,
+            "region_id":85688567,
+            "venue_id":857287541
+        }
+    ],
+    "wof:id":857287541,
+    "wof:lastmodified":1464126076,
+    "wof:name":"B&B Foundations",
+    "wof:parent_id":85880073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundation",
+        "footing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.700134,
+    40.233916,
+    -111.700134,
+    40.233916
+],
+  "geometry": {"coordinates":[-111.70013400000001,40.233916],"type":"Point"}
+}

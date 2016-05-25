@@ -1,0 +1,77 @@
+{
+  "id": 857089903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.952528,41.226779,-111.952528,41.226779",
+    "geom:latitude":41.226779,
+    "geom:longitude":-111.952528,
+    "iso:country":"US",
+    "sg:address":"1012 22nd St",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 392 6022",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "manufacture",
+        "reupholstery",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85813489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Tl30KBInjGEOcNNPbJiIx_41.226779_-111.952528@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121672,
+    "wof:geomhash":"5afbdaa04ac22d54b5ba9999ea2705f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85813489,
+            "region_id":85688567,
+            "venue_id":857089903
+        }
+    ],
+    "wof:id":857089903,
+    "wof:lastmodified":1464121672,
+    "wof:name":"Alpha Upholstery",
+    "wof:parent_id":85813489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacture",
+        "reupholstery",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -111.952528,
+    41.226779,
+    -111.952528,
+    41.226779
+],
+  "geometry": {"coordinates":[-111.952528,41.226779],"type":"Point"}
+}

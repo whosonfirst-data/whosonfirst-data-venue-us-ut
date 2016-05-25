@@ -1,0 +1,73 @@
+{
+  "id": 857279607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.048523,41.171229,-112.048523,41.171229",
+    "geom:latitude":41.171229,
+    "geom:longitude":-112.048523,
+    "iso:country":"US",
+    "sg:address":"5098 S 2825 W",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 776 5122",
+    "sg:postcode":"84067",
+    "sg:province":"UT",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728023,
+        102083539,
+        85853469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xqMAgdo0pRpcjqkvpCPV0_41.171229_-112.048523@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125912,
+    "wof:geomhash":"71623c3f4f9e6e4d4aa9b28ac5d4a19c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728023,
+            "neighbourhood_id":85853469,
+            "region_id":85688567,
+            "venue_id":857279607
+        }
+    ],
+    "wof:id":857279607,
+    "wof:lastmodified":1464125912,
+    "wof:name":"House Hounds Home Inspection",
+    "wof:parent_id":85853469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -112.048523,
+    41.171229,
+    -112.048523,
+    41.171229
+],
+  "geometry": {"coordinates":[-112.048523,41.171229],"type":"Point"}
+}

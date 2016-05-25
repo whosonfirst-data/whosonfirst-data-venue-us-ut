@@ -1,0 +1,84 @@
+{
+  "id": 857310519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.897187,40.689675,-111.897187,40.689675",
+    "geom:latitude":40.689675,
+    "geom:longitude":-111.897187,
+    "iso:country":"US",
+    "sg:address":"224 W Plymouth Ave",
+    "sg:city":"South Salt Lake",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 265 3413",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "manufacture",
+        "medical",
+        "disposable",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85810147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dREQflYyV7WCcFqJMhRV4_40.689675_-111.897187@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126631,
+    "wof:geomhash":"80ee0892cf8515f7146f3e7ae0fbb641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85810147,
+            "region_id":85688567,
+            "venue_id":857310519
+        }
+    ],
+    "wof:id":857310519,
+    "wof:lastmodified":1464126631,
+    "wof:name":"Medax International Inc",
+    "wof:parent_id":85810147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacture",
+        "medical",
+        "disposable",
+        "supply"
+    ]
+},
+  "bbox": [
+    -111.897187,
+    40.689675,
+    -111.897187,
+    40.689675
+],
+  "geometry": {"coordinates":[-111.897187,40.689675],"type":"Point"}
+}

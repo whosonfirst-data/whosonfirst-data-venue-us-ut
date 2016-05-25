@@ -1,0 +1,75 @@
+{
+  "id": 857384205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.58128,40.153405,-111.58128,40.153405",
+    "geom:latitude":40.153405,
+    "geom:longitude":-111.58128,
+    "iso:country":"US",
+    "sg:address":"896 S 1600 E",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 491 9733",
+    "sg:postcode":"84663",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727829,
+        102083567,
+        85880117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vwFBX3R0IgAGwytwRT7oy_40.153405_-111.581280@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128246,
+    "wof:geomhash":"680144d2ddc241a661cd631fdfbbe9d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727829,
+            "neighbourhood_id":85880117,
+            "region_id":85688567,
+            "venue_id":857384205
+        }
+    ],
+    "wof:id":857384205,
+    "wof:lastmodified":1464128246,
+    "wof:name":"Oviatt Apartments",
+    "wof:parent_id":85880117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -111.58128,
+    40.153405,
+    -111.58128,
+    40.153405
+],
+  "geometry": {"coordinates":[-111.58128000000001,40.153405],"type":"Point"}
+}

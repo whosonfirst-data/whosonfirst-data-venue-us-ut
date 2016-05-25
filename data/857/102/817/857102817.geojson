@@ -1,0 +1,73 @@
+{
+  "id": 857102817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.79758,41.725344,-111.79758,41.725344",
+    "geom:latitude":41.725344,
+    "geom:longitude":-111.79758,
+    "iso:country":"US",
+    "sg:address":"1460 Mount Logan Dr",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 8443",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6R9SnGafN1XxTDzW7baGNC_41.725344_-111.797580@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121979,
+    "wof:geomhash":"486c59ab4d78e4752b9d5c79885550ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857102817
+        }
+    ],
+    "wof:id":857102817,
+    "wof:lastmodified":1464121979,
+    "wof:name":"Pj Properties LLC",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -111.79758,
+    41.725344,
+    -111.79758,
+    41.725344
+],
+  "geometry": {"coordinates":[-111.79758,41.725344],"type":"Point"}
+}

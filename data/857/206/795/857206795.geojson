@@ -1,0 +1,73 @@
+{
+  "id": 857206795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.905422,40.688804,-111.905422,40.688804",
+    "geom:latitude":40.688804,
+    "geom:longitude":-111.905422,
+    "iso:country":"US",
+    "sg:address":"3775 S 500 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 261 2168",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85810147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6K7ybVjXmES4m7yTgbNTNq_40.688804_-111.905422@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124327,
+    "wof:geomhash":"2d915cb1ca23fcf4f188d52dcdf2113a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85810147,
+            "region_id":85688567,
+            "venue_id":857206795
+        }
+    ],
+    "wof:id":857206795,
+    "wof:lastmodified":1464124327,
+    "wof:name":"Team Clean PCS",
+    "wof:parent_id":85810147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -111.905422,
+    40.688804,
+    -111.905422,
+    40.688804
+],
+  "geometry": {"coordinates":[-111.905422,40.688804],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 857182705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.942167,41.184456,-111.942167,41.184456",
+    "geom:latitude":41.184456,
+    "geom:longitude":-111.942167,
+    "iso:country":"US",
+    "sg:address":"1530 Country Hills Dr",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 392 4689",
+    "sg:postcode":"84403",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "ope",
+        "apartment",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85808451,
+        85829817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23fDGPD0rfRhSaFC0j6GtK_41.184456_-111.942167@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123851,
+    "wof:geomhash":"6290d47c3e521ba51dd62368ad4e2554",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85808451,
+            "region_id":85688567,
+            "venue_id":857182705
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85829817,
+            "region_id":85688567,
+            "venue_id":857182705
+        }
+    ],
+    "wof:id":857182705,
+    "wof:lastmodified":1464123851,
+    "wof:name":"Ferrell Construction",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "ope",
+        "apartment",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -111.942167,
+    41.184456,
+    -111.942167,
+    41.184456
+],
+  "geometry": {"coordinates":[-111.942167,41.184456],"type":"Point"}
+}

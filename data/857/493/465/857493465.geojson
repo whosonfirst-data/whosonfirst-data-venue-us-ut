@@ -1,0 +1,80 @@
+{
+  "id": 857493465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.924545,40.696828,-111.924545,40.696828",
+    "geom:latitude":40.696828,
+    "geom:longitude":-111.924545,
+    "iso:country":"US",
+    "sg:address":"1199 W El Centro St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/34690-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 974 4412",
+    "sg:postcode":"84119",
+    "sg:province":"UT",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85816697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sNscU9sgVVFK1pVlSa5Ks_40.696828_-111.924545@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130714,
+    "wof:geomhash":"929e3a27e30c5f38427ccad22961b710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85816697,
+            "region_id":85688567,
+            "venue_id":857493465
+        }
+    ],
+    "wof:id":857493465,
+    "wof:lastmodified":1464130714,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85816697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -111.924545,
+    40.696828,
+    -111.924545,
+    40.696828
+],
+  "geometry": {"coordinates":[-111.92454499999999,40.696828],"type":"Point"}
+}

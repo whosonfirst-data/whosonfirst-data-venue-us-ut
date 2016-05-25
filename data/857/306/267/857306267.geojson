@@ -1,0 +1,78 @@
+{
+  "id": 857306267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.833088,41.738979,-111.833088,41.738979",
+    "geom:latitude":41.738979,
+    "geom:longitude":-111.833088,
+    "iso:country":"US",
+    "sg:address":"78 E 400 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 6463",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "baker",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uQ8lrOxlP5fsLuzOc1VWN_41.738979_-111.833088@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126544,
+    "wof:geomhash":"10e61ad267fb8c2b25497dc33c73cf15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857306267
+        }
+    ],
+    "wof:id":857306267,
+    "wof:lastmodified":1464126544,
+    "wof:name":"Old Grist Mill Bread Co Inc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker",
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.833088,
+    41.738979,
+    -111.833088,
+    41.738979
+],
+  "geometry": {"coordinates":[-111.833088,41.738979],"type":"Point"}
+}

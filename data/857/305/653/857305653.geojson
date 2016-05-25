@@ -1,0 +1,69 @@
+{
+  "id": 857305653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.782364,40.674301,-111.782364,40.674301",
+    "geom:latitude":40.674301,
+    "geom:longitude":-111.782364,
+    "iso:country":"US",
+    "sg:address":"4499 S Mathews Way",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 278 1434",
+    "sg:postcode":"84124",
+    "sg:province":"UT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85835599,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69i4O6QhJG0djjnNoUUOUf_40.674301_-111.782364@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126532,
+    "wof:geomhash":"56c816f03e80f7cba0078de2cb3e2a69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85835599,
+            "region_id":85688567,
+            "venue_id":857305653
+        }
+    ],
+    "wof:id":857305653,
+    "wof:lastmodified":1464126532,
+    "wof:name":"Dr J Garr Vincent P C",
+    "wof:parent_id":85835599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -111.782364,
+    40.674301,
+    -111.782364,
+    40.674301
+],
+  "geometry": {"coordinates":[-111.782364,40.674301],"type":"Point"}
+}

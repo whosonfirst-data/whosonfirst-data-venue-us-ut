@@ -1,0 +1,73 @@
+{
+  "id": 857399713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.821033,41.75649,-111.821033,41.75649",
+    "geom:latitude":41.75649,
+    "geom:longitude":-111.821033,
+    "iso:country":"US",
+    "sg:address":"1350 N 500 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 792 1940",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14Okn1dpFHMiQzsOK1KB7i_41.756490_-111.821033@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128616,
+    "wof:geomhash":"6a740885381be49837b0a5a2dc3bff2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857399713
+        }
+    ],
+    "wof:id":857399713,
+    "wof:lastmodified":1464128616,
+    "wof:name":"Ihc Budge Clinic",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -111.821033,
+    41.75649,
+    -111.821033,
+    41.75649
+],
+  "geometry": {"coordinates":[-111.821033,41.75649],"type":"Point"}
+}

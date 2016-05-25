@@ -1,0 +1,73 @@
+{
+  "id": 857446961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.876859,40.725793,-111.876859,40.725793",
+    "geom:latitude":40.725793,
+    "geom:longitude":-111.876859,
+    "iso:country":"US",
+    "sg:address":"2046 S 500 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 485 1242",
+    "sg:postcode":"84105",
+    "sg:province":"UT",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6g49PsCYs08m9ti5xeEr5a_40.725793_-111.876859@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129701,
+    "wof:geomhash":"ff01a5ec436622244e0d10878d7a73c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871027,
+            "region_id":85688567,
+            "venue_id":857446961
+        }
+    ],
+    "wof:id":857446961,
+    "wof:lastmodified":1464129701,
+    "wof:name":"King Pizza",
+    "wof:parent_id":85871027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -111.876859,
+    40.725793,
+    -111.876859,
+    40.725793
+],
+  "geometry": {"coordinates":[-111.876859,40.725793],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 857303653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.88829,40.746775,-111.88829,40.746775",
+    "geom:latitude":40.746775,
+    "geom:longitude":-111.88829,
+    "iso:country":"US",
+    "sg:address":"1030 S State St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 355 8055",
+    "sg:postcode":"84111",
+    "sg:province":"UT",
+    "sg:tags":[
+        "club",
+        "drinking",
+        "eating",
+        "night"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85867259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07t1XVFoPQoETrmjJjVso7_40.746775_-111.888290@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126490,
+    "wof:geomhash":"5693b14e4c19d4f798846e2002794314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85867259,
+            "region_id":85688567,
+            "venue_id":857303653
+        }
+    ],
+    "wof:id":857303653,
+    "wof:lastmodified":1464126490,
+    "wof:name":"Mixed Emotions Inc",
+    "wof:parent_id":85867259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "drinking",
+        "eating",
+        "night"
+    ]
+},
+  "bbox": [
+    -111.88829,
+    40.746775,
+    -111.88829,
+    40.746775
+],
+  "geometry": {"coordinates":[-111.88829,40.746775],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857374919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.827718,41.719477,-111.827718,41.719477",
+    "geom:latitude":41.719477,
+    "geom:longitude":-111.827718,
+    "iso:country":"US",
+    "sg:address":"340 E 700 S",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 755 5532",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mormon",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WewYEK5KEQEubPHcpUn69_41.719477_-111.827718@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128007,
+    "wof:geomhash":"78d48b2b7c5bb68c333471a0c695e798",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857374919
+        }
+    ],
+    "wof:id":857374919,
+    "wof:lastmodified":1464128007,
+    "wof:name":"Logan Thirty-Second Ward",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mormon",
+        "church"
+    ]
+},
+  "bbox": [
+    -111.827718,
+    41.719477,
+    -111.827718,
+    41.719477
+],
+  "geometry": {"coordinates":[-111.827718,41.719477],"type":"Point"}
+}

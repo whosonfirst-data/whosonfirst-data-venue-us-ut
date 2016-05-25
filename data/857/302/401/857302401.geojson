@@ -1,0 +1,88 @@
+{
+  "id": 857302401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.685372,40.244992,-111.685372,40.244992",
+    "geom:latitude":40.244992,
+    "geom:longitude":-111.685372,
+    "iso:country":"US",
+    "sg:address":"1652 W 820 N",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 379 0118",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "control",
+        "government",
+        "system",
+        "contractor",
+        "defense",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5t38aLU2O0DmyMPiXCVTck_40.244992_-111.685372@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126463,
+    "wof:geomhash":"ff47550a9fef8c1410e5d497a5e6a186",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880083,
+            "region_id":85688567,
+            "venue_id":857302401
+        }
+    ],
+    "wof:id":857302401,
+    "wof:lastmodified":1464126463,
+    "wof:name":"Group Eight Technology Inc",
+    "wof:parent_id":85880083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "government",
+        "system",
+        "contractor",
+        "defense",
+        "security"
+    ]
+},
+  "bbox": [
+    -111.685372,
+    40.244992,
+    -111.685372,
+    40.244992
+],
+  "geometry": {"coordinates":[-111.685372,40.244992],"type":"Point"}
+}

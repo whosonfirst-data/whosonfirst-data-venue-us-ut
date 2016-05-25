@@ -1,0 +1,68 @@
+{
+  "id": 857323397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.064512,41.090859,-112.064512,41.090859",
+    "geom:latitude":41.090859,
+    "geom:longitude":-112.064512,
+    "iso:country":"US",
+    "sg:address":"1625 S 2000 W",
+    "sg:city":"Syracuse",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 614 1206",
+    "sg:postcode":"84075",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727889,
+        102083563,
+        85804563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xJex4EzY2fQ7wsZZYz5yG_41.090859_-112.064512@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126919,
+    "wof:geomhash":"d63fa6a18c266ef4b9c8c4061aa64a43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727889,
+            "neighbourhood_id":85804563,
+            "region_id":85688567,
+            "venue_id":857323397
+        }
+    ],
+    "wof:id":857323397,
+    "wof:lastmodified":1464126919,
+    "wof:name":"RCI Real Estate",
+    "wof:parent_id":85804563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.064512,
+    41.090859,
+    -112.064512,
+    41.090859
+],
+  "geometry": {"coordinates":[-112.06451199999999,41.090859],"type":"Point"}
+}

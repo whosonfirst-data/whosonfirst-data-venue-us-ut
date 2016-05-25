@@ -1,0 +1,73 @@
+{
+  "id": 857125729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.512082,37.130208,-113.512082,37.130208",
+    "geom:latitude":37.130208,
+    "geom:longitude":-113.512082,
+    "iso:country":"US",
+    "sg:address":"115 W Telegraph St",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 634 0458",
+    "sg:postcode":"84780",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4apB7i5S667Ry3HUsOK8Qa_37.130208_-113.512082@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122583,
+    "wof:geomhash":"d76dfe04a987ec610d6473fa0da1e192",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857125729
+        }
+    ],
+    "wof:id":857125729,
+    "wof:lastmodified":1464122583,
+    "wof:name":"Burger Place",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -113.512082,
+    37.130208,
+    -113.512082,
+    37.130208
+],
+  "geometry": {"coordinates":[-113.51208200000001,37.130208],"type":"Point"}
+}

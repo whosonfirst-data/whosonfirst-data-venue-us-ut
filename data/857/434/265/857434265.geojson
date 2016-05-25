@@ -1,0 +1,71 @@
+{
+  "id": 857434265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.785319,39.975838,-111.785319,39.975838",
+    "geom:latitude":39.975838,
+    "geom:longitude":-111.785319,
+    "iso:country":"US",
+    "sg:address":"85 N Center St",
+    "sg:city":"Santaquin",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 754 3304",
+    "sg:postcode":"84655",
+    "sg:province":"UT",
+    "sg:tags":[
+        "ornamental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16jndNsWeSA3WGieuisJFc_39.975838_-111.785319@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129451,
+    "wof:geomhash":"8d356dd98c5837be57d59dc35d9cfb44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857434265
+        }
+    ],
+    "wof:id":857434265,
+    "wof:lastmodified":1464129451,
+    "wof:name":"Fred Openshaw Farms",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ornamental"
+    ]
+},
+  "bbox": [
+    -111.785319,
+    39.975838,
+    -111.785319,
+    39.975838
+],
+  "geometry": {"coordinates":[-111.785319,39.975838],"type":"Point"}
+}

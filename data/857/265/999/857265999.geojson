@@ -1,0 +1,71 @@
+{
+  "id": 857265999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.954916,41.30427,-111.954916,41.30427",
+    "geom:latitude":41.30427,
+    "geom:longitude":-111.954916,
+    "iso:country":"US",
+    "sg:address":"2544 N 800 E",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 782 7208",
+    "sg:postcode":"84414",
+    "sg:province":"UT",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85824645,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16Ygc1xw1wrRTSN4dh52E5_41.304270_-111.954916@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125610,
+    "wof:geomhash":"e89b5d4070eebffeda490d9a6c25250b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85824645,
+            "region_id":85688567,
+            "venue_id":857265999
+        }
+    ],
+    "wof:id":857265999,
+    "wof:lastmodified":1464125610,
+    "wof:name":"Smith & Smith Contractors",
+    "wof:parent_id":85824645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.954916,
+    41.30427,
+    -111.954916,
+    41.30427
+],
+  "geometry": {"coordinates":[-111.954916,41.30427],"type":"Point"}
+}

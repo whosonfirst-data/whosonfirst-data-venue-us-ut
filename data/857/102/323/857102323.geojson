@@ -1,0 +1,75 @@
+{
+  "id": 857102323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.617912,37.048913,-113.617912,37.048913",
+    "geom:latitude":37.048913,
+    "geom:longitude":-113.617912,
+    "iso:country":"US",
+    "sg:address":"1561 W Bloomington Dr S",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 656 3303",
+    "sg:postcode":"84790",
+    "sg:province":"UT",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727617,
+        102082879,
+        85803851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FN4adK8SCIrWCAQH3jE7F_37.048913_-113.617912@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121967,
+    "wof:geomhash":"195255c7fecf04c15f6fa06f2446fefb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85803851,
+            "region_id":85688567,
+            "venue_id":857102323
+        }
+    ],
+    "wof:id":857102323,
+    "wof:lastmodified":1464121967,
+    "wof:name":"Royal Impressions",
+    "wof:parent_id":85803851,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -113.617912,
+    37.048913,
+    -113.617912,
+    37.048913
+],
+  "geometry": {"coordinates":[-113.617912,37.048913],"type":"Point"}
+}

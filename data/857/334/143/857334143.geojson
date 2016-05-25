@@ -1,0 +1,75 @@
+{
+  "id": 857334143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.026104,41.158149,-112.026104,41.158149",
+    "geom:latitude":41.158149,
+    "geom:longitude":-112.026104,
+    "iso:country":"US",
+    "sg:address":"5741 S 1900 W",
+    "sg:city":"Roy",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 825 1647",
+    "sg:postcode":"84067",
+    "sg:province":"UT",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728023,
+        102083539,
+        85843307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bOplYutGLY9pnbYo5QxoH_41.158149_-112.026104@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127150,
+    "wof:geomhash":"5bd6aeaf48d9d616cd00b477499f368e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728023,
+            "neighbourhood_id":85843307,
+            "region_id":85688567,
+            "venue_id":857334143
+        }
+    ],
+    "wof:id":857334143,
+    "wof:lastmodified":1464127150,
+    "wof:name":"Bank of Utah",
+    "wof:parent_id":85843307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -112.026104,
+    41.158149,
+    -112.026104,
+    41.158149
+],
+  "geometry": {"coordinates":[-112.026104,41.158149],"type":"Point"}
+}

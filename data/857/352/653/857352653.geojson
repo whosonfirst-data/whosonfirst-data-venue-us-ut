@@ -1,0 +1,73 @@
+{
+  "id": 857352653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.658728,40.238224,-111.658728,40.238224",
+    "geom:latitude":40.238224,
+    "geom:longitude":-111.658728,
+    "iso:country":"US",
+    "sg:address":"363 N University Ave",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 375 6839",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mKAtn3MO5K5n9Ckj0GKXC_40.238224_-111.658728@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127543,
+    "wof:geomhash":"71fcc5d390dcb14c3caa69ade0751122",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880121,
+            "region_id":85688567,
+            "venue_id":857352653
+        }
+    ],
+    "wof:id":857352653,
+    "wof:lastmodified":1464127543,
+    "wof:name":"US District Court Probation",
+    "wof:parent_id":85880121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -111.658728,
+    40.238224,
+    -111.658728,
+    40.238224
+],
+  "geometry": {"coordinates":[-111.658728,40.238224],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857093171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.888352,40.668038,-111.888352,40.668038",
+    "geom:latitude":40.668038,
+    "geom:longitude":-111.888352,
+    "iso:country":"US",
+    "sg:address":"4774 S State St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 266 1851",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85804367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03bSi8tCdZDrQgBid3KQiA_40.668038_-111.888352@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121754,
+    "wof:geomhash":"3eb9552c9d68a8fdbc08dee6f55299a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85804367,
+            "region_id":85688567,
+            "venue_id":857093171
+        }
+    ],
+    "wof:id":857093171,
+    "wof:lastmodified":1464121754,
+    "wof:name":"Prompt Drycleaners and Carwash",
+    "wof:parent_id":85804367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -111.888352,
+    40.668038,
+    -111.888352,
+    40.668038
+],
+  "geometry": {"coordinates":[-111.888352,40.668038],"type":"Point"}
+}

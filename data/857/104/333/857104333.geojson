@@ -1,0 +1,77 @@
+{
+  "id": 857104333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.853221,40.595786,-111.853221,40.595786",
+    "geom:latitude":40.595786,
+    "geom:longitude":-111.853221,
+    "iso:country":"US",
+    "sg:address":"8522 S 1300 E",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 567 9991",
+    "sg:postcode":"84094",
+    "sg:province":"UT",
+    "sg:tags":[
+        "develop",
+        "residential",
+        "speculative",
+        "real estate",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85847325,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cHekfL5xORnslqcLVpVdL_40.595786_-111.853221@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122013,
+    "wof:geomhash":"5a49d4eae952b941461572b038a7c34d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85847325,
+            "region_id":85688567,
+            "venue_id":857104333
+        }
+    ],
+    "wof:id":857104333,
+    "wof:lastmodified":1464122013,
+    "wof:name":"Promax Development & Cnstr",
+    "wof:parent_id":85847325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "develop",
+        "residential",
+        "speculative",
+        "real estate",
+        "builder"
+    ]
+},
+  "bbox": [
+    -111.853221,
+    40.595786,
+    -111.853221,
+    40.595786
+],
+  "geometry": {"coordinates":[-111.853221,40.595786],"type":"Point"}
+}

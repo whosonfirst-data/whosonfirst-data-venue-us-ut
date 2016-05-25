@@ -1,0 +1,73 @@
+{
+  "id": 857235589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.810566,41.769359,-111.810566,41.769359",
+    "geom:latitude":41.769359,
+    "geom:longitude":-111.810566,
+    "iso:country":"US",
+    "sg:address":"2194 N 950 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 787 4174",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5R57Xe64Tgh5ba1p5BEX6j_41.769359_-111.810566@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124914,
+    "wof:geomhash":"e97430212a11ac23aab5d5e1b5aa4e1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857235589
+        }
+    ],
+    "wof:id":857235589,
+    "wof:lastmodified":1464124914,
+    "wof:name":"Mountain Peak Builders Inc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.810566,
+    41.769359,
+    -111.810566,
+    41.769359
+],
+  "geometry": {"coordinates":[-111.81056599999999,41.769359],"type":"Point"}
+}

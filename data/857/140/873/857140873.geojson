@@ -1,0 +1,66 @@
+{
+  "id": 857140873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834257,41.766011,-111.834257,41.766011",
+    "geom:latitude":41.766011,
+    "geom:longitude":-111.834257,
+    "iso:country":"US",
+    "sg:address":"1845 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Recreational Vehicle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 5358",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00LdEGFscdIYAm8ysxSjfj_41.766011_-111.834257@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122913,
+    "wof:geomhash":"46e17da4bc79c0961770d0f1abfb4e8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857140873
+        }
+    ],
+    "wof:id":857140873,
+    "wof:lastmodified":1464122913,
+    "wof:name":"Mountain Valley Rv Sales & Svc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.834257,
+    41.766011,
+    -111.834257,
+    41.766011
+],
+  "geometry": {"coordinates":[-111.83425699999999,41.766011],"type":"Point"}
+}

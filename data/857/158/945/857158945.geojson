@@ -1,0 +1,75 @@
+{
+  "id": 857158945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.038084,41.13515,-112.038084,41.13515",
+    "geom:latitude":41.13515,
+    "geom:longitude":-112.038084,
+    "iso:country":"US",
+    "sg:address":"1478 N 630 W",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 773 4011",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85819031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fUXQg36QesLMYGMsTAgxm_41.135150_-112.038084@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123326,
+    "wof:geomhash":"5bf0c0adaf6161393f1b5198515212ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85819031,
+            "region_id":85688567,
+            "venue_id":857158945
+        }
+    ],
+    "wof:id":857158945,
+    "wof:lastmodified":1464123326,
+    "wof:name":"Mike Lewis Construction Inc",
+    "wof:parent_id":85819031,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -112.038084,
+    41.13515,
+    -112.038084,
+    41.13515
+],
+  "geometry": {"coordinates":[-112.038084,41.13515],"type":"Point"}
+}

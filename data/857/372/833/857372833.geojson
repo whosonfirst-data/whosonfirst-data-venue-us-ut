@@ -1,0 +1,75 @@
+{
+  "id": 857372833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.817923,41.755565,-111.817923,41.755565",
+    "geom:latitude":41.755565,
+    "geom:longitude":-111.817923,
+    "iso:country":"US",
+    "sg:address":"655 E 1300 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 792 6500",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "county",
+        "program",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6axCFvJjdGitmwEr7CkpEl_41.755565_-111.817923@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127966,
+    "wof:geomhash":"bda91bd2f78f75ed3ca69bdf8baa14e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857372833
+        }
+    ],
+    "wof:id":857372833,
+    "wof:lastmodified":1464127966,
+    "wof:name":"Cache County Health Dept",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "program",
+        "health"
+    ]
+},
+  "bbox": [
+    -111.817923,
+    41.755565,
+    -111.817923,
+    41.755565
+],
+  "geometry": {"coordinates":[-111.81792299999999,41.755565],"type":"Point"}
+}

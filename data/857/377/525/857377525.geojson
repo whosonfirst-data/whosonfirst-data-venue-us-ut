@@ -1,0 +1,75 @@
+{
+  "id": 857377525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.932981,40.757837,-111.932981,40.757837",
+    "geom:latitude":40.757837,
+    "geom:longitude":-111.932981,
+    "iso:country":"US",
+    "sg:address":"521 Stewart St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 363 8520",
+    "sg:postcode":"84104",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85808519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2x5Wn9siibc7dr1gypYFnJ_40.757837_-111.932981@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128067,
+    "wof:geomhash":"4af64bbfec5dab207e7870f5b6c3c214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85808519,
+            "region_id":85688567,
+            "venue_id":857377525
+        }
+    ],
+    "wof:id":857377525,
+    "wof:lastmodified":1464128067,
+    "wof:name":"McKinley Electrical Contractor",
+    "wof:parent_id":85808519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.932981,
+    40.757837,
+    -111.932981,
+    40.757837
+],
+  "geometry": {"coordinates":[-111.932981,40.757837],"type":"Point"}
+}

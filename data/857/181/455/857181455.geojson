@@ -1,0 +1,68 @@
+{
+  "id": 857181455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.690346,40.286823,-111.690346,40.286823",
+    "geom:latitude":40.286823,
+    "geom:longitude":-111.690346,
+    "iso:country":"US",
+    "sg:address":"514 S State St",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 225 0076",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85849197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rKTiLBChqNftwOC8UQjhb_40.286823_-111.690346@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123824,
+    "wof:geomhash":"2710f777c16a59a0d790a121f091453a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85849197,
+            "region_id":85688567,
+            "venue_id":857181455
+        }
+    ],
+    "wof:id":857181455,
+    "wof:lastmodified":1464123824,
+    "wof:name":"SBR Sports",
+    "wof:parent_id":85849197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.690346,
+    40.286823,
+    -111.690346,
+    40.286823
+],
+  "geometry": {"coordinates":[-111.69034600000001,40.286823],"type":"Point"}
+}

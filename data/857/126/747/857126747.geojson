@@ -1,0 +1,75 @@
+{
+  "id": 857126747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.908389,41.125111,-111.908389,41.125111",
+    "geom:latitude":41.125111,
+    "geom:longitude":-111.908389,
+    "iso:country":"US",
+    "sg:address":"2635 E 7800 S",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 479 6767",
+    "sg:postcode":"84405",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dwelling",
+        "build",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727911,
+        102083563,
+        85847875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gdtcilM9IPYy9gzCRLyjc_41.125111_-111.908389@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122602,
+    "wof:geomhash":"87a589b173b58c59aad00d9716b64156",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727911,
+            "neighbourhood_id":85847875,
+            "region_id":85688567,
+            "venue_id":857126747
+        }
+    ],
+    "wof:id":857126747,
+    "wof:lastmodified":1464122602,
+    "wof:name":"Rodney Westbroek Construction",
+    "wof:parent_id":85847875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dwelling",
+        "build",
+        "family"
+    ]
+},
+  "bbox": [
+    -111.908389,
+    41.125111,
+    -111.908389,
+    41.125111
+],
+  "geometry": {"coordinates":[-111.908389,41.125111],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 857334781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.899374,40.692576,-111.899374,40.692576",
+    "geom:latitude":40.692576,
+    "geom:longitude":-111.899374,
+    "iso:country":"US",
+    "sg:address":"218 W 3620 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 288 1064",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85810147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XX6JspdLZP6cU6G4Ub8Gx_40.692576_-111.899374@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127163,
+    "wof:geomhash":"e297b635796940d605361b97abc83dd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85810147,
+            "region_id":85688567,
+            "venue_id":857334781
+        }
+    ],
+    "wof:id":857334781,
+    "wof:lastmodified":1464127163,
+    "wof:name":"Power Electric Company",
+    "wof:parent_id":85810147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.899374,
+    40.692576,
+    -111.899374,
+    40.692576
+],
+  "geometry": {"coordinates":[-111.89937399999999,40.692576],"type":"Point"}
+}

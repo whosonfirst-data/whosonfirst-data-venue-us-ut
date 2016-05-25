@@ -1,0 +1,68 @@
+{
+  "id": 857277201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.65692,40.15994,-111.65692,40.15994",
+    "geom:latitude":40.15994,
+    "geom:longitude":-111.65692,
+    "iso:country":"US",
+    "sg:address":"3281 N Main St",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 370 8912",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727829,
+        102083567,
+        85880117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IKydu1KNXWDCneB8yD62Q_40.159940_-111.656920@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125850,
+    "wof:geomhash":"d4859eca1e1603648ce05a282373cdb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727829,
+            "neighbourhood_id":85880117,
+            "region_id":85688567,
+            "venue_id":857277201
+        }
+    ],
+    "wof:id":857277201,
+    "wof:lastmodified":1464125850,
+    "wof:name":"Utah County Foothill Trmt Ctr",
+    "wof:parent_id":85880117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.65692,
+    40.15994,
+    -111.65692,
+    40.15994
+],
+  "geometry": {"coordinates":[-111.65692,40.15994],"type":"Point"}
+}

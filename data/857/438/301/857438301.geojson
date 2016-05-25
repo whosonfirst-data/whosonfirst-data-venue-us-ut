@@ -1,0 +1,73 @@
+{
+  "id": 857438301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.023153,40.753015,-112.023153,40.753015",
+    "geom:latitude":40.753015,
+    "geom:longitude":-112.023153,
+    "iso:country":"US",
+    "sg:address":"5445 Shea Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 531 9256",
+    "sg:postcode":"84104",
+    "sg:province":"UT",
+    "sg:tags":[
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85851935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Wo0bFTBxGe8Adi5BNUiQ9_40.753015_-112.023153@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129533,
+    "wof:geomhash":"2dd01445b6988e71689585b648e2d096",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85851935,
+            "region_id":85688567,
+            "venue_id":857438301
+        }
+    ],
+    "wof:id":857438301,
+    "wof:lastmodified":1464129533,
+    "wof:name":"Bullocks Towing Inc",
+    "wof:parent_id":85851935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing"
+    ]
+},
+  "bbox": [
+    -112.023153,
+    40.753015,
+    -112.023153,
+    40.753015
+],
+  "geometry": {"coordinates":[-112.02315299999999,40.753015],"type":"Point"}
+}

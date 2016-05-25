@@ -1,0 +1,78 @@
+{
+  "id": 857494409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.610083,40.182928,-111.610083,40.182928",
+    "geom:latitude":40.182928,
+    "geom:longitude":-111.610083,
+    "iso:country":"US",
+    "sg:address":"1180 N Main St",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/springville-mapleton/69606-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 491 7111",
+    "sg:postcode":"84663",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727829,
+        102083567,
+        85880117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39HfhkvosWtbcbkuPYtR9p_40.182928_-111.610083@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130746,
+    "wof:geomhash":"87ae14d66e183562b67af4935e3ee159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727829,
+            "neighbourhood_id":85880117,
+            "region_id":85688567,
+            "venue_id":857494409
+        }
+    ],
+    "wof:id":857494409,
+    "wof:lastmodified":1464130746,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85880117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -111.610083,
+    40.182928,
+    -111.610083,
+    40.182928
+],
+  "geometry": {"coordinates":[-111.610083,40.182928],"type":"Point"}
+}

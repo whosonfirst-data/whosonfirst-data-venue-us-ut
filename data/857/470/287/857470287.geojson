@@ -1,0 +1,73 @@
+{
+  "id": 857470287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.987552,40.652753,-111.987552,40.652753",
+    "geom:latitude":40.652753,
+    "geom:longitude":-111.987552,
+    "iso:country":"US",
+    "sg:address":"4087 W 5415 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 964 5911",
+    "sg:postcode":"84118",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728253,
+        102082877,
+        85805333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iJ2SA3GUNCrRouvFNlQ6Z_40.652753_-111.987552@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130176,
+    "wof:geomhash":"4c446662452e42aa370582bed547c59a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728253,
+            "neighbourhood_id":85805333,
+            "region_id":85688567,
+            "venue_id":857470287
+        }
+    ],
+    "wof:id":857470287,
+    "wof:lastmodified":1464130176,
+    "wof:name":"Independent Emissions Testing",
+    "wof:parent_id":85805333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -111.987552,
+    40.652753,
+    -111.987552,
+    40.652753
+],
+  "geometry": {"coordinates":[-111.98755199999999,40.652753],"type":"Point"}
+}

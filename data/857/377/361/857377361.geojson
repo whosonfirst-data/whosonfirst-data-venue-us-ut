@@ -1,0 +1,77 @@
+{
+  "id": 857377361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.98086,40.671137,-111.98086,40.671137",
+    "geom:latitude":40.671137,
+    "geom:longitude":-111.98086,
+    "iso:country":"US",
+    "sg:address":"4570 Orleans Way",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 955 4877",
+    "sg:postcode":"84120",
+    "sg:province":"UT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85811567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76X7YnppaP4GpRXvaUfhf6_40.671137_-111.980860@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128063,
+    "wof:geomhash":"3d07c7b408dc87d4ce55d1d57af4626a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85811567,
+            "region_id":85688567,
+            "venue_id":857377361
+        }
+    ],
+    "wof:id":857377361,
+    "wof:lastmodified":1464128063,
+    "wof:name":"Tjc Trucking LLC",
+    "wof:parent_id":85811567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -111.98086,
+    40.671137,
+    -111.98086,
+    40.671137
+],
+  "geometry": {"coordinates":[-111.98086000000001,40.671137],"type":"Point"}
+}

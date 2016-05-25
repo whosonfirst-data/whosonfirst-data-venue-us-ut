@@ -1,0 +1,71 @@
+{
+  "id": 857442071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.89354,40.998548,-111.89354,40.998548",
+    "geom:latitude":40.998548,
+    "geom:longitude":-111.89354,
+    "iso:country":"US",
+    "sg:address":"1329 Alice Ln",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 8212",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "reporting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1T3ZHsXKrP9LcvwHMOmxSQ_40.998548_-111.893540@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129606,
+    "wof:geomhash":"9030f2e815138cbf09d6a9b78dc6878a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857442071
+        }
+    ],
+    "wof:id":857442071,
+    "wof:lastmodified":1464129606,
+    "wof:name":"RC Reporting Inc",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reporting"
+    ]
+},
+  "bbox": [
+    -111.89354,
+    40.998548,
+    -111.89354,
+    40.998548
+],
+  "geometry": {"coordinates":[-111.89354,40.998548],"type":"Point"}
+}

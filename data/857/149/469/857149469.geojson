@@ -1,0 +1,75 @@
+{
+  "id": 857149469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.885361,40.75413,-111.885361,40.75413",
+    "geom:latitude":40.75413,
+    "geom:longitude":-111.885361,
+    "iso:country":"US",
+    "sg:address":"756 S 200 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 534 1065",
+    "sg:postcode":"84111",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85867259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gW4m62B82FVl5sl3tL2fp_40.754130_-111.885361@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123138,
+    "wof:geomhash":"7b1ad8b28467ba6d03df9a7d046adac7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85867259,
+            "region_id":85688567,
+            "venue_id":857149469
+        }
+    ],
+    "wof:id":857149469,
+    "wof:lastmodified":1464123138,
+    "wof:name":"Lowell Apartments",
+    "wof:parent_id":85867259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -111.885361,
+    40.75413,
+    -111.885361,
+    40.75413
+],
+  "geometry": {"coordinates":[-111.885361,40.75413],"type":"Point"}
+}

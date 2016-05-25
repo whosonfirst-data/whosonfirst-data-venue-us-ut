@@ -1,0 +1,72 @@
+{
+  "id": 857356819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.784627,40.357214,-111.784627,40.357214",
+    "geom:latitude":40.357214,
+    "geom:longitude":-111.784627,
+    "iso:country":"US",
+    "sg:address":"597 E 1000 S",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 763 6800",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general",
+        "supply"
+    ],
+    "sg:website":"www.kengarff.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LIhPp4RCzvHRi44pPgppZ_40.357214_-111.784627@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127631,
+    "wof:geomhash":"212225f0da96bcdc240c6c73a42216bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857356819
+        }
+    ],
+    "wof:id":857356819,
+    "wof:lastmodified":1464127631,
+    "wof:name":"Ken Garff Ford-American Fork",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "supply"
+    ]
+},
+  "bbox": [
+    -111.784627,
+    40.357214,
+    -111.784627,
+    40.357214
+],
+  "geometry": {"coordinates":[-111.784627,40.357214],"type":"Point"}
+}

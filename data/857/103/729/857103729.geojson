@@ -1,0 +1,76 @@
+{
+  "id": 857103729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.025035,41.112695,-112.025035,41.112695",
+    "geom:latitude":41.112695,
+    "geom:longitude":-112.025035,
+    "iso:country":"US",
+    "sg:address":"180 State St",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 479 1748",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "sg:website":"www.wellsfargo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85851583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CpO8muG9YSGitUGaKgetJ_41.112695_-112.025035@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121998,
+    "wof:geomhash":"37f3d6078212ae6c9f037822c4966050",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85851583,
+            "region_id":85688567,
+            "venue_id":857103729
+        }
+    ],
+    "wof:id":857103729,
+    "wof:lastmodified":1464121998,
+    "wof:name":"Wells Fargo Bank",
+    "wof:parent_id":85851583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -112.025035,
+    41.112695,
+    -112.025035,
+    41.112695
+],
+  "geometry": {"coordinates":[-112.025035,41.112695],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 857492183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.702008,40.273604,-111.702008,40.273604",
+    "geom:latitude":40.273604,
+    "geom:longitude":-111.702008,
+    "iso:country":"US",
+    "sg:address":"290 W 1300 S",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/provo-orem/34689-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 223 0111",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85813259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QoPtKyYImrLcIPWf2c8IT_40.273604_-111.702008@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130668,
+    "wof:geomhash":"c0f8a45ae6781da110a0c4812017413c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85813259,
+            "region_id":85688567,
+            "venue_id":857492183
+        }
+    ],
+    "wof:id":857492183,
+    "wof:lastmodified":1464130668,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85813259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -111.702008,
+    40.273604,
+    -111.702008,
+    40.273604
+],
+  "geometry": {"coordinates":[-111.70200800000001,40.273604],"type":"Point"}
+}

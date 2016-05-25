@@ -1,0 +1,72 @@
+{
+  "id": 857247083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.853326,41.765287,-111.853326,41.765287",
+    "geom:latitude":41.765287,
+    "geom:longitude":-111.853326,
+    "iso:country":"US",
+    "sg:address":"708 W 1800 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 755 5845",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "engineer"
+    ],
+    "sg:website":"www.interactiverides.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VUAAXixQphC0ii6Zb6Zsf_41.765287_-111.853326@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125179,
+    "wof:geomhash":"b0d4f6e0da272ff7dbc714cf30b939ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857247083
+        }
+    ],
+    "wof:id":857247083,
+    "wof:lastmodified":1464125179,
+    "wof:name":"Interactive Rides",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -111.853326,
+    41.765287,
+    -111.853326,
+    41.765287
+],
+  "geometry": {"coordinates":[-111.853326,41.765287],"type":"Point"}
+}

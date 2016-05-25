@@ -1,0 +1,68 @@
+{
+  "id": 857386201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.859679,40.724815,-111.859679,40.724815",
+    "geom:latitude":40.724815,
+    "geom:longitude":-111.859679,
+    "iso:country":"US",
+    "sg:address":"2182 Highland Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 484 9467",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85858269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31NKdBF01gY9ygFuKCMqNd_40.724815_-111.859679@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128333,
+    "wof:geomhash":"bc5745b099678ded414965e019ef0a0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85858269,
+            "region_id":85688567,
+            "venue_id":857386201
+        }
+    ],
+    "wof:id":857386201,
+    "wof:lastmodified":1464128333,
+    "wof:name":"Fats Grill & Pool",
+    "wof:parent_id":85858269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.859679,
+    40.724815,
+    -111.859679,
+    40.724815
+],
+  "geometry": {"coordinates":[-111.859679,40.724815],"type":"Point"}
+}

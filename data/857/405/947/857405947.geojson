@@ -1,0 +1,78 @@
+{
+  "id": 857405947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.688951,40.283927,-111.688951,40.283927",
+    "geom:latitude":40.283927,
+    "geom:longitude":-111.688951,
+    "iso:country":"US",
+    "sg:address":"795 S State St",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 226 8909",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85830581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bVe2FruuZwQ6eqqOGY9o0_40.283927_-111.688951@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128750,
+    "wof:geomhash":"111a6f767fa625c84fecd9a5189dce1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85830581,
+            "region_id":85688567,
+            "venue_id":857405947
+        }
+    ],
+    "wof:id":857405947,
+    "wof:lastmodified":1464128750,
+    "wof:name":"Maverik Country Stores 314",
+    "wof:parent_id":85830581,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -111.688951,
+    40.283927,
+    -111.688951,
+    40.283927
+],
+  "geometry": {"coordinates":[-111.688951,40.283927],"type":"Point"}
+}

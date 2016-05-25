@@ -1,0 +1,71 @@
+{
+  "id": 857133663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.937291,41.038028,-111.937291,41.038028",
+    "geom:latitude":41.038028,
+    "geom:longitude":-111.937291,
+    "iso:country":"US",
+    "sg:address":"52 E 200 N",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 544 4335",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1a4UGuqfFBMTzxFy2ZQt4x_41.038028_-111.937291@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122758,
+    "wof:geomhash":"1d13f6af729eb3114a717343e4c20eaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857133663
+        }
+    ],
+    "wof:id":857133663,
+    "wof:lastmodified":1464122758,
+    "wof:name":"Hen Hut Hair Styling",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.937291,
+    41.038028,
+    -111.937291,
+    41.038028
+],
+  "geometry": {"coordinates":[-111.937291,41.038028],"type":"Point"}
+}

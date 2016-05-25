@@ -1,0 +1,74 @@
+{
+  "id": 857094443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.848989,40.694863,-111.848989,40.694863",
+    "geom:latitude":40.694863,
+    "geom:longitude":-111.848989,
+    "iso:country":"US",
+    "sg:address":"3534 Highland Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 486 6363",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "center"
+    ],
+    "sg:website":"www.childrens-corner.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85832079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TLPRDyfLFl9QMgO48Pbqi_40.694863_-111.848989@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121778,
+    "wof:geomhash":"988b806eda3a96bc1c3c79ef35129599",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85832079,
+            "region_id":85688567,
+            "venue_id":857094443
+        }
+    ],
+    "wof:id":857094443,
+    "wof:lastmodified":1464121778,
+    "wof:name":"Children's Corner",
+    "wof:parent_id":85832079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -111.848989,
+    40.694863,
+    -111.848989,
+    40.694863
+],
+  "geometry": {"coordinates":[-111.848989,40.694863],"type":"Point"}
+}

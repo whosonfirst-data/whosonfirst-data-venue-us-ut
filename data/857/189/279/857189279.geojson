@@ -1,0 +1,73 @@
+{
+  "id": 857189279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.890949,41.629034,-111.890949,41.629034",
+    "geom:latitude":41.629034,
+    "geom:longitude":-111.890949,
+    "iso:country":"US",
+    "sg:address":"2598 W 5700 S",
+    "sg:city":"Wellsville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 245 5055",
+    "sg:postcode":"84339",
+    "sg:province":"UT",
+    "sg:tags":[
+        "equipment",
+        "playground"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727555,
+        102082881,
+        85823067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MXgiUt5l1UHtaS550NRxL_41.629034_-111.890949@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123977,
+    "wof:geomhash":"0b0ad5605a4ed4cd7bacdab0593e89fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727555,
+            "neighbourhood_id":85823067,
+            "region_id":85688567,
+            "venue_id":857189279
+        }
+    ],
+    "wof:id":857189279,
+    "wof:lastmodified":1464123977,
+    "wof:name":"Great Western Park-Playground",
+    "wof:parent_id":85823067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "playground"
+    ]
+},
+  "bbox": [
+    -111.890949,
+    41.629034,
+    -111.890949,
+    41.629034
+],
+  "geometry": {"coordinates":[-111.89094900000001,41.629034],"type":"Point"}
+}

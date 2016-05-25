@@ -1,0 +1,75 @@
+{
+  "id": 857192403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.689922,40.250445,-111.689922,40.250445",
+    "geom:latitude":40.250445,
+    "geom:longitude":-111.689922,
+    "iso:country":"US",
+    "sg:address":"1291 Wasatch Dr",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 374 9809",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85880081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61q4HVjozjnKoR4F7G5Yin_40.250445_-111.689922@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124032,
+    "wof:geomhash":"6834cc471e4f146b58b097a7fd01ad96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85880081,
+            "region_id":85688567,
+            "venue_id":857192403
+        }
+    ],
+    "wof:id":857192403,
+    "wof:lastmodified":1464124032,
+    "wof:name":"Rycoe Electric LLC",
+    "wof:parent_id":85880081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.689922,
+    40.250445,
+    -111.689922,
+    40.250445
+],
+  "geometry": {"coordinates":[-111.689922,40.250445],"type":"Point"}
+}

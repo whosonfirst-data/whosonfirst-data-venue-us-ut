@@ -1,0 +1,75 @@
+{
+  "id": 857319007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.648737,40.292643,-111.648737,40.292643",
+    "geom:latitude":40.292643,
+    "geom:longitude":-111.648737,
+    "iso:country":"US",
+    "sg:address":"349 E 4450 N",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 0706",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AdKdw2DMVGAeCHJ5j2mCw_40.292643_-111.648737@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126830,
+    "wof:geomhash":"f8dd7e22732431e04be12fbe0f8fb52d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880091,
+            "region_id":85688567,
+            "venue_id":857319007
+        }
+    ],
+    "wof:id":857319007,
+    "wof:lastmodified":1464126830,
+    "wof:name":"Petersen Construction",
+    "wof:parent_id":85880091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.648737,
+    40.292643,
+    -111.648737,
+    40.292643
+],
+  "geometry": {"coordinates":[-111.648737,40.292643],"type":"Point"}
+}

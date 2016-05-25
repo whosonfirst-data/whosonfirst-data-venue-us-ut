@@ -1,0 +1,83 @@
+{
+  "id": 857091401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.825291,40.538164,-111.825291,40.538164",
+    "geom:latitude":40.538164,
+    "geom:longitude":-111.825291,
+    "iso:country":"US",
+    "sg:address":"11725 Gambel Oak Cir",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 523 4312",
+    "sg:postcode":"84092",
+    "sg:province":"UT",
+    "sg:tags":[
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85825243,
+        102082877,
+        102191575,
+        101728077,
+        85812845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4S27ZXQ9lzItGOmKcJDYYd_40.538164_-111.825291@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121720,
+    "wof:geomhash":"87c0090e4f7502ae682d4924ca0aa57d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85825243,
+            "region_id":85688567,
+            "venue_id":857091401
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85812845,
+            "region_id":85688567,
+            "venue_id":857091401
+        }
+    ],
+    "wof:id":857091401,
+    "wof:lastmodified":1464121720,
+    "wof:name":"High Country Fence Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.825291,
+    40.538164,
+    -111.825291,
+    40.538164
+],
+  "geometry": {"coordinates":[-111.82529100000001,40.538164],"type":"Point"}
+}

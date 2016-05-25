@@ -1,0 +1,71 @@
+{
+  "id": 857115755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.653952,40.023239,-111.653952,40.023239",
+    "geom:latitude":40.023239,
+    "geom:longitude":-111.653952,
+    "iso:country":"US",
+    "sg:address":"60 W Maple Dr",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 423 1979",
+    "sg:postcode":"84653",
+    "sg:province":"UT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ubdcOJz3z7lUDHDLrc4cn_40.023239_-111.653952@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122333,
+    "wof:geomhash":"35f9a2210a9d9d923741337ca85cd1c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857115755
+        }
+    ],
+    "wof:id":857115755,
+    "wof:lastmodified":1464122333,
+    "wof:name":"Salem First LDS Ward",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -111.653952,
+    40.023239,
+    -111.653952,
+    40.023239
+],
+  "geometry": {"coordinates":[-111.653952,40.023239],"type":"Point"}
+}

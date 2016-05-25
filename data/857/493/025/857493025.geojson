@@ -1,0 +1,82 @@
+{
+  "id": 857493025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.853719,40.725994,-111.853719,40.725994",
+    "geom:latitude":40.725994,
+    "geom:longitude":-111.853719,
+    "iso:country":"US",
+    "sg:address":"2045 S 1300 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/151797-aw-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 484 8821",
+    "sg:postcode":"84105",
+    "sg:province":"UT",
+    "sg:tags":[
+        "burger",
+        "american",
+        "dog",
+        "pub",
+        "hot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85857009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sgb4PdhSUax3vKZ4ijyIB_40.725994_-111.853719@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130700,
+    "wof:geomhash":"3d275f069ab26e9f0799a04b6b72ea62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85857009,
+            "region_id":85688567,
+            "venue_id":857493025
+        }
+    ],
+    "wof:id":857493025,
+    "wof:lastmodified":1464130700,
+    "wof:name":"A&W Restaurant",
+    "wof:parent_id":85857009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "dog",
+        "pub",
+        "hot"
+    ]
+},
+  "bbox": [
+    -111.853719,
+    40.725994,
+    -111.853719,
+    40.725994
+],
+  "geometry": {"coordinates":[-111.853719,40.725994],"type":"Point"}
+}

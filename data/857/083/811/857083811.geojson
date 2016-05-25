@@ -1,0 +1,75 @@
+{
+  "id": 857083811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.868658,40.525656,-111.868658,40.525656",
+    "geom:latitude":40.525656,
+    "geom:longitude":-111.868658,
+    "iso:country":"US",
+    "sg:address":"12369 S 800 E",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 562 1488",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "gourmet",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727849,
+        102082877,
+        85815193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1roahtR1axxkfV3G5kJtBg_40.525656_-111.868658@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121507,
+    "wof:geomhash":"21cbc27bdd14c63fdf7320b1a4f271e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85815193,
+            "region_id":85688567,
+            "venue_id":857083811
+        }
+    ],
+    "wof:id":857083811,
+    "wof:lastmodified":1464121507,
+    "wof:name":"Bon Appetit Intl",
+    "wof:parent_id":85815193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gourmet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.868658,
+    40.525656,
+    -111.868658,
+    40.525656
+],
+  "geometry": {"coordinates":[-111.868658,40.525656],"type":"Point"}
+}

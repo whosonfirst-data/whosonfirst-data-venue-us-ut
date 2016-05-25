@@ -1,0 +1,82 @@
+{
+  "id": 857163649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.6886,40.282887,-111.6886,40.282887",
+    "geom:latitude":40.282887,
+    "geom:longitude":-111.6886,
+    "iso:country":"US",
+    "sg:address":"745 S State St",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 225 2569",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "theatrical",
+        "produce",
+        "business",
+        "association",
+        "social"
+    ],
+    "sg:website":"www.scera.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85830581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gl87rJWxQL3dBP4doAkMA_40.282887_-111.688600@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123435,
+    "wof:geomhash":"cdf022772c392c5e113f0f2dd83544ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85830581,
+            "region_id":85688567,
+            "venue_id":857163649
+        }
+    ],
+    "wof:id":857163649,
+    "wof:lastmodified":1464123435,
+    "wof:name":"Scera",
+    "wof:parent_id":85830581,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "theatrical",
+        "produce",
+        "business",
+        "association",
+        "social"
+    ]
+},
+  "bbox": [
+    -111.6886,
+    40.282887,
+    -111.6886,
+    40.282887
+],
+  "geometry": {"coordinates":[-111.68859999999999,40.282887],"type":"Point"}
+}

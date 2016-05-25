@@ -1,0 +1,78 @@
+{
+  "id": 857316671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.014829,41.103239,-112.014829,41.103239",
+    "geom:latitude":41.103239,
+    "geom:longitude":-112.014829,
+    "iso:country":"US",
+    "sg:address":"709 State St",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 774 0851",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85851583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6t4BSB6temDE6GMfUcxVl3_41.103239_-112.014829@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126758,
+    "wof:geomhash":"efe461bd01750f53226e02c0157da2b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85851583,
+            "region_id":85688567,
+            "venue_id":857316671
+        }
+    ],
+    "wof:id":857316671,
+    "wof:lastmodified":1464126758,
+    "wof:name":"Maverik Country Stores 303",
+    "wof:parent_id":85851583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -112.014829,
+    41.103239,
+    -112.014829,
+    41.103239
+],
+  "geometry": {"coordinates":[-112.01482900000001,41.103239],"type":"Point"}
+}

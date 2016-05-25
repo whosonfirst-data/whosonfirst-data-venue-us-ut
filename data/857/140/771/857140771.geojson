@@ -1,0 +1,77 @@
+{
+  "id": 857140771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.900617,40.594748,-111.900617,40.594748",
+    "geom:latitude":40.594748,
+    "geom:longitude":-111.900617,
+    "iso:country":"US",
+    "sg:address":"8665 Harrison St",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 561 7081",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728051,
+        102082877,
+        85834097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5x7aia3OhC8HlxnchJ3EuB_40.594748_-111.900617@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122910,
+    "wof:geomhash":"5b01ec44b7818349fc7bbd419fde8c1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85834097,
+            "region_id":85688567,
+            "venue_id":857140771
+        }
+    ],
+    "wof:id":857140771,
+    "wof:lastmodified":1464122910,
+    "wof:name":"Lindsay Machine",
+    "wof:parent_id":85834097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ]
+},
+  "bbox": [
+    -111.900617,
+    40.594748,
+    -111.900617,
+    40.594748
+],
+  "geometry": {"coordinates":[-111.900617,40.594748],"type":"Point"}
+}

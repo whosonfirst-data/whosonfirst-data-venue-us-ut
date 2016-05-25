@@ -1,0 +1,76 @@
+{
+  "id": 857390819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.906415,40.588036,-111.906415,40.588036",
+    "geom:latitude":40.588036,
+    "geom:longitude":-111.906415,
+    "iso:country":"US",
+    "sg:address":"620 W 9000 S",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 566 1135",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "sg:website":"www.hotcoupons.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85818097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SkXXKLpo726f2rDmSk4HC_40.588036_-111.906415@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128445,
+    "wof:geomhash":"73b7114c200bcad91aba41df2d75903a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85818097,
+            "region_id":85688567,
+            "venue_id":857390819
+        }
+    ],
+    "wof:id":857390819,
+    "wof:lastmodified":1464128445,
+    "wof:name":"Ron's Auto",
+    "wof:parent_id":85818097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -111.906415,
+    40.588036,
+    -111.906415,
+    40.588036
+],
+  "geometry": {"coordinates":[-111.906415,40.588036],"type":"Point"}
+}

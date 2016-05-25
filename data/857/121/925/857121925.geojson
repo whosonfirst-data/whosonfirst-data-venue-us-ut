@@ -1,0 +1,73 @@
+{
+  "id": 857121925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.813499,40.3941,-111.813499,40.3941",
+    "geom:latitude":40.3941,
+    "geom:longitude":-111.813499,
+    "iso:country":"US",
+    "sg:address":"598 W 860 N",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 3383",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "product",
+        "nonmetallic",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1R9GHFdiRcsicpANrINwXc_40.394100_-111.813499@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122493,
+    "wof:geomhash":"7476172609a4f352394b478d8dcbc37d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857121925
+        }
+    ],
+    "wof:id":857121925,
+    "wof:lastmodified":1464122493,
+    "wof:name":"Family Art Inc",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "nonmetallic",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.813499,
+    40.3941,
+    -111.813499,
+    40.3941
+],
+  "geometry": {"coordinates":[-111.81349899999999,40.3941],"type":"Point"}
+}

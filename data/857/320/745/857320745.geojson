@@ -1,0 +1,75 @@
+{
+  "id": 857320745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.01467,41.215119,-112.01467,41.215119",
+    "geom:latitude":41.215119,
+    "geom:longitude":-112.01467,
+    "iso:country":"US",
+    "sg:address":"2815 Industrial Dr",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 334 1800",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "vitamin",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85818351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qMImL12wXlwCLLv2XK2Vb_41.215119_-112.014670@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126864,
+    "wof:geomhash":"59287e82b1e9c495eb81bbbc9ca84292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85818351,
+            "region_id":85688567,
+            "venue_id":857320745
+        }
+    ],
+    "wof:id":857320745,
+    "wof:lastmodified":1464126864,
+    "wof:name":"Solaray Inc",
+    "wof:parent_id":85818351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vitamin",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -112.01467,
+    41.215119,
+    -112.01467,
+    41.215119
+],
+  "geometry": {"coordinates":[-112.01467,41.215119],"type":"Point"}
+}

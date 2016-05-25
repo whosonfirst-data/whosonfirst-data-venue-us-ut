@@ -1,0 +1,75 @@
+{
+  "id": 857253079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.516441,37.129655,-113.516441,37.129655",
+    "geom:latitude":37.129655,
+    "geom:longitude":-113.516441,
+    "iso:country":"US",
+    "sg:address":"415 W Telegraph St",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 628 5137",
+    "sg:postcode":"84780",
+    "sg:province":"UT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gkDBgcL8UPMjo9cDBAI69_37.129655_-113.516441@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125323,
+    "wof:geomhash":"21ba49efb0a79333859dd0f05f46dd8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857253079
+        }
+    ],
+    "wof:id":857253079,
+    "wof:lastmodified":1464125323,
+    "wof:name":"Scott Jolley Concrete",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -113.516441,
+    37.129655,
+    -113.516441,
+    37.129655
+],
+  "geometry": {"coordinates":[-113.516441,37.129655],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 857351305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.859682,40.739967,-111.859682,40.739967",
+    "geom:latitude":40.739967,
+    "geom:longitude":-111.859682,
+    "iso:country":"US",
+    "sg:address":"1336 S 1100 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 485 1107",
+    "sg:postcode":"84105",
+    "sg:province":"UT",
+    "sg:tags":[
+        "company",
+        "system",
+        "business"
+    ],
+    "sg:website":"www.protelnetworks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85858577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aRF7S8Eo8Qm4yR5wbCfUI_40.739967_-111.859682@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127511,
+    "wof:geomhash":"41490e0a3478ab0b8ed1bcb9a47a908d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85858577,
+            "region_id":85688567,
+            "venue_id":857351305
+        }
+    ],
+    "wof:id":857351305,
+    "wof:lastmodified":1464127511,
+    "wof:name":"Protel Networks",
+    "wof:parent_id":85858577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "system",
+        "business"
+    ]
+},
+  "bbox": [
+    -111.859682,
+    40.739967,
+    -111.859682,
+    40.739967
+],
+  "geometry": {"coordinates":[-111.85968200000001,40.739967],"type":"Point"}
+}

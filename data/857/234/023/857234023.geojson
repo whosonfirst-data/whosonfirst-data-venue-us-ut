@@ -1,0 +1,73 @@
+{
+  "id": 857234023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.857427,40.595483,-111.857427,40.595483",
+    "geom:latitude":40.595483,
+    "geom:longitude":-111.857427,
+    "iso:country":"US",
+    "sg:address":"8492 S Fayeway Dr",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 569 3760",
+    "sg:postcode":"84094",
+    "sg:province":"UT",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85847325,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5b0tii0bBvw7pffUrOLxRE_40.595483_-111.857427@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124880,
+    "wof:geomhash":"1c183758d2e6a58fc4bf67e50bcbef6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85847325,
+            "region_id":85688567,
+            "venue_id":857234023
+        }
+    ],
+    "wof:id":857234023,
+    "wof:lastmodified":1464124880,
+    "wof:name":"A Pets Best Friend",
+    "wof:parent_id":85847325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -111.857427,
+    40.595483,
+    -111.857427,
+    40.595483
+],
+  "geometry": {"coordinates":[-111.857427,40.595483],"type":"Point"}
+}

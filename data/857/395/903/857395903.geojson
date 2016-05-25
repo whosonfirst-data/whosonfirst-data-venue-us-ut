@@ -1,0 +1,69 @@
+{
+  "id": 857395903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.67258,40.317359,-111.67258,40.317359",
+    "geom:latitude":40.317359,
+    "geom:longitude":-111.67258,
+    "iso:country":"US",
+    "sg:address":"1168 N 1000 E",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 225 4901",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "periodical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42bI6KtkMdnnqOFFV8CwpJ_40.317359_-111.672580@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128545,
+    "wof:geomhash":"e3042792a61e66f9df603faa5aa264bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857395903
+        }
+    ],
+    "wof:id":857395903,
+    "wof:lastmodified":1464128545,
+    "wof:name":"Utah Race Guide",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "periodical"
+    ]
+},
+  "bbox": [
+    -111.67258,
+    40.317359,
+    -111.67258,
+    40.317359
+],
+  "geometry": {"coordinates":[-111.67258,40.317359],"type":"Point"}
+}

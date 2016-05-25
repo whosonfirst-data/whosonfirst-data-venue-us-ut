@@ -1,0 +1,71 @@
+{
+  "id": 857444901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.935371,41.016776,-111.935371,41.016776",
+    "geom:latitude":41.016776,
+    "geom:longitude":-111.935371,
+    "iso:country":"US",
+    "sg:address":"225 E Monticello Dr",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 544 5073",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uEuIKmmfn1EjStMDWCczl_41.016776_-111.935371@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129657,
+    "wof:geomhash":"ad7a28a5e4285b156f656c2cd1b631f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857444901
+        }
+    ],
+    "wof:id":857444901,
+    "wof:lastmodified":1464129657,
+    "wof:name":"Upland Construction Inc",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -111.935371,
+    41.016776,
+    -111.935371,
+    41.016776
+],
+  "geometry": {"coordinates":[-111.935371,41.016776],"type":"Point"}
+}

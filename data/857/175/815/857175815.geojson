@@ -1,0 +1,68 @@
+{
+  "id": 857175815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.667492,40.246431,-111.667492,40.246431",
+    "geom:latitude":40.246431,
+    "geom:longitude":-111.667492,
+    "iso:country":"US",
+    "sg:address":"1145 N 500 W",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 375 3789",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IAbwup9DUUI1hNjOQuFfZ_40.246431_-111.667492@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123708,
+    "wof:geomhash":"fab8eeea146ba5d31cc047efd24ceed1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880107,
+            "region_id":85688567,
+            "venue_id":857175815
+        }
+    ],
+    "wof:id":857175815,
+    "wof:lastmodified":1464123708,
+    "wof:name":"Smith Sharen",
+    "wof:parent_id":85880107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.667492,
+    40.246431,
+    -111.667492,
+    40.246431
+],
+  "geometry": {"coordinates":[-111.667492,40.246431],"type":"Point"}
+}

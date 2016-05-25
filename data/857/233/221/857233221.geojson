@@ -1,0 +1,66 @@
+{
+  "id": 857233221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.819711,41.731144,-111.819711,41.731144",
+    "geom:latitude":41.731144,
+    "geom:longitude":-111.819711,
+    "iso:country":"US",
+    "sg:address":"600 E Center St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 3625",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7b2u9qgIXMhz0ffSTzeEgK_41.731144_-111.819711@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124865,
+    "wof:geomhash":"8accc42c7856cc092c63b89381445a42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857233221
+        }
+    ],
+    "wof:id":857233221,
+    "wof:lastmodified":1464124865,
+    "wof:name":"Tallmadge Tree Svc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.819711,
+    41.731144,
+    -111.819711,
+    41.731144
+],
+  "geometry": {"coordinates":[-111.819711,41.731144],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857176019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.84559,40.66464,-111.84559,40.66464",
+    "geom:latitude":40.66464,
+    "geom:longitude":-111.84559,
+    "iso:country":"US",
+    "sg:address":"4854 Damon Way",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 272 4848",
+    "sg:postcode":"84117",
+    "sg:province":"UT",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85825901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vyjiraYojKmA7fJcOLkfP_40.664640_-111.845590@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123713,
+    "wof:geomhash":"ea72a39860ad99878b18f4f7ea8e80ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85825901,
+            "region_id":85688567,
+            "venue_id":857176019
+        }
+    ],
+    "wof:id":857176019,
+    "wof:lastmodified":1464123713,
+    "wof:name":"S V Property Management LLC",
+    "wof:parent_id":85825901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -111.84559,
+    40.66464,
+    -111.84559,
+    40.66464
+],
+  "geometry": {"coordinates":[-111.84559,40.66464],"type":"Point"}
+}

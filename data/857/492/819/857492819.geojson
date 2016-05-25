@@ -1,0 +1,73 @@
+{
+  "id": 857492819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.904191,40.769265,-111.904191,40.769265",
+    "geom:latitude":40.769265,
+    "geom:longitude":-111.904191,
+    "iso:country":"US",
+    "sg:address":"7 S Rio Grande St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/217435-ben--jerrys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"84101",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85852649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2axtW0v2tpMrLi9mDl27Xq_40.769265_-111.904191@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130691,
+    "wof:geomhash":"5cd038682b1aa8bafb92a426897ecf84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85852649,
+            "region_id":85688567,
+            "venue_id":857492819
+        }
+    ],
+    "wof:id":857492819,
+    "wof:lastmodified":1464130691,
+    "wof:name":"Ben & Jerry's",
+    "wof:parent_id":85852649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -111.904191,
+    40.769265,
+    -111.904191,
+    40.769265
+],
+  "geometry": {"coordinates":[-111.904191,40.769265],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857272915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.627412,40.207521,-111.627412,40.207521",
+    "geom:latitude":40.207521,
+    "geom:longitude":-111.627412,
+    "iso:country":"US",
+    "sg:address":"1955 E Dakota Ln",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 5660",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:tags":[
+        "detention",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727863,
+        102083567,
+        85880103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RC0dd1MK3s66OreLr3k8g_40.207521_-111.627412@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125744,
+    "wof:geomhash":"9d8b10f36fcdc363bdd66e64a94a050a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880103,
+            "region_id":85688567,
+            "venue_id":857272915
+        }
+    ],
+    "wof:id":857272915,
+    "wof:lastmodified":1464125744,
+    "wof:name":"Provo Youth Detention Center",
+    "wof:parent_id":85880103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "detention",
+        "center"
+    ]
+},
+  "bbox": [
+    -111.627412,
+    40.207521,
+    -111.627412,
+    40.207521
+],
+  "geometry": {"coordinates":[-111.62741200000001,40.207521],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 857280237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.820338,41.711642,-111.820338,41.711642",
+    "geom:latitude":41.711642,
+    "geom:longitude":-111.820338,
+    "iso:country":"US",
+    "sg:address":"107 N 100 W",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 3089",
+    "sg:postcode":"84332",
+    "sg:province":"UT",
+    "sg:tags":[
+        "ornamental",
+        "work",
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KwhiODYyDxsTvnJsVgthK_41.711642_-111.820338@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125925,
+    "wof:geomhash":"f06e9588a4a931443d30b3c121a3a21a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857280237
+        }
+    ],
+    "wof:id":857280237,
+    "wof:lastmodified":1464125925,
+    "wof:name":"Baer Welding Co Inc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ornamental",
+        "work",
+        "welding"
+    ]
+},
+  "bbox": [
+    -111.820338,
+    41.711642,
+    -111.820338,
+    41.711642
+],
+  "geometry": {"coordinates":[-111.82033800000001,41.711642],"type":"Point"}
+}

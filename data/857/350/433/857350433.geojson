@@ -1,0 +1,75 @@
+{
+  "id": 857350433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.802282,41.731009,-111.802282,41.731009",
+    "geom:latitude":41.731009,
+    "geom:longitude":-111.802282,
+    "iso:country":"US",
+    "sg:address":"76 S 1250 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 755 6622",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "loan",
+        "mortgage",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aGCYpSkPDVePQGycc6MAA_41.731009_-111.802282@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127495,
+    "wof:geomhash":"d505863575e5a4f324b63b63973a7016",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857350433
+        }
+    ],
+    "wof:id":857350433,
+    "wof:lastmodified":1464127495,
+    "wof:name":"Chase Mortgage Inc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "mortgage",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -111.802282,
+    41.731009,
+    -111.802282,
+    41.731009
+],
+  "geometry": {"coordinates":[-111.80228200000001,41.731009],"type":"Point"}
+}

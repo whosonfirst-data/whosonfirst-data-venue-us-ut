@@ -1,0 +1,71 @@
+{
+  "id": 857453021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.910714,41.017623,-111.910714,41.017623",
+    "geom:latitude":41.017623,
+    "geom:longitude":-111.910714,
+    "iso:country":"US",
+    "sg:address":"1222 E 1015 S",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 547 9097",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "concessionaire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TcN3NbsePGHUdb3E6mnqx_41.017623_-111.910714@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129816,
+    "wof:geomhash":"8bd2da9d75ac337b456ab423389eb3b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857453021
+        }
+    ],
+    "wof:id":857453021,
+    "wof:lastmodified":1464129816,
+    "wof:name":"Ellison Park Concessions Inc",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concessionaire"
+    ]
+},
+  "bbox": [
+    -111.910714,
+    41.017623,
+    -111.910714,
+    41.017623
+],
+  "geometry": {"coordinates":[-111.910714,41.017623],"type":"Point"}
+}

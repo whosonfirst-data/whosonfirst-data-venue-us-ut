@@ -1,0 +1,71 @@
+{
+  "id": 857093795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.936232,41.035101,-111.936232,41.035101",
+    "geom:latitude":41.035101,
+    "geom:longitude":-111.936232,
+    "iso:country":"US",
+    "sg:address":"84 N 100 E",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 544 1788",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7af0ITaRc7vjGQrRfiWaNH_41.035101_-111.936232@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121767,
+    "wof:geomhash":"e9e4ff433351d50946f6f06ae47f74a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857093795
+        }
+    ],
+    "wof:id":857093795,
+    "wof:lastmodified":1464121767,
+    "wof:name":"Kaysville Recreation Ctr",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -111.936232,
+    41.035101,
+    -111.936232,
+    41.035101
+],
+  "geometry": {"coordinates":[-111.936232,41.035101],"type":"Point"}
+}

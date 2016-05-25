@@ -1,0 +1,69 @@
+{
+  "id": 857422981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.862917,40.665639,-111.862917,40.665639",
+    "geom:latitude":40.665639,
+    "geom:longitude":-111.862917,
+    "iso:country":"US",
+    "sg:address":"970 Murray Holladay Rd",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 261 4470",
+    "sg:postcode":"84117",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85826429,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jibAbt8zBZxLawkRgbGeS_40.665639_-111.862917@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129167,
+    "wof:geomhash":"8fb7bbdcf580b567ac136d3a36db5705",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85826429,
+            "region_id":85688567,
+            "venue_id":857422981
+        }
+    ],
+    "wof:id":857422981,
+    "wof:lastmodified":1464129167,
+    "wof:name":"Mortgage Utah",
+    "wof:parent_id":85826429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -111.862917,
+    40.665639,
+    -111.862917,
+    40.665639
+],
+  "geometry": {"coordinates":[-111.862917,40.665639],"type":"Point"}
+}

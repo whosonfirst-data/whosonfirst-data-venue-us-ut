@@ -1,0 +1,75 @@
+{
+  "id": 857366113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.890946,40.579953,-111.890946,40.579953",
+    "geom:latitude":40.579953,
+    "geom:longitude":-111.890946,
+    "iso:country":"US",
+    "sg:address":"9520 S State St",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 565 8561",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "development",
+        "pharmaceutical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85835551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6G40Fnu7o7VUbM50dQ5oqb_40.579953_-111.890946@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127827,
+    "wof:geomhash":"a4b1785e1b1cc8b41328a515ee25ab46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85835551,
+            "region_id":85688567,
+            "venue_id":857366113
+        }
+    ],
+    "wof:id":857366113,
+    "wof:lastmodified":1464127827,
+    "wof:name":"Macromed Inc",
+    "wof:parent_id":85835551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "pharmaceutical"
+    ]
+},
+  "bbox": [
+    -111.890946,
+    40.579953,
+    -111.890946,
+    40.579953
+],
+  "geometry": {"coordinates":[-111.890946,40.579953],"type":"Point"}
+}

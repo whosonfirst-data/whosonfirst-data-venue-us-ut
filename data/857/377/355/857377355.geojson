@@ -1,0 +1,71 @@
+{
+  "id": 857377355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.774855,39.968922,-111.774855,39.968922",
+    "geom:latitude":39.968922,
+    "geom:longitude":-111.774855,
+    "iso:country":"US",
+    "sg:address":"476 S 500 E",
+    "sg:city":"Santaquin",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 754 3236",
+    "sg:postcode":"84655",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2itnYYkKHbNbfbd3Aux8fo_39.968922_-111.774855@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128063,
+    "wof:geomhash":"74180169f7d9535cd0c29c50321d9ffd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857377355
+        }
+    ],
+    "wof:id":857377355,
+    "wof:lastmodified":1464128063,
+    "wof:name":"Nebco Technical Institute",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.774855,
+    39.968922,
+    -111.774855,
+    39.968922
+],
+  "geometry": {"coordinates":[-111.774855,39.968922],"type":"Point"}
+}

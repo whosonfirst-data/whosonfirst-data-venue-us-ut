@@ -1,0 +1,75 @@
+{
+  "id": 857160509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.909892,40.545621,-111.909892,40.545621",
+    "geom:latitude":40.545621,
+    "geom:longitude":-111.909892,
+    "iso:country":"US",
+    "sg:address":"11308 S 675 W",
+    "sg:city":"South Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 523 8888",
+    "sg:postcode":"84095",
+    "sg:province":"UT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727849,
+        102082877,
+        85830089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WBkwohdUeKYN6piGRJC5M_40.545621_-111.909892@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123353,
+    "wof:geomhash":"14fc684649ca0c93942ad204e86ba3d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85830089,
+            "region_id":85688567,
+            "venue_id":857160509
+        }
+    ],
+    "wof:id":857160509,
+    "wof:lastmodified":1464123353,
+    "wof:name":"Steve-N-Son Landscaping Inc",
+    "wof:parent_id":85830089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.909892,
+    40.545621,
+    -111.909892,
+    40.545621
+],
+  "geometry": {"coordinates":[-111.909892,40.545621],"type":"Point"}
+}

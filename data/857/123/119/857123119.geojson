@@ -1,0 +1,75 @@
+{
+  "id": 857123119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.992497,40.595903,-111.992497,40.595903",
+    "geom:latitude":40.595903,
+    "geom:longitude":-111.992497,
+    "iso:country":"US",
+    "sg:address":"4235 Farm Rd",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 280 4500",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "roofing",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85813117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lA7Ner7HgZLs63v71jNEK_40.595903_-111.992497@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122532,
+    "wof:geomhash":"d0efb808f99f8da862dc7aeed7d54082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85813117,
+            "region_id":85688567,
+            "venue_id":857123119
+        }
+    ],
+    "wof:id":857123119,
+    "wof:lastmodified":1464122532,
+    "wof:name":"Interstate Roofing Supply",
+    "wof:parent_id":85813117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "supply"
+    ]
+},
+  "bbox": [
+    -111.992497,
+    40.595903,
+    -111.992497,
+    40.595903
+],
+  "geometry": {"coordinates":[-111.992497,40.595903],"type":"Point"}
+}

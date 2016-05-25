@@ -1,0 +1,68 @@
+{
+  "id": 857270229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.950119,41.064223,-111.950119,41.064223",
+    "geom:latitude":41.064223,
+    "geom:longitude":-111.950119,
+    "iso:country":"US",
+    "sg:address":"270 N 850 E",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 544 4876",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1w3jzl15JY4rmJlcoUYwBx_41.064223_-111.950119@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125691,
+    "wof:geomhash":"d49705df9acb4c4c156fde85fe0c7ea9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857270229
+        }
+    ],
+    "wof:id":857270229,
+    "wof:lastmodified":1464125691,
+    "wof:name":"Tom Jones",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.950119,
+    41.064223,
+    -111.950119,
+    41.064223
+],
+  "geometry": {"coordinates":[-111.950119,41.064223],"type":"Point"}
+}

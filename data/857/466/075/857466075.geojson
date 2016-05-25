@@ -1,0 +1,71 @@
+{
+  "id": 857466075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.836777,41.731331,-111.836777,41.731331",
+    "geom:latitude":41.731331,
+    "geom:longitude":-111.836777,
+    "iso:country":"US",
+    "sg:address":"36 W Center St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 4059",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "bar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YnIP8Xxx5e11o9UK9gAPd_41.731331_-111.836777@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130090,
+    "wof:geomhash":"cd1632a8569924e67df8054131bd3afe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857466075
+        }
+    ],
+    "wof:id":857466075,
+    "wof:lastmodified":1464130090,
+    "wof:name":"White Owl",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bar"
+    ]
+},
+  "bbox": [
+    -111.836777,
+    41.731331,
+    -111.836777,
+    41.731331
+],
+  "geometry": {"coordinates":[-111.836777,41.731331],"type":"Point"}
+}

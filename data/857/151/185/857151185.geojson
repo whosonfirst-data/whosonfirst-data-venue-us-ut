@@ -1,0 +1,73 @@
+{
+  "id": 857151185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.851315,41.333256,-111.851315,41.333256",
+    "geom:latitude":41.333256,
+    "geom:longitude":-111.851315,
+    "iso:country":"US",
+    "sg:address":"3988 N River Dr",
+    "sg:city":"Eden",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 745 6684",
+    "sg:postcode":"84310",
+    "sg:province":"UT",
+    "sg:tags":[
+        "consultant",
+        "psychologist",
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85824645,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_542RD8xS9Zhzh8kVQWHJ7k_41.333256_-111.851315@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123172,
+    "wof:geomhash":"92a32b137efbab0ef16396123b2c1557",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85824645,
+            "region_id":85688567,
+            "venue_id":857151185
+        }
+    ],
+    "wof:id":857151185,
+    "wof:lastmodified":1464123172,
+    "wof:name":"Consulting Psychology",
+    "wof:parent_id":85824645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "psychologist",
+        "mental"
+    ]
+},
+  "bbox": [
+    -111.851315,
+    41.333256,
+    -111.851315,
+    41.333256
+],
+  "geometry": {"coordinates":[-111.851315,41.333256],"type":"Point"}
+}

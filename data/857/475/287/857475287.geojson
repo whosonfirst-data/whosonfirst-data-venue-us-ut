@@ -1,0 +1,73 @@
+{
+  "id": 857475287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.829834,40.733655,-111.829834,40.733655",
+    "geom:latitude":40.733655,
+    "geom:longitude":-111.829834,
+    "iso:country":"US",
+    "sg:address":"2105 E 1700 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 546 6214",
+    "sg:postcode":"84108",
+    "sg:province":"UT",
+    "sg:tags":[
+        "bookbinder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85858091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EymzjAt8ytnJdZ4NLNn0q_40.733655_-111.829834@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130284,
+    "wof:geomhash":"be8364a13ed7a4c13c950e4ced891ab7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85858091,
+            "region_id":85688567,
+            "venue_id":857475287
+        }
+    ],
+    "wof:id":857475287,
+    "wof:lastmodified":1464130284,
+    "wof:name":"Hunter Bindery",
+    "wof:parent_id":85858091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookbinder"
+    ]
+},
+  "bbox": [
+    -111.829834,
+    40.733655,
+    -111.829834,
+    40.733655
+],
+  "geometry": {"coordinates":[-111.82983400000001,40.733655],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857128843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.887441,40.891396,-111.887441,40.891396",
+    "geom:latitude":40.891396,
+    "geom:longitude":-111.887441,
+    "iso:country":"US",
+    "sg:address":"303 W 200 N",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 860 4763",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727883,
+        102083563,
+        85854881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FZDMTKtVgjK0cftK8EAMh_40.891396_-111.887441@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122643,
+    "wof:geomhash":"a4c6a95344bb251328c4c28d2a518c01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727883,
+            "neighbourhood_id":85854881,
+            "region_id":85688567,
+            "venue_id":857128843
+        }
+    ],
+    "wof:id":857128843,
+    "wof:lastmodified":1464122643,
+    "wof:name":"Landvisions Landscape Inc",
+    "wof:parent_id":85854881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.887441,
+    40.891396,
+    -111.887441,
+    40.891396
+],
+  "geometry": {"coordinates":[-111.887441,40.891396],"type":"Point"}
+}

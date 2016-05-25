@@ -1,0 +1,73 @@
+{
+  "id": 857422433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.849041,41.750386,-111.849041,41.750386",
+    "geom:latitude":41.750386,
+    "geom:longitude":-111.849041,
+    "iso:country":"US",
+    "sg:address":"580 W 1000 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 6543",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eT338rEFQ206vD9JIH7Xh_41.750386_-111.849041@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129158,
+    "wof:geomhash":"47e2e6567e489106a1635a6cb96ca065",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857422433
+        }
+    ],
+    "wof:id":857422433,
+    "wof:lastmodified":1464129158,
+    "wof:name":"A A Access Storage",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -111.849041,
+    41.750386,
+    -111.849041,
+    41.750386
+],
+  "geometry": {"coordinates":[-111.849041,41.750386],"type":"Point"}
+}

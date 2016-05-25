@@ -1,0 +1,78 @@
+{
+  "id": 857493087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.868563,40.725378,-111.868563,40.725378",
+    "geom:latitude":40.725378,
+    "geom:longitude":-111.868563,
+    "iso:country":"US",
+    "sg:address":"790 E 2100 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/121213-the-original-pancake-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 484 7200",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "pastry",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85858269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Xri8Z1ZgQ6Rkh1pzj96O8_40.725378_-111.868563@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130702,
+    "wof:geomhash":"a4a44bd12d611359b38e81853e17dcdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85858269,
+            "region_id":85688567,
+            "venue_id":857493087
+        }
+    ],
+    "wof:id":857493087,
+    "wof:lastmodified":1464130702,
+    "wof:name":"The Original Pancake House",
+    "wof:parent_id":85858269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry",
+        "diner"
+    ]
+},
+  "bbox": [
+    -111.868563,
+    40.725378,
+    -111.868563,
+    40.725378
+],
+  "geometry": {"coordinates":[-111.86856299999999,40.725378],"type":"Point"}
+}

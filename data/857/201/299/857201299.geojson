@@ -1,0 +1,68 @@
+{
+  "id": 857201299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.611755,40.163934,-111.611755,40.163934",
+    "geom:latitude":40.163934,
+    "geom:longitude":-111.611755,
+    "iso:country":"US",
+    "sg:address":"50 W 200 S",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 491 9090",
+    "sg:postcode":"84663",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727829,
+        102083567,
+        85880117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77UxCAdWZUCw6hNjkda7zt_40.163934_-111.611755@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124199,
+    "wof:geomhash":"d8aa198cfbd146065a8f1ce40f99fa90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727829,
+            "neighbourhood_id":85880117,
+            "region_id":85688567,
+            "venue_id":857201299
+        }
+    ],
+    "wof:id":857201299,
+    "wof:lastmodified":1464124199,
+    "wof:name":"Heirloom Gardens",
+    "wof:parent_id":85880117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.611755,
+    40.163934,
+    -111.611755,
+    40.163934
+],
+  "geometry": {"coordinates":[-111.611755,40.163934],"type":"Point"}
+}

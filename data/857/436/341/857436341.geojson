@@ -1,0 +1,71 @@
+{
+  "id": 857436341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.790842,40.703398,-111.790842,40.703398",
+    "geom:latitude":40.703398,
+    "geom:longitude":-111.790842,
+    "iso:country":"US",
+    "sg:address":"3075 S Teton Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 463 0290",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "laser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728257,
+        102082877,
+        85854869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1K7drtDRCjGplnkBxLsdwg_40.703398_-111.790842@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129497,
+    "wof:geomhash":"bc582656c03a43d4215131c93ecb79fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85854869,
+            "region_id":85688567,
+            "venue_id":857436341
+        }
+    ],
+    "wof:id":857436341,
+    "wof:lastmodified":1464129497,
+    "wof:name":"Innovative Medical Group",
+    "wof:parent_id":85854869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laser"
+    ]
+},
+  "bbox": [
+    -111.790842,
+    40.703398,
+    -111.790842,
+    40.703398
+],
+  "geometry": {"coordinates":[-111.790842,40.703398],"type":"Point"}
+}

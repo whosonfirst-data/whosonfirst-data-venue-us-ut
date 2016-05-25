@@ -1,0 +1,71 @@
+{
+  "id": 857273209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.809401,41.799053,-111.809401,41.799053",
+    "geom:latitude":41.799053,
+    "geom:longitude":-111.809401,
+    "iso:country":"US",
+    "sg:address":"495 E Center St",
+    "sg:city":"Hyde Park",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 563 6059",
+    "sg:postcode":"84318",
+    "sg:province":"UT",
+    "sg:tags":[
+        "investment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zN1emO6cbKHfbpCCFqtrE_41.799053_-111.809401@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125750,
+    "wof:geomhash":"b65ef7d7a98c8d5be795e8d7e98c46f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857273209
+        }
+    ],
+    "wof:id":857273209,
+    "wof:lastmodified":1464125750,
+    "wof:name":"Wursten's Properties",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investment"
+    ]
+},
+  "bbox": [
+    -111.809401,
+    41.799053,
+    -111.809401,
+    41.799053
+],
+  "geometry": {"coordinates":[-111.80940099999999,41.799053],"type":"Point"}
+}

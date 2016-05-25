@@ -1,0 +1,73 @@
+{
+  "id": 857146907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.8076,40.699668,-111.8076,40.699668",
+    "geom:latitude":40.699668,
+    "geom:longitude":-111.8076,
+    "iso:country":"US",
+    "sg:address":"3335 S 3010 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 467 7020",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "household",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728257,
+        102082877,
+        85854869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DaFJfUVJCgzTlZvcYjPdx_40.699668_-111.807600@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123077,
+    "wof:geomhash":"32c19f6199a970b0b2ac035591b63311",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85854869,
+            "region_id":85688567,
+            "venue_id":857146907
+        }
+    ],
+    "wof:id":857146907,
+    "wof:lastmodified":1464123077,
+    "wof:name":"Kokopellis Garden",
+    "wof:parent_id":85854869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "household",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.8076,
+    40.699668,
+    -111.8076,
+    40.699668
+],
+  "geometry": {"coordinates":[-111.80759999999999,40.699668],"type":"Point"}
+}

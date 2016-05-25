@@ -1,0 +1,75 @@
+{
+  "id": 857376767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.800672,40.707663,-111.800672,40.707663",
+    "geom:latitude":40.707663,
+    "geom:longitude":-111.800672,
+    "iso:country":"US",
+    "sg:address":"3301 E 2920 South St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 484 4441",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "society",
+        "historical",
+        "preservation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728257,
+        102082877,
+        85854869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vxfZexnv7x5AGVyC4BTIQ_40.707663_-111.800672@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128052,
+    "wof:geomhash":"80509014ada179474a3e611fb40d8399",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85854869,
+            "region_id":85688567,
+            "venue_id":857376767
+        }
+    ],
+    "wof:id":857376767,
+    "wof:lastmodified":1464128052,
+    "wof:name":"Sons of Utah Pioneers Inc",
+    "wof:parent_id":85854869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "society",
+        "historical",
+        "preservation"
+    ]
+},
+  "bbox": [
+    -111.800672,
+    40.707663,
+    -111.800672,
+    40.707663
+],
+  "geometry": {"coordinates":[-111.80067200000001,40.707663],"type":"Point"}
+}

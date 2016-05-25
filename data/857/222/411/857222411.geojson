@@ -1,0 +1,73 @@
+{
+  "id": 857222411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.733479,40.31466,-111.733479,40.31466",
+    "geom:latitude":40.31466,
+    "geom:longitude":-111.733479,
+    "iso:country":"US",
+    "sg:address":"996 N 1580 West St",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 8697",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3740DzhvCjFNxos9as5jbU_40.314660_-111.733479@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124664,
+    "wof:geomhash":"b0782238ecef469aaf901ef7b83480fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":857222411
+        }
+    ],
+    "wof:id":857222411,
+    "wof:lastmodified":1464124664,
+    "wof:name":"Valet Towing & Recovery",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -111.733479,
+    40.31466,
+    -111.733479,
+    40.31466
+],
+  "geometry": {"coordinates":[-111.733479,40.31466],"type":"Point"}
+}

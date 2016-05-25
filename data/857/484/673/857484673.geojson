@@ -1,0 +1,71 @@
+{
+  "id": 857484673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.820338,41.710879,-111.820338,41.710879",
+    "geom:latitude":41.710879,
+    "geom:longitude":-111.820338,
+    "iso:country":"US",
+    "sg:address":"145 N 100 W",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 6568",
+    "sg:postcode":"84332",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7j7QH9f09wZAnW68bKOypK_41.710879_-111.820338@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130458,
+    "wof:geomhash":"ae70bd55eb7b707ebaf679f23927cefe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857484673
+        }
+    ],
+    "wof:id":857484673,
+    "wof:lastmodified":1464130458,
+    "wof:name":"Chad Demler Masonry",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.820338,
+    41.710879,
+    -111.820338,
+    41.710879
+],
+  "geometry": {"coordinates":[-111.82033800000001,41.710879],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857344543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.674815,40.259,-111.674815,40.259",
+    "geom:latitude":40.259,
+    "geom:longitude":-111.674815,
+    "iso:country":"US",
+    "sg:address":"1700 N State St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 5542",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eNj2ORpkFhQbHP8rI4POH_40.259000_-111.674815@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127363,
+    "wof:geomhash":"1c5f27462dce120b43ec8e80deb995b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880063,
+            "region_id":85688567,
+            "venue_id":857344543
+        }
+    ],
+    "wof:id":857344543,
+    "wof:lastmodified":1464127363,
+    "wof:name":"Shepherds Cake & Candy Sups",
+    "wof:parent_id":85880063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.674815,
+    40.259,
+    -111.674815,
+    40.259
+],
+  "geometry": {"coordinates":[-111.674815,40.259],"type":"Point"}
+}

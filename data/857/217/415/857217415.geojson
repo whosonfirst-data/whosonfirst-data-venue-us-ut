@@ -1,0 +1,77 @@
+{
+  "id": 857217415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.639951,40.290677,-111.639951,40.290677",
+    "geom:latitude":40.290677,
+    "geom:longitude":-111.639951,
+    "iso:country":"US",
+    "sg:address":"4243 N Waterford Ct",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 802 0173",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mobile",
+        "home",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OsnUedEuFPdaaWMuahQG3_40.290677_-111.639951@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124561,
+    "wof:geomhash":"d54f31a3344423421d4b0de79522b935",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880091,
+            "region_id":85688567,
+            "venue_id":857217415
+        }
+    ],
+    "wof:id":857217415,
+    "wof:lastmodified":1464124561,
+    "wof:name":"Waterford Homes",
+    "wof:parent_id":85880091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.639951,
+    40.290677,
+    -111.639951,
+    40.290677
+],
+  "geometry": {"coordinates":[-111.639951,40.290677],"type":"Point"}
+}

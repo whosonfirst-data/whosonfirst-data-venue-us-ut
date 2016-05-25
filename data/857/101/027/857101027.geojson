@@ -1,0 +1,68 @@
+{
+  "id": 857101027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.87661,40.739085,-111.87661,40.739085",
+    "geom:latitude":40.739085,
+    "geom:longitude":-111.87661,
+    "iso:country":"US",
+    "sg:address":"544 Browning Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 466 0587",
+    "sg:postcode":"84105",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85858241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XGV0TPRnFtd71fKsMgwXn_40.739085_-111.876610@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121941,
+    "wof:geomhash":"b7b02238eba79f64b2b32100432f82aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85858241,
+            "region_id":85688567,
+            "venue_id":857101027
+        }
+    ],
+    "wof:id":857101027,
+    "wof:lastmodified":1464121941,
+    "wof:name":"Spencer Engineering",
+    "wof:parent_id":85858241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.87661,
+    40.739085,
+    -111.87661,
+    40.739085
+],
+  "geometry": {"coordinates":[-111.87661,40.739085],"type":"Point"}
+}

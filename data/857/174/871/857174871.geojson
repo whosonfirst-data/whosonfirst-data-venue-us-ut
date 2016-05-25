@@ -1,0 +1,73 @@
+{
+  "id": 857174871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.639912,40.297583,-111.639912,40.297583",
+    "geom:latitude":40.297583,
+    "geom:longitude":-111.639912,
+    "iso:country":"US",
+    "sg:address":"1084 Hillside Dr",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 226 0145",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QUkbiFRxGmkSFK7Upz3BX_40.297583_-111.639912@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123691,
+    "wof:geomhash":"86c214b22f7e5afd8c96a14de8f4ab69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880091,
+            "region_id":85688567,
+            "venue_id":857174871
+        }
+    ],
+    "wof:id":857174871,
+    "wof:lastmodified":1464123691,
+    "wof:name":"Dr Allen C Johnson MD PC",
+    "wof:parent_id":85880091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -111.639912,
+    40.297583,
+    -111.639912,
+    40.297583
+],
+  "geometry": {"coordinates":[-111.639912,40.297583],"type":"Point"}
+}

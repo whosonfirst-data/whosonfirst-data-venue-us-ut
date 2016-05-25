@@ -1,0 +1,71 @@
+{
+  "id": 857315005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.647687,40.013325,-111.647687,40.013325",
+    "geom:latitude":40.013325,
+    "geom:longitude":-111.647687,
+    "iso:country":"US",
+    "sg:address":"725 S Woodland Hills Dr",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 423 7707",
+    "sg:postcode":"84653",
+    "sg:province":"UT",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xKv4teejasbEnmjol1vDZ_40.013325_-111.647687@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126722,
+    "wof:geomhash":"fa2f939fb22bd723d659e1ebb2544a79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857315005
+        }
+    ],
+    "wof:id":857315005,
+    "wof:lastmodified":1464126722,
+    "wof:name":"Celestial Scents Candle",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -111.647687,
+    40.013325,
+    -111.647687,
+    40.013325
+],
+  "geometry": {"coordinates":[-111.647687,40.013325],"type":"Point"}
+}

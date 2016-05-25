@@ -1,0 +1,75 @@
+{
+  "id": 857436913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.946359,40.611169,-111.946359,40.611169",
+    "geom:latitude":40.611169,
+    "geom:longitude":-111.946359,
+    "iso:country":"US",
+    "sg:address":"2019 Rhinehurst Cir",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 566 3762",
+    "sg:postcode":"84084",
+    "sg:province":"UT",
+    "sg:tags":[
+        "preparation",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85824493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xRit1dIeD01NaGcrUM6ad_40.611169_-111.946359@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129509,
+    "wof:geomhash":"327be6a0b7880a417c4cd489ba5fc943",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85824493,
+            "region_id":85688567,
+            "venue_id":857436913
+        }
+    ],
+    "wof:id":857436913,
+    "wof:lastmodified":1464129509,
+    "wof:name":"Best Fresh Flour Tortillas",
+    "wof:parent_id":85824493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preparation",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.946359,
+    40.611169,
+    -111.946359,
+    40.611169
+],
+  "geometry": {"coordinates":[-111.946359,40.611169],"type":"Point"}
+}

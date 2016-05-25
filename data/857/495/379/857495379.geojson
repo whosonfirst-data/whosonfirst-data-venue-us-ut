@@ -1,0 +1,80 @@
+{
+  "id": 857495379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.959243,40.573779,-111.959243,40.573779",
+    "geom:latitude":40.573779,
+    "geom:longitude":-111.959243,
+    "iso:country":"US",
+    "sg:address":"2771 W. 9760 S.",
+    "sg:city":"South Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 232 3570",
+    "sg:postcode":"84095",
+    "sg:province":"UT",
+    "sg:tags":[
+        "cars",
+        "art",
+        "stickers",
+        "self-expression"
+    ],
+    "sg:website":"http://www.carart.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728055,
+        102082877,
+        85821341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LLpPYYeHmEL9Z7U8B22HZ_40.573779_-111.959243@1308186496"
+    },
+    "wof:country":"US",
+    "wof:created":1464130791,
+    "wof:geomhash":"33d6da8168fdc3eae415d140776cbe01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728055,
+            "neighbourhood_id":85821341,
+            "region_id":85688567,
+            "venue_id":857495379
+        }
+    ],
+    "wof:id":857495379,
+    "wof:lastmodified":1464130791,
+    "wof:name":"CarArt",
+    "wof:parent_id":85821341,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cars",
+        "art",
+        "stickers",
+        "self-expression"
+    ]
+},
+  "bbox": [
+    -111.959243,
+    40.573779,
+    -111.959243,
+    40.573779
+],
+  "geometry": {"coordinates":[-111.959243,40.573779],"type":"Point"}
+}

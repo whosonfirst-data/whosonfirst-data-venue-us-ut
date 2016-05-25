@@ -1,0 +1,77 @@
+{
+  "id": 857118515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.90562,40.733918,-111.90562,40.733918",
+    "geom:latitude":40.733918,
+    "geom:longitude":-111.90562,
+    "iso:country":"US",
+    "sg:address":"1320 S 500 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 487 7106",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85854115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PIHrFyr6NMvdVx1MiAGAI_40.733918_-111.905620@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122421,
+    "wof:geomhash":"d09e2a2755e05452e56e4318f627c58e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85854115,
+            "region_id":85688567,
+            "venue_id":857118515
+        }
+    ],
+    "wof:id":857118515,
+    "wof:lastmodified":1464122421,
+    "wof:name":"Larry H Miller Collision Ctr",
+    "wof:parent_id":85854115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -111.90562,
+    40.733918,
+    -111.90562,
+    40.733918
+],
+  "geometry": {"coordinates":[-111.90562,40.733918],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857306391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.705612,40.328188,-111.705612,40.328188",
+    "geom:latitude":40.328188,
+    "geom:longitude":-111.705612,
+    "iso:country":"US",
+    "sg:address":"1684 N 400 W",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 225 5720",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FSu5E7gMe953V32nAef2p_40.328188_-111.705612@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126546,
+    "wof:geomhash":"bac6e88e8cee14db8ca9f36208b17a80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":857306391
+        }
+    ],
+    "wof:id":857306391,
+    "wof:lastmodified":1464126546,
+    "wof:name":"CM Jacobson Ltd Fam",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -111.705612,
+    40.328188,
+    -111.705612,
+    40.328188
+],
+  "geometry": {"coordinates":[-111.705612,40.328188],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857140343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.828302,41.764793,-111.828302,41.764793",
+    "geom:latitude":41.764793,
+    "geom:longitude":-111.828302,
+    "iso:country":"US",
+    "sg:address":"224 E 1800 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 6461",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "federal",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GVKE4mnDy1tFX7TkMKxKz_41.764793_-111.828302@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122903,
+    "wof:geomhash":"c7cf3f7fa5cf00ac34bb7100ada6f79b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857140343
+        }
+    ],
+    "wof:id":857140343,
+    "wof:lastmodified":1464122903,
+    "wof:name":"US Army Reserve",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "security"
+    ]
+},
+  "bbox": [
+    -111.828302,
+    41.764793,
+    -111.828302,
+    41.764793
+],
+  "geometry": {"coordinates":[-111.82830199999999,41.764793],"type":"Point"}
+}

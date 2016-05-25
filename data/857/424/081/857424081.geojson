@@ -1,0 +1,73 @@
+{
+  "id": 857424081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.654849,40.112506,-111.654849,40.112506",
+    "geom:latitude":40.112506,
+    "geom:longitude":-111.654849,
+    "iso:country":"US",
+    "sg:address":"295 N Main St",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 0306",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "return",
+        "filing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aJwtLhc4IR3iiIP9pILU0_40.112506_-111.654849@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129196,
+    "wof:geomhash":"6666378bc44b89f511993d5eeacd5688",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857424081
+        }
+    ],
+    "wof:id":857424081,
+    "wof:lastmodified":1464129196,
+    "wof:name":"H & R Block Tax Svc",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return",
+        "filing"
+    ]
+},
+  "bbox": [
+    -111.654849,
+    40.112506,
+    -111.654849,
+    40.112506
+],
+  "geometry": {"coordinates":[-111.654849,40.112506],"type":"Point"}
+}

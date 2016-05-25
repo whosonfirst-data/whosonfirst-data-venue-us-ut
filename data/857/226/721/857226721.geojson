@@ -1,0 +1,79 @@
+{
+  "id": 857226721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.888296,40.724856,-111.888296,40.724856",
+    "geom:latitude":40.724856,
+    "geom:longitude":-111.888296,
+    "iso:country":"US",
+    "sg:address":"2120 S State St",
+    "sg:city":"South Salt Lake",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 484 2424",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "depository",
+        "banking",
+        "check",
+        "cashing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85849489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dI9RYlXGqStphPJwYLpPy_40.724856_-111.888296@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124742,
+    "wof:geomhash":"a1e7cc855702d531bd694437ac04a3fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85849489,
+            "region_id":85688567,
+            "venue_id":857226721
+        }
+    ],
+    "wof:id":857226721,
+    "wof:lastmodified":1464124742,
+    "wof:name":"Check City",
+    "wof:parent_id":85849489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "depository",
+        "banking",
+        "check",
+        "cashing"
+    ]
+},
+  "bbox": [
+    -111.888296,
+    40.724856,
+    -111.888296,
+    40.724856
+],
+  "geometry": {"coordinates":[-111.888296,40.724856],"type":"Point"}
+}

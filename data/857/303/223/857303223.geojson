@@ -1,0 +1,75 @@
+{
+  "id": 857303223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.113948,41.110734,-112.113948,41.110734",
+    "geom:latitude":41.110734,
+    "geom:longitude":-112.113948,
+    "iso:country":"US",
+    "sg:address":"4563 W 200 S",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 776 3749",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727889,
+        102083563,
+        85804563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53BqFgbCj3xrqEuSNZiqNy_41.110734_-112.113948@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126480,
+    "wof:geomhash":"1e40e3b51affa49ce6acce8f9b76998f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727889,
+            "neighbourhood_id":85804563,
+            "region_id":85688567,
+            "venue_id":857303223
+        }
+    ],
+    "wof:id":857303223,
+    "wof:lastmodified":1464126480,
+    "wof:name":"Ch Concrete Construction",
+    "wof:parent_id":85804563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -112.113948,
+    41.110734,
+    -112.113948,
+    41.110734
+],
+  "geometry": {"coordinates":[-112.11394799999999,41.110734],"type":"Point"}
+}

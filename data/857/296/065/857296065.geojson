@@ -1,0 +1,80 @@
+{
+  "id": 857296065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.835099,41.730425,-111.835099,41.730425",
+    "geom:latitude":41.730425,
+    "geom:longitude":-111.835099,
+    "iso:country":"US",
+    "sg:address":"75 S Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 0370",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MAfn3SHk2Z2UszBVLRxCv_41.730425_-111.835099@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126326,
+    "wof:geomhash":"bcbadcc33be43c007fc02f0cfcdcc5ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857296065
+        }
+    ],
+    "wof:id":857296065,
+    "wof:lastmodified":1464126326,
+    "wof:name":"Fuhriman's Framing & Fine Art",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -111.835099,
+    41.730425,
+    -111.835099,
+    41.730425
+],
+  "geometry": {"coordinates":[-111.835099,41.730425],"type":"Point"}
+}

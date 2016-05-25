@@ -1,0 +1,71 @@
+{
+  "id": 857405793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.672075,40.312374,-111.672075,40.312374",
+    "geom:latitude":40.312374,
+    "geom:longitude":-111.672075,
+    "iso:country":"US",
+    "sg:address":"817 N 1000 E",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 223 9584",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ThTForzXat3ijnlei3BIa_40.312374_-111.672075@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128747,
+    "wof:geomhash":"d6cac8eb86e2d38dd0fa064e13e4bccd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857405793
+        }
+    ],
+    "wof:id":857405793,
+    "wof:lastmodified":1464128747,
+    "wof:name":"Charlies Concrete Inc",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.672075,
+    40.312374,
+    -111.672075,
+    40.312374
+],
+  "geometry": {"coordinates":[-111.67207500000001,40.312374],"type":"Point"}
+}

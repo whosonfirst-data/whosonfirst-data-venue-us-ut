@@ -1,0 +1,84 @@
+{
+  "id": 857393905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.939211,40.576211,-111.939211,40.576211",
+    "geom:latitude":40.576211,
+    "geom:longitude":-111.939211,
+    "iso:country":"US",
+    "sg:address":"1888 W 9640 S",
+    "sg:city":"South Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 254 3554",
+    "sg:postcode":"84095",
+    "sg:province":"UT",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85832913,
+        101728055,
+        85821341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2chWh9NPfmLlFGdbcckfvo_40.576211_-111.939211@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128500,
+    "wof:geomhash":"7be2e290d1ad8f88fa577c77d29d4352",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85832913,
+            "region_id":85688567,
+            "venue_id":857393905
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728055,
+            "neighbourhood_id":85821341,
+            "region_id":85688567,
+            "venue_id":857393905
+        }
+    ],
+    "wof:id":857393905,
+    "wof:lastmodified":1464128500,
+    "wof:name":"Dalton Trucking Company LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -111.939211,
+    40.576211,
+    -111.939211,
+    40.576211
+],
+  "geometry": {"coordinates":[-111.939211,40.576211],"type":"Point"}
+}

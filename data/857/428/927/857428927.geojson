@@ -1,0 +1,73 @@
+{
+  "id": 857428927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.66919,40.237353,-111.66919,40.237353",
+    "geom:latitude":40.237353,
+    "geom:longitude":-111.66919,
+    "iso:country":"US",
+    "sg:address":"232 N 600 W",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 221 5100",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "skilled"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WDugFryOm6YvkHRYWrVQQ_40.237353_-111.669190@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129316,
+    "wof:geomhash":"f9c23e7b917d72cfaafc1b278abfc0f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880121,
+            "region_id":85688567,
+            "venue_id":857428927
+        }
+    ],
+    "wof:id":857428927,
+    "wof:lastmodified":1464129316,
+    "wof:name":"Bel Aire Assisted Living",
+    "wof:parent_id":85880121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled"
+    ]
+},
+  "bbox": [
+    -111.66919,
+    40.237353,
+    -111.66919,
+    40.237353
+],
+  "geometry": {"coordinates":[-111.66919,40.237353],"type":"Point"}
+}

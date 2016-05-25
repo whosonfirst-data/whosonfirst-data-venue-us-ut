@@ -1,0 +1,69 @@
+{
+  "id": 857203043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.940696,41.3074,-111.940696,41.3074",
+    "geom:latitude":41.3074,
+    "geom:longitude":-111.940696,
+    "iso:country":"US",
+    "sg:address":"1177 E 2650 N",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 782 7559",
+    "sg:postcode":"84414",
+    "sg:province":"UT",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85824645,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RQMj7poA3KdOR2iJyCfQP_41.307400_-111.940696@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124235,
+    "wof:geomhash":"0be643b41f44374bd980748f5c026664",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85824645,
+            "region_id":85688567,
+            "venue_id":857203043
+        }
+    ],
+    "wof:id":857203043,
+    "wof:lastmodified":1464124235,
+    "wof:name":"Sister Salon",
+    "wof:parent_id":85824645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -111.940696,
+    41.3074,
+    -111.940696,
+    41.3074
+],
+  "geometry": {"coordinates":[-111.940696,41.3074],"type":"Point"}
+}

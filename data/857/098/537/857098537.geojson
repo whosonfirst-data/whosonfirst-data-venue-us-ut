@@ -1,0 +1,73 @@
+{
+  "id": 857098537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.910337,40.610646,-111.910337,40.610646",
+    "geom:latitude":40.610646,
+    "geom:longitude":-111.910337,
+    "iso:country":"US",
+    "sg:address":"7678 Main St",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 566 6042",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728051,
+        102082877,
+        85810115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_762wJ71VQSKFWUAoImlK4v_40.610646_-111.910337@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121869,
+    "wof:geomhash":"63e8937637be72bf1ba32665075a7dc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85810115,
+            "region_id":85688567,
+            "venue_id":857098537
+        }
+    ],
+    "wof:id":857098537,
+    "wof:lastmodified":1464121869,
+    "wof:name":"Midvale Beauty Salon",
+    "wof:parent_id":85810115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.910337,
+    40.610646,
+    -111.910337,
+    40.610646
+],
+  "geometry": {"coordinates":[-111.910337,40.610646],"type":"Point"}
+}

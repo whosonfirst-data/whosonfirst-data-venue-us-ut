@@ -1,0 +1,68 @@
+{
+  "id": 857156183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.610578,40.161678,-111.610578,40.161678",
+    "geom:latitude":40.161678,
+    "geom:longitude":-111.610578,
+    "iso:country":"US",
+    "sg:address":"343 S Main St",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 489 9045",
+    "sg:postcode":"84663",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727829,
+        102083567,
+        85880117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rApNYGgzBggYXLCEbw72S_40.161678_-111.610578@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123270,
+    "wof:geomhash":"37a903069c85908471036f97fa4b6c2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727829,
+            "neighbourhood_id":85880117,
+            "region_id":85688567,
+            "venue_id":857156183
+        }
+    ],
+    "wof:id":857156183,
+    "wof:lastmodified":1464123270,
+    "wof:name":"Prudential Utah Real Estate",
+    "wof:parent_id":85880117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.610578,
+    40.161678,
+    -111.610578,
+    40.161678
+],
+  "geometry": {"coordinates":[-111.610578,40.161678],"type":"Point"}
+}

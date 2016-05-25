@@ -1,0 +1,71 @@
+{
+  "id": 857439047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.786636,40.674649,-111.786636,40.674649",
+    "geom:latitude":40.674649,
+    "geom:longitude":-111.786636,
+    "iso:country":"US",
+    "sg:address":"4455 Adonis Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 277 6277",
+    "sg:postcode":"84124",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mail",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85835599,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2A2QubDe96JO8cTkQUJApg_40.674649_-111.786636@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129551,
+    "wof:geomhash":"82b5f39eba1359ae326e7a14bdcfee00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85835599,
+            "region_id":85688567,
+            "venue_id":857439047
+        }
+    ],
+    "wof:id":857439047,
+    "wof:lastmodified":1464129551,
+    "wof:name":"Western Sales",
+    "wof:parent_id":85835599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "house"
+    ]
+},
+  "bbox": [
+    -111.786636,
+    40.674649,
+    -111.786636,
+    40.674649
+],
+  "geometry": {"coordinates":[-111.786636,40.674649],"type":"Point"}
+}

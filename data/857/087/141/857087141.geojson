@@ -1,0 +1,73 @@
+{
+  "id": 857087141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.786088,40.686079,-111.786088,40.686079",
+    "geom:latitude":40.686079,
+    "geom:longitude":-111.786088,
+    "iso:country":"US",
+    "sg:address":"3981 S Mount Olympus Way",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 277 0690",
+    "sg:postcode":"84124",
+    "sg:province":"UT",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85835597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xdAHvQwKmGJLHNHF4VHEl_40.686079_-111.786088@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121585,
+    "wof:geomhash":"8e26a9ae65c58b1abaaae529d6677705",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85835597,
+            "region_id":85688567,
+            "venue_id":857087141
+        }
+    ],
+    "wof:id":857087141,
+    "wof:lastmodified":1464121585,
+    "wof:name":"Hickman Valley Water Users",
+    "wof:parent_id":85835597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -111.786088,
+    40.686079,
+    -111.786088,
+    40.686079
+],
+  "geometry": {"coordinates":[-111.78608800000001,40.686079],"type":"Point"}
+}

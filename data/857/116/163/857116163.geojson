@@ -1,0 +1,74 @@
+{
+  "id": 857116163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.675488,40.329337,-111.675488,40.329337",
+    "geom:latitude":40.329337,
+    "geom:longitude":-111.675488,
+    "iso:country":"US",
+    "sg:address":"1744 Oakcrest Dr",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 0488",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26VdVqib69OEl0wiGm9qSL_40.329337_-111.675488@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122351,
+    "wof:geomhash":"8b61b2a4257e37d8108d0e56283b21eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857116163
+        }
+    ],
+    "wof:id":857116163,
+    "wof:lastmodified":1464122351,
+    "wof:name":"Clifford Associates LLC",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -111.675488,
+    40.329337,
+    -111.675488,
+    40.329337
+],
+  "geometry": {"coordinates":[-111.675488,40.329337],"type":"Point"}
+}

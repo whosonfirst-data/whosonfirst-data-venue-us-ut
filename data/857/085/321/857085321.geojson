@@ -1,0 +1,73 @@
+{
+  "id": 857085321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.836356,40.634927,-111.836356,40.634927",
+    "geom:latitude":40.634927,
+    "geom:longitude":-111.836356,
+    "iso:country":"US",
+    "sg:address":"6364 Shady Grove Cir",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 272 2712",
+    "sg:postcode":"84121",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85821553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3X1RT25ShSjwHKBn32NOzA_40.634927_-111.836356@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121539,
+    "wof:geomhash":"cd2bfc6f32aad8fd9c25ca10be30c79f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85821553,
+            "region_id":85688567,
+            "venue_id":857085321
+        }
+    ],
+    "wof:id":857085321,
+    "wof:lastmodified":1464121539,
+    "wof:name":"Miter Corp",
+    "wof:parent_id":85821553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.836356,
+    40.634927,
+    -111.836356,
+    40.634927
+],
+  "geometry": {"coordinates":[-111.83635599999999,40.634927],"type":"Point"}
+}

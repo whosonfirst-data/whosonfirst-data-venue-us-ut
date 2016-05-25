@@ -1,0 +1,77 @@
+{
+  "id": 857326749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.279758,37.187305,-113.279758,37.187305",
+    "geom:latitude":37.187305,
+    "geom:longitude":-113.279758,
+    "iso:country":"US",
+    "sg:address":"680 N State St",
+    "sg:city":"Hurricane",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 874 2865",
+    "sg:postcode":"84737",
+    "sg:province":"UT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727631,
+        102082879,
+        85824093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CXwxTzJp6Ti9ZV2uovW6c_37.187305_-113.279758@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126986,
+    "wof:geomhash":"8f6629ef409540fe2259baa7bc3a2c8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727631,
+            "neighbourhood_id":85824093,
+            "region_id":85688567,
+            "venue_id":857326749
+        }
+    ],
+    "wof:id":857326749,
+    "wof:lastmodified":1464126986,
+    "wof:name":"Streamline Automotive",
+    "wof:parent_id":85824093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -113.279758,
+    37.187305,
+    -113.279758,
+    37.187305
+],
+  "geometry": {"coordinates":[-113.279758,37.187305],"type":"Point"}
+}

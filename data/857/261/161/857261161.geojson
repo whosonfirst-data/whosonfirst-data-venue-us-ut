@@ -1,0 +1,71 @@
+{
+  "id": 857261161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.836872,41.73325,-111.836872,41.73325",
+    "geom:latitude":41.73325,
+    "geom:longitude":-111.836872,
+    "iso:country":"US",
+    "sg:address":"28 W 100 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 787 8580",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3N80zaAYGfbc2DGL7Ww89B_41.733250_-111.836872@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125519,
+    "wof:geomhash":"184097393f0c2ec27aa353579cd777a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857261161
+        }
+    ],
+    "wof:id":857261161,
+    "wof:lastmodified":1464125519,
+    "wof:name":"Valley Pressure Wash & Window",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -111.836872,
+    41.73325,
+    -111.836872,
+    41.73325
+],
+  "geometry": {"coordinates":[-111.836872,41.73325],"type":"Point"}
+}

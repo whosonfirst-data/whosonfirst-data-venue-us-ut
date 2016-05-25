@@ -1,0 +1,84 @@
+{
+  "id": 857256267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.847964,40.57275,-111.847964,40.57275",
+    "geom:latitude":40.57275,
+    "geom:longitude":-111.847964,
+    "iso:country":"US",
+    "sg:address":"9831 Sandridge Dr",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 571 8237",
+    "sg:postcode":"84092",
+    "sg:province":"UT",
+    "sg:tags":[
+        "laboratory",
+        "frame",
+        "repair",
+        "picture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85846597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zVLI4iK2tZ83yGARcx9C3_40.572750_-111.847964@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125411,
+    "wof:geomhash":"395d7088aaef79ba672b71261b39bf28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85846597,
+            "region_id":85688567,
+            "venue_id":857256267
+        }
+    ],
+    "wof:id":857256267,
+    "wof:lastmodified":1464125411,
+    "wof:name":"M & B Frame & Photo",
+    "wof:parent_id":85846597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "frame",
+        "repair",
+        "picture"
+    ]
+},
+  "bbox": [
+    -111.847964,
+    40.57275,
+    -111.847964,
+    40.57275
+],
+  "geometry": {"coordinates":[-111.847964,40.57275],"type":"Point"}
+}

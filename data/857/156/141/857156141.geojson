@@ -1,0 +1,68 @@
+{
+  "id": 857156141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.113928,41.163999,-112.113928,41.163999",
+    "geom:latitude":41.163999,
+    "geom:longitude":-112.113928,
+    "iso:country":"US",
+    "sg:address":"5550 W 5500 S",
+    "sg:city":"Hooper",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 773 3598",
+    "sg:postcode":"84315",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85804651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_415BAnywL6QvTdxzWAyYa4_41.163999_-112.113928@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123269,
+    "wof:geomhash":"b43d3ee3cff18707d58b1e6da31025c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85804651,
+            "region_id":85688567,
+            "venue_id":857156141
+        }
+    ],
+    "wof:id":857156141,
+    "wof:lastmodified":1464123269,
+    "wof:name":"Montgomery Ranch House Drv Inn",
+    "wof:parent_id":85804651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.113928,
+    41.163999,
+    -112.113928,
+    41.163999
+],
+  "geometry": {"coordinates":[-112.113928,41.163999],"type":"Point"}
+}

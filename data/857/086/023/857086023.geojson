@@ -1,0 +1,71 @@
+{
+  "id": 857086023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.821047,41.757522,-111.821047,41.757522",
+    "geom:latitude":41.757522,
+    "geom:longitude":-111.821047,
+    "iso:country":"US",
+    "sg:address":"505 E 1400 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 5477",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ovQOsZQzbNaB7JtOd42j8_41.757522_-111.821047@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121563,
+    "wof:geomhash":"f8f5571d61d33c6bef9535bdb8ff0779",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857086023
+        }
+    ],
+    "wof:id":857086023,
+    "wof:lastmodified":1464121563,
+    "wof:name":"Country Cleaners",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -111.821047,
+    41.757522,
+    -111.821047,
+    41.757522
+],
+  "geometry": {"coordinates":[-111.82104699999999,41.757522],"type":"Point"}
+}

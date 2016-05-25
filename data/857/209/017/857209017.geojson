@@ -1,0 +1,72 @@
+{
+  "id": 857209017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.836885,41.737241,-111.836885,41.737241",
+    "geom:latitude":41.737241,
+    "geom:longitude":-111.836885,
+    "iso:country":"US",
+    "sg:address":"75 W 300 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 2121",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "sg:website":"www.hjnews.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0T3rLKZ4SdJsgmK4xeUP8t_41.737241_-111.836885@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124370,
+    "wof:geomhash":"481472d85c98b147d9a4a34b41d6e92c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857209017
+        }
+    ],
+    "wof:id":857209017,
+    "wof:lastmodified":1464124370,
+    "wof:name":"Herald Journal",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -111.836885,
+    41.737241,
+    -111.836885,
+    41.737241
+],
+  "geometry": {"coordinates":[-111.836885,41.737241],"type":"Point"}
+}

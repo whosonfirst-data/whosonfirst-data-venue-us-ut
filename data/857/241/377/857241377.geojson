@@ -1,0 +1,73 @@
+{
+  "id": 857241377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.856128,41.727968,-111.856128,41.727968",
+    "geom:latitude":41.727968,
+    "geom:longitude":-111.856128,
+    "iso:country":"US",
+    "sg:address":"800 W 200 S",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 9374",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4e1nNYFYXLVZlAixALa7IB_41.727968_-111.856128@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125042,
+    "wof:geomhash":"d6c397f20c81e497d1fdc38f55b6cbc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857241377
+        }
+    ],
+    "wof:id":857241377,
+    "wof:lastmodified":1464125042,
+    "wof:name":"Knight Storage",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -111.856128,
+    41.727968,
+    -111.856128,
+    41.727968
+],
+  "geometry": {"coordinates":[-111.856128,41.727968],"type":"Point"}
+}

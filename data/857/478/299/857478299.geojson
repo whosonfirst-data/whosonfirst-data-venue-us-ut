@@ -1,0 +1,75 @@
+{
+  "id": 857478299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.064719,41.071091,-112.064719,41.071091",
+    "geom:latitude":41.071091,
+    "geom:longitude":-112.064719,
+    "iso:country":"US",
+    "sg:address":"2942 S 2000 W",
+    "sg:city":"Syracuse",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 773 4966",
+    "sg:postcode":"84075",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727889,
+        102083563,
+        85804563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0by5aerlkf7lvDDsG0qpYH_41.071091_-112.064719@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130341,
+    "wof:geomhash":"c4ecdd2eb0f6e37b5f372d6995025f89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727889,
+            "neighbourhood_id":85804563,
+            "region_id":85688567,
+            "venue_id":857478299
+        }
+    ],
+    "wof:id":857478299,
+    "wof:lastmodified":1464130341,
+    "wof:name":"Stoker Electric",
+    "wof:parent_id":85804563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -112.064719,
+    41.071091,
+    -112.064719,
+    41.071091
+],
+  "geometry": {"coordinates":[-112.064719,41.071091],"type":"Point"}
+}

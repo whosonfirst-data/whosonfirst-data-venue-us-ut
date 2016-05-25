@@ -1,0 +1,74 @@
+{
+  "id": 857491973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.866353,40.617286,-111.866353,40.617286",
+    "geom:latitude":40.617286,
+    "geom:longitude":-111.866353,
+    "iso:country":"US",
+    "sg:address":"7331 S 900 E",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/38722-the-belgian-waffle--omelet-inn/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 566 5731",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728051,
+        102082877,
+        85848751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GFhjj1pziKEswYnw63qgG_40.617286_-111.866353@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130660,
+    "wof:geomhash":"a3d5794f35d415dcd7d0d7c621ff562c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85848751,
+            "region_id":85688567,
+            "venue_id":857491973
+        }
+    ],
+    "wof:id":857491973,
+    "wof:lastmodified":1464130660,
+    "wof:name":"The Belgian Waffle & Omelet Inn",
+    "wof:parent_id":85848751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -111.866353,
+    40.617286,
+    -111.866353,
+    40.617286
+],
+  "geometry": {"coordinates":[-111.866353,40.617286],"type":"Point"}
+}

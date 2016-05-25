@@ -1,0 +1,73 @@
+{
+  "id": 857323137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.813888,40.691253,-111.813888,40.691253",
+    "geom:latitude":40.691253,
+    "geom:longitude":-111.813888,
+    "iso:country":"US",
+    "sg:address":"3650 S Craig Cir",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 277 2763",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85855049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29a6A3VixmRcbrBlu3gvWD_40.691253_-111.813888@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126914,
+    "wof:geomhash":"598fa76d2f2e8299ed46067e7c989281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85855049,
+            "region_id":85688567,
+            "venue_id":857323137
+        }
+    ],
+    "wof:id":857323137,
+    "wof:lastmodified":1464126914,
+    "wof:name":"Gregory & Assoc",
+    "wof:parent_id":85855049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -111.813888,
+    40.691253,
+    -111.813888,
+    40.691253
+],
+  "geometry": {"coordinates":[-111.81388800000001,40.691253],"type":"Point"}
+}

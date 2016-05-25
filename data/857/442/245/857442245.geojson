@@ -1,0 +1,77 @@
+{
+  "id": 857442245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.828575,40.597354,-111.828575,40.597354",
+    "geom:latitude":40.597354,
+    "geom:longitude":-111.828575,
+    "iso:country":"US",
+    "sg:address":"2177 Sunspot Cir",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 943 6872",
+    "sg:postcode":"84093",
+    "sg:province":"UT",
+    "sg:tags":[
+        "passenger",
+        "leasing",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85857943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vMOUh0o9wL3K0jhI3G26o_40.597354_-111.828575@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129609,
+    "wof:geomhash":"cb1db37aa46a027c97138c352cbb7eab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85857943,
+            "region_id":85688567,
+            "venue_id":857442245
+        }
+    ],
+    "wof:id":857442245,
+    "wof:lastmodified":1464129609,
+    "wof:name":"Willocreek Leasing",
+    "wof:parent_id":85857943,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "leasing",
+        "car"
+    ]
+},
+  "bbox": [
+    -111.828575,
+    40.597354,
+    -111.828575,
+    40.597354
+],
+  "geometry": {"coordinates":[-111.828575,40.597354],"type":"Point"}
+}

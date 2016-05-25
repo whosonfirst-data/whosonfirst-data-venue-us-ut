@@ -1,0 +1,73 @@
+{
+  "id": 857316161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.853218,40.707,-111.853218,40.707",
+    "geom:latitude":40.707,
+    "geom:longitude":-111.853218,
+    "iso:country":"US",
+    "sg:address":"2927 Highland Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 355 1553",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85851323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RNznTyYKNbCxNol1wAsmt_40.707000_-111.853218@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126749,
+    "wof:geomhash":"db2d39b394076dc55f869a45f4e9552f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85851323,
+            "region_id":85688567,
+            "venue_id":857316161
+        }
+    ],
+    "wof:id":857316161,
+    "wof:lastmodified":1464126749,
+    "wof:name":"Light Spot LLC",
+    "wof:parent_id":85851323,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.853218,
+    40.707,
+    -111.853218,
+    40.707
+],
+  "geometry": {"coordinates":[-111.853218,40.707],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857486345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.337091,37.190349,-113.337091,37.190349",
+    "geom:latitude":37.190349,
+    "geom:longitude":-113.337091,
+    "iso:country":"US",
+    "sg:address":"1030 N Sky Mountain Ct",
+    "sg:city":"Hurricane",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 635 7888",
+    "sg:postcode":"84737",
+    "sg:province":"UT",
+    "sg:tags":[
+        "course"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727631,
+        102082879,
+        85824093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72h41ZBAsV38JNw7MQKzNf_37.190349_-113.337091@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130491,
+    "wof:geomhash":"0d6c9ef695c18869f89ba12f39d4d850",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727631,
+            "neighbourhood_id":85824093,
+            "region_id":85688567,
+            "venue_id":857486345
+        }
+    ],
+    "wof:id":857486345,
+    "wof:lastmodified":1464130491,
+    "wof:name":"Sky Mountain Golf Course",
+    "wof:parent_id":85824093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course"
+    ]
+},
+  "bbox": [
+    -113.337091,
+    37.190349,
+    -113.337091,
+    37.190349
+],
+  "geometry": {"coordinates":[-113.337091,37.190349],"type":"Point"}
+}

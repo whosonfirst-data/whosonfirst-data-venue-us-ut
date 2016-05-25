@@ -1,0 +1,73 @@
+{
+  "id": 857365555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.98388,41.103373,-111.98388,41.103373",
+    "geom:latitude":41.103373,
+    "geom:longitude":-111.98388,
+    "iso:country":"US",
+    "sg:address":"803 W 3000 N",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 776 8872",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "nurseryman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42OpHTZqK3U1H7klG1cVPA_41.103373_-111.983880@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127816,
+    "wof:geomhash":"3f0ca098169e406a2fce348ff3c480d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857365555
+        }
+    ],
+    "wof:id":857365555,
+    "wof:lastmodified":1464127816,
+    "wof:name":"Porter Lane Nursery",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurseryman"
+    ]
+},
+  "bbox": [
+    -111.98388,
+    41.103373,
+    -111.98388,
+    41.103373
+],
+  "geometry": {"coordinates":[-111.98388,41.103373],"type":"Point"}
+}

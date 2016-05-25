@@ -1,0 +1,78 @@
+{
+  "id": 857356889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.879027,40.762904,-111.879027,40.762904",
+    "geom:latitude":40.762904,
+    "geom:longitude":-111.879027,
+    "iso:country":"US",
+    "sg:address":"435 E Broadway",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 323 0508",
+    "sg:postcode":"84111",
+    "sg:province":"UT",
+    "sg:tags":[
+        "event"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ww9nRnCOR9IppKqRuQxg0_40.762904_-111.879027@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127633,
+    "wof:geomhash":"a1b10cf39125da7c2d0927a5c3066ff3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871021,
+            "region_id":85688567,
+            "venue_id":857356889
+        }
+    ],
+    "wof:id":857356889,
+    "wof:lastmodified":1464127633,
+    "wof:name":"Great Occasions",
+    "wof:parent_id":85871021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "event"
+    ]
+},
+  "bbox": [
+    -111.879027,
+    40.762904,
+    -111.879027,
+    40.762904
+],
+  "geometry": {"coordinates":[-111.87902699999999,40.762904],"type":"Point"}
+}

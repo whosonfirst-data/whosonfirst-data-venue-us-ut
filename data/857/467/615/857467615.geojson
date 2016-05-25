@@ -1,0 +1,75 @@
+{
+  "id": 857467615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.051547,41.159011,-112.051547,41.159011",
+    "geom:latitude":41.159011,
+    "geom:longitude":-112.051547,
+    "iso:country":"US",
+    "sg:address":"2985 W 5750 S",
+    "sg:city":"Roy",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 773 3590",
+    "sg:postcode":"84067",
+    "sg:province":"UT",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728023,
+        102083539,
+        85853469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MRhduljE8F8WQE7Mkgs5F_41.159011_-112.051547@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130118,
+    "wof:geomhash":"2927ce21133f488cf83d286fa01893b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728023,
+            "neighbourhood_id":85853469,
+            "region_id":85688567,
+            "venue_id":857467615
+        }
+    ],
+    "wof:id":857467615,
+    "wof:lastmodified":1464130118,
+    "wof:name":"Parking Lot Painters",
+    "wof:parent_id":85853469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -112.051547,
+    41.159011,
+    -112.051547,
+    41.159011
+],
+  "geometry": {"coordinates":[-112.051547,41.159011],"type":"Point"}
+}

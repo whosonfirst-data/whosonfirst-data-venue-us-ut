@@ -1,0 +1,77 @@
+{
+  "id": 857345651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.678705,40.260374,-111.678705,40.260374",
+    "geom:latitude":40.260374,
+    "geom:longitude":-111.678705,
+    "iso:country":"US",
+    "sg:address":"1988 N Cove Point Ln",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 377 9670",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "home",
+        "retirement",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85880081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lJcm9pRKeXh7kMyqNK2Pd_40.260374_-111.678705@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127385,
+    "wof:geomhash":"08f672534b5499f5b5c96ce2d11bb56e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85880081,
+            "region_id":85688567,
+            "venue_id":857345651
+        }
+    ],
+    "wof:id":857345651,
+    "wof:lastmodified":1464127385,
+    "wof:name":"Cove Point Retirement Center",
+    "wof:parent_id":85880081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "retirement",
+        "community"
+    ]
+},
+  "bbox": [
+    -111.678705,
+    40.260374,
+    -111.678705,
+    40.260374
+],
+  "geometry": {"coordinates":[-111.67870499999999,40.260374],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857324321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.587962,37.060117,-113.587962,37.060117",
+    "geom:latitude":37.060117,
+    "geom:longitude":-113.587962,
+    "iso:country":"US",
+    "sg:address":"2860 Rancho Cir",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 628 0933",
+    "sg:postcode":"84790",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58faqvIPjYYkeF4WGI8XPG_37.060117_-113.587962@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126937,
+    "wof:geomhash":"fecfbaf26b95fe1e1713bbb52504c0d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857324321
+        }
+    ],
+    "wof:id":857324321,
+    "wof:lastmodified":1464126937,
+    "wof:name":"Doug Hannig Construction",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -113.587962,
+    37.060117,
+    -113.587962,
+    37.060117
+],
+  "geometry": {"coordinates":[-113.587962,37.060117],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857423715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.654759,40.120991,-111.654759,40.120991",
+    "geom:latitude":40.120991,
+    "geom:longitude":-111.654759,
+    "iso:country":"US",
+    "sg:address":"835 N Main St",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 2277",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14GTpHswjBd8ZskDrAfim2_40.120991_-111.654759@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129184,
+    "wof:geomhash":"bf72a653830f19a4975eb020d58187d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857423715
+        }
+    ],
+    "wof:id":857423715,
+    "wof:lastmodified":1464129184,
+    "wof:name":"Combo",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -111.654759,
+    40.120991,
+    -111.654759,
+    40.120991
+],
+  "geometry": {"coordinates":[-111.654759,40.120991],"type":"Point"}
+}

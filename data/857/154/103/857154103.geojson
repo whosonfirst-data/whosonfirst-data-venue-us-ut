@@ -1,0 +1,75 @@
+{
+  "id": 857154103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.901381,40.624316,-111.901381,40.624316",
+    "geom:latitude":40.624316,
+    "geom:longitude":-111.901381,
+    "iso:country":"US",
+    "sg:address":"6850 S 400 W",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 255 9237",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728051,
+        102082877,
+        85803901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BNTHvCxMVerH1PIu1GlLB_40.624316_-111.901381@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123229,
+    "wof:geomhash":"2faac09111173caa0df1e4907efd3da4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85803901,
+            "region_id":85688567,
+            "venue_id":857154103
+        }
+    ],
+    "wof:id":857154103,
+    "wof:lastmodified":1464123229,
+    "wof:name":"S & S Storage",
+    "wof:parent_id":85803901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -111.901381,
+    40.624316,
+    -111.901381,
+    40.624316
+],
+  "geometry": {"coordinates":[-111.901381,40.624316],"type":"Point"}
+}

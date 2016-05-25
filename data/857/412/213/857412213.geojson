@@ -1,0 +1,73 @@
+{
+  "id": 857412213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.564383,40.151404,-111.564383,40.151404",
+    "geom:latitude":40.151404,
+    "geom:longitude":-111.564383,
+    "iso:country":"US",
+    "sg:address":"2570 Canyon Rd",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Orchard",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 489 5152",
+    "sg:postcode":"84663",
+    "sg:province":"UT",
+    "sg:tags":[
+        "fruit",
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bIRjXze23lCd01tyyzN28_40.151404_-111.564383@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128907,
+    "wof:geomhash":"661004dd5e35d8481eda89600f311b37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857412213
+        }
+    ],
+    "wof:id":857412213,
+    "wof:lastmodified":1464128907,
+    "wof:name":"Goldberry Farm",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fruit",
+        "tree"
+    ]
+},
+  "bbox": [
+    -111.564383,
+    40.151404,
+    -111.564383,
+    40.151404
+],
+  "geometry": {"coordinates":[-111.56438300000001,40.151404],"type":"Point"}
+}

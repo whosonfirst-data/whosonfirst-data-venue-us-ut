@@ -1,0 +1,73 @@
+{
+  "id": 857440157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.938856,40.650406,-111.938856,40.650406",
+    "geom:latitude":40.650406,
+    "geom:longitude":-111.938856,
+    "iso:country":"US",
+    "sg:address":"5454 S Redwood Rd",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 967 9213",
+    "sg:postcode":"84123",
+    "sg:province":"UT",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728059,
+        102082877,
+        85844177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6INxInicTm3lZ8ICkJnrut_40.650406_-111.938856@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129573,
+    "wof:geomhash":"e9c4e3dd3a3ae9dde2d9f57c633e91fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728059,
+            "neighbourhood_id":85844177,
+            "region_id":85688567,
+            "venue_id":857440157
+        }
+    ],
+    "wof:id":857440157,
+    "wof:lastmodified":1464129573,
+    "wof:name":"Harmon's",
+    "wof:parent_id":85844177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -111.938856,
+    40.650406,
+    -111.938856,
+    40.650406
+],
+  "geometry": {"coordinates":[-111.938856,40.650406],"type":"Point"}
+}

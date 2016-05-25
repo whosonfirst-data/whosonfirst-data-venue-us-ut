@@ -1,0 +1,76 @@
+{
+  "id": 857314585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.012088,40.775812,-112.012088,40.775812",
+    "geom:latitude":40.775812,
+    "geom:longitude":-112.012088,
+    "iso:country":"US",
+    "sg:address":"221 Charles Lindbergh Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 364 6879",
+    "sg:postcode":"84116",
+    "sg:province":"UT",
+    "sg:tags":[
+        "miller",
+        "drug"
+    ],
+    "sg:website":"www.rxamerica.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85806671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_119F06E6uU4w8Xdv6iSQkH_40.775812_-112.012088@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126714,
+    "wof:geomhash":"893a7934c75d28a4196601e227e4a32f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85806671,
+            "region_id":85688567,
+            "venue_id":857314585
+        }
+    ],
+    "wof:id":857314585,
+    "wof:lastmodified":1464126714,
+    "wof:name":"Rx America",
+    "wof:parent_id":85806671,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "miller",
+        "drug"
+    ]
+},
+  "bbox": [
+    -112.012088,
+    40.775812,
+    -112.012088,
+    40.775812
+],
+  "geometry": {"coordinates":[-112.01208800000001,40.775812],"type":"Point"}
+}

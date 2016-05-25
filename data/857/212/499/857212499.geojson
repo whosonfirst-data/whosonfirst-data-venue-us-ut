@@ -1,0 +1,74 @@
+{
+  "id": 857212499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.890874,40.567271,-111.890874,40.567271",
+    "geom:latitude":40.567271,
+    "geom:longitude":-111.890874,
+    "iso:country":"US",
+    "sg:address":"10180 S State St",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 233 0203",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dealer"
+    ],
+    "sg:website":"www.bn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728055,
+        102082877,
+        85829657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1G675oxXsyMZ58VamhKeyt_40.567271_-111.890874@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124453,
+    "wof:geomhash":"347dcb4f290ef01f2093e45b996e336e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728055,
+            "neighbourhood_id":85829657,
+            "region_id":85688567,
+            "venue_id":857212499
+        }
+    ],
+    "wof:id":857212499,
+    "wof:lastmodified":1464124453,
+    "wof:name":"Barnes & Noble Booksellers",
+    "wof:parent_id":85829657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -111.890874,
+    40.567271,
+    -111.890874,
+    40.567271
+],
+  "geometry": {"coordinates":[-111.890874,40.567271],"type":"Point"}
+}

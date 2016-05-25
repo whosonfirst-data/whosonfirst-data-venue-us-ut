@@ -1,0 +1,88 @@
+{
+  "id": 857467869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.83926,40.711744,-111.83926,40.711744",
+    "geom:latitude":40.711744,
+    "geom:longitude":-111.83926,
+    "iso:country":"US",
+    "sg:address":"2730 Melbourne St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 485 9141",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "television",
+        "business",
+        "consultant",
+        "consults",
+        "production",
+        "plan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85851323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14htCcWd20hmWfGFtpeJ6o_40.711744_-111.839260@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130121,
+    "wof:geomhash":"62f44cbacf13084c8786e7a2b9ac0779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85851323,
+            "region_id":85688567,
+            "venue_id":857467869
+        }
+    ],
+    "wof:id":857467869,
+    "wof:lastmodified":1464130121,
+    "wof:name":"Capener Consulting LLC",
+    "wof:parent_id":85851323,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "business",
+        "consultant",
+        "consults",
+        "production",
+        "plan"
+    ]
+},
+  "bbox": [
+    -111.83926,
+    40.711744,
+    -111.83926,
+    40.711744
+],
+  "geometry": {"coordinates":[-111.83926,40.711744],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857334401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.577391,37.073094,-113.577391,37.073094",
+    "geom:latitude":37.073094,
+    "geom:longitude":-113.577391,
+    "iso:country":"US",
+    "sg:address":"253 San Rafael Pl",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 673 9854",
+    "sg:postcode":"84790",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qLf7Q6qReUHZj3YDD9S3d_37.073094_-113.577391@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127155,
+    "wof:geomhash":"c8326b6073fa0fd270348e6180e895ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857334401
+        }
+    ],
+    "wof:id":857334401,
+    "wof:lastmodified":1464127155,
+    "wof:name":"Almquist Backflow Testing",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.577391,
+    37.073094,
+    -113.577391,
+    37.073094
+],
+  "geometry": {"coordinates":[-113.57739100000001,37.073094],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857239183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.905422,40.688849,-111.905422,40.688849",
+    "geom:latitude":40.688849,
+    "geom:longitude":-111.905422,
+    "iso:country":"US",
+    "sg:address":"3777 S 500 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 263 3333",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "souvenir"
+    ],
+    "sg:website":"www.greatmountainwest.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85810147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4V93xJxrk2vN6t4EI1huQm_40.688849_-111.905422@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124985,
+    "wof:geomhash":"5e3b4d323626b4e27593b5d3fd9d5dd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85810147,
+            "region_id":85688567,
+            "venue_id":857239183
+        }
+    ],
+    "wof:id":857239183,
+    "wof:lastmodified":1464124985,
+    "wof:name":"Great Mountain West Supply",
+    "wof:parent_id":85810147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "souvenir"
+    ]
+},
+  "bbox": [
+    -111.905422,
+    40.688849,
+    -111.905422,
+    40.688849
+],
+  "geometry": {"coordinates":[-111.905422,40.688849],"type":"Point"}
+}

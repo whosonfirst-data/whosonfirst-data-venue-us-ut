@@ -1,0 +1,74 @@
+{
+  "id": 857122001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.905397,40.599554,-111.905397,40.599554",
+    "geom:latitude":40.599554,
+    "geom:longitude":-111.905397,
+    "iso:country":"US",
+    "sg:address":"576 W 8360 S",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 352 1733",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "medical"
+    ],
+    "sg:website":"www.m-biotech.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728051,
+        102082877,
+        85834097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KEgMs4iL3M40mBbu1Oweb_40.599554_-111.905397@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122495,
+    "wof:geomhash":"a79bb8481acb6a5259140418e04bb800",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85834097,
+            "region_id":85688567,
+            "venue_id":857122001
+        }
+    ],
+    "wof:id":857122001,
+    "wof:lastmodified":1464122495,
+    "wof:name":"M Biotech",
+    "wof:parent_id":85834097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -111.905397,
+    40.599554,
+    -111.905397,
+    40.599554
+],
+  "geometry": {"coordinates":[-111.90539699999999,40.599554],"type":"Point"}
+}

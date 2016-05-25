@@ -1,0 +1,71 @@
+{
+  "id": 857230023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.939464,41.016947,-111.939464,41.016947",
+    "geom:latitude":41.016947,
+    "geom:longitude":-111.939464,
+    "iso:country":"US",
+    "sg:address":"1057 S 50 W",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 497 9998",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50CdpHx5gsyKLK1XV6UgFB_41.016947_-111.939464@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124808,
+    "wof:geomhash":"75db6eb32fcdcdf9da3dc9b92053b781",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857230023
+        }
+    ],
+    "wof:id":857230023,
+    "wof:lastmodified":1464124808,
+    "wof:name":"Mark Arrington Law Offices",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -111.939464,
+    41.016947,
+    -111.939464,
+    41.016947
+],
+  "geometry": {"coordinates":[-111.939464,41.016947],"type":"Point"}
+}

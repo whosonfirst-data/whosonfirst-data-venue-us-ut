@@ -1,0 +1,71 @@
+{
+  "id": 857378743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.631319,40.107687,-111.631319,40.107687",
+    "geom:latitude":40.107687,
+    "geom:longitude":-111.631319,
+    "iso:country":"US",
+    "sg:address":"1444 E 150 S",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 794 2284",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "investment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72qNp3c46RrJnCbZOCDhGF_40.107687_-111.631319@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128090,
+    "wof:geomhash":"5942c2503d207e2007c7cbd1285ae908",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857378743
+        }
+    ],
+    "wof:id":857378743,
+    "wof:lastmodified":1464128090,
+    "wof:name":"Real Estate Investing",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investment"
+    ]
+},
+  "bbox": [
+    -111.631319,
+    40.107687,
+    -111.631319,
+    40.107687
+],
+  "geometry": {"coordinates":[-111.631319,40.107687],"type":"Point"}
+}

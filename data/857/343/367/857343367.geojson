@@ -1,0 +1,78 @@
+{
+  "id": 857343367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.917243,40.706983,-111.917243,40.706983",
+    "geom:latitude":40.706983,
+    "geom:longitude":-111.917243,
+    "iso:country":"US",
+    "sg:address":"988 W 2950 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 972 6521",
+    "sg:postcode":"84119",
+    "sg:province":"UT",
+    "sg:tags":[
+        "plant",
+        "processing",
+        "sweetener"
+    ],
+    "sg:website":"www.admworld.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85810735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lxgaEnZdIZklbECiQnuce_40.706983_-111.917243@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127342,
+    "wof:geomhash":"797b7fdeec33accdec0dac2dc72a1842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85810735,
+            "region_id":85688567,
+            "venue_id":857343367
+        }
+    ],
+    "wof:id":857343367,
+    "wof:lastmodified":1464127342,
+    "wof:name":"ADM",
+    "wof:parent_id":85810735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "processing",
+        "sweetener"
+    ]
+},
+  "bbox": [
+    -111.917243,
+    40.706983,
+    -111.917243,
+    40.706983
+],
+  "geometry": {"coordinates":[-111.917243,40.706983],"type":"Point"}
+}

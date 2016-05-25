@@ -1,0 +1,73 @@
+{
+  "id": 857209325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.888252,40.717873,-111.888252,40.717873",
+    "geom:latitude":40.717873,
+    "geom:longitude":-111.888252,
+    "iso:country":"US",
+    "sg:address":"2468 S State St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Painting Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 487 1061",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15NDQSXn3sv8Xhi1jNkbvz_40.717873_-111.888252@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124374,
+    "wof:geomhash":"bb46b1cb1ecf647a78ff578b967a2cce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85808615,
+            "region_id":85688567,
+            "venue_id":857209325
+        }
+    ],
+    "wof:id":857209325,
+    "wof:lastmodified":1464124374,
+    "wof:name":"Holladay Color Center",
+    "wof:parent_id":85808615,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -111.888252,
+    40.717873,
+    -111.888252,
+    40.717873
+],
+  "geometry": {"coordinates":[-111.88825199999999,40.717873],"type":"Point"}
+}

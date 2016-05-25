@@ -1,0 +1,75 @@
+{
+  "id": 857248869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.92695,40.562116,-111.92695,40.562116",
+    "geom:latitude":40.562116,
+    "geom:longitude":-111.92695,
+    "iso:country":"US",
+    "sg:address":"1292 S Jordan Pkwy",
+    "sg:city":"South Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 255 2177",
+    "sg:postcode":"84095",
+    "sg:province":"UT",
+    "sg:tags":[
+        "builder",
+        "operative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728055,
+        102082877,
+        85810561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zO8Fp9A8I0Fjc0mJOq2T5_40.562116_-111.926950@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125220,
+    "wof:geomhash":"a1fecbb6458e71fed689a2afb8518974",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728055,
+            "neighbourhood_id":85810561,
+            "region_id":85688567,
+            "venue_id":857248869
+        }
+    ],
+    "wof:id":857248869,
+    "wof:lastmodified":1464125220,
+    "wof:name":"A & D Schmidt Construction",
+    "wof:parent_id":85810561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "operative"
+    ]
+},
+  "bbox": [
+    -111.92695,
+    40.562116,
+    -111.92695,
+    40.562116
+],
+  "geometry": {"coordinates":[-111.92695000000001,40.562116],"type":"Point"}
+}

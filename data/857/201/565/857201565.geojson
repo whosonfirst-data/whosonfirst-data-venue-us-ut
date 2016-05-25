@@ -1,0 +1,75 @@
+{
+  "id": 857201565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.871006,40.72859,-111.871006,40.72859",
+    "geom:latitude":40.72859,
+    "geom:longitude":-111.871006,
+    "iso:country":"US",
+    "sg:address":"1871 S 700 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 487 8548",
+    "sg:postcode":"84105",
+    "sg:province":"UT",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07XeAnwRIr8c5swFvu9qxG_40.728590_-111.871006@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124205,
+    "wof:geomhash":"8d371ac9b4fc2d7a753e3dbc85982d4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871027,
+            "region_id":85688567,
+            "venue_id":857201565
+        }
+    ],
+    "wof:id":857201565,
+    "wof:lastmodified":1464124205,
+    "wof:name":"Dirks Fine Dry Cleaning",
+    "wof:parent_id":85871027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -111.871006,
+    40.72859,
+    -111.871006,
+    40.72859
+],
+  "geometry": {"coordinates":[-111.87100599999999,40.72859],"type":"Point"}
+}

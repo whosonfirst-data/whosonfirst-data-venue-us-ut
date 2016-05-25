@@ -1,0 +1,89 @@
+{
+  "id": 857183309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.863705,40.712597,-111.863705,40.712597",
+    "geom:latitude":40.712597,
+    "geom:longitude":-111.863705,
+    "iso:country":"US",
+    "sg:address":"902 E 2700 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 467 7291",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "product",
+        "baker",
+        "mfg"
+    ],
+    "sg:website":"www.granitebridal.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85858223,
+        101728075,
+        85819795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uZnexpDH3ECX1Tm1UKFNK_40.712597_-111.863705@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123863,
+    "wof:geomhash":"ed24490e5bb3161effe2171e1f9b0e95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85858223,
+            "region_id":85688567,
+            "venue_id":857183309
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85819795,
+            "region_id":85688567,
+            "venue_id":857183309
+        }
+    ],
+    "wof:id":857183309,
+    "wof:lastmodified":1464123863,
+    "wof:name":"Granite Bakery Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "baker",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.863705,
+    40.712597,
+    -111.863705,
+    40.712597
+],
+  "geometry": {"coordinates":[-111.863705,40.712597],"type":"Point"}
+}

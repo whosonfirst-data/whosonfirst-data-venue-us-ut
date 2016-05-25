@@ -1,0 +1,72 @@
+{
+  "id": 857373387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.654718,40.107317,-111.654718,40.107317",
+    "geom:latitude":40.107317,
+    "geom:longitude":-111.654718,
+    "iso:country":"US",
+    "sg:address":"187 S Main St",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 2169",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "crematory"
+    ],
+    "sg:website":"www.walkerfamilymortuaries.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1b3dh7feQXw03zlpnxcVAv_40.107317_-111.654718@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127978,
+    "wof:geomhash":"29fb94807211397e403039cc706c0519",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857373387
+        }
+    ],
+    "wof:id":857373387,
+    "wof:lastmodified":1464127978,
+    "wof:name":"Walker Mortuaries",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crematory"
+    ]
+},
+  "bbox": [
+    -111.654718,
+    40.107317,
+    -111.654718,
+    40.107317
+],
+  "geometry": {"coordinates":[-111.654718,40.107317],"type":"Point"}
+}

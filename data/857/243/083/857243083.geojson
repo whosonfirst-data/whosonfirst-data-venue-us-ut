@@ -1,0 +1,75 @@
+{
+  "id": 857243083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.021594,40.575424,-112.021594,40.575424",
+    "geom:latitude":40.575424,
+    "geom:longitude":-112.021594,
+    "iso:country":"US",
+    "sg:address":"5606 Axel Park Rd",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 282 1404",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728247,
+        102082877,
+        85813417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2an0mLN6wosYwniErEr0lB_40.575424_-112.021594@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125084,
+    "wof:geomhash":"d78f3e815b9611dcd00724077e5b2254",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728247,
+            "neighbourhood_id":85813417,
+            "region_id":85688567,
+            "venue_id":857243083
+        }
+    ],
+    "wof:id":857243083,
+    "wof:lastmodified":1464125084,
+    "wof:name":"A-Tom Plumbing & Heating Inc",
+    "wof:parent_id":85813417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -112.021594,
+    40.575424,
+    -112.021594,
+    40.575424
+],
+  "geometry": {"coordinates":[-112.02159399999999,40.575424],"type":"Point"}
+}

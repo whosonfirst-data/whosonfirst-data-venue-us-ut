@@ -1,0 +1,73 @@
+{
+  "id": 857290823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.896806,40.752794,-111.896806,40.752794",
+    "geom:latitude":40.752794,
+    "geom:longitude":-111.896806,
+    "iso:country":"US",
+    "sg:address":"750 S 200 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 359 9942",
+    "sg:postcode":"84101",
+    "sg:province":"UT",
+    "sg:tags":[
+        "outdoor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85854255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11qY3GWNAFGu2Hl2nzUbEc_40.752794_-111.896806@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126164,
+    "wof:geomhash":"002306111890994f74ddc2aeb073b185",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85854255,
+            "region_id":85688567,
+            "venue_id":857290823
+        }
+    ],
+    "wof:id":857290823,
+    "wof:lastmodified":1464126164,
+    "wof:name":"Coach Stop Advertising",
+    "wof:parent_id":85854255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "outdoor"
+    ]
+},
+  "bbox": [
+    -111.896806,
+    40.752794,
+    -111.896806,
+    40.752794
+],
+  "geometry": {"coordinates":[-111.896806,40.752794],"type":"Point"}
+}

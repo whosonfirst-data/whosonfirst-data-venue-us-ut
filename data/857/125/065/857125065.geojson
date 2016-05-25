@@ -1,0 +1,75 @@
+{
+  "id": 857125065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.969192,41.216375,-111.969192,41.216375",
+    "geom:latitude":41.216375,
+    "geom:longitude":-111.969192,
+    "iso:country":"US",
+    "sg:address":"461 27th St",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 392 6107",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85820759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_749PhZKnZu6dPk4JwexALI_41.216375_-111.969192@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122571,
+    "wof:geomhash":"6d605ba7aea2c52b0ed01870637c2da1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85820759,
+            "region_id":85688567,
+            "venue_id":857125065
+        }
+    ],
+    "wof:id":857125065,
+    "wof:lastmodified":1464122571,
+    "wof:name":"Milestone Apartments",
+    "wof:parent_id":85820759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -111.969192,
+    41.216375,
+    -111.969192,
+    41.216375
+],
+  "geometry": {"coordinates":[-111.96919200000001,41.216375],"type":"Point"}
+}

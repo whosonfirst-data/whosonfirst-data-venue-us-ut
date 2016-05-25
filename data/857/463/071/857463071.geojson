@@ -1,0 +1,73 @@
+{
+  "id": 857463071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.688977,40.33162,-111.688977,40.33162",
+    "geom:latitude":40.33162,
+    "geom:longitude":-111.688977,
+    "iso:country":"US",
+    "sg:address":"293 Heather Cir",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 221 0345",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "communication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RNo4c2wSY55IvsNnxxjoV_40.331620_-111.688977@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130009,
+    "wof:geomhash":"5023d41b33640842513b6363c4e5293f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":857463071
+        }
+    ],
+    "wof:id":857463071,
+    "wof:lastmodified":1464130009,
+    "wof:name":"Media Diskcom",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication"
+    ]
+},
+  "bbox": [
+    -111.688977,
+    40.33162,
+    -111.688977,
+    40.33162
+],
+  "geometry": {"coordinates":[-111.68897699999999,40.33162],"type":"Point"}
+}

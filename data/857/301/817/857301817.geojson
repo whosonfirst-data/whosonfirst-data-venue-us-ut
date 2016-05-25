@@ -1,0 +1,71 @@
+{
+  "id": 857301817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.843337,40.387969,-111.843337,40.387969",
+    "geom:latitude":40.387969,
+    "geom:longitude":-111.843337,
+    "iso:country":"US",
+    "sg:address":"348 E Main St",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 766 6420",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "national",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xLivJZT94HzoEemsvRqS2_40.387969_-111.843337@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126452,
+    "wof:geomhash":"fee5c24c9c012e51aad0ff97b4b4774e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857301817
+        }
+    ],
+    "wof:id":857301817,
+    "wof:lastmodified":1464126452,
+    "wof:name":"Utah National Guard",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "security"
+    ]
+},
+  "bbox": [
+    -111.843337,
+    40.387969,
+    -111.843337,
+    40.387969
+],
+  "geometry": {"coordinates":[-111.84333700000001,40.387969],"type":"Point"}
+}

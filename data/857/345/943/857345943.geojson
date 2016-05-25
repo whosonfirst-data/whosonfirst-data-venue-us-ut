@@ -1,0 +1,75 @@
+{
+  "id": 857345943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.112757,41.110766,-112.112757,41.110766",
+    "geom:latitude":41.110766,
+    "geom:longitude":-112.112757,
+    "iso:country":"US",
+    "sg:address":"4533 W 200 S",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 774 5621",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727889,
+        102083563,
+        85804563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11S4nv9Hli9gR4GJvH51jm_41.110766_-112.112757@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127391,
+    "wof:geomhash":"a5c1360e90e167f8d5d9dce3d163512c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727889,
+            "neighbourhood_id":85804563,
+            "region_id":85688567,
+            "venue_id":857345943
+        }
+    ],
+    "wof:id":857345943,
+    "wof:lastmodified":1464127391,
+    "wof:name":"Edmunds Electric Inc",
+    "wof:parent_id":85804563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -112.112757,
+    41.110766,
+    -112.112757,
+    41.110766
+],
+  "geometry": {"coordinates":[-112.112757,41.110766],"type":"Point"}
+}

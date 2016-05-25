@@ -1,0 +1,75 @@
+{
+  "id": 857295109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.876923,40.760578,-111.876923,40.760578",
+    "geom:latitude":40.760578,
+    "geom:longitude":-111.876923,
+    "iso:country":"US",
+    "sg:address":"448 E 400 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 292 2369",
+    "sg:postcode":"84111",
+    "sg:province":"UT",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3X3cPH06QYi4Ukef5cEb3n_40.760578_-111.876923@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126295,
+    "wof:geomhash":"6e9a84c8881e8143066762e4198d762c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871021,
+            "region_id":85688567,
+            "venue_id":857295109
+        }
+    ],
+    "wof:id":857295109,
+    "wof:lastmodified":1464126295,
+    "wof:name":"Mortgage Network",
+    "wof:parent_id":85871021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -111.876923,
+    40.760578,
+    -111.876923,
+    40.760578
+],
+  "geometry": {"coordinates":[-111.87692300000001,40.760578],"type":"Point"}
+}

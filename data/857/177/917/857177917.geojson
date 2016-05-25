@@ -1,0 +1,81 @@
+{
+  "id": 857177917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.005532,41.742702,-112.005532,41.742702",
+    "geom:latitude":41.742702,
+    "geom:longitude":-112.005532,
+    "iso:country":"US",
+    "sg:address":"7050 W 600 N",
+    "sg:city":"Mendon",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 7304",
+    "sg:postcode":"84325",
+    "sg:province":"UT",
+    "sg:tags":[
+        "wheat",
+        "beef",
+        "crop",
+        "field",
+        "cattle",
+        "feedlot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727555,
+        102082881,
+        85823067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ApiXuKSq7nx9pWGnEJetw_41.742702_-112.005532@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123749,
+    "wof:geomhash":"990f50f69c678f60b7cddc421362b0e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727555,
+            "neighbourhood_id":85823067,
+            "region_id":85688567,
+            "venue_id":857177917
+        }
+    ],
+    "wof:id":857177917,
+    "wof:lastmodified":1464123749,
+    "wof:name":"Yonk Farm",
+    "wof:parent_id":85823067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wheat",
+        "beef",
+        "crop",
+        "field",
+        "cattle",
+        "feedlot"
+    ]
+},
+  "bbox": [
+    -112.005532,
+    41.742702,
+    -112.005532,
+    41.742702
+],
+  "geometry": {"coordinates":[-112.005532,41.742702],"type":"Point"}
+}

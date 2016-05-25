@@ -1,0 +1,78 @@
+{
+  "id": 857491643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.043684,41.089187,-112.043684,41.089187",
+    "geom:latitude":41.089187,
+    "geom:longitude":-112.043684,
+    "iso:country":"US",
+    "sg:address":"846 West 1700 South",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/north-davis/235426-taco-time/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 774 8000",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "mexican",
+        "tex-mex"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727889,
+        102083563,
+        85804563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NJVGFlHi6INUoN5FufBn2_41.089187_-112.043684@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130646,
+    "wof:geomhash":"f9181900682a907ca9be7e7076a54b10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727889,
+            "neighbourhood_id":85804563,
+            "region_id":85688567,
+            "venue_id":857491643
+        }
+    ],
+    "wof:id":857491643,
+    "wof:lastmodified":1464130646,
+    "wof:name":"Taco Time",
+    "wof:parent_id":85804563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican",
+        "tex-mex"
+    ]
+},
+  "bbox": [
+    -112.043684,
+    41.089187,
+    -112.043684,
+    41.089187
+],
+  "geometry": {"coordinates":[-112.043684,41.089187],"type":"Point"}
+}

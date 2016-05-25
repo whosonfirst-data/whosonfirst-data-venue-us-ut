@@ -1,0 +1,73 @@
+{
+  "id": 857401135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.925924,40.641315,-111.925924,40.641315",
+    "geom:latitude":40.641315,
+    "geom:longitude":-111.925924,
+    "iso:country":"US",
+    "sg:address":"1198 Dun Robin Ct",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 265 0904",
+    "sg:postcode":"84123",
+    "sg:province":"UT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85811039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2T2MNY3MRSNzDGW92m6pdr_40.641315_-111.925924@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128645,
+    "wof:geomhash":"b639440d4f1edb7782b2f2c9ab0dc5f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85811039,
+            "region_id":85688567,
+            "venue_id":857401135
+        }
+    ],
+    "wof:id":857401135,
+    "wof:lastmodified":1464128645,
+    "wof:name":"Supreme Service & Maintenance",
+    "wof:parent_id":85811039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -111.925924,
+    40.641315,
+    -111.925924,
+    40.641315
+],
+  "geometry": {"coordinates":[-111.92592399999999,40.641315],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857186651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.852006,40.387896,-111.852006,40.387896",
+    "geom:latitude":40.387896,
+    "geom:longitude":-111.852006,
+    "iso:country":"US",
+    "sg:address":"120 W Main St",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 768 9083",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RpY8ynTF9VGMp5cFpxqcb_40.387896_-111.852006@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123926,
+    "wof:geomhash":"5a9b58b313d9768973cdfb68fffe4438",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857186651
+        }
+    ],
+    "wof:id":857186651,
+    "wof:lastmodified":1464123926,
+    "wof:name":"Outpost Antiques",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -111.852006,
+    40.387896,
+    -111.852006,
+    40.387896
+],
+  "geometry": {"coordinates":[-111.852006,40.387896],"type":"Point"}
+}

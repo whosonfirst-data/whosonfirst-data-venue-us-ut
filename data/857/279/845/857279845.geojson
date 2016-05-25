@@ -1,0 +1,75 @@
+{
+  "id": 857279845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.876951,40.706557,-111.876951,40.706557",
+    "geom:latitude":40.706557,
+    "geom:longitude":-111.876951,
+    "iso:country":"US",
+    "sg:address":"2950 S 500 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 975 9506",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85854999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HqOCi9C4aHhNlLcY0UJ2S_40.706557_-111.876951@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125917,
+    "wof:geomhash":"2ea26a52cc9b8ba51703ac37ad8fee81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85854999,
+            "region_id":85688567,
+            "venue_id":857279845
+        }
+    ],
+    "wof:id":857279845,
+    "wof:lastmodified":1464125917,
+    "wof:name":"Budget Rent A Car",
+    "wof:parent_id":85854999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -111.876951,
+    40.706557,
+    -111.876951,
+    40.706557
+],
+  "geometry": {"coordinates":[-111.87695100000001,40.706557],"type":"Point"}
+}

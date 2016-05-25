@@ -1,0 +1,74 @@
+{
+  "id": 857492417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.892056,40.567151,-111.892056,40.567151",
+    "geom:latitude":40.567151,
+    "geom:longitude":-111.892056,
+    "iso:country":"US",
+    "sg:address":"10130 S State St",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/118356-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 255 3301",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728055,
+        102082877,
+        85829657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TtuNF84JzkkxiOWbP8CkR_40.567151_-111.892056@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130675,
+    "wof:geomhash":"25e04bf129d264cab716d261813c3cb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728055,
+            "neighbourhood_id":85829657,
+            "region_id":85688567,
+            "venue_id":857492417
+        }
+    ],
+    "wof:id":857492417,
+    "wof:lastmodified":1464130675,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85829657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -111.892056,
+    40.567151,
+    -111.892056,
+    40.567151
+],
+  "geometry": {"coordinates":[-111.892056,40.567151],"type":"Point"}
+}

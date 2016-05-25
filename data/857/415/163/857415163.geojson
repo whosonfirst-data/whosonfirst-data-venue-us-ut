@@ -1,0 +1,76 @@
+{
+  "id": 857415163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.61061,40.178647,-111.61061,40.178647",
+    "geom:latitude":40.178647,
+    "geom:longitude":-111.61061,
+    "iso:country":"US",
+    "sg:address":"600 N Main St",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 491 9877",
+    "sg:postcode":"84663",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "sg:website":"www.hrelectricinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727829,
+        102083567,
+        85880117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ccugyiCPi74F4JHJyHu1Y_40.178647_-111.610610@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128979,
+    "wof:geomhash":"350112c1ddddb588685e1fa43f8e522a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727829,
+            "neighbourhood_id":85880117,
+            "region_id":85688567,
+            "venue_id":857415163
+        }
+    ],
+    "wof:id":857415163,
+    "wof:lastmodified":1464128979,
+    "wof:name":"H & R Electric",
+    "wof:parent_id":85880117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.61061,
+    40.178647,
+    -111.61061,
+    40.178647
+],
+  "geometry": {"coordinates":[-111.61060999999999,40.178647],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 857325907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.658622,40.222818,-111.658622,40.222818",
+    "geom:latitude":40.222818,
+    "geom:longitude":-111.658622,
+    "iso:country":"US",
+    "sg:address":"835 S University Ave",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 374 1191",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ONbUit34YjF8ICMsJXItO_40.222818_-111.658622@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126967,
+    "wof:geomhash":"66d6861dc69b16b353fc1bff35929383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880077,
+            "region_id":85688567,
+            "venue_id":857325907
+        }
+    ],
+    "wof:id":857325907,
+    "wof:lastmodified":1464126967,
+    "wof:name":"Master Muffler & Brake",
+    "wof:parent_id":85880077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -111.658622,
+    40.222818,
+    -111.658622,
+    40.222818
+],
+  "geometry": {"coordinates":[-111.65862199999999,40.222818],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857083225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.828633,41.324532,-111.828633,41.324532",
+    "geom:latitude":41.324532,
+    "geom:longitude":-111.828633,
+    "iso:country":"US",
+    "sg:address":"3615 Wolf Creek Dr",
+    "sg:city":"Eden",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 745 4000",
+    "sg:postcode":"84310",
+    "sg:province":"UT",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85824645,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wIFqy1Rjq3yJvjOCFMmKQ_41.324532_-111.828633@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121491,
+    "wof:geomhash":"078815110524fb7d4b5907ef160bd715",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85824645,
+            "region_id":85688567,
+            "venue_id":857083225
+        }
+    ],
+    "wof:id":857083225,
+    "wof:lastmodified":1464121491,
+    "wof:name":"Valley Market",
+    "wof:parent_id":85824645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -111.828633,
+    41.324532,
+    -111.828633,
+    41.324532
+],
+  "geometry": {"coordinates":[-111.828633,41.324532],"type":"Point"}
+}

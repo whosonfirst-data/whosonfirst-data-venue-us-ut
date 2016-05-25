@@ -1,0 +1,80 @@
+{
+  "id": 857135289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.810297,40.572363,-111.810297,40.572363",
+    "geom:latitude":40.572363,
+    "geom:longitude":-111.810297,
+    "iso:country":"US",
+    "sg:address":"9850 S 2900 E",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 944 4800",
+    "sg:postcode":"84092",
+    "sg:province":"UT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85821613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0isTVyqzLfVk20YZxIid1J_40.572363_-111.810297@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122789,
+    "wof:geomhash":"d4dff8a9b71f25f3525b907751ed3fcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85821613,
+            "region_id":85688567,
+            "venue_id":857135289
+        }
+    ],
+    "wof:id":857135289,
+    "wof:lastmodified":1464122789,
+    "wof:name":"Superior Sprinkling Inc",
+    "wof:parent_id":85821613,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.810297,
+    40.572363,
+    -111.810297,
+    40.572363
+],
+  "geometry": {"coordinates":[-111.81029700000001,40.572363],"type":"Point"}
+}

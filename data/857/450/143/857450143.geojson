@@ -1,0 +1,84 @@
+{
+  "id": 857450143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.878223,40.712652,-111.878223,40.712652",
+    "geom:latitude":40.712652,
+    "geom:longitude":-111.878223,
+    "iso:country":"US",
+    "sg:address":"433 E 2700 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 487 2248",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85858223,
+        101728057,
+        85854999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BjK2p9fO0EZQU92zFVtNO_40.712652_-111.878223@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129758,
+    "wof:geomhash":"e7afebcd9b1e80c66325f29c8db91a91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85858223,
+            "region_id":85688567,
+            "venue_id":857450143
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85854999,
+            "region_id":85688567,
+            "venue_id":857450143
+        }
+    ],
+    "wof:id":857450143,
+    "wof:lastmodified":1464129758,
+    "wof:name":"Pine Ridge Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -111.878223,
+    40.712652,
+    -111.878223,
+    40.712652
+],
+  "geometry": {"coordinates":[-111.87822300000001,40.712652],"type":"Point"}
+}

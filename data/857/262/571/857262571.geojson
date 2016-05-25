@@ -1,0 +1,66 @@
+{
+  "id": 857262571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.010753,37.175104,-113.010753,37.175104",
+    "geom:latitude":37.175104,
+    "geom:longitude":-113.010753,
+    "iso:country":"US",
+    "sg:address":"1593 Zion Park Blvd",
+    "sg:city":"Springdale",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 772 3677",
+    "sg:postcode":"84767",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727619,
+        102082879,
+        85822405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3asDjh81rZmJFDEzZHvROg_37.175104_-113.010753@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125546,
+    "wof:geomhash":"491308f5c3c40d5b6e956159699068d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727619,
+            "neighbourhood_id":85822405,
+            "region_id":85688567,
+            "venue_id":857262571
+        }
+    ],
+    "wof:id":857262571,
+    "wof:lastmodified":1464125546,
+    "wof:name":"Zion Enroute",
+    "wof:parent_id":85822405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.010753,
+    37.175104,
+    -113.010753,
+    37.175104
+],
+  "geometry": {"coordinates":[-113.01075299999999,37.175104],"type":"Point"}
+}

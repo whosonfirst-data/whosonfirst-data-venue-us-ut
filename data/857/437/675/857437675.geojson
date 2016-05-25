@@ -1,0 +1,68 @@
+{
+  "id": 857437675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.662296,40.232766,-111.662296,40.232766",
+    "geom:latitude":40.232766,
+    "geom:longitude":-111.662296,
+    "iso:country":"US",
+    "sg:address":"32 S Freedom Blvd",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 371 0223",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mrdmgSNhckrlxPxv3OvOB_40.232766_-111.662296@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129523,
+    "wof:geomhash":"69559f40322905e2b543a9e5701da962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880065,
+            "region_id":85688567,
+            "venue_id":857437675
+        }
+    ],
+    "wof:id":857437675,
+    "wof:lastmodified":1464129523,
+    "wof:name":"Mountainworks",
+    "wof:parent_id":85880065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.662296,
+    40.232766,
+    -111.662296,
+    40.232766
+],
+  "geometry": {"coordinates":[-111.662296,40.232766],"type":"Point"}
+}

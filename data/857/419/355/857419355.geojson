@@ -1,0 +1,68 @@
+{
+  "id": 857419355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.876481,40.945496,-111.876481,40.945496",
+    "geom:latitude":40.945496,
+    "geom:longitude":-111.876481,
+    "iso:country":"US",
+    "sg:address":"1877 N 200 E",
+    "sg:city":"Centerville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 298 1889",
+    "sg:postcode":"84014",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727879,
+        102083563,
+        85835559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qsh1JexrW8OFumEOLioG5_40.945496_-111.876481@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129083,
+    "wof:geomhash":"ef92510ef3b28ba035a91376d05ea955",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727879,
+            "neighbourhood_id":85835559,
+            "region_id":85688567,
+            "venue_id":857419355
+        }
+    ],
+    "wof:id":857419355,
+    "wof:lastmodified":1464129083,
+    "wof:name":"Spectrum Ink",
+    "wof:parent_id":85835559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.876481,
+    40.945496,
+    -111.876481,
+    40.945496
+],
+  "geometry": {"coordinates":[-111.876481,40.945496],"type":"Point"}
+}

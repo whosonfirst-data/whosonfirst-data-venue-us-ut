@@ -1,0 +1,73 @@
+{
+  "id": 857301413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.923498,40.861559,-111.923498,40.861559",
+    "geom:latitude":40.861559,
+    "geom:longitude":-111.923498,
+    "iso:country":"US",
+    "sg:address":"555 W 1100 N",
+    "sg:city":"North Salt Lake",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 298 4466",
+    "sg:postcode":"84054",
+    "sg:province":"UT",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727887,
+        102083563,
+        85848919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wk4QcTxNhQQ5P0N8YTd5k_40.861559_-111.923498@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126443,
+    "wof:geomhash":"88ef1327bcd4b718e2ea9e28789bde5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727887,
+            "neighbourhood_id":85848919,
+            "region_id":85688567,
+            "venue_id":857301413
+        }
+    ],
+    "wof:id":857301413,
+    "wof:lastmodified":1464126443,
+    "wof:name":"In Touch Products Inc",
+    "wof:parent_id":85848919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.923498,
+    40.861559,
+    -111.923498,
+    40.861559
+],
+  "geometry": {"coordinates":[-111.923498,40.861559],"type":"Point"}
+}

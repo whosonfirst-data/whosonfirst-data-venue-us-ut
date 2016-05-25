@@ -1,0 +1,80 @@
+{
+  "id": 857268433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.61712,37.044836,-113.61712,37.044836",
+    "geom:latitude":37.044836,
+    "geom:longitude":-113.61712,
+    "iso:country":"US",
+    "sg:address":"3780 S 1550 W",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Sewage",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 634 5849",
+    "sg:postcode":"84790",
+    "sg:province":"UT",
+    "sg:tags":[
+        "sewerage",
+        "system",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727617,
+        102082879,
+        85803851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sBPyHIt9rg1CWjhteS0tq_37.044836_-113.617120@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125656,
+    "wof:geomhash":"35133a892783d1c35e25db924696288c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85803851,
+            "region_id":85688567,
+            "venue_id":857268433
+        }
+    ],
+    "wof:id":857268433,
+    "wof:lastmodified":1464125656,
+    "wof:name":"Saint George Sewer Plant",
+    "wof:parent_id":85803851,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sewerage",
+        "system",
+        "village"
+    ]
+},
+  "bbox": [
+    -113.61712,
+    37.044836,
+    -113.61712,
+    37.044836
+],
+  "geometry": {"coordinates":[-113.61712,37.044836],"type":"Point"}
+}

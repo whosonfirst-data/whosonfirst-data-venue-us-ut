@@ -1,0 +1,68 @@
+{
+  "id": 857185005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.910957,40.610678,-111.910957,40.610678",
+    "geom:latitude":40.610678,
+    "geom:longitude":-111.910957,
+    "iso:country":"US",
+    "sg:address":"38 W Center St",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 562 8562",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728051,
+        102082877,
+        85810115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uYXCUGiof4MjSKdRu5Fqs_40.610678_-111.910957@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123898,
+    "wof:geomhash":"be173fffcc663420873063300423bc7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85810115,
+            "region_id":85688567,
+            "venue_id":857185005
+        }
+    ],
+    "wof:id":857185005,
+    "wof:lastmodified":1464123898,
+    "wof:name":"El Toro Loco Inc",
+    "wof:parent_id":85810115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.910957,
+    40.610678,
+    -111.910957,
+    40.610678
+],
+  "geometry": {"coordinates":[-111.910957,40.610678],"type":"Point"}
+}

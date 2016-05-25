@@ -1,0 +1,75 @@
+{
+  "id": 857114781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.802981,41.729165,-111.802981,41.729165",
+    "geom:latitude":41.729165,
+    "geom:longitude":-111.802981,
+    "iso:country":"US",
+    "sg:address":"116 S 1250 E",
+    "sg:city":"Hyrum",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 245 0174",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZT5njslGWebOLZVxFk1l3_41.729165_-111.802981@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122308,
+    "wof:geomhash":"4d08e96c99c3ec713391808b4905dad0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857114781
+        }
+    ],
+    "wof:id":857114781,
+    "wof:lastmodified":1464122308,
+    "wof:name":"Sarmiento Trucking Inc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -111.802981,
+    41.729165,
+    -111.802981,
+    41.729165
+],
+  "geometry": {"coordinates":[-111.802981,41.729165],"type":"Point"}
+}

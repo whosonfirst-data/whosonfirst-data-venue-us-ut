@@ -1,0 +1,73 @@
+{
+  "id": 857473651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.829124,41.729376,-111.829124,41.729376",
+    "geom:latitude":41.729376,
+    "geom:longitude":-111.829124,
+    "iso:country":"US",
+    "sg:address":"232 E 100 S",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 750 0880",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LRFGG0vTDCe8ESzcQV5g2_41.729376_-111.829124@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130248,
+    "wof:geomhash":"2abf2b0545a26903740026ddd283f61b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857473651
+        }
+    ],
+    "wof:id":857473651,
+    "wof:lastmodified":1464130248,
+    "wof:name":"Bridge Plumbing & Heating",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.829124,
+    41.729376,
+    -111.829124,
+    41.729376
+],
+  "geometry": {"coordinates":[-111.82912399999999,41.729376],"type":"Point"}
+}

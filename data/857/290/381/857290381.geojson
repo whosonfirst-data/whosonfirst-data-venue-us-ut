@@ -1,0 +1,69 @@
+{
+  "id": 857290381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.669604,40.304621,-111.669604,40.304621",
+    "geom:latitude":40.304621,
+    "geom:longitude":-111.669604,
+    "iso:country":"US",
+    "sg:address":"1057 E 400 N",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 226 2722",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BadfrJQTvy2pGRO652tSs_40.304621_-111.669604@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126156,
+    "wof:geomhash":"ad3abb56925d92258f672b5b43c224e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857290381
+        }
+    ],
+    "wof:id":857290381,
+    "wof:lastmodified":1464126156,
+    "wof:name":"Knowligent Inc",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [
+    -111.669604,
+    40.304621,
+    -111.669604,
+    40.304621
+],
+  "geometry": {"coordinates":[-111.66960400000001,40.304621],"type":"Point"}
+}

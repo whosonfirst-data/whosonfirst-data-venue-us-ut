@@ -1,0 +1,73 @@
+{
+  "id": 857204147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.706638,40.281459,-111.706638,40.281459",
+    "geom:latitude":40.281459,
+    "geom:longitude":-111.706638,
+    "iso:country":"US",
+    "sg:address":"459 W 870 S",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 221 4582",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85830581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JNX3ofKudOzSdP4fCXPCv_40.281459_-111.706638@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124271,
+    "wof:geomhash":"c54fdc02bd22fa0433fc5e25e19b0296",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85830581,
+            "region_id":85688567,
+            "venue_id":857204147
+        }
+    ],
+    "wof:id":857204147,
+    "wof:lastmodified":1464124271,
+    "wof:name":"Phone Directories Co",
+    "wof:parent_id":85830581,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -111.706638,
+    40.281459,
+    -111.706638,
+    40.281459
+],
+  "geometry": {"coordinates":[-111.706638,40.281459],"type":"Point"}
+}

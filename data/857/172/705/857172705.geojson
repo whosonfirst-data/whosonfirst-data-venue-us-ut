@@ -1,0 +1,71 @@
+{
+  "id": 857172705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.897197,41.006384,-111.897197,41.006384",
+    "geom:latitude":41.006384,
+    "geom:longitude":-111.897197,
+    "iso:country":"US",
+    "sg:address":"434 Bing Cir",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 9688",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_098Dk12eL9lfFphU5Uj0gR_41.006384_-111.897197@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123648,
+    "wof:geomhash":"b424a1d674860bae8ab1ac1dc1101d27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857172705
+        }
+    ],
+    "wof:id":857172705,
+    "wof:lastmodified":1464123648,
+    "wof:name":"Robotic Surveying Solutions",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -111.897197,
+    41.006384,
+    -111.897197,
+    41.006384
+],
+  "geometry": {"coordinates":[-111.89719700000001,41.006384],"type":"Point"}
+}

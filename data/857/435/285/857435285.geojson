@@ -1,0 +1,75 @@
+{
+  "id": 857435285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.918095,40.610184,-111.918095,40.610184",
+    "geom:latitude":40.610184,
+    "geom:longitude":-111.918095,
+    "iso:country":"US",
+    "sg:address":"652 W Center St",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 352 0928",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "sg:tags":[
+        "instruction",
+        "driving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728051,
+        102082877,
+        85814513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43QMN9ZHSKBc0Rxr6GDMSP_40.610184_-111.918095@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129472,
+    "wof:geomhash":"6073065305dfd7a4c9c60f3a7192e31e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85814513,
+            "region_id":85688567,
+            "venue_id":857435285
+        }
+    ],
+    "wof:id":857435285,
+    "wof:lastmodified":1464129472,
+    "wof:name":"Professional Driving School",
+    "wof:parent_id":85814513,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "driving"
+    ]
+},
+  "bbox": [
+    -111.918095,
+    40.610184,
+    -111.918095,
+    40.610184
+],
+  "geometry": {"coordinates":[-111.91809499999999,40.610184],"type":"Point"}
+}

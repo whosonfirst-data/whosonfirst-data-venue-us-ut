@@ -1,0 +1,77 @@
+{
+  "id": 857479217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.891201,40.70955,-111.891201,40.70955",
+    "geom:latitude":40.70955,
+    "geom:longitude":-111.891201,
+    "iso:country":"US",
+    "sg:address":"2850 S Main St",
+    "sg:city":"South Salt Lake",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 484 8719",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85854999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NmY1SeESG7RzXwfESZImu_40.709550_-111.891201@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130357,
+    "wof:geomhash":"73f407440f9a2b119c38841d54b96041",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85854999,
+            "region_id":85688567,
+            "venue_id":857479217
+        }
+    ],
+    "wof:id":857479217,
+    "wof:lastmodified":1464130357,
+    "wof:name":"Royce's Automotive",
+    "wof:parent_id":85854999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -111.891201,
+    40.70955,
+    -111.891201,
+    40.70955
+],
+  "geometry": {"coordinates":[-111.891201,40.70955],"type":"Point"}
+}

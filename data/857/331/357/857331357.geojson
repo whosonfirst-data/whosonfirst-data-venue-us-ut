@@ -1,0 +1,75 @@
+{
+  "id": 857331357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.029854,41.082951,-112.029854,41.082951",
+    "geom:latitude":41.082951,
+    "geom:longitude":-112.029854,
+    "iso:country":"US",
+    "sg:address":"2186 S 125 W",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 774 2008",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mormon",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85851583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43VKW5OijuUtEIW1sNty4o_41.082951_-112.029854@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127087,
+    "wof:geomhash":"557142bf67c5443d353a69f28ffc4448",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85851583,
+            "region_id":85688567,
+            "venue_id":857331357
+        }
+    ],
+    "wof:id":857331357,
+    "wof:lastmodified":1464127087,
+    "wof:name":"Clearfield Fourteenth Ward",
+    "wof:parent_id":85851583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mormon",
+        "church"
+    ]
+},
+  "bbox": [
+    -112.029854,
+    41.082951,
+    -112.029854,
+    41.082951
+],
+  "geometry": {"coordinates":[-112.029854,41.082951],"type":"Point"}
+}

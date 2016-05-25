@@ -1,0 +1,71 @@
+{
+  "id": 857102155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.816761,41.770763,-111.816761,41.770763",
+    "geom:latitude":41.770763,
+    "geom:longitude":-111.816761,
+    "iso:country":"US",
+    "sg:address":"671 E 2160 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 6665",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6K6OxK6Aa3LcQrPbbkwgGA_41.770763_-111.816761@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121964,
+    "wof:geomhash":"7044fe37d174d3b95fabf39ba6af61e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857102155
+        }
+    ],
+    "wof:id":857102155,
+    "wof:lastmodified":1464121964,
+    "wof:name":"Salisbury Photography",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -111.816761,
+    41.770763,
+    -111.816761,
+    41.770763
+],
+  "geometry": {"coordinates":[-111.816761,41.770763],"type":"Point"}
+}

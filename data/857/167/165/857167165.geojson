@@ -1,0 +1,73 @@
+{
+  "id": 857167165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.903355,41.000673,-111.903355,41.000673",
+    "geom:latitude":41.000673,
+    "geom:longitude":-111.903355,
+    "iso:country":"US",
+    "sg:address":"729 Shepard Ln",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 1921",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mormon",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uJpkk2xbJgXDDILqhP073_41.000673_-111.903355@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123514,
+    "wof:geomhash":"fd19fab6d30a8c97cfe8612b29b84a53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857167165
+        }
+    ],
+    "wof:id":857167165,
+    "wof:lastmodified":1464123514,
+    "wof:name":"Farmington Twenty-First Ward",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mormon",
+        "church"
+    ]
+},
+  "bbox": [
+    -111.903355,
+    41.000673,
+    -111.903355,
+    41.000673
+],
+  "geometry": {"coordinates":[-111.903355,41.000673],"type":"Point"}
+}

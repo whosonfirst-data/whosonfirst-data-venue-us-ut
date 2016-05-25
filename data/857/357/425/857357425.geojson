@@ -1,0 +1,75 @@
+{
+  "id": 857357425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.845705,40.666975,-111.845705,40.666975",
+    "geom:latitude":40.666975,
+    "geom:longitude":-111.845705,
+    "iso:country":"US",
+    "sg:address":"1635 Murray Holladay Rd",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 274 1710",
+    "sg:postcode":"84117",
+    "sg:province":"UT",
+    "sg:tags":[
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85825901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zco5vrX8E6GEHE0dKo383_40.666975_-111.845705@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127643,
+    "wof:geomhash":"05e62c369034c33463006c8ee7e65cfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85825901,
+            "region_id":85688567,
+            "venue_id":857357425
+        }
+    ],
+    "wof:id":857357425,
+    "wof:lastmodified":1464127643,
+    "wof:name":"Mount Olympus Senior Center",
+    "wof:parent_id":85825901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "senior",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -111.845705,
+    40.666975,
+    -111.845705,
+    40.666975
+],
+  "geometry": {"coordinates":[-111.845705,40.666975],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857482379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.023387,40.625451,-112.023387,40.625451",
+    "geom:latitude":40.625451,
+    "geom:longitude":-112.023387,
+    "iso:country":"US",
+    "sg:address":"5536 Lopalena Cir",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 887 5048",
+    "sg:postcode":"84084",
+    "sg:province":"UT",
+    "sg:tags":[
+        "operator",
+        "property",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728061,
+        102082877,
+        85854369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1718bNnrh1ZuvoXOS30NUr_40.625451_-112.023387@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130416,
+    "wof:geomhash":"afd9c498f66501620fc9037b99730b27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85854369,
+            "region_id":85688567,
+            "venue_id":857482379
+        }
+    ],
+    "wof:id":857482379,
+    "wof:lastmodified":1464130416,
+    "wof:name":"Country Square",
+    "wof:parent_id":85854369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "property",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -112.023387,
+    40.625451,
+    -112.023387,
+    40.625451
+],
+  "geometry": {"coordinates":[-112.023387,40.625451],"type":"Point"}
+}

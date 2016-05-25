@@ -1,0 +1,73 @@
+{
+  "id": 857129441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.849133,41.772563,-111.849133,41.772563",
+    "geom:latitude":41.772563,
+    "geom:longitude":-111.849133,
+    "iso:country":"US",
+    "sg:address":"2005 N 600 W",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 1111",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70DM531e9ED5vYMjUKvlM3_41.772563_-111.849133@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122662,
+    "wof:geomhash":"b2c28a67c364fb428c66013a992310b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857129441
+        }
+    ],
+    "wof:id":857129441,
+    "wof:lastmodified":1464122662,
+    "wof:name":"Praxair Inc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -111.849133,
+    41.772563,
+    -111.849133,
+    41.772563
+],
+  "geometry": {"coordinates":[-111.84913299999999,41.772563],"type":"Point"}
+}

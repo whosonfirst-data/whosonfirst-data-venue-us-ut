@@ -1,0 +1,81 @@
+{
+  "id": 857403337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.724429,40.31427,-111.724429,40.31427",
+    "geom:latitude":40.31427,
+    "geom:longitude":-111.724429,
+    "iso:country":"US",
+    "sg:address":"816 N 1200 W",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 227 8083",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "patrol",
+        "carrier",
+        "inspection",
+        "highway",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1t3UkMCcrZX4LxzTACCML0_40.314270_-111.724429@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128689,
+    "wof:geomhash":"a4b32edb7f915d9bd5f34175c099af14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":857403337
+        }
+    ],
+    "wof:id":857403337,
+    "wof:lastmodified":1464128689,
+    "wof:name":"Motor Carrier Inspections",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "patrol",
+        "carrier",
+        "inspection",
+        "highway",
+        "motor"
+    ]
+},
+  "bbox": [
+    -111.724429,
+    40.31427,
+    -111.724429,
+    40.31427
+],
+  "geometry": {"coordinates":[-111.724429,40.31427],"type":"Point"}
+}

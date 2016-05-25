@@ -1,0 +1,73 @@
+{
+  "id": 857256059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.846631,40.717614,-111.846631,40.717614",
+    "geom:latitude":40.717614,
+    "geom:longitude":-111.846631,
+    "iso:country":"US",
+    "sg:address":"2565 Fillmore St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 487 4106",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85851323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Gs6iqkcWllk2ufPdUV9KQ_40.717614_-111.846631@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125405,
+    "wof:geomhash":"ab90ca4cc5c7b5290f25af89f87ead23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85851323,
+            "region_id":85688567,
+            "venue_id":857256059
+        }
+    ],
+    "wof:id":857256059,
+    "wof:lastmodified":1464125405,
+    "wof:name":"John D Ravarino & Assoc",
+    "wof:parent_id":85851323,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -111.846631,
+    40.717614,
+    -111.846631,
+    40.717614
+],
+  "geometry": {"coordinates":[-111.846631,40.717614],"type":"Point"}
+}

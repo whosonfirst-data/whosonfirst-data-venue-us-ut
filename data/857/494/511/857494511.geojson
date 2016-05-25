@@ -1,0 +1,72 @@
+{
+  "id": 857494511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.001923,37.186228,-113.001923,37.186228",
+    "geom:latitude":37.186228,
+    "geom:longitude":-113.001923,
+    "iso:country":"US",
+    "sg:address":"1149 Zion Park Blvd",
+    "sg:city":"Springdale",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/hurricane/266966-switchback-grille/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 772 3700",
+    "sg:postcode":"84767",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727619,
+        102082879,
+        85822405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WpFCweqfXpb1fzpqsh26S_37.186228_-113.001923@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130750,
+    "wof:geomhash":"6da79d965c00ecf72b7b48461ab5373a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727619,
+            "neighbourhood_id":85822405,
+            "region_id":85688567,
+            "venue_id":857494511
+        }
+    ],
+    "wof:id":857494511,
+    "wof:lastmodified":1464130750,
+    "wof:name":"Switchback Grille",
+    "wof:parent_id":85822405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -113.001923,
+    37.186228,
+    -113.001923,
+    37.186228
+],
+  "geometry": {"coordinates":[-113.00192300000001,37.186228],"type":"Point"}
+}

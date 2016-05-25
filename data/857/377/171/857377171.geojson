@@ -1,0 +1,68 @@
+{
+  "id": 857377171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.687572,40.280324,-111.687572,40.280324",
+    "geom:latitude":40.280324,
+    "geom:longitude":-111.687572,
+    "iso:country":"US",
+    "sg:address":"940 S State St",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 5903",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85830581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YzoIA5RPcVBAYN33exEcs_40.280324_-111.687572@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128060,
+    "wof:geomhash":"cea33b6f5792b0c2844b6f764a516b0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85830581,
+            "region_id":85688567,
+            "venue_id":857377171
+        }
+    ],
+    "wof:id":857377171,
+    "wof:lastmodified":1464128060,
+    "wof:name":"Rent-A-Center",
+    "wof:parent_id":85830581,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.687572,
+    40.280324,
+    -111.687572,
+    40.280324
+],
+  "geometry": {"coordinates":[-111.687572,40.280324],"type":"Point"}
+}

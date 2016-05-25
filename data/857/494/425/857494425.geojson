@@ -1,0 +1,84 @@
+{
+  "id": 857494425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.584691,40.146126,-111.584691,40.146126",
+    "geom:latitude":40.146126,
+    "geom:longitude":-111.584691,
+    "iso:country":"US",
+    "sg:address":"1892 N 500 W",
+    "sg:city":"Mapleton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/springville-mapleton/40313-ihop/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 491 3400",
+    "sg:postcode":"84664",
+    "sg:province":"UT",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OWADoC3WVauOvQbVpPAwg_40.146126_-111.584691@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130748,
+    "wof:geomhash":"6038d0414cdbe1ee159a66b94fb1b76d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857494425
+        }
+    ],
+    "wof:id":857494425,
+    "wof:lastmodified":1464130748,
+    "wof:name":"IHOP",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -111.584691,
+    40.146126,
+    -111.584691,
+    40.146126
+],
+  "geometry": {"coordinates":[-111.58469100000001,40.146126],"type":"Point"}
+}

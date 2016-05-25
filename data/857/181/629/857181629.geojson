@@ -1,0 +1,67 @@
+{
+  "id": 857181629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.047729,37.160852,-113.047729,37.160852",
+    "geom:latitude":37.160852,
+    "geom:longitude":-113.047729,
+    "iso:country":"US",
+    "sg:address":"479 Zion Park Blvd",
+    "sg:city":"Springdale",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 772 3237",
+    "sg:postcode":"84763",
+    "sg:province":"UT",
+    "sg:website":"www.zioncanyoncampground.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727619,
+        102082879,
+        85822405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Mhra3Tn9FEBWSPKPqSfSO_37.160852_-113.047729@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123827,
+    "wof:geomhash":"bd9643d6f376403e3d2a0de4fbc072be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727619,
+            "neighbourhood_id":85822405,
+            "region_id":85688567,
+            "venue_id":857181629
+        }
+    ],
+    "wof:id":857181629,
+    "wof:lastmodified":1464123827,
+    "wof:name":"Zion Canyon Campground",
+    "wof:parent_id":85822405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.047729,
+    37.160852,
+    -113.047729,
+    37.160852
+],
+  "geometry": {"coordinates":[-113.047729,37.160852],"type":"Point"}
+}

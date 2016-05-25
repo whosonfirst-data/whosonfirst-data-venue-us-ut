@@ -1,0 +1,84 @@
+{
+  "id": 857306865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.97331,41.22386,-111.97331,41.22386",
+    "geom:latitude":41.22386,
+    "geom:longitude":-111.97331,
+    "iso:country":"US",
+    "sg:address":"2351 Grant Ave",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 394 7548",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "information",
+        "abuse",
+        "treatment",
+        "child"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85820759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JyBceo1pLwMOnGx78nPOJ_41.223860_-111.973310@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126555,
+    "wof:geomhash":"3d0f7b43d6390efdf6d9715310cb28c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85820759,
+            "region_id":85688567,
+            "venue_id":857306865
+        }
+    ],
+    "wof:id":857306865,
+    "wof:lastmodified":1464126555,
+    "wof:name":"Regional Treatment Center",
+    "wof:parent_id":85820759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "abuse",
+        "treatment",
+        "child"
+    ]
+},
+  "bbox": [
+    -111.97331,
+    41.22386,
+    -111.97331,
+    41.22386
+],
+  "geometry": {"coordinates":[-111.97331,41.22386],"type":"Point"}
+}

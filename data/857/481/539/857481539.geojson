@@ -1,0 +1,77 @@
+{
+  "id": 857481539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.006996,41.095292,-112.006996,41.095292",
+    "geom:latitude":41.095292,
+    "geom:longitude":-112.006996,
+    "iso:country":"US",
+    "sg:address":"1265 State St",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 525 2264",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automobile",
+        "used",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RLdSSq5xOi9hVShZyPHrF_41.095292_-112.006996@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130397,
+    "wof:geomhash":"8daad56f3ad216035b330b95a2c262e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857481539
+        }
+    ],
+    "wof:id":857481539,
+    "wof:lastmodified":1464130397,
+    "wof:name":"Mostly Classics",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "used",
+        "general"
+    ]
+},
+  "bbox": [
+    -112.006996,
+    41.095292,
+    -112.006996,
+    41.095292
+],
+  "geometry": {"coordinates":[-112.006996,41.095292],"type":"Point"}
+}

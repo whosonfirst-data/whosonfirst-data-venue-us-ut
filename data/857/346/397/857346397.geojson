@@ -1,0 +1,71 @@
+{
+  "id": 857346397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.032108,40.640409,-112.032108,40.640409",
+    "geom:latitude":40.640409,
+    "geom:longitude":-112.032108,
+    "iso:country":"US",
+    "sg:address":"5925 W Cargo Cir",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 299 6059",
+    "sg:postcode":"84118",
+    "sg:province":"UT",
+    "sg:tags":[
+        "vinyl"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728061,
+        102082877,
+        85854369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lyH4Waq9EhGjGLUedngT8_40.640409_-112.032108@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127403,
+    "wof:geomhash":"0afd94cc01e2dbfb9f58c2af5b9a821f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85854369,
+            "region_id":85688567,
+            "venue_id":857346397
+        }
+    ],
+    "wof:id":857346397,
+    "wof:lastmodified":1464127403,
+    "wof:name":"New Life Leather & Vinyl",
+    "wof:parent_id":85854369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vinyl"
+    ]
+},
+  "bbox": [
+    -112.032108,
+    40.640409,
+    -112.032108,
+    40.640409
+],
+  "geometry": {"coordinates":[-112.03210799999999,40.640409],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857350231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.878966,40.517579,-111.878966,40.517579",
+    "geom:latitude":40.517579,
+    "geom:longitude":-111.878966,
+    "iso:country":"US",
+    "sg:address":"12867 Pheasant View Dr",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 576 9680",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727849,
+        102082877,
+        85815193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qKXVVNowFyrca3irlV8A5_40.517579_-111.878966@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127489,
+    "wof:geomhash":"427e62709d880f74a497932382e4abe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85815193,
+            "region_id":85688567,
+            "venue_id":857350231
+        }
+    ],
+    "wof:id":857350231,
+    "wof:lastmodified":1464127489,
+    "wof:name":"Bdm Properties LLC",
+    "wof:parent_id":85815193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -111.878966,
+    40.517579,
+    -111.878966,
+    40.517579
+],
+  "geometry": {"coordinates":[-111.87896600000001,40.517579],"type":"Point"}
+}

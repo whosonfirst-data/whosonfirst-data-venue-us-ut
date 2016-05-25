@@ -1,0 +1,75 @@
+{
+  "id": 857425651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.005985,40.657495,-112.005985,40.657495",
+    "geom:latitude":40.657495,
+    "geom:longitude":-112.005985,
+    "iso:country":"US",
+    "sg:address":"5156 S 4820 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 364 0696",
+    "sg:postcode":"84118",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mobile",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728253,
+        102082877,
+        85833393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3q63qhrrEEws5QLxQdATCJ_40.657495_-112.005985@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129244,
+    "wof:geomhash":"b2ece021a5f4d66e94f36d175782f5b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728253,
+            "neighbourhood_id":85833393,
+            "region_id":85688567,
+            "venue_id":857425651
+        }
+    ],
+    "wof:id":857425651,
+    "wof:lastmodified":1464129244,
+    "wof:name":"Nevada Red Enterprises LLC",
+    "wof:parent_id":85833393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home"
+    ]
+},
+  "bbox": [
+    -112.005985,
+    40.657495,
+    -112.005985,
+    40.657495
+],
+  "geometry": {"coordinates":[-112.005985,40.657495],"type":"Point"}
+}

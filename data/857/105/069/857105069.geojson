@@ -1,0 +1,73 @@
+{
+  "id": 857105069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.857235,40.847798,-111.857235,40.847798",
+    "geom:latitude":40.847798,
+    "geom:longitude":-111.857235,
+    "iso:country":"US",
+    "sg:address":"1292 Canyon Creek Rd",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 292 4199",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727881,
+        102083563,
+        85851571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YyZc6U13fpgyWB1ZLYd8K_40.847798_-111.857235@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122027,
+    "wof:geomhash":"6301fb5991204b5e4d6cfef7673b0889",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727881,
+            "neighbourhood_id":85851571,
+            "region_id":85688567,
+            "venue_id":857105069
+        }
+    ],
+    "wof:id":857105069,
+    "wof:lastmodified":1464122027,
+    "wof:name":"Worldwide Labs",
+    "wof:parent_id":85851571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -111.857235,
+    40.847798,
+    -111.857235,
+    40.847798
+],
+  "geometry": {"coordinates":[-111.857235,40.847798],"type":"Point"}
+}

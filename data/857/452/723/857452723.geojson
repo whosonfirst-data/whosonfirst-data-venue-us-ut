@@ -1,0 +1,74 @@
+{
+  "id": 857452723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.80973,40.699768,-111.80973,40.699768",
+    "geom:latitude":40.699768,
+    "geom:longitude":-111.80973,
+    "iso:country":"US",
+    "sg:address":"2870 E 3300 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 466 5055",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "sg:website":"www.americanelite.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728257,
+        102082877,
+        85854869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_206LHliU7BcRrraau9XBUi_40.699768_-111.809730@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129811,
+    "wof:geomhash":"f8c073e48b6111d5dac5f55256b5bfe3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85854869,
+            "region_id":85688567,
+            "venue_id":857452723
+        }
+    ],
+    "wof:id":857452723,
+    "wof:lastmodified":1464129811,
+    "wof:name":"American Elite Mortgage",
+    "wof:parent_id":85854869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -111.80973,
+    40.699768,
+    -111.80973,
+    40.699768
+],
+  "geometry": {"coordinates":[-111.80973,40.699768],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857097345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.888718,40.638528,-111.888718,40.638528",
+    "geom:latitude":40.638528,
+    "geom:longitude":-111.888718,
+    "iso:country":"US",
+    "sg:address":"195 E 6100 S",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 838 9888",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:website":"www.bankaf.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85822549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vVLUpk4KsTVTdzHhvSxEj_40.638528_-111.888718@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121845,
+    "wof:geomhash":"8766163712448dbad23b9f5f46c97ac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85822549,
+            "region_id":85688567,
+            "venue_id":857097345
+        }
+    ],
+    "wof:id":857097345,
+    "wof:lastmodified":1464121845,
+    "wof:name":"Bank Of American Fork",
+    "wof:parent_id":85822549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.888718,
+    40.638528,
+    -111.888718,
+    40.638528
+],
+  "geometry": {"coordinates":[-111.888718,40.638528],"type":"Point"}
+}

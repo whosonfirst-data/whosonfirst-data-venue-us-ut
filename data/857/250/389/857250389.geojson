@@ -1,0 +1,73 @@
+{
+  "id": 857250389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.847366,40.572526,-111.847366,40.572526",
+    "geom:latitude":40.572526,
+    "geom:longitude":-111.847366,
+    "iso:country":"US",
+    "sg:address":"1551 Tameron Dr",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 571 6441",
+    "sg:postcode":"84092",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85846597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JOQ9IaNnVAgqLYSRkXQT6_40.572526_-111.847366@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125253,
+    "wof:geomhash":"001578dd4d1a9664c2e100e63bcaca2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85846597,
+            "region_id":85688567,
+            "venue_id":857250389
+        }
+    ],
+    "wof:id":857250389,
+    "wof:lastmodified":1464125253,
+    "wof:name":"Stateside Computers Svc LLC",
+    "wof:parent_id":85846597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -111.847366,
+    40.572526,
+    -111.847366,
+    40.572526
+],
+  "geometry": {"coordinates":[-111.84736599999999,40.572526],"type":"Point"}
+}

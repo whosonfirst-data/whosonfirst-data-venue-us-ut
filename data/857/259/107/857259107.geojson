@@ -1,0 +1,68 @@
+{
+  "id": 857259107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.969087,41.074598,-111.969087,41.074598",
+    "geom:latitude":41.074598,
+    "geom:longitude":-111.969087,
+    "iso:country":"US",
+    "sg:address":"180 W Gordon Ave",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 546 4500",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ih92O6gqNK0C2AaaTPQcV_41.074598_-111.969087@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125474,
+    "wof:geomhash":"03b3d35107a7fe2acae36aec9b5e93c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857259107
+        }
+    ],
+    "wof:id":857259107,
+    "wof:lastmodified":1464125474,
+    "wof:name":"Scott Chiropractic & Wellness",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.969087,
+    41.074598,
+    -111.969087,
+    41.074598
+],
+  "geometry": {"coordinates":[-111.969087,41.074598],"type":"Point"}
+}

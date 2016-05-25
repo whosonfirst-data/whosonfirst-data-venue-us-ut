@@ -1,0 +1,75 @@
+{
+  "id": 857160879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.891035,41.629853,-111.891035,41.629853",
+    "geom:latitude":41.629853,
+    "geom:longitude":-111.891035,
+    "iso:country":"US",
+    "sg:address":"5655 S 2400 W",
+    "sg:city":"Wellsville",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 245 5457",
+    "sg:postcode":"84339",
+    "sg:province":"UT",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727555,
+        102082881,
+        85823067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lE6zLaFIxBExl3BjFnTUn_41.629853_-111.891035@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123361,
+    "wof:geomhash":"81d7c42d509673f4461de0cb76d49b6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727555,
+            "neighbourhood_id":85823067,
+            "region_id":85688567,
+            "venue_id":857160879
+        }
+    ],
+    "wof:id":857160879,
+    "wof:lastmodified":1464123361,
+    "wof:name":"Garth Baxter",
+    "wof:parent_id":85823067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -111.891035,
+    41.629853,
+    -111.891035,
+    41.629853
+],
+  "geometry": {"coordinates":[-111.891035,41.629853],"type":"Point"}
+}

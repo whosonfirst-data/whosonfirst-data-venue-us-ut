@@ -1,0 +1,76 @@
+{
+  "id": 857237807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.88547,40.779473,-111.88547,40.779473",
+    "geom:latitude":40.779473,
+    "geom:longitude":-111.88547,
+    "iso:country":"US",
+    "sg:address":"310 E Capitol Blvd",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 538 1025",
+    "sg:postcode":"84103",
+    "sg:province":"UT",
+    "sg:tags":[
+        "state",
+        "taxation"
+    ],
+    "sg:website":"www.sao.state.ut.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85809299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62b3hL6u0ZYwi5a9cmN6mT_40.779473_-111.885470@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124962,
+    "wof:geomhash":"dedb920843b429b28f77b184c722187f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85809299,
+            "region_id":85688567,
+            "venue_id":857237807
+        }
+    ],
+    "wof:id":857237807,
+    "wof:lastmodified":1464124962,
+    "wof:name":"State Auditor",
+    "wof:parent_id":85809299,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "taxation"
+    ]
+},
+  "bbox": [
+    -111.88547,
+    40.779473,
+    -111.88547,
+    40.779473
+],
+  "geometry": {"coordinates":[-111.88547,40.779473],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857310935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.814124,41.799883,-111.814124,41.799883",
+    "geom:latitude":41.799883,
+    "geom:longitude":-111.814124,
+    "iso:country":"US",
+    "sg:address":"56 N 200 E",
+    "sg:city":"Hyde Park",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 563 9673",
+    "sg:postcode":"84318",
+    "sg:province":"UT",
+    "sg:tags":[
+        "adjuster"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MsjZQqXsq0viEjGQY4D41_41.799883_-111.814124@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126638,
+    "wof:geomhash":"9d6cbc4c4116027d510aec67144ba649",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857310935
+        }
+    ],
+    "wof:id":857310935,
+    "wof:lastmodified":1464126638,
+    "wof:name":"E A Miller Medical Rmbrsmnt",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "adjuster"
+    ]
+},
+  "bbox": [
+    -111.814124,
+    41.799883,
+    -111.814124,
+    41.799883
+],
+  "geometry": {"coordinates":[-111.81412400000001,41.799883],"type":"Point"}
+}

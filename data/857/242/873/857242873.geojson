@@ -1,0 +1,75 @@
+{
+  "id": 857242873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.656164,40.266704,-111.656164,40.266704",
+    "geom:latitude":40.266704,
+    "geom:longitude":-111.656164,
+    "iso:country":"US",
+    "sg:address":"2545 N Canyon Rd",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 377 2262",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "program",
+        "administrative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DowAVbXiSNWLBpjh4Bazb_40.266704_-111.656164@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125081,
+    "wof:geomhash":"904c1a2b8203ab6fbb48f41e2e3080ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880109,
+            "region_id":85688567,
+            "venue_id":857242873
+        }
+    ],
+    "wof:id":857242873,
+    "wof:lastmodified":1464125081,
+    "wof:name":"Mountainland Aging Adult Svcs",
+    "wof:parent_id":85880109,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "program",
+        "administrative"
+    ]
+},
+  "bbox": [
+    -111.656164,
+    40.266704,
+    -111.656164,
+    40.266704
+],
+  "geometry": {"coordinates":[-111.656164,40.266704],"type":"Point"}
+}

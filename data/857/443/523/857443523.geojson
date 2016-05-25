@@ -1,0 +1,71 @@
+{
+  "id": 857443523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.795671,39.9645,-111.795671,39.9645",
+    "geom:latitude":39.9645,
+    "geom:longitude":-111.795671,
+    "iso:country":"US",
+    "sg:address":"810 S 500 W",
+    "sg:city":"Santaquin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 754 3350",
+    "sg:postcode":"84655",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xu3VOsNgNE2ymMsfZQunz_39.964500_-111.795671@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129631,
+    "wof:geomhash":"2e81725fce798bfedb137c59faf2b806",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857443523
+        }
+    ],
+    "wof:id":857443523,
+    "wof:lastmodified":1464129631,
+    "wof:name":"Smith Jaye Construction",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.795671,
+    39.9645,
+    -111.795671,
+    39.9645
+],
+  "geometry": {"coordinates":[-111.795671,39.9645],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857250897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.977168,41.195505,-111.977168,41.195505",
+    "geom:latitude":41.195505,
+    "geom:longitude":-111.977168,
+    "iso:country":"US",
+    "sg:address":"1000 Newgate Mall",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 626 9200",
+    "sg:postcode":"84405",
+    "sg:province":"UT",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728021,
+        102083539,
+        85810865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SC4RxCdfLvwFwt5sbyLkd_41.195505_-111.977168@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125268,
+    "wof:geomhash":"9849c4cec51ecc9e50c3078ab7fbf991",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728021,
+            "neighbourhood_id":85810865,
+            "region_id":85688567,
+            "venue_id":857250897
+        }
+    ],
+    "wof:id":857250897,
+    "wof:lastmodified":1464125268,
+    "wof:name":"Sears",
+    "wof:parent_id":85810865,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -111.977168,
+    41.195505,
+    -111.977168,
+    41.195505
+],
+  "geometry": {"coordinates":[-111.97716800000001,41.195505],"type":"Point"}
+}

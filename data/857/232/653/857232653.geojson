@@ -1,0 +1,73 @@
+{
+  "id": 857232653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.866022,40.75189,-111.866022,40.75189",
+    "geom:latitude":40.75189,
+    "geom:longitude":-111.866022,
+    "iso:country":"US",
+    "sg:address":"876 E 800 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 532 6850",
+    "sg:postcode":"84102",
+    "sg:province":"UT",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85858241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55b0s1Suzw1Bf2F5YH525V_40.751890_-111.866022@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124854,
+    "wof:geomhash":"6ad69cd7681954736611516f86d306d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85858241,
+            "region_id":85688567,
+            "venue_id":857232653
+        }
+    ],
+    "wof:id":857232653,
+    "wof:lastmodified":1464124854,
+    "wof:name":"Police Dept Smith Ofc",
+    "wof:parent_id":85858241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -111.866022,
+    40.75189,
+    -111.866022,
+    40.75189
+],
+  "geometry": {"coordinates":[-111.866022,40.75189],"type":"Point"}
+}

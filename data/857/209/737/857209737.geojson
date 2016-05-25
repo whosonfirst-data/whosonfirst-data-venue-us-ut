@@ -1,0 +1,66 @@
+{
+  "id": 857209737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.736157,40.033207,-111.736157,40.033207",
+    "geom:latitude":40.033207,
+    "geom:longitude":-111.736157,
+    "iso:country":"US",
+    "sg:address":"310 W 700 S",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 3918",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TxQ2AOsf02b0QnuLiPPnO_40.033207_-111.736157@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124385,
+    "wof:geomhash":"614a55f6cfef7241497598d21c4d6293",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857209737
+        }
+    ],
+    "wof:id":857209737,
+    "wof:lastmodified":1464124385,
+    "wof:name":"Santaquin Gun Club Inc",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.736157,
+    40.033207,
+    -111.736157,
+    40.033207
+],
+  "geometry": {"coordinates":[-111.73615700000001,40.033207],"type":"Point"}
+}

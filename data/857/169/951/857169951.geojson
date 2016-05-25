@@ -1,0 +1,71 @@
+{
+  "id": 857169951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.901811,41.372197,-111.901811,41.372197",
+    "geom:latitude":41.372197,
+    "geom:longitude":-111.901811,
+    "iso:country":"US",
+    "sg:address":"2068 E 5950 N",
+    "sg:city":"Eden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 745 4420",
+    "sg:postcode":"84310",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85824645,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QkCQZ0TwxXudZo99BarG4_41.372197_-111.901811@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123584,
+    "wof:geomhash":"8dd1240a542e55eed83b16306b427fb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85824645,
+            "region_id":85688567,
+            "venue_id":857169951
+        }
+    ],
+    "wof:id":857169951,
+    "wof:lastmodified":1464123584,
+    "wof:name":"Solitude Builders",
+    "wof:parent_id":85824645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.901811,
+    41.372197,
+    -111.901811,
+    41.372197
+],
+  "geometry": {"coordinates":[-111.901811,41.372197],"type":"Point"}
+}

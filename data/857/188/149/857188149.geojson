@@ -1,0 +1,69 @@
+{
+  "id": 857188149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.836604,40.392633,-111.836604,40.392633",
+    "geom:latitude":40.392633,
+    "geom:longitude":-111.836604,
+    "iso:country":"US",
+    "sg:address":"860 E State St",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 766 1976",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YUo5OW8FfT8C1t2yH6AHe_40.392633_-111.836604@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123954,
+    "wof:geomhash":"88d06a0733984824aeb64b34e81f10e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857188149
+        }
+    ],
+    "wof:id":857188149,
+    "wof:lastmodified":1464123954,
+    "wof:name":"Lung Automotive",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -111.836604,
+    40.392633,
+    -111.836604,
+    40.392633
+],
+  "geometry": {"coordinates":[-111.83660399999999,40.392633],"type":"Point"}
+}

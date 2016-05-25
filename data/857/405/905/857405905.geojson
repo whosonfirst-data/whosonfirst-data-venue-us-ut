@@ -1,0 +1,68 @@
+{
+  "id": 857405905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.972548,41.053802,-111.972548,41.053802",
+    "geom:latitude":41.053802,
+    "geom:longitude":-111.972548,
+    "iso:country":"US",
+    "sg:address":"400 W Weaver Ln",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 546 2728",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cLrUbbnuG7etBkQsl62GV_41.053802_-111.972548@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128749,
+    "wof:geomhash":"72cd31aea634091710fd45efe108c848",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857405905
+        }
+    ],
+    "wof:id":857405905,
+    "wof:lastmodified":1464128749,
+    "wof:name":"Blb Transport Inc",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.972548,
+    41.053802,
+    -111.972548,
+    41.053802
+],
+  "geometry": {"coordinates":[-111.972548,41.053802],"type":"Point"}
+}

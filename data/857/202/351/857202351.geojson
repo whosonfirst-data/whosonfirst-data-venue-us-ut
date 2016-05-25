@@ -1,0 +1,71 @@
+{
+  "id": 857202351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.936275,41.019921,-111.936275,41.019921",
+    "geom:latitude":41.019921,
+    "geom:longitude":-111.936275,
+    "iso:country":"US",
+    "sg:address":"147 E 900 S",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 444 1766",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "educational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Yes4srvRG1DLTCKHLF5L3_41.019921_-111.936275@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124219,
+    "wof:geomhash":"03903c1267c8eadfecad50e6c7a68903",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857202351
+        }
+    ],
+    "wof:id":857202351,
+    "wof:lastmodified":1464124219,
+    "wof:name":"CNA Educational Svc",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational"
+    ]
+},
+  "bbox": [
+    -111.936275,
+    41.019921,
+    -111.936275,
+    41.019921
+],
+  "geometry": {"coordinates":[-111.93627499999999,41.019921],"type":"Point"}
+}

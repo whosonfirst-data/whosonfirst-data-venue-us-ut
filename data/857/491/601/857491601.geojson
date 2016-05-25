@@ -1,0 +1,72 @@
+{
+  "id": 857491601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.787576,40.373888,-111.787576,40.373888",
+    "geom:latitude":40.373888,
+    "geom:longitude":-111.787576,
+    "iso:country":"US",
+    "sg:address":"406 E State Rd",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/american-fork-pleasant-grove/212875-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 5311",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AqnRo3RK2ZszgYekVI1TY_40.373888_-111.787576@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130640,
+    "wof:geomhash":"c4d7ae1d927763fb9043201cd7a335ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857491601
+        }
+    ],
+    "wof:id":857491601,
+    "wof:lastmodified":1464130640,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -111.787576,
+    40.373888,
+    -111.787576,
+    40.373888
+],
+  "geometry": {"coordinates":[-111.787576,40.373888],"type":"Point"}
+}

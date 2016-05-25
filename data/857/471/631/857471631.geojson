@@ -1,0 +1,73 @@
+{
+  "id": 857471631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.798921,40.608048,-111.798921,40.608048",
+    "geom:latitude":40.608048,
+    "geom:longitude":-111.798921,
+    "iso:country":"US",
+    "sg:address":"3470 Chadbourne Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 942 2110",
+    "sg:postcode":"84121",
+    "sg:province":"UT",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728065,
+        102082877,
+        85826155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QDL6KNHF6PwqMqdJZ1wcm_40.608048_-111.798921@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130208,
+    "wof:geomhash":"42ecf4875a5e315ab98ef07f337933db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728065,
+            "neighbourhood_id":85826155,
+            "region_id":85688567,
+            "venue_id":857471631
+        }
+    ],
+    "wof:id":857471631,
+    "wof:lastmodified":1464130208,
+    "wof:name":"Auto Bdy By Clton Dntmster LLC",
+    "wof:parent_id":85826155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -111.798921,
+    40.608048,
+    -111.798921,
+    40.608048
+],
+  "geometry": {"coordinates":[-111.79892100000001,40.608048],"type":"Point"}
+}

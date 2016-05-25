@@ -1,0 +1,68 @@
+{
+  "id": 857148611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.794645,40.632549,-111.794645,40.632549",
+    "geom:latitude":40.632549,
+    "geom:longitude":-111.794645,
+    "iso:country":"US",
+    "sg:address":"6499 Canyon Cove Pl",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 274 1923",
+    "sg:postcode":"84121",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728049,
+        102082877,
+        85809343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0grf76qGk4vzqEMFBpcGhM_40.632549_-111.794645@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123114,
+    "wof:geomhash":"83e5ea89c1a8804f6f2c8f9ebc302ced",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728049,
+            "neighbourhood_id":85809343,
+            "region_id":85688567,
+            "venue_id":857148611
+        }
+    ],
+    "wof:id":857148611,
+    "wof:lastmodified":1464123114,
+    "wof:name":"Wells Fargo Home Mortgage Inc",
+    "wof:parent_id":85809343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.794645,
+    40.632549,
+    -111.794645,
+    40.632549
+],
+  "geometry": {"coordinates":[-111.794645,40.632549],"type":"Point"}
+}

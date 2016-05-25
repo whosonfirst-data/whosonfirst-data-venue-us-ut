@@ -1,0 +1,73 @@
+{
+  "id": 857101031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.994926,40.369754,-111.994926,40.369754",
+    "geom:latitude":40.369754,
+    "geom:longitude":-111.994926,
+    "iso:country":"US",
+    "sg:address":"2577 Ranch Rd",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 766 9757",
+    "sg:postcode":"84005",
+    "sg:province":"UT",
+    "sg:tags":[
+        "janitorial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727857,
+        102083567,
+        85836317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_165fH4PJOP9Rafq2EJUkOU_40.369754_-111.994926@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121941,
+    "wof:geomhash":"bf9893836ee4fdb37d6d43a3e4e6c9ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727857,
+            "neighbourhood_id":85836317,
+            "region_id":85688567,
+            "venue_id":857101031
+        }
+    ],
+    "wof:id":857101031,
+    "wof:lastmodified":1464121941,
+    "wof:name":"Janitorial Services",
+    "wof:parent_id":85836317,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitorial"
+    ]
+},
+  "bbox": [
+    -111.994926,
+    40.369754,
+    -111.994926,
+    40.369754
+],
+  "geometry": {"coordinates":[-111.99492600000001,40.369754],"type":"Point"}
+}

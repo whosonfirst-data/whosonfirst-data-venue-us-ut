@@ -1,0 +1,71 @@
+{
+  "id": 857103387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.932771,41.011075,-111.932771,41.011075",
+    "geom:latitude":41.011075,
+    "geom:longitude":-111.932771,
+    "iso:country":"US",
+    "sg:address":"294 E 1475 S",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 7041",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iGMd6SOc0uKBfCYMCPUa2_41.011075_-111.932771@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121990,
+    "wof:geomhash":"6faf9808502f5a2b3ee92e49faa50df9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857103387
+        }
+    ],
+    "wof:id":857103387,
+    "wof:lastmodified":1464121990,
+    "wof:name":"Horizon Landscaping",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -111.932771,
+    41.011075,
+    -111.932771,
+    41.011075
+],
+  "geometry": {"coordinates":[-111.932771,41.011075],"type":"Point"}
+}

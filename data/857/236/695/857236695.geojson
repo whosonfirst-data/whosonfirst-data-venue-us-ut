@@ -1,0 +1,75 @@
+{
+  "id": 857236695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.968621,41.30489,-111.968621,41.30489",
+    "geom:latitude":41.30489,
+    "geom:longitude":-111.968621,
+    "iso:country":"US",
+    "sg:address":"2510 N 400 E",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 782 1190",
+    "sg:postcode":"84414",
+    "sg:province":"UT",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728025,
+        102083539,
+        85837881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2itNOvgqcXm60BY2Xmyfbj_41.304890_-111.968621@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124940,
+    "wof:geomhash":"aa276c66ccb17e447814a557b06bf45d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728025,
+            "neighbourhood_id":85837881,
+            "region_id":85688567,
+            "venue_id":857236695
+        }
+    ],
+    "wof:id":857236695,
+    "wof:lastmodified":1464124940,
+    "wof:name":"Super Wash",
+    "wof:parent_id":85837881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -111.968621,
+    41.30489,
+    -111.968621,
+    41.30489
+],
+  "geometry": {"coordinates":[-111.968621,41.30489],"type":"Point"}
+}

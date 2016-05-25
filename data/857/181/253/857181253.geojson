@@ -1,0 +1,80 @@
+{
+  "id": 857181253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834502,41.746381,-111.834502,41.746381",
+    "geom:latitude":41.746381,
+    "geom:longitude":-111.834502,
+    "iso:country":"US",
+    "sg:address":"895 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 1851",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "training",
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2u3lCGxDO41uUeA8pgw7je_41.746381_-111.834502@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123820,
+    "wof:geomhash":"5342404e3147b0fcf3a7b1811029df87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857181253
+        }
+    ],
+    "wof:id":857181253,
+    "wof:lastmodified":1464123820,
+    "wof:name":"American Business Mgmt Systems",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "training",
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -111.834502,
+    41.746381,
+    -111.834502,
+    41.746381
+],
+  "geometry": {"coordinates":[-111.834502,41.746381],"type":"Point"}
+}

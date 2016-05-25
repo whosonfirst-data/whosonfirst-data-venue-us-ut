@@ -1,0 +1,73 @@
+{
+  "id": 857343859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.895649,40.999609,-111.895649,40.999609",
+    "geom:latitude":40.999609,
+    "geom:longitude":-111.895649,
+    "iso:country":"US",
+    "sg:address":"364 Quail Nest Cir",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 7188",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "equipment",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cLwYPyRGokDMoecD2c8An_40.999609_-111.895649@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127350,
+    "wof:geomhash":"e55b518f660b595777f9afa3ea98be9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857343859
+        }
+    ],
+    "wof:id":857343859,
+    "wof:lastmodified":1464127350,
+    "wof:name":"Medical Device Evaluation Ctr",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.895649,
+    40.999609,
+    -111.895649,
+    40.999609
+],
+  "geometry": {"coordinates":[-111.89564900000001,40.999609],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857147961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.946623,41.108552,-111.946623,41.108552",
+    "geom:latitude":41.108552,
+    "geom:longitude":-111.946623,
+    "iso:country":"US",
+    "sg:address":"1078 E 3325 N",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 771 5397",
+    "sg:postcode":"84040",
+    "sg:province":"UT",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85844663,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zv1hlI9EE210kD1cns85z_41.108552_-111.946623@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123098,
+    "wof:geomhash":"9a198da5067fe26b9ac2ea2d964fe660",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "neighbourhood_id":85844663,
+            "region_id":85688567,
+            "venue_id":857147961
+        }
+    ],
+    "wof:id":857147961,
+    "wof:lastmodified":1464123098,
+    "wof:name":"Fuller Lock Svc",
+    "wof:parent_id":85844663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -111.946623,
+    41.108552,
+    -111.946623,
+    41.108552
+],
+  "geometry": {"coordinates":[-111.946623,41.108552],"type":"Point"}
+}

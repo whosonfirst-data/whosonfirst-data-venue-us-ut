@@ -1,0 +1,76 @@
+{
+  "id": 857269151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.941407,40.711083,-111.941407,40.711083",
+    "geom:latitude":40.711083,
+    "geom:longitude":-111.941407,
+    "iso:country":"US",
+    "sg:address":"1825 Research Way",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 886 0100",
+    "sg:postcode":"84119",
+    "sg:province":"UT",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "sg:website":"www.ebccomputers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85829397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1I4BAhljxT7pKgr5fjZOiw_40.711083_-111.941407@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125669,
+    "wof:geomhash":"8b7f4bd9b675977715bbbc6717d99a11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85829397,
+            "region_id":85688567,
+            "venue_id":857269151
+        }
+    ],
+    "wof:id":857269151,
+    "wof:lastmodified":1464125669,
+    "wof:name":"EBC Computers",
+    "wof:parent_id":85829397,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -111.941407,
+    40.711083,
+    -111.941407,
+    40.711083
+],
+  "geometry": {"coordinates":[-111.941407,40.711083],"type":"Point"}
+}

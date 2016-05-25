@@ -1,0 +1,74 @@
+{
+  "id": 857491889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.987782,41.090441,-111.987782,41.090441",
+    "geom:latitude":41.090441,
+    "geom:longitude":-111.987782,
+    "iso:country":"US",
+    "sg:address":"2065 University Park Blvd",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/north-davis/37046-cafe-rio/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 991 1800",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lY8Rpy5qFvQW2NJYwvqzI_41.090441_-111.987782@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130657,
+    "wof:geomhash":"7ae74dfaa62971d28f137e9a71b4358f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857491889
+        }
+    ],
+    "wof:id":857491889,
+    "wof:lastmodified":1464130657,
+    "wof:name":"Cafe Rio",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -111.987782,
+    41.090441,
+    -111.987782,
+    41.090441
+],
+  "geometry": {"coordinates":[-111.987782,41.090441],"type":"Point"}
+}

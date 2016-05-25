@@ -1,0 +1,73 @@
+{
+  "id": 857321915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.73221,40.04289,-111.73221,40.04289",
+    "geom:latitude":40.04289,
+    "geom:longitude":-111.73221,
+    "iso:country":"US",
+    "sg:address":"65 S Main St",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 3021",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "sewing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1njLrErcGxqj8S4IydunV1_40.042890_-111.732210@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126887,
+    "wof:geomhash":"eebfe447260747f6cca1ea4f2d705709",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857321915
+        }
+    ],
+    "wof:id":857321915,
+    "wof:lastmodified":1464126887,
+    "wof:name":"Morris Quilting",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sewing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.73221,
+    40.04289,
+    -111.73221,
+    40.04289
+],
+  "geometry": {"coordinates":[-111.73220999999999,40.04289],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 857145813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.896514,40.625482,-111.896514,40.625482",
+    "geom:latitude":40.625482,
+    "geom:longitude":-111.896514,
+    "iso:country":"US",
+    "sg:address":"6979 High Tech Dr",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 256 6500",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "sg:tags":[
+        "development",
+        "software",
+        "provider"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728051,
+        102082877,
+        85851957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZcNjcttp9SnkjyinWmUMQ_40.625482_-111.896514@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123057,
+    "wof:geomhash":"36f8dd5cbce906803a325fccf16ed95d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85851957,
+            "region_id":85688567,
+            "venue_id":857145813
+        }
+    ],
+    "wof:id":857145813,
+    "wof:lastmodified":1464123057,
+    "wof:name":"Cimetrix Incorporated",
+    "wof:parent_id":85851957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "software",
+        "provider"
+    ]
+},
+  "bbox": [
+    -111.896514,
+    40.625482,
+    -111.896514,
+    40.625482
+],
+  "geometry": {"coordinates":[-111.896514,40.625482],"type":"Point"}
+}

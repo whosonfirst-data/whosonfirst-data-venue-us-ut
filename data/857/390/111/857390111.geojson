@@ -1,0 +1,75 @@
+{
+  "id": 857390111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.935067,40.667917,-111.935067,40.667917",
+    "geom:latitude":40.667917,
+    "geom:longitude":-111.935067,
+    "iso:country":"US",
+    "sg:address":"4665 Beechwood Rd",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 264 8841",
+    "sg:postcode":"84123",
+    "sg:province":"UT",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728059,
+        102082877,
+        85806869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gRbFBgm9yvzFKKkY62Co3_40.667917_-111.935067@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128433,
+    "wof:geomhash":"5b6df7ca872beb453b628c2ab1af69dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728059,
+            "neighbourhood_id":85806869,
+            "region_id":85688567,
+            "venue_id":857390111
+        }
+    ],
+    "wof:id":857390111,
+    "wof:lastmodified":1464128433,
+    "wof:name":"Knight Painting",
+    "wof:parent_id":85806869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.935067,
+    40.667917,
+    -111.935067,
+    40.667917
+],
+  "geometry": {"coordinates":[-111.935067,40.667917],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 857180009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.588651,40.161717,-111.588651,40.161717",
+    "geom:latitude":40.161717,
+    "geom:longitude":-111.588651,
+    "iso:country":"US",
+    "sg:address":"1215 E 375 S",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Labor Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 491 8501",
+    "sg:postcode":"84663",
+    "sg:province":"UT",
+    "sg:tags":[
+        "vent",
+        "product",
+        "dryer",
+        "recessed",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727829,
+        102083567,
+        85880117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1s1tbGRT9xqiyH7C7ajEzg_40.161717_-111.588651@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123796,
+    "wof:geomhash":"bcdfb9a930ea98d3c9009f58a893722b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727829,
+            "neighbourhood_id":85880117,
+            "region_id":85688567,
+            "venue_id":857180009
+        }
+    ],
+    "wof:id":857180009,
+    "wof:lastmodified":1464123796,
+    "wof:name":"Direct Flow Technologies LLC",
+    "wof:parent_id":85880117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vent",
+        "product",
+        "dryer",
+        "recessed",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.588651,
+    40.161717,
+    -111.588651,
+    40.161717
+],
+  "geometry": {"coordinates":[-111.588651,40.161717],"type":"Point"}
+}

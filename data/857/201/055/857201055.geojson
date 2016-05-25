@@ -1,0 +1,75 @@
+{
+  "id": 857201055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.693709,40.294163,-111.693709,40.294163",
+    "geom:latitude":40.294163,
+    "geom:longitude":-111.693709,
+    "iso:country":"US",
+    "sg:address":"142 S State St",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 765 9700",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85849197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03bE2zXcUEXCCMZnTwyTa4_40.294163_-111.693709@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124195,
+    "wof:geomhash":"92664b78ae2dab071748f2e378752caa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85849197,
+            "region_id":85688567,
+            "venue_id":857201055
+        }
+    ],
+    "wof:id":857201055,
+    "wof:lastmodified":1464124195,
+    "wof:name":"Washburn Motors",
+    "wof:parent_id":85849197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -111.693709,
+    40.294163,
+    -111.693709,
+    40.294163
+],
+  "geometry": {"coordinates":[-111.693709,40.294163],"type":"Point"}
+}

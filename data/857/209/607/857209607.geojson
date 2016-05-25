@@ -1,0 +1,73 @@
+{
+  "id": 857209607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.940469,40.488673,-111.940469,40.488673",
+    "geom:latitude":40.488673,
+    "geom:longitude":-111.940469,
+    "iso:country":"US",
+    "sg:address":"14432 Camp Williams Rd",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 254 4658",
+    "sg:postcode":"84065",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728045,
+        102082877,
+        85835913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wB92zxrCmFQY8xV9XUF0t_40.488673_-111.940469@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124382,
+    "wof:geomhash":"f8c77ca150d6c11c0df157dd93ed94cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728045,
+            "neighbourhood_id":85835913,
+            "region_id":85688567,
+            "venue_id":857209607
+        }
+    ],
+    "wof:id":857209607,
+    "wof:lastmodified":1464124382,
+    "wof:name":"Hatt Plumbing & Heating",
+    "wof:parent_id":85835913,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.940469,
+    40.488673,
+    -111.940469,
+    40.488673
+],
+  "geometry": {"coordinates":[-111.94046899999999,40.488673],"type":"Point"}
+}

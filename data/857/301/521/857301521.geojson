@@ -1,0 +1,73 @@
+{
+  "id": 857301521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.887559,40.520596,-111.887559,40.520596",
+    "geom:latitude":40.520596,
+    "geom:longitude":-111.887559,
+    "iso:country":"US",
+    "sg:address":"12669 S 125 E",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 816 1174",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727849,
+        102082877,
+        85823005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vPTh40jBHVv0tAdNsQLIb_40.520596_-111.887559@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126445,
+    "wof:geomhash":"85a6abfd82398bfd2ab35e8b11f66164",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85823005,
+            "region_id":85688567,
+            "venue_id":857301521
+        }
+    ],
+    "wof:id":857301521,
+    "wof:lastmodified":1464126445,
+    "wof:name":"Jerry Kings LLC",
+    "wof:parent_id":85823005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -111.887559,
+    40.520596,
+    -111.887559,
+    40.520596
+],
+  "geometry": {"coordinates":[-111.887559,40.520596],"type":"Point"}
+}

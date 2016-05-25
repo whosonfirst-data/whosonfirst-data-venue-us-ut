@@ -1,0 +1,75 @@
+{
+  "id": 857267551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.047913,41.163115,-112.047913,41.163115",
+    "geom:latitude":41.163115,
+    "geom:longitude":-112.047913,
+    "iso:country":"US",
+    "sg:address":"5526 S 2800 W",
+    "sg:city":"Roy",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 301 4144",
+    "sg:postcode":"84067",
+    "sg:province":"UT",
+    "sg:tags":[
+        "company",
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728023,
+        102083539,
+        85853469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Jh4PkIWBK6ir1pOdzeWy8_41.163115_-112.047913@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125640,
+    "wof:geomhash":"0eb33783c8121deee569c68c724c22ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728023,
+            "neighbourhood_id":85853469,
+            "region_id":85688567,
+            "venue_id":857267551
+        }
+    ],
+    "wof:id":857267551,
+    "wof:lastmodified":1464125640,
+    "wof:name":"C & W Towing",
+    "wof:parent_id":85853469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "towing"
+    ]
+},
+  "bbox": [
+    -112.047913,
+    41.163115,
+    -112.047913,
+    41.163115
+],
+  "geometry": {"coordinates":[-112.04791299999999,41.163115],"type":"Point"}
+}

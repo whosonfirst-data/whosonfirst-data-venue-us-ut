@@ -1,0 +1,73 @@
+{
+  "id": 857338103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.010616,40.649703,-112.010616,40.649703",
+    "geom:latitude":40.649703,
+    "geom:longitude":-112.010616,
+    "iso:country":"US",
+    "sg:address":"5031 Highwood Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 964 9937",
+    "sg:postcode":"84118",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728253,
+        102082877,
+        85833569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sKwHaUZDNbi4FOGQCrble_40.649703_-112.010616@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127234,
+    "wof:geomhash":"3f7ccaf172902207dc3f07f5ca72cef6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728253,
+            "neighbourhood_id":85833569,
+            "region_id":85688567,
+            "venue_id":857338103
+        }
+    ],
+    "wof:id":857338103,
+    "wof:lastmodified":1464127234,
+    "wof:name":"One Step Above Creations",
+    "wof:parent_id":85833569,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -112.010616,
+    40.649703,
+    -112.010616,
+    40.649703
+],
+  "geometry": {"coordinates":[-112.010616,40.649703],"type":"Point"}
+}

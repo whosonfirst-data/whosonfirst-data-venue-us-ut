@@ -1,0 +1,73 @@
+{
+  "id": 857152757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.851124,41.728828,-111.851124,41.728828",
+    "geom:latitude":41.728828,
+    "geom:longitude":-111.851124,
+    "iso:country":"US",
+    "sg:address":"150 S 700 W",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 787 8865",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4x5AonhpvB0jFupOACdTIA_41.728828_-111.851124@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123200,
+    "wof:geomhash":"e0af62ddc5822ca3992d0f184f8ad42a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857152757
+        }
+    ],
+    "wof:id":857152757,
+    "wof:lastmodified":1464123200,
+    "wof:name":"Melani Precision",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.851124,
+    41.728828,
+    -111.851124,
+    41.728828
+],
+  "geometry": {"coordinates":[-111.851124,41.728828],"type":"Point"}
+}

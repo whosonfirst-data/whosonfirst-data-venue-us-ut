@@ -1,0 +1,73 @@
+{
+  "id": 857164163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.551359,37.058538,-113.551359,37.058538",
+    "geom:latitude":37.058538,
+    "geom:longitude":-113.551359,
+    "iso:country":"US",
+    "sg:address":"3015 Sweetgum Way",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 673 8981",
+    "sg:postcode":"84790",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41F0lOtVhAeysAwQ5jmh5z_37.058538_-113.551359@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123448,
+    "wof:geomhash":"00ad7f73267ab38a507a44172f27e011",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857164163
+        }
+    ],
+    "wof:id":857164163,
+    "wof:lastmodified":1464123448,
+    "wof:name":"Sola-Tube",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -113.551359,
+    37.058538,
+    -113.551359,
+    37.058538
+],
+  "geometry": {"coordinates":[-113.55135900000001,37.058538],"type":"Point"}
+}

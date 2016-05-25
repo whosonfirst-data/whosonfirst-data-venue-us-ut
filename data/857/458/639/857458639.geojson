@@ -1,0 +1,75 @@
+{
+  "id": 857458639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.913158,41.692563,-111.913158,41.692563",
+    "geom:latitude":41.692563,
+    "geom:longitude":-111.913158,
+    "iso:country":"US",
+    "sg:address":"3572 W 2200 S",
+    "sg:city":"Wellsville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 6984",
+    "sg:postcode":"84339",
+    "sg:province":"UT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727555,
+        102082881,
+        85823067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kfaWTwaQpA9Sfjgho6kOW_41.692563_-111.913158@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129927,
+    "wof:geomhash":"e4f110f7f0ba03671e73a9168caa298f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727555,
+            "neighbourhood_id":85823067,
+            "region_id":85688567,
+            "venue_id":857458639
+        }
+    ],
+    "wof:id":857458639,
+    "wof:lastmodified":1464129927,
+    "wof:name":"C & K Trucking",
+    "wof:parent_id":85823067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -111.913158,
+    41.692563,
+    -111.913158,
+    41.692563
+],
+  "geometry": {"coordinates":[-111.913158,41.692563],"type":"Point"}
+}

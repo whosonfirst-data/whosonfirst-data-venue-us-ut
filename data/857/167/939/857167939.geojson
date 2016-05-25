@@ -1,0 +1,71 @@
+{
+  "id": 857167939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.79999,41.740575,-111.79999,41.740575",
+    "geom:latitude":41.740575,
+    "geom:longitude":-111.79999,
+    "iso:country":"US",
+    "sg:address":"1365 Canyon Rd",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 1925",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "greenhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jZ0dNIGqbqP0X0lYSc6Sd_41.740575_-111.799990@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123530,
+    "wof:geomhash":"c00a37374b41afac618b01f5e83635f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857167939
+        }
+    ],
+    "wof:id":857167939,
+    "wof:lastmodified":1464123530,
+    "wof:name":"Rudy's & Sons Greenhouse",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "greenhouse"
+    ]
+},
+  "bbox": [
+    -111.79999,
+    41.740575,
+    -111.79999,
+    41.740575
+],
+  "geometry": {"coordinates":[-111.79998999999999,41.740575],"type":"Point"}
+}

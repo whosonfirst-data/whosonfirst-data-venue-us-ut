@@ -1,0 +1,75 @@
+{
+  "id": 857264695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.012681,41.089215,-112.012681,41.089215",
+    "geom:latitude":41.089215,
+    "geom:longitude":-112.012681,
+    "iso:country":"US",
+    "sg:address":"755 E 1700 S",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 773 6886",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "warehouse",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85851583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3a0TjR3h0JxNcRoKrKAdCz_41.089215_-112.012681@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125587,
+    "wof:geomhash":"b821f63109ef1e996e11bea98f5e1b80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85851583,
+            "region_id":85688567,
+            "venue_id":857264695
+        }
+    ],
+    "wof:id":857264695,
+    "wof:lastmodified":1464125587,
+    "wof:name":"Americold Corp",
+    "wof:parent_id":85851583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "storage"
+    ]
+},
+  "bbox": [
+    -112.012681,
+    41.089215,
+    -112.012681,
+    41.089215
+],
+  "geometry": {"coordinates":[-112.012681,41.089215],"type":"Point"}
+}

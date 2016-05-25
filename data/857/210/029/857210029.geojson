@@ -1,0 +1,75 @@
+{
+  "id": 857210029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.644489,40.227216,-111.644489,40.227216",
+    "geom:latitude":40.227216,
+    "geom:longitude":-111.644489,
+    "iso:country":"US",
+    "sg:address":"413 S State St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 375 7870",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QLpVgeHEwlFstxKDxBVYl_40.227216_-111.644489@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124391,
+    "wof:geomhash":"5f80367878a19fd07147e8a4bb6bcaec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880093,
+            "region_id":85688567,
+            "venue_id":857210029
+        }
+    ],
+    "wof:id":857210029,
+    "wof:lastmodified":1464124391,
+    "wof:name":"Villa Maria Apartments-Manager",
+    "wof:parent_id":85880093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -111.644489,
+    40.227216,
+    -111.644489,
+    40.227216
+],
+  "geometry": {"coordinates":[-111.64448899999999,40.227216],"type":"Point"}
+}

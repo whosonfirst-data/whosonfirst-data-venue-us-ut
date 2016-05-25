@@ -1,0 +1,69 @@
+{
+  "id": 857463259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.807516,40.385169,-111.807516,40.385169",
+    "geom:latitude":40.385169,
+    "geom:longitude":-111.807516,
+    "iso:country":"US",
+    "sg:address":"372 W 400 N",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 259 0747",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LqSpsvzwtvUDeCJCBLETE_40.385169_-111.807516@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130012,
+    "wof:geomhash":"db33c49b1785335e8b87c1e678f4a034",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857463259
+        }
+    ],
+    "wof:id":857463259,
+    "wof:lastmodified":1464130012,
+    "wof:name":"Elite Air LLC",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.807516,
+    40.385169,
+    -111.807516,
+    40.385169
+],
+  "geometry": {"coordinates":[-111.80751600000001,40.385169],"type":"Point"}
+}

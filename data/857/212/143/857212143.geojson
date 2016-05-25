@@ -1,0 +1,71 @@
+{
+  "id": 857212143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.877858,41.321021,-111.877858,41.321021",
+    "geom:latitude":41.321021,
+    "geom:longitude":-111.877858,
+    "iso:country":"US",
+    "sg:address":"3438 N 2900 E",
+    "sg:city":"Eden",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 745 3424",
+    "sg:postcode":"84310",
+    "sg:province":"UT",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85824645,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KpECMNfbDgcDkie1Sk3xw_41.321021_-111.877858@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124441,
+    "wof:geomhash":"71351684428bddd815875614421cc637",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85824645,
+            "region_id":85688567,
+            "venue_id":857212143
+        }
+    ],
+    "wof:id":857212143,
+    "wof:lastmodified":1464124441,
+    "wof:name":"J R Clark Farms LLC",
+    "wof:parent_id":85824645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -111.877858,
+    41.321021,
+    -111.877858,
+    41.321021
+],
+  "geometry": {"coordinates":[-111.877858,41.321021],"type":"Point"}
+}

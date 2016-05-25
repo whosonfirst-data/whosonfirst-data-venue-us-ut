@@ -1,0 +1,68 @@
+{
+  "id": 857161829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.85214,40.715556,-111.85214,40.715556",
+    "geom:latitude":40.715556,
+    "geom:longitude":-111.85214,
+    "iso:country":"US",
+    "sg:address":"1369 Stratford Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 463 7138",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85851323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5etS5j0H1aDjKT8eZy4pc7_40.715556_-111.852140@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123400,
+    "wof:geomhash":"450432a58638918333b6eb804bce085e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85851323,
+            "region_id":85688567,
+            "venue_id":857161829
+        }
+    ],
+    "wof:id":857161829,
+    "wof:lastmodified":1464123400,
+    "wof:name":"Axis International Inc",
+    "wof:parent_id":85851323,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.85214,
+    40.715556,
+    -111.85214,
+    40.715556
+],
+  "geometry": {"coordinates":[-111.85214000000001,40.715556],"type":"Point"}
+}

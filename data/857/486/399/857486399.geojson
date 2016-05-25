@@ -1,0 +1,75 @@
+{
+  "id": 857486399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.547918,37.068747,-113.547918,37.068747",
+    "geom:latitude":37.068747,
+    "geom:longitude":-113.547918,
+    "iso:country":"US",
+    "sg:address":"3647 S 1700 E",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 628 0415",
+    "sg:postcode":"84790",
+    "sg:province":"UT",
+    "sg:tags":[
+        "steel",
+        "fabricator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ACcLt2xHNz4wUPLbdaPJh_37.068747_-113.547918@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130492,
+    "wof:geomhash":"c667e0690eedc06047ed84df738b6265",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857486399
+        }
+    ],
+    "wof:id":857486399,
+    "wof:lastmodified":1464130492,
+    "wof:name":"West Fab Inc",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "fabricator"
+    ]
+},
+  "bbox": [
+    -113.547918,
+    37.068747,
+    -113.547918,
+    37.068747
+],
+  "geometry": {"coordinates":[-113.547918,37.068747],"type":"Point"}
+}

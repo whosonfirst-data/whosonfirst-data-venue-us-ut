@@ -1,0 +1,71 @@
+{
+  "id": 857331107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.829793,41.729309,-111.829793,41.729309",
+    "geom:latitude":41.729309,
+    "geom:longitude":-111.829793,
+    "iso:country":"US",
+    "sg:address":"112 S 200 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 0210",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "farmer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ldwbGMjljm68KYxb8hj3g_41.729309_-111.829793@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127080,
+    "wof:geomhash":"025867464969a7b3cac22f78f7012371",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857331107
+        }
+    ],
+    "wof:id":857331107,
+    "wof:lastmodified":1464127080,
+    "wof:name":"Gardeners Chute Inc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farmer"
+    ]
+},
+  "bbox": [
+    -111.829793,
+    41.729309,
+    -111.829793,
+    41.729309
+],
+  "geometry": {"coordinates":[-111.829793,41.729309],"type":"Point"}
+}

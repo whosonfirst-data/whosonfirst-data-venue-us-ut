@@ -1,0 +1,77 @@
+{
+  "id": 857330193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.877916,40.760581,-111.877916,40.760581",
+    "geom:latitude":40.760581,
+    "geom:longitude":-111.877916,
+    "iso:country":"US",
+    "sg:address":"488 E 400 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 364 0676",
+    "sg:postcode":"84111",
+    "sg:province":"UT",
+    "sg:tags":[
+        "ore",
+        "silver",
+        "gold"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RCq03XvEvby8Xp4FaZc7T_40.760581_-111.877916@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127058,
+    "wof:geomhash":"0fa2c71d4b2380ffa6aba773a99be9ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871021,
+            "region_id":85688567,
+            "venue_id":857330193
+        }
+    ],
+    "wof:id":857330193,
+    "wof:lastmodified":1464127058,
+    "wof:name":"Mammoth Mining Co",
+    "wof:parent_id":85871021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ore",
+        "silver",
+        "gold"
+    ]
+},
+  "bbox": [
+    -111.877916,
+    40.760581,
+    -111.877916,
+    40.760581
+],
+  "geometry": {"coordinates":[-111.877916,40.760581],"type":"Point"}
+}

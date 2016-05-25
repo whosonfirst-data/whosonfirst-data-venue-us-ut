@@ -1,0 +1,69 @@
+{
+  "id": 857272209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.852473,40.594003,-111.852473,40.594003",
+    "geom:latitude":40.594003,
+    "geom:longitude":-111.852473,
+    "iso:country":"US",
+    "sg:address":"8670 S 1325 E",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 255 8865",
+    "sg:postcode":"84093",
+    "sg:province":"UT",
+    "sg:tags":[
+        "skilled"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85847325,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CdB8xrz2dymUrpcWcz3aF_40.594003_-111.852473@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125729,
+    "wof:geomhash":"58e6a3f2ce0ffeed844d5935bfaa78dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85847325,
+            "region_id":85688567,
+            "venue_id":857272209
+        }
+    ],
+    "wof:id":857272209,
+    "wof:lastmodified":1464125729,
+    "wof:name":"Beehive Homes of Sandy",
+    "wof:parent_id":85847325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled"
+    ]
+},
+  "bbox": [
+    -111.852473,
+    40.594003,
+    -111.852473,
+    40.594003
+],
+  "geometry": {"coordinates":[-111.852473,40.594003],"type":"Point"}
+}

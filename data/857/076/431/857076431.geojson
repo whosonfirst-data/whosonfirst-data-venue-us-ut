@@ -1,0 +1,69 @@
+{
+  "id": 857076431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.779408,41.281735,-111.779408,41.281735",
+    "geom:latitude":41.281735,
+    "geom:longitude":-111.779408,
+    "iso:country":"US",
+    "sg:address":"1366 N 7000 E",
+    "sg:city":"Huntsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 745 2366",
+    "sg:postcode":"84317",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85818631,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cfwQpSZ1tn0DyBsDlg5Rk_41.281735_-111.779408@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121320,
+    "wof:geomhash":"6889a5b44ff8f78904055ac93b207671",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85818631,
+            "region_id":85688567,
+            "venue_id":857076431
+        }
+    ],
+    "wof:id":857076431,
+    "wof:lastmodified":1464121320,
+    "wof:name":"Diamond Blade Tile",
+    "wof:parent_id":85818631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.779408,
+    41.281735,
+    -111.779408,
+    41.281735
+],
+  "geometry": {"coordinates":[-111.779408,41.281735],"type":"Point"}
+}

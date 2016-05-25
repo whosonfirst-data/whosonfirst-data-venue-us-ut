@@ -1,0 +1,76 @@
+{
+  "id": 857372261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.884951,40.679401,-111.884951,40.679401",
+    "geom:latitude":40.679401,
+    "geom:longitude":-111.884951,
+    "iso:country":"US",
+    "sg:address":"184 Gordon Ln",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 261 0600",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "sg:website":"www.cecoslc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85822329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1x5K4BSEdObDhtqiRjo7TE_40.679401_-111.884951@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127955,
+    "wof:geomhash":"11aee1aab77531913e4e3cc69f997ef9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85822329,
+            "region_id":85688567,
+            "venue_id":857372261
+        }
+    ],
+    "wof:id":857372261,
+    "wof:lastmodified":1464127955,
+    "wof:name":"Ceco Concrete Construction",
+    "wof:parent_id":85822329,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.884951,
+    40.679401,
+    -111.884951,
+    40.679401
+],
+  "geometry": {"coordinates":[-111.884951,40.679401],"type":"Point"}
+}

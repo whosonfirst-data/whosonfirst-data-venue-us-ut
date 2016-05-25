@@ -1,0 +1,75 @@
+{
+  "id": 857089439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.890826,40.60274,-111.890826,40.60274",
+    "geom:latitude":40.60274,
+    "geom:longitude":-111.890826,
+    "iso:country":"US",
+    "sg:address":"8160 S State St",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 566 5020",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728051,
+        102082877,
+        85834097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07mSmN3Zl3BJzDY63qWV5l_40.602740_-111.890826@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121656,
+    "wof:geomhash":"80cd000e4d267b20a53856061fc6b322",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85834097,
+            "region_id":85688567,
+            "venue_id":857089439
+        }
+    ],
+    "wof:id":857089439,
+    "wof:lastmodified":1464121656,
+    "wof:name":"Maynard Motors",
+    "wof:parent_id":85834097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -111.890826,
+    40.60274,
+    -111.890826,
+    40.60274
+],
+  "geometry": {"coordinates":[-111.890826,40.60274],"type":"Point"}
+}

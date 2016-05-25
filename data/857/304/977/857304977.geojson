@@ -1,0 +1,73 @@
+{
+  "id": 857304977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.09134,37.698522,-113.09134,37.698522",
+    "geom:latitude":37.698522,
+    "geom:longitude":-113.09134,
+    "iso:country":"US",
+    "sg:address":"2248 Kitty Hawk Dr",
+    "sg:city":"Cedar City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 586 1412",
+    "sg:postcode":"84720",
+    "sg:province":"UT",
+    "sg:tags":[
+        "station"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102531227,
+        85688567,
+        102191575,
+        85633793,
+        101727685,
+        102083551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4N8Mhs565w2FyTSTWj4O6p_37.698522_-113.091340@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126517,
+    "wof:geomhash":"ca84fd2be97439c6f0613916ca58db6a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531227,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083551,
+            "locality_id":101727685,
+            "region_id":85688567,
+            "venue_id":857304977
+        }
+    ],
+    "wof:id":857304977,
+    "wof:lastmodified":1464126517,
+    "wof:name":"Automated Flight Service Stn",
+    "wof:parent_id":102531227,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station"
+    ]
+},
+  "bbox": [
+    -113.09134,
+    37.698522,
+    -113.09134,
+    37.698522
+],
+  "geometry": {"coordinates":[-113.09134,37.698522],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857253799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.640649,40.22209,-111.640649,40.22209",
+    "geom:latitude":40.22209,
+    "geom:longitude":-111.640649,
+    "iso:country":"US",
+    "sg:address":"955 S State St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 374 8146",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3W9iMEJhk6GvEJOE9lGioN_40.222090_-111.640649@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125342,
+    "wof:geomhash":"8648603f0e308030c684f90b9678ec9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880069,
+            "region_id":85688567,
+            "venue_id":857253799
+        }
+    ],
+    "wof:id":857253799,
+    "wof:lastmodified":1464125342,
+    "wof:name":"Crazy Dave's",
+    "wof:parent_id":85880069,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -111.640649,
+    40.22209,
+    -111.640649,
+    40.22209
+],
+  "geometry": {"coordinates":[-111.640649,40.22209],"type":"Point"}
+}

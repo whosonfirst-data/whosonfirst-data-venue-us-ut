@@ -1,0 +1,68 @@
+{
+  "id": 857099855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.866769,40.587762,-111.866769,40.587762",
+    "geom:latitude":40.587762,
+    "geom:longitude":-111.866769,
+    "iso:country":"US",
+    "sg:address":"880 E 9400 S St",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 571 1811",
+    "sg:postcode":"84094",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85833023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0arQDEorHcg9koQfFxKa8f_40.587762_-111.866769@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121901,
+    "wof:geomhash":"806eba3550208ca4fa71823945ac3136",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85833023,
+            "region_id":85688567,
+            "venue_id":857099855
+        }
+    ],
+    "wof:id":857099855,
+    "wof:lastmodified":1464121901,
+    "wof:name":"Southfield Physical Therapy",
+    "wof:parent_id":85833023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.866769,
+    40.587762,
+    -111.866769,
+    40.587762
+],
+  "geometry": {"coordinates":[-111.86676900000001,40.587762],"type":"Point"}
+}

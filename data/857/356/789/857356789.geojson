@@ -1,0 +1,73 @@
+{
+  "id": 857356789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.911172,40.746879,-111.911172,40.746879",
+    "geom:latitude":40.746879,
+    "geom:longitude":-111.911172,
+    "iso:country":"US",
+    "sg:address":"1064 S 700 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 363 5550",
+    "sg:postcode":"84104",
+    "sg:province":"UT",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85820327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zPzne3eCamwFeSjVvkv1L_40.746879_-111.911172@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127630,
+    "wof:geomhash":"2fe2d9c90a4f3a4ee03ee903b85ecae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85820327,
+            "region_id":85688567,
+            "venue_id":857356789
+        }
+    ],
+    "wof:id":857356789,
+    "wof:lastmodified":1464127630,
+    "wof:name":"City Cab Company Inc",
+    "wof:parent_id":85820327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -111.911172,
+    40.746879,
+    -111.911172,
+    40.746879
+],
+  "geometry": {"coordinates":[-111.91117199999999,40.746879],"type":"Point"}
+}

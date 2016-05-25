@@ -1,0 +1,73 @@
+{
+  "id": 857220271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.798303,41.751994,-111.798303,41.751994",
+    "geom:latitude":41.751994,
+    "geom:longitude":-111.798303,
+    "iso:country":"US",
+    "sg:address":"1475 E 1140 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 0429",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "aircraft",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kXY0BaGcOZPQLVtGGkVko_41.751994_-111.798303@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124618,
+    "wof:geomhash":"d6d9f7d788bc5485cb06d67b49dbd9a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857220271
+        }
+    ],
+    "wof:id":857220271,
+    "wof:lastmodified":1464124618,
+    "wof:name":"Cache Valley Aviation LLC",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "school"
+    ]
+},
+  "bbox": [
+    -111.798303,
+    41.751994,
+    -111.798303,
+    41.751994
+],
+  "geometry": {"coordinates":[-111.798303,41.751994],"type":"Point"}
+}

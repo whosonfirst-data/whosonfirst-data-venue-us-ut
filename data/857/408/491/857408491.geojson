@@ -1,0 +1,73 @@
+{
+  "id": 857408491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.718599,40.044413,-111.718599,40.044413",
+    "geom:latitude":40.044413,
+    "geom:longitude":-111.718599,
+    "iso:country":"US",
+    "sg:address":"858 E 100 N",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 2709",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BvQPGwoi3oAkTUjzFHGhg_40.044413_-111.718599@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128804,
+    "wof:geomhash":"ad32a3c3a18c8bfc95a3c1029f061ec2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857408491
+        }
+    ],
+    "wof:id":857408491,
+    "wof:lastmodified":1464128804,
+    "wof:name":"Moore Sheet Metal",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.718599,
+    40.044413,
+    -111.718599,
+    40.044413
+],
+  "geometry": {"coordinates":[-111.718599,40.044413],"type":"Point"}
+}

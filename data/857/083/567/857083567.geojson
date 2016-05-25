@@ -1,0 +1,73 @@
+{
+  "id": 857083567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.823776,41.725674,-111.823776,41.725674",
+    "geom:latitude":41.725674,
+    "geom:longitude":-111.823776,
+    "iso:country":"US",
+    "sg:address":"464 E 300 S",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 750 0880",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DtjdlK6wJKGXABRAm3O9h_41.725674_-111.823776@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121502,
+    "wof:geomhash":"152d03bf9648811e48ad9b8abc59d997",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857083567
+        }
+    ],
+    "wof:id":857083567,
+    "wof:lastmodified":1464121502,
+    "wof:name":"Bridge Plumbing & Drain",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.823776,
+    41.725674,
+    -111.823776,
+    41.725674
+],
+  "geometry": {"coordinates":[-111.823776,41.725674],"type":"Point"}
+}

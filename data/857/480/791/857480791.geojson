@@ -1,0 +1,75 @@
+{
+  "id": 857480791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.662054,40.241807,-111.662054,40.241807",
+    "geom:latitude":40.241807,
+    "geom:longitude":-111.662054,
+    "iso:country":"US",
+    "sg:address":"546 N Freedom Blvd",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 374 1775",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UyMgwOifxzXQgrnERaGuZ_40.241807_-111.662054@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130384,
+    "wof:geomhash":"bed0d24bea47ef6298a7ad523b7c1e56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880121,
+            "region_id":85688567,
+            "venue_id":857480791
+        }
+    ],
+    "wof:id":857480791,
+    "wof:lastmodified":1464130384,
+    "wof:name":"All Tune & Lube",
+    "wof:parent_id":85880121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -111.662054,
+    40.241807,
+    -111.662054,
+    40.241807
+],
+  "geometry": {"coordinates":[-111.662054,40.241807],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857113603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.891038,40.686682,-111.891038,40.686682",
+    "geom:latitude":40.686682,
+    "geom:longitude":-111.891038,
+    "iso:country":"US",
+    "sg:address":"3955 S Main St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 265 2160",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85810147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sW4ME0h6LTZpk1Vf588HJ_40.686682_-111.891038@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122270,
+    "wof:geomhash":"50765fd3880aafd61c87023b53eb4758",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85810147,
+            "region_id":85688567,
+            "venue_id":857113603
+        }
+    ],
+    "wof:id":857113603,
+    "wof:lastmodified":1464122270,
+    "wof:name":"Akbar Pack",
+    "wof:parent_id":85810147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -111.891038,
+    40.686682,
+    -111.891038,
+    40.686682
+],
+  "geometry": {"coordinates":[-111.89103799999999,40.686682],"type":"Point"}
+}

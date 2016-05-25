@@ -1,0 +1,68 @@
+{
+  "id": 857420809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.808125,40.672318,-111.808125,40.672318",
+    "geom:latitude":40.672318,
+    "geom:longitude":-111.808125,
+    "iso:country":"US",
+    "sg:address":"4536 Wallace Ln",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 277 2436",
+    "sg:postcode":"84117",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728049,
+        102082877,
+        85807679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_657ElP1YX0UQfGrfq2NFW2_40.672318_-111.808125@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129122,
+    "wof:geomhash":"7ca4de6fce9471166381e7ae7fa93a2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728049,
+            "neighbourhood_id":85807679,
+            "region_id":85688567,
+            "venue_id":857420809
+        }
+    ],
+    "wof:id":857420809,
+    "wof:lastmodified":1464129122,
+    "wof:name":"MA Rental",
+    "wof:parent_id":85807679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.808125,
+    40.672318,
+    -111.808125,
+    40.672318
+],
+  "geometry": {"coordinates":[-111.808125,40.672318],"type":"Point"}
+}

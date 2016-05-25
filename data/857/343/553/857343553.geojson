@@ -1,0 +1,75 @@
+{
+  "id": 857343553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.742732,40.040911,-111.742732,40.040911",
+    "geom:latitude":40.040911,
+    "geom:longitude":-111.742732,
+    "iso:country":"US",
+    "sg:address":"214 S 650 W",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 5033",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IIRUOEHtVvgun7TgWApls_40.040911_-111.742732@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127345,
+    "wof:geomhash":"740bba0f4bb3d53ca1abae0ec1e2246d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857343553
+        }
+    ],
+    "wof:id":857343553,
+    "wof:lastmodified":1464127345,
+    "wof:name":"Yadon Floor Coverings",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.742732,
+    40.040911,
+    -111.742732,
+    40.040911
+],
+  "geometry": {"coordinates":[-111.742732,40.040911],"type":"Point"}
+}

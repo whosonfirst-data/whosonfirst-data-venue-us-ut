@@ -1,0 +1,71 @@
+{
+  "id": 857318151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.835349,41.717806,-111.835349,41.717806",
+    "geom:latitude":41.717806,
+    "geom:longitude":-111.835349,
+    "iso:country":"US",
+    "sg:address":"867 S Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 792 3215",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YbnyOr2vsBex17OfbZiVf_41.717806_-111.835349@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126815,
+    "wof:geomhash":"f1d58d192c14e4180fc41748e1a1affc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857318151
+        }
+    ],
+    "wof:id":857318151,
+    "wof:lastmodified":1464126815,
+    "wof:name":"Superwash",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -111.835349,
+    41.717806,
+    -111.835349,
+    41.717806
+],
+  "geometry": {"coordinates":[-111.83534899999999,41.717806],"type":"Point"}
+}

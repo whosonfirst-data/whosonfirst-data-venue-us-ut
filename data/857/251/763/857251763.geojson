@@ -1,0 +1,68 @@
+{
+  "id": 857251763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.62361,37.118309,-113.62361,37.118309",
+    "geom:latitude":37.118309,
+    "geom:longitude":-113.62361,
+    "iso:country":"US",
+    "sg:address":"730 N Dixie Dr",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 628 6532",
+    "sg:postcode":"84770",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45pTdw0jD4UQylONAHaM1f_37.118309_-113.623610@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125287,
+    "wof:geomhash":"d7d1f7bec2938aaee9dd9a2a5d3a5257",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857251763
+        }
+    ],
+    "wof:id":857251763,
+    "wof:lastmodified":1464125287,
+    "wof:name":"Dixie Veterinary Clinic Inc",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.62361,
+    37.118309,
+    -113.62361,
+    37.118309
+],
+  "geometry": {"coordinates":[-113.62361,37.118309],"type":"Point"}
+}

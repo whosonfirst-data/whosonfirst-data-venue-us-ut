@@ -1,0 +1,69 @@
+{
+  "id": 857314221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.851318,40.596809,-111.851318,40.596809",
+    "geom:latitude":40.596809,
+    "geom:longitude":-111.851318,
+    "iso:country":"US",
+    "sg:address":"8501 S 1380 E",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 562 5119",
+    "sg:postcode":"84093",
+    "sg:province":"UT",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85847325,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yG09EZKlJ5dyVYCtYNSlm_40.596809_-111.851318@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126708,
+    "wof:geomhash":"74b47f54ef489eb6739637a9882345f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85847325,
+            "region_id":85688567,
+            "venue_id":857314221
+        }
+    ],
+    "wof:id":857314221,
+    "wof:lastmodified":1464126708,
+    "wof:name":"Aaron Auto Sale",
+    "wof:parent_id":85847325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -111.851318,
+    40.596809,
+    -111.851318,
+    40.596809
+],
+  "geometry": {"coordinates":[-111.85131800000001,40.596809],"type":"Point"}
+}

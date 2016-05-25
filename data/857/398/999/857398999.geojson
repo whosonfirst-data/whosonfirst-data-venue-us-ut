@@ -1,0 +1,78 @@
+{
+  "id": 857398999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.90882,40.67149,-111.90882,40.67149",
+    "geom:latitude":40.67149,
+    "geom:longitude":-111.90882,
+    "iso:country":"US",
+    "sg:address":"4536 S Bridgeside Way",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 268 2830",
+    "sg:postcode":"84123",
+    "sg:province":"UT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85851609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ydfiZqonXqSrQF6ihDZpx_40.671490_-111.908820@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128605,
+    "wof:geomhash":"4f86b582c6cabac5b66f48645cf9fe00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85851609,
+            "region_id":85688567,
+            "venue_id":857398999
+        }
+    ],
+    "wof:id":857398999,
+    "wof:lastmodified":1464128605,
+    "wof:name":"Bridgeside Landing Apartments",
+    "wof:parent_id":85851609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -111.90882,
+    40.67149,
+    -111.90882,
+    40.67149
+],
+  "geometry": {"coordinates":[-111.90882000000001,40.67149],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857168671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.610534,40.178525,-111.610534,40.178525",
+    "geom:latitude":40.178525,
+    "geom:longitude":-111.610534,
+    "iso:country":"US",
+    "sg:address":"610 N Main St",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 489 5621",
+    "sg:postcode":"84663",
+    "sg:province":"UT",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727829,
+        102083567,
+        85880117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pR9s767HCDry7IkWFY5sa_40.178525_-111.610534@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123552,
+    "wof:geomhash":"1ecc0addd3ecf755e84145d72f9faa59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727829,
+            "neighbourhood_id":85880117,
+            "region_id":85688567,
+            "venue_id":857168671
+        }
+    ],
+    "wof:id":857168671,
+    "wof:lastmodified":1464123552,
+    "wof:name":"Johnson Tire Svc",
+    "wof:parent_id":85880117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -111.610534,
+    40.178525,
+    -111.610534,
+    40.178525
+],
+  "geometry": {"coordinates":[-111.610534,40.178525],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857436095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.925175,41.046184,-111.925175,41.046184",
+    "geom:latitude":41.046184,
+    "geom:longitude":-111.925175,
+    "iso:country":"US",
+    "sg:address":"667 Liston Cir",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 544 0617",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "residential",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XM7NL2Y5328GJ9hpgjMxS_41.046184_-111.925175@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129490,
+    "wof:geomhash":"a4c63ddbc4f6e2eecec6a1caa494992d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857436095
+        }
+    ],
+    "wof:id":857436095,
+    "wof:lastmodified":1464129490,
+    "wof:name":"R E L Construction",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -111.925175,
+    41.046184,
+    -111.925175,
+    41.046184
+],
+  "geometry": {"coordinates":[-111.925175,41.046184],"type":"Point"}
+}

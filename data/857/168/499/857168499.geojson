@@ -1,0 +1,73 @@
+{
+  "id": 857168499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.707921,40.333828,-111.707921,40.333828",
+    "geom:latitude":40.333828,
+    "geom:longitude":-111.707921,
+    "iso:country":"US",
+    "sg:address":"331 E 200 S",
+    "sg:city":"Lindon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 528 5342",
+    "sg:postcode":"84042",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wGZqgcJtSWXq1hxLwUG4P_40.333828_-111.707921@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123546,
+    "wof:geomhash":"f3aad5350fcc6487195d74acc2a42255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":857168499
+        }
+    ],
+    "wof:id":857168499,
+    "wof:lastmodified":1464123546,
+    "wof:name":"B & H Stone Supply",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.707921,
+    40.333828,
+    -111.707921,
+    40.333828
+],
+  "geometry": {"coordinates":[-111.707921,40.333828],"type":"Point"}
+}

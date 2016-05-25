@@ -1,0 +1,75 @@
+{
+  "id": 857478419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.360988,37.237158,-113.360988,37.237158",
+    "geom:latitude":37.237158,
+    "geom:longitude":-113.360988,
+    "iso:country":"US",
+    "sg:address":"60 E Cherry Ln",
+    "sg:city":"Leeds",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 879 2226",
+    "sg:postcode":"84737",
+    "sg:province":"UT",
+    "sg:tags":[
+        "tours",
+        "promoter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727631,
+        102082879,
+        85824093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UQP4wH8cV0SFIPC4DhHuO_37.237158_-113.360988@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130343,
+    "wof:geomhash":"21e74f4ed73ae2596721fd040d1a62a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727631,
+            "neighbourhood_id":85824093,
+            "region_id":85688567,
+            "venue_id":857478419
+        }
+    ],
+    "wof:id":857478419,
+    "wof:lastmodified":1464130343,
+    "wof:name":"Tour Buses",
+    "wof:parent_id":85824093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tours",
+        "promoter"
+    ]
+},
+  "bbox": [
+    -113.360988,
+    37.237158,
+    -113.360988,
+    37.237158
+],
+  "geometry": {"coordinates":[-113.36098800000001,37.237158],"type":"Point"}
+}

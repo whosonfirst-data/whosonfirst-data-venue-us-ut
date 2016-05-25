@@ -1,0 +1,71 @@
+{
+  "id": 857121855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.798051,40.697072,-111.798051,40.697072",
+    "geom:latitude":40.697072,
+    "geom:longitude":-111.798051,
+    "iso:country":"US",
+    "sg:address":"3443 S el Serrito Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 463 9071",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728257,
+        102082877,
+        85854869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SJ4Ekb7hZXP1IpZ6VpfAD_40.697072_-111.798051@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122492,
+    "wof:geomhash":"0c25b47d48fe1b9344bb774dcd2b9912",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85854869,
+            "region_id":85688567,
+            "venue_id":857121855
+        }
+    ],
+    "wof:id":857121855,
+    "wof:lastmodified":1464122492,
+    "wof:name":"Cjm Intl Grp",
+    "wof:parent_id":85854869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -111.798051,
+    40.697072,
+    -111.798051,
+    40.697072
+],
+  "geometry": {"coordinates":[-111.798051,40.697072],"type":"Point"}
+}

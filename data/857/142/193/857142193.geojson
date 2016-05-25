@@ -1,0 +1,73 @@
+{
+  "id": 857142193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.568489,37.10819,-113.568489,37.10819",
+    "geom:latitude":37.10819,
+    "geom:longitude":-113.568489,
+    "iso:country":"US",
+    "sg:address":"799 E Tabernacle St",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 674 4446",
+    "sg:postcode":"84770",
+    "sg:province":"UT",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ideZWTa9AatQg0ETlQAQf_37.108190_-113.568489@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122946,
+    "wof:geomhash":"ac9ce7d2019e73ae81a07de09cdb4222",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857142193
+        }
+    ],
+    "wof:id":857142193,
+    "wof:lastmodified":1464122946,
+    "wof:name":"St George Dental Lab",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -113.568489,
+    37.10819,
+    -113.568489,
+    37.10819
+],
+  "geometry": {"coordinates":[-113.568489,37.10819],"type":"Point"}
+}

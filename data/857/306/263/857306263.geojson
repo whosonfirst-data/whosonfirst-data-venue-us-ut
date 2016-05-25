@@ -1,0 +1,73 @@
+{
+  "id": 857306263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.916779,41.041919,-111.916779,41.041919",
+    "geom:latitude":41.041919,
+    "geom:longitude":-111.916779,
+    "iso:country":"US",
+    "sg:address":"380 N 1000 E",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 444 1079",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "management",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pnRgf1elEWMzZQH1FHFAT_41.041919_-111.916779@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126544,
+    "wof:geomhash":"9f52a3cd0532a2953671ad3015cd5d23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857306263
+        }
+    ],
+    "wof:id":857306263,
+    "wof:lastmodified":1464126544,
+    "wof:name":"R & P Properties LLC",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -111.916779,
+    41.041919,
+    -111.916779,
+    41.041919
+],
+  "geometry": {"coordinates":[-111.91677900000001,41.041919],"type":"Point"}
+}

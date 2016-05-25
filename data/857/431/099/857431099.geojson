@@ -1,0 +1,73 @@
+{
+  "id": 857431099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.55987,40.138005,-111.55987,40.138005",
+    "geom:latitude":40.138005,
+    "geom:longitude":-111.55987,
+    "iso:country":"US",
+    "sg:address":"883 N 1600 E",
+    "sg:city":"Mapleton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 489 5682",
+    "sg:postcode":"84664",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rhlQYoErXfaRM0a4Zx7oY_40.138005_-111.559870@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129368,
+    "wof:geomhash":"2c3689246427f8fb7b91a38d0f00ba3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857431099
+        }
+    ],
+    "wof:id":857431099,
+    "wof:lastmodified":1464129368,
+    "wof:name":"TNT Electric Inc",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.55987,
+    40.138005,
+    -111.55987,
+    40.138005
+],
+  "geometry": {"coordinates":[-111.55987,40.138005],"type":"Point"}
+}

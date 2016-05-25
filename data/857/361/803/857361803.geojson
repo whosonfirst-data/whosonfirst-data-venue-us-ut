@@ -1,0 +1,73 @@
+{
+  "id": 857361803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.933371,41.638852,-111.933371,41.638852",
+    "geom:latitude":41.638852,
+    "geom:longitude":-111.933371,
+    "iso:country":"US",
+    "sg:address":"35 E Main St",
+    "sg:city":"Wellsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 245 0780",
+    "sg:postcode":"84339",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727555,
+        102082881,
+        85823067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nTCbqrJ8hpQOoaDRUs17q_41.638852_-111.933371@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127737,
+    "wof:geomhash":"35a515f6a2fa090b2500fee341aa5639",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727555,
+            "neighbourhood_id":85823067,
+            "region_id":85688567,
+            "venue_id":857361803
+        }
+    ],
+    "wof:id":857361803,
+    "wof:lastmodified":1464127737,
+    "wof:name":"Horizon Construction & Dev",
+    "wof:parent_id":85823067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.933371,
+    41.638852,
+    -111.933371,
+    41.638852
+],
+  "geometry": {"coordinates":[-111.93337099999999,41.638852],"type":"Point"}
+}

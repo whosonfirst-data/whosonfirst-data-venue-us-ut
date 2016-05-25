@@ -1,0 +1,75 @@
+{
+  "id": 857204989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.851292,40.701216,-111.851292,40.701216",
+    "geom:latitude":40.701216,
+    "geom:longitude":-111.851292,
+    "iso:country":"US",
+    "sg:address":"1305 E 3205 South St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 484 0240",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85832079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mg6qREy6t2FnrwEwdcbAI_40.701216_-111.851292@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124294,
+    "wof:geomhash":"ea6bb801ee65c2bc6649531e440df234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85832079,
+            "region_id":85688567,
+            "venue_id":857204989
+        }
+    ],
+    "wof:id":857204989,
+    "wof:lastmodified":1464124294,
+    "wof:name":"Red Dot Wireless Brickyard",
+    "wof:parent_id":85832079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -111.851292,
+    40.701216,
+    -111.851292,
+    40.701216
+],
+  "geometry": {"coordinates":[-111.851292,40.701216],"type":"Point"}
+}

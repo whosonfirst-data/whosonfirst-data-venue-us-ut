@@ -1,0 +1,74 @@
+{
+  "id": 857324755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.893648,40.580704,-111.893648,40.580704",
+    "geom:latitude":40.580704,
+    "geom:longitude":-111.893648,
+    "iso:country":"US",
+    "sg:address":"110 W 9400 S",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 255 1841",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "airport"
+    ],
+    "sg:website":"www.canyontransport.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85835551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QiXmIF9Dt7LdPNn9tAX72_40.580704_-111.893648@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126945,
+    "wof:geomhash":"ddff5df2a1d014946e1ff3aca55db8e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85835551,
+            "region_id":85688567,
+            "venue_id":857324755
+        }
+    ],
+    "wof:id":857324755,
+    "wof:lastmodified":1464126945,
+    "wof:name":"CANYON Transportation Inc",
+    "wof:parent_id":85835551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -111.893648,
+    40.580704,
+    -111.893648,
+    40.580704
+],
+  "geometry": {"coordinates":[-111.893648,40.580704],"type":"Point"}
+}

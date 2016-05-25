@@ -1,0 +1,75 @@
+{
+  "id": 857388317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.904037,40.670354,-111.904037,40.670354",
+    "geom:latitude":40.670354,
+    "geom:longitude":-111.904037,
+    "iso:country":"US",
+    "sg:address":"4615 Cherry St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 262 4542",
+    "sg:postcode":"84123",
+    "sg:province":"UT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85851609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3L1oUoShxSFLWR9aeyvi2d_40.670354_-111.904037@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128389,
+    "wof:geomhash":"9c6c889d35991623ec6218df96ae9b68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85851609,
+            "region_id":85688567,
+            "venue_id":857388317
+        }
+    ],
+    "wof:id":857388317,
+    "wof:lastmodified":1464128389,
+    "wof:name":"R Cars & Trucks Of Salt Lake",
+    "wof:parent_id":85851609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -111.904037,
+    40.670354,
+    -111.904037,
+    40.670354
+],
+  "geometry": {"coordinates":[-111.904037,40.670354],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857422733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.826,40.740207,-111.826,40.740207",
+    "geom:latitude":40.740207,
+    "geom:longitude":-111.826,
+    "iso:country":"US",
+    "sg:address":"1356 Foothill Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 582 1919",
+    "sg:postcode":"84108",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AwTunchuYg04nm0GlwHE7_40.740207_-111.826000@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129163,
+    "wof:geomhash":"852dfe0c4b359ae9d4aa27841c82a43b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871023,
+            "region_id":85688567,
+            "venue_id":857422733
+        }
+    ],
+    "wof:id":857422733,
+    "wof:lastmodified":1464129163,
+    "wof:name":"In Soles",
+    "wof:parent_id":85871023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.826,
+    40.740207,
+    -111.826,
+    40.740207
+],
+  "geometry": {"coordinates":[-111.82599999999999,40.740207],"type":"Point"}
+}

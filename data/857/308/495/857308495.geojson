@@ -1,0 +1,71 @@
+{
+  "id": 857308495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.624991,40.328049,-111.624991,40.328049",
+    "geom:latitude":40.328049,
+    "geom:longitude":-111.624991,
+    "iso:country":"US",
+    "sg:address":"1428 Spring Dell Dr",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 8818",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "company",
+        "holding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85857673,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SeDjNw071Ij2f5Iw3bN0v_40.328049_-111.624991@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126587,
+    "wof:geomhash":"254b164fa9709bf9cb8e8d7baf9f9696",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85857673,
+            "region_id":85688567,
+            "venue_id":857308495
+        }
+    ],
+    "wof:id":857308495,
+    "wof:lastmodified":1464126587,
+    "wof:name":"Intellectual Holdings Inc",
+    "wof:parent_id":85857673,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "holding"
+    ]
+},
+  "bbox": [
+    -111.624991,
+    40.328049,
+    -111.624991,
+    40.328049
+],
+  "geometry": {"coordinates":[-111.62499099999999,40.328049],"type":"Point"}
+}

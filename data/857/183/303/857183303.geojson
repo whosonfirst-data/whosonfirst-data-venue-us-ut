@@ -1,0 +1,68 @@
+{
+  "id": 857183303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.879504,40.884355,-111.879504,40.884355",
+    "geom:latitude":40.884355,
+    "geom:longitude":-111.879504,
+    "iso:country":"US",
+    "sg:address":"63 E 500 S",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 298 9506",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727881,
+        102083563,
+        85807249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OSrtg69dVXYDxp5IKyp21_40.884355_-111.879504@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123863,
+    "wof:geomhash":"6dc7243a33b27eeae1efa69d7bbbea11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727881,
+            "neighbourhood_id":85807249,
+            "region_id":85688567,
+            "venue_id":857183303
+        }
+    ],
+    "wof:id":857183303,
+    "wof:lastmodified":1464123863,
+    "wof:name":"Salt City Pizza Co",
+    "wof:parent_id":85807249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.879504,
+    40.884355,
+    -111.879504,
+    40.884355
+],
+  "geometry": {"coordinates":[-111.879504,40.884355],"type":"Point"}
+}

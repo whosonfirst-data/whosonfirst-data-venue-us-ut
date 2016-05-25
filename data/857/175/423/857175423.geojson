@@ -1,0 +1,73 @@
+{
+  "id": 857175423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.896804,40.517363,-111.896804,40.517363",
+    "geom:latitude":40.517363,
+    "geom:longitude":-111.896804,
+    "iso:country":"US",
+    "sg:address":"243 Golden Harvest Rd",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 619 4866",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727849,
+        102082877,
+        85823005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kBHdqI4CQOKCkxJ1q1mqb_40.517363_-111.896804@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123701,
+    "wof:geomhash":"c94d0c6c5646b3dca64ed54901a925b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85823005,
+            "region_id":85688567,
+            "venue_id":857175423
+        }
+    ],
+    "wof:id":857175423,
+    "wof:lastmodified":1464123701,
+    "wof:name":"Thor Construction LLC",
+    "wof:parent_id":85823005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -111.896804,
+    40.517363,
+    -111.896804,
+    40.517363
+],
+  "geometry": {"coordinates":[-111.896804,40.517363],"type":"Point"}
+}

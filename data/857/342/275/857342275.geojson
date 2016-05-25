@@ -1,0 +1,73 @@
+{
+  "id": 857342275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.982508,41.189487,-111.982508,41.189487",
+    "geom:latitude":41.189487,
+    "geom:longitude":-111.982508,
+    "iso:country":"US",
+    "sg:address":"4001 Riverdale Rd",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 392 8852",
+    "sg:postcode":"84405",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728021,
+        102083539,
+        85810865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02Lty8N1ky81B7n2fEHoAw_41.189487_-111.982508@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127320,
+    "wof:geomhash":"0bf9a4b6510de5c58039eecaacd7e5c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728021,
+            "neighbourhood_id":85810865,
+            "region_id":85688567,
+            "venue_id":857342275
+        }
+    ],
+    "wof:id":857342275,
+    "wof:lastmodified":1464127320,
+    "wof:name":"Hair and Company",
+    "wof:parent_id":85810865,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.982508,
+    41.189487,
+    -111.982508,
+    41.189487
+],
+  "geometry": {"coordinates":[-111.982508,41.189487],"type":"Point"}
+}

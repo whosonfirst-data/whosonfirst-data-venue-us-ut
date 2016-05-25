@@ -1,0 +1,73 @@
+{
+  "id": 857262959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.391356,37.208197,-113.391356,37.208197",
+    "geom:latitude":37.208197,
+    "geom:longitude":-113.391356,
+    "iso:country":"US",
+    "sg:address":"101 Overlook Ln",
+    "sg:city":"Hurricane",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 635 5800",
+    "sg:postcode":"84746",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727631,
+        102082879,
+        85824093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qwohEJtUwaSrneanrqb3w_37.208197_-113.391356@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125553,
+    "wof:geomhash":"52e00b2ca30f241e949c8a16e6bcc5ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727631,
+            "neighbourhood_id":85824093,
+            "region_id":85688567,
+            "venue_id":857262959
+        }
+    ],
+    "wof:id":857262959,
+    "wof:lastmodified":1464125553,
+    "wof:name":"Bar G Chuck Wagon",
+    "wof:parent_id":85824093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -113.391356,
+    37.208197,
+    -113.391356,
+    37.208197
+],
+  "geometry": {"coordinates":[-113.391356,37.208197],"type":"Point"}
+}

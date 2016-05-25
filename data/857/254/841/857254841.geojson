@@ -1,0 +1,73 @@
+{
+  "id": 857254841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.08058,40.697791,-112.08058,40.697791",
+    "geom:latitude":40.697791,
+    "geom:longitude":-112.08058,
+    "iso:country":"US",
+    "sg:address":"3421 S 7930 W",
+    "sg:city":"Magna",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 252 0109",
+    "sg:postcode":"84044",
+    "sg:province":"UT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728255,
+        102082877,
+        85813337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KmDOB6AQalPwKNyEtdCx3_40.697791_-112.080580@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125373,
+    "wof:geomhash":"ac5c9b76b88a382b542bce33e14417d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728255,
+            "neighbourhood_id":85813337,
+            "region_id":85688567,
+            "venue_id":857254841
+        }
+    ],
+    "wof:id":857254841,
+    "wof:lastmodified":1464125373,
+    "wof:name":"Johnsons Cleaning Service",
+    "wof:parent_id":85813337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -112.08058,
+    40.697791,
+    -112.08058,
+    40.697791
+],
+  "geometry": {"coordinates":[-112.08058,40.697791],"type":"Point"}
+}

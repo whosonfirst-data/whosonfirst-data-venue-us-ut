@@ -1,0 +1,71 @@
+{
+  "id": 857443951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.717679,40.040822,-111.717679,40.040822",
+    "geom:latitude":40.040822,
+    "geom:longitude":-111.717679,
+    "iso:country":"US",
+    "sg:address":"252 S 900 E",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 3885",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OYSQbhNPY3Uiv93nTPMMR_40.040822_-111.717679@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129638,
+    "wof:geomhash":"96d2d5568a3a834d49c4ab51a18aecf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857443951
+        }
+    ],
+    "wof:id":857443951,
+    "wof:lastmodified":1464129638,
+    "wof:name":"Mountainview Apartments",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -111.717679,
+    40.040822,
+    -111.717679,
+    40.040822
+],
+  "geometry": {"coordinates":[-111.717679,40.040822],"type":"Point"}
+}

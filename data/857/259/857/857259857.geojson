@@ -1,0 +1,71 @@
+{
+  "id": 857259857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.842779,41.732019,-111.842779,41.732019",
+    "geom:latitude":41.732019,
+    "geom:longitude":-111.842779,
+    "iso:country":"US",
+    "sg:address":"73 N 300 W",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 7039",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BjiBYvPpPrsvvyZ9rNcWd_41.732019_-111.842779@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125487,
+    "wof:geomhash":"e35c53ab217f72f6b65a64d99b266b2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857259857
+        }
+    ],
+    "wof:id":857259857,
+    "wof:lastmodified":1464125487,
+    "wof:name":"JC Photography",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -111.842779,
+    41.732019,
+    -111.842779,
+    41.732019
+],
+  "geometry": {"coordinates":[-111.84277899999999,41.732019],"type":"Point"}
+}

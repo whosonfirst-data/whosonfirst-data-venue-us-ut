@@ -1,0 +1,75 @@
+{
+  "id": 857334711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.959196,40.667698,-111.959196,40.667698",
+    "geom:latitude":40.667698,
+    "geom:longitude":-111.959196,
+    "iso:country":"US",
+    "sg:address":"2780 W 4700 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 965 3946",
+    "sg:postcode":"84118",
+    "sg:province":"UT",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85834353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AHubb5jYr1fi0njZeJW6y_40.667698_-111.959196@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127161,
+    "wof:geomhash":"01a170965a137566981fabe959161e96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85834353,
+            "region_id":85688567,
+            "venue_id":857334711
+        }
+    ],
+    "wof:id":857334711,
+    "wof:lastmodified":1464127161,
+    "wof:name":"Drivers License Div",
+    "wof:parent_id":85834353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -111.959196,
+    40.667698,
+    -111.959196,
+    40.667698
+],
+  "geometry": {"coordinates":[-111.95919600000001,40.667698],"type":"Point"}
+}

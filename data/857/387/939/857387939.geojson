@@ -1,0 +1,70 @@
+{
+  "id": 857387939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.793648,40.376831,-111.793648,40.376831",
+    "geom:latitude":40.376831,
+    "geom:longitude":-111.793648,
+    "iso:country":"US",
+    "sg:address":"175 E Main St",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 9900",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "commercial"
+    ],
+    "sg:website":"www.cbutah.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lLPXD7fPbOadcC8ryJ5Mv_40.376831_-111.793648@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128378,
+    "wof:geomhash":"0782049f23bb2e9dbc399d9cc9c95972",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857387939
+        }
+    ],
+    "wof:id":857387939,
+    "wof:lastmodified":1464128378,
+    "wof:name":"Central Bank",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial"
+    ]
+},
+  "bbox": [
+    -111.793648,
+    40.376831,
+    -111.793648,
+    40.376831
+],
+  "geometry": {"coordinates":[-111.793648,40.376831],"type":"Point"}
+}

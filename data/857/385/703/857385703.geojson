@@ -1,0 +1,78 @@
+{
+  "id": 857385703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.65861,40.23168,-111.65861,40.23168",
+    "geom:latitude":40.23168,
+    "geom:longitude":-111.65861,
+    "iso:country":"US",
+    "sg:address":"151 S University Ave",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 851 7095",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "county",
+        "program",
+        "health"
+    ],
+    "sg:website":"www.utahcountyonline.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ocRlRrCml5nsjHGA0qrRr_40.231680_-111.658610@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128312,
+    "wof:geomhash":"610bd96535ddce0e09301b05cd657243",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880065,
+            "region_id":85688567,
+            "venue_id":857385703
+        }
+    ],
+    "wof:id":857385703,
+    "wof:lastmodified":1464128312,
+    "wof:name":"Utah County Health Promotion",
+    "wof:parent_id":85880065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "program",
+        "health"
+    ]
+},
+  "bbox": [
+    -111.65861,
+    40.23168,
+    -111.65861,
+    40.23168
+],
+  "geometry": {"coordinates":[-111.65861,40.23168],"type":"Point"}
+}

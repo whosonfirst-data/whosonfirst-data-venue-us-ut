@@ -1,0 +1,68 @@
+{
+  "id": 857234631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.083963,41.070913,-112.083963,41.070913",
+    "geom:latitude":41.070913,
+    "geom:longitude":-112.083963,
+    "iso:country":"US",
+    "sg:address":"3178 S 3000 W",
+    "sg:city":"Syracuse",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 825 6236",
+    "sg:postcode":"84075",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727889,
+        102083563,
+        85804563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yOK95MWtjfnAPlgYMWMlf_41.070913_-112.083963@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124895,
+    "wof:geomhash":"015dc9df45c8a98a021cfc1abc9a444e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727889,
+            "neighbourhood_id":85804563,
+            "region_id":85688567,
+            "venue_id":857234631
+        }
+    ],
+    "wof:id":857234631,
+    "wof:lastmodified":1464124895,
+    "wof:name":"Black Island Farms",
+    "wof:parent_id":85804563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.083963,
+    41.070913,
+    -112.083963,
+    41.070913
+],
+  "geometry": {"coordinates":[-112.083963,41.070913],"type":"Point"}
+}

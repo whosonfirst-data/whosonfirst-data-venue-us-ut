@@ -1,0 +1,68 @@
+{
+  "id": 857264713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.938935,40.675653,-111.938935,40.675653",
+    "geom:latitude":40.675653,
+    "geom:longitude":-111.938935,
+    "iso:country":"US",
+    "sg:address":"4370 S Redwood Rd",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Podiatrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 967 3338",
+    "sg:postcode":"84123",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728059,
+        102082877,
+        85806869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1W2sdhJGkq8wLAll2IVoxA_40.675653_-111.938935@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125588,
+    "wof:geomhash":"528c2ab1ff06b6a797365effd196990d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728059,
+            "neighbourhood_id":85806869,
+            "region_id":85688567,
+            "venue_id":857264713
+        }
+    ],
+    "wof:id":857264713,
+    "wof:lastmodified":1464125588,
+    "wof:name":"Ronald H Brown DPM",
+    "wof:parent_id":85806869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.938935,
+    40.675653,
+    -111.938935,
+    40.675653
+],
+  "geometry": {"coordinates":[-111.938935,40.675653],"type":"Point"}
+}

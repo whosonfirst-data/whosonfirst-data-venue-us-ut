@@ -1,0 +1,87 @@
+{
+  "id": 857219789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.850168,40.759668,-111.850168,40.759668",
+    "geom:latitude":40.759668,
+    "geom:longitude":-111.850168,
+    "iso:country":"US",
+    "sg:address":"451 S 1400 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 581 5445",
+    "sg:postcode":"84112",
+    "sg:province":"UT",
+    "sg:tags":[
+        "athletic",
+        "fields",
+        "stadium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85853739,
+        85871031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cN55aKr9snvZGpKG96iV2_40.759668_-111.850168@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124610,
+    "wof:geomhash":"dd3fe797642730472e99be454a03ca10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85853739,
+            "region_id":85688567,
+            "venue_id":857219789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871031,
+            "region_id":85688567,
+            "venue_id":857219789
+        }
+    ],
+    "wof:id":857219789,
+    "wof:lastmodified":1464124610,
+    "wof:name":"Rlce-Eccles Stadium & Tower",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "athletic",
+        "fields",
+        "stadium"
+    ]
+},
+  "bbox": [
+    -111.850168,
+    40.759668,
+    -111.850168,
+    40.759668
+],
+  "geometry": {"coordinates":[-111.850168,40.759668],"type":"Point"}
+}

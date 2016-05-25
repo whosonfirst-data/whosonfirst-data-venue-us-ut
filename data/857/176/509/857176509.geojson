@@ -1,0 +1,73 @@
+{
+  "id": 857176509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.083905,41.09456,-112.083905,41.09456",
+    "geom:latitude":41.09456,
+    "geom:longitude":-112.083905,
+    "iso:country":"US",
+    "sg:address":"3014 Tryall Dr",
+    "sg:city":"Syracuse",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 444 7326",
+    "sg:postcode":"84075",
+    "sg:province":"UT",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727889,
+        102083563,
+        85804563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Z7cey8gbrxnIVN5XOIQJH_41.094560_-112.083905@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123724,
+    "wof:geomhash":"94c1905d3d12412fde88fc41b9127d45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727889,
+            "neighbourhood_id":85804563,
+            "region_id":85688567,
+            "venue_id":857176509
+        }
+    ],
+    "wof:id":857176509,
+    "wof:lastmodified":1464123724,
+    "wof:name":"Ivey Engineering & Const Svc",
+    "wof:parent_id":85804563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -112.083905,
+    41.09456,
+    -112.083905,
+    41.09456
+],
+  "geometry": {"coordinates":[-112.083905,41.09456],"type":"Point"}
+}

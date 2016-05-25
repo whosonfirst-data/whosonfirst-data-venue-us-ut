@@ -1,0 +1,75 @@
+{
+  "id": 857350195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.804421,41.706715,-111.804421,41.706715",
+    "geom:latitude":41.706715,
+    "geom:longitude":-111.804421,
+    "iso:country":"US",
+    "sg:address":"63 N Satsuma Dr",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 734 2000",
+    "sg:postcode":"84332",
+    "sg:province":"UT",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LXLcBglUuUu9bxCC2mqNv_41.706715_-111.804421@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127489,
+    "wof:geomhash":"7da7b2c034b53aecf800a175a8e2671b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857350195
+        }
+    ],
+    "wof:id":857350195,
+    "wof:lastmodified":1464127489,
+    "wof:name":"Chem Dry Of Northern Utah",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -111.804421,
+    41.706715,
+    -111.804421,
+    41.706715
+],
+  "geometry": {"coordinates":[-111.804421,41.706715],"type":"Point"}
+}

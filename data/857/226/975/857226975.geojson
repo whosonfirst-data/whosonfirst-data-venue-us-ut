@@ -1,0 +1,74 @@
+{
+  "id": 857226975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.733926,40.037685,-111.733926,40.037685",
+    "geom:latitude":40.037685,
+    "geom:longitude":-111.733926,
+    "iso:country":"US",
+    "sg:address":"438 S 100 W",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 2556",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "sg:website":"www.carquest.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xbXc2gAiSnMS6pBVzkTPk_40.037685_-111.733926@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124749,
+    "wof:geomhash":"37ad1312e81cb5fb704d64c908965ccc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857226975
+        }
+    ],
+    "wof:id":857226975,
+    "wof:lastmodified":1464124749,
+    "wof:name":"Carquest Auto Parts",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -111.733926,
+    40.037685,
+    -111.733926,
+    40.037685
+],
+  "geometry": {"coordinates":[-111.733926,40.037685],"type":"Point"}
+}

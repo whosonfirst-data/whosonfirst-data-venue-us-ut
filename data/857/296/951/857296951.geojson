@@ -1,0 +1,66 @@
+{
+  "id": 857296951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.820185,41.711211,-111.820185,41.711211",
+    "geom:latitude":41.711211,
+    "geom:longitude":-111.820185,
+    "iso:country":"US",
+    "sg:address":"128 N 100 W",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 3483",
+    "sg:postcode":"84332",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DuYHaikfChJCfpE9NI6Uy_41.711211_-111.820185@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126343,
+    "wof:geomhash":"7cf149271029e379652a3e5b92a696dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857296951
+        }
+    ],
+    "wof:id":857296951,
+    "wof:lastmodified":1464126343,
+    "wof:name":"Scuba City",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.820185,
+    41.711211,
+    -111.820185,
+    41.711211
+],
+  "geometry": {"coordinates":[-111.820185,41.711211],"type":"Point"}
+}

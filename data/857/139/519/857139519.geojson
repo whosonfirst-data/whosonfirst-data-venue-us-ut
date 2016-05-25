@@ -1,0 +1,68 @@
+{
+  "id": 857139519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.957734,40.632403,-111.957734,40.632403",
+    "geom:latitude":40.632403,
+    "geom:longitude":-111.957734,
+    "iso:country":"US",
+    "sg:address":"2684 Ledgewood Dr",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 969 9099",
+    "sg:postcode":"84084",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728059,
+        102082877,
+        85848647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qDECDwroKcywP6XAg0TKW_40.632403_-111.957734@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122882,
+    "wof:geomhash":"ff754ddc40600a4bed2b49f90ecd0c9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728059,
+            "neighbourhood_id":85848647,
+            "region_id":85688567,
+            "venue_id":857139519
+        }
+    ],
+    "wof:id":857139519,
+    "wof:lastmodified":1464122882,
+    "wof:name":"Colonial Design and National S",
+    "wof:parent_id":85848647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.957734,
+    40.632403,
+    -111.957734,
+    40.632403
+],
+  "geometry": {"coordinates":[-111.957734,40.632403],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857193413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.996133,41.073923,-111.996133,41.073923",
+    "geom:latitude":41.073923,
+    "geom:longitude":-111.996133,
+    "iso:country":"US",
+    "sg:address":"955 Marshall Way",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 593 0099",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "body"
+    ],
+    "sg:website":"www.autocrafter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4T6pioehvTANonn9ljJtDy_41.073923_-111.996133@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124049,
+    "wof:geomhash":"b3491ffbd47374600f17ae6e7522692f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857193413
+        }
+    ],
+    "wof:id":857193413,
+    "wof:lastmodified":1464124049,
+    "wof:name":"Auto Crafters",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -111.996133,
+    41.073923,
+    -111.996133,
+    41.073923
+],
+  "geometry": {"coordinates":[-111.996133,41.073923],"type":"Point"}
+}

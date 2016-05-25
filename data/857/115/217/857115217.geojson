@@ -1,0 +1,68 @@
+{
+  "id": 857115217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.929072,40.579095,-111.929072,40.579095",
+    "geom:latitude":40.579095,
+    "geom:longitude":-111.929072,
+    "iso:country":"US",
+    "sg:address":"9517 S 1300 W",
+    "sg:city":"South Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 446 6674",
+    "sg:postcode":"84095",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85829663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05nr0qUad2PLgmH6tXAG3K_40.579095_-111.929072@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122318,
+    "wof:geomhash":"6ecb64f3ef0b0b9fbaa839915b8ee50d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85829663,
+            "region_id":85688567,
+            "venue_id":857115217
+        }
+    ],
+    "wof:id":857115217,
+    "wof:lastmodified":1464122318,
+    "wof:name":"Royal Lumping Svc",
+    "wof:parent_id":85829663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.929072,
+    40.579095,
+    -111.929072,
+    40.579095
+],
+  "geometry": {"coordinates":[-111.92907200000001,40.579095],"type":"Point"}
+}

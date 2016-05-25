@@ -1,0 +1,71 @@
+{
+  "id": 857380369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.791375,40.674512,-111.791375,40.674512",
+    "geom:latitude":40.674512,
+    "geom:longitude":-111.791375,
+    "iso:country":"US",
+    "sg:address":"4421 Crest Oak Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 277 4845",
+    "sg:postcode":"84124",
+    "sg:province":"UT",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85835599,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44wrG3ljT74CLIJd5eObtJ_40.674512_-111.791375@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128133,
+    "wof:geomhash":"2ae4b3651260daaf1cc07f71025bdaeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85835599,
+            "region_id":85688567,
+            "venue_id":857380369
+        }
+    ],
+    "wof:id":857380369,
+    "wof:lastmodified":1464128133,
+    "wof:name":"Palmer Distributing",
+    "wof:parent_id":85835599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -111.791375,
+    40.674512,
+    -111.791375,
+    40.674512
+],
+  "geometry": {"coordinates":[-111.791375,40.674512],"type":"Point"}
+}

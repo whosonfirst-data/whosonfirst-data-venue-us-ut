@@ -1,0 +1,73 @@
+{
+  "id": 857365933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.69089,40.288225,-111.69089,40.288225",
+    "geom:latitude":40.288225,
+    "geom:longitude":-111.69089,
+    "iso:country":"US",
+    "sg:address":"589 S State St",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 370 8798",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "executive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85849197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0x37mkB6jlrUpRPEozW2Cr_40.288225_-111.690890@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127823,
+    "wof:geomhash":"02c47182ce8eedf12a7ee4f3d95f3e73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85849197,
+            "region_id":85688567,
+            "venue_id":857365933
+        }
+    ],
+    "wof:id":857365933,
+    "wof:lastmodified":1464127823,
+    "wof:name":"Tobacco Prevention",
+    "wof:parent_id":85849197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "executive"
+    ]
+},
+  "bbox": [
+    -111.69089,
+    40.288225,
+    -111.69089,
+    40.288225
+],
+  "geometry": {"coordinates":[-111.69089,40.288225],"type":"Point"}
+}

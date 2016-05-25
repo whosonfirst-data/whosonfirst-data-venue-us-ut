@@ -1,0 +1,68 @@
+{
+  "id": 857261715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.016598,40.518526,-112.016598,40.518526",
+    "geom:latitude":40.518526,
+    "geom:longitude":-112.016598,
+    "iso:country":"US",
+    "sg:address":"5156 W 12600 S",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 253 0523",
+    "sg:postcode":"84096",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728047,
+        102082877,
+        85819751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77EUGlnSGFSnte1jUQTKdg_40.518526_-112.016598@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125530,
+    "wof:geomhash":"228208e78fb89dfb1fe21bb91cd741a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728047,
+            "neighbourhood_id":85819751,
+            "region_id":85688567,
+            "venue_id":857261715
+        }
+    ],
+    "wof:id":857261715,
+    "wof:lastmodified":1464125530,
+    "wof:name":"Copperhills Equestrian Center",
+    "wof:parent_id":85819751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.016598,
+    40.518526,
+    -112.016598,
+    40.518526
+],
+  "geometry": {"coordinates":[-112.016598,40.518526],"type":"Point"}
+}

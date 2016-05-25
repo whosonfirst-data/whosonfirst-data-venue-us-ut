@@ -1,0 +1,73 @@
+{
+  "id": 857426143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.987247,41.334185,-111.987247,41.334185",
+    "geom:latitude":41.334185,
+    "geom:longitude":-111.987247,
+    "iso:country":"US",
+    "sg:address":"440 W 4200 N",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 782 2226",
+    "sg:postcode":"84414",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728025,
+        102083539,
+        85837881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CjtZneBKtNxRfyNrL2rgE_41.334185_-111.987247@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129259,
+    "wof:geomhash":"dab40284e1c63411353b13cdeb7a5789",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728025,
+            "neighbourhood_id":85837881,
+            "region_id":85688567,
+            "venue_id":857426143
+        }
+    ],
+    "wof:id":857426143,
+    "wof:lastmodified":1464129259,
+    "wof:name":"Ogden Refrigeration LLC",
+    "wof:parent_id":85837881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.987247,
+    41.334185,
+    -111.987247,
+    41.334185
+],
+  "geometry": {"coordinates":[-111.987247,41.334185],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857270153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.888279,40.659352,-111.888279,40.659352",
+    "geom:latitude":40.659352,
+    "geom:longitude":-111.888279,
+    "iso:country":"US",
+    "sg:address":"5101 S State St",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 535 1203",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85853401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Mwx6f70Lpr8VG2BiYPGzM_40.659352_-111.888279@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125688,
+    "wof:geomhash":"136fb5be9017ce4cd021c374d598ae33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85853401,
+            "region_id":85688567,
+            "venue_id":857270153
+        }
+    ],
+    "wof:id":857270153,
+    "wof:lastmodified":1464125688,
+    "wof:name":"Key Bank",
+    "wof:parent_id":85853401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.888279,
+    40.659352,
+    -111.888279,
+    40.659352
+],
+  "geometry": {"coordinates":[-111.888279,40.659352],"type":"Point"}
+}

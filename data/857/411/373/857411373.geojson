@@ -1,0 +1,69 @@
+{
+  "id": 857411373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.840507,40.772896,-111.840507,40.772896",
+    "geom:latitude":40.772896,
+    "geom:longitude":-111.840507,
+    "iso:country":"US",
+    "sg:address":"48 N Medical Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 584 8433",
+    "sg:postcode":"84113",
+    "sg:province":"UT",
+    "sg:website":"www.health.state.ut.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85819067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XeCUZFw4yS219XkVTBoaa_40.772896_-111.840507@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128885,
+    "wof:geomhash":"84b5c72270586a0565fd76b766138fbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85819067,
+            "region_id":85688567,
+            "venue_id":857411373
+        }
+    ],
+    "wof:id":857411373,
+    "wof:lastmodified":1464128885,
+    "wof:name":"Medical Examiner Office",
+    "wof:parent_id":85819067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.840507,
+    40.772896,
+    -111.840507,
+    40.772896
+],
+  "geometry": {"coordinates":[-111.840507,40.772896],"type":"Point"}
+}

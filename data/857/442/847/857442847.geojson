@@ -1,0 +1,71 @@
+{
+  "id": 857442847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.736097,40.039629,-111.736097,40.039629",
+    "geom:latitude":40.039629,
+    "geom:longitude":-111.736097,
+    "iso:country":"US",
+    "sg:address":"310 S 300 W",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 9265",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rMcPHFfgbIGqW6HFmYaH6_40.039629_-111.736097@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129619,
+    "wof:geomhash":"eb153c16b6a0864514fc3caef9b0de59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857442847
+        }
+    ],
+    "wof:id":857442847,
+    "wof:lastmodified":1464129619,
+    "wof:name":"Herrick Inc",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bond"
+    ]
+},
+  "bbox": [
+    -111.736097,
+    40.039629,
+    -111.736097,
+    40.039629
+],
+  "geometry": {"coordinates":[-111.736097,40.039629],"type":"Point"}
+}

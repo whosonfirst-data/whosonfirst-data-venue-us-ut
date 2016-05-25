@@ -1,0 +1,73 @@
+{
+  "id": 857122779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.688779,40.243116,-111.688779,40.243116",
+    "geom:latitude":40.243116,
+    "geom:longitude":-111.688779,
+    "iso:country":"US",
+    "sg:address":"715 N 1890 W",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 374 1115",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dS7wBIzpKVVIvmC4sxwY7_40.243116_-111.688779@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122522,
+    "wof:geomhash":"704ae9b6fd93b83af0972aef3b2ebcbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880067,
+            "region_id":85688567,
+            "venue_id":857122779
+        }
+    ],
+    "wof:id":857122779,
+    "wof:lastmodified":1464122522,
+    "wof:name":"Processing Center",
+    "wof:parent_id":85880067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -111.688779,
+    40.243116,
+    -111.688779,
+    40.243116
+],
+  "geometry": {"coordinates":[-111.688779,40.243116],"type":"Point"}
+}

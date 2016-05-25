@@ -1,0 +1,72 @@
+{
+  "id": 857375075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.798176,40.376858,-111.798176,40.376858",
+    "geom:latitude":40.376858,
+    "geom:longitude":-111.798176,
+    "iso:country":"US",
+    "sg:address":"33 E Main St",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 7681",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "sg:website":"www.bankaf.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aY2hAfT9VVnCwgRML8F2f_40.376858_-111.798176@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128010,
+    "wof:geomhash":"884ed8fa2f735a352da38771c9c41ee6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857375075
+        }
+    ],
+    "wof:id":857375075,
+    "wof:lastmodified":1464128010,
+    "wof:name":"Bank Of American Fork",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -111.798176,
+    40.376858,
+    -111.798176,
+    40.376858
+],
+  "geometry": {"coordinates":[-111.798176,40.376858],"type":"Point"}
+}

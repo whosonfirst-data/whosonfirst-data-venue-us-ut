@@ -1,0 +1,73 @@
+{
+  "id": 857195881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.973293,41.073736,-111.973293,41.073736",
+    "geom:latitude":41.073736,
+    "geom:longitude":-111.973293,
+    "iso:country":"US",
+    "sg:address":"209 W Barbara Ave",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 546 4393",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BLmmjD0tjo93H7VGQrLJE_41.073736_-111.973293@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124098,
+    "wof:geomhash":"93d9ba7954de391d8796b0069d5f1316",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857195881
+        }
+    ],
+    "wof:id":857195881,
+    "wof:lastmodified":1464124098,
+    "wof:name":"Double D Welding & Fabrication",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -111.973293,
+    41.073736,
+    -111.973293,
+    41.073736
+],
+  "geometry": {"coordinates":[-111.973293,41.073736],"type":"Point"}
+}

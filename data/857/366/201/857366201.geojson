@@ -1,0 +1,71 @@
+{
+  "id": 857366201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.806341,40.69602,-111.806341,40.69602",
+    "geom:latitude":40.69602,
+    "geom:longitude":-111.806341,
+    "iso:country":"US",
+    "sg:address":"3081 Waymark Cir",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 461 0567",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728257,
+        102082877,
+        85854869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xZsJ5Ez2QjllpqoA4HX4r_40.696020_-111.806341@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127829,
+    "wof:geomhash":"2cba255dc6d7f8378afcda89c58a07c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85854869,
+            "region_id":85688567,
+            "venue_id":857366201
+        }
+    ],
+    "wof:id":857366201,
+    "wof:lastmodified":1464127829,
+    "wof:name":"Superior Engineered Metal Pdts",
+    "wof:parent_id":85854869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [
+    -111.806341,
+    40.69602,
+    -111.806341,
+    40.69602
+],
+  "geometry": {"coordinates":[-111.806341,40.69602],"type":"Point"}
+}

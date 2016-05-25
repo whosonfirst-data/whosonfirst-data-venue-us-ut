@@ -1,0 +1,73 @@
+{
+  "id": 857145607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.632596,40.214564,-111.632596,40.214564",
+    "geom:latitude":40.214564,
+    "geom:longitude":-111.632596,
+    "iso:country":"US",
+    "sg:address":"1425 S 1470 E",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 377 4521",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:tags":[
+        "builder",
+        "operative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727863,
+        102083567,
+        85880103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OVixXo2QtklA5oRut3nLt_40.214564_-111.632596@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123053,
+    "wof:geomhash":"8cb6d809c5f227132c5a4e662f8d0122",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880103,
+            "region_id":85688567,
+            "venue_id":857145607
+        }
+    ],
+    "wof:id":857145607,
+    "wof:lastmodified":1464123053,
+    "wof:name":"D R Horton Inc",
+    "wof:parent_id":85880103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "operative"
+    ]
+},
+  "bbox": [
+    -111.632596,
+    40.214564,
+    -111.632596,
+    40.214564
+],
+  "geometry": {"coordinates":[-111.63259600000001,40.214564],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857455987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.911919,40.871058,-111.911919,40.871058",
+    "geom:latitude":40.871058,
+    "geom:longitude":-111.911919,
+    "iso:country":"US",
+    "sg:address":"1850 S 1100 W",
+    "sg:city":"Woods Cross",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 299 8201",
+    "sg:postcode":"84087",
+    "sg:province":"UT",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727887,
+        102083563,
+        85822153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2T0P8gnysdge02qLsS9Cnp_40.871058_-111.911919@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129872,
+    "wof:geomhash":"8b2c11a60ad40b4825d91823e135b5f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727887,
+            "neighbourhood_id":85822153,
+            "region_id":85688567,
+            "venue_id":857455987
+        }
+    ],
+    "wof:id":857455987,
+    "wof:lastmodified":1464129872,
+    "wof:name":"State Wide Transport Inc",
+    "wof:parent_id":85822153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -111.911919,
+    40.871058,
+    -111.911919,
+    40.871058
+],
+  "geometry": {"coordinates":[-111.911919,40.871058],"type":"Point"}
+}

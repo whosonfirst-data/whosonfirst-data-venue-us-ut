@@ -1,0 +1,73 @@
+{
+  "id": 857344027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.027375,41.119482,-112.027375,41.119482",
+    "geom:latitude":41.119482,
+    "geom:longitude":-112.027375,
+    "iso:country":"US",
+    "sg:address":"365 N 75 W",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 825 8031",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85851583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25u5ZqMPyAtvcJjCzLF4QM_41.119482_-112.027375@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127353,
+    "wof:geomhash":"71765dd7f5eded0827fafdecdf005f63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85851583,
+            "region_id":85688567,
+            "venue_id":857344027
+        }
+    ],
+    "wof:id":857344027,
+    "wof:lastmodified":1464127353,
+    "wof:name":"Anchor Plumbing Inc",
+    "wof:parent_id":85851583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -112.027375,
+    41.119482,
+    -112.027375,
+    41.119482
+],
+  "geometry": {"coordinates":[-112.02737500000001,41.119482],"type":"Point"}
+}

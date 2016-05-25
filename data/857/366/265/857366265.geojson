@@ -1,0 +1,69 @@
+{
+  "id": 857366265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.938254,41.300849,-111.938254,41.300849",
+    "geom:latitude":41.300849,
+    "geom:longitude":-111.938254,
+    "iso:country":"US",
+    "sg:address":"2391 N Mountain Rd",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 782 3187",
+    "sg:postcode":"84414",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85824645,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LaReZ3KcNlrloQ7AJN386_41.300849_-111.938254@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127830,
+    "wof:geomhash":"2309b691aba657732bc031dec621a669",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85824645,
+            "region_id":85688567,
+            "venue_id":857366265
+        }
+    ],
+    "wof:id":857366265,
+    "wof:lastmodified":1464127830,
+    "wof:name":"Pizza Mia Buffet Inc",
+    "wof:parent_id":85824645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.938254,
+    41.300849,
+    -111.938254,
+    41.300849
+],
+  "geometry": {"coordinates":[-111.938254,41.300849],"type":"Point"}
+}

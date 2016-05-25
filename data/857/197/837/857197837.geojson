@@ -1,0 +1,71 @@
+{
+  "id": 857197837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.859716,41.732848,-111.859716,41.732848",
+    "geom:latitude":41.732848,
+    "geom:longitude":-111.859716,
+    "iso:country":"US",
+    "sg:address":"145 N 1000 W",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 0571",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "metal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Wbtl6l9wUb5EFa5KjJPny_41.732848_-111.859716@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124137,
+    "wof:geomhash":"915ab94ee9e5fb12972a85f1de2d158c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857197837
+        }
+    ],
+    "wof:id":857197837,
+    "wof:lastmodified":1464124137,
+    "wof:name":"Valley Metals Inc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "metal"
+    ]
+},
+  "bbox": [
+    -111.859716,
+    41.732848,
+    -111.859716,
+    41.732848
+],
+  "geometry": {"coordinates":[-111.85971600000001,41.732848],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857439145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.907472,41.026357,-111.907472,41.026357",
+    "geom:latitude":41.026357,
+    "geom:longitude":-111.907472,
+    "iso:country":"US",
+    "sg:address":"593 S 1350 E",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 544 6520",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "control",
+        "machine",
+        "computer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55df8baMM0zS4seAbZnt77_41.026357_-111.907472@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129553,
+    "wof:geomhash":"789f0966b2bb59924d55027111a84e2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857439145
+        }
+    ],
+    "wof:id":857439145,
+    "wof:lastmodified":1464129553,
+    "wof:name":"Factory Best Machine Tools",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "machine",
+        "computer"
+    ]
+},
+  "bbox": [
+    -111.907472,
+    41.026357,
+    -111.907472,
+    41.026357
+],
+  "geometry": {"coordinates":[-111.907472,41.026357],"type":"Point"}
+}

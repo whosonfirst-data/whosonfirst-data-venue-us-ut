@@ -1,0 +1,75 @@
+{
+  "id": 857412565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.660102,40.233856,-111.660102,40.233856",
+    "geom:latitude":40.233856,
+    "geom:longitude":-111.660102,
+    "iso:country":"US",
+    "sg:address":"26 W Center St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 818 9600",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55E3hBQMfeikOsCwWTiDvQ_40.233856_-111.660102@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128914,
+    "wof:geomhash":"4a3a14895b41086cc8d57b7b611295ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880065,
+            "region_id":85688567,
+            "venue_id":857412565
+        }
+    ],
+    "wof:id":857412565,
+    "wof:lastmodified":1464128914,
+    "wof:name":"KOVO",
+    "wof:parent_id":85880065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -111.660102,
+    40.233856,
+    -111.660102,
+    40.233856
+],
+  "geometry": {"coordinates":[-111.66010199999999,40.233856],"type":"Point"}
+}

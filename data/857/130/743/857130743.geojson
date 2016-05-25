@@ -1,0 +1,75 @@
+{
+  "id": 857130743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.907218,40.756217,-111.907218,40.756217",
+    "geom:latitude":40.756217,
+    "geom:longitude":-111.907218,
+    "iso:country":"US",
+    "sg:address":"537 W 600 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 973 9222",
+    "sg:postcode":"84101",
+    "sg:province":"UT",
+    "sg:tags":[
+        "steel",
+        "processing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85828321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nvizoYC8nx2xfdWm9kU61_40.756217_-111.907218@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122696,
+    "wof:geomhash":"6cac2b93cc7d5a42b4a773a778095494",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85828321,
+            "region_id":85688567,
+            "venue_id":857130743
+        }
+    ],
+    "wof:id":857130743,
+    "wof:lastmodified":1464122696,
+    "wof:name":"American Steel Processors",
+    "wof:parent_id":85828321,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "processing"
+    ]
+},
+  "bbox": [
+    -111.907218,
+    40.756217,
+    -111.907218,
+    40.756217
+],
+  "geometry": {"coordinates":[-111.907218,40.756217],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857216715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.942423,41.105308,-111.942423,41.105308",
+    "geom:latitude":41.105308,
+    "geom:longitude":-111.942423,
+    "iso:country":"US",
+    "sg:address":"1218 E 3125 N",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 685 9540",
+    "sg:postcode":"84040",
+    "sg:province":"UT",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85844663,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JtdfEu7NRDlZmIORaO2n6_41.105308_-111.942423@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124546,
+    "wof:geomhash":"7af9ff2efe6f0af121ee03b7e8c3fb7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "neighbourhood_id":85844663,
+            "region_id":85688567,
+            "venue_id":857216715
+        }
+    ],
+    "wof:id":857216715,
+    "wof:lastmodified":1464124546,
+    "wof:name":"X Press Couriers",
+    "wof:parent_id":85844663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -111.942423,
+    41.105308,
+    -111.942423,
+    41.105308
+],
+  "geometry": {"coordinates":[-111.94242300000001,41.105308],"type":"Point"}
+}

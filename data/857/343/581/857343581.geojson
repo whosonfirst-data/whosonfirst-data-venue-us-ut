@@ -1,0 +1,78 @@
+{
+  "id": 857343581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.808424,41.730657,-111.808424,41.730657",
+    "geom:latitude":41.730657,
+    "geom:longitude":-111.808424,
+    "iso:country":"US",
+    "sg:address":"985 Sunset Ridge",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Dairy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 7766",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "product",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SmzO9GHvq12A3S1RrFW0a_41.730657_-111.808424@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127345,
+    "wof:geomhash":"9d9c58b8996e49abb317fd24793cfb3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857343581
+        }
+    ],
+    "wof:id":857343581,
+    "wof:lastmodified":1464127345,
+    "wof:name":"Cache Valley Foods Inc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "broker"
+    ]
+},
+  "bbox": [
+    -111.808424,
+    41.730657,
+    -111.808424,
+    41.730657
+],
+  "geometry": {"coordinates":[-111.808424,41.730657],"type":"Point"}
+}

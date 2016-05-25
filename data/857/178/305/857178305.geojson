@@ -1,0 +1,68 @@
+{
+  "id": 857178305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.822066,40.702278,-111.822066,40.702278",
+    "geom:latitude":40.702278,
+    "geom:longitude":-111.822066,
+    "iso:country":"US",
+    "sg:address":"2430 E Lambourne Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 466 6239",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85859423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Am5mCXaCjV24foZvfnchy_40.702278_-111.822066@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123756,
+    "wof:geomhash":"56c9dcca244760741d11969f979cb956",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85859423,
+            "region_id":85688567,
+            "venue_id":857178305
+        }
+    ],
+    "wof:id":857178305,
+    "wof:lastmodified":1464123756,
+    "wof:name":"Pb Services LLC",
+    "wof:parent_id":85859423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.822066,
+    40.702278,
+    -111.822066,
+    40.702278
+],
+  "geometry": {"coordinates":[-111.82206600000001,40.702278],"type":"Point"}
+}

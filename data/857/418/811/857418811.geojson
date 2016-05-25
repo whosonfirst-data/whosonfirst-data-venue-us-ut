@@ -1,0 +1,73 @@
+{
+  "id": 857418811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.914048,40.771256,-111.914048,40.771256",
+    "geom:latitude":40.771256,
+    "geom:longitude":-111.914048,
+    "iso:country":"US",
+    "sg:address":"55 N 800 West St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 575 7572",
+    "sg:postcode":"84116",
+    "sg:province":"UT",
+    "sg:tags":[
+        "broadcast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85856843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77YUxh45EdsoOaqXYcvH5P_40.771256_-111.914048@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129074,
+    "wof:geomhash":"cb271462d81e41ba0c1ee41c978ea0c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85856843,
+            "region_id":85688567,
+            "venue_id":857418811
+        }
+    ],
+    "wof:id":857418811,
+    "wof:lastmodified":1464129074,
+    "wof:name":"Bonneville International Corp",
+    "wof:parent_id":85856843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broadcast"
+    ]
+},
+  "bbox": [
+    -111.914048,
+    40.771256,
+    -111.914048,
+    40.771256
+],
+  "geometry": {"coordinates":[-111.91404799999999,40.771256],"type":"Point"}
+}

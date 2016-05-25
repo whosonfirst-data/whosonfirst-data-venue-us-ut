@@ -1,0 +1,73 @@
+{
+  "id": 857459741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.901018,41.021256,-111.901018,41.021256",
+    "geom:latitude":41.021256,
+    "geom:longitude":-111.901018,
+    "iso:country":"US",
+    "sg:address":"877 Signal Hill",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 831 8109",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "animal",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54ySkqDkpeAQFseCt2N5XC_41.021256_-111.901018@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129945,
+    "wof:geomhash":"2f15fece60e1c6de53cd23bc27139e9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857459741
+        }
+    ],
+    "wof:id":857459741,
+    "wof:lastmodified":1464129945,
+    "wof:name":"Buffalo Ranch",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "animal",
+        "general"
+    ]
+},
+  "bbox": [
+    -111.901018,
+    41.021256,
+    -111.901018,
+    41.021256
+],
+  "geometry": {"coordinates":[-111.90101799999999,41.021256],"type":"Point"}
+}

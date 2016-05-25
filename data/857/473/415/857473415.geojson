@@ -1,0 +1,73 @@
+{
+  "id": 857473415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.909181,40.686934,-111.909181,40.686934",
+    "geom:latitude":40.686934,
+    "geom:longitude":-111.909181,
+    "iso:country":"US",
+    "sg:address":"631 W 3900 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 281 9863",
+    "sg:postcode":"84123",
+    "sg:province":"UT",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85810147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bJeeHtMiHOjjM4yhcF5Td_40.686934_-111.909181@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130244,
+    "wof:geomhash":"4dffb909ef5e6a292fb9b4cc6353233a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85810147,
+            "region_id":85688567,
+            "venue_id":857473415
+        }
+    ],
+    "wof:id":857473415,
+    "wof:lastmodified":1464130244,
+    "wof:name":"Old Home Bakery",
+    "wof:parent_id":85810147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -111.909181,
+    40.686934,
+    -111.909181,
+    40.686934
+],
+  "geometry": {"coordinates":[-111.909181,40.686934],"type":"Point"}
+}

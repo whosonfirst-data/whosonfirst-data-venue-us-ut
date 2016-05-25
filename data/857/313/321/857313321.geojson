@@ -1,0 +1,71 @@
+{
+  "id": 857313321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.842956,41.726755,-111.842956,41.726755",
+    "geom:latitude":41.726755,
+    "geom:longitude":-111.842956,
+    "iso:country":"US",
+    "sg:address":"255 S 300 W",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 7031",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ew2qYV7lmKnb8Rh4ysj6e_41.726755_-111.842956@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126689,
+    "wof:geomhash":"7516b9a07c478fad18abc56b7e28fe9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857313321
+        }
+    ],
+    "wof:id":857313321,
+    "wof:lastmodified":1464126689,
+    "wof:name":"Design West",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architectural"
+    ]
+},
+  "bbox": [
+    -111.842956,
+    41.726755,
+    -111.842956,
+    41.726755
+],
+  "geometry": {"coordinates":[-111.842956,41.726755],"type":"Point"}
+}

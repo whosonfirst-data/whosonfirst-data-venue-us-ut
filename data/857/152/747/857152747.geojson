@@ -1,0 +1,75 @@
+{
+  "id": 857152747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.904527,41.013872,-111.904527,41.013872",
+    "geom:latitude":41.013872,
+    "geom:longitude":-111.904527,
+    "iso:country":"US",
+    "sg:address":"1966 Summerwood Dr",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 0452",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MDlCkI0LASwrvDtAL8yRT_41.013872_-111.904527@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123200,
+    "wof:geomhash":"cbd421ad0cbce387fb5a23dc907c634d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857152747
+        }
+    ],
+    "wof:id":857152747,
+    "wof:lastmodified":1464123200,
+    "wof:name":"P J Trucking LLC",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -111.904527,
+    41.013872,
+    -111.904527,
+    41.013872
+],
+  "geometry": {"coordinates":[-111.904527,41.013872],"type":"Point"}
+}

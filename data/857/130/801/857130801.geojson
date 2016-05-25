@@ -1,0 +1,77 @@
+{
+  "id": 857130801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.93866,41.03635,-111.93866,41.03635",
+    "geom:latitude":41.03635,
+    "geom:longitude":-111.93866,
+    "iso:country":"US",
+    "sg:address":"7 N Main St",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 544 8989",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "program",
+        "physical",
+        "exercise",
+        "fitness"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YsmgGEOQrBxvJsffCnj8t_41.036350_-111.938660@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122697,
+    "wof:geomhash":"3e96983e27a20773e0efe4b95d54eaa4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857130801
+        }
+    ],
+    "wof:id":857130801,
+    "wof:lastmodified":1464122697,
+    "wof:name":"Media Rif",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "program",
+        "physical",
+        "exercise",
+        "fitness"
+    ]
+},
+  "bbox": [
+    -111.93866,
+    41.03635,
+    -111.93866,
+    41.03635
+],
+  "geometry": {"coordinates":[-111.93866,41.03635],"type":"Point"}
+}

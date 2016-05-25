@@ -1,0 +1,71 @@
+{
+  "id": 857409339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.883072,40.987835,-111.883072,40.987835",
+    "geom:latitude":40.987835,
+    "geom:longitude":-111.883072,
+    "iso:country":"US",
+    "sg:address":"450 N 200 E",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 6883",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "millwright"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ngA39SpDR3b0AbXFCcrFU_40.987835_-111.883072@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128818,
+    "wof:geomhash":"e38973072c3639a1fd65a01298186c94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857409339
+        }
+    ],
+    "wof:id":857409339,
+    "wof:lastmodified":1464128818,
+    "wof:name":"ARW Ind Technology",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "millwright"
+    ]
+},
+  "bbox": [
+    -111.883072,
+    40.987835,
+    -111.883072,
+    40.987835
+],
+  "geometry": {"coordinates":[-111.883072,40.987835],"type":"Point"}
+}

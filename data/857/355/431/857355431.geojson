@@ -1,0 +1,68 @@
+{
+  "id": 857355431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.665057,40.233868,-111.665057,40.233868",
+    "geom:latitude":40.233868,
+    "geom:longitude":-111.665057,
+    "iso:country":"US",
+    "sg:address":"342 W Center St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 5076",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wfcGse3PzNDIKSOszwZDB_40.233868_-111.665057@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127601,
+    "wof:geomhash":"26108e1051ffa7aeef8bf6864f79f821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880065,
+            "region_id":85688567,
+            "venue_id":857355431
+        }
+    ],
+    "wof:id":857355431,
+    "wof:lastmodified":1464127601,
+    "wof:name":"Downtown Salon",
+    "wof:parent_id":85880065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.665057,
+    40.233868,
+    -111.665057,
+    40.233868
+],
+  "geometry": {"coordinates":[-111.665057,40.233868],"type":"Point"}
+}

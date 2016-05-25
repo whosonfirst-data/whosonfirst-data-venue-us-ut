@@ -1,0 +1,71 @@
+{
+  "id": 857389263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.813994,41.749488,-111.813994,41.749488",
+    "geom:latitude":41.749488,
+    "geom:longitude":-111.813994,
+    "iso:country":"US",
+    "sg:address":"935 N 800 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 4870",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GwHT25BMH9CtK8uiivCZL_41.749488_-111.813994@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128414,
+    "wof:geomhash":"d812db6c6a8fcbb7d270c994b39004e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857389263
+        }
+    ],
+    "wof:id":857389263,
+    "wof:lastmodified":1464128414,
+    "wof:name":"Garden Court Apartments",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -111.813994,
+    41.749488,
+    -111.813994,
+    41.749488
+],
+  "geometry": {"coordinates":[-111.81399399999999,41.749488],"type":"Point"}
+}

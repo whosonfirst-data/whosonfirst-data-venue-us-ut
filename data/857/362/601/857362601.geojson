@@ -1,0 +1,75 @@
+{
+  "id": 857362601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.708997,40.306235,-111.708997,40.306235",
+    "geom:latitude":40.306235,
+    "geom:longitude":-111.708997,
+    "iso:country":"US",
+    "sg:address":"567 N 550 W",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 8949",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58CSLDkcEb6W8V09QAN7sx_40.306235_-111.708997@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127754,
+    "wof:geomhash":"490ae383932fc6f777d3ec40e56ec806",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":857362601
+        }
+    ],
+    "wof:id":857362601,
+    "wof:lastmodified":1464127754,
+    "wof:name":"Lone Star Excavation Inc",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.708997,
+    40.306235,
+    -111.708997,
+    40.306235
+],
+  "geometry": {"coordinates":[-111.708997,40.306235],"type":"Point"}
+}

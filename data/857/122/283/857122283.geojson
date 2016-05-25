@@ -1,0 +1,75 @@
+{
+  "id": 857122283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.87927,40.937262,-111.87927,40.937262",
+    "geom:latitude":40.937262,
+    "geom:longitude":-111.87927,
+    "iso:country":"US",
+    "sg:address":"1461 N Main St",
+    "sg:city":"Centerville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 299 4110",
+    "sg:postcode":"84014",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mormon",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727879,
+        102083563,
+        85809721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wMrqdMeAHKysQQK0050Nx_40.937262_-111.879270@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122503,
+    "wof:geomhash":"9c281d149be0f78d3b023cc9d0d4f52f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727879,
+            "neighbourhood_id":85809721,
+            "region_id":85688567,
+            "venue_id":857122283
+        }
+    ],
+    "wof:id":857122283,
+    "wof:lastmodified":1464122503,
+    "wof:name":"Centerville Twenty-First Ward",
+    "wof:parent_id":85809721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mormon",
+        "church"
+    ]
+},
+  "bbox": [
+    -111.87927,
+    40.937262,
+    -111.87927,
+    40.937262
+],
+  "geometry": {"coordinates":[-111.87927000000001,40.937262],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 857174415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.049724,41.074616,-112.049724,41.074616",
+    "geom:latitude":41.074616,
+    "geom:longitude":-112.049724,
+    "iso:country":"US",
+    "sg:address":"1473 W 2700 S",
+    "sg:city":"Syracuse",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 776 3218",
+    "sg:postcode":"84075",
+    "sg:province":"UT",
+    "sg:tags":[
+        "watch"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727889,
+        102083563,
+        85804563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AEezCQueuBBfUDd2a8HuE_41.074616_-112.049724@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123682,
+    "wof:geomhash":"b10be4cf291c0448143ed14ca51bdeae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727889,
+            "neighbourhood_id":85804563,
+            "region_id":85688567,
+            "venue_id":857174415
+        }
+    ],
+    "wof:id":857174415,
+    "wof:lastmodified":1464123682,
+    "wof:name":"Bob's Antique Watches",
+    "wof:parent_id":85804563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "watch"
+    ]
+},
+  "bbox": [
+    -112.049724,
+    41.074616,
+    -112.049724,
+    41.074616
+],
+  "geometry": {"coordinates":[-112.049724,41.074616],"type":"Point"}
+}

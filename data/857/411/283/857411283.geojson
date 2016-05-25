@@ -1,0 +1,71 @@
+{
+  "id": 857411283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.826845,40.388921,-111.826845,40.388921",
+    "geom:latitude":40.388921,
+    "geom:longitude":-111.826845,
+    "iso:country":"US",
+    "sg:address":"1487 E State St",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 492 0204",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ww4ScAzspQJqHuPLJh6pD_40.388921_-111.826845@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128883,
+    "wof:geomhash":"921600e785f70f2c77957ce66308ed58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857411283
+        }
+    ],
+    "wof:id":857411283,
+    "wof:lastmodified":1464128883,
+    "wof:name":"Coyote Construction",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.826845,
+    40.388921,
+    -111.826845,
+    40.388921
+],
+  "geometry": {"coordinates":[-111.82684500000001,40.388921],"type":"Point"}
+}

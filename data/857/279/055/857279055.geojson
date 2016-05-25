@@ -1,0 +1,71 @@
+{
+  "id": 857279055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.908241,41.034071,-111.908241,41.034071",
+    "geom:latitude":41.034071,
+    "geom:longitude":-111.908241,
+    "iso:country":"US",
+    "sg:address":"1367 Carrie Dr",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 444 3969",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qGWBRkvCPiB95ZZPRsRqS_41.034071_-111.908241@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125898,
+    "wof:geomhash":"cc63cd0623c3eed8de7b48c5a32be0f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857279055
+        }
+    ],
+    "wof:id":857279055,
+    "wof:lastmodified":1464125898,
+    "wof:name":"Keiser Appliance",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -111.908241,
+    41.034071,
+    -111.908241,
+    41.034071
+],
+  "geometry": {"coordinates":[-111.908241,41.034071],"type":"Point"}
+}

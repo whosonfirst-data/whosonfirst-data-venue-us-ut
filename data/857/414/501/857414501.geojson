@@ -1,0 +1,71 @@
+{
+  "id": 857414501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.809827,40.39124,-111.809827,40.39124",
+    "geom:latitude":40.39124,
+    "geom:longitude":-111.809827,
+    "iso:country":"US",
+    "sg:address":"756 N 420 W",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Computers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 5631",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "development",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jaQWdziVEJ5HoohzAGTEP_40.391240_-111.809827@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128955,
+    "wof:geomhash":"1339cbe962ac1e9cad3591d2283528ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857414501
+        }
+    ],
+    "wof:id":857414501,
+    "wof:lastmodified":1464128955,
+    "wof:name":"Hayward Enterprises",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "software"
+    ]
+},
+  "bbox": [
+    -111.809827,
+    40.39124,
+    -111.809827,
+    40.39124
+],
+  "geometry": {"coordinates":[-111.809827,40.39124],"type":"Point"}
+}

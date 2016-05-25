@@ -1,0 +1,74 @@
+{
+  "id": 857491741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.888565,40.526146,-111.888565,40.526146",
+    "geom:latitude":40.526146,
+    "geom:longitude":-111.888565,
+    "iso:country":"US",
+    "sg:address":"12344 Minuteman Dr",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/34130-chuck-a-rama-buffet/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 748 4850",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727849,
+        102082877,
+        85823005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6m454jUGyEYhB8eExrB83j_40.526146_-111.888565@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130650,
+    "wof:geomhash":"130ba6cd3a9698da6adb54d530bcbbf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85823005,
+            "region_id":85688567,
+            "venue_id":857491741
+        }
+    ],
+    "wof:id":857491741,
+    "wof:lastmodified":1464130650,
+    "wof:name":"Chuck-a-Rama Buffet",
+    "wof:parent_id":85823005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -111.888565,
+    40.526146,
+    -111.888565,
+    40.526146
+],
+  "geometry": {"coordinates":[-111.888565,40.526146],"type":"Point"}
+}

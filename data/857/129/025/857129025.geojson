@@ -1,0 +1,71 @@
+{
+  "id": 857129025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.036892,40.637149,-112.036892,40.637149",
+    "geom:latitude":40.637149,
+    "geom:longitude":-112.036892,
+    "iso:country":"US",
+    "sg:address":"6171 Cherry Springs Ct",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 968 5670",
+    "sg:postcode":"84118",
+    "sg:province":"UT",
+    "sg:tags":[
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728061,
+        102082877,
+        85854369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Q0sHVg0Ie12yyckY1uLei_40.637149_-112.036892@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122648,
+    "wof:geomhash":"2e585d844b857cc5fc51fbfc179e063d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85854369,
+            "region_id":85688567,
+            "venue_id":857129025
+        }
+    ],
+    "wof:id":857129025,
+    "wof:lastmodified":1464122648,
+    "wof:name":"Cavalier Design",
+    "wof:parent_id":85854369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "datum"
+    ]
+},
+  "bbox": [
+    -112.036892,
+    40.637149,
+    -112.036892,
+    40.637149
+],
+  "geometry": {"coordinates":[-112.03689199999999,40.637149],"type":"Point"}
+}

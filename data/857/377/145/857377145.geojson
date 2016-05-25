@@ -1,0 +1,71 @@
+{
+  "id": 857377145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.597795,40.120553,-111.597795,40.120553",
+    "geom:latitude":40.120553,
+    "geom:longitude":-111.597795,
+    "iso:country":"US",
+    "sg:address":"1042 US Hwy 89",
+    "sg:city":"Mapleton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 489 7362",
+    "sg:postcode":"84664",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZcJ3775SYRXI3Ibae2eaZ_40.120553_-111.597795@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128058,
+    "wof:geomhash":"21dc08fdaf36cdeb18847dc9890b50fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857377145
+        }
+    ],
+    "wof:id":857377145,
+    "wof:lastmodified":1464128058,
+    "wof:name":"Polar King",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.597795,
+    40.120553,
+    -111.597795,
+    40.120553
+],
+  "geometry": {"coordinates":[-111.597795,40.120553],"type":"Point"}
+}

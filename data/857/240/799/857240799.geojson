@@ -1,0 +1,68 @@
+{
+  "id": 857240799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.651497,40.275288,-111.651497,40.275288",
+    "geom:latitude":40.275288,
+    "geom:longitude":-111.651497,
+    "iso:country":"US",
+    "sg:address":"3167 N Canyon Rd",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 377 3134",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85817395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mLGEaroHamVFJ660GQjBu_40.275288_-111.651497@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125024,
+    "wof:geomhash":"8048847d303bf773a335699f2e3c78ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85817395,
+            "region_id":85688567,
+            "venue_id":857240799
+        }
+    ],
+    "wof:id":857240799,
+    "wof:lastmodified":1464125024,
+    "wof:name":"Edgemont Cleaners",
+    "wof:parent_id":85817395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.651497,
+    40.275288,
+    -111.651497,
+    40.275288
+],
+  "geometry": {"coordinates":[-111.65149700000001,40.275288],"type":"Point"}
+}

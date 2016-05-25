@@ -1,0 +1,78 @@
+{
+  "id": 857236843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.859679,40.724428,-111.859679,40.724428",
+    "geom:latitude":40.724428,
+    "geom:longitude":-111.859679,
+    "iso:country":"US",
+    "sg:address":"2164 Highland Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Political Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 484 1406",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85858269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03DAk5AkFOT5rlA418z6Qt_40.724428_-111.859679@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124942,
+    "wof:geomhash":"d7c130346c90e5a96295588bef0f20a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85858269,
+            "region_id":85688567,
+            "venue_id":857236843
+        }
+    ],
+    "wof:id":857236843,
+    "wof:lastmodified":1464124942,
+    "wof:name":"Us Public Interest Research Gr",
+    "wof:parent_id":85858269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -111.859679,
+    40.724428,
+    -111.859679,
+    40.724428
+],
+  "geometry": {"coordinates":[-111.859679,40.724428],"type":"Point"}
+}

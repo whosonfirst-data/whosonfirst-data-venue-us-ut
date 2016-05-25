@@ -1,0 +1,75 @@
+{
+  "id": 857424801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.070914,41.154969,-112.070914,41.154969",
+    "geom:latitude":41.154969,
+    "geom:longitude":-112.070914,
+    "iso:country":"US",
+    "sg:address":"5972 S 3750 W",
+    "sg:city":"Roy",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 985 3576",
+    "sg:postcode":"84067",
+    "sg:province":"UT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85804651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uJC8W8bHTPBPTbxpdHYOV_41.154969_-112.070914@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129218,
+    "wof:geomhash":"d185371d72a2ed79e7fe96cee7f89456",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85804651,
+            "region_id":85688567,
+            "venue_id":857424801
+        }
+    ],
+    "wof:id":857424801,
+    "wof:lastmodified":1464129218,
+    "wof:name":"Minnies Concrete",
+    "wof:parent_id":85804651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -112.070914,
+    41.154969,
+    -112.070914,
+    41.154969
+],
+  "geometry": {"coordinates":[-112.070914,41.154969],"type":"Point"}
+}

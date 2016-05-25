@@ -1,0 +1,80 @@
+{
+  "id": 857489231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.899002,40.884399,-111.899002,40.884399",
+    "geom:latitude":40.884399,
+    "geom:longitude":-111.899002,
+    "iso:country":"US",
+    "sg:address":"698 W 500 S",
+    "sg:city":"Woods Cross",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 294 5960",
+    "sg:postcode":"84087",
+    "sg:province":"UT",
+    "sg:tags":[
+        "pet",
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ],
+    "sg:website":"www.k-9rehab.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727887,
+        102083563,
+        85851805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OFYWVyZcKwKyeGtFV352M_40.884243_-111.898496@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464130568,
+    "wof:geomhash":"12540a49838320f17a67fdf18d1f52a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727887,
+            "neighbourhood_id":85851805,
+            "region_id":85688567,
+            "venue_id":857489231
+        }
+    ],
+    "wof:id":857489231,
+    "wof:lastmodified":1464130568,
+    "wof:name":"Animal Care Center",
+    "wof:parent_id":85851805,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -111.899002,
+    40.884399,
+    -111.899002,
+    40.884399
+],
+  "geometry": {"coordinates":[-111.899002,40.884399],"type":"Point"}
+}

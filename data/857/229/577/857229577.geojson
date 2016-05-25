@@ -1,0 +1,75 @@
+{
+  "id": 857229577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.739491,40.337955,-111.739491,40.337955",
+    "geom:latitude":40.337955,
+    "geom:longitude":-111.739491,
+    "iso:country":"US",
+    "sg:address":"150 N Geneva Rd",
+    "sg:city":"Lindon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 785 4400",
+    "sg:postcode":"84042",
+    "sg:province":"UT",
+    "sg:tags":[
+        "sandblasting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727869,
+        102083567,
+        85823969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4F07U17nWINidJitWygmnw_40.337955_-111.739491@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124800,
+    "wof:geomhash":"a31acba562151bc3420555f544c24ba9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727869,
+            "neighbourhood_id":85823969,
+            "region_id":85688567,
+            "venue_id":857229577
+        }
+    ],
+    "wof:id":857229577,
+    "wof:lastmodified":1464124800,
+    "wof:name":"Dino's Sandblasting",
+    "wof:parent_id":85823969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandblasting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.739491,
+    40.337955,
+    -111.739491,
+    40.337955
+],
+  "geometry": {"coordinates":[-111.739491,40.337955],"type":"Point"}
+}

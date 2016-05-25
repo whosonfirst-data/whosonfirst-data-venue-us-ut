@@ -1,0 +1,68 @@
+{
+  "id": 857257603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.912791,40.344124,-111.912791,40.344124",
+    "geom:latitude":40.344124,
+    "geom:longitude":-111.912791,
+    "iso:country":"US",
+    "sg:address":"731 Saratoga Dr",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 768 9278",
+    "sg:postcode":"84045",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727857,
+        102083567,
+        85836317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JDz2Iv2djpVDVxp4tBW09_40.344124_-111.912791@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125442,
+    "wof:geomhash":"5b50ac8cc44e9de16a4197973caffedc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727857,
+            "neighbourhood_id":85836317,
+            "region_id":85688567,
+            "venue_id":857257603
+        }
+    ],
+    "wof:id":857257603,
+    "wof:lastmodified":1464125442,
+    "wof:name":"Modern School of Music Inc",
+    "wof:parent_id":85836317,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.912791,
+    40.344124,
+    -111.912791,
+    40.344124
+],
+  "geometry": {"coordinates":[-111.912791,40.344124],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857183995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.065093,41.07516,-112.065093,41.07516",
+    "geom:latitude":41.07516,
+    "geom:longitude":-112.065093,
+    "iso:country":"US",
+    "sg:address":"2500 S Bluff Rd",
+    "sg:city":"Syracuse",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 774 2172",
+    "sg:postcode":"84075",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mormon",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727889,
+        102083563,
+        85804563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0At5SNrayIo6qdFQjM7DzE_41.075160_-112.065093@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123876,
+    "wof:geomhash":"1025806405e8a52a01769e3f80604db6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727889,
+            "neighbourhood_id":85804563,
+            "region_id":85688567,
+            "venue_id":857183995
+        }
+    ],
+    "wof:id":857183995,
+    "wof:lastmodified":1464123876,
+    "wof:name":"Syracuse Second Ward",
+    "wof:parent_id":85804563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mormon",
+        "church"
+    ]
+},
+  "bbox": [
+    -112.065093,
+    41.07516,
+    -112.065093,
+    41.07516
+],
+  "geometry": {"coordinates":[-112.065093,41.07516],"type":"Point"}
+}

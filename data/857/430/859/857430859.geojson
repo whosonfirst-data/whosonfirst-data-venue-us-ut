@@ -1,0 +1,71 @@
+{
+  "id": 857430859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.833259,41.806774,-111.833259,41.806774",
+    "geom:latitude":41.806774,
+    "geom:longitude":-111.833259,
+    "iso:country":"US",
+    "sg:address":"4088 N Hwy 91",
+    "sg:city":"Hyde Park",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 563 3622",
+    "sg:postcode":"84318",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43ZdhgEeBXrF4tn00SZHV0_41.806774_-111.833259@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129361,
+    "wof:geomhash":"a3abb9a4df5ff8a2c812a397e39693d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857430859
+        }
+    ],
+    "wof:id":857430859,
+    "wof:lastmodified":1464129361,
+    "wof:name":"Deverles Juniper Inn Inc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.833259,
+    41.806774,
+    -111.833259,
+    41.806774
+],
+  "geometry": {"coordinates":[-111.833259,41.806774],"type":"Point"}
+}

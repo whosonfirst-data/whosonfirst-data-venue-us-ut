@@ -1,0 +1,71 @@
+{
+  "id": 857359063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.67968,40.017417,-111.67968,40.017417",
+    "geom:latitude":40.017417,
+    "geom:longitude":-111.67968,
+    "iso:country":"US",
+    "sg:address":"431 N Cortez Dr",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 423 9178",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yUe2dOTPJIP6CK0mg7aUm_40.017417_-111.679680@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127679,
+    "wof:geomhash":"5f26124f8330b234cb5386eb3fabbe9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857359063
+        }
+    ],
+    "wof:id":857359063,
+    "wof:lastmodified":1464127679,
+    "wof:name":"Jr Plumbing Inc",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.67968,
+    40.017417,
+    -111.67968,
+    40.017417
+],
+  "geometry": {"coordinates":[-111.67968,40.017417],"type":"Point"}
+}

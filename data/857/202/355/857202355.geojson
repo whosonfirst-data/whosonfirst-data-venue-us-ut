@@ -1,0 +1,71 @@
+{
+  "id": 857202355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.796891,41.746453,-111.796891,41.746453",
+    "geom:latitude":41.746453,
+    "geom:longitude":-111.796891,
+    "iso:country":"US",
+    "sg:address":"875 N 1500 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 755 5520",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cLt58I84WalHolARwz227_41.746453_-111.796891@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124219,
+    "wof:geomhash":"0226bfa645105736f4e3c6bdcc2737a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857202355
+        }
+    ],
+    "wof:id":857202355,
+    "wof:lastmodified":1464124219,
+    "wof:name":"Church Of Jesus Christ Of Lds",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -111.796891,
+    41.746453,
+    -111.796891,
+    41.746453
+],
+  "geometry": {"coordinates":[-111.796891,41.746453],"type":"Point"}
+}

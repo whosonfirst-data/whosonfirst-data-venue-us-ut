@@ -1,0 +1,71 @@
+{
+  "id": 857160665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.804435,41.765569,-111.804435,41.765569",
+    "geom:latitude":41.765569,
+    "geom:longitude":-111.804435,
+    "iso:country":"US",
+    "sg:address":"1856 N 1200 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 245 2888",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "publishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oxG49BKVfoFQfsQOAcR4n_41.765569_-111.804435@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123355,
+    "wof:geomhash":"a6f1ab6e24002b9403d7dfc90271fb7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857160665
+        }
+    ],
+    "wof:id":857160665,
+    "wof:lastmodified":1464123355,
+    "wof:name":"Hope Inc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "publishing"
+    ]
+},
+  "bbox": [
+    -111.804435,
+    41.765569,
+    -111.804435,
+    41.765569
+],
+  "geometry": {"coordinates":[-111.804435,41.765569],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857424855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.81918,41.741452,-111.81918,41.741452",
+    "geom:latitude":41.741452,
+    "geom:longitude":-111.81918,
+    "iso:country":"US",
+    "sg:address":"560 N 600 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 713 4261",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dMncyapkslCAXhcKRXjOs_41.741452_-111.819180@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129219,
+    "wof:geomhash":"480166a3e26a67a06d07f5884b647185",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857424855
+        }
+    ],
+    "wof:id":857424855,
+    "wof:lastmodified":1464129219,
+    "wof:name":"Autumn Hills Apartments",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -111.81918,
+    41.741452,
+    -111.81918,
+    41.741452
+],
+  "geometry": {"coordinates":[-111.81918,41.741452],"type":"Point"}
+}

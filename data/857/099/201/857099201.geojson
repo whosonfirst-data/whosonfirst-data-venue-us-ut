@@ -1,0 +1,73 @@
+{
+  "id": 857099201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.831869,41.743627,-111.831869,41.743627",
+    "geom:latitude":41.743627,
+    "geom:longitude":-111.831869,
+    "iso:country":"US",
+    "sg:address":"658 N 100 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 4175",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "engineering",
+        "network"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vro78WHyvX55s6EUQcnS6_41.743627_-111.831869@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121885,
+    "wof:geomhash":"9004f78553fe60810c6ba2c1cd3b0cb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857099201
+        }
+    ],
+    "wof:id":857099201,
+    "wof:lastmodified":1464121885,
+    "wof:name":"Black Ink Networking",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineering",
+        "network"
+    ]
+},
+  "bbox": [
+    -111.831869,
+    41.743627,
+    -111.831869,
+    41.743627
+],
+  "geometry": {"coordinates":[-111.831869,41.743627],"type":"Point"}
+}

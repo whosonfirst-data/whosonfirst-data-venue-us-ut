@@ -1,0 +1,76 @@
+{
+  "id": 857491813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.978992,41.072907,-111.978992,41.072907",
+    "geom:latitude":41.072907,
+    "geom:longitude":-111.978992,
+    "iso:country":"US",
+    "sg:address":"820 N Main St",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/north-davis/95524-lone-star-steakhouse--saloon/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 593 9823",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IjyWtCSUl3tLWnuX9scot_41.072907_-111.978992@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130653,
+    "wof:geomhash":"d4520afda16d4419d3f554ad99696b5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857491813
+        }
+    ],
+    "wof:id":857491813,
+    "wof:lastmodified":1464130653,
+    "wof:name":"Lone Star Steakhouse & Saloon",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -111.978992,
+    41.072907,
+    -111.978992,
+    41.072907
+],
+  "geometry": {"coordinates":[-111.97899200000001,41.072907],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857191321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.662203,40.225307,-111.662203,40.225307",
+    "geom:latitude":40.225307,
+    "geom:longitude":-111.662203,
+    "iso:country":"US",
+    "sg:address":"815 S Freedom Blvd",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 374 9306",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rHONObDs6zpAMJzLzdBG0_40.225307_-111.662203@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124012,
+    "wof:geomhash":"8f67faa1e2b53814899421c8b9907ac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880077,
+            "region_id":85688567,
+            "venue_id":857191321
+        }
+    ],
+    "wof:id":857191321,
+    "wof:lastmodified":1464124012,
+    "wof:name":"Utah Valley Paratransit",
+    "wof:parent_id":85880077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -111.662203,
+    40.225307,
+    -111.662203,
+    40.225307
+],
+  "geometry": {"coordinates":[-111.66220300000001,40.225307],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857393509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.692008,40.289853,-111.692008,40.289853",
+    "geom:latitude":40.289853,
+    "geom:longitude":-111.692008,
+    "iso:country":"US",
+    "sg:address":"65 E 400 S",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 3363",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85849197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VZxB2asbuEEYHwiC3fWis_40.289853_-111.692008@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128493,
+    "wof:geomhash":"964cacdee9cd71c2060356cdb3df16f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85849197,
+            "region_id":85688567,
+            "venue_id":857393509
+        }
+    ],
+    "wof:id":857393509,
+    "wof:lastmodified":1464128493,
+    "wof:name":"Brown Plumbing & Heating Inc",
+    "wof:parent_id":85849197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.692008,
+    40.289853,
+    -111.692008,
+    40.289853
+],
+  "geometry": {"coordinates":[-111.692008,40.289853],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857264173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.817415,40.592305,-111.817415,40.592305",
+    "geom:latitude":40.592305,
+    "geom:longitude":-111.817415,
+    "iso:country":"US",
+    "sg:address":"2638 Snow Mountain Dr",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 942 9020",
+    "sg:postcode":"84093",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728077,
+        102082877,
+        85843389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PA7RS2gvajh9xBT1O0nxW_40.592305_-111.817415@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125577,
+    "wof:geomhash":"9480eb330471e93173c277456c6c1515",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85843389,
+            "region_id":85688567,
+            "venue_id":857264173
+        }
+    ],
+    "wof:id":857264173,
+    "wof:lastmodified":1464125577,
+    "wof:name":"McNey Creative",
+    "wof:parent_id":85843389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -111.817415,
+    40.592305,
+    -111.817415,
+    40.592305
+],
+  "geometry": {"coordinates":[-111.817415,40.592305],"type":"Point"}
+}

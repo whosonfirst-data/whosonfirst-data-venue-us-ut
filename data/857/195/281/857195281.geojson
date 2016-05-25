@@ -1,0 +1,68 @@
+{
+  "id": 857195281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.851543,40.725971,-111.851543,40.725971",
+    "geom:latitude":40.725971,
+    "geom:longitude":-111.851543,
+    "iso:country":"US",
+    "sg:address":"1381 E 2100 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 466 8686",
+    "sg:postcode":"84105",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85857009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WEWbf2AYAeGsiNbrIHhdi_40.725971_-111.851543@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124085,
+    "wof:geomhash":"ba175d0c1ec5d039121ea690aea89448",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85857009,
+            "region_id":85688567,
+            "venue_id":857195281
+        }
+    ],
+    "wof:id":857195281,
+    "wof:lastmodified":1464124085,
+    "wof:name":"Courtyard Beauty Salon",
+    "wof:parent_id":85857009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.851543,
+    40.725971,
+    -111.851543,
+    40.725971
+],
+  "geometry": {"coordinates":[-111.85154300000001,40.725971],"type":"Point"}
+}

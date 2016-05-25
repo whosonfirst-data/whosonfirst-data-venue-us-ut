@@ -1,0 +1,81 @@
+{
+  "id": 857218963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.827688,40.542256,-111.827688,40.542256",
+    "geom:latitude":40.542256,
+    "geom:longitude":-111.827688,
+    "iso:country":"US",
+    "sg:address":"2184 High Mesa Dr",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 571 6283",
+    "sg:postcode":"84092",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85825243,
+        102082877,
+        102191575,
+        101728077,
+        85812845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QP48j2KTubnIG6kGqAAM0_40.542256_-111.827688@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124595,
+    "wof:geomhash":"cc0d2bc9d84ca6cc464754be37622530",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85825243,
+            "region_id":85688567,
+            "venue_id":857218963
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85812845,
+            "region_id":85688567,
+            "venue_id":857218963
+        }
+    ],
+    "wof:id":857218963,
+    "wof:lastmodified":1464124595,
+    "wof:name":"R L M Construction",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -111.827688,
+    40.542256,
+    -111.827688,
+    40.542256
+],
+  "geometry": {"coordinates":[-111.82768799999999,40.542256],"type":"Point"}
+}

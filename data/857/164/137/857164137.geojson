@@ -1,0 +1,71 @@
+{
+  "id": 857164137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.829019,41.755479,-111.829019,41.755479",
+    "geom:latitude":41.755479,
+    "geom:longitude":-111.829019,
+    "iso:country":"US",
+    "sg:address":"1260 N 200 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 3871",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ckTjoX15oCIQVadTD3hx3_41.755479_-111.829019@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123448,
+    "wof:geomhash":"e83aae65e313808bede035a645a9dd28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857164137
+        }
+    ],
+    "wof:id":857164137,
+    "wof:lastmodified":1464123448,
+    "wof:name":"Natural Resources Conservation",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -111.829019,
+    41.755479,
+    -111.829019,
+    41.755479
+],
+  "geometry": {"coordinates":[-111.829019,41.755479],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 857456591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.704626,40.019797,-111.704626,40.019797",
+    "geom:latitude":40.019797,
+    "geom:longitude":-111.704626,
+    "iso:country":"US",
+    "sg:address":"11497 Goosenest Dr",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Orchard",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 2321",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "produce",
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4anR8i8cBj43lqt5l7Hai9_40.019797_-111.704626@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129883,
+    "wof:geomhash":"e5de2c84b092e721685b5dc7da90cfc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857456591
+        }
+    ],
+    "wof:id":857456591,
+    "wof:lastmodified":1464129883,
+    "wof:name":"Allred Orchards Inc",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce",
+        "tree"
+    ]
+},
+  "bbox": [
+    -111.704626,
+    40.019797,
+    -111.704626,
+    40.019797
+],
+  "geometry": {"coordinates":[-111.704626,40.019797],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857399075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.063005,41.089071,-112.063005,41.089071",
+    "geom:latitude":41.089071,
+    "geom:longitude":-112.063005,
+    "iso:country":"US",
+    "sg:address":"1947 W 1700 S",
+    "sg:city":"Syracuse",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 773 5773",
+    "sg:postcode":"84075",
+    "sg:province":"UT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727889,
+        102083563,
+        85804563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47swgwbLEARDdFHZgZy9LF_41.089071_-112.063005@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128606,
+    "wof:geomhash":"bbe77f1ad1fdb9497f532349a359b3b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727889,
+            "neighbourhood_id":85804563,
+            "region_id":85688567,
+            "venue_id":857399075
+        }
+    ],
+    "wof:id":857399075,
+    "wof:lastmodified":1464128606,
+    "wof:name":"Family Car Sales",
+    "wof:parent_id":85804563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -112.063005,
+    41.089071,
+    -112.063005,
+    41.089071
+],
+  "geometry": {"coordinates":[-112.063005,41.089071],"type":"Point"}
+}

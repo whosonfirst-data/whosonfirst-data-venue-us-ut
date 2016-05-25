@@ -1,0 +1,69 @@
+{
+  "id": 857134713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.888823,40.642865,-111.888823,40.642865",
+    "geom:latitude":40.642865,
+    "geom:longitude":-111.888823,
+    "iso:country":"US",
+    "sg:address":"5983 S State St",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 262 3338",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:website":"www.officemax.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85822549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tLbAn7ax3x0hFA2Z6fP0H_40.642865_-111.888823@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122777,
+    "wof:geomhash":"e8cc494f2efebf6865ab1c60897ab639",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85822549,
+            "region_id":85688567,
+            "venue_id":857134713
+        }
+    ],
+    "wof:id":857134713,
+    "wof:lastmodified":1464122777,
+    "wof:name":"Office Max",
+    "wof:parent_id":85822549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.888823,
+    40.642865,
+    -111.888823,
+    40.642865
+],
+  "geometry": {"coordinates":[-111.888823,40.642865],"type":"Point"}
+}

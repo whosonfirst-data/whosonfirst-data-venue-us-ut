@@ -1,0 +1,71 @@
+{
+  "id": 857421637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.767564,41.253866,-111.767564,41.253866",
+    "geom:latitude":41.253866,
+    "geom:longitude":-111.767564,
+    "iso:country":"US",
+    "sg:address":"7503 E 600 S",
+    "sg:city":"Huntsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 745 2818",
+    "sg:postcode":"84317",
+    "sg:province":"UT",
+    "sg:tags":[
+        "irrigation",
+        "ditch"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85818631,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kDkHc03DtfnSYfAaCU3ix_41.253866_-111.767564@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129139,
+    "wof:geomhash":"59086cacd047ce2f91a956af22e75cca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85818631,
+            "region_id":85688567,
+            "venue_id":857421637
+        }
+    ],
+    "wof:id":857421637,
+    "wof:lastmodified":1464129139,
+    "wof:name":"Felt Petersen Slater Ditch Co",
+    "wof:parent_id":85818631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "irrigation",
+        "ditch"
+    ]
+},
+  "bbox": [
+    -111.767564,
+    41.253866,
+    -111.767564,
+    41.253866
+],
+  "geometry": {"coordinates":[-111.76756399999999,41.253866],"type":"Point"}
+}

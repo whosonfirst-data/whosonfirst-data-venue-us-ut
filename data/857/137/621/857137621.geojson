@@ -1,0 +1,74 @@
+{
+  "id": 857137621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.61071,40.164768,-111.61071,40.164768",
+    "geom:latitude":40.164768,
+    "geom:longitude":-111.61071,
+    "iso:country":"US",
+    "sg:address":"164 S Main St",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 489 1390",
+    "sg:postcode":"84663",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dealer"
+    ],
+    "sg:website":"www.readleaf.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727829,
+        102083567,
+        85880117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lJXaxbQ6PJ7nseUerfxvW_40.164768_-111.610710@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122843,
+    "wof:geomhash":"82577a1dcbc17ee6e979bd721cd6a610",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727829,
+            "neighbourhood_id":85880117,
+            "region_id":85688567,
+            "venue_id":857137621
+        }
+    ],
+    "wof:id":857137621,
+    "wof:lastmodified":1464122843,
+    "wof:name":"Read Leaf",
+    "wof:parent_id":85880117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -111.61071,
+    40.164768,
+    -111.61071,
+    40.164768
+],
+  "geometry": {"coordinates":[-111.61071,40.164768],"type":"Point"}
+}

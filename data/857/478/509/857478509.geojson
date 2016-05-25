@@ -1,0 +1,71 @@
+{
+  "id": 857478509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.648723,40.015311,-111.648723,40.015311",
+    "geom:latitude":40.015311,
+    "geom:longitude":-111.648723,
+    "iso:country":"US",
+    "sg:address":"211 W Lakeview Way",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 423 1800",
+    "sg:postcode":"84653",
+    "sg:province":"UT",
+    "sg:tags":[
+        "appraisal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08hlWZHh1ED4dFaY7bDDXc_40.015311_-111.648723@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130344,
+    "wof:geomhash":"9af00b6ff9e165126b3505b49d630e88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857478509
+        }
+    ],
+    "wof:id":857478509,
+    "wof:lastmodified":1464130344,
+    "wof:name":"Anderson Jeffery C MAI",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraisal"
+    ]
+},
+  "bbox": [
+    -111.648723,
+    40.015311,
+    -111.648723,
+    40.015311
+],
+  "geometry": {"coordinates":[-111.648723,40.015311],"type":"Point"}
+}

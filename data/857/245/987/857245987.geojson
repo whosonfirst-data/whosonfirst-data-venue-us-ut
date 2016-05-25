@@ -1,0 +1,75 @@
+{
+  "id": 857245987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.887489,40.891161,-111.887489,40.891161",
+    "geom:latitude":40.891161,
+    "geom:longitude":-111.887489,
+    "iso:country":"US",
+    "sg:address":"265 W 200 N",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 294 2602",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727883,
+        102083563,
+        85854881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2S7wRu2wrdI6eWYs4q8fpr_40.891161_-111.887489@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125158,
+    "wof:geomhash":"2eb67edf18afb0f0846ab00a0fe91735",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727883,
+            "neighbourhood_id":85854881,
+            "region_id":85688567,
+            "venue_id":857245987
+        }
+    ],
+    "wof:id":857245987,
+    "wof:lastmodified":1464125158,
+    "wof:name":"Utah Valley Electric",
+    "wof:parent_id":85854881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.887489,
+    40.891161,
+    -111.887489,
+    40.891161
+],
+  "geometry": {"coordinates":[-111.887489,40.891161],"type":"Point"}
+}

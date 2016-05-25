@@ -1,0 +1,75 @@
+{
+  "id": 857209961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.865343,40.722705,-111.865343,40.722705",
+    "geom:latitude":40.722705,
+    "geom:longitude":-111.865343,
+    "iso:country":"US",
+    "sg:address":"2185 S 900 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 487 1779",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "lithographic",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85858269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DlzhWRNOVFe5JFvUzour4_40.722705_-111.865343@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124389,
+    "wof:geomhash":"9e1ac9fccdea0128025c17cf2f3e2130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85858269,
+            "region_id":85688567,
+            "venue_id":857209961
+        }
+    ],
+    "wof:id":857209961,
+    "wof:lastmodified":1464124389,
+    "wof:name":"Printers",
+    "wof:parent_id":85858269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lithographic",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -111.865343,
+    40.722705,
+    -111.865343,
+    40.722705
+],
+  "geometry": {"coordinates":[-111.865343,40.722705],"type":"Point"}
+}

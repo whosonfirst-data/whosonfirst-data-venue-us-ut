@@ -1,0 +1,91 @@
+{
+  "id": 857241121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.863096,40.769275,-111.863096,40.769275",
+    "geom:latitude":40.769275,
+    "geom:longitude":-111.863096,
+    "iso:country":"US",
+    "sg:address":"974 E South Temple",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 533 0070",
+    "sg:postcode":"84102",
+    "sg:province":"UT",
+    "sg:tags":[
+        "abuse",
+        "substance",
+        "specialty",
+        "for",
+        "rehabilitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85853739,
+        85871029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6x9CYrTcL2Tw2cV5DWV9QM_40.769275_-111.863096@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125032,
+    "wof:geomhash":"9fcb52a6136a5f7fd257d25a79b93f21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85853739,
+            "region_id":85688567,
+            "venue_id":857241121
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871029,
+            "region_id":85688567,
+            "venue_id":857241121
+        }
+    ],
+    "wof:id":857241121,
+    "wof:lastmodified":1464125032,
+    "wof:name":"Haven The",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "abuse",
+        "substance",
+        "specialty",
+        "for",
+        "rehabilitation"
+    ]
+},
+  "bbox": [
+    -111.863096,
+    40.769275,
+    -111.863096,
+    40.769275
+],
+  "geometry": {"coordinates":[-111.863096,40.769275],"type":"Point"}
+}

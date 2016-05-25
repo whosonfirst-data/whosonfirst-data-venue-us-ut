@@ -1,0 +1,68 @@
+{
+  "id": 857256393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.67616,40.25903,-111.67616,40.25903",
+    "geom:latitude":40.25903,
+    "geom:longitude":-111.67616,
+    "iso:country":"US",
+    "sg:address":"1885 N 1120 W",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 374 2400",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MDc1QWs2mhKJhKyX5znrE_40.259030_-111.676160@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125415,
+    "wof:geomhash":"67cc1b21ed86b3007acabac818ae6392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880063,
+            "region_id":85688567,
+            "venue_id":857256393
+        }
+    ],
+    "wof:id":857256393,
+    "wof:lastmodified":1464125415,
+    "wof:name":"John C Ford Dr",
+    "wof:parent_id":85880063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.67616,
+    40.25903,
+    -111.67616,
+    40.25903
+],
+  "geometry": {"coordinates":[-111.67616,40.25903],"type":"Point"}
+}

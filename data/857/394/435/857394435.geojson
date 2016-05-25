@@ -1,0 +1,69 @@
+{
+  "id": 857394435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.704693,40.23529,-111.704693,40.23529",
+    "geom:latitude":40.23529,
+    "geom:longitude":-111.704693,
+    "iso:country":"US",
+    "sg:address":"146 N 2650 W",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 377 9971",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880073,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_253BHyZPBB9mEKl76OsrnU_40.235290_-111.704693@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128512,
+    "wof:geomhash":"5975b632fc0c287b46ab0fb08a3f7fc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880073,
+            "region_id":85688567,
+            "venue_id":857394435
+        }
+    ],
+    "wof:id":857394435,
+    "wof:lastmodified":1464128512,
+    "wof:name":"Mikes Mobile Oil & Lube",
+    "wof:parent_id":85880073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -111.704693,
+    40.23529,
+    -111.704693,
+    40.23529
+],
+  "geometry": {"coordinates":[-111.70469300000001,40.23529],"type":"Point"}
+}

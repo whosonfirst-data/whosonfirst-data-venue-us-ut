@@ -1,0 +1,73 @@
+{
+  "id": 857105323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.878904,40.738315,-111.878904,40.738315",
+    "geom:latitude":40.738315,
+    "geom:longitude":-111.878904,
+    "iso:country":"US",
+    "sg:address":"428 Cleveland Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 485 5808",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "arbitration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iuz5nkb3h8PG1fErtk5Oj_40.738315_-111.878904@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122033,
+    "wof:geomhash":"9b7edb6e73a28382dd8f58ac030f288c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871027,
+            "region_id":85688567,
+            "venue_id":857105323
+        }
+    ],
+    "wof:id":857105323,
+    "wof:lastmodified":1464122033,
+    "wof:name":"National Arbitration Assn",
+    "wof:parent_id":85871027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arbitration"
+    ]
+},
+  "bbox": [
+    -111.878904,
+    40.738315,
+    -111.878904,
+    40.738315
+],
+  "geometry": {"coordinates":[-111.87890400000001,40.738315],"type":"Point"}
+}

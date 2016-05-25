@@ -1,0 +1,73 @@
+{
+  "id": 857471045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.859679,40.724944,-111.859679,40.724944",
+    "geom:latitude":40.724944,
+    "geom:longitude":-111.859679,
+    "iso:country":"US",
+    "sg:address":"2188 Highland Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 474 3684",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "physician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85858269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ffG9XvpYPoZ7qV1CHd12m_40.724944_-111.859679@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130192,
+    "wof:geomhash":"fbf188cd55fbb66ef9e8faa9bbc7b0d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85858269,
+            "region_id":85688567,
+            "venue_id":857471045
+        }
+    ],
+    "wof:id":857471045,
+    "wof:lastmodified":1464130192,
+    "wof:name":"Eastside Natural Health Clinic",
+    "wof:parent_id":85858269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician"
+    ]
+},
+  "bbox": [
+    -111.859679,
+    40.724944,
+    -111.859679,
+    40.724944
+],
+  "geometry": {"coordinates":[-111.859679,40.724944],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857274661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.61702,37.030835,-113.61702,37.030835",
+    "geom:latitude":37.030835,
+    "geom:longitude":-113.61702,
+    "iso:country":"US",
+    "sg:address":"4534 Ironwood Dr",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 652 8968",
+    "sg:postcode":"84790",
+    "sg:province":"UT",
+    "sg:tags":[
+        "company",
+        "holding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727617,
+        102082879,
+        85803851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GkfbojLq0zzGxuqzP73uG_37.030835_-113.617020@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125784,
+    "wof:geomhash":"bff31feb9e3790760dfdfd4294409fa1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85803851,
+            "region_id":85688567,
+            "venue_id":857274661
+        }
+    ],
+    "wof:id":857274661,
+    "wof:lastmodified":1464125784,
+    "wof:name":"Morgan Seidl Holdings LLC",
+    "wof:parent_id":85803851,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "holding"
+    ]
+},
+  "bbox": [
+    -113.61702,
+    37.030835,
+    -113.61702,
+    37.030835
+],
+  "geometry": {"coordinates":[-113.61702,37.030835],"type":"Point"}
+}

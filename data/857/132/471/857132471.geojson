@@ -1,0 +1,73 @@
+{
+  "id": 857132471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.964388,41.086851,-111.964388,41.086851",
+    "geom:latitude":41.086851,
+    "geom:longitude":-111.964388,
+    "iso:country":"US",
+    "sg:address":"1889 N 75 E",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 773 8366",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kATT5IEYcAsNEWqseKlKf_41.086851_-111.964388@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122728,
+    "wof:geomhash":"574379b704cf812f5c8f25cf0f1fb2d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857132471
+        }
+    ],
+    "wof:id":857132471,
+    "wof:lastmodified":1464122728,
+    "wof:name":"Tow Gear",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -111.964388,
+    41.086851,
+    -111.964388,
+    41.086851
+],
+  "geometry": {"coordinates":[-111.964388,41.086851],"type":"Point"}
+}

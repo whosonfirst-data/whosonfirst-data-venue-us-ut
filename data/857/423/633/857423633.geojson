@@ -1,0 +1,71 @@
+{
+  "id": 857423633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.833436,41.798588,-111.833436,41.798588",
+    "geom:latitude":41.798588,
+    "geom:longitude":-111.833436,
+    "iso:country":"US",
+    "sg:address":"3520 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 797 2279",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PTrTBbIVKcxnUByCCXrKo_41.798588_-111.833436@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129182,
+    "wof:geomhash":"db1980f5c5d94e1b60d8674e3c39e19a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857423633
+        }
+    ],
+    "wof:id":857423633,
+    "wof:lastmodified":1464129182,
+    "wof:name":"College of Business",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -111.833436,
+    41.798588,
+    -111.833436,
+    41.798588
+],
+  "geometry": {"coordinates":[-111.83343600000001,41.798588],"type":"Point"}
+}

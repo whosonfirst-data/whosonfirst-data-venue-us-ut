@@ -1,0 +1,74 @@
+{
+  "id": 857163491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.815079,41.750072,-111.815079,41.750072",
+    "geom:latitude":41.750072,
+    "geom:longitude":-111.815079,
+    "iso:country":"US",
+    "sg:address":"756 E 1000 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 6376",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "sg:website":"www.cobblecreekapartments.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JeLTLv9zTsF7e7YUKHJAk_41.750072_-111.815079@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123432,
+    "wof:geomhash":"74581123af294277e29bc28d229a6a03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857163491
+        }
+    ],
+    "wof:id":857163491,
+    "wof:lastmodified":1464123432,
+    "wof:name":"Cobble Creek Apartments",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -111.815079,
+    41.750072,
+    -111.815079,
+    41.750072
+],
+  "geometry": {"coordinates":[-111.815079,41.750072],"type":"Point"}
+}

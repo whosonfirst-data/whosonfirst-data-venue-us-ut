@@ -1,0 +1,71 @@
+{
+  "id": 857152081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.841079,41.749477,-111.841079,41.749477",
+    "geom:latitude":41.749477,
+    "geom:longitude":-111.841079,
+    "iso:country":"US",
+    "sg:address":"290 Bridger Dr",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 4321",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10IYl1Gc2AzlByb9HKMibI_41.749477_-111.841079@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123188,
+    "wof:geomhash":"e4e3581792454b1ba2a8bb689e02e932",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857152081
+        }
+    ],
+    "wof:id":857152081,
+    "wof:lastmodified":1464123188,
+    "wof:name":"Arturos Place",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.841079,
+    41.749477,
+    -111.841079,
+    41.749477
+],
+  "geometry": {"coordinates":[-111.84107899999999,41.749477],"type":"Point"}
+}

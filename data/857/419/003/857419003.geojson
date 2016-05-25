@@ -1,0 +1,71 @@
+{
+  "id": 857419003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.813965,41.750639,-111.813965,41.750639",
+    "geom:latitude":41.750639,
+    "geom:longitude":-111.813965,
+    "iso:country":"US",
+    "sg:address":"1039 N 800 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 1618",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pYPHOjsalsVdrvRYVyqtl_41.750639_-111.813965@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129077,
+    "wof:geomhash":"4fe306f854c8b661d21d83e6744ba5e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857419003
+        }
+    ],
+    "wof:id":857419003,
+    "wof:lastmodified":1464129077,
+    "wof:name":"Kathy Winslow",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -111.813965,
+    41.750639,
+    -111.813965,
+    41.750639
+],
+  "geometry": {"coordinates":[-111.813965,41.750639],"type":"Point"}
+}

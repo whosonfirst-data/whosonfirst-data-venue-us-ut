@@ -1,0 +1,73 @@
+{
+  "id": 857144443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.647084,40.121309,-111.647084,40.121309",
+    "geom:latitude":40.121309,
+    "geom:longitude":-111.647084,
+    "iso:country":"US",
+    "sg:address":"446 E 900 N",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 6977",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "beef",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iZji43awl3ZA4amIlpzXf_40.121309_-111.647084@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123021,
+    "wof:geomhash":"a9864c4a1e0b8cc91f985972edc4095f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857144443
+        }
+    ],
+    "wof:id":857144443,
+    "wof:lastmodified":1464123021,
+    "wof:name":"Oberhansley Ranch",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -111.647084,
+    40.121309,
+    -111.647084,
+    40.121309
+],
+  "geometry": {"coordinates":[-111.64708400000001,40.121309],"type":"Point"}
+}

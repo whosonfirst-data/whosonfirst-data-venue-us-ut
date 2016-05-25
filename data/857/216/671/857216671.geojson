@@ -1,0 +1,75 @@
+{
+  "id": 857216671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.830941,40.685748,-111.830941,40.685748",
+    "geom:latitude":40.685748,
+    "geom:longitude":-111.830941,
+    "iso:country":"US",
+    "sg:address":"2115 Rainbow Point Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 277 5771",
+    "sg:postcode":"84124",
+    "sg:province":"UT",
+    "sg:tags":[
+        "computer",
+        "mot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85859021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5p47wAu2eGWSHAoQogLnge_40.685748_-111.830941@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124545,
+    "wof:geomhash":"e435623b85ea33da75e5ac19a4286022",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85859021,
+            "region_id":85688567,
+            "venue_id":857216671
+        }
+    ],
+    "wof:id":857216671,
+    "wof:lastmodified":1464124545,
+    "wof:name":"Video Wholesale Services",
+    "wof:parent_id":85859021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "computer",
+        "mot"
+    ]
+},
+  "bbox": [
+    -111.830941,
+    40.685748,
+    -111.830941,
+    40.685748
+],
+  "geometry": {"coordinates":[-111.830941,40.685748],"type":"Point"}
+}

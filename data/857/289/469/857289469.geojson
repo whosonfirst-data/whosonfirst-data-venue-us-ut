@@ -1,0 +1,71 @@
+{
+  "id": 857289469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.804241,41.747073,-111.804241,41.747073",
+    "geom:latitude":41.747073,
+    "geom:longitude":-111.804241,
+    "iso:country":"US",
+    "sg:address":"860 N 1200 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 755 3560",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "forest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LC6fyuS1EyxP4zIP23pHD_41.747073_-111.804241@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126133,
+    "wof:geomhash":"76b1833d9bb6de16f628cd7aee45e742",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857289469
+        }
+    ],
+    "wof:id":857289469,
+    "wof:lastmodified":1464126133,
+    "wof:name":"Rocky Mountain Research",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forest"
+    ]
+},
+  "bbox": [
+    -111.804241,
+    41.747073,
+    -111.804241,
+    41.747073
+],
+  "geometry": {"coordinates":[-111.804241,41.747073],"type":"Point"}
+}

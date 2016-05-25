@@ -1,0 +1,73 @@
+{
+  "id": 857444551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.043724,41.111773,-112.043724,41.111773",
+    "geom:latitude":41.111773,
+    "geom:longitude":-112.043724,
+    "iso:country":"US",
+    "sg:address":"816 W 150 S",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 779 4225",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85819031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HkAqgAIB2eZyG2aqWk05g_41.111773_-112.043724@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129648,
+    "wof:geomhash":"1a6de7b6c552f8934099a513af29c374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85819031,
+            "region_id":85688567,
+            "venue_id":857444551
+        }
+    ],
+    "wof:id":857444551,
+    "wof:lastmodified":1464129648,
+    "wof:name":"Jane DOE Consulting",
+    "wof:parent_id":85819031,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -112.043724,
+    41.111773,
+    -112.043724,
+    41.111773
+],
+  "geometry": {"coordinates":[-112.043724,41.111773],"type":"Point"}
+}

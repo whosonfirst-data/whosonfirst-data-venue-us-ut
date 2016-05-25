@@ -1,0 +1,82 @@
+{
+  "id": 857199317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.851446,40.701687,-111.851446,40.701687",
+    "geom:latitude":40.701687,
+    "geom:longitude":-111.851446,
+    "iso:country":"US",
+    "sg:address":"3202 Highland Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 558 8463",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "cellular",
+        "telephone",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85832079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3m8PoMS2AsIHISNFBY9yku_40.701687_-111.851446@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124163,
+    "wof:geomhash":"5b24a5b7dff13895733af91eede487f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85832079,
+            "region_id":85688567,
+            "venue_id":857199317
+        }
+    ],
+    "wof:id":857199317,
+    "wof:lastmodified":1464124163,
+    "wof:name":"Airtime Cellular Lc",
+    "wof:parent_id":85832079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cellular",
+        "telephone",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -111.851446,
+    40.701687,
+    -111.851446,
+    40.701687
+],
+  "geometry": {"coordinates":[-111.851446,40.701687],"type":"Point"}
+}

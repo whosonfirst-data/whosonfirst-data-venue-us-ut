@@ -1,0 +1,68 @@
+{
+  "id": 857180671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.024925,40.697543,-112.024925,40.697543",
+    "geom:latitude":40.697543,
+    "geom:longitude":-112.024925,
+    "iso:country":"US",
+    "sg:address":"3364 S 5600 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 966 0707",
+    "sg:postcode":"84120",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85802447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2otkkmptAVPHP5SySEO0Sl_40.697543_-112.024925@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123809,
+    "wof:geomhash":"35abf00a392bfe097f3ec51de0538dc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85802447,
+            "region_id":85688567,
+            "venue_id":857180671
+        }
+    ],
+    "wof:id":857180671,
+    "wof:lastmodified":1464123809,
+    "wof:name":"Granny's Flowers & Gifts",
+    "wof:parent_id":85802447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.024925,
+    40.697543,
+    -112.024925,
+    40.697543
+],
+  "geometry": {"coordinates":[-112.024925,40.697543],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857278729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.662318,40.230131,-111.662318,40.230131",
+    "geom:latitude":40.230131,
+    "geom:longitude":-111.662318,
+    "iso:country":"US",
+    "sg:address":"232 S Freedom Blvd",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 374 0012",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Idz39b5vqqOuvQctImNow_40.230131_-111.662318@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125885,
+    "wof:geomhash":"a84e870f73e4f8a345e7544956203698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880065,
+            "region_id":85688567,
+            "venue_id":857278729
+        }
+    ],
+    "wof:id":857278729,
+    "wof:lastmodified":1464125885,
+    "wof:name":"Autobahn",
+    "wof:parent_id":85880065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -111.662318,
+    40.230131,
+    -111.662318,
+    40.230131
+],
+  "geometry": {"coordinates":[-111.662318,40.230131],"type":"Point"}
+}

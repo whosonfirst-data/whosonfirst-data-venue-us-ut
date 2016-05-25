@@ -1,0 +1,69 @@
+{
+  "id": 857178299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.862475,40.665785,-111.862475,40.665785",
+    "geom:latitude":40.665785,
+    "geom:longitude":-111.862475,
+    "iso:country":"US",
+    "sg:address":"969 Murray Holladay Rd",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 265 9233",
+    "sg:postcode":"84117",
+    "sg:province":"UT",
+    "sg:tags":[
+        "rehabilitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85826429,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VFgaSYT5RTUqJqLCYcn8d_40.665785_-111.862475@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123756,
+    "wof:geomhash":"e05a5792b849bd67b2e3fd3589a3caec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85826429,
+            "region_id":85688567,
+            "venue_id":857178299
+        }
+    ],
+    "wof:id":857178299,
+    "wof:lastmodified":1464123756,
+    "wof:name":"Inner Technologies Incoporated",
+    "wof:parent_id":85826429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehabilitation"
+    ]
+},
+  "bbox": [
+    -111.862475,
+    40.665785,
+    -111.862475,
+    40.665785
+],
+  "geometry": {"coordinates":[-111.862475,40.665785],"type":"Point"}
+}

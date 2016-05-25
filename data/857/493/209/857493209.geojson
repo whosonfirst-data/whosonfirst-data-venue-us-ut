@@ -1,0 +1,74 @@
+{
+  "id": 857493209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.807696,40.699924,-111.807696,40.699924",
+    "geom:latitude":40.699924,
+    "geom:longitude":-111.807696,
+    "iso:country":"US",
+    "sg:address":"2991 E 3300 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/56213-citris-grill/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 466 1202",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728257,
+        102082877,
+        85854869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IRrlSRMFq1YC6NSyvkcUq_40.699924_-111.807696@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130706,
+    "wof:geomhash":"ef82b528f032d60e66598ff3e3cf0e93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85854869,
+            "region_id":85688567,
+            "venue_id":857493209
+        }
+    ],
+    "wof:id":857493209,
+    "wof:lastmodified":1464130706,
+    "wof:name":"Citris Grill",
+    "wof:parent_id":85854869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [
+    -111.807696,
+    40.699924,
+    -111.807696,
+    40.699924
+],
+  "geometry": {"coordinates":[-111.80769600000001,40.699924],"type":"Point"}
+}

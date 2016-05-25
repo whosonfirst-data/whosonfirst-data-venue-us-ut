@@ -1,0 +1,66 @@
+{
+  "id": 857176549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.787258,40.691472,-111.787258,40.691472",
+    "geom:latitude":40.691472,
+    "geom:longitude":-111.787258,
+    "iso:country":"US",
+    "sg:address":"3643 S Choke Cherry Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 278 4606",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728257,
+        102082877,
+        85854869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VNPVzzYJ6gZPgYYv6vXoe_40.691472_-111.787258@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123725,
+    "wof:geomhash":"51e19db8020233efcf0a0d150028509a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85854869,
+            "region_id":85688567,
+            "venue_id":857176549
+        }
+    ],
+    "wof:id":857176549,
+    "wof:lastmodified":1464123725,
+    "wof:name":"Humble Pie",
+    "wof:parent_id":85854869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.787258,
+    40.691472,
+    -111.787258,
+    40.691472
+],
+  "geometry": {"coordinates":[-111.78725799999999,40.691472],"type":"Point"}
+}

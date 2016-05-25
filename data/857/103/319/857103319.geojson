@@ -1,0 +1,73 @@
+{
+  "id": 857103319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.951628,40.619651,-111.951628,40.619651",
+    "geom:latitude":40.619651,
+    "geom:longitude":-111.951628,
+    "iso:country":"US",
+    "sg:address":"7220 S 2370 W",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 565 7506",
+    "sg:postcode":"84084",
+    "sg:province":"UT",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85824493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SV6YYoaSwqgImkEJWo1Kj_40.619651_-111.951628@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121989,
+    "wof:geomhash":"7537c3ee0a61c9b255e4c197820eb393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85824493,
+            "region_id":85688567,
+            "venue_id":857103319
+        }
+    ],
+    "wof:id":857103319,
+    "wof:lastmodified":1464121989,
+    "wof:name":"West Jordan Elementary School",
+    "wof:parent_id":85824493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -111.951628,
+    40.619651,
+    -111.951628,
+    40.619651
+],
+  "geometry": {"coordinates":[-111.951628,40.619651],"type":"Point"}
+}

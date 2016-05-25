@@ -1,0 +1,75 @@
+{
+  "id": 857142859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.664906,40.134164,-111.664906,40.134164",
+    "geom:latitude":40.134164,
+    "geom:longitude":-111.664906,
+    "iso:country":"US",
+    "sg:address":"609 W 1900 N",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 0904",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "casting",
+        "ferrous"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727829,
+        102083567,
+        85880117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iaH4CHy6z4A8jCYE9ekC3_40.134164_-111.664906@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122959,
+    "wof:geomhash":"59d338d90cebf16f3f4a43b78dcea6b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727829,
+            "neighbourhood_id":85880117,
+            "region_id":85688567,
+            "venue_id":857142859
+        }
+    ],
+    "wof:id":857142859,
+    "wof:lastmodified":1464122959,
+    "wof:name":"Emerald Precision Casting Co",
+    "wof:parent_id":85880117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "casting",
+        "ferrous"
+    ]
+},
+  "bbox": [
+    -111.664906,
+    40.134164,
+    -111.664906,
+    40.134164
+],
+  "geometry": {"coordinates":[-111.664906,40.134164],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857441531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.673137,40.319123,-111.673137,40.319123",
+    "geom:latitude":40.319123,
+    "geom:longitude":-111.673137,
+    "iso:country":"US",
+    "sg:address":"932 E 1200 N",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 225 1782",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aV3CPKp8VPzBIVgY5QL1x_40.319123_-111.673137@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129597,
+    "wof:geomhash":"fc102e27770f4dda1e931dd276637783",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857441531
+        }
+    ],
+    "wof:id":857441531,
+    "wof:lastmodified":1464129597,
+    "wof:name":"Advantage Striping",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -111.673137,
+    40.319123,
+    -111.673137,
+    40.319123
+],
+  "geometry": {"coordinates":[-111.673137,40.319123],"type":"Point"}
+}

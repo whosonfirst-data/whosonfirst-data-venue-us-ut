@@ -1,0 +1,69 @@
+{
+  "id": 857318495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.006344,41.060082,-112.006344,41.060082",
+    "geom:latitude":41.060082,
+    "geom:longitude":-112.006344,
+    "iso:country":"US",
+    "sg:address":"1815 W Gentile St",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 544 1211",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "nurseryman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85868169,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iNJQkf1loGIQNQYFl91jh_41.060082_-112.006344@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126821,
+    "wof:geomhash":"5b23c8a2453493f9c607cd1b2917d80f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "neighbourhood_id":85868169,
+            "region_id":85688567,
+            "venue_id":857318495
+        }
+    ],
+    "wof:id":857318495,
+    "wof:lastmodified":1464126821,
+    "wof:name":"J & J Nursery & Garden Ctr",
+    "wof:parent_id":85868169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurseryman"
+    ]
+},
+  "bbox": [
+    -112.006344,
+    41.060082,
+    -112.006344,
+    41.060082
+],
+  "geometry": {"coordinates":[-112.006344,41.060082],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857464721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.922598,40.609062,-111.922598,40.609062",
+    "geom:latitude":40.609062,
+    "geom:longitude":-111.922598,
+    "iso:country":"US",
+    "sg:address":"1095 W 7800 S",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 561 8677",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728051,
+        102082877,
+        85814513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_102Kc3jhqQfO6hepy9AfBk_40.609062_-111.922598@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130056,
+    "wof:geomhash":"e9242e0d67a185fb726e4aee007e1a77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85814513,
+            "region_id":85688567,
+            "venue_id":857464721
+        }
+    ],
+    "wof:id":857464721,
+    "wof:lastmodified":1464130056,
+    "wof:name":"Storybook Nook",
+    "wof:parent_id":85814513,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -111.922598,
+    40.609062,
+    -111.922598,
+    40.609062
+],
+  "geometry": {"coordinates":[-111.92259799999999,40.609062],"type":"Point"}
+}

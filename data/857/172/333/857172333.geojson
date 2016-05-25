@@ -1,0 +1,75 @@
+{
+  "id": 857172333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.67883,40.263882,-111.67883,40.263882",
+    "geom:latitude":40.263882,
+    "geom:longitude":-111.67883,
+    "iso:country":"US",
+    "sg:address":"1995 S State St",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 235 9286",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85880081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12tB8z5UtL7Ppe97jMnSwg_40.263882_-111.678830@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123636,
+    "wof:geomhash":"80fd543e9edb3cfd389dff94628cf2b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85880081,
+            "region_id":85688567,
+            "venue_id":857172333
+        }
+    ],
+    "wof:id":857172333,
+    "wof:lastmodified":1464123636,
+    "wof:name":"Phoenix Auto Ctr",
+    "wof:parent_id":85880081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -111.67883,
+    40.263882,
+    -111.67883,
+    40.263882
+],
+  "geometry": {"coordinates":[-111.67883,40.263882],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857169643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.883996,40.701948,-111.883996,40.701948",
+    "geom:latitude":40.701948,
+    "geom:longitude":-111.883996,
+    "iso:country":"US",
+    "sg:address":"255 E Crestone Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 466 0098",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85854999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Y5W1CndF95QAXftRfZSgn_40.701948_-111.883996@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123573,
+    "wof:geomhash":"06140075b8c4816704e1b9db6bc7f984",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85854999,
+            "region_id":85688567,
+            "venue_id":857169643
+        }
+    ],
+    "wof:id":857169643,
+    "wof:lastmodified":1464123573,
+    "wof:name":"4 All Towing",
+    "wof:parent_id":85854999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -111.883996,
+    40.701948,
+    -111.883996,
+    40.701948
+],
+  "geometry": {"coordinates":[-111.883996,40.701948],"type":"Point"}
+}

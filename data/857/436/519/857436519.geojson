@@ -1,0 +1,75 @@
+{
+  "id": 857436519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.8906,40.913151,-111.8906,40.913151",
+    "geom:latitude":40.913151,
+    "geom:longitude":-111.8906,
+    "iso:country":"US",
+    "sg:address":"520 W Porter Ln",
+    "sg:city":"Centerville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 295 7772",
+    "sg:postcode":"84014",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727879,
+        102083563,
+        85842111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7R5fi2MnMhSGWmtIxuARln_40.913151_-111.890600@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129502,
+    "wof:geomhash":"3b31c6f44d9e632786e65504e85b25af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727879,
+            "neighbourhood_id":85842111,
+            "region_id":85688567,
+            "venue_id":857436519
+        }
+    ],
+    "wof:id":857436519,
+    "wof:lastmodified":1464129502,
+    "wof:name":"Richard Rowe Automotive",
+    "wof:parent_id":85842111,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -111.8906,
+    40.913151,
+    -111.8906,
+    40.913151
+],
+  "geometry": {"coordinates":[-111.89060000000001,40.913151],"type":"Point"}
+}

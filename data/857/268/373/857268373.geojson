@@ -1,0 +1,75 @@
+{
+  "id": 857268373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.901578,40.587564,-111.901578,40.587564",
+    "geom:latitude":40.587564,
+    "geom:longitude":-111.901578,
+    "iso:country":"US",
+    "sg:address":"9110 S 300 W",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 562 2333",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85818097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4K25ig3UXqPqB9RiIEA7Ft_40.587564_-111.901578@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125655,
+    "wof:geomhash":"5974363622eb05e08269db025ccd1a00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85818097,
+            "region_id":85688567,
+            "venue_id":857268373
+        }
+    ],
+    "wof:id":857268373,
+    "wof:lastmodified":1464125655,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85818097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -111.901578,
+    40.587564,
+    -111.901578,
+    40.587564
+],
+  "geometry": {"coordinates":[-111.901578,40.587564],"type":"Point"}
+}

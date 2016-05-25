@@ -1,0 +1,73 @@
+{
+  "id": 857163835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.791422,40.704196,-111.791422,40.704196",
+    "geom:latitude":40.704196,
+    "geom:longitude":-111.791422,
+    "iso:country":"US",
+    "sg:address":"3131 S Teton Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 467 2021",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "exploration",
+        "mineral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728257,
+        102082877,
+        85854869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QkLgCABvoYao43opZiZbs_40.704196_-111.791422@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123440,
+    "wof:geomhash":"d312a54af3d333b021911a64b1d116cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85854869,
+            "region_id":85688567,
+            "venue_id":857163835
+        }
+    ],
+    "wof:id":857163835,
+    "wof:lastmodified":1464123440,
+    "wof:name":"Tintic Gold Mining Company",
+    "wof:parent_id":85854869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exploration",
+        "mineral"
+    ]
+},
+  "bbox": [
+    -111.791422,
+    40.704196,
+    -111.791422,
+    40.704196
+],
+  "geometry": {"coordinates":[-111.791422,40.704196],"type":"Point"}
+}

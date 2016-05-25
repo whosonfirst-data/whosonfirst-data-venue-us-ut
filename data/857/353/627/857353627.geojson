@@ -1,0 +1,73 @@
+{
+  "id": 857353627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.852744,41.728068,-111.852744,41.728068",
+    "geom:latitude":41.728068,
+    "geom:longitude":-111.852744,
+    "iso:country":"US",
+    "sg:address":"755 W 200 S",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 0920",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1v6RRVlxKzWU1VormZEEOb_41.728068_-111.852744@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127566,
+    "wof:geomhash":"4f39166fe20f26cd0ff9c10cfaa56c4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857353627
+        }
+    ],
+    "wof:id":857353627,
+    "wof:lastmodified":1464127566,
+    "wof:name":"tec Electric Co",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.852744,
+    41.728068,
+    -111.852744,
+    41.728068
+],
+  "geometry": {"coordinates":[-111.852744,41.728068],"type":"Point"}
+}

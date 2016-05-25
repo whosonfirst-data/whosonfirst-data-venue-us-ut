@@ -1,0 +1,75 @@
+{
+  "id": 857294619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.851857,40.649384,-111.851857,40.649384",
+    "geom:latitude":40.649384,
+    "geom:longitude":-111.851857,
+    "iso:country":"US",
+    "sg:address":"1326 E 5600 S",
+    "sg:city":"Holladay",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 274 8089",
+    "sg:postcode":"84121",
+    "sg:province":"UT",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85852959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pdBHAjVp31VK5zy9dQfhU_40.649384_-111.851857@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126278,
+    "wof:geomhash":"bbf81d4ec43fd2963fb7c916966bce23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85852959,
+            "region_id":85688567,
+            "venue_id":857294619
+        }
+    ],
+    "wof:id":857294619,
+    "wof:lastmodified":1464126278,
+    "wof:name":"Sunburst Carwash",
+    "wof:parent_id":85852959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -111.851857,
+    40.649384,
+    -111.851857,
+    40.649384
+],
+  "geometry": {"coordinates":[-111.851857,40.649384],"type":"Point"}
+}

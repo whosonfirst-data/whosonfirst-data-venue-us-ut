@@ -1,0 +1,77 @@
+{
+  "id": 857399951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.025995,41.108375,-112.025995,41.108375",
+    "geom:latitude":41.108375,
+    "geom:longitude":-112.025995,
+    "iso:country":"US",
+    "sg:address":"497 S Main St",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 525 4400",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85851583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XHbeTA6KGYpbPl38yfZNx_41.108375_-112.025995@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128622,
+    "wof:geomhash":"f46d4bbd1e3996661ea098682ec12797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85851583,
+            "region_id":85688567,
+            "venue_id":857399951
+        }
+    ],
+    "wof:id":857399951,
+    "wof:lastmodified":1464128622,
+    "wof:name":"Clearfield Public Works Shop",
+    "wof:parent_id":85851583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -112.025995,
+    41.108375,
+    -112.025995,
+    41.108375
+],
+  "geometry": {"coordinates":[-112.02599499999999,41.108375],"type":"Point"}
+}

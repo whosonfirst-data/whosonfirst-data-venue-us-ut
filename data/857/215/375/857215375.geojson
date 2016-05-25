@@ -1,0 +1,71 @@
+{
+  "id": 857215375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.844912,41.741922,-111.844912,41.741922",
+    "geom:latitude":41.741922,
+    "geom:longitude":-111.844912,
+    "iso:country":"US",
+    "sg:address":"510 N 400 W",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 0104",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33URnJhn0hhvglFKZO9Agj_41.741922_-111.844912@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124521,
+    "wof:geomhash":"4f659a5103f71d01ead48e234751ca73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857215375
+        }
+    ],
+    "wof:id":857215375,
+    "wof:lastmodified":1464124521,
+    "wof:name":"Raycomm Inc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    -111.844912,
+    41.741922,
+    -111.844912,
+    41.741922
+],
+  "geometry": {"coordinates":[-111.84491199999999,41.741922],"type":"Point"}
+}

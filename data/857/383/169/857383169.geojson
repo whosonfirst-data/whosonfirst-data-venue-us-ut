@@ -1,0 +1,71 @@
+{
+  "id": 857383169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.044897,41.068514,-112.044897,41.068514",
+    "geom:latitude":41.068514,
+    "geom:longitude":-112.044897,
+    "iso:country":"US",
+    "sg:address":"916 W 3150 S",
+    "sg:city":"Syracuse",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 774 9229",
+    "sg:postcode":"84075",
+    "sg:province":"UT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85868169,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RqG3cXt1NJUWQcz9ckR8N_41.068514_-112.044897@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128217,
+    "wof:geomhash":"73116960db8fcfe6416f806214c15376",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "neighbourhood_id":85868169,
+            "region_id":85688567,
+            "venue_id":857383169
+        }
+    ],
+    "wof:id":857383169,
+    "wof:lastmodified":1464128217,
+    "wof:name":"Kayle Concrete Inc",
+    "wof:parent_id":85868169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -112.044897,
+    41.068514,
+    -112.044897,
+    41.068514
+],
+  "geometry": {"coordinates":[-112.04489700000001,41.068514],"type":"Point"}
+}

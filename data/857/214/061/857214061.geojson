@@ -1,0 +1,79 @@
+{
+  "id": 857214061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.905388,40.679265,-111.905388,40.679265",
+    "geom:latitude":40.679265,
+    "geom:longitude":-111.905388,
+    "iso:country":"US",
+    "sg:address":"4235 S 500 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 266 3331",
+    "sg:postcode":"84123",
+    "sg:province":"UT",
+    "sg:tags":[
+        "engine",
+        "truck",
+        "parts",
+        "diesel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85851609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0N9yuKo0Xqy2JudGMgbcEo_40.679265_-111.905388@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124489,
+    "wof:geomhash":"b5fe8b6c4a881b05ea5494e626940c07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85851609,
+            "region_id":85688567,
+            "venue_id":857214061
+        }
+    ],
+    "wof:id":857214061,
+    "wof:lastmodified":1464124489,
+    "wof:name":"Kenworth Sales Company",
+    "wof:parent_id":85851609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "truck",
+        "parts",
+        "diesel"
+    ]
+},
+  "bbox": [
+    -111.905388,
+    40.679265,
+    -111.905388,
+    40.679265
+],
+  "geometry": {"coordinates":[-111.905388,40.679265],"type":"Point"}
+}

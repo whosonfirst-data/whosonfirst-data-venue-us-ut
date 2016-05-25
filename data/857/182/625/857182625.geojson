@@ -1,0 +1,71 @@
+{
+  "id": 857182625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.919521,41.028236,-111.919521,41.028236",
+    "geom:latitude":41.028236,
+    "geom:longitude":-111.919521,
+    "iso:country":"US",
+    "sg:address":"844 E 400 S",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 444 0683",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Tv8JQyHtfm58jfZnC6fQ5_41.028236_-111.919521@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123849,
+    "wof:geomhash":"64c2a24444645b61ec7c5379c5ed57ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857182625
+        }
+    ],
+    "wof:id":857182625,
+    "wof:lastmodified":1464123849,
+    "wof:name":"Mp Plumbing",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.919521,
+    41.028236,
+    -111.919521,
+    41.028236
+],
+  "geometry": {"coordinates":[-111.919521,41.028236],"type":"Point"}
+}

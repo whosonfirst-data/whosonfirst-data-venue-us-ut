@@ -1,0 +1,73 @@
+{
+  "id": 857199841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.601648,40.161132,-111.601648,40.161132",
+    "geom:latitude":40.161132,
+    "geom:longitude":-111.601648,
+    "iso:country":"US",
+    "sg:address":"411 E 400 S",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 491 3333",
+    "sg:postcode":"84663",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727829,
+        102083567,
+        85880117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1x2ytbHL5MEzrT4vg0jBSy_40.161132_-111.601648@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124173,
+    "wof:geomhash":"0c9ff1d9784063089b8e9499c2b9b08f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727829,
+            "neighbourhood_id":85880117,
+            "region_id":85688567,
+            "venue_id":857199841
+        }
+    ],
+    "wof:id":857199841,
+    "wof:lastmodified":1464124173,
+    "wof:name":"Sage Creek Salon",
+    "wof:parent_id":85880117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.601648,
+    40.161132,
+    -111.601648,
+    40.161132
+],
+  "geometry": {"coordinates":[-111.601648,40.161132],"type":"Point"}
+}

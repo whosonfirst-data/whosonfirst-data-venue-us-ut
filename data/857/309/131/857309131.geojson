@@ -1,0 +1,71 @@
+{
+  "id": 857309131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.710025,40.233756,-111.710025,40.233756",
+    "geom:latitude":40.233756,
+    "geom:longitude":-111.710025,
+    "iso:country":"US",
+    "sg:address":"2901 W Center St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 5079",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880073,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0u7M04hBszPo76fFf4KzOA_40.233756_-111.710025@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126601,
+    "wof:geomhash":"3eb89c1889f1d393e605cfb98400fc8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880073,
+            "region_id":85688567,
+            "venue_id":857309131
+        }
+    ],
+    "wof:id":857309131,
+    "wof:lastmodified":1464126601,
+    "wof:name":"Country View Manor",
+    "wof:parent_id":85880073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -111.710025,
+    40.233756,
+    -111.710025,
+    40.233756
+],
+  "geometry": {"coordinates":[-111.710025,40.233756],"type":"Point"}
+}

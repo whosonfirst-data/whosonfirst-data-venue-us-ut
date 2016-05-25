@@ -1,0 +1,71 @@
+{
+  "id": 857115017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.671686,40.299596,-111.671686,40.299596",
+    "geom:latitude":40.299596,
+    "geom:longitude":-111.671686,
+    "iso:country":"US",
+    "sg:address":"174 N 1000 E",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 226 8787",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aS4pqbU0z8RAQBUfk93BM_40.299596_-111.671686@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122313,
+    "wof:geomhash":"b7637284418273fd02a73184fadfbc04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857115017
+        }
+    ],
+    "wof:id":857115017,
+    "wof:lastmodified":1464122313,
+    "wof:name":"Steve Biegler Construction Inc",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.671686,
+    40.299596,
+    -111.671686,
+    40.299596
+],
+  "geometry": {"coordinates":[-111.67168599999999,40.299596],"type":"Point"}
+}

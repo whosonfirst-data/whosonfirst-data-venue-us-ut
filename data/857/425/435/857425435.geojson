@@ -1,0 +1,73 @@
+{
+  "id": 857425435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.885254,40.686988,-111.885254,40.686988",
+    "geom:latitude":40.686988,
+    "geom:longitude":-111.885254,
+    "iso:country":"US",
+    "sg:address":"248 E 3900 S",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 268 1919",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85810147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sXaKbDFlTx2KJpYHh6CmL_40.686988_-111.885254@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129237,
+    "wof:geomhash":"dce3461d96d708f291a3248eeb983761",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85810147,
+            "region_id":85688567,
+            "venue_id":857425435
+        }
+    ],
+    "wof:id":857425435,
+    "wof:lastmodified":1464129237,
+    "wof:name":"Genesis Books I",
+    "wof:parent_id":85810147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -111.885254,
+    40.686988,
+    -111.885254,
+    40.686988
+],
+  "geometry": {"coordinates":[-111.885254,40.686988],"type":"Point"}
+}

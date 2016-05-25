@@ -1,0 +1,71 @@
+{
+  "id": 857158999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.799076,41.772911,-111.799076,41.772911",
+    "geom:latitude":41.772911,
+    "geom:longitude":-111.799076,
+    "iso:country":"US",
+    "sg:address":"1320 E 2300 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 1782",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UXI55avyiZsFHEMzCh17Z_41.772911_-111.799076@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123326,
+    "wof:geomhash":"ff6fc5311e9f2867f1df1f58c0e1bc37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857158999
+        }
+    ],
+    "wof:id":857158999,
+    "wof:lastmodified":1464123326,
+    "wof:name":"Life Foods Inc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -111.799076,
+    41.772911,
+    -111.799076,
+    41.772911
+],
+  "geometry": {"coordinates":[-111.799076,41.772911],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857135319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.789631,39.969907,-111.789631,39.969907",
+    "geom:latitude":39.969907,
+    "geom:longitude":-111.789631,
+    "iso:country":"US",
+    "sg:address":"350 S 200 W",
+    "sg:city":"Santaquin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 754 3401",
+    "sg:postcode":"84655",
+    "sg:province":"UT",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NjfmbSPfguuO2ZJGvfRuS_39.969907_-111.789631@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122789,
+    "wof:geomhash":"7c720e70986b10d02ac19cfab078c143",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857135319
+        }
+    ],
+    "wof:id":857135319,
+    "wof:lastmodified":1464122789,
+    "wof:name":"Kester's Upholstery",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -111.789631,
+    39.969907,
+    -111.789631,
+    39.969907
+],
+  "geometry": {"coordinates":[-111.789631,39.969907],"type":"Point"}
+}

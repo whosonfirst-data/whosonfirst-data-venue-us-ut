@@ -1,0 +1,71 @@
+{
+  "id": 857436997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.731694,40.047023,-111.731694,40.047023",
+    "geom:latitude":40.047023,
+    "geom:longitude":-111.731694,
+    "iso:country":"US",
+    "sg:address":"47 E 300 N",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 3891",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "food"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pxxamGl891Q6WIw0iQ1su_40.047023_-111.731694@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129510,
+    "wof:geomhash":"3c73d6972abdfc07d7c2bc188d0226d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857436997
+        }
+    ],
+    "wof:id":857436997,
+    "wof:lastmodified":1464129510,
+    "wof:name":"Health Quest",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food"
+    ]
+},
+  "bbox": [
+    -111.731694,
+    40.047023,
+    -111.731694,
+    40.047023
+],
+  "geometry": {"coordinates":[-111.731694,40.047023],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857433453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.863529,40.581474,-111.863529,40.581474",
+    "geom:latitude":40.581474,
+    "geom:longitude":-111.863529,
+    "iso:country":"US",
+    "sg:address":"915 Peach Blossom Dr",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 562 8125",
+    "sg:postcode":"84094",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mormon",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85841043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uUtQ4AtUW0VJV7LvhW2YI_40.581474_-111.863529@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129437,
+    "wof:geomhash":"28166553407b76a0a8726e8d54217e99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85841043,
+            "region_id":85688567,
+            "venue_id":857433453
+        }
+    ],
+    "wof:id":857433453,
+    "wof:lastmodified":1464129437,
+    "wof:name":"Hillcrest Fifth Ward",
+    "wof:parent_id":85841043,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mormon",
+        "church"
+    ]
+},
+  "bbox": [
+    -111.863529,
+    40.581474,
+    -111.863529,
+    40.581474
+],
+  "geometry": {"coordinates":[-111.863529,40.581474],"type":"Point"}
+}

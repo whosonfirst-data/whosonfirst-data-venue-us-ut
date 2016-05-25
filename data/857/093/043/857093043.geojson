@@ -1,0 +1,77 @@
+{
+  "id": 857093043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.921545,40.705689,-111.921545,40.705689",
+    "geom:latitude":40.705689,
+    "geom:longitude":-111.921545,
+    "iso:country":"US",
+    "sg:address":"3110 S 1030 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 972 4666",
+    "sg:postcode":"84119",
+    "sg:province":"UT",
+    "sg:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85810735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kwkTJgGOwnFsjReUugnfR_40.705689_-111.921545@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121752,
+    "wof:geomhash":"0b0371da80936fe99a1ee573b9a31bd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85810735,
+            "region_id":85688567,
+            "venue_id":857093043
+        }
+    ],
+    "wof:id":857093043,
+    "wof:lastmodified":1464121752,
+    "wof:name":"Tabor Insulation Inc",
+    "wof:parent_id":85810735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.921545,
+    40.705689,
+    -111.921545,
+    40.705689
+],
+  "geometry": {"coordinates":[-111.92154499999999,40.705689],"type":"Point"}
+}

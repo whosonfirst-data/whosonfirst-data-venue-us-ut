@@ -1,0 +1,73 @@
+{
+  "id": 857181199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.831105,40.570979,-111.831105,40.570979",
+    "geom:latitude":40.570979,
+    "geom:longitude":-111.831105,
+    "iso:country":"US",
+    "sg:address":"2071 Kramer Dr",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 942 4788",
+    "sg:postcode":"84092",
+    "sg:province":"UT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85818849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ykTPuAEyRoenDIiNTKJ1r_40.570979_-111.831105@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123818,
+    "wof:geomhash":"086f6a41d090112da207adca8022bd57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85818849,
+            "region_id":85688567,
+            "venue_id":857181199
+        }
+    ],
+    "wof:id":857181199,
+    "wof:lastmodified":1464123818,
+    "wof:name":"Church Of Christ",
+    "wof:parent_id":85818849,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -111.831105,
+    40.570979,
+    -111.831105,
+    40.570979
+],
+  "geometry": {"coordinates":[-111.83110499999999,40.570979],"type":"Point"}
+}

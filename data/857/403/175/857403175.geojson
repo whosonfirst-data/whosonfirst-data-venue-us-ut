@@ -1,0 +1,77 @@
+{
+  "id": 857403175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.9257,40.670247,-111.9257,40.670247",
+    "geom:latitude":40.670247,
+    "geom:longitude":-111.9257,
+    "iso:country":"US",
+    "sg:address":"4582 Greenbrook Ct",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 268 8118",
+    "sg:postcode":"84123",
+    "sg:province":"UT",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728059,
+        102082877,
+        85806869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sdU8fmqTI31v1D6VeTC0M_40.670247_-111.925700@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128686,
+    "wof:geomhash":"4b6f31112adc8205b385097628b8d374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728059,
+            "neighbourhood_id":85806869,
+            "region_id":85688567,
+            "venue_id":857403175
+        }
+    ],
+    "wof:id":857403175,
+    "wof:lastmodified":1464128686,
+    "wof:name":"Brownies Transportation Inc",
+    "wof:parent_id":85806869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -111.9257,
+    40.670247,
+    -111.9257,
+    40.670247
+],
+  "geometry": {"coordinates":[-111.92570000000001,40.670247],"type":"Point"}
+}

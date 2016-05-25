@@ -1,0 +1,73 @@
+{
+  "id": 857476451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.920184,40.65333,-111.920184,40.65333",
+    "geom:latitude":40.65333,
+    "geom:longitude":-111.920184,
+    "iso:country":"US",
+    "sg:address":"1035 Bellwood Ln",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 261 2613",
+    "sg:postcode":"84123",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728059,
+        102082877,
+        85829683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_391b4km7fBaqVTrtl2K3tB_40.653330_-111.920184@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130304,
+    "wof:geomhash":"c38c17a31e58c6788b7738df78e90388",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728059,
+            "neighbourhood_id":85829683,
+            "region_id":85688567,
+            "venue_id":857476451
+        }
+    ],
+    "wof:id":857476451,
+    "wof:lastmodified":1464130304,
+    "wof:name":"River Park Dental",
+    "wof:parent_id":85829683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -111.920184,
+    40.65333,
+    -111.920184,
+    40.65333
+],
+  "geometry": {"coordinates":[-111.92018400000001,40.65333],"type":"Point"}
+}

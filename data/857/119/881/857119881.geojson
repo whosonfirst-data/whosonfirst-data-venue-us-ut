@@ -1,0 +1,69 @@
+{
+  "id": 857119881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.809125,40.394387,-111.809125,40.394387",
+    "geom:latitude":40.394387,
+    "geom:longitude":-111.809125,
+    "iso:country":"US",
+    "sg:address":"910 N 400 W",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 763 0229",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63TiAcDEJsMlbBcZBMoIr2_40.394387_-111.809125@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122447,
+    "wof:geomhash":"2afd76ed5b32e3897f3b5f6004859197",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857119881
+        }
+    ],
+    "wof:id":857119881,
+    "wof:lastmodified":1464122447,
+    "wof:name":"Wooden Cottage",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -111.809125,
+    40.394387,
+    -111.809125,
+    40.394387
+],
+  "geometry": {"coordinates":[-111.80912499999999,40.394387],"type":"Point"}
+}

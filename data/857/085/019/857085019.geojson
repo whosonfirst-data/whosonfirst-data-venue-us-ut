@@ -1,0 +1,75 @@
+{
+  "id": 857085019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.795941,40.688686,-111.795941,40.688686",
+    "geom:latitude":40.688686,
+    "geom:longitude":-111.795941,
+    "iso:country":"US",
+    "sg:address":"3885 Wasatch Blvd",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 246 4950",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "national",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85835597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4twGYOBF6X0d4Katv6MJ1c_40.688686_-111.795941@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121530,
+    "wof:geomhash":"c424c8f8bbcd7f01eaa9a38054f8b27a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85835597,
+            "region_id":85688567,
+            "venue_id":857085019
+        }
+    ],
+    "wof:id":857085019,
+    "wof:lastmodified":1464121530,
+    "wof:name":"Wells Fargo",
+    "wof:parent_id":85835597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -111.795941,
+    40.688686,
+    -111.795941,
+    40.688686
+],
+  "geometry": {"coordinates":[-111.795941,40.688686],"type":"Point"}
+}

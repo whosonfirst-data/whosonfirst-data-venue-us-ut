@@ -1,0 +1,73 @@
+{
+  "id": 857325397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.906279,40.667992,-111.906279,40.667992",
+    "geom:latitude":40.667992,
+    "geom:longitude":-111.906279,
+    "iso:country":"US",
+    "sg:address":"4769 Riverside Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 261 1805",
+    "sg:postcode":"84123",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85851609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uThU7DdifuwsuBQqPftB2_40.667992_-111.906279@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126957,
+    "wof:geomhash":"a6f97367eebac5e23477e865f9dd266f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85851609,
+            "region_id":85688567,
+            "venue_id":857325397
+        }
+    ],
+    "wof:id":857325397,
+    "wof:lastmodified":1464126957,
+    "wof:name":"Thompson Wholesale",
+    "wof:parent_id":85851609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -111.906279,
+    40.667992,
+    -111.906279,
+    40.667992
+],
+  "geometry": {"coordinates":[-111.906279,40.667992],"type":"Point"}
+}

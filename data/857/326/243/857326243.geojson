@@ -1,0 +1,71 @@
+{
+  "id": 857326243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834626,41.74109,-111.834626,41.74109",
+    "geom:latitude":41.74109,
+    "geom:longitude":-111.834626,
+    "iso:country":"US",
+    "sg:address":"580 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 7430",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hcrViZoDxNnwjqaiLLPUa_41.741090_-111.834626@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126973,
+    "wof:geomhash":"4d4cd1c516878b0d403f42b3432aa6d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857326243
+        }
+    ],
+    "wof:id":857326243,
+    "wof:lastmodified":1464126973,
+    "wof:name":"Tyler & Co PC",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -111.834626,
+    41.74109,
+    -111.834626,
+    41.74109
+],
+  "geometry": {"coordinates":[-111.834626,41.74109],"type":"Point"}
+}

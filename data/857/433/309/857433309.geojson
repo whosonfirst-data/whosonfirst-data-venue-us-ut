@@ -1,0 +1,77 @@
+{
+  "id": 857433309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.700063,40.308073,-111.700063,40.308073",
+    "geom:latitude":40.308073,
+    "geom:longitude":-111.700063,
+    "iso:country":"US",
+    "sg:address":"697 N State St",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 225 4498",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "polishing",
+        "carwash",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fSFRNw3KQtzYMrl6PUPC5_40.308073_-111.700063@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129434,
+    "wof:geomhash":"a172ccf1ef5cf12dd6960199b331cb2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":857433309
+        }
+    ],
+    "wof:id":857433309,
+    "wof:lastmodified":1464129434,
+    "wof:name":"Best Walsh",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "carwash",
+        "washing"
+    ]
+},
+  "bbox": [
+    -111.700063,
+    40.308073,
+    -111.700063,
+    40.308073
+],
+  "geometry": {"coordinates":[-111.700063,40.308073],"type":"Point"}
+}

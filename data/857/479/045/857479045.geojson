@@ -1,0 +1,73 @@
+{
+  "id": 857479045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.838511,40.767088,-111.838511,40.767088",
+    "geom:latitude":40.767088,
+    "geom:longitude":-111.838511,
+    "iso:country":"US",
+    "sg:address":"102 Wasatch Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 583 0152",
+    "sg:postcode":"84112",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09ArY3wQArDX4l5yS4Ei8T_40.767088_-111.838511@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130353,
+    "wof:geomhash":"7d5b49b7018187883234405137216724",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871031,
+            "region_id":85688567,
+            "venue_id":857479045
+        }
+    ],
+    "wof:id":857479045,
+    "wof:lastmodified":1464130353,
+    "wof:name":"Western Food Service Co",
+    "wof:parent_id":85871031,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.838511,
+    40.767088,
+    -111.838511,
+    40.767088
+],
+  "geometry": {"coordinates":[-111.838511,40.767088],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857084845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.07415,41.096036,-112.07415,41.096036",
+    "geom:latitude":41.096036,
+    "geom:longitude":-112.07415,
+    "iso:country":"US",
+    "sg:address":"1313 S 2500 W",
+    "sg:city":"Syracuse",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 774 2171",
+    "sg:postcode":"84075",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mormon",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727889,
+        102083563,
+        85804563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FG8cDSuv6W6fDS4WKGusJ_41.096036_-112.074150@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121526,
+    "wof:geomhash":"9137a4501214b1437dbdb343a76f0fe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727889,
+            "neighbourhood_id":85804563,
+            "region_id":85688567,
+            "venue_id":857084845
+        }
+    ],
+    "wof:id":857084845,
+    "wof:lastmodified":1464121526,
+    "wof:name":"Syracuse First Ward",
+    "wof:parent_id":85804563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mormon",
+        "church"
+    ]
+},
+  "bbox": [
+    -112.07415,
+    41.096036,
+    -112.07415,
+    41.096036
+],
+  "geometry": {"coordinates":[-112.07415,41.096036],"type":"Point"}
+}

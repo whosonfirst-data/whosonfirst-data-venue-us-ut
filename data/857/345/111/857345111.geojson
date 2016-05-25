@@ -1,0 +1,73 @@
+{
+  "id": 857345111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.050691,41.174027,-112.050691,41.174027",
+    "geom:latitude":41.174027,
+    "geom:longitude":-112.050691,
+    "iso:country":"US",
+    "sg:address":"4939 S 2925 W",
+    "sg:city":"Roy",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 825 0847",
+    "sg:postcode":"84067",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728023,
+        102083539,
+        85853469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AROWtHGAlTE8OJA3b5m1n_41.174027_-112.050691@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127375,
+    "wof:geomhash":"910e10fddb1adbb88dda085008feab6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728023,
+            "neighbourhood_id":85853469,
+            "region_id":85688567,
+            "venue_id":857345111
+        }
+    ],
+    "wof:id":857345111,
+    "wof:lastmodified":1464127375,
+    "wof:name":"Holley Rock",
+    "wof:parent_id":85853469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -112.050691,
+    41.174027,
+    -112.050691,
+    41.174027
+],
+  "geometry": {"coordinates":[-112.050691,41.174027],"type":"Point"}
+}

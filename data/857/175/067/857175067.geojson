@@ -1,0 +1,73 @@
+{
+  "id": 857175067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.805799,41.757096,-111.805799,41.757096",
+    "geom:latitude":41.757096,
+    "geom:longitude":-111.805799,
+    "iso:country":"US",
+    "sg:address":"1150 E 1400 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 2941",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "laboratory",
+        "research"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6s8F1OmKAtYOCmO1fwFoQf_41.757096_-111.805799@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123695,
+    "wof:geomhash":"7a633cc33f97110151e49b2950b0ac40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857175067
+        }
+    ],
+    "wof:id":857175067,
+    "wof:lastmodified":1464123695,
+    "wof:name":"Poisonous Plant Research Lab",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "research"
+    ]
+},
+  "bbox": [
+    -111.805799,
+    41.757096,
+    -111.805799,
+    41.757096
+],
+  "geometry": {"coordinates":[-111.80579899999999,41.757096],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857403087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.676631,40.302051,-111.676631,40.302051",
+    "geom:latitude":40.302051,
+    "geom:longitude":-111.676631,
+    "iso:country":"US",
+    "sg:address":"235 N 800 E",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 225 4331",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lK7ymBZY37kno1eD1ZULD_40.302051_-111.676631@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128685,
+    "wof:geomhash":"4e6f898a8e39b1570934933ceca2f1b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857403087
+        }
+    ],
+    "wof:id":857403087,
+    "wof:lastmodified":1464128685,
+    "wof:name":"Electro-Mech Service Center",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -111.676631,
+    40.302051,
+    -111.676631,
+    40.302051
+],
+  "geometry": {"coordinates":[-111.676631,40.302051],"type":"Point"}
+}

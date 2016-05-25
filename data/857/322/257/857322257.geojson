@@ -1,0 +1,84 @@
+{
+  "id": 857322257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.898986,40.692428,-111.898986,40.692428",
+    "geom:latitude":40.692428,
+    "geom:longitude":-111.898986,
+    "iso:country":"US",
+    "sg:address":"233 W 3620 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 262 9530",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electric",
+        "center",
+        "motor",
+        "for"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85810147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JCp59XA1nJo9fX2b71fdb_40.692428_-111.898986@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126894,
+    "wof:geomhash":"d788e617261ae6ca88d20b84faf4ec67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85810147,
+            "region_id":85688567,
+            "venue_id":857322257
+        }
+    ],
+    "wof:id":857322257,
+    "wof:lastmodified":1464126894,
+    "wof:name":"Nelsen Electric Motor Service",
+    "wof:parent_id":85810147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "center",
+        "motor",
+        "for"
+    ]
+},
+  "bbox": [
+    -111.898986,
+    40.692428,
+    -111.898986,
+    40.692428
+],
+  "geometry": {"coordinates":[-111.89898599999999,40.692428],"type":"Point"}
+}

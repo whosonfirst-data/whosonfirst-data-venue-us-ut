@@ -1,0 +1,75 @@
+{
+  "id": 857237329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.026151,41.10752,-112.026151,41.10752",
+    "geom:latitude":41.10752,
+    "geom:longitude":-112.026151,
+    "iso:country":"US",
+    "sg:address":"440 S Main St",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 773 5911",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "warehouse",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85851583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ad1VFSCrkVcx5DJHGO9hF_41.107520_-112.026151@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124952,
+    "wof:geomhash":"d90ef6bb23669eb694748416488eb132",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85851583,
+            "region_id":85688567,
+            "venue_id":857237329
+        }
+    ],
+    "wof:id":857237329,
+    "wof:lastmodified":1464124952,
+    "wof:name":"Freeport Cold Storage Inc",
+    "wof:parent_id":85851583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "storage"
+    ]
+},
+  "bbox": [
+    -112.026151,
+    41.10752,
+    -112.026151,
+    41.10752
+],
+  "geometry": {"coordinates":[-112.026151,41.10752],"type":"Point"}
+}

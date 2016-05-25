@@ -1,0 +1,73 @@
+{
+  "id": 857304109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.828126,41.738872,-111.828126,41.738872",
+    "geom:latitude":41.738872,
+    "geom:longitude":-111.828126,
+    "iso:country":"US",
+    "sg:address":"240 E 400 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 9531",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1u7OdPhXSK4HYhpUvBLQsx_41.738872_-111.828126@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126499,
+    "wof:geomhash":"94718058b33441f1900c6ff28ad223f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857304109
+        }
+    ],
+    "wof:id":857304109,
+    "wof:lastmodified":1464126499,
+    "wof:name":"Giles Painting",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.828126,
+    41.738872,
+    -111.828126,
+    41.738872
+],
+  "geometry": {"coordinates":[-111.828126,41.738872],"type":"Point"}
+}

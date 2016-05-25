@@ -1,0 +1,73 @@
+{
+  "id": 857274625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.945507,40.625384,-111.945507,40.625384",
+    "geom:latitude":40.625384,
+    "geom:longitude":-111.945507,
+    "iso:country":"US",
+    "sg:address":"6944 S Jefferson Cir",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 563 9819",
+    "sg:postcode":"84084",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85824493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xxRXjugV4WwZrysDobweh_40.625384_-111.945507@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125783,
+    "wof:geomhash":"b6bff34b5834cdadfe4a6f5757a5de28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85824493,
+            "region_id":85688567,
+            "venue_id":857274625
+        }
+    ],
+    "wof:id":857274625,
+    "wof:lastmodified":1464125783,
+    "wof:name":"Kai Kam Inc",
+    "wof:parent_id":85824493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -111.945507,
+    40.625384,
+    -111.945507,
+    40.625384
+],
+  "geometry": {"coordinates":[-111.94550700000001,40.625384],"type":"Point"}
+}

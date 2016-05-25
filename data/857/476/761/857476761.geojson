@@ -1,0 +1,75 @@
+{
+  "id": 857476761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.668895,40.246344,-111.668895,40.246344",
+    "geom:latitude":40.246344,
+    "geom:longitude":-111.668895,
+    "iso:country":"US",
+    "sg:address":"519 W 940 N",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 374 8138",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UorEZTHmrlynf0gDkajfQ_40.246344_-111.668895@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130309,
+    "wof:geomhash":"e1aa13788fdb7944bc7f4373b5b94ef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880107,
+            "region_id":85688567,
+            "venue_id":857476761
+        }
+    ],
+    "wof:id":857476761,
+    "wof:lastmodified":1464130309,
+    "wof:name":"Westwood Apartments",
+    "wof:parent_id":85880107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -111.668895,
+    40.246344,
+    -111.668895,
+    40.246344
+],
+  "geometry": {"coordinates":[-111.66889500000001,40.246344],"type":"Point"}
+}

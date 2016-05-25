@@ -1,0 +1,68 @@
+{
+  "id": 857077553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834209,40.712636,-111.834209,40.712636",
+    "geom:latitude":40.712636,
+    "geom:longitude":-111.834209,
+    "iso:country":"US",
+    "sg:address":"1952 E 2700 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 484 6278",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85859457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PgyExAiDxYRY0XKPUwWWF_40.712636_-111.834209@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121345,
+    "wof:geomhash":"69600bba5816b6269cc79e7fb3c20e3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85859457,
+            "region_id":85688567,
+            "venue_id":857077553
+        }
+    ],
+    "wof:id":857077553,
+    "wof:lastmodified":1464121345,
+    "wof:name":"Green Building Ctr",
+    "wof:parent_id":85859457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.834209,
+    40.712636,
+    -111.834209,
+    40.712636
+],
+  "geometry": {"coordinates":[-111.834209,40.712636],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857265461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.617126,37.046406,-113.617126,37.046406",
+    "geom:latitude":37.046406,
+    "geom:longitude":-113.617126,
+    "iso:country":"US",
+    "sg:address":"3640 S 1550 W",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 812 853 7126",
+    "sg:postcode":"84790",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727617,
+        102082879,
+        85803851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MbKj7edvPnNKx2CElRYGW_37.046406_-113.617126@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125601,
+    "wof:geomhash":"4c1b7d813453dbcf779d2652c4ade28b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85803851,
+            "region_id":85688567,
+            "venue_id":857265461
+        }
+    ],
+    "wof:id":857265461,
+    "wof:lastmodified":1464125601,
+    "wof:name":"Rbg Properties L L C",
+    "wof:parent_id":85803851,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -113.617126,
+    37.046406,
+    -113.617126,
+    37.046406
+],
+  "geometry": {"coordinates":[-113.617126,37.046406],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857169345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.509443,37.115215,-113.509443,37.115215",
+    "geom:latitude":37.115215,
+    "geom:longitude":-113.509443,
+    "iso:country":"US",
+    "sg:address":"83 E Industrial Dr",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 688 2885",
+    "sg:postcode":"84780",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GsZ5SAOzIj6qdiaPAsPLo_37.115215_-113.509443@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123568,
+    "wof:geomhash":"679fd87568a1f7e84b6b7c0965ad1fea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857169345
+        }
+    ],
+    "wof:id":857169345,
+    "wof:lastmodified":1464123568,
+    "wof:name":"Carmack Hvac Inc",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -113.509443,
+    37.115215,
+    -113.509443,
+    37.115215
+],
+  "geometry": {"coordinates":[-113.509443,37.115215],"type":"Point"}
+}

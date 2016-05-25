@@ -1,0 +1,75 @@
+{
+  "id": 857117609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.890828,40.603444,-111.890828,40.603444",
+    "geom:latitude":40.603444,
+    "geom:longitude":-111.890828,
+    "iso:country":"US",
+    "sg:address":"8200 S State St",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 255 7763",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728051,
+        102082877,
+        85834097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jL58K4VYzoJBaNb9KL5Jc_40.603444_-111.890828@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122401,
+    "wof:geomhash":"9a08a7dd68ce341b30a6e38fcacc166a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85834097,
+            "region_id":85688567,
+            "venue_id":857117609
+        }
+    ],
+    "wof:id":857117609,
+    "wof:lastmodified":1464122401,
+    "wof:name":"R & K Auto Sales",
+    "wof:parent_id":85834097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -111.890828,
+    40.603444,
+    -111.890828,
+    40.603444
+],
+  "geometry": {"coordinates":[-111.890828,40.603444],"type":"Point"}
+}

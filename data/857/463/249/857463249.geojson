@@ -1,0 +1,75 @@
+{
+  "id": 857463249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.836942,40.52641,-111.836942,40.52641",
+    "geom:latitude":40.52641,
+    "geom:longitude":-111.836942,
+    "iso:country":"US",
+    "sg:address":"12308 Raleigh Ct",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 571 8603",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "company",
+        "holding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727849,
+        102082877,
+        85815179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gwM26iuZu9xCis3LzXMHK_40.526410_-111.836942@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130012,
+    "wof:geomhash":"e25d4f5f8984698c1a5106ecdc7bcf57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85815179,
+            "region_id":85688567,
+            "venue_id":857463249
+        }
+    ],
+    "wof:id":857463249,
+    "wof:lastmodified":1464130012,
+    "wof:name":"Christensen Holdings LP",
+    "wof:parent_id":85815179,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "holding"
+    ]
+},
+  "bbox": [
+    -111.836942,
+    40.52641,
+    -111.836942,
+    40.52641
+],
+  "geometry": {"coordinates":[-111.83694199999999,40.52641],"type":"Point"}
+}

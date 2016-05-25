@@ -1,0 +1,73 @@
+{
+  "id": 857097061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.883964,40.75623,-111.883964,40.75623",
+    "geom:latitude":40.75623,
+    "geom:longitude":-111.883964,
+    "iso:country":"US",
+    "sg:address":"260 E 600 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 535 6530",
+    "sg:postcode":"84111",
+    "sg:province":"UT",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85867259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50CI5kvOVLjP4SwmLm7BRW_40.756230_-111.883964@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121834,
+    "wof:geomhash":"c754f891b0aa1ab4ecb696f039140c1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85867259,
+            "region_id":85688567,
+            "venue_id":857097061
+        }
+    ],
+    "wof:id":857097061,
+    "wof:lastmodified":1464121834,
+    "wof:name":"Salt Lake City Traffic Signal",
+    "wof:parent_id":85867259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -111.883964,
+    40.75623,
+    -111.883964,
+    40.75623
+],
+  "geometry": {"coordinates":[-111.88396400000001,40.75623],"type":"Point"}
+}

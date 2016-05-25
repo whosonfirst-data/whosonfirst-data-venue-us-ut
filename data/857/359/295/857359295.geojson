@@ -1,0 +1,73 @@
+{
+  "id": 857359295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.979059,41.730052,-111.979059,41.730052",
+    "geom:latitude":41.730052,
+    "geom:longitude":-111.979059,
+    "iso:country":"US",
+    "sg:address":"110 S 6000 W",
+    "sg:city":"Mendon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 755 7178",
+    "sg:postcode":"84325",
+    "sg:province":"UT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727555,
+        102082881,
+        85823067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DNAquuyVr3fGQ3P43CXfU_41.730052_-111.979059@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127684,
+    "wof:geomhash":"58e817da4f87846e9460ba34d8c948b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727555,
+            "neighbourhood_id":85823067,
+            "region_id":85688567,
+            "venue_id":857359295
+        }
+    ],
+    "wof:id":857359295,
+    "wof:lastmodified":1464127684,
+    "wof:name":"Westgate Ent Group",
+    "wof:parent_id":85823067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -111.979059,
+    41.730052,
+    -111.979059,
+    41.730052
+],
+  "geometry": {"coordinates":[-111.97905900000001,41.730052],"type":"Point"}
+}

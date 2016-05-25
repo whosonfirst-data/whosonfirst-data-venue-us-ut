@@ -1,0 +1,75 @@
+{
+  "id": 857378901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.284159,37.190643,-113.284159,37.190643",
+    "geom:latitude":37.190643,
+    "geom:longitude":-113.284159,
+    "iso:country":"US",
+    "sg:address":"251 E 970 N",
+    "sg:city":"Hurricane",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 635 5069",
+    "sg:postcode":"84737",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727631,
+        102082879,
+        85824093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AV7CSMUdpVHadEcCAxSfm_37.190643_-113.284159@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128093,
+    "wof:geomhash":"0ec20aec6368ee43b11905d514d22a53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727631,
+            "neighbourhood_id":85824093,
+            "region_id":85688567,
+            "venue_id":857378901
+        }
+    ],
+    "wof:id":857378901,
+    "wof:lastmodified":1464128093,
+    "wof:name":"Kidds Curbing",
+    "wof:parent_id":85824093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -113.284159,
+    37.190643,
+    -113.284159,
+    37.190643
+],
+  "geometry": {"coordinates":[-113.284159,37.190643],"type":"Point"}
+}

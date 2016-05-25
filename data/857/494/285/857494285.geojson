@@ -1,0 +1,74 @@
+{
+  "id": 857494285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.635273,40.214734,-111.635273,40.214734",
+    "geom:latitude":40.214734,
+    "geom:longitude":-111.635273,
+    "iso:country":"US",
+    "sg:address":"1408 S State St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/provo-orem/34734-chuck-a-rama/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 225 9300",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5d24vzai76SXAyyveQ8qmL_40.214734_-111.635273@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130742,
+    "wof:geomhash":"23bb74c80e6adfdb80d485f0a2ac9869",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880069,
+            "region_id":85688567,
+            "venue_id":857494285
+        }
+    ],
+    "wof:id":857494285,
+    "wof:lastmodified":1464130742,
+    "wof:name":"Chuck-A-Rama",
+    "wof:parent_id":85880069,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -111.635273,
+    40.214734,
+    -111.635273,
+    40.214734
+],
+  "geometry": {"coordinates":[-111.635273,40.214734],"type":"Point"}
+}

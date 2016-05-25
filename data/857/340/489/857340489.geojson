@@ -1,0 +1,79 @@
+{
+  "id": 857340489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.899796,40.692333,-111.899796,40.692333",
+    "geom:latitude":40.692333,
+    "geom:longitude":-111.899796,
+    "iso:country":"US",
+    "sg:address":"3636 S 300 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 261 3597",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "item",
+        "baker",
+        "snack",
+        "bakery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85810147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zkLyTleKH8xxe91wlqozR_40.692333_-111.899796@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127288,
+    "wof:geomhash":"bfda0edf21975605c89d7e97cd579ea0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85810147,
+            "region_id":85688567,
+            "venue_id":857340489
+        }
+    ],
+    "wof:id":857340489,
+    "wof:lastmodified":1464127288,
+    "wof:name":"Peak Distributing Co Inc",
+    "wof:parent_id":85810147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "item",
+        "baker",
+        "snack",
+        "bakery"
+    ]
+},
+  "bbox": [
+    -111.899796,
+    40.692333,
+    -111.899796,
+    40.692333
+],
+  "geometry": {"coordinates":[-111.89979599999999,40.692333],"type":"Point"}
+}

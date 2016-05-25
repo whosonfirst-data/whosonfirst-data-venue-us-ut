@@ -1,0 +1,77 @@
+{
+  "id": 857365491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.971043,41.19345,-111.971043,41.19345",
+    "geom:latitude":41.19345,
+    "geom:longitude":-111.971043,
+    "iso:country":"US",
+    "sg:address":"3878 Washington Blvd",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 392 7103",
+    "sg:postcode":"84403",
+    "sg:province":"UT",
+    "sg:tags":[
+        "drycleaning",
+        "plant",
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728021,
+        102083539,
+        85810865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1o5QjG11SUMiCaqkbUaunC_41.193450_-111.971043@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127815,
+    "wof:geomhash":"f7a57d0b0d202d0cabac6fbc286ed9c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728021,
+            "neighbourhood_id":85810865,
+            "region_id":85688567,
+            "venue_id":857365491
+        }
+    ],
+    "wof:id":857365491,
+    "wof:lastmodified":1464127815,
+    "wof:name":"Forsey Laundry & Cleaning",
+    "wof:parent_id":85810865,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant",
+        "coin"
+    ]
+},
+  "bbox": [
+    -111.971043,
+    41.19345,
+    -111.971043,
+    41.19345
+],
+  "geometry": {"coordinates":[-111.97104299999999,41.19345],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857187077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.817381,41.781868,-111.817381,41.781868",
+    "geom:latitude":41.781868,
+    "geom:longitude":-111.817381,
+    "iso:country":"US",
+    "sg:address":"90 E 900 S",
+    "sg:city":"Hyde Park",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 2999",
+    "sg:postcode":"84318",
+    "sg:province":"UT",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Zx05umC823L8uxGnHQ5dA_41.781868_-111.817381@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123934,
+    "wof:geomhash":"355f437fa40adc8bd789b54cf449690d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857187077
+        }
+    ],
+    "wof:id":857187077,
+    "wof:lastmodified":1464123934,
+    "wof:name":"Savage Conveying",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.817381,
+    41.781868,
+    -111.817381,
+    41.781868
+],
+  "geometry": {"coordinates":[-111.817381,41.781868],"type":"Point"}
+}

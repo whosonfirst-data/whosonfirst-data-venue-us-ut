@@ -1,0 +1,71 @@
+{
+  "id": 857482527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.777211,40.675433,-111.777211,40.675433",
+    "geom:latitude":40.675433,
+    "geom:longitude":-111.777211,
+    "iso:country":"US",
+    "sg:address":"4375 S Zarahemla Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 278 1666",
+    "sg:postcode":"84124",
+    "sg:province":"UT",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85835599,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YZejPPDNaUf2xCakDbK8e_40.675433_-111.777211@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130419,
+    "wof:geomhash":"57b15f2ed1b3c303c005cc06dbf53f64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85835599,
+            "region_id":85688567,
+            "venue_id":857482527
+        }
+    ],
+    "wof:id":857482527,
+    "wof:lastmodified":1464130419,
+    "wof:name":"Terzian Farms LLC",
+    "wof:parent_id":85835599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -111.777211,
+    40.675433,
+    -111.777211,
+    40.675433
+],
+  "geometry": {"coordinates":[-111.77721099999999,40.675433],"type":"Point"}
+}

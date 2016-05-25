@@ -1,0 +1,73 @@
+{
+  "id": 857240425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.978291,40.631547,-111.978291,40.631547",
+    "geom:latitude":40.631547,
+    "geom:longitude":-111.978291,
+    "iso:country":"US",
+    "sg:address":"3683 Carolina Dr",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 969 9107",
+    "sg:postcode":"84084",
+    "sg:province":"UT",
+    "sg:tags":[
+        "hair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85831951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55059cAWZTiZyc7IcAsieb_40.631547_-111.978291@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125017,
+    "wof:geomhash":"b5d7c9383be2388a48f631c44739aea0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85831951,
+            "region_id":85688567,
+            "venue_id":857240425
+        }
+    ],
+    "wof:id":857240425,
+    "wof:lastmodified":1464125017,
+    "wof:name":"Beckies Unique Hair Styling",
+    "wof:parent_id":85831951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair"
+    ]
+},
+  "bbox": [
+    -111.978291,
+    40.631547,
+    -111.978291,
+    40.631547
+],
+  "geometry": {"coordinates":[-111.978291,40.631547],"type":"Point"}
+}

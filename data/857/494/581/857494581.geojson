@@ -1,0 +1,82 @@
+{
+  "id": 857494581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.551474,37.115832,-113.551474,37.115832",
+    "geom:latitude":37.115832,
+    "geom:longitude":-113.551474,
+    "iso:country":"US",
+    "sg:address":"311 Red Cliffs Dr",
+    "sg:city":"Saint George",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/st-george/115078-chilis/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 628 7503",
+    "sg:postcode":"84790",
+    "sg:province":"UT",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "tex-mex",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04zXLvz8DK5LId0eznN0tE_37.115832_-113.551474@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130753,
+    "wof:geomhash":"0cf53f09bb0b9e356f454cd31b3c921d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857494581
+        }
+    ],
+    "wof:id":857494581,
+    "wof:lastmodified":1464130753,
+    "wof:name":"Chili's",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "tex-mex",
+        "soup"
+    ]
+},
+  "bbox": [
+    -113.551474,
+    37.115832,
+    -113.551474,
+    37.115832
+],
+  "geometry": {"coordinates":[-113.551474,37.115832],"type":"Point"}
+}

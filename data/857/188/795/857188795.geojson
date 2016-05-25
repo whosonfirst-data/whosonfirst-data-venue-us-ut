@@ -1,0 +1,71 @@
+{
+  "id": 857188795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.677545,40.015697,-111.677545,40.015697",
+    "geom:latitude":40.015697,
+    "geom:longitude":-111.677545,
+    "iso:country":"US",
+    "sg:address":"310 N Cortez Dr",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 423 3365",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TnnR69qZgIdGQDzafJ29B_40.015697_-111.677545@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123966,
+    "wof:geomhash":"0aaed5a5ba26ba37a789433e06e8ad07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857188795
+        }
+    ],
+    "wof:id":857188795,
+    "wof:lastmodified":1464123966,
+    "wof:name":"Pgb Construction Service Inc",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -111.677545,
+    40.015697,
+    -111.677545,
+    40.015697
+],
+  "geometry": {"coordinates":[-111.67754499999999,40.015697],"type":"Point"}
+}

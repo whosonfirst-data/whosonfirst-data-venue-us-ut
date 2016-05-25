@@ -1,0 +1,77 @@
+{
+  "id": 857283501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.889326,40.635995,-111.889326,40.635995",
+    "geom:latitude":40.635995,
+    "geom:longitude":-111.889326,
+    "iso:country":"US",
+    "sg:address":"6180 S State St",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 266 8811",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85822549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pL5lD9ZRyzboUrDTwKzg1_40.635995_-111.889326@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125990,
+    "wof:geomhash":"14a1843a1bf30fd41e33d368fd1bf9f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85822549,
+            "region_id":85688567,
+            "venue_id":857283501
+        }
+    ],
+    "wof:id":857283501,
+    "wof:lastmodified":1464125990,
+    "wof:name":"Midas Auto Svc Experts",
+    "wof:parent_id":85822549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -111.889326,
+    40.635995,
+    -111.889326,
+    40.635995
+],
+  "geometry": {"coordinates":[-111.889326,40.635995],"type":"Point"}
+}

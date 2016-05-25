@@ -1,0 +1,71 @@
+{
+  "id": 857317613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.669444,40.311923,-111.669444,40.311923",
+    "geom:latitude":40.311923,
+    "geom:longitude":-111.669444,
+    "iso:country":"US",
+    "sg:address":"1240 E 800 N",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 623 5236",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ezIikgLeBPmASkIm3plW5_40.311923_-111.669444@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126786,
+    "wof:geomhash":"925dae65947029f3649a947463b4cbf3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857317613
+        }
+    ],
+    "wof:id":857317613,
+    "wof:lastmodified":1464126786,
+    "wof:name":"KCFM",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -111.669444,
+    40.311923,
+    -111.669444,
+    40.311923
+],
+  "geometry": {"coordinates":[-111.669444,40.311923],"type":"Point"}
+}

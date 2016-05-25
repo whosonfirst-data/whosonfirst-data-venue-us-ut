@@ -1,0 +1,75 @@
+{
+  "id": 857283645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.986506,40.59687,-111.986506,40.59687",
+    "geom:latitude":40.59687,
+    "geom:longitude":-111.986506,
+    "iso:country":"US",
+    "sg:address":"8480 S 4000 W",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 280 9339",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85813117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5roRj8QHmhrL6gbDRZbYQI_40.596870_-111.986506@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125992,
+    "wof:geomhash":"6b1dc6fc469bfae94e3dc93d88b99986",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85813117,
+            "region_id":85688567,
+            "venue_id":857283645
+        }
+    ],
+    "wof:id":857283645,
+    "wof:lastmodified":1464125992,
+    "wof:name":"Airstream Heating & Air Cond",
+    "wof:parent_id":85813117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.986506,
+    40.59687,
+    -111.986506,
+    40.59687
+],
+  "geometry": {"coordinates":[-111.98650600000001,40.59687],"type":"Point"}
+}

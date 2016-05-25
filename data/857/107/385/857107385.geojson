@@ -1,0 +1,73 @@
+{
+  "id": 857107385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.60536,40.161144,-111.60536,40.161144",
+    "geom:latitude":40.161144,
+    "geom:longitude":-111.60536,
+    "iso:country":"US",
+    "sg:address":"285 E 400 S",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 489 0111",
+    "sg:postcode":"84663",
+    "sg:province":"UT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727829,
+        102083567,
+        85880117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mGAI6mIrFuSa2ISQQMCDk_40.161144_-111.605360@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122076,
+    "wof:geomhash":"7ef7338b638166770cf8b5d7cf821cfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727829,
+            "neighbourhood_id":85880117,
+            "region_id":85688567,
+            "venue_id":857107385
+        }
+    ],
+    "wof:id":857107385,
+    "wof:lastmodified":1464122076,
+    "wof:name":"Steven Nance MD",
+    "wof:parent_id":85880117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -111.60536,
+    40.161144,
+    -111.60536,
+    40.161144
+],
+  "geometry": {"coordinates":[-111.60536,40.161144],"type":"Point"}
+}

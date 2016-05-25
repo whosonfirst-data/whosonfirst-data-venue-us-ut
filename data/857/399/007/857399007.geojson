@@ -1,0 +1,73 @@
+{
+  "id": 857399007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.83853,40.54952,-111.83853,40.54952",
+    "geom:latitude":40.54952,
+    "geom:longitude":-111.83853,
+    "iso:country":"US",
+    "sg:address":"11083 Foxmoor Dr",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 576 2593",
+    "sg:postcode":"84092",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85812845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3apA1AWcR1vtYKpElNP36N_40.549520_-111.838530@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128605,
+    "wof:geomhash":"931e7f25e239d74f5bff3ddd9ac2c850",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85812845,
+            "region_id":85688567,
+            "venue_id":857399007
+        }
+    ],
+    "wof:id":857399007,
+    "wof:lastmodified":1464128605,
+    "wof:name":"Patterson & Assoc",
+    "wof:parent_id":85812845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -111.83853,
+    40.54952,
+    -111.83853,
+    40.54952
+],
+  "geometry": {"coordinates":[-111.83853000000001,40.54952],"type":"Point"}
+}

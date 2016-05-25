@@ -1,0 +1,76 @@
+{
+  "id": 857382177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.838384,40.767173,-111.838384,40.767173",
+    "geom:latitude":40.767173,
+    "geom:longitude":-111.838384,
+    "iso:country":"US",
+    "sg:address":"101 Wasatch Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 581 2999",
+    "sg:postcode":"84112",
+    "sg:province":"UT",
+    "sg:tags":[
+        "broadcasting",
+        "co"
+    ],
+    "sg:website":"www.uen.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85806677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WnzybapLq03aNCW6vSxGL_40.767173_-111.838384@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128189,
+    "wof:geomhash":"b44ad0931863990e04efe47089e1a38f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85806677,
+            "region_id":85688567,
+            "venue_id":857382177
+        }
+    ],
+    "wof:id":857382177,
+    "wof:lastmodified":1464128189,
+    "wof:name":"KUEN",
+    "wof:parent_id":85806677,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broadcasting",
+        "co"
+    ]
+},
+  "bbox": [
+    -111.838384,
+    40.767173,
+    -111.838384,
+    40.767173
+],
+  "geometry": {"coordinates":[-111.838384,40.767173],"type":"Point"}
+}

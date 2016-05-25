@@ -1,0 +1,73 @@
+{
+  "id": 857274925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.639497,40.282964,-111.639497,40.282964",
+    "geom:latitude":40.282964,
+    "geom:longitude":-111.639497,
+    "iso:country":"US",
+    "sg:address":"3695 Little Rock Ter",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 357 7710",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85817395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kUDnTt6OapRlTeTh4VTtS_40.282964_-111.639497@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125789,
+    "wof:geomhash":"d165b956a6d4f7309e399b03941d9d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85817395,
+            "region_id":85688567,
+            "venue_id":857274925
+        }
+    ],
+    "wof:id":857274925,
+    "wof:lastmodified":1464125789,
+    "wof:name":"Sue Pratley",
+    "wof:parent_id":85817395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -111.639497,
+    40.282964,
+    -111.639497,
+    40.282964
+],
+  "geometry": {"coordinates":[-111.63949700000001,40.282964],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 857433781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.636581,40.216431,-111.636581,40.216431",
+    "geom:latitude":40.216431,
+    "geom:longitude":-111.636581,
+    "iso:country":"US",
+    "sg:address":"1184 S State St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 8586",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:tags":[
+        "excavating",
+        "mining",
+        "contractor",
+        "sand",
+        "crane",
+        "gravel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TWDilQFlUpFEtAfoEIDZD_40.216431_-111.636581@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129443,
+    "wof:geomhash":"1ff88baa5bc9663e315e991e1813cfb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880069,
+            "region_id":85688567,
+            "venue_id":857433781
+        }
+    ],
+    "wof:id":857433781,
+    "wof:lastmodified":1464129443,
+    "wof:name":"Tyler's U-Cart Concrete",
+    "wof:parent_id":85880069,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "mining",
+        "contractor",
+        "sand",
+        "crane",
+        "gravel"
+    ]
+},
+  "bbox": [
+    -111.636581,
+    40.216431,
+    -111.636581,
+    40.216431
+],
+  "geometry": {"coordinates":[-111.63658100000001,40.216431],"type":"Point"}
+}

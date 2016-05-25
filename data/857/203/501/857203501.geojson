@@ -1,0 +1,77 @@
+{
+  "id": 857203501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.001106,41.089321,-112.001106,41.089321",
+    "geom:latitude":41.089321,
+    "geom:longitude":-112.001106,
+    "iso:country":"US",
+    "sg:address":"2010 N Main St",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 776 4181",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "operator",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19gSD6yUhFsMQCwS32ybAi_41.089321_-112.001106@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124251,
+    "wof:geomhash":"9272debabaae1723e3ac3d030b1a0f41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857203501
+        }
+    ],
+    "wof:id":857203501,
+    "wof:lastmodified":1464124251,
+    "wof:name":"Kmart",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "operator",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -112.001106,
+    41.089321,
+    -112.001106,
+    41.089321
+],
+  "geometry": {"coordinates":[-112.00110599999999,41.089321],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857148131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.627567,40.205975,-111.627567,40.205975",
+    "geom:latitude":40.205975,
+    "geom:longitude":-111.627567,
+    "iso:country":"US",
+    "sg:address":"2031 S State St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 343 4080",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:tags":[
+        "organization",
+        "membership"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727863,
+        102083567,
+        85880103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tf4YmxphIi6nOsIBbG8iS_40.205975_-111.627567@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123102,
+    "wof:geomhash":"b68450c34db7be4ed2bfaf43380422d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880103,
+            "region_id":85688567,
+            "venue_id":857148131
+        }
+    ],
+    "wof:id":857148131,
+    "wof:lastmodified":1464123102,
+    "wof:name":"Animal Shelter",
+    "wof:parent_id":85880103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "membership"
+    ]
+},
+  "bbox": [
+    -111.627567,
+    40.205975,
+    -111.627567,
+    40.205975
+],
+  "geometry": {"coordinates":[-111.627567,40.205975],"type":"Point"}
+}

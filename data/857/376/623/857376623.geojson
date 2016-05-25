@@ -1,0 +1,75 @@
+{
+  "id": 857376623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.909677,40.545243,-111.909677,40.545243",
+    "geom:latitude":40.545243,
+    "geom:longitude":-111.909677,
+    "iso:country":"US",
+    "sg:address":"11277 S 675 W",
+    "sg:city":"South Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 576 6411",
+    "sg:postcode":"84095",
+    "sg:province":"UT",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727849,
+        102082877,
+        85830089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4J73XuPkM4Rc8UvDnYZs5g_40.545243_-111.909677@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128050,
+    "wof:geomhash":"d553ad74d6a93a7a1fc10483e7d58ce2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85830089,
+            "region_id":85688567,
+            "venue_id":857376623
+        }
+    ],
+    "wof:id":857376623,
+    "wof:lastmodified":1464128050,
+    "wof:name":"Masonary Specialties Inc",
+    "wof:parent_id":85830089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.909677,
+    40.545243,
+    -111.909677,
+    40.545243
+],
+  "geometry": {"coordinates":[-111.909677,40.545243],"type":"Point"}
+}

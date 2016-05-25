@@ -1,0 +1,68 @@
+{
+  "id": 857477127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.982766,41.083823,-111.982766,41.083823",
+    "geom:latitude":41.083823,
+    "geom:longitude":-111.982766,
+    "iso:country":"US",
+    "sg:address":"750 Heritage Park Blvd",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 416 8899",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gYuhspuWVsOuJ8nKzRsfj_41.083823_-111.982766@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130317,
+    "wof:geomhash":"fadc5670fd952899c613800c4b8fef52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857477127
+        }
+    ],
+    "wof:id":857477127,
+    "wof:lastmodified":1464130317,
+    "wof:name":"Hilton Garden Inn Layton",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.982766,
+    41.083823,
+    -111.982766,
+    41.083823
+],
+  "geometry": {"coordinates":[-111.982766,41.083823],"type":"Point"}
+}

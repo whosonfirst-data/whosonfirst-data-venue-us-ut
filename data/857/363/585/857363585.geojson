@@ -1,0 +1,71 @@
+{
+  "id": 857363585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.97398,41.702743,-111.97398,41.702743",
+    "geom:latitude":41.702743,
+    "geom:longitude":-111.97398,
+    "iso:country":"US",
+    "sg:address":"265 S 100 E",
+    "sg:city":"Mendon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 787 1227",
+    "sg:postcode":"84325",
+    "sg:province":"UT",
+    "sg:tags":[
+        "cabinet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727555,
+        102082881,
+        85823067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06DfR9sCzuYGsFbJJvssQ9_41.702743_-111.973980@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127776,
+    "wof:geomhash":"8046185048bba7cf4eb4f94a51486684",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727555,
+            "neighbourhood_id":85823067,
+            "region_id":85688567,
+            "venue_id":857363585
+        }
+    ],
+    "wof:id":857363585,
+    "wof:lastmodified":1464127776,
+    "wof:name":"Baker's Cabinet Shop",
+    "wof:parent_id":85823067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cabinet"
+    ]
+},
+  "bbox": [
+    -111.97398,
+    41.702743,
+    -111.97398,
+    41.702743
+],
+  "geometry": {"coordinates":[-111.97398,41.702743],"type":"Point"}
+}

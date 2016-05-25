@@ -1,0 +1,71 @@
+{
+  "id": 857130285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.678824,40.012719,-111.678824,40.012719",
+    "geom:latitude":40.012719,
+    "geom:longitude":-111.678824,
+    "iso:country":"US",
+    "sg:address":"259 E Alpine Dr",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 423 1028",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Nd8fawbfJWDrBLykpzw8i_40.012719_-111.678824@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122687,
+    "wof:geomhash":"a8f002c7488eb8b71dbcf63e90d79f7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857130285
+        }
+    ],
+    "wof:id":857130285,
+    "wof:lastmodified":1464122687,
+    "wof:name":"Church Of Jesus Christ Of Lds",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -111.678824,
+    40.012719,
+    -111.678824,
+    40.012719
+],
+  "geometry": {"coordinates":[-111.67882400000001,40.012719],"type":"Point"}
+}

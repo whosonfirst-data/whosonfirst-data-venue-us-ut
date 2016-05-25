@@ -1,0 +1,73 @@
+{
+  "id": 857133017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.81976,41.753236,-111.81976,41.753236",
+    "geom:latitude":41.753236,
+    "geom:longitude":-111.81976,
+    "iso:country":"US",
+    "sg:address":"530 E 1200 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 4963",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "stucco",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RRYoMZeNvjVufU9iO33wl_41.753236_-111.819760@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122741,
+    "wof:geomhash":"384a6aa199dd0ebe158cc6ca7309d5eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857133017
+        }
+    ],
+    "wof:id":857133017,
+    "wof:lastmodified":1464122741,
+    "wof:name":"Datwyler Lath & Plaster",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stucco",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.81976,
+    41.753236,
+    -111.81976,
+    41.753236
+],
+  "geometry": {"coordinates":[-111.81976,41.753236],"type":"Point"}
+}

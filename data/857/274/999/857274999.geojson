@@ -1,0 +1,73 @@
+{
+  "id": 857274999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.907136,40.628942,-111.907136,40.628942",
+    "geom:latitude":40.628942,
+    "geom:longitude":-111.907136,
+    "iso:country":"US",
+    "sg:address":"577 Alfred Way",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 263 2669",
+    "sg:postcode":"84123",
+    "sg:province":"UT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728051,
+        102082877,
+        85803901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fh8gyUSzsH1MVZak5UcIX_40.628942_-111.907136@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125790,
+    "wof:geomhash":"f34a303fa40a01d916b07619465e0221",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85803901,
+            "region_id":85688567,
+            "venue_id":857274999
+        }
+    ],
+    "wof:id":857274999,
+    "wof:lastmodified":1464125790,
+    "wof:name":"South of A Z",
+    "wof:parent_id":85803901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -111.907136,
+    40.628942,
+    -111.907136,
+    40.628942
+],
+  "geometry": {"coordinates":[-111.90713599999999,40.628942],"type":"Point"}
+}

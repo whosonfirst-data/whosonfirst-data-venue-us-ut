@@ -1,0 +1,73 @@
+{
+  "id": 857320915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.007886,41.103444,-112.007886,41.103444",
+    "geom:latitude":41.103444,
+    "geom:longitude":-112.007886,
+    "iso:country":"US",
+    "sg:address":"810 E 700 S",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 776 1440",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85851583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2r4sJ33yzIALcSGfgNQYMN_41.103444_-112.007886@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126868,
+    "wof:geomhash":"5968cf0c390da08b8d5f9bff9f1c41de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85851583,
+            "region_id":85688567,
+            "venue_id":857320915
+        }
+    ],
+    "wof:id":857320915,
+    "wof:lastmodified":1464126868,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85851583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -112.007886,
+    41.103444,
+    -112.007886,
+    41.103444
+],
+  "geometry": {"coordinates":[-112.007886,41.103444],"type":"Point"}
+}

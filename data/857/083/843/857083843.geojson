@@ -1,0 +1,71 @@
+{
+  "id": 857083843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.815409,41.742737,-111.815409,41.742737",
+    "geom:latitude":41.742737,
+    "geom:longitude":-111.815409,
+    "iso:country":"US",
+    "sg:address":"600 Darwin Ave",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 755 5660",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lSyK8gcg1F4JLZcfg0AWL_41.742737_-111.815409@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121507,
+    "wof:geomhash":"eb1ea8e4cb81d28ecb9ef1e8bc3fefc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857083843
+        }
+    ],
+    "wof:id":857083843,
+    "wof:lastmodified":1464121507,
+    "wof:name":"Church Of Jesus Christ Of Lds",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -111.815409,
+    41.742737,
+    -111.815409,
+    41.742737
+],
+  "geometry": {"coordinates":[-111.815409,41.742737],"type":"Point"}
+}

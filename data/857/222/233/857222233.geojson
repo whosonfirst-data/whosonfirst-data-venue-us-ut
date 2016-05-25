@@ -1,0 +1,68 @@
+{
+  "id": 857222233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.906778,40.674773,-111.906778,40.674773",
+    "geom:latitude":40.674773,
+    "geom:longitude":-111.906778,
+    "iso:country":"US",
+    "sg:address":"552 W 4500 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 270 0929",
+    "sg:postcode":"84123",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85851609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vJnJb1A49C6KZpmGmYALz_40.674773_-111.906778@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124660,
+    "wof:geomhash":"8d99d21705210a7bbd4c53299515175c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85851609,
+            "region_id":85688567,
+            "venue_id":857222233
+        }
+    ],
+    "wof:id":857222233,
+    "wof:lastmodified":1464124660,
+    "wof:name":"Subway Sandwiches & Salads",
+    "wof:parent_id":85851609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.906778,
+    40.674773,
+    -111.906778,
+    40.674773
+],
+  "geometry": {"coordinates":[-111.906778,40.674773],"type":"Point"}
+}

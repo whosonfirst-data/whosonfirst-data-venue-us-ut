@@ -1,0 +1,71 @@
+{
+  "id": 857412845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.846075,40.394199,-111.846075,40.394199",
+    "geom:latitude":40.394199,
+    "geom:longitude":-111.846075,
+    "iso:country":"US",
+    "sg:address":"560 N 200 E",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 766 1021",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28bXaDfntlAEdyCcMzbxy9_40.394199_-111.846075@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128920,
+    "wof:geomhash":"d7f2988450fcbde6e392c365351480ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857412845
+        }
+    ],
+    "wof:id":857412845,
+    "wof:lastmodified":1464128920,
+    "wof:name":"Platinum Concrete & Curbing",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.846075,
+    40.394199,
+    -111.846075,
+    40.394199
+],
+  "geometry": {"coordinates":[-111.846075,40.394199],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857094889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.968712,41.244202,-111.968712,41.244202",
+    "geom:latitude":41.244202,
+    "geom:longitude":-111.968712,
+    "iso:country":"US",
+    "sg:address":"465 12th St",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 394 8788",
+    "sg:postcode":"84404",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85834241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3daILiVOLXzE4Utlw0GNIg_41.244202_-111.968712@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121787,
+    "wof:geomhash":"828e0d7787a15e67e6d5b92cf86e406d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85834241,
+            "region_id":85688567,
+            "venue_id":857094889
+        }
+    ],
+    "wof:id":857094889,
+    "wof:lastmodified":1464121787,
+    "wof:name":"Wing Wah Restaurant",
+    "wof:parent_id":85834241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.968712,
+    41.244202,
+    -111.968712,
+    41.244202
+],
+  "geometry": {"coordinates":[-111.968712,41.244202],"type":"Point"}
+}

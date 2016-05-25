@@ -1,0 +1,73 @@
+{
+  "id": 857345513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.013641,41.079744,-112.013641,41.079744",
+    "geom:latitude":41.079744,
+    "geom:longitude":-112.013641,
+    "iso:country":"US",
+    "sg:address":"1360 N 2525 W",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 444 0901",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hlRZ3ywKSxsvG84ew5GPF_41.079744_-112.013641@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127383,
+    "wof:geomhash":"be929d93dac8e51fb8f4aaa15932073c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857345513
+        }
+    ],
+    "wof:id":857345513,
+    "wof:lastmodified":1464127383,
+    "wof:name":"Brighten Cleaning Co Inc",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -112.013641,
+    41.079744,
+    -112.013641,
+    41.079744
+],
+  "geometry": {"coordinates":[-112.01364100000001,41.079744],"type":"Point"}
+}

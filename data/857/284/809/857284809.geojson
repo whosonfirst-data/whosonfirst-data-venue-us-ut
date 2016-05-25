@@ -1,0 +1,73 @@
+{
+  "id": 857284809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.920899,40.588746,-111.920899,40.588746",
+    "geom:latitude":40.588746,
+    "geom:longitude":-111.920899,
+    "iso:country":"US",
+    "sg:address":"8890 S 1030 W",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 748 4230",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85834101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kogd1eH0SmaK3VOB6NnLF_40.588746_-111.920899@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126018,
+    "wof:geomhash":"6fe5db0d21b822f99edb7f75a8c8d262",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85834101,
+            "region_id":85688567,
+            "venue_id":857284809
+        }
+    ],
+    "wof:id":857284809,
+    "wof:lastmodified":1464126018,
+    "wof:name":"Globe Bakery",
+    "wof:parent_id":85834101,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -111.920899,
+    40.588746,
+    -111.920899,
+    40.588746
+],
+  "geometry": {"coordinates":[-111.92089900000001,40.588746],"type":"Point"}
+}

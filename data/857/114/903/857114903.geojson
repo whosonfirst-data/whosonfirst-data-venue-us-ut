@@ -1,0 +1,73 @@
+{
+  "id": 857114903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.667362,40.22177,-111.667362,40.22177",
+    "geom:latitude":40.22177,
+    "geom:longitude":-111.667362,
+    "iso:country":"US",
+    "sg:address":"711 S 500 W",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 471 7411",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "janitorial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hKi3dJH0fZ6E1PTxBHXtL_40.221770_-111.667362@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122311,
+    "wof:geomhash":"3a2197ae80e88e3ca09d990e8b67567d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880077,
+            "region_id":85688567,
+            "venue_id":857114903
+        }
+    ],
+    "wof:id":857114903,
+    "wof:lastmodified":1464122311,
+    "wof:name":"Fayco",
+    "wof:parent_id":85880077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitorial"
+    ]
+},
+  "bbox": [
+    -111.667362,
+    40.22177,
+    -111.667362,
+    40.22177
+],
+  "geometry": {"coordinates":[-111.667362,40.22177],"type":"Point"}
+}

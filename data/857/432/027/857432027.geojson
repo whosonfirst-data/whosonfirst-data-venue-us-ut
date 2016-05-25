@@ -1,0 +1,73 @@
+{
+  "id": 857432027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.885458,40.706648,-111.885458,40.706648",
+    "geom:latitude":40.706648,
+    "geom:longitude":-111.885458,
+    "iso:country":"US",
+    "sg:address":"2964 S 200 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 486 8931",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85854999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7axqLRCHgpyFKRTbFt0OoS_40.706648_-111.885458@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129392,
+    "wof:geomhash":"5e2ff550378050a24619ee7e96a75f53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85854999,
+            "region_id":85688567,
+            "venue_id":857432027
+        }
+    ],
+    "wof:id":857432027,
+    "wof:lastmodified":1464129392,
+    "wof:name":"Donna Manor Apartments",
+    "wof:parent_id":85854999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -111.885458,
+    40.706648,
+    -111.885458,
+    40.706648
+],
+  "geometry": {"coordinates":[-111.885458,40.706648],"type":"Point"}
+}

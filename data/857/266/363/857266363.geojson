@@ -1,0 +1,73 @@
+{
+  "id": 857266363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.796643,40.593245,-111.796643,40.593245",
+    "geom:latitude":40.593245,
+    "geom:longitude":-111.796643,
+    "iso:country":"US",
+    "sg:address":"8722 S Grand Oak Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 943 2370",
+    "sg:postcode":"84121",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728065,
+        102082877,
+        85851641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46rPX9MKRhcLHcFP8cuI7v_40.593245_-111.796643@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125618,
+    "wof:geomhash":"c968265ee4bc2a4808ee1fdd1ce36e10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728065,
+            "neighbourhood_id":85851641,
+            "region_id":85688567,
+            "venue_id":857266363
+        }
+    ],
+    "wof:id":857266363,
+    "wof:lastmodified":1464125618,
+    "wof:name":"Casper Plumbing Inc",
+    "wof:parent_id":85851641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.796643,
+    40.593245,
+    -111.796643,
+    40.593245
+],
+  "geometry": {"coordinates":[-111.796643,40.593245],"type":"Point"}
+}

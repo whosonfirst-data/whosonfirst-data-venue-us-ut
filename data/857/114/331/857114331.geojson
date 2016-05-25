@@ -1,0 +1,68 @@
+{
+  "id": 857114331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.009938,41.074739,-112.009938,41.074739",
+    "geom:latitude":41.074739,
+    "geom:longitude":-112.009938,
+    "iso:country":"US",
+    "sg:address":"2424 W 1000 N",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 544 1864",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dROLdqXZj4drUF3bn3JTQ_41.074739_-112.009938@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122298,
+    "wof:geomhash":"d4366cdf55594182f825ecb2b1d621d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857114331
+        }
+    ],
+    "wof:id":857114331,
+    "wof:lastmodified":1464122298,
+    "wof:name":"Legend Cleaning",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.009938,
+    41.074739,
+    -112.009938,
+    41.074739
+],
+  "geometry": {"coordinates":[-112.00993800000001,41.074739],"type":"Point"}
+}

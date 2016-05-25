@@ -1,0 +1,75 @@
+{
+  "id": 857483813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.809076,40.68902,-111.809076,40.68902",
+    "geom:latitude":40.68902,
+    "geom:longitude":-111.809076,
+    "iso:country":"US",
+    "sg:address":"2975 Upland Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 278 3209",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "company",
+        "holding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85855049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IduUUfkbzOUJdca0mAnn1_40.689020_-111.809076@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130442,
+    "wof:geomhash":"d8bb66862a5e29e4d2b685a20128e321",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85855049,
+            "region_id":85688567,
+            "venue_id":857483813
+        }
+    ],
+    "wof:id":857483813,
+    "wof:lastmodified":1464130442,
+    "wof:name":"Nakashima Holdings LLC",
+    "wof:parent_id":85855049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "holding"
+    ]
+},
+  "bbox": [
+    -111.809076,
+    40.68902,
+    -111.809076,
+    40.68902
+],
+  "geometry": {"coordinates":[-111.809076,40.68902],"type":"Point"}
+}

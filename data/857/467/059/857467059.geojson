@@ -1,0 +1,71 @@
+{
+  "id": 857467059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.929723,41.617975,-111.929723,41.617975",
+    "geom:latitude":41.617975,
+    "geom:longitude":-111.929723,
+    "iso:country":"US",
+    "sg:address":"1002 S 200 E",
+    "sg:city":"Wellsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 245 5969",
+    "sg:postcode":"84339",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727555,
+        102082881,
+        85823067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LOdFjrjzNHQS2C0eRDSl1_41.617975_-111.929723@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130108,
+    "wof:geomhash":"4afe2c0d6b96936b6162114fea4b8a64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727555,
+            "neighbourhood_id":85823067,
+            "region_id":85688567,
+            "venue_id":857467059
+        }
+    ],
+    "wof:id":857467059,
+    "wof:lastmodified":1464130108,
+    "wof:name":"Scott Leishman Construction",
+    "wof:parent_id":85823067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.929723,
+    41.617975,
+    -111.929723,
+    41.617975
+],
+  "geometry": {"coordinates":[-111.929723,41.617975],"type":"Point"}
+}

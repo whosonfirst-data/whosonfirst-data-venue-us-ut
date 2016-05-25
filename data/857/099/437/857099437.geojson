@@ -1,0 +1,71 @@
+{
+  "id": 857099437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.939678,41.026742,-111.939678,41.026742",
+    "geom:latitude":41.026742,
+    "geom:longitude":-111.939678,
+    "iso:country":"US",
+    "sg:address":"587 S 50 W",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 544 8427",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "advisory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07KbNYao3XCzaJsfQZf5eN_41.026742_-111.939678@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121890,
+    "wof:geomhash":"3d89105a1aa725fe075bf8cca577ccbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857099437
+        }
+    ],
+    "wof:id":857099437,
+    "wof:lastmodified":1464121890,
+    "wof:name":"Robins Investment Co",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory"
+    ]
+},
+  "bbox": [
+    -111.939678,
+    41.026742,
+    -111.939678,
+    41.026742
+],
+  "geometry": {"coordinates":[-111.939678,41.026742],"type":"Point"}
+}

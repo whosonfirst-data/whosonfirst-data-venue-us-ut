@@ -1,0 +1,76 @@
+{
+  "id": 857492129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.692581,40.297121,-111.692581,40.297121",
+    "geom:latitude":40.297121,
+    "geom:longitude":-111.692581,
+    "iso:country":"US",
+    "sg:address":"80 E Center St",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/provo-orem/240513-panda-express/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 802 7830",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "asian",
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85849197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zzVbIYv19CYG2JJDHmDZR_40.297121_-111.692581@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130666,
+    "wof:geomhash":"ff7c489fce30de4c816f98f47fffd1c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85849197,
+            "region_id":85688567,
+            "venue_id":857492129
+        }
+    ],
+    "wof:id":857492129,
+    "wof:lastmodified":1464130666,
+    "wof:name":"Panda Express",
+    "wof:parent_id":85849197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asian",
+        "chinese"
+    ]
+},
+  "bbox": [
+    -111.692581,
+    40.297121,
+    -111.692581,
+    40.297121
+],
+  "geometry": {"coordinates":[-111.692581,40.297121],"type":"Point"}
+}

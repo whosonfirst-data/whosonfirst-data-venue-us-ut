@@ -1,0 +1,71 @@
+{
+  "id": 857330315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.189401,37.203481,-113.189401,37.203481",
+    "geom:latitude":37.203481,
+    "geom:longitude":-113.189401,
+    "iso:country":"US",
+    "sg:address":"3 State Rte 9",
+    "sg:city":"Virgin",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 635 7730",
+    "sg:postcode":"84779",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727619,
+        102082879,
+        85822405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NV42ENkufa0SRqbyADvtd_37.203481_-113.189401@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127060,
+    "wof:geomhash":"ba1604140e5357ae7c35d7d030c8773a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727619,
+            "neighbourhood_id":85822405,
+            "region_id":85688567,
+            "venue_id":857330315
+        }
+    ],
+    "wof:id":857330315,
+    "wof:lastmodified":1464127060,
+    "wof:name":"Virgin Goods",
+    "wof:parent_id":85822405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -113.189401,
+    37.203481,
+    -113.189401,
+    37.203481
+],
+  "geometry": {"coordinates":[-113.189401,37.203481],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857292243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.96077,40.581055,-111.96077,40.581055",
+    "geom:latitude":40.581055,
+    "geom:longitude":-111.96077,
+    "iso:country":"US",
+    "sg:address":"2845 Ella St",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 561 3555",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85854601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TshjL4PH4aiQlrl1kLGQR_40.581055_-111.960770@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126203,
+    "wof:geomhash":"db488f70b8d26d878cc68f719ea82ae6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85854601,
+            "region_id":85688567,
+            "venue_id":857292243
+        }
+    ],
+    "wof:id":857292243,
+    "wof:lastmodified":1464126203,
+    "wof:name":"Jewell Floral",
+    "wof:parent_id":85854601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.96077,
+    40.581055,
+    -111.96077,
+    40.581055
+],
+  "geometry": {"coordinates":[-111.96077,40.581055],"type":"Point"}
+}

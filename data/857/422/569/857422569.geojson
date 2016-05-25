@@ -1,0 +1,75 @@
+{
+  "id": 857422569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.568397,37.10433,-113.568397,37.10433",
+    "geom:latitude":37.10433,
+    "geom:longitude":-113.568397,
+    "iso:country":"US",
+    "sg:address":"225 S 700 E",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 652 7892",
+    "sg:postcode":"84770",
+    "sg:province":"UT",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yLFwKo5vMpRRPxMFCFZns_37.104330_-113.568397@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129160,
+    "wof:geomhash":"bf621ce2c7b3e914b3a86b37b35876f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857422569
+        }
+    ],
+    "wof:id":857422569,
+    "wof:lastmodified":1464129160,
+    "wof:name":"Utah State University",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -113.568397,
+    37.10433,
+    -113.568397,
+    37.10433
+],
+  "geometry": {"coordinates":[-113.568397,37.10433],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857486287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.853254,40.593571,-111.853254,40.593571",
+    "geom:latitude":40.593571,
+    "geom:longitude":-111.853254,
+    "iso:country":"US",
+    "sg:address":"8612 S 1300 E",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 561 5331",
+    "sg:postcode":"84094",
+    "sg:province":"UT",
+    "sg:tags":[
+        "station"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85847325,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4so0TKtajYPHIUk9BH7w8j_40.593571_-111.853254@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130490,
+    "wof:geomhash":"3cbc3fe099231665c6f856c3333c8fa1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85847325,
+            "region_id":85688567,
+            "venue_id":857486287
+        }
+    ],
+    "wof:id":857486287,
+    "wof:lastmodified":1464130490,
+    "wof:name":"Conoco 44012",
+    "wof:parent_id":85847325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station"
+    ]
+},
+  "bbox": [
+    -111.853254,
+    40.593571,
+    -111.853254,
+    40.593571
+],
+  "geometry": {"coordinates":[-111.85325400000001,40.593571],"type":"Point"}
+}

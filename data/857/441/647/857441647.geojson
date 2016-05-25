@@ -1,0 +1,71 @@
+{
+  "id": 857441647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.922531,41.003507,-111.922531,41.003507",
+    "geom:latitude":41.003507,
+    "geom:longitude":-111.922531,
+    "iso:country":"US",
+    "sg:address":"1631 W 1410 N",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 6862",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lj1b2yJoMuibDs0fS4e8U_41.003507_-111.922531@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129599,
+    "wof:geomhash":"73a475c3891ce43302797ef7407d2ca5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857441647
+        }
+    ],
+    "wof:id":857441647,
+    "wof:lastmodified":1464129599,
+    "wof:name":"Lil Rascals Preschool",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -111.922531,
+    41.003507,
+    -111.922531,
+    41.003507
+],
+  "geometry": {"coordinates":[-111.92253100000001,41.003507],"type":"Point"}
+}

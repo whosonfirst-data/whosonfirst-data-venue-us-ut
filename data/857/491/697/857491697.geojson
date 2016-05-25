@@ -1,0 +1,76 @@
+{
+  "id": 857491697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.861228,40.528753,-111.861228,40.528753",
+    "geom:latitude":40.528753,
+    "geom:longitude":-111.861228,
+    "iso:country":"US",
+    "sg:address":"1055 Draper Pkwy",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/86038-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 571 1266",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727849,
+        102082877,
+        85815193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5u1EGf5ibNu1nUUc8khzzR_40.528753_-111.861228@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130648,
+    "wof:geomhash":"bb5bba2082dc1e4350c6468b0e8c33c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85815193,
+            "region_id":85688567,
+            "venue_id":857491697
+        }
+    ],
+    "wof:id":857491697,
+    "wof:lastmodified":1464130648,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85815193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -111.861228,
+    40.528753,
+    -111.861228,
+    40.528753
+],
+  "geometry": {"coordinates":[-111.861228,40.528753],"type":"Point"}
+}

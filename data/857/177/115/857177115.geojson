@@ -1,0 +1,77 @@
+{
+  "id": 857177115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.901587,40.62288,-111.901587,40.62288",
+    "geom:latitude":40.62288,
+    "geom:longitude":-111.901587,
+    "iso:country":"US",
+    "sg:address":"7045 S 400 W",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 566 8828",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "sg:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728051,
+        102082877,
+        85803901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Axcw2Fno2S1dDGv7kU8b8_40.622880_-111.901587@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123735,
+    "wof:geomhash":"a73790b343abcb2d3164e64f23a316fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85803901,
+            "region_id":85688567,
+            "venue_id":857177115
+        }
+    ],
+    "wof:id":857177115,
+    "wof:lastmodified":1464123735,
+    "wof:name":"Tint & Clear Bra Specialists",
+    "wof:parent_id":85803901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ]
+},
+  "bbox": [
+    -111.901587,
+    40.62288,
+    -111.901587,
+    40.62288
+],
+  "geometry": {"coordinates":[-111.90158700000001,40.62288],"type":"Point"}
+}

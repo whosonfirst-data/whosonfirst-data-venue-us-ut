@@ -1,0 +1,69 @@
+{
+  "id": 857483119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.806348,40.37869,-111.806348,40.37869",
+    "geom:latitude":40.37869,
+    "geom:longitude":-111.806348,
+    "iso:country":"US",
+    "sg:address":"108 N 300 W",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 362 9513",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26jjNS3Q1bvOfLKtQ9o7nV_40.378690_-111.806348@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130430,
+    "wof:geomhash":"bde7033362e59be69b6d6ac0b44db0bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857483119
+        }
+    ],
+    "wof:id":857483119,
+    "wof:lastmodified":1464130430,
+    "wof:name":"Kyles Custom Hardwoods",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -111.806348,
+    40.37869,
+    -111.806348,
+    40.37869
+],
+  "geometry": {"coordinates":[-111.806348,40.37869],"type":"Point"}
+}

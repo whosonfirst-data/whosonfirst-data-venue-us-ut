@@ -1,0 +1,73 @@
+{
+  "id": 857429389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.821105,41.757532,-111.821105,41.757532",
+    "geom:latitude":41.757532,
+    "geom:longitude":-111.821105,
+    "iso:country":"US",
+    "sg:address":"1400 N 500 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 750 5307",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FqsenXaeFqAYBBDIM64Gw_41.757532_-111.821105@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129328,
+    "wof:geomhash":"002724aeef4930504ed43fce02bddb33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857429389
+        }
+    ],
+    "wof:id":857429389,
+    "wof:lastmodified":1464129328,
+    "wof:name":"Diagnostic Imaging Ctr",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -111.821105,
+    41.757532,
+    -111.821105,
+    41.757532
+],
+  "geometry": {"coordinates":[-111.821105,41.757532],"type":"Point"}
+}

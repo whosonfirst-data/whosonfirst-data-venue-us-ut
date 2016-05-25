@@ -1,0 +1,74 @@
+{
+  "id": 857491621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.88063,40.8839,-111.88063,40.8839",
+    "geom:latitude":40.8839,
+    "geom:longitude":-111.88063,
+    "iso:country":"US",
+    "sg:address":"530 S Main St",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/south-davis/242769-baskin-robbins/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 298 9931",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727881,
+        102083563,
+        85807249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cwGHRR3iJN8UvVbHDiM3h_40.883900_-111.880630@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130645,
+    "wof:geomhash":"2b273666a40b6f64a01fb21af9b5e7e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727881,
+            "neighbourhood_id":85807249,
+            "region_id":85688567,
+            "venue_id":857491621
+        }
+    ],
+    "wof:id":857491621,
+    "wof:lastmodified":1464130645,
+    "wof:name":"Baskin-Robbins",
+    "wof:parent_id":85807249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -111.88063,
+    40.8839,
+    -111.88063,
+    40.8839
+],
+  "geometry": {"coordinates":[-111.88063,40.8839],"type":"Point"}
+}

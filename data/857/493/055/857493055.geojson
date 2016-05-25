@@ -1,0 +1,76 @@
+{
+  "id": 857493055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.857648,40.725406,-111.857648,40.725406",
+    "geom:latitude":40.725406,
+    "geom:longitude":-111.857648,
+    "iso:country":"US",
+    "sg:address":"1166 E 2100 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/33940-brookeside-broiler--grill/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 461 0991",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85857009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AK2kRIVzg1TQUGKr57uUa_40.725406_-111.857648@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130701,
+    "wof:geomhash":"c57e53d028f8c4fb5dce79c8cf6621e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85857009,
+            "region_id":85688567,
+            "venue_id":857493055
+        }
+    ],
+    "wof:id":857493055,
+    "wof:lastmodified":1464130701,
+    "wof:name":"Brookeside Broiler & Grill",
+    "wof:parent_id":85857009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [
+    -111.857648,
+    40.725406,
+    -111.857648,
+    40.725406
+],
+  "geometry": {"coordinates":[-111.857648,40.725406],"type":"Point"}
+}

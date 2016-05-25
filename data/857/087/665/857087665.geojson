@@ -1,0 +1,87 @@
+{
+  "id": 857087665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.893906,40.706808,-111.893906,40.706808",
+    "geom:latitude":40.706808,
+    "geom:longitude":-111.893906,
+    "iso:country":"US",
+    "sg:address":"2975 S West Temple",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 484 0884",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "pet",
+        "product",
+        "crematory",
+        "cemetery",
+        "mfg"
+    ],
+    "sg:website":"www.windsorcasket.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85854999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SQL5QF8e6yufQ9SMilQGI_40.706808_-111.893906@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121603,
+    "wof:geomhash":"91da8f2445ed5860e6a840470e44f55e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85854999,
+            "region_id":85688567,
+            "venue_id":857087665
+        }
+    ],
+    "wof:id":857087665,
+    "wof:lastmodified":1464121603,
+    "wof:name":"M G Technologies Inc",
+    "wof:parent_id":85854999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "product",
+        "crematory",
+        "cemetery",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.893906,
+    40.706808,
+    -111.893906,
+    40.706808
+],
+  "geometry": {"coordinates":[-111.893906,40.706808],"type":"Point"}
+}

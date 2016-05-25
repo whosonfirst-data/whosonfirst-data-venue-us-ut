@@ -1,0 +1,68 @@
+{
+  "id": 857300123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.65461,40.233777,-111.65461,40.233777",
+    "geom:latitude":40.233777,
+    "geom:longitude":-111.65461,
+    "iso:country":"US",
+    "sg:address":"289 E Center St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 377 3060",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Aas553OKGS0Wj9NLYiHa8_40.233777_-111.654610@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126416,
+    "wof:geomhash":"a4dcdb55990fd1b657d7beeaf575eb3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880065,
+            "region_id":85688567,
+            "venue_id":857300123
+        }
+    ],
+    "wof:id":857300123,
+    "wof:lastmodified":1464126416,
+    "wof:name":"Wiseman Insurance",
+    "wof:parent_id":85880065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.65461,
+    40.233777,
+    -111.65461,
+    40.233777
+],
+  "geometry": {"coordinates":[-111.65461000000001,40.233777],"type":"Point"}
+}

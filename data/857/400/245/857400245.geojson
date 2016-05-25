@@ -1,0 +1,73 @@
+{
+  "id": 857400245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.863574,40.733431,-111.863574,40.733431",
+    "geom:latitude":40.733431,
+    "geom:longitude":-111.863574,
+    "iso:country":"US",
+    "sg:address":"944 E 1700 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 467 4690",
+    "sg:postcode":"84105",
+    "sg:province":"UT",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85855583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bety0m1vQcqkJ5cir3Ua4_40.733431_-111.863574@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128628,
+    "wof:geomhash":"7f6f1642b05b71785637d82719235bfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85855583,
+            "region_id":85688567,
+            "venue_id":857400245
+        }
+    ],
+    "wof:id":857400245,
+    "wof:lastmodified":1464128628,
+    "wof:name":"David Brown",
+    "wof:parent_id":85855583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -111.863574,
+    40.733431,
+    -111.863574,
+    40.733431
+],
+  "geometry": {"coordinates":[-111.863574,40.733431],"type":"Point"}
+}

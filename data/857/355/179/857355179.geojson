@@ -1,0 +1,71 @@
+{
+  "id": 857355179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.837518,41.731453,-111.837518,41.731453",
+    "geom:latitude":41.731453,
+    "geom:longitude":-111.837518,
+    "iso:country":"US",
+    "sg:address":"96 N 100 W",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 9136",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gP2kbexhzlfGxcrWJlFJX_41.731453_-111.837518@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127597,
+    "wof:geomhash":"51dfaa72d0585905a04c9e527e609486",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857355179
+        }
+    ],
+    "wof:id":857355179,
+    "wof:lastmodified":1464127597,
+    "wof:name":"Ranchera Market",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -111.837518,
+    41.731453,
+    -111.837518,
+    41.731453
+],
+  "geometry": {"coordinates":[-111.837518,41.731453],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 857271063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.655291,40.102855,-111.655291,40.102855",
+    "geom:latitude":40.102855,
+    "geom:longitude":-111.655291,
+    "iso:country":"US",
+    "sg:address":"480 S Main St",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 794 3100",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automobile",
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dwSK9F7OA1yd7JuNvlc6m_40.102855_-111.655291@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125707,
+    "wof:geomhash":"e77871dd9d8f69133920b47c64933510",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857271063
+        }
+    ],
+    "wof:id":857271063,
+    "wof:lastmodified":1464125707,
+    "wof:name":"In & Out Emmissions & Safety",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "inspection"
+    ]
+},
+  "bbox": [
+    -111.655291,
+    40.102855,
+    -111.655291,
+    40.102855
+],
+  "geometry": {"coordinates":[-111.65529100000001,40.102855],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857133223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.695485,40.287906,-111.695485,40.287906",
+    "geom:latitude":40.287906,
+    "geom:longitude":-111.695485,
+    "iso:country":"US",
+    "sg:address":"430 S Main St",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 226 1440",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85849197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CnwYYRdDpWImXENrwb888_40.287906_-111.695485@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122745,
+    "wof:geomhash":"37db48aaf68e023f366048f6c0fc7a18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85849197,
+            "region_id":85688567,
+            "venue_id":857133223
+        }
+    ],
+    "wof:id":857133223,
+    "wof:lastmodified":1464122745,
+    "wof:name":"Stonewood Manor",
+    "wof:parent_id":85849197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -111.695485,
+    40.287906,
+    -111.695485,
+    40.287906
+],
+  "geometry": {"coordinates":[-111.69548500000001,40.287906],"type":"Point"}
+}

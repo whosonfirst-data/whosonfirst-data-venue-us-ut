@@ -1,0 +1,76 @@
+{
+  "id": 857246239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.836366,41.735162,-111.836366,41.735162",
+    "geom:latitude":41.735162,
+    "geom:longitude":-111.836366,
+    "iso:country":"US",
+    "sg:address":"50 W 200 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 750 7424",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "county",
+        "govt",
+        "institution"
+    ],
+    "sg:website":"www.cachesheriff.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5x9sOxbgvxQcTgmU3naDqg_41.735162_-111.836366@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125163,
+    "wof:geomhash":"f254d8900ea006cd459538f67e5c4f7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857246239
+        }
+    ],
+    "wof:id":857246239,
+    "wof:lastmodified":1464125163,
+    "wof:name":"Cache County Jail",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "govt",
+        "institution"
+    ]
+},
+  "bbox": [
+    -111.836366,
+    41.735162,
+    -111.836366,
+    41.735162
+],
+  "geometry": {"coordinates":[-111.836366,41.735162],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857399785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.878982,40.771347,-111.878982,40.771347",
+    "geom:latitude":40.771347,
+    "geom:longitude":-111.878982,
+    "iso:country":"US",
+    "sg:address":"66 D St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 359 1919",
+    "sg:postcode":"84103",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85809299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PNGOfYfN5wncYU49sFyRP_40.771347_-111.878982@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128618,
+    "wof:geomhash":"f071a5e2697b33d8eafd2e212f776ba0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85809299,
+            "region_id":85688567,
+            "venue_id":857399785
+        }
+    ],
+    "wof:id":857399785,
+    "wof:lastmodified":1464128618,
+    "wof:name":"Wiseman Realty",
+    "wof:parent_id":85809299,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.878982,
+    40.771347,
+    -111.878982,
+    40.771347
+],
+  "geometry": {"coordinates":[-111.87898199999999,40.771347],"type":"Point"}
+}

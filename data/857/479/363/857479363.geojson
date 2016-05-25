@@ -1,0 +1,82 @@
+{
+  "id": 857479363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.871632,40.769602,-111.871632,40.769602",
+    "geom:latitude":40.769602,
+    "geom:longitude":-111.871632,
+    "iso:country":"US",
+    "sg:address":"39 I St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 363 7764",
+    "sg:postcode":"84103",
+    "sg:province":"UT",
+    "sg:tags":[
+        "art",
+        "dealer",
+        "gallery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37lkGpAoofPO1tX9nCIESu_40.769602_-111.871632@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130359,
+    "wof:geomhash":"b19ac823ca5a988ef3fede1947cfc054",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871029,
+            "region_id":85688567,
+            "venue_id":857479363
+        }
+    ],
+    "wof:id":857479363,
+    "wof:lastmodified":1464130359,
+    "wof:name":"Magpies Nest",
+    "wof:parent_id":85871029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "dealer",
+        "gallery"
+    ]
+},
+  "bbox": [
+    -111.871632,
+    40.769602,
+    -111.871632,
+    40.769602
+],
+  "geometry": {"coordinates":[-111.87163200000001,40.769602],"type":"Point"}
+}

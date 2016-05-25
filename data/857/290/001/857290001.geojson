@@ -1,0 +1,75 @@
+{
+  "id": 857290001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.929112,40.60364,-111.929112,40.60364",
+    "geom:latitude":40.60364,
+    "geom:longitude":-111.929112,
+    "iso:country":"US",
+    "sg:address":"8134 S 1300 W",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 566 4862",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85817621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DUPSR9AVSJuRsePcR3XWZ_40.603640_-111.929112@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126150,
+    "wof:geomhash":"db00483e943793f1a74eb55f8a713c3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85817621,
+            "region_id":85688567,
+            "venue_id":857290001
+        }
+    ],
+    "wof:id":857290001,
+    "wof:lastmodified":1464126150,
+    "wof:name":"S & K Machine Inc",
+    "wof:parent_id":85817621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.929112,
+    40.60364,
+    -111.929112,
+    40.60364
+],
+  "geometry": {"coordinates":[-111.929112,40.60364],"type":"Point"}
+}

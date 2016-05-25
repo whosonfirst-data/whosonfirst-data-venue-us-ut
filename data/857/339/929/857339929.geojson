@@ -1,0 +1,69 @@
+{
+  "id": 857339929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.844513,40.387942,-111.844513,40.387942",
+    "geom:latitude":40.387942,
+    "geom:longitude":-111.844513,
+    "iso:country":"US",
+    "sg:address":"216 E Main St",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 768 1155",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hIUgWOX2cADz3HtJWdtCY_40.387942_-111.844513@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127275,
+    "wof:geomhash":"c97f1657b17f6553d11ba01957456671",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857339929
+        }
+    ],
+    "wof:id":857339929,
+    "wof:lastmodified":1464127275,
+    "wof:name":"Lowell K Anderson & Assoc",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -111.844513,
+    40.387942,
+    -111.844513,
+    40.387942
+],
+  "geometry": {"coordinates":[-111.84451300000001,40.387942],"type":"Point"}
+}

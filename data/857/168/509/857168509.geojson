@@ -1,0 +1,71 @@
+{
+  "id": 857168509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.798664,40.376612,-111.798664,40.376612",
+    "geom:latitude":40.376612,
+    "geom:longitude":-111.798664,
+    "iso:country":"US",
+    "sg:address":"90 S Center St",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 763 7623",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "housekeeping",
+        "errand"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VNNN21MVaMyCwcTrDGBeF_40.376612_-111.798664@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123547,
+    "wof:geomhash":"ba1b70df3aed71467007152918c934c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857168509
+        }
+    ],
+    "wof:id":857168509,
+    "wof:lastmodified":1464123547,
+    "wof:name":"Home Buddies Inc",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "housekeeping",
+        "errand"
+    ]
+},
+  "bbox": [
+    -111.798664,
+    40.376612,
+    -111.798664,
+    40.376612
+],
+  "geometry": {"coordinates":[-111.798664,40.376612],"type":"Point"}
+}

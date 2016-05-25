@@ -1,0 +1,80 @@
+{
+  "id": 857325779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.689861,40.279755,-111.689861,40.279755",
+    "geom:latitude":40.279755,
+    "geom:longitude":-111.689861,
+    "iso:country":"US",
+    "sg:address":"901 S Orem Blvd",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 226 3777",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "business",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85830581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2286ozNOSlY3L74oJVJXjW_40.279755_-111.689861@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126965,
+    "wof:geomhash":"7f0bab2ffd5cf80aabe921e93fe623d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85830581,
+            "region_id":85688567,
+            "venue_id":857325779
+        }
+    ],
+    "wof:id":857325779,
+    "wof:lastmodified":1464126965,
+    "wof:name":"Utah County Assn Of Realtors",
+    "wof:parent_id":85830581,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -111.689861,
+    40.279755,
+    -111.689861,
+    40.279755
+],
+  "geometry": {"coordinates":[-111.68986099999999,40.279755],"type":"Point"}
+}

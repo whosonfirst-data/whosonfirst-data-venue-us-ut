@@ -1,0 +1,76 @@
+{
+  "id": 857495045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.003235,40.652533,-112.003235,40.652533",
+    "geom:latitude":40.652533,
+    "geom:longitude":-112.003235,
+    "iso:country":"US",
+    "sg:address":"4703 W 5415 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/81106-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 969 7200",
+    "sg:postcode":"84118",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728253,
+        102082877,
+        85833393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gxAlQmOI9e1SfiCFswJIH_40.652724_-112.002835@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130774,
+    "wof:geomhash":"2f2046c35bcae99b426b5a5151143dca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728253,
+            "neighbourhood_id":85833393,
+            "region_id":85688567,
+            "venue_id":857495045
+        }
+    ],
+    "wof:id":857495045,
+    "wof:lastmodified":1464130774,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85833393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -112.003235,
+    40.652533,
+    -112.003235,
+    40.652533
+],
+  "geometry": {"coordinates":[-112.003235,40.652533],"type":"Point"}
+}

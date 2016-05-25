@@ -1,0 +1,77 @@
+{
+  "id": 857448111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.062469,41.174561,-112.062469,41.174561",
+    "geom:latitude":41.174561,
+    "geom:longitude":-112.062469,
+    "iso:country":"US",
+    "sg:address":"4892 S 3425 W",
+    "sg:city":"Roy",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 773 5192",
+    "sg:postcode":"84067",
+    "sg:province":"UT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85804651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WAx90YhjowcnYNSUikkv5_41.174561_-112.062469@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129723,
+    "wof:geomhash":"c879e792f18608e9c6108b1d6fda402f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85804651,
+            "region_id":85688567,
+            "venue_id":857448111
+        }
+    ],
+    "wof:id":857448111,
+    "wof:lastmodified":1464129723,
+    "wof:name":"D&L Transportation Inc",
+    "wof:parent_id":85804651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -112.062469,
+    41.174561,
+    -112.062469,
+    41.174561
+],
+  "geometry": {"coordinates":[-112.06246899999999,41.174561],"type":"Point"}
+}

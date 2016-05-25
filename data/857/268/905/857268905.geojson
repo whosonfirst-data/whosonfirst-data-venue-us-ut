@@ -1,0 +1,69 @@
+{
+  "id": 857268905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.944902,41.314254,-111.944902,41.314254",
+    "geom:latitude":41.314254,
+    "geom:longitude":-111.944902,
+    "iso:country":"US",
+    "sg:address":"2948 N 1150 E",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 782 4182",
+    "sg:postcode":"84414",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85824645,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34J0c55Yb5Ofxt0i3cWnDE_41.314254_-111.944902@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125664,
+    "wof:geomhash":"ae1a953b4d1be37da6d8e218d89b0e86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85824645,
+            "region_id":85688567,
+            "venue_id":857268905
+        }
+    ],
+    "wof:id":857268905,
+    "wof:lastmodified":1464125664,
+    "wof:name":"Silver Apple Homes Company",
+    "wof:parent_id":85824645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -111.944902,
+    41.314254,
+    -111.944902,
+    41.314254
+],
+  "geometry": {"coordinates":[-111.944902,41.314254],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857359031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.919287,41.112364,-111.919287,41.112364",
+    "geom:latitude":41.112364,
+    "geom:longitude":-111.919287,
+    "iso:country":"US",
+    "sg:address":"3442 N 2375 E",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 771 9564",
+    "sg:postcode":"84040",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727911,
+        102083563,
+        85847875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AicYeLIqnPi4ILQjfkadI_41.112364_-111.919287@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127679,
+    "wof:geomhash":"8a3efad2ba82790cc2aff77098137ccc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727911,
+            "neighbourhood_id":85847875,
+            "region_id":85688567,
+            "venue_id":857359031
+        }
+    ],
+    "wof:id":857359031,
+    "wof:lastmodified":1464127679,
+    "wof:name":"Robert Crown",
+    "wof:parent_id":85847875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.919287,
+    41.112364,
+    -111.919287,
+    41.112364
+],
+  "geometry": {"coordinates":[-111.919287,41.112364],"type":"Point"}
+}

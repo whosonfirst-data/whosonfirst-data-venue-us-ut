@@ -1,0 +1,73 @@
+{
+  "id": 857290795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.854665,40.699826,-111.854665,40.699826",
+    "geom:latitude":40.699826,
+    "geom:longitude":-111.854665,
+    "iso:country":"US",
+    "sg:address":"1274 E 3300 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 486 1987",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85832079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hAX1MPKCyqFd9NsUwxLZL_40.699826_-111.854665@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126163,
+    "wof:geomhash":"f48f8671e670ee3d7924b9cf5566e95b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85832079,
+            "region_id":85688567,
+            "venue_id":857290795
+        }
+    ],
+    "wof:id":857290795,
+    "wof:lastmodified":1464126163,
+    "wof:name":"Family Dollar Store",
+    "wof:parent_id":85832079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.854665,
+    40.699826,
+    -111.854665,
+    40.699826
+],
+  "geometry": {"coordinates":[-111.854665,40.699826],"type":"Point"}
+}

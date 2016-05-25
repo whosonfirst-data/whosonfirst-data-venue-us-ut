@@ -1,0 +1,71 @@
+{
+  "id": 857310931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.913925,41.042801,-111.913925,41.042801",
+    "geom:latitude":41.042801,
+    "geom:longitude":-111.913925,
+    "iso:country":"US",
+    "sg:address":"330 N 1150 E",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 544 9658",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "billing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Wnbec4iWghcdPsQazOXfL_41.042801_-111.913925@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126638,
+    "wof:geomhash":"f7bdc7f9c249afb36bc7ad3252fd24d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857310931
+        }
+    ],
+    "wof:id":857310931,
+    "wof:lastmodified":1464126638,
+    "wof:name":"P H Medical Billing Svc",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "billing"
+    ]
+},
+  "bbox": [
+    -111.913925,
+    41.042801,
+    -111.913925,
+    41.042801
+],
+  "geometry": {"coordinates":[-111.91392500000001,41.042801],"type":"Point"}
+}

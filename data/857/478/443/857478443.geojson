@@ -1,0 +1,71 @@
+{
+  "id": 857478443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.844675,39.982188,-111.844675,39.982188",
+    "geom:latitude":39.982188,
+    "geom:longitude":-111.844675,
+    "iso:country":"US",
+    "sg:address":"74 W 800 S",
+    "sg:city":"Genola",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 754 5300",
+    "sg:postcode":"84655",
+    "sg:province":"UT",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jA1ZAIsPeyTQb6cDg8SuR_39.982188_-111.844675@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130343,
+    "wof:geomhash":"911edeee3820fc6c011830ec9b918fc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857478443
+        }
+    ],
+    "wof:id":857478443,
+    "wof:lastmodified":1464130343,
+    "wof:name":"Genola Town Hall",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -111.844675,
+    39.982188,
+    -111.844675,
+    39.982188
+],
+  "geometry": {"coordinates":[-111.844675,39.982188],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857478373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.272083,37.210565,-113.272083,37.210565",
+    "geom:latitude":37.210565,
+    "geom:longitude":-113.272083,
+    "iso:country":"US",
+    "sg:address":"394 N State St",
+    "sg:city":"La Verkin",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 635 9668",
+    "sg:postcode":"84745",
+    "sg:province":"UT",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727631,
+        102082879,
+        85824093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BhsVHcTkKSgbbsFUwLstL_37.210565_-113.272083@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130342,
+    "wof:geomhash":"b0c3d686dd217ca9bf4bd7197254c4f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727631,
+            "neighbourhood_id":85824093,
+            "region_id":85688567,
+            "venue_id":857478373
+        }
+    ],
+    "wof:id":857478373,
+    "wof:lastmodified":1464130342,
+    "wof:name":"Revolutions Dance Studio",
+    "wof:parent_id":85824093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -113.272083,
+    37.210565,
+    -113.272083,
+    37.210565
+],
+  "geometry": {"coordinates":[-113.27208299999999,37.210565],"type":"Point"}
+}

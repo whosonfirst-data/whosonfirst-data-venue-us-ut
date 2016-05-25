@@ -1,0 +1,75 @@
+{
+  "id": 857203313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.876103,40.776164,-111.876103,40.776164",
+    "geom:latitude":40.776164,
+    "geom:longitude":-111.876103,
+    "iso:country":"US",
+    "sg:address":"402 6th Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 359 2206",
+    "sg:postcode":"84103",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mail",
+        "direct"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85809299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lNHt7r7sKLFGT8y88I6Aa_40.776164_-111.876103@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124244,
+    "wof:geomhash":"4e1f87a655bf0fa3e31991c057b21417",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85809299,
+            "region_id":85688567,
+            "venue_id":857203313
+        }
+    ],
+    "wof:id":857203313,
+    "wof:lastmodified":1464124244,
+    "wof:name":"Post Net Postal & Bus Svcs",
+    "wof:parent_id":85809299,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "direct"
+    ]
+},
+  "bbox": [
+    -111.876103,
+    40.776164,
+    -111.876103,
+    40.776164
+],
+  "geometry": {"coordinates":[-111.876103,40.776164],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 857210539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.849074,40.767476,-111.849074,40.767476",
+    "geom:latitude":40.767476,
+    "geom:longitude":-111.849074,
+    "iso:country":"US",
+    "sg:address":"70 S Wolcott St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 581 4916",
+    "sg:postcode":"84102",
+    "sg:province":"UT",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85842739,
+        85853739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2T2yTSNlHtO7T7mlCcPdFQ_40.767476_-111.849074@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124399,
+    "wof:geomhash":"cece43fa672c9f8e2caa461ea153251f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85842739,
+            "region_id":85688567,
+            "venue_id":857210539
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85853739,
+            "region_id":85688567,
+            "venue_id":857210539
+        }
+    ],
+    "wof:id":857210539,
+    "wof:lastmodified":1464124399,
+    "wof:name":"Beta Theta Pi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -111.849074,
+    40.767476,
+    -111.849074,
+    40.767476
+],
+  "geometry": {"coordinates":[-111.849074,40.767476],"type":"Point"}
+}

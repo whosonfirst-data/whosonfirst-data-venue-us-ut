@@ -1,0 +1,71 @@
+{
+  "id": 857232543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.605261,37.061211,-113.605261,37.061211",
+    "geom:latitude":37.061211,
+    "geom:longitude":-113.605261,
+    "iso:country":"US",
+    "sg:address":"2773 Tobin Cir",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 628 7743",
+    "sg:postcode":"84790",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727617,
+        102082879,
+        85803851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oZHfUrxn8rxa8bI5MXrmV_37.061211_-113.605261@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124852,
+    "wof:geomhash":"96f6df62e50f9b4c58fca48a04b7685a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85803851,
+            "region_id":85688567,
+            "venue_id":857232543
+        }
+    ],
+    "wof:id":857232543,
+    "wof:lastmodified":1464124852,
+    "wof:name":"Val-Pak",
+    "wof:parent_id":85803851,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail"
+    ]
+},
+  "bbox": [
+    -113.605261,
+    37.061211,
+    -113.605261,
+    37.061211
+],
+  "geometry": {"coordinates":[-113.605261,37.061211],"type":"Point"}
+}

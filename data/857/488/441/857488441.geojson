@@ -1,0 +1,75 @@
+{
+  "id": 857488441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.898882,40.662273,-111.898882,40.662273",
+    "geom:latitude":40.662273,
+    "geom:longitude":-111.898882,
+    "iso:country":"US",
+    "sg:address":"5058 S 300 W",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Ferry",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 261 1789",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:tags":[
+        "river",
+        "trip"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85811485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fa6BBMd6CudqUcKqZoQCE_40.662273_-111.898882@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130546,
+    "wof:geomhash":"3922394073f04dd3b9f257006617580b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85811485,
+            "region_id":85688567,
+            "venue_id":857488441
+        }
+    ],
+    "wof:id":857488441,
+    "wof:lastmodified":1464130546,
+    "wof:name":"Colorado River & Trail",
+    "wof:parent_id":85811485,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "river",
+        "trip"
+    ]
+},
+  "bbox": [
+    -111.898882,
+    40.662273,
+    -111.898882,
+    40.662273
+],
+  "geometry": {"coordinates":[-111.898882,40.662273],"type":"Point"}
+}

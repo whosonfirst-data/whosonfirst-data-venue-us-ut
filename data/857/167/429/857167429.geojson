@@ -1,0 +1,75 @@
+{
+  "id": 857167429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.891195,40.708585,-111.891195,40.708585",
+    "geom:latitude":40.708585,
+    "geom:longitude":-111.891195,
+    "iso:country":"US",
+    "sg:address":"2880 S Main St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 531 7984",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "instruction",
+        "driving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85854999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14zFAb3fqnCoWHgDPzwnYJ_40.708585_-111.891195@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123520,
+    "wof:geomhash":"62c4c96dcb8edc62342aabe3f14495f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85854999,
+            "region_id":85688567,
+            "venue_id":857167429
+        }
+    ],
+    "wof:id":857167429,
+    "wof:lastmodified":1464123520,
+    "wof:name":"Able Driving School",
+    "wof:parent_id":85854999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "driving"
+    ]
+},
+  "bbox": [
+    -111.891195,
+    40.708585,
+    -111.891195,
+    40.708585
+],
+  "geometry": {"coordinates":[-111.891195,40.708585],"type":"Point"}
+}

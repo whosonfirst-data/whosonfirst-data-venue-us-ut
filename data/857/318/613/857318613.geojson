@@ -1,0 +1,71 @@
+{
+  "id": 857318613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.745732,40.034804,-111.745732,40.034804",
+    "geom:latitude":40.034804,
+    "geom:longitude":-111.745732,
+    "iso:country":"US",
+    "sg:address":"612 S 800 W",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 3979",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pVQj0lt0JPx2xKepShFfJ_40.034804_-111.745732@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126823,
+    "wof:geomhash":"33f476daa15ef6f935673437b0fce2dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857318613
+        }
+    ],
+    "wof:id":857318613,
+    "wof:lastmodified":1464126823,
+    "wof:name":"Scrap Dogs and Presidential CL",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.745732,
+    40.034804,
+    -111.745732,
+    40.034804
+],
+  "geometry": {"coordinates":[-111.745732,40.034804],"type":"Point"}
+}

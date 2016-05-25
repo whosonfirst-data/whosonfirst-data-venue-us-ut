@@ -1,0 +1,73 @@
+{
+  "id": 857368275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.811628,41.79485,-111.811628,41.79485",
+    "geom:latitude":41.79485,
+    "geom:longitude":-111.811628,
+    "iso:country":"US",
+    "sg:address":"350 E 200 S",
+    "sg:city":"Hyde Park",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 563 3875",
+    "sg:postcode":"84318",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11V5rqrTCnw2XZaBNLqKpy_41.794850_-111.811628@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127868,
+    "wof:geomhash":"1b0b437744494384ec010b0ffb07b3bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857368275
+        }
+    ],
+    "wof:id":857368275,
+    "wof:lastmodified":1464127868,
+    "wof:name":"Sara Krebs Properties LLC",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -111.811628,
+    41.79485,
+    -111.811628,
+    41.79485
+],
+  "geometry": {"coordinates":[-111.811628,41.79485],"type":"Point"}
+}

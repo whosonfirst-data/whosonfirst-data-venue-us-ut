@@ -1,0 +1,75 @@
+{
+  "id": 857078915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.808291,40.692768,-111.808291,40.692768",
+    "geom:latitude":40.692768,
+    "geom:longitude":-111.808291,
+    "iso:country":"US",
+    "sg:address":"2971 Brookburn Rd",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 272 2971",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mill",
+        "fabric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85855049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fZUJ6auCuC2joz10OQ9gh_40.692768_-111.808291@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121378,
+    "wof:geomhash":"4ba83aff5d946e72a1396fb27f714ac5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85855049,
+            "region_id":85688567,
+            "venue_id":857078915
+        }
+    ],
+    "wof:id":857078915,
+    "wof:lastmodified":1464121378,
+    "wof:name":"Garden Cottage Quilts",
+    "wof:parent_id":85855049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mill",
+        "fabric"
+    ]
+},
+  "bbox": [
+    -111.808291,
+    40.692768,
+    -111.808291,
+    40.692768
+],
+  "geometry": {"coordinates":[-111.808291,40.692768],"type":"Point"}
+}

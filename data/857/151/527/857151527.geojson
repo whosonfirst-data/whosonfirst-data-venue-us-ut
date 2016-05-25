@@ -1,0 +1,71 @@
+{
+  "id": 857151527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.833909,41.780362,-111.833909,41.780362",
+    "geom:latitude":41.780362,
+    "geom:longitude":-111.833909,
+    "iso:country":"US",
+    "sg:address":"2810 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 797 3401",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2F4iVSrW4NruVL0O4L63VC_41.780362_-111.833909@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123178,
+    "wof:geomhash":"b6703b24e815543d714cb7df5694bf2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857151527
+        }
+    ],
+    "wof:id":857151527,
+    "wof:lastmodified":1464123178,
+    "wof:name":"USU Psychology Community",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -111.833909,
+    41.780362,
+    -111.833909,
+    41.780362
+],
+  "geometry": {"coordinates":[-111.83390900000001,41.780362],"type":"Point"}
+}

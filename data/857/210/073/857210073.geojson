@@ -1,0 +1,73 @@
+{
+  "id": 857210073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.91899,40.729945,-111.91899,40.729945",
+    "geom:latitude":40.729945,
+    "geom:longitude":-111.91899,
+    "iso:country":"US",
+    "sg:address":"1022 Colmar Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 973 6671",
+    "sg:postcode":"84104",
+    "sg:province":"UT",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85848029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DpXcWPNMX5p9V2ebChUqX_40.729945_-111.918990@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124391,
+    "wof:geomhash":"6a9146922d522c8be9a14837bea15681",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85848029,
+            "region_id":85688567,
+            "venue_id":857210073
+        }
+    ],
+    "wof:id":857210073,
+    "wof:lastmodified":1464124391,
+    "wof:name":"Abbott Diesel",
+    "wof:parent_id":85848029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -111.91899,
+    40.729945,
+    -111.91899,
+    40.729945
+],
+  "geometry": {"coordinates":[-111.91898999999999,40.729945],"type":"Point"}
+}

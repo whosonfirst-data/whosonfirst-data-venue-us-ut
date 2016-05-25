@@ -1,0 +1,70 @@
+{
+  "id": 857491943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.850481,40.387845,-111.850481,40.387845",
+    "geom:latitude":40.387845,
+    "geom:longitude":-111.850481,
+    "iso:country":"US",
+    "sg:address":"88 W Main St",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/lehi/36046-emmits-burgers-and-fries/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 8392",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PtrxqG8BOY8Hq0bVCOpjr_40.387845_-111.850481@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130659,
+    "wof:geomhash":"03c7a3fa36537fbea26351f7f4684f38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857491943
+        }
+    ],
+    "wof:id":857491943,
+    "wof:lastmodified":1464130659,
+    "wof:name":"Emmit's Burgers and Fries",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -111.850481,
+    40.387845,
+    -111.850481,
+    40.387845
+],
+  "geometry": {"coordinates":[-111.850481,40.387845],"type":"Point"}
+}

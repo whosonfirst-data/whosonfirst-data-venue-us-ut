@@ -1,0 +1,73 @@
+{
+  "id": 857139361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.493203,37.130633,-113.493203,37.130633",
+    "geom:latitude":37.130633,
+    "geom:longitude":-113.493203,
+    "iso:country":"US",
+    "sg:address":"1050 E Telegraph St",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 652 8280",
+    "sg:postcode":"84780",
+    "sg:province":"UT",
+    "sg:tags":[
+        "special"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rMi17Lryfds2XCu6k53h1_37.130633_-113.493203@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122876,
+    "wof:geomhash":"12169b4af992473dde5e51618a4d3b0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857139361
+        }
+    ],
+    "wof:id":857139361,
+    "wof:lastmodified":1464122876,
+    "wof:name":"Bella Vista Storage",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "special"
+    ]
+},
+  "bbox": [
+    -113.493203,
+    37.130633,
+    -113.493203,
+    37.130633
+],
+  "geometry": {"coordinates":[-113.49320299999999,37.130633],"type":"Point"}
+}

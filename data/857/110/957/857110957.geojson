@@ -1,0 +1,73 @@
+{
+  "id": 857110957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.678006,40.045128,-111.678006,40.045128",
+    "geom:latitude":40.045128,
+    "geom:longitude":-111.678006,
+    "iso:country":"US",
+    "sg:address":"645 S Lucerne Dr",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 377 1359",
+    "sg:postcode":"84653",
+    "sg:province":"UT",
+    "sg:tags":[
+        "food",
+        "starch"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_610mg71i7Apf4KSGPtTZKN_40.045128_-111.678006@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122197,
+    "wof:geomhash":"98c72c73c52086e209dc7eabf1b04b74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857110957
+        }
+    ],
+    "wof:id":857110957,
+    "wof:lastmodified":1464122197,
+    "wof:name":"J Carnet of Utah Inc",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "starch"
+    ]
+},
+  "bbox": [
+    -111.678006,
+    40.045128,
+    -111.678006,
+    40.045128
+],
+  "geometry": {"coordinates":[-111.678006,40.045128],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857403475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.823527,41.727227,-111.823527,41.727227",
+    "geom:latitude":41.727227,
+    "geom:longitude":-111.823527,
+    "iso:country":"US",
+    "sg:address":"432 Larkspur Dr",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 9487",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OplVOzf7oHxohSRlT6oVJ_41.727227_-111.823527@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128691,
+    "wof:geomhash":"1b9fd3944b73974bac14d6beb1b08018",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857403475
+        }
+    ],
+    "wof:id":857403475,
+    "wof:lastmodified":1464128691,
+    "wof:name":"C J Price Plumbing Inc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.823527,
+    41.727227,
+    -111.823527,
+    41.727227
+],
+  "geometry": {"coordinates":[-111.823527,41.727227],"type":"Point"}
+}

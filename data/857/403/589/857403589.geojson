@@ -1,0 +1,77 @@
+{
+  "id": 857403589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.987166,41.731961,-111.987166,41.731961",
+    "geom:latitude":41.731961,
+    "geom:longitude":-111.987166,
+    "iso:country":"US",
+    "sg:address":"6333 W Center St",
+    "sg:city":"Mendon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 3043",
+    "sg:postcode":"84325",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mfg",
+        "wood",
+        "kitchen",
+        "cabinet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727555,
+        102082881,
+        85823067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FyutQRR0gFRTGGLLF41Hg_41.731961_-111.987166@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128693,
+    "wof:geomhash":"bbc3bb7fd94a5ce39ef94b5ba446ae34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727555,
+            "neighbourhood_id":85823067,
+            "region_id":85688567,
+            "venue_id":857403589
+        }
+    ],
+    "wof:id":857403589,
+    "wof:lastmodified":1464128693,
+    "wof:name":"Custom Manufacturing Inc",
+    "wof:parent_id":85823067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "wood",
+        "kitchen",
+        "cabinet"
+    ]
+},
+  "bbox": [
+    -111.987166,
+    41.731961,
+    -111.987166,
+    41.731961
+],
+  "geometry": {"coordinates":[-111.987166,41.731961],"type":"Point"}
+}

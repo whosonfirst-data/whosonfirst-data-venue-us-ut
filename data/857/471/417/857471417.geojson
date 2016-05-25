@@ -1,0 +1,77 @@
+{
+  "id": 857471417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.5141,37.130295,-113.5141,37.130295",
+    "geom:latitude":37.130295,
+    "geom:longitude":-113.5141,
+    "iso:country":"US",
+    "sg:address":"258 W Telegraph St",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 673 2812",
+    "sg:postcode":"84780",
+    "sg:province":"UT",
+    "sg:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bqZ1j69dWgttPDC6cuB8h_37.130295_-113.514100@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130204,
+    "wof:geomhash":"61610a4587d14c1bff4dfd29ac31701c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857471417
+        }
+    ],
+    "wof:id":857471417,
+    "wof:lastmodified":1464130204,
+    "wof:name":"Grants Plumbing & Heating Inc",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -113.5141,
+    37.130295,
+    -113.5141,
+    37.130295
+],
+  "geometry": {"coordinates":[-113.5141,37.130295],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857403977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.658591,40.236153,-111.658591,40.236153",
+    "geom:latitude":40.236153,
+    "geom:longitude":-111.658591,
+    "iso:country":"US",
+    "sg:address":"120 N University Ave",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 375 5220",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Krn3spVfz3talK4c0fWwW_40.236153_-111.658591@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128704,
+    "wof:geomhash":"3705824acb0b1ce847092cff46654318",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880065,
+            "region_id":85688567,
+            "venue_id":857403977
+        }
+    ],
+    "wof:id":857403977,
+    "wof:lastmodified":1464128704,
+    "wof:name":"Gold Smith Jewelers",
+    "wof:parent_id":85880065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.658591,
+    40.236153,
+    -111.658591,
+    40.236153
+],
+  "geometry": {"coordinates":[-111.658591,40.236153],"type":"Point"}
+}

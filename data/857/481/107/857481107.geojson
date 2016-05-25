@@ -1,0 +1,73 @@
+{
+  "id": 857481107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.635396,40.184764,-111.635396,40.184764",
+    "geom:latitude":40.184764,
+    "geom:longitude":-111.635396,
+    "iso:country":"US",
+    "sg:address":"1640 Mountain Springs Pkwy",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 853 7400",
+    "sg:postcode":"84663",
+    "sg:province":"UT",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727829,
+        102083567,
+        85880117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_345rsLX30XtLJegamxga1W_40.184764_-111.635396@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130389,
+    "wof:geomhash":"f59c30d12a2903abb8ae56d3edeba469",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727829,
+            "neighbourhood_id":85880117,
+            "region_id":85688567,
+            "venue_id":857481107
+        }
+    ],
+    "wof:id":857481107,
+    "wof:lastmodified":1464130389,
+    "wof:name":"Questar Gas Co",
+    "wof:parent_id":85880117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -111.635396,
+    40.184764,
+    -111.635396,
+    40.184764
+],
+  "geometry": {"coordinates":[-111.635396,40.184764],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857437229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.940756,40.692539,-111.940756,40.692539",
+    "geom:latitude":40.692539,
+    "geom:longitude":-111.940756,
+    "iso:country":"US",
+    "sg:address":"3679 S 1950 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 908 5472",
+    "sg:postcode":"84119",
+    "sg:province":"UT",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85826101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hmasBieM2GFx2Q7yRrXce_40.692539_-111.940756@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129514,
+    "wof:geomhash":"5581146950a02c9fdd074b955c73863f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85826101,
+            "region_id":85688567,
+            "venue_id":857437229
+        }
+    ],
+    "wof:id":857437229,
+    "wof:lastmodified":1464129514,
+    "wof:name":"Exotic Car Rentals Utah LLC",
+    "wof:parent_id":85826101,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -111.940756,
+    40.692539,
+    -111.940756,
+    40.692539
+],
+  "geometry": {"coordinates":[-111.94075599999999,40.692539],"type":"Point"}
+}

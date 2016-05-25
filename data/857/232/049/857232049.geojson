@@ -1,0 +1,73 @@
+{
+  "id": 857232049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.885061,40.593014,-111.885061,40.593014",
+    "geom:latitude":40.593014,
+    "geom:longitude":-111.885061,
+    "iso:country":"US",
+    "sg:address":"186 Main St",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 255 3511",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85847079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PLyqEZivrZ2jskTyPSykS_40.593014_-111.885061@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124843,
+    "wof:geomhash":"6648fb559e5d91651b9502a733ce8468",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85847079,
+            "region_id":85688567,
+            "venue_id":857232049
+        }
+    ],
+    "wof:id":857232049,
+    "wof:lastmodified":1464124843,
+    "wof:name":"National Ag Consultants",
+    "wof:parent_id":85847079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    -111.885061,
+    40.593014,
+    -111.885061,
+    40.593014
+],
+  "geometry": {"coordinates":[-111.88506099999999,40.593014],"type":"Point"}
+}

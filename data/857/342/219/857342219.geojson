@@ -1,0 +1,68 @@
+{
+  "id": 857342219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.037517,41.154336,-112.037517,41.154336",
+    "geom:latitude":41.154336,
+    "geom:longitude":-112.037517,
+    "iso:country":"US",
+    "sg:address":"2365 W 6000 S",
+    "sg:city":"Roy",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 825 1739",
+    "sg:postcode":"84067",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728023,
+        102083539,
+        85853469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_111s1wlAN4DLAaqiVtVeb9_41.154336_-112.037517@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127319,
+    "wof:geomhash":"b0264ebea22562152f3d57d827a2f641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728023,
+            "neighbourhood_id":85853469,
+            "region_id":85688567,
+            "venue_id":857342219
+        }
+    ],
+    "wof:id":857342219,
+    "wof:lastmodified":1464127319,
+    "wof:name":"Pennys Pet Grooming",
+    "wof:parent_id":85853469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.037517,
+    41.154336,
+    -112.037517,
+    41.154336
+],
+  "geometry": {"coordinates":[-112.03751699999999,41.154336],"type":"Point"}
+}

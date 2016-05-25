@@ -1,0 +1,73 @@
+{
+  "id": 857243227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.622328,37.122785,-113.622328,37.122785",
+    "geom:latitude":37.122785,
+    "geom:longitude":-113.622328,
+    "iso:country":"US",
+    "sg:address":"1827 W Sunset Blvd",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 656 5444",
+    "sg:postcode":"84770",
+    "sg:province":"UT",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dSmQSyC5575wXiFI1n3fL_37.122785_-113.622328@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125087,
+    "wof:geomhash":"4df540ca03b99c966fde3183bf047997",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857243227
+        }
+    ],
+    "wof:id":857243227,
+    "wof:lastmodified":1464125087,
+    "wof:name":"Southern Utah Federal CU",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -113.622328,
+    37.122785,
+    -113.622328,
+    37.122785
+],
+  "geometry": {"coordinates":[-113.622328,37.122785],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857300773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.733444,40.039706,-111.733444,40.039706",
+    "geom:latitude":40.039706,
+    "geom:longitude":-111.733444,
+    "iso:country":"US",
+    "sg:address":"33 W 300 S",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 3233",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4C6J1I6GwdrUqm0WvOGDWY_40.039706_-111.733444@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126429,
+    "wof:geomhash":"819b567f6785ed4ca4c95af8cbf32dc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857300773
+        }
+    ],
+    "wof:id":857300773,
+    "wof:lastmodified":1464126429,
+    "wof:name":"K Cheyn Gunnerson DDS",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -111.733444,
+    40.039706,
+    -111.733444,
+    40.039706
+],
+  "geometry": {"coordinates":[-111.73344400000001,40.039706],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857108715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.947039,41.320964,-111.947039,41.320964",
+    "geom:latitude":41.320964,
+    "geom:longitude":-111.947039,
+    "iso:country":"US",
+    "sg:address":"1086 E 3300 N",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 737 0683",
+    "sg:postcode":"84414",
+    "sg:province":"UT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85824645,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QgvCdQSYh3GSALMniFO3v_41.320964_-111.947039@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122110,
+    "wof:geomhash":"8c5cb51f7548015fb7d7755e317f7304",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85824645,
+            "region_id":85688567,
+            "venue_id":857108715
+        }
+    ],
+    "wof:id":857108715,
+    "wof:lastmodified":1464122110,
+    "wof:name":"SRS Bldg Mntnc & Home Repair",
+    "wof:parent_id":85824645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -111.947039,
+    41.320964,
+    -111.947039,
+    41.320964
+],
+  "geometry": {"coordinates":[-111.947039,41.320964],"type":"Point"}
+}

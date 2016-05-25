@@ -1,0 +1,73 @@
+{
+  "id": 857080861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.821124,41.710035,-111.821124,41.710035",
+    "geom:latitude":41.710035,
+    "geom:longitude":-111.821124,
+    "iso:country":"US",
+    "sg:address":"169 W 100 N",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 994 1383",
+    "sg:postcode":"84332",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7czsjxvT97REED9QwRk98e_41.710035_-111.821124@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121422,
+    "wof:geomhash":"3b67951b212c049ba1e19f614ffb7cb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857080861
+        }
+    ],
+    "wof:id":857080861,
+    "wof:lastmodified":1464121422,
+    "wof:name":"Liberty Contracting Co",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "parks"
+    ]
+},
+  "bbox": [
+    -111.821124,
+    41.710035,
+    -111.821124,
+    41.710035
+],
+  "geometry": {"coordinates":[-111.821124,41.710035],"type":"Point"}
+}

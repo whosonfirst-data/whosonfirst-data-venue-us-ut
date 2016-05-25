@@ -1,0 +1,75 @@
+{
+  "id": 857211721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.018105,40.636257,-112.018105,40.636257",
+    "geom:latitude":40.636257,
+    "geom:longitude":-112.018105,
+    "iso:country":"US",
+    "sg:address":"6326 Cyclamen Sq",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 955 9239",
+    "sg:postcode":"84084",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85840625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0R2fK92ogC3NXC6AKKSCbj_40.636257_-112.018105@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124434,
+    "wof:geomhash":"42d7bb57539916d5e5351da92dbd8b88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85840625,
+            "region_id":85688567,
+            "venue_id":857211721
+        }
+    ],
+    "wof:id":857211721,
+    "wof:lastmodified":1464124434,
+    "wof:name":"Jacobson-Electric Inc",
+    "wof:parent_id":85840625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -112.018105,
+    40.636257,
+    -112.018105,
+    40.636257
+],
+  "geometry": {"coordinates":[-112.01810500000001,40.636257],"type":"Point"}
+}

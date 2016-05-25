@@ -1,0 +1,78 @@
+{
+  "id": 857491961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.910177,40.627382,-111.910177,40.627382",
+    "geom:latitude":40.627382,
+    "geom:longitude":-111.910177,
+    "iso:country":"US",
+    "sg:address":"7695 S 700 E",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/38723-gandolfos/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 568 0130",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85853339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1g2TpiRs4Rh1iTuIHTaCkd_40.627382_-111.910177@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130660,
+    "wof:geomhash":"c8fb3b1298347c15ad5f28d2ca51fe8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85853339,
+            "region_id":85688567,
+            "venue_id":857491961
+        }
+    ],
+    "wof:id":857491961,
+    "wof:lastmodified":1464130660,
+    "wof:name":"Gandolfo's",
+    "wof:parent_id":85853339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -111.910177,
+    40.627382,
+    -111.910177,
+    40.627382
+],
+  "geometry": {"coordinates":[-111.910177,40.627382],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857322005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.060461,41.171109,-112.060461,41.171109",
+    "geom:latitude":41.171109,
+    "geom:longitude":-112.060461,
+    "iso:country":"US",
+    "sg:address":"5052 S 3325 W",
+    "sg:city":"Roy",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 791 1273",
+    "sg:postcode":"84067",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85804651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bSQJzWVg5xupHig5C2XsF_41.171109_-112.060461@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126888,
+    "wof:geomhash":"17c86cdb046f7123a3f18120459ac8e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85804651,
+            "region_id":85688567,
+            "venue_id":857322005
+        }
+    ],
+    "wof:id":857322005,
+    "wof:lastmodified":1464126888,
+    "wof:name":"Haneys Tool Shed",
+    "wof:parent_id":85804651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.060461,
+    41.171109,
+    -112.060461,
+    41.171109
+],
+  "geometry": {"coordinates":[-112.060461,41.171109],"type":"Point"}
+}

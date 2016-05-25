@@ -1,0 +1,76 @@
+{
+  "id": 857414037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.733969,40.033056,-111.733969,40.033056",
+    "geom:latitude":40.033056,
+    "geom:longitude":-111.733969,
+    "iso:country":"US",
+    "sg:address":"742 S 100 W",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 3452",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aCera2uJJGeqRUQsXmJEI_40.033056_-111.733969@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128945,
+    "wof:geomhash":"1ed276e31b844617614eb668885f29ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857414037
+        }
+    ],
+    "wof:id":857414037,
+    "wof:lastmodified":1464128945,
+    "wof:name":"Family Dollar Stores",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.733969,
+    40.033056,
+    -111.733969,
+    40.033056
+],
+  "geometry": {"coordinates":[-111.733969,40.033056],"type":"Point"}
+}

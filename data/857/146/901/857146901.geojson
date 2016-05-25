@@ -1,0 +1,68 @@
+{
+  "id": 857146901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.986088,40.667575,-111.986088,40.667575",
+    "geom:latitude":40.667575,
+    "geom:longitude":-111.986088,
+    "iso:country":"US",
+    "sg:address":"4722 S 4015 W",
+    "sg:city":"Kearns",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 964 1553",
+    "sg:postcode":"84118",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85811567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uFMQakzkAQ9fVJu4mb04s_40.667575_-111.986088@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123077,
+    "wof:geomhash":"b7e4b28c8f35f3da4a0efb09b0581819",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85811567,
+            "region_id":85688567,
+            "venue_id":857146901
+        }
+    ],
+    "wof:id":857146901,
+    "wof:lastmodified":1464123077,
+    "wof:name":"Acapulco Restaurant",
+    "wof:parent_id":85811567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.986088,
+    40.667575,
+    -111.986088,
+    40.667575
+],
+  "geometry": {"coordinates":[-111.986088,40.667575],"type":"Point"}
+}

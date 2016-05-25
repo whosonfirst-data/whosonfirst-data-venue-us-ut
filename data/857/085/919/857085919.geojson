@@ -1,0 +1,74 @@
+{
+  "id": 857085919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.858748,40.771615,-111.858748,40.771615",
+    "geom:latitude":40.771615,
+    "geom:longitude":-111.858748,
+    "iso:country":"US",
+    "sg:address":"1026 2nd Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 322 3055",
+    "sg:postcode":"84103",
+    "sg:province":"UT",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "sg:website":"www.cucinadeli.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85853739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BtpRqlUL5Uw6cT6uN7QCS_40.771615_-111.858748@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121561,
+    "wof:geomhash":"2222f3254ff3aa59a2eb386ad59c8f30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85853739,
+            "region_id":85688567,
+            "venue_id":857085919
+        }
+    ],
+    "wof:id":857085919,
+    "wof:lastmodified":1464121561,
+    "wof:name":"Cucina",
+    "wof:parent_id":85853739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -111.858748,
+    40.771615,
+    -111.858748,
+    40.771615
+],
+  "geometry": {"coordinates":[-111.85874800000001,40.771615],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857179327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.825808,40.704185,-111.825808,40.704185",
+    "geom:latitude":40.704185,
+    "geom:longitude":-111.825808,
+    "iso:country":"US",
+    "sg:address":"2234 E Gregson Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 484 1069",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85859423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fOFnrvsaHboDJuHwCRjwy_40.704185_-111.825808@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123781,
+    "wof:geomhash":"00f48646455e6a57c0980a9dc5cd8f85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85859423,
+            "region_id":85688567,
+            "venue_id":857179327
+        }
+    ],
+    "wof:id":857179327,
+    "wof:lastmodified":1464123781,
+    "wof:name":"Fiesta Travel LLC",
+    "wof:parent_id":85859423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -111.825808,
+    40.704185,
+    -111.825808,
+    40.704185
+],
+  "geometry": {"coordinates":[-111.82580799999999,40.704185],"type":"Point"}
+}

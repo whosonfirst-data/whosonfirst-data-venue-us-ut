@@ -1,0 +1,71 @@
+{
+  "id": 857354799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.81719,41.77138,-111.81719,41.77138",
+    "geom:latitude":41.77138,
+    "geom:longitude":-111.81719,
+    "iso:country":"US",
+    "sg:address":"665 E 2170 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 755 3299",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vVRMSbEXzzw4z0WAIdE2L_41.771380_-111.817190@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127590,
+    "wof:geomhash":"b0d466e890cc872ec305dd1c614d3ff4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857354799
+        }
+    ],
+    "wof:id":857354799,
+    "wof:lastmodified":1464127590,
+    "wof:name":"Knight Cleaning",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -111.81719,
+    41.77138,
+    -111.81719,
+    41.77138
+],
+  "geometry": {"coordinates":[-111.81719,41.77138],"type":"Point"}
+}

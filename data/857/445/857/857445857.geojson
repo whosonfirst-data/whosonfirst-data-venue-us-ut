@@ -1,0 +1,75 @@
+{
+  "id": 857445857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.817809,40.591444,-111.817809,40.591444",
+    "geom:latitude":40.591444,
+    "geom:longitude":-111.817809,
+    "iso:country":"US",
+    "sg:address":"2587 Willow Wick Ct",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 733 1256",
+    "sg:postcode":"84093",
+    "sg:province":"UT",
+    "sg:tags":[
+        "product",
+        "fabricated",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728077,
+        102082877,
+        85843389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Lp01u2N5djbYLXnBFOAVr_40.591444_-111.817809@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129680,
+    "wof:geomhash":"83d560c5950c682378bfe6808def5f84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85843389,
+            "region_id":85688567,
+            "venue_id":857445857
+        }
+    ],
+    "wof:id":857445857,
+    "wof:lastmodified":1464129680,
+    "wof:name":"Medictech Inc",
+    "wof:parent_id":85843389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "fabricated",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.817809,
+    40.591444,
+    -111.817809,
+    40.591444
+],
+  "geometry": {"coordinates":[-111.817809,40.591444],"type":"Point"}
+}

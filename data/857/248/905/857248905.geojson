@@ -1,0 +1,69 @@
+{
+  "id": 857248905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.84944,40.591959,-111.84944,40.591959",
+    "geom:latitude":40.591959,
+    "geom:longitude":-111.84944,
+    "iso:country":"US",
+    "sg:address":"8797 Capella Way",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 455 7697",
+    "sg:postcode":"84093",
+    "sg:province":"UT",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85847325,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QI0PKhBvYwbwdCk2RlYrY_40.591959_-111.849440@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125220,
+    "wof:geomhash":"8f6dd61215e2fa80527877710fc1ca57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85847325,
+            "region_id":85688567,
+            "venue_id":857248905
+        }
+    ],
+    "wof:id":857248905,
+    "wof:lastmodified":1464125220,
+    "wof:name":"All Points Home Inspections",
+    "wof:parent_id":85847325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -111.84944,
+    40.591959,
+    -111.84944,
+    40.591959
+],
+  "geometry": {"coordinates":[-111.84944,40.591959],"type":"Point"}
+}

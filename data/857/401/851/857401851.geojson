@@ -1,0 +1,68 @@
+{
+  "id": 857401851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.845649,40.542495,-111.845649,40.542495",
+    "geom:latitude":40.542495,
+    "geom:longitude":-111.845649,
+    "iso:country":"US",
+    "sg:address":"11471 Nicklaus Rd",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 576 5646",
+    "sg:postcode":"84092",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85812845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78IXztfvz1lxzCZJI2LYNv_40.542495_-111.845649@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128664,
+    "wof:geomhash":"6788c9b4e5f1bd6093e0bb47514474ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85812845,
+            "region_id":85688567,
+            "venue_id":857401851
+        }
+    ],
+    "wof:id":857401851,
+    "wof:lastmodified":1464128664,
+    "wof:name":"Stephenson Swim School",
+    "wof:parent_id":85812845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.845649,
+    40.542495,
+    -111.845649,
+    40.542495
+],
+  "geometry": {"coordinates":[-111.84564899999999,40.542495],"type":"Point"}
+}

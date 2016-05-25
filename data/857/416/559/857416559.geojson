@@ -1,0 +1,68 @@
+{
+  "id": 857416559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.670142,40.230967,-111.670142,40.230967",
+    "geom:latitude":40.230967,
+    "geom:longitude":-111.670142,
+    "iso:country":"US",
+    "sg:address":"667 W 200 S",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 379 0815",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HEKcRkDW1r2C6HZecAfQX_40.230967_-111.670142@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129023,
+    "wof:geomhash":"f4f0b7804fb9067be244fff52eb42925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880075,
+            "region_id":85688567,
+            "venue_id":857416559
+        }
+    ],
+    "wof:id":857416559,
+    "wof:lastmodified":1464129023,
+    "wof:name":"Quick Fix",
+    "wof:parent_id":85880075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.670142,
+    40.230967,
+    -111.670142,
+    40.230967
+],
+  "geometry": {"coordinates":[-111.670142,40.230967],"type":"Point"}
+}

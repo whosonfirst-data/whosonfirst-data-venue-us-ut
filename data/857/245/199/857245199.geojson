@@ -1,0 +1,75 @@
+{
+  "id": 857245199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.658613,40.22315,-111.658613,40.22315",
+    "geom:latitude":40.22315,
+    "geom:longitude":-111.658613,
+    "iso:country":"US",
+    "sg:address":"855 S University Ave",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 375 3222",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "transmission",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SUIkcCcWp6lPmjVStIyLU_40.223150_-111.658613@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125142,
+    "wof:geomhash":"f12b7242d5399eded6ca997ab2128380",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880077,
+            "region_id":85688567,
+            "venue_id":857245199
+        }
+    ],
+    "wof:id":857245199,
+    "wof:lastmodified":1464125142,
+    "wof:name":"J & M Transmissions",
+    "wof:parent_id":85880077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "general"
+    ]
+},
+  "bbox": [
+    -111.658613,
+    40.22315,
+    -111.658613,
+    40.22315
+],
+  "geometry": {"coordinates":[-111.658613,40.22315],"type":"Point"}
+}

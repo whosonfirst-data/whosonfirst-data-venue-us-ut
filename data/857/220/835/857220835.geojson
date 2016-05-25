@@ -1,0 +1,70 @@
+{
+  "id": 857220835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.666089,40.308577,-111.666089,40.308577",
+    "geom:latitude":40.308577,
+    "geom:longitude":-111.666089,
+    "iso:country":"US",
+    "sg:address":"1276 E 620 N",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 226 1533",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "datum"
+    ],
+    "sg:website":"www.gserver.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ugSquVw7ZkSFQMTMlwB5y_40.308577_-111.666089@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124630,
+    "wof:geomhash":"75c570b82b77ae4526cb8ed1c2ee5d62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857220835
+        }
+    ],
+    "wof:id":857220835,
+    "wof:lastmodified":1464124630,
+    "wof:name":"Global Server LLC",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "datum"
+    ]
+},
+  "bbox": [
+    -111.666089,
+    40.308577,
+    -111.666089,
+    40.308577
+],
+  "geometry": {"coordinates":[-111.666089,40.308577],"type":"Point"}
+}

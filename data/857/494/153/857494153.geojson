@@ -1,0 +1,76 @@
+{
+  "id": 857494153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.661994,40.242732,-111.661994,40.242732",
+    "geom:latitude":40.242732,
+    "geom:longitude":-111.661994,
+    "iso:country":"US",
+    "sg:address":"672 N Freedom Blvd",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/provo-orem/214593-5-buck-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 377 1115",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0A6Wrr5dAMTDFeaBrbA7Jc_40.242732_-111.661994@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130738,
+    "wof:geomhash":"695dcdac0a352fa619d4911981cecf5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880121,
+            "region_id":85688567,
+            "venue_id":857494153
+        }
+    ],
+    "wof:id":857494153,
+    "wof:lastmodified":1464130738,
+    "wof:name":"5 Buck Pizza",
+    "wof:parent_id":85880121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -111.661994,
+    40.242732,
+    -111.661994,
+    40.242732
+],
+  "geometry": {"coordinates":[-111.66199400000001,40.242732],"type":"Point"}
+}

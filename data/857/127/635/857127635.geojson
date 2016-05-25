@@ -1,0 +1,71 @@
+{
+  "id": 857127635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.740041,41.25047,-111.740041,41.25047",
+    "geom:latitude":41.25047,
+    "geom:longitude":-111.740041,
+    "iso:country":"US",
+    "sg:address":"8675 E 800 S",
+    "sg:city":"Huntsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 745 2684",
+    "sg:postcode":"84317",
+    "sg:province":"UT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85818631,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7K58un3ahZPNV4UBbVqy9y_41.250470_-111.740041@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122620,
+    "wof:geomhash":"43fd39248f11a90104e602c6c846b9cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85818631,
+            "region_id":85688567,
+            "venue_id":857127635
+        }
+    ],
+    "wof:id":857127635,
+    "wof:lastmodified":1464122620,
+    "wof:name":"C&G Construction Inc",
+    "wof:parent_id":85818631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.740041,
+    41.25047,
+    -111.740041,
+    41.25047
+],
+  "geometry": {"coordinates":[-111.74004100000001,41.25047],"type":"Point"}
+}

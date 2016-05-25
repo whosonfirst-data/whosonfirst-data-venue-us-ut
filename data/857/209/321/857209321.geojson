@@ -1,0 +1,73 @@
+{
+  "id": 857209321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.899135,40.592523,-111.899135,40.592523",
+    "geom:latitude":40.592523,
+    "geom:longitude":-111.899135,
+    "iso:country":"US",
+    "sg:address":"250 Cottage Ave",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 566 9851",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "diamond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85803467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Wh9398ILmzq1CpNiVTAyM_40.592523_-111.899135@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124374,
+    "wof:geomhash":"f3b892a2348e839955be800eb59461b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85803467,
+            "region_id":85688567,
+            "venue_id":857209321
+        }
+    ],
+    "wof:id":857209321,
+    "wof:lastmodified":1464124374,
+    "wof:name":"Diamonds Direct",
+    "wof:parent_id":85803467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diamond"
+    ]
+},
+  "bbox": [
+    -111.899135,
+    40.592523,
+    -111.899135,
+    40.592523
+],
+  "geometry": {"coordinates":[-111.899135,40.592523],"type":"Point"}
+}

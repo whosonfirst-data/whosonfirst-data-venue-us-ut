@@ -1,0 +1,78 @@
+{
+  "id": 857454123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.85665,40.769238,-111.85665,40.769238",
+    "geom:latitude":40.769238,
+    "geom:longitude":-111.85665,
+    "iso:country":"US",
+    "sg:address":"35 S 1200 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 266 2633",
+    "sg:postcode":"84102",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85853739,
+        85842739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28EHMfeL74ngeBuNYepq1s_40.769238_-111.856650@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129840,
+    "wof:geomhash":"ce575ee6563a2b7afea3197081a3043d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85853739,
+            "region_id":85688567,
+            "venue_id":857454123
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85842739,
+            "region_id":85688567,
+            "venue_id":857454123
+        }
+    ],
+    "wof:id":857454123,
+    "wof:lastmodified":1464129840,
+    "wof:name":"Coffee Guide",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.85665,
+    40.769238,
+    -111.85665,
+    40.769238
+],
+  "geometry": {"coordinates":[-111.85665,40.769238],"type":"Point"}
+}

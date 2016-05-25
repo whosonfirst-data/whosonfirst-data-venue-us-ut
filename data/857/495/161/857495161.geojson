@@ -1,0 +1,76 @@
+{
+  "id": 857495161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.832363,41.73899,-111.832363,41.73899",
+    "geom:latitude":41.73899,
+    "geom:longitude":-111.832363,
+    "iso:country":"US",
+    "sg:address":"90 E 400 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/logan/235433-taco-time/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 9902",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "mexican",
+        "tex-mex"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0duPwuHOhCj3TF7c9gRqsT_41.738956_-111.832442@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130778,
+    "wof:geomhash":"6ff62821aaa970374f387df3e9b42e80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857495161
+        }
+    ],
+    "wof:id":857495161,
+    "wof:lastmodified":1464130778,
+    "wof:name":"Taco Time",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican",
+        "tex-mex"
+    ]
+},
+  "bbox": [
+    -111.832363,
+    41.73899,
+    -111.832363,
+    41.73899
+],
+  "geometry": {"coordinates":[-111.832363,41.73899],"type":"Point"}
+}

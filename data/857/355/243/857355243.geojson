@@ -1,0 +1,71 @@
+{
+  "id": 857355243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.107381,40.708338,-112.107381,40.708338",
+    "geom:latitude":40.708338,
+    "geom:longitude":-112.107381,
+    "iso:country":"US",
+    "sg:address":"2846 S 9050 W",
+    "sg:city":"Magna",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 508 7010",
+    "sg:postcode":"84044",
+    "sg:province":"UT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85830063,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QHHJlHsmzySq06RCf75tY_40.708338_-112.107381@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127598,
+    "wof:geomhash":"b842c16206bc8d843001e9a8f0cc6969",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85830063,
+            "region_id":85688567,
+            "venue_id":857355243
+        }
+    ],
+    "wof:id":857355243,
+    "wof:lastmodified":1464127598,
+    "wof:name":"J B Scrap & Landscaping",
+    "wof:parent_id":85830063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -112.107381,
+    40.708338,
+    -112.107381,
+    40.708338
+],
+  "geometry": {"coordinates":[-112.107381,40.708338],"type":"Point"}
+}

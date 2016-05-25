@@ -1,0 +1,71 @@
+{
+  "id": 857410121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.665264,40.115202,-111.665264,40.115202",
+    "geom:latitude":40.115202,
+    "geom:longitude":-111.665264,
+    "iso:country":"US",
+    "sg:address":"383 N 630 W",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 794 1666",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "operator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4q3yUDdarF8oAUzdOzXVQS_40.115202_-111.665264@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128839,
+    "wof:geomhash":"63d326002379a686d11676be36b22e26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857410121
+        }
+    ],
+    "wof:id":857410121,
+    "wof:lastmodified":1464128839,
+    "wof:name":"CJ Vending",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator"
+    ]
+},
+  "bbox": [
+    -111.665264,
+    40.115202,
+    -111.665264,
+    40.115202
+],
+  "geometry": {"coordinates":[-111.66526399999999,40.115202],"type":"Point"}
+}

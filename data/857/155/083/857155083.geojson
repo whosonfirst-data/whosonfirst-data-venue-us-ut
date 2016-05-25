@@ -1,0 +1,73 @@
+{
+  "id": 857155083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.035072,41.225437,-112.035072,41.225437",
+    "geom:latitude":41.225437,
+    "geom:longitude":-112.035072,
+    "iso:country":"US",
+    "sg:address":"2316 S 2300 West St",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 732 0525",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85818351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7b2IsRCkgcEuWYt3qQkSMg_41.225437_-112.035072@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123249,
+    "wof:geomhash":"3d2c14066a5cc4a13b9563062ab1a371",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85818351,
+            "region_id":85688567,
+            "venue_id":857155083
+        }
+    ],
+    "wof:id":857155083,
+    "wof:lastmodified":1464123249,
+    "wof:name":"Pine Ridge Homes",
+    "wof:parent_id":85818351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -112.035072,
+    41.225437,
+    -112.035072,
+    41.225437
+],
+  "geometry": {"coordinates":[-112.035072,41.225437],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857085853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.823135,41.764802,-111.823135,41.764802",
+    "geom:latitude":41.764802,
+    "geom:longitude":-111.823135,
+    "iso:country":"US",
+    "sg:address":"420 E 1800 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 3049",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DTBRtYYlXEMRXd8KETANB_41.764802_-111.823135@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121559,
+    "wof:geomhash":"fa0e9c7af1458523cbe0c47d16d8b9c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857085853
+        }
+    ],
+    "wof:id":857085853,
+    "wof:lastmodified":1464121559,
+    "wof:name":"Allen Cranney Mortuary",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -111.823135,
+    41.764802,
+    -111.823135,
+    41.764802
+],
+  "geometry": {"coordinates":[-111.82313499999999,41.764802],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857378469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.637311,40.265795,-111.637311,40.265795",
+    "geom:latitude":40.265795,
+    "geom:longitude":-111.637311,
+    "iso:country":"US",
+    "sg:address":"1225 Cambridge Ct",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 374 2964",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Bv2jUFcDsYO4PKAKQnJ29_40.265795_-111.637311@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128085,
+    "wof:geomhash":"f31240e765dbe9e4515106a8d84a9fd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880111,
+            "region_id":85688567,
+            "venue_id":857378469
+        }
+    ],
+    "wof:id":857378469,
+    "wof:lastmodified":1464128085,
+    "wof:name":"Jaco Building & Development",
+    "wof:parent_id":85880111,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.637311,
+    40.265795,
+    -111.637311,
+    40.265795
+],
+  "geometry": {"coordinates":[-111.637311,40.265795],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857187989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.865389,40.700898,-111.865389,40.700898",
+    "geom:latitude":40.700898,
+    "geom:longitude":-111.865389,
+    "iso:country":"US",
+    "sg:address":"3265 S 900 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 466 3081",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85832079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1S5xF2mxYiteqHdskkThy1_40.700898_-111.865389@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123951,
+    "wof:geomhash":"3d7f42a57532352db19886c06713da70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85832079,
+            "region_id":85688567,
+            "venue_id":857187989
+        }
+    ],
+    "wof:id":857187989,
+    "wof:lastmodified":1464123951,
+    "wof:name":"Darling Painting Co",
+    "wof:parent_id":85832079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -111.865389,
+    40.700898,
+    -111.865389,
+    40.700898
+],
+  "geometry": {"coordinates":[-111.86538899999999,40.700898],"type":"Point"}
+}

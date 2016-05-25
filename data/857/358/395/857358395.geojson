@@ -1,0 +1,74 @@
+{
+  "id": 857358395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.95639,41.066317,-111.95639,41.066317",
+    "geom:latitude":41.066317,
+    "geom:longitude":-111.95639,
+    "iso:country":"US",
+    "sg:address":"429 Wasatch Dr",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 497 8300",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.laytoncity.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sqSi5aa12DeWIf0mESdmM_41.066317_-111.956390@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127667,
+    "wof:geomhash":"e9734fbea06f4b703946e900188f675d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857358395
+        }
+    ],
+    "wof:id":857358395,
+    "wof:lastmodified":1464127667,
+    "wof:name":"Layton Police Dept",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -111.95639,
+    41.066317,
+    -111.95639,
+    41.066317
+],
+  "geometry": {"coordinates":[-111.95639,41.066317],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857212457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.835016,41.732659,-111.835016,41.732659",
+    "geom:latitude":41.732659,
+    "geom:longitude":-111.835016,
+    "iso:country":"US",
+    "sg:address":"33 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 8966",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lJlofVvUqKOR3HCkdihAL_41.732659_-111.835016@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124450,
+    "wof:geomhash":"dfc211a0866159d5cd22ec3918704582",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857212457
+        }
+    ],
+    "wof:id":857212457,
+    "wof:lastmodified":1464124450,
+    "wof:name":"Countrywide Home Loans",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -111.835016,
+    41.732659,
+    -111.835016,
+    41.732659
+],
+  "geometry": {"coordinates":[-111.835016,41.732659],"type":"Point"}
+}

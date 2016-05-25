@@ -1,0 +1,73 @@
+{
+  "id": 857145731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.878256,40.749783,-111.878256,40.749783",
+    "geom:latitude":40.749783,
+    "geom:longitude":-111.878256,
+    "iso:country":"US",
+    "sg:address":"401 E 900 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 575 8826",
+    "sg:postcode":"84111",
+    "sg:province":"UT",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10yY10LDpA7dmJpQviqUIa_40.749783_-111.878256@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123055,
+    "wof:geomhash":"07ff5048b3b6b73aa9ab2a021022817e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871021,
+            "region_id":85688567,
+            "venue_id":857145731
+        }
+    ],
+    "wof:id":857145731,
+    "wof:lastmodified":1464123055,
+    "wof:name":"You'Re The Boss",
+    "wof:parent_id":85871021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -111.878256,
+    40.749783,
+    -111.878256,
+    40.749783
+],
+  "geometry": {"coordinates":[-111.87825599999999,40.749783],"type":"Point"}
+}

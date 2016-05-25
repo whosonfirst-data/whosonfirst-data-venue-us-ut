@@ -1,0 +1,75 @@
+{
+  "id": 857455375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.943585,40.709926,-111.943585,40.709926",
+    "geom:latitude":40.709926,
+    "geom:longitude":-111.943585,
+    "iso:country":"US",
+    "sg:address":"2801 Decker Lake Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 570 1971",
+    "sg:postcode":"84119",
+    "sg:province":"UT",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85829397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AoJYOdAff6HFeZ3jdXEup_40.709926_-111.943585@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129861,
+    "wof:geomhash":"c435f240920e6680be943dccd0f9698e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85829397,
+            "region_id":85688567,
+            "venue_id":857455375
+        }
+    ],
+    "wof:id":857455375,
+    "wof:lastmodified":1464129861,
+    "wof:name":"Clear Channel Communication",
+    "wof:parent_id":85829397,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -111.943585,
+    40.709926,
+    -111.943585,
+    40.709926
+],
+  "geometry": {"coordinates":[-111.943585,40.709926],"type":"Point"}
+}

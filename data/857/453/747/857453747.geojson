@@ -1,0 +1,73 @@
+{
+  "id": 857453747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.919013,41.030649,-111.919013,41.030649",
+    "geom:latitude":41.030649,
+    "geom:longitude":-111.919013,
+    "iso:country":"US",
+    "sg:address":"828 E 250 S",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 532 0618",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wBHBOvRDB1MO0Kzyba6aa_41.030649_-111.919013@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129833,
+    "wof:geomhash":"3489e79792e7ec36f0df72eef423004b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857453747
+        }
+    ],
+    "wof:id":857453747,
+    "wof:lastmodified":1464129833,
+    "wof:name":"Intersys Technology",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.919013,
+    41.030649,
+    -111.919013,
+    41.030649
+],
+  "geometry": {"coordinates":[-111.91901300000001,41.030649],"type":"Point"}
+}

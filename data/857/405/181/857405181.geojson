@@ -1,0 +1,68 @@
+{
+  "id": 857405181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.657471,40.237817,-111.657471,40.237817",
+    "geom:latitude":40.237817,
+    "geom:longitude":-111.657471,
+    "iso:country":"US",
+    "sg:address":"45 E 300 N",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 6134",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52HX6veKfs8Ec2Y8OyFYRq_40.237817_-111.657471@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128730,
+    "wof:geomhash":"746c230f14cbab40c51949be8bc9f4ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880121,
+            "region_id":85688567,
+            "venue_id":857405181
+        }
+    ],
+    "wof:id":857405181,
+    "wof:lastmodified":1464128730,
+    "wof:name":"Knell Architects",
+    "wof:parent_id":85880121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.657471,
+    40.237817,
+    -111.657471,
+    40.237817
+],
+  "geometry": {"coordinates":[-111.657471,40.237817],"type":"Point"}
+}

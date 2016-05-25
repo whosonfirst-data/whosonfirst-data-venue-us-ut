@@ -1,0 +1,82 @@
+{
+  "id": 857492481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.890891,40.56178,-111.890891,40.56178",
+    "geom:latitude":40.56178,
+    "geom:longitude":-111.890891,
+    "iso:country":"US",
+    "sg:address":"10430 S State St",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/34243-chilis/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 576 8081",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "tex-mex",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85852927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mGstd95HJ6Hx0YWXmZS1j_40.561780_-111.890891@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130680,
+    "wof:geomhash":"ad9a599676e8fac222f6907519f84d26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85852927,
+            "region_id":85688567,
+            "venue_id":857492481
+        }
+    ],
+    "wof:id":857492481,
+    "wof:lastmodified":1464130680,
+    "wof:name":"Chili's",
+    "wof:parent_id":85852927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "tex-mex",
+        "soup"
+    ]
+},
+  "bbox": [
+    -111.890891,
+    40.56178,
+    -111.890891,
+    40.56178
+],
+  "geometry": {"coordinates":[-111.890891,40.56178],"type":"Point"}
+}

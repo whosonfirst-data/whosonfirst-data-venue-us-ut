@@ -1,0 +1,75 @@
+{
+  "id": 857292063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.709748,40.312138,-111.709748,40.312138",
+    "geom:latitude":40.312138,
+    "geom:longitude":-111.709748,
+    "iso:country":"US",
+    "sg:address":"486 W 800 N",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 431 0300",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "clinic",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dPU9NBr6U9w6olQ64lw2V_40.312138_-111.709748@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126200,
+    "wof:geomhash":"83831bb4aab87629d9926e54ad7e6850",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":857292063
+        }
+    ],
+    "wof:id":857292063,
+    "wof:lastmodified":1464126200,
+    "wof:name":"Eyre Dermatology Clinic PC",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "medical"
+    ]
+},
+  "bbox": [
+    -111.709748,
+    40.312138,
+    -111.709748,
+    40.312138
+],
+  "geometry": {"coordinates":[-111.709748,40.312138],"type":"Point"}
+}

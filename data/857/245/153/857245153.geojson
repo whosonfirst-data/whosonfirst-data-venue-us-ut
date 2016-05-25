@@ -1,0 +1,71 @@
+{
+  "id": 857245153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.661631,40.313036,-111.661631,40.313036",
+    "geom:latitude":40.313036,
+    "geom:longitude":-111.661631,
+    "iso:country":"US",
+    "sg:address":"1480 E 820 N",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 9346",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "information",
+        "retrieval"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3S8a1zQhiEKBJZ6o044RtX_40.313036_-111.661631@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125134,
+    "wof:geomhash":"b91e7a0d71dd99489b74347a346d5a5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857245153
+        }
+    ],
+    "wof:id":857245153,
+    "wof:lastmodified":1464125134,
+    "wof:name":"Verio Inc",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "retrieval"
+    ]
+},
+  "bbox": [
+    -111.661631,
+    40.313036,
+    -111.661631,
+    40.313036
+],
+  "geometry": {"coordinates":[-111.661631,40.313036],"type":"Point"}
+}

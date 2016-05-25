@@ -1,0 +1,68 @@
+{
+  "id": 857309003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.90195,40.76507,-111.90195,40.76507",
+    "geom:latitude":40.76507,
+    "geom:longitude":-111.90195,
+    "iso:country":"US",
+    "sg:address":"320 W 200 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 359 2484",
+    "sg:postcode":"84101",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85852649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TJB9Vg8qVtgfzHYTjTFY8_40.765070_-111.901950@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126599,
+    "wof:geomhash":"c94250b634eb989b74adedb53a0c82ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85852649,
+            "region_id":85688567,
+            "venue_id":857309003
+        }
+    ],
+    "wof:id":857309003,
+    "wof:lastmodified":1464126599,
+    "wof:name":"Market Street Investment Grp",
+    "wof:parent_id":85852649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.90195,
+    40.76507,
+    -111.90195,
+    40.76507
+],
+  "geometry": {"coordinates":[-111.90195,40.76507],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857239809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.663067,40.258609,-111.663067,40.258609",
+    "geom:latitude":40.258609,
+    "geom:longitude":-111.663067,
+    "iso:country":"US",
+    "sg:address":"1825 N University Pkwy",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 1320",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TbWVB8FbC5uz0keQkmOjU_40.258609_-111.663067@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125002,
+    "wof:geomhash":"3f679d0dd1844e54dc64890463c219f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880063,
+            "region_id":85688567,
+            "venue_id":857239809
+        }
+    ],
+    "wof:id":857239809,
+    "wof:lastmodified":1464125002,
+    "wof:name":"Brent Brown Toyota",
+    "wof:parent_id":85880063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -111.663067,
+    40.258609,
+    -111.663067,
+    40.258609
+],
+  "geometry": {"coordinates":[-111.663067,40.258609],"type":"Point"}
+}

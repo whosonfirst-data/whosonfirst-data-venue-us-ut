@@ -1,0 +1,73 @@
+{
+  "id": 857443681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.852421,39.979138,-111.852421,39.979138",
+    "geom:latitude":39.979138,
+    "geom:longitude":-111.852421,
+    "iso:country":"US",
+    "sg:address":"935 S 400 W",
+    "sg:city":"Santaquin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 754 5517",
+    "sg:postcode":"84655",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27cjmGgS3JOggiRSsPDzmP_39.979138_-111.852421@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129634,
+    "wof:geomhash":"56f2524fb5d3bd4b3d9a93802685b81e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857443681
+        }
+    ],
+    "wof:id":857443681,
+    "wof:lastmodified":1464129634,
+    "wof:name":"Beckstrom Electric LLC",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.852421,
+    39.979138,
+    -111.852421,
+    39.979138
+],
+  "geometry": {"coordinates":[-111.85242100000001,39.979138],"type":"Point"}
+}

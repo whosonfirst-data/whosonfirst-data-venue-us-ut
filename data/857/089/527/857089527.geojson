@@ -1,0 +1,73 @@
+{
+  "id": 857089527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.886354,40.666921,-111.886354,40.666921",
+    "geom:latitude":40.666921,
+    "geom:longitude":-111.886354,
+    "iso:country":"US",
+    "sg:address":"160 E 4800 S",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 262 6414",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85804367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yEvPYSPqQB5392F8Z1VIf_40.666921_-111.886354@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121658,
+    "wof:geomhash":"78101b56a8dbec5eb4a1cf857b46d10f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85804367,
+            "region_id":85688567,
+            "venue_id":857089527
+        }
+    ],
+    "wof:id":857089527,
+    "wof:lastmodified":1464121658,
+    "wof:name":"Spay & Neuter Of Slc",
+    "wof:parent_id":85804367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -111.886354,
+    40.666921,
+    -111.886354,
+    40.666921
+],
+  "geometry": {"coordinates":[-111.886354,40.666921],"type":"Point"}
+}

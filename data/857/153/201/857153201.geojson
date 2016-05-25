@@ -1,0 +1,71 @@
+{
+  "id": 857153201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.682029,40.049955,-111.682029,40.049955",
+    "geom:latitude":40.049955,
+    "geom:longitude":-111.682029,
+    "iso:country":"US",
+    "sg:address":"489 W 300 S",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 423 2885",
+    "sg:postcode":"84653",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6arAT5XKyPk3BrER2ggMNV_40.049955_-111.682029@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123210,
+    "wof:geomhash":"928d23b09e6e43e392c21f4d46e06f0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857153201
+        }
+    ],
+    "wof:id":857153201,
+    "wof:lastmodified":1464123210,
+    "wof:name":"D&S Mechanical LLC",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.682029,
+    40.049955,
+    -111.682029,
+    40.049955
+],
+  "geometry": {"coordinates":[-111.682029,40.049955],"type":"Point"}
+}

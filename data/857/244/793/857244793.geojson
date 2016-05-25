@@ -1,0 +1,76 @@
+{
+  "id": 857244793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.875277,40.764929,-111.875277,40.764929",
+    "geom:latitude":40.764929,
+    "geom:longitude":-111.875277,
+    "iso:country":"US",
+    "sg:address":"540 E 200 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 366 7700",
+    "sg:postcode":"84102",
+    "sg:province":"UT",
+    "sg:tags":[
+        "state",
+        "taxation"
+    ],
+    "sg:website":"www.urs.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VvgAmdBlgj4IhavFwjCys_40.764929_-111.875277@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125128,
+    "wof:geomhash":"bf5faf09fe6d04759656aad9154c7f5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871021,
+            "region_id":85688567,
+            "venue_id":857244793
+        }
+    ],
+    "wof:id":857244793,
+    "wof:lastmodified":1464125128,
+    "wof:name":"Utah Retirement Systems",
+    "wof:parent_id":85871021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "taxation"
+    ]
+},
+  "bbox": [
+    -111.875277,
+    40.764929,
+    -111.875277,
+    40.764929
+],
+  "geometry": {"coordinates":[-111.875277,40.764929],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 857446793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.732345,40.049967,-111.732345,40.049967",
+    "geom:latitude":40.049967,
+    "geom:longitude":-111.732345,
+    "iso:country":"US",
+    "sg:address":"447 N Main St",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 3018",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "fabricator",
+        "sheet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5M2Om9RTR36yhWOdQDkR3x_40.049967_-111.732345@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129698,
+    "wof:geomhash":"e259812b8dedf9c70509aba8b73f04c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857446793
+        }
+    ],
+    "wof:id":857446793,
+    "wof:lastmodified":1464129698,
+    "wof:name":"Payson Sheet Metal Company",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fabricator",
+        "sheet"
+    ]
+},
+  "bbox": [
+    -111.732345,
+    40.049967,
+    -111.732345,
+    40.049967
+],
+  "geometry": {"coordinates":[-111.732345,40.049967],"type":"Point"}
+}

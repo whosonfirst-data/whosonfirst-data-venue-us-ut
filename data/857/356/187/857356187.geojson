@@ -1,0 +1,68 @@
+{
+  "id": 857356187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.988287,40.652719,-111.988287,40.652719",
+    "geom:latitude":40.652719,
+    "geom:longitude":-111.988287,
+    "iso:country":"US",
+    "sg:address":"4059 W 5415 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 966 3347",
+    "sg:postcode":"84118",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728253,
+        102082877,
+        85805333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RYyf4aUpPwf7vRaLm1bKa_40.652719_-111.988287@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127620,
+    "wof:geomhash":"04edd5cd6d2cd3fee937f88356c974a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728253,
+            "neighbourhood_id":85805333,
+            "region_id":85688567,
+            "venue_id":857356187
+        }
+    ],
+    "wof:id":857356187,
+    "wof:lastmodified":1464127620,
+    "wof:name":"Old Home Bakery Outlet Store",
+    "wof:parent_id":85805333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.988287,
+    40.652719,
+    -111.988287,
+    40.652719
+],
+  "geometry": {"coordinates":[-111.988287,40.652719],"type":"Point"}
+}

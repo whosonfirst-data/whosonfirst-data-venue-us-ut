@@ -1,0 +1,71 @@
+{
+  "id": 857287381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.843945,41.757346,-111.843945,41.757346",
+    "geom:latitude":41.757346,
+    "geom:longitude":-111.843945,
+    "iso:country":"US",
+    "sg:address":"1362 N 400 W",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 7017",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZFtmBtE3ZcNcuI0RJisj7_41.757346_-111.843945@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126072,
+    "wof:geomhash":"afc7b561f63310038b132886b3447bd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857287381
+        }
+    ],
+    "wof:id":857287381,
+    "wof:lastmodified":1464126072,
+    "wof:name":"Friends of Cache Cnty Chld Ju",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -111.843945,
+    41.757346,
+    -111.843945,
+    41.757346
+],
+  "geometry": {"coordinates":[-111.84394500000001,41.757346],"type":"Point"}
+}

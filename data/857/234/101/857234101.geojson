@@ -1,0 +1,71 @@
+{
+  "id": 857234101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.940857,41.030922,-111.940857,41.030922",
+    "geom:latitude":41.030922,
+    "geom:longitude":-111.940857,
+    "iso:country":"US",
+    "sg:address":"179 W 250 S",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 776 4701",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tzA9fJO8z6wzZ5egjXTlV_41.030922_-111.940857@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124882,
+    "wof:geomhash":"6c7012b11db8bb82a6a58ea69b165c79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857234101
+        }
+    ],
+    "wof:id":857234101,
+    "wof:lastmodified":1464124882,
+    "wof:name":"Oasis Plumbing Inc",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.940857,
+    41.030922,
+    -111.940857,
+    41.030922
+],
+  "geometry": {"coordinates":[-111.94085699999999,41.030922],"type":"Point"}
+}

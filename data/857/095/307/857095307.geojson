@@ -1,0 +1,73 @@
+{
+  "id": 857095307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.918939,40.70388,-111.918939,40.70388",
+    "geom:latitude":40.70388,
+    "geom:longitude":-111.918939,
+    "iso:country":"US",
+    "sg:address":"997 W 3160 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 952 9200",
+    "sg:postcode":"84119",
+    "sg:province":"UT",
+    "sg:tags":[
+        "arrangement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85810735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66evQnNUnTmn5UM319YcN1_40.703880_-111.918939@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121795,
+    "wof:geomhash":"1c9a8bbed7cf20fea929901446b40d49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85810735,
+            "region_id":85688567,
+            "venue_id":857095307
+        }
+    ],
+    "wof:id":857095307,
+    "wof:lastmodified":1464121795,
+    "wof:name":"UPS",
+    "wof:parent_id":85810735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arrangement"
+    ]
+},
+  "bbox": [
+    -111.918939,
+    40.70388,
+    -111.918939,
+    40.70388
+],
+  "geometry": {"coordinates":[-111.91893899999999,40.70388],"type":"Point"}
+}

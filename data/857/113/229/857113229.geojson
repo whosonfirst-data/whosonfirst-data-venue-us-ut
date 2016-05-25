@@ -1,0 +1,73 @@
+{
+  "id": 857113229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.28451,37.251503,-113.28451,37.251503",
+    "geom:latitude":37.251503,
+    "geom:longitude":-113.28451,
+    "iso:country":"US",
+    "sg:address":"79 N Toquer Blvd",
+    "sg:city":"Toquerville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 635 4859",
+    "sg:postcode":"84774",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mormon",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727611,
+        102082879,
+        85803113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tr9AZf10ZlQDH1Jwuu4iA_37.251503_-113.284510@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122261,
+    "wof:geomhash":"a69208dbfa283fd30364c1acabb3143f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727611,
+            "neighbourhood_id":85803113,
+            "region_id":85688567,
+            "venue_id":857113229
+        }
+    ],
+    "wof:id":857113229,
+    "wof:lastmodified":1464122261,
+    "wof:name":"Toquerville Ward",
+    "wof:parent_id":85803113,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mormon",
+        "church"
+    ]
+},
+  "bbox": [
+    -113.28451,
+    37.251503,
+    -113.28451,
+    37.251503
+],
+  "geometry": {"coordinates":[-113.28451,37.251503],"type":"Point"}
+}

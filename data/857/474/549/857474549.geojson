@@ -1,0 +1,75 @@
+{
+  "id": 857474549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.67441,40.257138,-111.67441,40.257138",
+    "geom:latitude":40.257138,
+    "geom:longitude":-111.67441,
+    "iso:country":"US",
+    "sg:address":"1686 Hickory Ln",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 356 3710",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "builder",
+        "operative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24YTbDehBvgHX4yQrxkuWc_40.257138_-111.674410@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130266,
+    "wof:geomhash":"bf0e2da765f13149c069dfdded40ccd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880063,
+            "region_id":85688567,
+            "venue_id":857474549
+        }
+    ],
+    "wof:id":857474549,
+    "wof:lastmodified":1464130266,
+    "wof:name":"S&G Construction",
+    "wof:parent_id":85880063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "operative"
+    ]
+},
+  "bbox": [
+    -111.67441,
+    40.257138,
+    -111.67441,
+    40.257138
+],
+  "geometry": {"coordinates":[-111.67440999999999,40.257138],"type":"Point"}
+}

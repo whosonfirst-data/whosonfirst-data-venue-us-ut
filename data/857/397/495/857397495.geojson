@@ -1,0 +1,73 @@
+{
+  "id": 857397495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.680632,40.017624,-111.680632,40.017624",
+    "geom:latitude":40.017624,
+    "geom:longitude":-111.680632,
+    "iso:country":"US",
+    "sg:address":"41 Amafille Ln",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 423 8005",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "loan",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3H8mPu0nH2nSfZTWIjvAkI_40.017624_-111.680632@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128578,
+    "wof:geomhash":"2efe4a7230f48e60adc91a369c307089",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857397495
+        }
+    ],
+    "wof:id":857397495,
+    "wof:lastmodified":1464128578,
+    "wof:name":"Triple T Financial",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "broker"
+    ]
+},
+  "bbox": [
+    -111.680632,
+    40.017624,
+    -111.680632,
+    40.017624
+],
+  "geometry": {"coordinates":[-111.680632,40.017624],"type":"Point"}
+}

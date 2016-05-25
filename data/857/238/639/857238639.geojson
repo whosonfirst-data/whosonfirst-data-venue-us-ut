@@ -1,0 +1,73 @@
+{
+  "id": 857238639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.84317,41.757386,-111.84317,41.757386",
+    "geom:latitude":41.757386,
+    "geom:longitude":-111.84317,
+    "iso:country":"US",
+    "sg:address":"1359 N 340 W",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 5565",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "instruction",
+        "gymnastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LDi5IYO3D7Hxgvo49vKmy_41.757386_-111.843170@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124975,
+    "wof:geomhash":"95b71341aed9f4b4f6a9778664b6a4eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857238639
+        }
+    ],
+    "wof:id":857238639,
+    "wof:lastmodified":1464124975,
+    "wof:name":"Tytans Gymnastics",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "gymnastic"
+    ]
+},
+  "bbox": [
+    -111.84317,
+    41.757386,
+    -111.84317,
+    41.757386
+],
+  "geometry": {"coordinates":[-111.84317,41.757386],"type":"Point"}
+}

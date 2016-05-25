@@ -1,0 +1,73 @@
+{
+  "id": 857120251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.732761,40.043595,-111.732761,40.043595",
+    "geom:latitude":40.043595,
+    "geom:longitude":-111.732761,
+    "iso:country":"US",
+    "sg:address":"60 W Utah Ave",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 9161",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "return",
+        "filing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49iaTI6AokjcvqieHmxKoy_40.043595_-111.732761@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122455,
+    "wof:geomhash":"8142de3c9446a1ab62eeeccea1971365",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857120251
+        }
+    ],
+    "wof:id":857120251,
+    "wof:lastmodified":1464122455,
+    "wof:name":"H & R Block Tax Svc",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return",
+        "filing"
+    ]
+},
+  "bbox": [
+    -111.732761,
+    40.043595,
+    -111.732761,
+    40.043595
+],
+  "geometry": {"coordinates":[-111.732761,40.043595],"type":"Point"}
+}

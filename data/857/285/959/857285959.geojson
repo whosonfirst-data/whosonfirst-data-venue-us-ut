@@ -1,0 +1,71 @@
+{
+  "id": 857285959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.850051,40.387805,-111.850051,40.387805",
+    "geom:latitude":40.387805,
+    "geom:longitude":-111.850051,
+    "iso:country":"US",
+    "sg:address":"55 W Main St",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 766 6049",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "return",
+        "filing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34kgIO1fNNWxuFlepucclf_40.387805_-111.850051@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126044,
+    "wof:geomhash":"266d4af1c313edea48f87699d4d5352e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857285959
+        }
+    ],
+    "wof:id":857285959,
+    "wof:lastmodified":1464126044,
+    "wof:name":"Liberty Tax",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return",
+        "filing"
+    ]
+},
+  "bbox": [
+    -111.850051,
+    40.387805,
+    -111.850051,
+    40.387805
+],
+  "geometry": {"coordinates":[-111.85005099999999,40.387805],"type":"Point"}
+}

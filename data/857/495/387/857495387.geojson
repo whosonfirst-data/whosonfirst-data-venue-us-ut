@@ -1,0 +1,75 @@
+{
+  "id": 857495387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.687287,40.241194,-111.687287,40.241194",
+    "geom:latitude":40.241194,
+    "geom:longitude":-111.687287,
+    "iso:country":"US",
+    "sg:address":"702 North 1890 West",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "social-aggregator",
+        "social-network"
+    ],
+    "sg:website":"http://www.gruvie.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aI4RCybawifcaKitenNsG_40.241194_-111.687287@1308186497"
+    },
+    "wof:country":"US",
+    "wof:created":1464130791,
+    "wof:geomhash":"5b2a7ae1562f041086922d0154bcaed1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880067,
+            "region_id":85688567,
+            "venue_id":857495387
+        }
+    ],
+    "wof:id":857495387,
+    "wof:lastmodified":1464130791,
+    "wof:name":"Gruvie",
+    "wof:parent_id":85880067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "social-aggregator",
+        "social-network"
+    ]
+},
+  "bbox": [
+    -111.687287,
+    40.241194,
+    -111.687287,
+    40.241194
+],
+  "geometry": {"coordinates":[-111.687287,40.241194],"type":"Point"}
+}

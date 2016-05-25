@@ -1,0 +1,64 @@
+{
+  "id": 857159123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.856129,40.387778,-111.856129,40.387778",
+    "geom:latitude":40.387778,
+    "geom:longitude":-111.856129,
+    "iso:country":"US",
+    "sg:address":"470 W Main St",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 766 2000",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16ZMF4mhSAuGFPZIf0Afyo_40.387778_-111.856129@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123329,
+    "wof:geomhash":"a7256608b4f04eae2e186b1feb86a32a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857159123
+        }
+    ],
+    "wof:id":857159123,
+    "wof:lastmodified":1464123329,
+    "wof:name":"Flowers On Main",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.856129,
+    40.387778,
+    -111.856129,
+    40.387778
+],
+  "geometry": {"coordinates":[-111.856129,40.387778],"type":"Point"}
+}

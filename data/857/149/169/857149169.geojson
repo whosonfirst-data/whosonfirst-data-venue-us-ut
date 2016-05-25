@@ -1,0 +1,73 @@
+{
+  "id": 857149169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.681579,40.315714,-111.681579,40.315714",
+    "geom:latitude":40.315714,
+    "geom:longitude":-111.681579,
+    "iso:country":"US",
+    "sg:address":"999 N 600 E",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 3660",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "nutritionist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0laaB6i7P2PFvJI2VOIAhT_40.315714_-111.681579@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123133,
+    "wof:geomhash":"4f3dfafa5f2ea8469ae5e771c95d632e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":857149169
+        }
+    ],
+    "wof:id":857149169,
+    "wof:lastmodified":1464123133,
+    "wof:name":"Hi Q Nutrition",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nutritionist"
+    ]
+},
+  "bbox": [
+    -111.681579,
+    40.315714,
+    -111.681579,
+    40.315714
+],
+  "geometry": {"coordinates":[-111.681579,40.315714],"type":"Point"}
+}

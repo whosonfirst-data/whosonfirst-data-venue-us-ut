@@ -1,0 +1,71 @@
+{
+  "id": 857317853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.849217,41.727866,-111.849217,41.727866",
+    "geom:latitude":41.727866,
+    "geom:longitude":-111.849217,
+    "iso:country":"US",
+    "sg:address":"535 W 200 S",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 7894",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4O7LTo7pmflK0Z4OYc6rIl_41.727866_-111.849217@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126793,
+    "wof:geomhash":"78ca9cd9ed8eee9df6dcd68c9e32717a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857317853
+        }
+    ],
+    "wof:id":857317853,
+    "wof:lastmodified":1464126793,
+    "wof:name":"Turners Service",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -111.849217,
+    41.727866,
+    -111.849217,
+    41.727866
+],
+  "geometry": {"coordinates":[-111.849217,41.727866],"type":"Point"}
+}

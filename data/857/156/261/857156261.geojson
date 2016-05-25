@@ -1,0 +1,68 @@
+{
+  "id": 857156261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.035926,41.128012,-112.035926,41.128012",
+    "geom:latitude":41.128012,
+    "geom:longitude":-112.035926,
+    "iso:country":"US",
+    "sg:address":"1016 N 525 W",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 773 4499",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85819031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dHKuDwHpapZVv6iuRBbnM_41.128012_-112.035926@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123271,
+    "wof:geomhash":"1a536cb6a25f55dc12a460f153ee8fa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85819031,
+            "region_id":85688567,
+            "venue_id":857156261
+        }
+    ],
+    "wof:id":857156261,
+    "wof:lastmodified":1464123271,
+    "wof:name":"Palmer Pest Control Inc",
+    "wof:parent_id":85819031,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.035926,
+    41.128012,
+    -112.035926,
+    41.128012
+],
+  "geometry": {"coordinates":[-112.035926,41.128012],"type":"Point"}
+}

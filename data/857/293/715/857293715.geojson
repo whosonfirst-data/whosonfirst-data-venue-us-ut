@@ -1,0 +1,75 @@
+{
+  "id": 857293715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.654704,40.110669,-111.654704,40.110669",
+    "geom:latitude":40.110669,
+    "geom:longitude":-111.654704,
+    "iso:country":"US",
+    "sg:address":"38 N Main St",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 7698",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VkU0McZJkzXti4FtRFNx6_40.110669_-111.654704@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126236,
+    "wof:geomhash":"56df1805f302a645bf9a6fe4645fb6ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857293715
+        }
+    ],
+    "wof:id":857293715,
+    "wof:lastmodified":1464126236,
+    "wof:name":"Carter's Glass",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "plate"
+    ]
+},
+  "bbox": [
+    -111.654704,
+    40.110669,
+    -111.654704,
+    40.110669
+],
+  "geometry": {"coordinates":[-111.654704,40.110669],"type":"Point"}
+}

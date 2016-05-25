@@ -1,0 +1,71 @@
+{
+  "id": 857104833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.844343,40.408152,-111.844343,40.408152",
+    "geom:latitude":40.408152,
+    "geom:longitude":-111.844343,
+    "iso:country":"US",
+    "sg:address":"829 E 1650 N",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 636 9553",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contracting",
+        "special"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lv0etaCfvLeGQj9Nu87Q9_40.408152_-111.844343@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122023,
+    "wof:geomhash":"7cc9c16f04070b0d1d02847af7dc3211",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857104833
+        }
+    ],
+    "wof:id":857104833,
+    "wof:lastmodified":1464122023,
+    "wof:name":"McD Enterprises Inc",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contracting",
+        "special"
+    ]
+},
+  "bbox": [
+    -111.844343,
+    40.408152,
+    -111.844343,
+    40.408152
+],
+  "geometry": {"coordinates":[-111.84434299999999,40.408152],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857492093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.706422,40.323147,-111.706422,40.323147",
+    "geom:latitude":40.323147,
+    "geom:longitude":-111.706422,
+    "iso:country":"US",
+    "sg:address":"1416 N State St",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/provo-orem/132795-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 229 1118",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aFGO0cVgBhOGZB75x0nZp_40.323147_-111.706422@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130665,
+    "wof:geomhash":"f9155cbf86c209c3ca38c95af26bb1cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":857492093
+        }
+    ],
+    "wof:id":857492093,
+    "wof:lastmodified":1464130665,
+    "wof:name":"Subway",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -111.706422,
+    40.323147,
+    -111.706422,
+    40.323147
+],
+  "geometry": {"coordinates":[-111.706422,40.323147],"type":"Point"}
+}

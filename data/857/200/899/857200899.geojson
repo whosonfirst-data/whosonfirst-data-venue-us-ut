@@ -1,0 +1,75 @@
+{
+  "id": 857200899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.000501,37.188635,-113.000501,37.188635",
+    "geom:latitude":37.188635,
+    "geom:longitude":-113.000501,
+    "iso:country":"US",
+    "sg:address":"980 Zion Park Blvd",
+    "sg:city":"Springdale",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 772 3457",
+    "sg:postcode":"84767",
+    "sg:province":"UT",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727619,
+        102082879,
+        85822405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4O5W7yjx0L3Clu5458jckN_37.188635_-113.000501@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124192,
+    "wof:geomhash":"befcad3fd853aeedcdc97ab8ee914712",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727619,
+            "neighbourhood_id":85822405,
+            "region_id":85688567,
+            "venue_id":857200899
+        }
+    ],
+    "wof:id":857200899,
+    "wof:lastmodified":1464124192,
+    "wof:name":"Under The Eaves",
+    "wof:parent_id":85822405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ]
+},
+  "bbox": [
+    -113.000501,
+    37.188635,
+    -113.000501,
+    37.188635
+],
+  "geometry": {"coordinates":[-113.000501,37.188635],"type":"Point"}
+}

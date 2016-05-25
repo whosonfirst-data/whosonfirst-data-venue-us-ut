@@ -1,0 +1,77 @@
+{
+  "id": 857310565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.885729,40.748082,-111.885729,40.748082",
+    "geom:latitude":40.748082,
+    "geom:longitude":-111.885729,
+    "iso:country":"US",
+    "sg:address":"161 Belmont Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 328 0771",
+    "sg:postcode":"84111",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85867259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MwQW44gL4g4JK3EcKWlKA_40.748082_-111.885729@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126632,
+    "wof:geomhash":"3ba63b0101df3c8b311f857873fa74d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85867259,
+            "region_id":85688567,
+            "venue_id":857310565
+        }
+    ],
+    "wof:id":857310565,
+    "wof:lastmodified":1464126632,
+    "wof:name":"Marv Stam Auto Repairing",
+    "wof:parent_id":85867259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -111.885729,
+    40.748082,
+    -111.885729,
+    40.748082
+],
+  "geometry": {"coordinates":[-111.885729,40.748082],"type":"Point"}
+}

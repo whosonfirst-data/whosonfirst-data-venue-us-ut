@@ -1,0 +1,71 @@
+{
+  "id": 857137955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.908563,41.001758,-111.908563,41.001758",
+    "geom:latitude":41.001758,
+    "geom:longitude":-111.908563,
+    "iso:country":"US",
+    "sg:address":"1324 US Hwy 89",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 2223",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yveGZE4GOd37XG8Vym5fE_41.001758_-111.908563@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122848,
+    "wof:geomhash":"786446b63cff62435a06c90e0ca11b94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857137955
+        }
+    ],
+    "wof:id":857137955,
+    "wof:lastmodified":1464122848,
+    "wof:name":"Star Nails",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -111.908563,
+    41.001758,
+    -111.908563,
+    41.001758
+],
+  "geometry": {"coordinates":[-111.908563,41.001758],"type":"Point"}
+}

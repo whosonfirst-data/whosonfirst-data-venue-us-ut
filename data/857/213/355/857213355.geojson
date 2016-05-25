@@ -1,0 +1,73 @@
+{
+  "id": 857213355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.59407,40.141314,-111.59407,40.141314",
+    "geom:latitude":40.141314,
+    "geom:longitude":-111.59407,
+    "iso:country":"US",
+    "sg:address":"1306 W 1200 N",
+    "sg:city":"Mapleton",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 489 3147",
+    "sg:postcode":"84664",
+    "sg:province":"UT",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dngfeegy6QKfBCreW6NuQ_40.141314_-111.594070@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124470,
+    "wof:geomhash":"e35a2843fe432bb3f3e37183d8883a96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857213355
+        }
+    ],
+    "wof:id":857213355,
+    "wof:lastmodified":1464124470,
+    "wof:name":"Aerotechnics Inc",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -111.59407,
+    40.141314,
+    -111.59407,
+    40.141314
+],
+  "geometry": {"coordinates":[-111.59407,40.141314],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857435141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.106526,40.711057,-112.106526,40.711057",
+    "geom:latitude":40.711057,
+    "geom:longitude":-112.106526,
+    "iso:country":"US",
+    "sg:address":"9010 W 2700 S",
+    "sg:city":"Magna",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 250 7311",
+    "sg:postcode":"84044",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85830063,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4T1mMBVKYW9YEu9n6yvYZZ_40.711057_-112.106526@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129469,
+    "wof:geomhash":"0f38afd445d2af0b8e15ed2b256becf9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85830063,
+            "region_id":85688567,
+            "venue_id":857435141
+        }
+    ],
+    "wof:id":857435141,
+    "wof:lastmodified":1464129469,
+    "wof:name":"Bryan E Gottfredson DDS",
+    "wof:parent_id":85830063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -112.106526,
+    40.711057,
+    -112.106526,
+    40.711057
+],
+  "geometry": {"coordinates":[-112.106526,40.711057],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 857339105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.703037,40.28457,-111.703037,40.28457",
+    "geom:latitude":40.28457,
+    "geom:longitude":-111.703037,
+    "iso:country":"US",
+    "sg:address":"326 W 700 S",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 2622",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "kindergarten",
+        "academic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85849197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PORGfh5IVdpAROFgaeRou_40.284570_-111.703037@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127253,
+    "wof:geomhash":"7b2fef0492fb5fe931201807fd35e403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85849197,
+            "region_id":85688567,
+            "venue_id":857339105
+        }
+    ],
+    "wof:id":857339105,
+    "wof:lastmodified":1464127253,
+    "wof:name":"Rise N Shine School",
+    "wof:parent_id":85849197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "academic"
+    ]
+},
+  "bbox": [
+    -111.703037,
+    40.28457,
+    -111.703037,
+    40.28457
+],
+  "geometry": {"coordinates":[-111.70303699999999,40.28457],"type":"Point"}
+}

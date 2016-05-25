@@ -1,0 +1,76 @@
+{
+  "id": 857492409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.87223,40.580526,-111.87223,40.580526",
+    "geom:latitude":40.580526,
+    "geom:longitude":-111.87223,
+    "iso:country":"US",
+    "sg:address":"9415 S 700 E",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/37360-papa-murphys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 576 6616",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85854667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Q0vAFxZNXDq7VM2VM8oAi_40.580526_-111.872230@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130675,
+    "wof:geomhash":"575e5f5efb10e33a0ff8e41a797fd40f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85854667,
+            "region_id":85688567,
+            "venue_id":857492409
+        }
+    ],
+    "wof:id":857492409,
+    "wof:lastmodified":1464130675,
+    "wof:name":"Papa Murphy's",
+    "wof:parent_id":85854667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -111.87223,
+    40.580526,
+    -111.87223,
+    40.580526
+],
+  "geometry": {"coordinates":[-111.87223,40.580526],"type":"Point"}
+}

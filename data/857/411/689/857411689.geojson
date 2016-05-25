@@ -1,0 +1,71 @@
+{
+  "id": 857411689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.908824,41.02724,-111.908824,41.02724",
+    "geom:latitude":41.02724,
+    "geom:longitude":-111.908824,
+    "iso:country":"US",
+    "sg:address":"1299 E Nicholls Rd",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 547 0103",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pKt1tAqszcZ1SGBxyCsQ7_41.027240_-111.908824@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128891,
+    "wof:geomhash":"7bf635f80b138c7478aa0c520f1a55c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857411689
+        }
+    ],
+    "wof:id":857411689,
+    "wof:lastmodified":1464128891,
+    "wof:name":"Fruit Heights City Shop",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -111.908824,
+    41.02724,
+    -111.908824,
+    41.02724
+],
+  "geometry": {"coordinates":[-111.908824,41.02724],"type":"Point"}
+}

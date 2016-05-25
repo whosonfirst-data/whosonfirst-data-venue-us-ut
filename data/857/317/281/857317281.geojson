@@ -1,0 +1,73 @@
+{
+  "id": 857317281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.898593,40.885885,-111.898593,40.885885",
+    "geom:latitude":40.885885,
+    "geom:longitude":-111.898593,
+    "iso:country":"US",
+    "sg:address":"400 S 700 W",
+    "sg:city":"Woods Cross",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 298 3363",
+    "sg:postcode":"84087",
+    "sg:province":"UT",
+    "sg:tags":[
+        "heating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727883,
+        102083563,
+        85854881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03JE1QsUhscKLC3637YiN2_40.885885_-111.898593@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126776,
+    "wof:geomhash":"9c45e9439f19dff5ca333643a00ae8e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727883,
+            "neighbourhood_id":85854881,
+            "region_id":85688567,
+            "venue_id":857317281
+        }
+    ],
+    "wof:id":857317281,
+    "wof:lastmodified":1464126776,
+    "wof:name":"Nicks Heating & A/C",
+    "wof:parent_id":85854881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating"
+    ]
+},
+  "bbox": [
+    -111.898593,
+    40.885885,
+    -111.898593,
+    40.885885
+],
+  "geometry": {"coordinates":[-111.89859300000001,40.885885],"type":"Point"}
+}

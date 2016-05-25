@@ -1,0 +1,76 @@
+{
+  "id": 857494599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.552207,37.115476,-113.552207,37.115476",
+    "geom:latitude":37.115476,
+    "geom:longitude":-113.552207,
+    "iso:country":"US",
+    "sg:address":"245 Red Cliffs Dr",
+    "sg:city":"Saint George",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/st-george/81102-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 688 7500",
+    "sg:postcode":"84790",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Exuv3GWjxrMxAjfewejJv_37.115476_-113.552207@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130754,
+    "wof:geomhash":"8ebd2edaa3157ab257681969706d845d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857494599
+        }
+    ],
+    "wof:id":857494599,
+    "wof:lastmodified":1464130754,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -113.552207,
+    37.115476,
+    -113.552207,
+    37.115476
+],
+  "geometry": {"coordinates":[-113.552207,37.115476],"type":"Point"}
+}

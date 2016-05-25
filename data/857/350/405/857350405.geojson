@@ -1,0 +1,75 @@
+{
+  "id": 857350405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.65086,40.263845,-111.65086,40.263845",
+    "geom:latitude":40.263845,
+    "geom:longitude":-111.65086,
+    "iso:country":"US",
+    "sg:address":"414 E 2260 N",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 7783",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "tours",
+        "promoter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85842355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cEqX7srOm8rjezKkMMstS_40.263845_-111.650860@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127494,
+    "wof:geomhash":"96057ce4f58d489cf26276319cc0cba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85842355,
+            "region_id":85688567,
+            "venue_id":857350405
+        }
+    ],
+    "wof:id":857350405,
+    "wof:lastmodified":1464127494,
+    "wof:name":"Beacon Tours Inc",
+    "wof:parent_id":85842355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tours",
+        "promoter"
+    ]
+},
+  "bbox": [
+    -111.65086,
+    40.263845,
+    -111.65086,
+    40.263845
+],
+  "geometry": {"coordinates":[-111.65085999999999,40.263845],"type":"Point"}
+}

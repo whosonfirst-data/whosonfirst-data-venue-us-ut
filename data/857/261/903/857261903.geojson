@@ -1,0 +1,69 @@
+{
+  "id": 857261903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.949088,40.699375,-111.949088,40.699375",
+    "geom:latitude":40.699375,
+    "geom:longitude":-111.949088,
+    "iso:country":"US",
+    "sg:address":"2254 City Center Ct",
+    "sg:city":"West Valley",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 736 2000",
+    "sg:postcode":"84119",
+    "sg:province":"UT",
+    "sg:website":"www.crystalinns.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85832291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68uNKLKggoRz54SQQsTyhq_40.699375_-111.949088@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125534,
+    "wof:geomhash":"5833c1004a2b5677536124c38b251b58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85832291,
+            "region_id":85688567,
+            "venue_id":857261903
+        }
+    ],
+    "wof:id":857261903,
+    "wof:lastmodified":1464125534,
+    "wof:name":"Crystal Inn",
+    "wof:parent_id":85832291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.949088,
+    40.699375,
+    -111.949088,
+    40.699375
+],
+  "geometry": {"coordinates":[-111.949088,40.699375],"type":"Point"}
+}

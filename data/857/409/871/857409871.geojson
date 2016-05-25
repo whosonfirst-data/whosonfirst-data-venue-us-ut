@@ -1,0 +1,75 @@
+{
+  "id": 857409871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834413,41.748988,-111.834413,41.748988",
+    "geom:latitude":41.748988,
+    "geom:longitude":-111.834413,
+    "iso:country":"US",
+    "sg:address":"960 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 3144",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QKc7qjW93mX2NuJJpoOMH_41.748988_-111.834413@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128832,
+    "wof:geomhash":"928d453d4324f1add4b5806074713b5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857409871
+        }
+    ],
+    "wof:id":857409871,
+    "wof:lastmodified":1464128832,
+    "wof:name":"Utah Carzz Inc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -111.834413,
+    41.748988,
+    -111.834413,
+    41.748988
+],
+  "geometry": {"coordinates":[-111.834413,41.748988],"type":"Point"}
+}

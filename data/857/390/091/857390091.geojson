@@ -1,0 +1,71 @@
+{
+  "id": 857390091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.822847,41.53622,-111.822847,41.53622",
+    "geom:latitude":41.53622,
+    "geom:longitude":-111.822847,
+    "iso:country":"US",
+    "sg:address":"10802 S Hwy 165",
+    "sg:city":"Paradise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 245 3152",
+    "sg:postcode":"84328",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727555,
+        102082881,
+        85823067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14PHjkn6n4qidhWtEUXrrO_41.536220_-111.822847@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128433,
+    "wof:geomhash":"0b2f87eb4694cff941b792aa4e972194",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727555,
+            "neighbourhood_id":85823067,
+            "region_id":85688567,
+            "venue_id":857390091
+        }
+    ],
+    "wof:id":857390091,
+    "wof:lastmodified":1464128433,
+    "wof:name":"Haviland Plumbing",
+    "wof:parent_id":85823067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.822847,
+    41.53622,
+    -111.822847,
+    41.53622
+],
+  "geometry": {"coordinates":[-111.822847,41.53622],"type":"Point"}
+}

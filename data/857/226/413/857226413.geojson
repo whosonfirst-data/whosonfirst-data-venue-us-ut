@@ -1,0 +1,74 @@
+{
+  "id": 857226413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.597634,40.119165,-111.597634,40.119165",
+    "geom:latitude":40.119165,
+    "geom:longitude":-111.597634,
+    "iso:country":"US",
+    "sg:address":"1195 S 1600 W",
+    "sg:city":"Mapleton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 489 0206",
+    "sg:postcode":"84664",
+    "sg:province":"UT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "sg:website":"www.gomezlandscaping.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3i7XJsPdEMMyI93vPFL2VI_40.119165_-111.597634@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124737,
+    "wof:geomhash":"e5dd8dce498b12b833193d3bed718335",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857226413
+        }
+    ],
+    "wof:id":857226413,
+    "wof:lastmodified":1464124737,
+    "wof:name":"Gomez Landscaping",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.597634,
+    40.119165,
+    -111.597634,
+    40.119165
+],
+  "geometry": {"coordinates":[-111.597634,40.119165],"type":"Point"}
+}

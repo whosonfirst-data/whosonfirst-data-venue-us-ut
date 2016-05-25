@@ -1,0 +1,80 @@
+{
+  "id": 857347665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834605,41.741663,-111.834605,41.741663",
+    "geom:latitude":41.741663,
+    "geom:longitude":-111.834605,
+    "iso:country":"US",
+    "sg:address":"550 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 3241",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "employee",
+        "assistance",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bMPGW1p7rMMwVBdwN48Yi_41.741663_-111.834605@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127433,
+    "wof:geomhash":"b4baf29655fb35d312ce53f3775bf586",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857347665
+        }
+    ],
+    "wof:id":857347665,
+    "wof:lastmodified":1464127433,
+    "wof:name":"Blomqist Hale Consulting Group",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "employee",
+        "assistance",
+        "program"
+    ]
+},
+  "bbox": [
+    -111.834605,
+    41.741663,
+    -111.834605,
+    41.741663
+],
+  "geometry": {"coordinates":[-111.834605,41.741663],"type":"Point"}
+}

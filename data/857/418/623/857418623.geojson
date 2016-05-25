@@ -1,0 +1,73 @@
+{
+  "id": 857418623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.888139,40.774491,-111.888139,40.774491",
+    "geom:latitude":40.774491,
+    "geom:longitude":-111.888139,
+    "iso:country":"US",
+    "sg:address":"204 N State St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 556 6682",
+    "sg:postcode":"84103",
+    "sg:province":"UT",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85809381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ckwK9XjypD4PTpYslZWtB_40.774491_-111.888139@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129071,
+    "wof:geomhash":"986a7feec11589e39d9e3d6bed91207e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85809381,
+            "region_id":85688567,
+            "venue_id":857418623
+        }
+    ],
+    "wof:id":857418623,
+    "wof:lastmodified":1464129071,
+    "wof:name":"Old School Photo",
+    "wof:parent_id":85809381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -111.888139,
+    40.774491,
+    -111.888139,
+    40.774491
+],
+  "geometry": {"coordinates":[-111.888139,40.774491],"type":"Point"}
+}

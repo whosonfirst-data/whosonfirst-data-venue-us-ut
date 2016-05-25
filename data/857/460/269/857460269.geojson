@@ -1,0 +1,71 @@
+{
+  "id": 857460269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.842966,41.726154,-111.842966,41.726154",
+    "geom:latitude":41.726154,
+    "geom:longitude":-111.842966,
+    "iso:country":"US",
+    "sg:address":"291 S 300 W",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 792 6063",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40lG6laO2CNmfRdbjFp2gq_41.726154_-111.842966@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129954,
+    "wof:geomhash":"bf9b9af32a7be135f6cd4c811c80c5ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857460269
+        }
+    ],
+    "wof:id":857460269,
+    "wof:lastmodified":1464129954,
+    "wof:name":"Crumb Brothers Artisan Bread",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -111.842966,
+    41.726154,
+    -111.842966,
+    41.726154
+],
+  "geometry": {"coordinates":[-111.842966,41.726154],"type":"Point"}
+}

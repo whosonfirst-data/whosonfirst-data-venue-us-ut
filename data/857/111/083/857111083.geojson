@@ -1,0 +1,77 @@
+{
+  "id": 857111083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.913543,40.71493,-111.913543,40.71493",
+    "geom:latitude":40.71493,
+    "geom:longitude":-111.913543,
+    "iso:country":"US",
+    "sg:address":"895 W 2600 S",
+    "sg:city":"West Valley",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 972 3737",
+    "sg:postcode":"84119",
+    "sg:province":"UT",
+    "sg:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85805797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Tmzxl3ZSioZX30wAtLbRM_40.714930_-111.913543@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122208,
+    "wof:geomhash":"a1bed76918161ffc19959a4342779b74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85805797,
+            "region_id":85688567,
+            "venue_id":857111083
+        }
+    ],
+    "wof:id":857111083,
+    "wof:lastmodified":1464122208,
+    "wof:name":"Superior Insulation",
+    "wof:parent_id":85805797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.913543,
+    40.71493,
+    -111.913543,
+    40.71493
+],
+  "geometry": {"coordinates":[-111.913543,40.71493],"type":"Point"}
+}

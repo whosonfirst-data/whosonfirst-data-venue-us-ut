@@ -1,0 +1,69 @@
+{
+  "id": 857141673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.788103,40.37382,-111.788103,40.37382",
+    "geom:latitude":40.37382,
+    "geom:longitude":-111.788103,
+    "iso:country":"US",
+    "sg:address":"162 S 400 E",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 5883",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Bnv1DdCAIJJwf7U6Psmgm_40.373820_-111.788103@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122933,
+    "wof:geomhash":"b69ab2fda780557f186c3ba65c2aba6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857141673
+        }
+    ],
+    "wof:id":857141673,
+    "wof:lastmodified":1464122933,
+    "wof:name":"Lumpys L & J Muffler Tire Repr",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -111.788103,
+    40.37382,
+    -111.788103,
+    40.37382
+],
+  "geometry": {"coordinates":[-111.78810300000001,40.37382],"type":"Point"}
+}

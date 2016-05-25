@@ -1,0 +1,78 @@
+{
+  "id": 857280407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.905404,40.693549,-111.905404,40.693549",
+    "geom:latitude":40.693549,
+    "geom:longitude":-111.905404,
+    "iso:country":"US",
+    "sg:address":"462 W 3600 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 263 8888",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "water",
+        "bulk",
+        "company"
+    ],
+    "sg:website":"www.rmwater.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85810147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59wrqvU7Q9erCDRYr9cZkP_40.693549_-111.905404@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125928,
+    "wof:geomhash":"7c07c3b679095d54364cb7fd5dfea973",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85810147,
+            "region_id":85688567,
+            "venue_id":857280407
+        }
+    ],
+    "wof:id":857280407,
+    "wof:lastmodified":1464125928,
+    "wof:name":"Rocky Mountain Water Co",
+    "wof:parent_id":85810147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "bulk",
+        "company"
+    ]
+},
+  "bbox": [
+    -111.905404,
+    40.693549,
+    -111.905404,
+    40.693549
+],
+  "geometry": {"coordinates":[-111.905404,40.693549],"type":"Point"}
+}

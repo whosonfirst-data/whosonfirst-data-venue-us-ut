@@ -1,0 +1,75 @@
+{
+  "id": 857165651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.960156,41.060218,-111.960156,41.060218",
+    "geom:latitude":41.060218,
+    "geom:longitude":-111.960156,
+    "iso:country":"US",
+    "sg:address":"397 E Gentile St",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 544 9887",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dry",
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4t5oYz4R6RFLT9z7oeUcv3_41.060218_-111.960156@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123479,
+    "wof:geomhash":"e9056504f50999bf367b7952499af7cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857165651
+        }
+    ],
+    "wof:id":857165651,
+    "wof:lastmodified":1464123479,
+    "wof:name":"Red Hanger Cleaners",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry",
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -111.960156,
+    41.060218,
+    -111.960156,
+    41.060218
+],
+  "geometry": {"coordinates":[-111.960156,41.060218],"type":"Point"}
+}

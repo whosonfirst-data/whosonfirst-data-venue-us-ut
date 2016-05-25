@@ -1,0 +1,73 @@
+{
+  "id": 857109875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.888146,40.756105,-111.888146,40.756105",
+    "geom:latitude":40.756105,
+    "geom:longitude":-111.888146,
+    "iso:country":"US",
+    "sg:address":"623 S State St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 364 5400",
+    "sg:postcode":"84111",
+    "sg:province":"UT",
+    "sg:tags":[
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85867259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fMfllALV5BV3mqipK49lB_40.756105_-111.888146@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122160,
+    "wof:geomhash":"75690e820f5e22d767e23ee6e66da330",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85867259,
+            "region_id":85688567,
+            "venue_id":857109875
+        }
+    ],
+    "wof:id":857109875,
+    "wof:lastmodified":1464122160,
+    "wof:name":"Burton Snowboards",
+    "wof:parent_id":85867259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "related"
+    ]
+},
+  "bbox": [
+    -111.888146,
+    40.756105,
+    -111.888146,
+    40.756105
+],
+  "geometry": {"coordinates":[-111.88814600000001,40.756105],"type":"Point"}
+}

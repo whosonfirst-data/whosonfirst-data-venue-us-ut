@@ -1,0 +1,73 @@
+{
+  "id": 857397409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.837278,40.605415,-111.837278,40.605415",
+    "geom:latitude":40.605415,
+    "geom:longitude":-111.837278,
+    "iso:country":"US",
+    "sg:address":"1900 Creek Rd",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 944 2907",
+    "sg:postcode":"84093",
+    "sg:province":"UT",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85857943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lrjr2PHLvUTzqJDhjxgks_40.605415_-111.837278@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128576,
+    "wof:geomhash":"95ed8542fbbc383c952f998a57a93c48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85857943,
+            "region_id":85688567,
+            "venue_id":857397409
+        }
+    ],
+    "wof:id":857397409,
+    "wof:lastmodified":1464128576,
+    "wof:name":"Oakdale Elementary School",
+    "wof:parent_id":85857943,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -111.837278,
+    40.605415,
+    -111.837278,
+    40.605415
+],
+  "geometry": {"coordinates":[-111.837278,40.605415],"type":"Point"}
+}

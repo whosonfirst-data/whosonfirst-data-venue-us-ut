@@ -1,0 +1,73 @@
+{
+  "id": 857081355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.905484,40.683955,-111.905484,40.683955",
+    "geom:latitude":40.683955,
+    "geom:longitude":-111.905484,
+    "iso:country":"US",
+    "sg:address":"4060 S 500 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 268 9956",
+    "sg:postcode":"84123",
+    "sg:province":"UT",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85851609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ppwbwddCU6BURGVks0hFx_40.683955_-111.905484@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121433,
+    "wof:geomhash":"1ed0e4582ceba8c24100f6817e246558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85851609,
+            "region_id":85688567,
+            "venue_id":857081355
+        }
+    ],
+    "wof:id":857081355,
+    "wof:lastmodified":1464121433,
+    "wof:name":"Stonecreek Landscaping",
+    "wof:parent_id":85851609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -111.905484,
+    40.683955,
+    -111.905484,
+    40.683955
+],
+  "geometry": {"coordinates":[-111.905484,40.683955],"type":"Point"}
+}

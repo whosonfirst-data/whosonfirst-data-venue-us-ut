@@ -1,0 +1,73 @@
+{
+  "id": 857333823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.610561,40.164398,-111.610561,40.164398",
+    "geom:latitude":40.164398,
+    "geom:longitude":-111.610561,
+    "iso:country":"US",
+    "sg:address":"139 S Main St",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 489 7243",
+    "sg:postcode":"84663",
+    "sg:province":"UT",
+    "sg:tags":[
+        "return"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727829,
+        102083567,
+        85880117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cVWUgLt2hFFzykA701dqS_40.164398_-111.610561@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127142,
+    "wof:geomhash":"c6b161fe2c6d719996e410638145089a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727829,
+            "neighbourhood_id":85880117,
+            "region_id":85688567,
+            "venue_id":857333823
+        }
+    ],
+    "wof:id":857333823,
+    "wof:lastmodified":1464127142,
+    "wof:name":"H & R Block",
+    "wof:parent_id":85880117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return"
+    ]
+},
+  "bbox": [
+    -111.610561,
+    40.164398,
+    -111.610561,
+    40.164398
+],
+  "geometry": {"coordinates":[-111.610561,40.164398],"type":"Point"}
+}

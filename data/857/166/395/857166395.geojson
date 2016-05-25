@@ -1,0 +1,75 @@
+{
+  "id": 857166395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.68346,40.081277,-111.68346,40.081277",
+    "geom:latitude":40.081277,
+    "geom:longitude":-111.68346,
+    "iso:country":"US",
+    "sg:address":"8252 S 1200 W",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 3014",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZdZQIvQDWkZNPFd71QIWQ_40.081277_-111.683460@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123493,
+    "wof:geomhash":"a470af72b1f97deaaaec3dda88bec9e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857166395
+        }
+    ],
+    "wof:id":857166395,
+    "wof:lastmodified":1464123493,
+    "wof:name":"Alan Curtis",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -111.68346,
+    40.081277,
+    -111.68346,
+    40.081277
+],
+  "geometry": {"coordinates":[-111.68346,40.081277],"type":"Point"}
+}

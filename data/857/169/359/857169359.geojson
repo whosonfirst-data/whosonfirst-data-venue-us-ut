@@ -1,0 +1,71 @@
+{
+  "id": 857169359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.811576,40.377909,-111.811576,40.377909",
+    "geom:latitude":40.377909,
+    "geom:longitude":-111.811576,
+    "iso:country":"US",
+    "sg:address":"476 W 50 N",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 8788",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7F6JhU3ULlC5k1Kun1foY7_40.377909_-111.811576@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123569,
+    "wof:geomhash":"2441ce93355158ae53c739c5367984e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857169359
+        }
+    ],
+    "wof:id":857169359,
+    "wof:lastmodified":1464123569,
+    "wof:name":"Ihc Physician Group",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -111.811576,
+    40.377909,
+    -111.811576,
+    40.377909
+],
+  "geometry": {"coordinates":[-111.811576,40.377909],"type":"Point"}
+}

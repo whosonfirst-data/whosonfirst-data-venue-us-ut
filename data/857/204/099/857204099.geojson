@@ -1,0 +1,71 @@
+{
+  "id": 857204099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.928443,41.124292,-111.928443,41.124292",
+    "geom:latitude":41.124292,
+    "geom:longitude":-111.928443,
+    "iso:country":"US",
+    "sg:address":"1933 E Cedar Loop Dr",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 476 9690",
+    "sg:postcode":"84405",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727911,
+        102083563,
+        85847875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5whq5zN3l50NKVBK99vsv4_41.124292_-111.928443@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124270,
+    "wof:geomhash":"30c39320f794a6c040e6fd68c9bc7a77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727911,
+            "neighbourhood_id":85847875,
+            "region_id":85688567,
+            "venue_id":857204099
+        }
+    ],
+    "wof:id":857204099,
+    "wof:lastmodified":1464124270,
+    "wof:name":"Dynamix Inc Family Salon",
+    "wof:parent_id":85847875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.928443,
+    41.124292,
+    -111.928443,
+    41.124292
+],
+  "geometry": {"coordinates":[-111.928443,41.124292],"type":"Point"}
+}

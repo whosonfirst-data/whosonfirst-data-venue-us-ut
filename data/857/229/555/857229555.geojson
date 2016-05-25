@@ -1,0 +1,71 @@
+{
+  "id": 857229555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.93317,41.643002,-111.93317,41.643002",
+    "geom:latitude":41.643002,
+    "geom:longitude":-111.93317,
+    "iso:country":"US",
+    "sg:address":"43 E 200 N",
+    "sg:city":"Wellsville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 245 5273",
+    "sg:postcode":"84339",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dwelling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727555,
+        102082881,
+        85823067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WdZdtTKgTj8yZbSdENG2l_41.643002_-111.933170@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124799,
+    "wof:geomhash":"1ddac29da96f1fa29a657da68d8af21e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727555,
+            "neighbourhood_id":85823067,
+            "region_id":85688567,
+            "venue_id":857229555
+        }
+    ],
+    "wof:id":857229555,
+    "wof:lastmodified":1464124799,
+    "wof:name":"Baer Everett L & Shirley",
+    "wof:parent_id":85823067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dwelling"
+    ]
+},
+  "bbox": [
+    -111.93317,
+    41.643002,
+    -111.93317,
+    41.643002
+],
+  "geometry": {"coordinates":[-111.93317,41.643002],"type":"Point"}
+}

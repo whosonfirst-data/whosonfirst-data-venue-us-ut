@@ -1,0 +1,72 @@
+{
+  "id": 857475391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.849824,41.727785,-111.849824,41.727785",
+    "geom:latitude":41.727785,
+    "geom:longitude":-111.849824,
+    "iso:country":"US",
+    "sg:address":"205 S 600 W",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 755 9848",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "sg:website":"www.scytek.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2q7aAfuIX9f32BUgtuPpgZ_41.727785_-111.849824@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130286,
+    "wof:geomhash":"b61b015045b8bbf21fbc35a0460b1cc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857475391
+        }
+    ],
+    "wof:id":857475391,
+    "wof:lastmodified":1464130286,
+    "wof:name":"Scytek Laboratories",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -111.849824,
+    41.727785,
+    -111.849824,
+    41.727785
+],
+  "geometry": {"coordinates":[-111.849824,41.727785],"type":"Point"}
+}

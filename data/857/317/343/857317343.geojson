@@ -1,0 +1,76 @@
+{
+  "id": 857317343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.83519,41.725907,-111.83519,41.725907",
+    "geom:latitude":41.725907,
+    "geom:longitude":-111.83519,
+    "iso:country":"US",
+    "sg:address":"303 S Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 3013",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Dp9npjVG8hamjvTrq0l8M_41.725907_-111.835190@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126778,
+    "wof:geomhash":"d4cbea64cb84b094505cb41f0e355e1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857317343
+        }
+    ],
+    "wof:id":857317343,
+    "wof:lastmodified":1464126778,
+    "wof:name":"Best Stop 3rd South",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -111.83519,
+    41.725907,
+    -111.83519,
+    41.725907
+],
+  "geometry": {"coordinates":[-111.83519,41.725907],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857201001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.97052,41.21591,-111.97052,41.21591",
+    "geom:latitude":41.21591,
+    "geom:longitude":-111.97052,
+    "iso:country":"US",
+    "sg:address":"2730 Washington Blvd",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 612 1815",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85820759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MPBUWIzccse0wJrKivM3e_41.215910_-111.970520@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124194,
+    "wof:geomhash":"c5d453a1ddb8860aa9b07a102c3800ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85820759,
+            "region_id":85688567,
+            "venue_id":857201001
+        }
+    ],
+    "wof:id":857201001,
+    "wof:lastmodified":1464124194,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85820759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -111.97052,
+    41.21591,
+    -111.97052,
+    41.21591
+],
+  "geometry": {"coordinates":[-111.97051999999999,41.21591],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857190763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.90734,40.733581,-111.90734,40.733581",
+    "geom:latitude":40.733581,
+    "geom:longitude":-111.90734,
+    "iso:country":"US",
+    "sg:address":"550 W 1700 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 273 9409",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85854115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jZwR4AVR5vqjzOejXAXfu_40.733581_-111.907340@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124002,
+    "wof:geomhash":"8e121e864399f6ae3afdce4ea176ebd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85854115,
+            "region_id":85688567,
+            "venue_id":857190763
+        }
+    ],
+    "wof:id":857190763,
+    "wof:lastmodified":1464124002,
+    "wof:name":"Fox Construction Inc",
+    "wof:parent_id":85854115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.90734,
+    40.733581,
+    -111.90734,
+    40.733581
+],
+  "geometry": {"coordinates":[-111.90734,40.733581],"type":"Point"}
+}

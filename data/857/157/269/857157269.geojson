@@ -1,0 +1,71 @@
+{
+  "id": 857157269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834789,41.735,-111.834789,41.735",
+    "geom:latitude":41.735,
+    "geom:longitude":-111.834789,
+    "iso:country":"US",
+    "sg:address":"160 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 2616",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "multimedia"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sS1KnPbVphc4GrD8HopZA_41.735000_-111.834789@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123289,
+    "wof:geomhash":"f4981785c11b690e1a32ef0354cc04f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857157269
+        }
+    ],
+    "wof:id":857157269,
+    "wof:lastmodified":1464123289,
+    "wof:name":"Evidence Media",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "multimedia"
+    ]
+},
+  "bbox": [
+    -111.834789,
+    41.735,
+    -111.834789,
+    41.735
+],
+  "geometry": {"coordinates":[-111.834789,41.735],"type":"Point"}
+}

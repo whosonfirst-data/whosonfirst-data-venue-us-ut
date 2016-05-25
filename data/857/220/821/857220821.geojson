@@ -1,0 +1,77 @@
+{
+  "id": 857220821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.917632,40.767237,-111.917632,40.767237",
+    "geom:latitude":40.767237,
+    "geom:longitude":-111.917632,
+    "iso:country":"US",
+    "sg:address":"930 W 100 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 572 5777",
+    "sg:postcode":"84104",
+    "sg:province":"UT",
+    "sg:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85803371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nOITLFS1mlkvzMDyJu6Da_40.767237_-111.917632@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124629,
+    "wof:geomhash":"c9752bbb11431cf6f05c2debfb0df150",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85803371,
+            "region_id":85688567,
+            "venue_id":857220821
+        }
+    ],
+    "wof:id":857220821,
+    "wof:lastmodified":1464124629,
+    "wof:name":"Lawn Gevity",
+    "wof:parent_id":85803371,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ]
+},
+  "bbox": [
+    -111.917632,
+    40.767237,
+    -111.917632,
+    40.767237
+],
+  "geometry": {"coordinates":[-111.917632,40.767237],"type":"Point"}
+}

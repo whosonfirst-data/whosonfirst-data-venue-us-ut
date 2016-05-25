@@ -1,0 +1,68 @@
+{
+  "id": 857386877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.684204,40.255223,-111.684204,40.255223",
+    "geom:latitude":40.255223,
+    "geom:longitude":-111.684204,
+    "iso:country":"US",
+    "sg:address":"1608 N 1450 W",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 375 3348",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85880081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qXtyIAciIZKoS781G5cPK_40.255223_-111.684204@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128354,
+    "wof:geomhash":"a64605cd7f1272276866d28b1665b6d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85880081,
+            "region_id":85688567,
+            "venue_id":857386877
+        }
+    ],
+    "wof:id":857386877,
+    "wof:lastmodified":1464128354,
+    "wof:name":"Brick Oven Bread Co",
+    "wof:parent_id":85880081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.684204,
+    40.255223,
+    -111.684204,
+    40.255223
+],
+  "geometry": {"coordinates":[-111.68420399999999,40.255223],"type":"Point"}
+}

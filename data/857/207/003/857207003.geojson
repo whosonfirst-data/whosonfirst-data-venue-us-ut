@@ -1,0 +1,75 @@
+{
+  "id": 857207003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.682456,40.303574,-111.682456,40.303574",
+    "geom:latitude":40.303574,
+    "geom:longitude":-111.682456,
+    "iso:country":"US",
+    "sg:address":"360 N 550 E",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 226 0782",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85849197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1G0oLSutQjeFvB3QA26Lad_40.303574_-111.682456@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124332,
+    "wof:geomhash":"85d9e287b69609c757dd7cfe4f55ade9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85849197,
+            "region_id":85688567,
+            "venue_id":857207003
+        }
+    ],
+    "wof:id":857207003,
+    "wof:lastmodified":1464124332,
+    "wof:name":"Wester Coyote Enterprises Inc",
+    "wof:parent_id":85849197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -111.682456,
+    40.303574,
+    -111.682456,
+    40.303574
+],
+  "geometry": {"coordinates":[-111.682456,40.303574],"type":"Point"}
+}

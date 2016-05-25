@@ -1,0 +1,68 @@
+{
+  "id": 857417857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.870997,40.730364,-111.870997,40.730364",
+    "geom:latitude":40.730364,
+    "geom:longitude":-111.870997,
+    "iso:country":"US",
+    "sg:address":"1845 S 700 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 486 7365",
+    "sg:postcode":"84105",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76hqVWHRU3xMeRceRLslhj_40.730364_-111.870997@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129056,
+    "wof:geomhash":"a8f180244daa7b8e3e2172f24695ea89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871027,
+            "region_id":85688567,
+            "venue_id":857417857
+        }
+    ],
+    "wof:id":857417857,
+    "wof:lastmodified":1464129056,
+    "wof:name":"Sunshine Convenience Store",
+    "wof:parent_id":85871027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.870997,
+    40.730364,
+    -111.870997,
+    40.730364
+],
+  "geometry": {"coordinates":[-111.870997,40.730364],"type":"Point"}
+}

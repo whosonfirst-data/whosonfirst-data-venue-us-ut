@@ -1,0 +1,73 @@
+{
+  "id": 857267119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.842531,41.747726,-111.842531,41.747726",
+    "geom:latitude":41.747726,
+    "geom:longitude":-111.842531,
+    "iso:country":"US",
+    "sg:address":"12 W 880 N",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 563 3751",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sNl4FRlrPXS5Bt3ZzJzxD_41.747726_-111.842531@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125631,
+    "wof:geomhash":"7ed2c5cfe518f00f69ec967c3978847e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857267119
+        }
+    ],
+    "wof:id":857267119,
+    "wof:lastmodified":1464125631,
+    "wof:name":"Robb Painting Inc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.842531,
+    41.747726,
+    -111.842531,
+    41.747726
+],
+  "geometry": {"coordinates":[-111.84253099999999,41.747726],"type":"Point"}
+}

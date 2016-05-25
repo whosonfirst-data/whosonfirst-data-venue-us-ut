@@ -1,0 +1,71 @@
+{
+  "id": 857184269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.788961,40.679094,-111.788961,40.679094",
+    "geom:latitude":40.679094,
+    "geom:longitude":-111.788961,
+    "iso:country":"US",
+    "sg:address":"4260 S Neptune Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 278 8505",
+    "sg:postcode":"84124",
+    "sg:province":"UT",
+    "sg:tags":[
+        "trust",
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85835599,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_572HFG0GvtQnIqJ8bQG0f2_40.679094_-111.788961@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123880,
+    "wof:geomhash":"956a291b427788ca71a78bd6ab8d9381",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85835599,
+            "region_id":85688567,
+            "venue_id":857184269
+        }
+    ],
+    "wof:id":857184269,
+    "wof:lastmodified":1464123880,
+    "wof:name":"Flygare Family Trust",
+    "wof:parent_id":85835599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trust",
+        "management"
+    ]
+},
+  "bbox": [
+    -111.788961,
+    40.679094,
+    -111.788961,
+    40.679094
+],
+  "geometry": {"coordinates":[-111.788961,40.679094],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 857207381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.833045,41.738975,-111.833045,41.738975",
+    "geom:latitude":41.738975,
+    "geom:longitude":-111.833045,
+    "iso:country":"US",
+    "sg:address":"80 E 400 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 0511",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "printer"
+    ],
+    "sg:website":"www.kinkos.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4am1VVnCgVo1V5nvv4BEmD_41.738975_-111.833045@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124339,
+    "wof:geomhash":"066db2ec0f3f8c4ac49ceceb54889fcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857207381
+        }
+    ],
+    "wof:id":857207381,
+    "wof:lastmodified":1464124339,
+    "wof:name":"Fed Ex Kinko's Ofc & Print Ctr",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -111.833045,
+    41.738975,
+    -111.833045,
+    41.738975
+],
+  "geometry": {"coordinates":[-111.833045,41.738975],"type":"Point"}
+}

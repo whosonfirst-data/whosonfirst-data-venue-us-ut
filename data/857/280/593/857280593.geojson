@@ -1,0 +1,69 @@
+{
+  "id": 857280593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.86096,40.662573,-111.86096,40.662573",
+    "geom:latitude":40.662573,
+    "geom:longitude":-111.86096,
+    "iso:country":"US",
+    "sg:address":"4933 S 1065 E",
+    "sg:city":"Holladay",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 263 0334",
+    "sg:postcode":"84117",
+    "sg:province":"UT",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85826429,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lVDZi0YJufG8YX8sDQDVP_40.662573_-111.860960@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125932,
+    "wof:geomhash":"df60c0528933e2f4c3d5b42269126e9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85826429,
+            "region_id":85688567,
+            "venue_id":857280593
+        }
+    ],
+    "wof:id":857280593,
+    "wof:lastmodified":1464125932,
+    "wof:name":"Young Ideas",
+    "wof:parent_id":85826429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -111.86096,
+    40.662573,
+    -111.86096,
+    40.662573
+],
+  "geometry": {"coordinates":[-111.86096000000001,40.662573],"type":"Point"}
+}

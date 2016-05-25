@@ -1,0 +1,75 @@
+{
+  "id": 857204455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.062804,41.176198,-112.062804,41.176198",
+    "geom:latitude":41.176198,
+    "geom:longitude":-112.062804,
+    "iso:country":"US",
+    "sg:address":"3442 W 4800 S",
+    "sg:city":"Roy",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 732 2593",
+    "sg:postcode":"84067",
+    "sg:province":"UT",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85804651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3A7oxnTBuucB1M8YQrvLQU_41.176198_-112.062804@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124278,
+    "wof:geomhash":"e2d778bbf7de30f42c8e90e697c346d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85804651,
+            "region_id":85688567,
+            "venue_id":857204455
+        }
+    ],
+    "wof:id":857204455,
+    "wof:lastmodified":1464124278,
+    "wof:name":"Bank of Utah",
+    "wof:parent_id":85804651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -112.062804,
+    41.176198,
+    -112.062804,
+    41.176198
+],
+  "geometry": {"coordinates":[-112.062804,41.176198],"type":"Point"}
+}

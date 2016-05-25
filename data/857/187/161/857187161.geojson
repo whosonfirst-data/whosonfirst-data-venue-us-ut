@@ -1,0 +1,75 @@
+{
+  "id": 857187161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.92591,40.719057,-111.92591,40.719057",
+    "geom:latitude":40.719057,
+    "geom:longitude":-111.92591,
+    "iso:country":"US",
+    "sg:address":"1105 W 2400 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 908 8001",
+    "sg:postcode":"84119",
+    "sg:province":"UT",
+    "sg:tags":[
+        "medical",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85810735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pDnfisPKBJ9BssPMdCm9o_40.719057_-111.925910@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123936,
+    "wof:geomhash":"1392f461f1b94922edbb95bb39f72123",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85810735,
+            "region_id":85688567,
+            "venue_id":857187161
+        }
+    ],
+    "wof:id":857187161,
+    "wof:lastmodified":1464123936,
+    "wof:name":"Concentra Medical Center",
+    "wof:parent_id":85810735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "center"
+    ]
+},
+  "bbox": [
+    -111.92591,
+    40.719057,
+    -111.92591,
+    40.719057
+],
+  "geometry": {"coordinates":[-111.92591,40.719057],"type":"Point"}
+}

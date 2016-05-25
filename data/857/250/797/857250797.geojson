@@ -1,0 +1,71 @@
+{
+  "id": 857250797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.794242,41.80488,-111.794242,41.80488",
+    "geom:latitude":41.80488,
+    "geom:longitude":-111.794242,
+    "iso:country":"US",
+    "sg:address":"241 N 1000 E",
+    "sg:city":"Hyde Park",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 563 6585",
+    "sg:postcode":"84318",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LnNvfw6wQmSIfANbN0RUm_41.804880_-111.794242@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125264,
+    "wof:geomhash":"1073d38f24aec8affb95416d2c8a5ab4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857250797
+        }
+    ],
+    "wof:id":857250797,
+    "wof:lastmodified":1464125264,
+    "wof:name":"Jay Dee Barr Construction",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.794242,
+    41.80488,
+    -111.794242,
+    41.80488
+],
+  "geometry": {"coordinates":[-111.794242,41.80488],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857487607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.859682,41.73421,-111.859682,41.73421",
+    "geom:latitude":41.73421,
+    "geom:longitude":-111.859682,
+    "iso:country":"US",
+    "sg:address":"75 N 1000 W",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 750 0297",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pLHOBKdklQrDKyRre8A0c_41.734210_-111.859682@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130524,
+    "wof:geomhash":"c2c1302f0126855e6e8b2713783f56f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857487607
+        }
+    ],
+    "wof:id":857487607,
+    "wof:lastmodified":1464130524,
+    "wof:name":"U W Freight Line Inc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -111.859682,
+    41.73421,
+    -111.859682,
+    41.73421
+],
+  "geometry": {"coordinates":[-111.85968200000001,41.73421],"type":"Point"}
+}

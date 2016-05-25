@@ -1,0 +1,77 @@
+{
+  "id": 857096081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.008608,40.631353,-112.008608,40.631353",
+    "geom:latitude":40.631353,
+    "geom:longitude":-112.008608,
+    "iso:country":"US",
+    "sg:address":"4934 W 6600 S",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 679 0303",
+    "sg:postcode":"84084",
+    "sg:province":"UT",
+    "sg:tags":[
+        "equipment",
+        "transportation",
+        "lease"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85840625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04Gf9pF2ZuYWjummgE7vgG_40.631353_-112.008608@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121814,
+    "wof:geomhash":"be89f42a8a0613af9a581a898a09cdcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85840625,
+            "region_id":85688567,
+            "venue_id":857096081
+        }
+    ],
+    "wof:id":857096081,
+    "wof:lastmodified":1464121814,
+    "wof:name":"Costill Production Services",
+    "wof:parent_id":85840625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "transportation",
+        "lease"
+    ]
+},
+  "bbox": [
+    -112.008608,
+    40.631353,
+    -112.008608,
+    40.631353
+],
+  "geometry": {"coordinates":[-112.008608,40.631353],"type":"Point"}
+}

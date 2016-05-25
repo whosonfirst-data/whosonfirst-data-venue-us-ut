@@ -1,0 +1,75 @@
+{
+  "id": 857368173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.650854,40.208637,-111.650854,40.208637",
+    "geom:latitude":40.208637,
+    "geom:longitude":-111.650854,
+    "iso:country":"US",
+    "sg:address":"561 E 1860 S",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 6475",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BzMAJNWx8P31dtZwHObQR_40.208637_-111.650854@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127866,
+    "wof:geomhash":"2c575a607ad93b67072ebc9c3ecb76ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880069,
+            "region_id":85688567,
+            "venue_id":857368173
+        }
+    ],
+    "wof:id":857368173,
+    "wof:lastmodified":1464127866,
+    "wof:name":"University Of Phoenix-Utah",
+    "wof:parent_id":85880069,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -111.650854,
+    40.208637,
+    -111.650854,
+    40.208637
+],
+  "geometry": {"coordinates":[-111.650854,40.208637],"type":"Point"}
+}

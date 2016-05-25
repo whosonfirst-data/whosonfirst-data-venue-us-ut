@@ -1,0 +1,68 @@
+{
+  "id": 857258651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.899799,40.676836,-111.899799,40.676836",
+    "geom:latitude":40.676836,
+    "geom:longitude":-111.899799,
+    "iso:country":"US",
+    "sg:address":"4188 S 300 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 281 0222",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85851609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ED9u7dxC7BiuEBrg9p33x_40.676836_-111.899799@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125466,
+    "wof:geomhash":"fe3cb5218f0cc0cbd79b64a8a2166a52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85851609,
+            "region_id":85688567,
+            "venue_id":857258651
+        }
+    ],
+    "wof:id":857258651,
+    "wof:lastmodified":1464125466,
+    "wof:name":"Mobile Storage Group Inc",
+    "wof:parent_id":85851609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.899799,
+    40.676836,
+    -111.899799,
+    40.676836
+],
+  "geometry": {"coordinates":[-111.899799,40.676836],"type":"Point"}
+}

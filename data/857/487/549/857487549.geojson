@@ -1,0 +1,68 @@
+{
+  "id": 857487549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.928828,40.748473,-111.928828,40.748473",
+    "geom:latitude":40.748473,
+    "geom:longitude":-111.928828,
+    "iso:country":"US",
+    "sg:address":"1326 American Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 975 1204",
+    "sg:postcode":"84104",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85833353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jh4kyPhZgR7ctUlPgBp2x_40.748473_-111.928828@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130522,
+    "wof:geomhash":"45339cf5aa770b60688853c767122102",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85833353,
+            "region_id":85688567,
+            "venue_id":857487549
+        }
+    ],
+    "wof:id":857487549,
+    "wof:lastmodified":1464130522,
+    "wof:name":"Dudley Transportation",
+    "wof:parent_id":85833353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.928828,
+    40.748473,
+    -111.928828,
+    40.748473
+],
+  "geometry": {"coordinates":[-111.928828,40.748473],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857370003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.667764,40.300542,-111.667764,40.300542",
+    "geom:latitude":40.300542,
+    "geom:longitude":-111.667764,
+    "iso:country":"US",
+    "sg:address":"1177 E 180 N",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 5153",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "cards",
+        "greeting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YKD8ay3Vvw0aGfzAtz1ln_40.300542_-111.667764@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127906,
+    "wof:geomhash":"adb142305a8b98f8df6e8c4a535d79b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857370003
+        }
+    ],
+    "wof:id":857370003,
+    "wof:lastmodified":1464127906,
+    "wof:name":"Backyard Friends",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cards",
+        "greeting"
+    ]
+},
+  "bbox": [
+    -111.667764,
+    40.300542,
+    -111.667764,
+    40.300542
+],
+  "geometry": {"coordinates":[-111.66776400000001,40.300542],"type":"Point"}
+}

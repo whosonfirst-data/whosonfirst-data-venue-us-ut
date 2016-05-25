@@ -1,0 +1,73 @@
+{
+  "id": 857177353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.892309,40.595022,-111.892309,40.595022",
+    "geom:latitude":40.595022,
+    "geom:longitude":-111.892309,
+    "iso:country":"US",
+    "sg:address":"50 W 8600 S",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 573 1059",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728051,
+        102082877,
+        85834097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7l5WlTZM6Pdvu85ZLHxYy4_40.595022_-111.892309@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123739,
+    "wof:geomhash":"fc4399d848c135d093e9e723939254e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85834097,
+            "region_id":85688567,
+            "venue_id":857177353
+        }
+    ],
+    "wof:id":857177353,
+    "wof:lastmodified":1464123739,
+    "wof:name":"Fort Union Towing",
+    "wof:parent_id":85834097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -111.892309,
+    40.595022,
+    -111.892309,
+    40.595022
+],
+  "geometry": {"coordinates":[-111.892309,40.595022],"type":"Point"}
+}

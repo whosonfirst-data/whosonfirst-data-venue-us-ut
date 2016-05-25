@@ -1,0 +1,73 @@
+{
+  "id": 857425355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.924831,40.86682,-111.924831,40.86682",
+    "geom:latitude":40.86682,
+    "geom:longitude":-111.924831,
+    "iso:country":"US",
+    "sg:address":"1630 W 2225 S",
+    "sg:city":"Woods Cross",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 292 5296",
+    "sg:postcode":"84087",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727887,
+        102083563,
+        85848919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BL78saewfmrGR9QVCA930_40.866820_-111.924831@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129235,
+    "wof:geomhash":"4e1da196c383690c2f9ac247d8df15a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727887,
+            "neighbourhood_id":85848919,
+            "region_id":85688567,
+            "venue_id":857425355
+        }
+    ],
+    "wof:id":857425355,
+    "wof:lastmodified":1464129235,
+    "wof:name":"Estate Contractors Corp",
+    "wof:parent_id":85848919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.924831,
+    40.86682,
+    -111.924831,
+    40.86682
+],
+  "geometry": {"coordinates":[-111.924831,40.86682],"type":"Point"}
+}

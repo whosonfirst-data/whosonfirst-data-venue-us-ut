@@ -1,0 +1,75 @@
+{
+  "id": 857089523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.787333,39.968885,-111.787333,39.968885",
+    "geom:latitude":39.968885,
+    "geom:longitude":-111.787333,
+    "iso:country":"US",
+    "sg:address":"421 S 100 W",
+    "sg:city":"Santaquin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 754 3428",
+    "sg:postcode":"84655",
+    "sg:province":"UT",
+    "sg:tags":[
+        "concrete",
+        "ditch",
+        "liner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45UabgiEev9P30JXs477Bo_39.968885_-111.787333@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121658,
+    "wof:geomhash":"592dfd306b991d7529c36a7b0410d1a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857089523
+        }
+    ],
+    "wof:id":857089523,
+    "wof:lastmodified":1464121658,
+    "wof:name":"Jones Concrete & Ditch Lining",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "ditch",
+        "liner"
+    ]
+},
+  "bbox": [
+    -111.787333,
+    39.968885,
+    -111.787333,
+    39.968885
+],
+  "geometry": {"coordinates":[-111.787333,39.968885],"type":"Point"}
+}

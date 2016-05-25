@@ -1,0 +1,73 @@
+{
+  "id": 857463735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.902006,41.003977,-111.902006,41.003977",
+    "geom:latitude":41.003977,
+    "geom:longitude":-111.902006,
+    "iso:country":"US",
+    "sg:address":"641 W 1400 N",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 7416",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qmHWq57HxAZjdQnFOcbw9_41.003977_-111.902006@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130024,
+    "wof:geomhash":"873f4f6fe437e3ac0e2525e520ea32b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857463735
+        }
+    ],
+    "wof:id":857463735,
+    "wof:lastmodified":1464130024,
+    "wof:name":"Moon Properties LLC",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -111.902006,
+    41.003977,
+    -111.902006,
+    41.003977
+],
+  "geometry": {"coordinates":[-111.902006,41.003977],"type":"Point"}
+}

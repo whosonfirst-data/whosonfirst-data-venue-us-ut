@@ -1,0 +1,68 @@
+{
+  "id": 857414595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.068729,41.16378,-112.068729,41.16378",
+    "geom:latitude":41.16378,
+    "geom:longitude":-112.068729,
+    "iso:country":"US",
+    "sg:address":"3672 W 5500 S",
+    "sg:city":"Roy",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 985 5558",
+    "sg:postcode":"84067",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85804651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Jhm0L5hLsHpEZvRz3lYsH_41.163780_-112.068729@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128958,
+    "wof:geomhash":"8a68365e01efe52fe51fa2140a86de14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85804651,
+            "region_id":85688567,
+            "venue_id":857414595
+        }
+    ],
+    "wof:id":857414595,
+    "wof:lastmodified":1464128958,
+    "wof:name":"James Lykins",
+    "wof:parent_id":85804651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.068729,
+    41.16378,
+    -112.068729,
+    41.16378
+],
+  "geometry": {"coordinates":[-112.068729,41.16378],"type":"Point"}
+}

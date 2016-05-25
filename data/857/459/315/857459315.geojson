@@ -1,0 +1,75 @@
+{
+  "id": 857459315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.840637,40.394176,-111.840637,40.394176",
+    "geom:latitude":40.394176,
+    "geom:longitude":-111.840637,
+    "iso:country":"US",
+    "sg:address":"628 E State St",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 766 8585",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LbW8dRuqxVniWSOwk3xUO_40.394176_-111.840637@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129938,
+    "wof:geomhash":"45bcf90d006284062a3f4420bdd343a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857459315
+        }
+    ],
+    "wof:id":857459315,
+    "wof:lastmodified":1464129938,
+    "wof:name":"Air Express Inc",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.840637,
+    40.394176,
+    -111.840637,
+    40.394176
+],
+  "geometry": {"coordinates":[-111.840637,40.394176],"type":"Point"}
+}

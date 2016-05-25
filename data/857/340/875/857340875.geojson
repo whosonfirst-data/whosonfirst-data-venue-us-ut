@@ -1,0 +1,73 @@
+{
+  "id": 857340875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.019128,40.312759,-112.019128,40.312759",
+    "geom:latitude":40.312759,
+    "geom:longitude":-112.019128,
+    "iso:country":"US",
+    "sg:address":"1439 Owl Ln",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 789 5829",
+    "sg:postcode":"84005",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727857,
+        102083567,
+        85836317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3f5fMwbtndj42LGN60GaZt_40.312759_-112.019128@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127295,
+    "wof:geomhash":"bf909c06405b18f209e76ea133e31dbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727857,
+            "neighbourhood_id":85836317,
+            "region_id":85688567,
+            "venue_id":857340875
+        }
+    ],
+    "wof:id":857340875,
+    "wof:lastmodified":1464127295,
+    "wof:name":"Cedar Valley Sprinkler & Maint",
+    "wof:parent_id":85836317,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -112.019128,
+    40.312759,
+    -112.019128,
+    40.312759
+],
+  "geometry": {"coordinates":[-112.01912799999999,40.312759],"type":"Point"}
+}

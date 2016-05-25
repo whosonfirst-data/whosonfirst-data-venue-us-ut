@@ -1,0 +1,68 @@
+{
+  "id": 857081945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.895749,40.689575,-111.895749,40.689575",
+    "geom:latitude":40.689575,
+    "geom:longitude":-111.895749,
+    "iso:country":"US",
+    "sg:address":"138 W Plymouth Ave",
+    "sg:city":"South Salt Lake",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 261 2200",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85810147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qHicsQuyls5EzgBklGaWv_40.689575_-111.895749@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121448,
+    "wof:geomhash":"af1469d34365c23f0ac3b5bc75723f93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85810147,
+            "region_id":85688567,
+            "venue_id":857081945
+        }
+    ],
+    "wof:id":857081945,
+    "wof:lastmodified":1464121448,
+    "wof:name":"Lou Carlson Hair Cutting Etc",
+    "wof:parent_id":85810147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.895749,
+    40.689575,
+    -111.895749,
+    40.689575
+],
+  "geometry": {"coordinates":[-111.895749,40.689575],"type":"Point"}
+}

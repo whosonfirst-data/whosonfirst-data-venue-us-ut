@@ -1,0 +1,75 @@
+{
+  "id": 857142419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.89968,40.78021,-111.89968,40.78021",
+    "geom:latitude":40.78021,
+    "geom:longitude":-111.89968,
+    "iso:country":"US",
+    "sg:address":"575 N 300 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 364 7533",
+    "sg:postcode":"84103",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automobile",
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85804489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iLf3nYrYijefNQ0VRy53h_40.780210_-111.899680@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122950,
+    "wof:geomhash":"8abc80de20cf7b1d88a3badd748bf283",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85804489,
+            "region_id":85688567,
+            "venue_id":857142419
+        }
+    ],
+    "wof:id":857142419,
+    "wof:lastmodified":1464122950,
+    "wof:name":"Capitol Emissions",
+    "wof:parent_id":85804489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "inspection"
+    ]
+},
+  "bbox": [
+    -111.89968,
+    40.78021,
+    -111.89968,
+    40.78021
+],
+  "geometry": {"coordinates":[-111.89968,40.78021],"type":"Point"}
+}

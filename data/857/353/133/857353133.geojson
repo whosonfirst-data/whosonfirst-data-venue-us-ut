@@ -1,0 +1,69 @@
+{
+  "id": 857353133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.944624,41.323231,-111.944624,41.323231",
+    "geom:latitude":41.323231,
+    "geom:longitude":-111.944624,
+    "iso:country":"US",
+    "sg:address":"1163 E 3400 N",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 782 4394",
+    "sg:postcode":"84414",
+    "sg:province":"UT",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85824645,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OfnpnNPZj2esrGlAPd9VO_41.323231_-111.944624@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127556,
+    "wof:geomhash":"6a78ba39cacb0e10da95b78669531beb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85824645,
+            "region_id":85688567,
+            "venue_id":857353133
+        }
+    ],
+    "wof:id":857353133,
+    "wof:lastmodified":1464127556,
+    "wof:name":"Tealco LLC",
+    "wof:parent_id":85824645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -111.944624,
+    41.323231,
+    -111.944624,
+    41.323231
+],
+  "geometry": {"coordinates":[-111.944624,41.323231],"type":"Point"}
+}

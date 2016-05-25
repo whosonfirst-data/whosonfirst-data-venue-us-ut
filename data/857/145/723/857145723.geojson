@@ -1,0 +1,68 @@
+{
+  "id": 857145723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.847695,40.632737,-111.847695,40.632737",
+    "geom:latitude":40.632737,
+    "geom:longitude":-111.847695,
+    "iso:country":"US",
+    "sg:address":"1561 E Stonemoor Cir",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 277 8056",
+    "sg:postcode":"84121",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85821553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LumL4gGqaFpnBfHRZSORy_40.632737_-111.847695@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123055,
+    "wof:geomhash":"c687220d44828e3a8bf339ef62ff0715",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85821553,
+            "region_id":85688567,
+            "venue_id":857145723
+        }
+    ],
+    "wof:id":857145723,
+    "wof:lastmodified":1464123055,
+    "wof:name":"DSB Development LLC",
+    "wof:parent_id":85821553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.847695,
+    40.632737,
+    -111.847695,
+    40.632737
+],
+  "geometry": {"coordinates":[-111.847695,40.632737],"type":"Point"}
+}

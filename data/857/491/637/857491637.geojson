@@ -1,0 +1,76 @@
+{
+  "id": 857491637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.021941,41.109513,-112.021941,41.109513",
+    "geom:latitude":41.109513,
+    "geom:longitude":-112.021941,
+    "iso:country":"US",
+    "sg:address":"301 S State St",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/north-davis/75012-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 776 5000",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85851583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aG9BKWmJsNXaa9nt7kY7A_41.109513_-112.021941@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130646,
+    "wof:geomhash":"72df74520942f35b8faef7da7cfc2a01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85851583,
+            "region_id":85688567,
+            "venue_id":857491637
+        }
+    ],
+    "wof:id":857491637,
+    "wof:lastmodified":1464130646,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85851583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -112.021941,
+    41.109513,
+    -112.021941,
+    41.109513
+],
+  "geometry": {"coordinates":[-112.021941,41.109513],"type":"Point"}
+}

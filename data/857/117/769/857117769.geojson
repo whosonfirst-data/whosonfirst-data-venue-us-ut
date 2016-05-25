@@ -1,0 +1,70 @@
+{
+  "id": 857117769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.811236,40.377594,-111.811236,40.377594",
+    "geom:latitude":40.377594,
+    "geom:longitude":-111.811236,
+    "iso:country":"US",
+    "sg:address":"491 W 30 N",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 772 0243",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "hospice"
+    ],
+    "sg:website":"www.heartsforhospice.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cxm2dkH62QdoQybpj0NlA_40.377594_-111.811236@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122405,
+    "wof:geomhash":"98b24323aa1491940c25e241631bc5b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857117769
+        }
+    ],
+    "wof:id":857117769,
+    "wof:lastmodified":1464122405,
+    "wof:name":"Hearts For Hospice",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospice"
+    ]
+},
+  "bbox": [
+    -111.811236,
+    40.377594,
+    -111.811236,
+    40.377594
+],
+  "geometry": {"coordinates":[-111.81123599999999,40.377594],"type":"Point"}
+}

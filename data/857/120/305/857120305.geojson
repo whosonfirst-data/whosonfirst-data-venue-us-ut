@@ -1,0 +1,73 @@
+{
+  "id": 857120305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.687496,40.238445,-111.687496,40.238445",
+    "geom:latitude":40.238445,
+    "geom:longitude":-111.687496,
+    "iso:country":"US",
+    "sg:address":"361 N Draper Ln",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 374 0232",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LfkOeSlBccOU86P6bw89i_40.238445_-111.687496@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122456,
+    "wof:geomhash":"ce654bdbd53bf21e084746e86804840c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880067,
+            "region_id":85688567,
+            "venue_id":857120305
+        }
+    ],
+    "wof:id":857120305,
+    "wof:lastmodified":1464122456,
+    "wof:name":"Watchman Autobody & Paint",
+    "wof:parent_id":85880067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -111.687496,
+    40.238445,
+    -111.687496,
+    40.238445
+],
+  "geometry": {"coordinates":[-111.687496,40.238445],"type":"Point"}
+}

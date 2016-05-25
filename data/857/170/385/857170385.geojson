@@ -1,0 +1,80 @@
+{
+  "id": 857170385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.813068,40.600528,-111.813068,40.600528",
+    "geom:latitude":40.600528,
+    "geom:longitude":-111.813068,
+    "iso:country":"US",
+    "sg:address":"2773 Etienne Way",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 944 1264",
+    "sg:postcode":"84093",
+    "sg:province":"UT",
+    "sg:tags":[
+        "home",
+        "rest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728065,
+        102082877,
+        85819289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ljiIQYX2RZFyipRhZN0uL_40.600528_-111.813068@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123592,
+    "wof:geomhash":"0b84fe57a5e09b8780dbd501d339a08e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728065,
+            "neighbourhood_id":85819289,
+            "region_id":85688567,
+            "venue_id":857170385
+        }
+    ],
+    "wof:id":857170385,
+    "wof:lastmodified":1464123592,
+    "wof:name":"Wasatch Geriatrics PC",
+    "wof:parent_id":85819289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "rest"
+    ]
+},
+  "bbox": [
+    -111.813068,
+    40.600528,
+    -111.813068,
+    40.600528
+],
+  "geometry": {"coordinates":[-111.813068,40.600528],"type":"Point"}
+}

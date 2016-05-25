@@ -1,0 +1,77 @@
+{
+  "id": 857312861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.67531,40.220151,-111.67531,40.220151",
+    "geom:latitude":40.220151,
+    "geom:longitude":-111.67531,
+    "iso:country":"US",
+    "sg:address":"1053 W 1020 S",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 2630",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "skilled",
+        "outpatient",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aVM8Dro6xZbvGDn5NTccI_40.220151_-111.675310@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126678,
+    "wof:geomhash":"660108a8af5f1ed3a110134e9818b139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880077,
+            "region_id":85688567,
+            "venue_id":857312861
+        }
+    ],
+    "wof:id":857312861,
+    "wof:lastmodified":1464126678,
+    "wof:name":"Crestview Care Center",
+    "wof:parent_id":85880077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled",
+        "outpatient",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -111.67531,
+    40.220151,
+    -111.67531,
+    40.220151
+],
+  "geometry": {"coordinates":[-111.67531,40.220151],"type":"Point"}
+}

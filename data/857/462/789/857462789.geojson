@@ -1,0 +1,75 @@
+{
+  "id": 857462789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.955076,40.744768,-111.955076,40.744768",
+    "geom:latitude":40.744768,
+    "geom:longitude":-111.955076,
+    "iso:country":"US",
+    "sg:address":"1122 S 2475 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 975 6424",
+    "sg:postcode":"84104",
+    "sg:province":"UT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85814799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7i3xlxBTVszsMtLqHqPm2E_40.744768_-111.955076@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130005,
+    "wof:geomhash":"862b58e74d7f2f9d79f2462d98f21df0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85814799,
+            "region_id":85688567,
+            "venue_id":857462789
+        }
+    ],
+    "wof:id":857462789,
+    "wof:lastmodified":1464130005,
+    "wof:name":"Pioneer Mechanical & Weld Inc",
+    "wof:parent_id":85814799,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.955076,
+    40.744768,
+    -111.955076,
+    40.744768
+],
+  "geometry": {"coordinates":[-111.95507600000001,40.744768],"type":"Point"}
+}

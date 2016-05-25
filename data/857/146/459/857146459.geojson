@@ -1,0 +1,68 @@
+{
+  "id": 857146459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.87227,40.584379,-111.87227,40.584379",
+    "geom:latitude":40.584379,
+    "geom:longitude":-111.87227,
+    "iso:country":"US",
+    "sg:address":"9204 S 700 E",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 565 0944",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85854667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IA9eeACESCtAubMmgQ216_40.584379_-111.872270@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123069,
+    "wof:geomhash":"4466784379cc968cc98e16bfe529795f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85854667,
+            "region_id":85688567,
+            "venue_id":857146459
+        }
+    ],
+    "wof:id":857146459,
+    "wof:lastmodified":1464123069,
+    "wof:name":"Benjamin Franklin Academy",
+    "wof:parent_id":85854667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.87227,
+    40.584379,
+    -111.87227,
+    40.584379
+],
+  "geometry": {"coordinates":[-111.87227,40.584379],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857258243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.835773,40.411435,-111.835773,40.411435",
+    "geom:latitude":40.411435,
+    "geom:longitude":-111.835773,
+    "iso:country":"US",
+    "sg:address":"1147 Airport Dr",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 766 8620",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "analytical",
+        "instrument",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04Qt4fRWbQ4QjHGVgdX6L1_40.411435_-111.835773@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125458,
+    "wof:geomhash":"09072e073a25d67d454c9e181ec34a7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857258243
+        }
+    ],
+    "wof:id":857258243,
+    "wof:lastmodified":1464125458,
+    "wof:name":"Ebsd Analytical Inc",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "analytical",
+        "instrument",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.835773,
+    40.411435,
+    -111.835773,
+    40.411435
+],
+  "geometry": {"coordinates":[-111.835773,40.411435],"type":"Point"}
+}

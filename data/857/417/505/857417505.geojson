@@ -1,0 +1,66 @@
+{
+  "id": 857417505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.081284,40.733641,-114.081284,40.733641",
+    "geom:latitude":40.733641,
+    "geom:longitude":-114.081284,
+    "iso:country":"US",
+    "sg:address":"2000 Elko St",
+    "sg:city":"West Wendover",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 775 664 3100",
+    "sg:postcode":"89883",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688531,
+        85633793,
+        85974785,
+        102082651,
+        85804355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vyyuqeoFYSTgqW2ZM9GZy_40.733641_-114.081284@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129047,
+    "wof:geomhash":"55af926f377f8e7e08e8507e2f204eeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082651,
+            "locality_id":85974785,
+            "neighbourhood_id":85804355,
+            "region_id":85688531,
+            "venue_id":857417505
+        }
+    ],
+    "wof:id":857417505,
+    "wof:lastmodified":1464129047,
+    "wof:name":"West Wendover Elementary Schl",
+    "wof:parent_id":85804355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -114.081284,
+    40.733641,
+    -114.081284,
+    40.733641
+],
+  "geometry": {"coordinates":[-114.081284,40.733641],"type":"Point"}
+}

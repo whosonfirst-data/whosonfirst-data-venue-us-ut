@@ -1,0 +1,73 @@
+{
+  "id": 857163777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.607372,37.048581,-113.607372,37.048581",
+    "geom:latitude":37.048581,
+    "geom:longitude":-113.607372,
+    "iso:country":"US",
+    "sg:address":"1155 W Bloomington Dr S",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 674 0892",
+    "sg:postcode":"84790",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727617,
+        102082879,
+        85803851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11npHyiZD7hYsmkueMCDgW_37.048581_-113.607372@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123439,
+    "wof:geomhash":"e9837f19cbd1e827cf15797d0780b4af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85803851,
+            "region_id":85688567,
+            "venue_id":857163777
+        }
+    ],
+    "wof:id":857163777,
+    "wof:lastmodified":1464123439,
+    "wof:name":"Spilker & Co Inc",
+    "wof:parent_id":85803851,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -113.607372,
+    37.048581,
+    -113.607372,
+    37.048581
+],
+  "geometry": {"coordinates":[-113.607372,37.048581],"type":"Point"}
+}

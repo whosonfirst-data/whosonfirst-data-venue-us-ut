@@ -1,0 +1,87 @@
+{
+  "id": 857100383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.861185,40.767107,-111.861185,40.767107",
+    "geom:latitude":40.767107,
+    "geom:longitude":-111.861185,
+    "iso:country":"US",
+    "sg:address":"1006 E 100 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 359 8375",
+    "sg:postcode":"84102",
+    "sg:province":"UT",
+    "sg:tags":[
+        "information",
+        "alcoholism",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85853739,
+        85871021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3buOvL8o2ZTJ5KjdzDaDSk_40.767107_-111.861185@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121919,
+    "wof:geomhash":"0de881dc8ec74b0b30617f9d10c3c2a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85853739,
+            "region_id":85688567,
+            "venue_id":857100383
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871021,
+            "region_id":85688567,
+            "venue_id":857100383
+        }
+    ],
+    "wof:id":857100383,
+    "wof:lastmodified":1464121919,
+    "wof:name":"Utah Alcoholism Foundation Hse",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "alcoholism",
+        "treatment"
+    ]
+},
+  "bbox": [
+    -111.861185,
+    40.767107,
+    -111.861185,
+    40.767107
+],
+  "geometry": {"coordinates":[-111.86118500000001,40.767107],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857260525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.87659,40.619628,-111.87659,40.619628",
+    "geom:latitude":40.619628,
+    "geom:longitude":-111.87659,
+    "iso:country":"US",
+    "sg:address":"7287 S 525 E",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 562 1351",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728051,
+        102082877,
+        85848751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2v2enaolqHerHuNNczpuNw_40.619628_-111.876590@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125500,
+    "wof:geomhash":"23b8e71f0aec205e9f351188234a7765",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85848751,
+            "region_id":85688567,
+            "venue_id":857260525
+        }
+    ],
+    "wof:id":857260525,
+    "wof:lastmodified":1464125500,
+    "wof:name":"Full House Construction",
+    "wof:parent_id":85848751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -111.87659,
+    40.619628,
+    -111.87659,
+    40.619628
+],
+  "geometry": {"coordinates":[-111.87658999999999,40.619628],"type":"Point"}
+}

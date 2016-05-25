@@ -1,0 +1,68 @@
+{
+  "id": 857197807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.662952,40.240472,-111.662952,40.240472",
+    "geom:latitude":40.240472,
+    "geom:longitude":-111.662952,
+    "iso:country":"US",
+    "sg:address":"270 W 500 N",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 852 6620",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54ohjoKvA6ulA022E5Conh_40.240472_-111.662952@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124135,
+    "wof:geomhash":"a320176c71fbf6442287e65776339faf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880121,
+            "region_id":85688567,
+            "venue_id":857197807
+        }
+    ],
+    "wof:id":857197807,
+    "wof:lastmodified":1464124135,
+    "wof:name":"Provo Eldred Ctr",
+    "wof:parent_id":85880121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.662952,
+    40.240472,
+    -111.662952,
+    40.240472
+],
+  "geometry": {"coordinates":[-111.662952,40.240472],"type":"Point"}
+}

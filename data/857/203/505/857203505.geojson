@@ -1,0 +1,74 @@
+{
+  "id": 857203505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.970929,40.728646,-111.970929,40.728646",
+    "geom:latitude":40.728646,
+    "geom:longitude":-111.970929,
+    "iso:country":"US",
+    "sg:address":"3388 W 1987 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 972 7400",
+    "sg:postcode":"84104",
+    "sg:province":"UT",
+    "sg:tags":[
+        "beverage"
+    ],
+    "sg:website":"www.pepsi.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85844521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zK8M9kaVe9a3evAapufJB_40.728646_-111.970929@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124251,
+    "wof:geomhash":"792b815fa9e2b3f9adf1d55150658f3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85844521,
+            "region_id":85688567,
+            "venue_id":857203505
+        }
+    ],
+    "wof:id":857203505,
+    "wof:lastmodified":1464124251,
+    "wof:name":"Pepsi Bottling Group",
+    "wof:parent_id":85844521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beverage"
+    ]
+},
+  "bbox": [
+    -111.970929,
+    40.728646,
+    -111.970929,
+    40.728646
+],
+  "geometry": {"coordinates":[-111.970929,40.728646],"type":"Point"}
+}

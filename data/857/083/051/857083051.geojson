@@ -1,0 +1,71 @@
+{
+  "id": 857083051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.939282,41.6372,-111.939282,41.6372",
+    "geom:latitude":41.6372,
+    "geom:longitude":-111.939282,
+    "iso:country":"US",
+    "sg:address":"76 S 200 W",
+    "sg:city":"Wellsville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 245 6745",
+    "sg:postcode":"84339",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dwelling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727555,
+        102082881,
+        85823067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NbWJwnGAfl9tg2cohbULH_41.637200_-111.939282@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121487,
+    "wof:geomhash":"1cffa6b00d7df9f4baaf00770c8b16f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727555,
+            "neighbourhood_id":85823067,
+            "region_id":85688567,
+            "venue_id":857083051
+        }
+    ],
+    "wof:id":857083051,
+    "wof:lastmodified":1464121487,
+    "wof:name":"Zezeger Jerry",
+    "wof:parent_id":85823067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dwelling"
+    ]
+},
+  "bbox": [
+    -111.939282,
+    41.6372,
+    -111.939282,
+    41.6372
+],
+  "geometry": {"coordinates":[-111.93928200000001,41.6372],"type":"Point"}
+}

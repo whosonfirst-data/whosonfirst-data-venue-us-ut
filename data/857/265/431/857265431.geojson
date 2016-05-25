@@ -1,0 +1,75 @@
+{
+  "id": 857265431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.9482,40.601934,-111.9482,40.601934",
+    "geom:latitude":40.601934,
+    "geom:longitude":-111.9482,
+    "iso:country":"US",
+    "sg:address":"8125 S 2200 W",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 569 5090",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85817621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_336jucqDmd3cZzLqH9JTJd_40.601934_-111.948200@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125600,
+    "wof:geomhash":"e5e344970ba0110ca12dcfb247b48a46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85817621,
+            "region_id":85688567,
+            "venue_id":857265431
+        }
+    ],
+    "wof:id":857265431,
+    "wof:lastmodified":1464125600,
+    "wof:name":"West Jordan Swimming Pool",
+    "wof:parent_id":85817621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -111.9482,
+    40.601934,
+    -111.9482,
+    40.601934
+],
+  "geometry": {"coordinates":[-111.9482,40.601934],"type":"Point"}
+}

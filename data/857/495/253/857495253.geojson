@@ -1,0 +1,87 @@
+{
+  "id": 857495253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.66923,40.264462,-111.66923,40.264462",
+    "geom:latitude":40.264462,
+    "geom:longitude":-111.66923,
+    "iso:country":"US",
+    "sg:address":"2302 N University Pkwy",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/provo-orem/184422-cold-stone-creamery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 4703",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bnBdYixun9ILDzqGEUOZS_40.264631_-111.669386@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130786,
+    "wof:geomhash":"37aa1a006d9154c1bfc6600d7b3e35f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880063,
+            "region_id":85688567,
+            "venue_id":857495253
+        }
+    ],
+    "wof:id":857495253,
+    "wof:lastmodified":1464130786,
+    "wof:name":"Cold Stone Creamery",
+    "wof:parent_id":85880063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -111.66923,
+    40.264462,
+    -111.66923,
+    40.264462
+],
+  "geometry": {"coordinates":[-111.66923,40.264462],"type":"Point"}
+}

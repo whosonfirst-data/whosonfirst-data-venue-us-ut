@@ -1,0 +1,73 @@
+{
+  "id": 857452591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.814676,41.750215,-111.814676,41.750215",
+    "geom:latitude":41.750215,
+    "geom:longitude":-111.814676,
+    "iso:country":"US",
+    "sg:address":"777 E 1000 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 7501",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6q1Y3VWNHSqaByaJ853K3R_41.750215_-111.814676@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129809,
+    "wof:geomhash":"eebbdee56b4682b6e8d363cf6191609e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857452591
+        }
+    ],
+    "wof:id":857452591,
+    "wof:lastmodified":1464129809,
+    "wof:name":"Old Farm Apartments",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -111.814676,
+    41.750215,
+    -111.814676,
+    41.750215
+],
+  "geometry": {"coordinates":[-111.81467600000001,41.750215],"type":"Point"}
+}

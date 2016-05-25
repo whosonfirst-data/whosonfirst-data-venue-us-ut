@@ -1,0 +1,84 @@
+{
+  "id": 857373613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.871345,40.709958,-111.871345,40.709958",
+    "geom:latitude":40.709958,
+    "geom:longitude":-111.871345,
+    "iso:country":"US",
+    "sg:address":"2780 S 700 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 483 5418",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "course"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85858223,
+        101728075,
+        85871027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jyyHAG1BO8ZgswR0mA5PE_40.709958_-111.871345@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127982,
+    "wof:geomhash":"c5a134460d33692b5959ff81e5cc6125",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85858223,
+            "region_id":85688567,
+            "venue_id":857373613
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871027,
+            "region_id":85688567,
+            "venue_id":857373613
+        }
+    ],
+    "wof:id":857373613,
+    "wof:lastmodified":1464127982,
+    "wof:name":"Nibley Park Golf Course",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course"
+    ]
+},
+  "bbox": [
+    -111.871345,
+    40.709958,
+    -111.871345,
+    40.709958
+],
+  "geometry": {"coordinates":[-111.87134500000001,40.709958],"type":"Point"}
+}

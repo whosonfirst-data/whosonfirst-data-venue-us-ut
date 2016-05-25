@@ -1,0 +1,71 @@
+{
+  "id": 857375759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.856336,41.758022,-111.856336,41.758022",
+    "geom:latitude":41.758022,
+    "geom:longitude":-111.856336,
+    "iso:country":"US",
+    "sg:address":"875 W 1400 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 1460",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "educational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nikanpdjJgMHnjEcStdVH_41.758022_-111.856336@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128028,
+    "wof:geomhash":"d3fdeeced444e3729dc8c8e2fc88a26e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857375759
+        }
+    ],
+    "wof:id":857375759,
+    "wof:lastmodified":1464128028,
+    "wof:name":"Lindsey Educational Svc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational"
+    ]
+},
+  "bbox": [
+    -111.856336,
+    41.758022,
+    -111.856336,
+    41.758022
+],
+  "geometry": {"coordinates":[-111.856336,41.758022],"type":"Point"}
+}

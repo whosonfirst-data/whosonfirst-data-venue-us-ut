@@ -1,0 +1,73 @@
+{
+  "id": 857433587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.9088,41.002364,-111.9088,41.002364",
+    "geom:latitude":41.002364,
+    "geom:longitude":-111.9088,
+    "iso:country":"US",
+    "sg:address":"1271 US Hwy 89",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 4590",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uQPNvCGXbHXzXW5HuuctP_41.002364_-111.908800@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129440,
+    "wof:geomhash":"ea316fab2b86fedb381b94faf0413ed0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857433587
+        }
+    ],
+    "wof:id":857433587,
+    "wof:lastmodified":1464129440,
+    "wof:name":"Burt Brothers Tire & Service",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "supply"
+    ]
+},
+  "bbox": [
+    -111.9088,
+    41.002364,
+    -111.9088,
+    41.002364
+],
+  "geometry": {"coordinates":[-111.9088,41.002364],"type":"Point"}
+}

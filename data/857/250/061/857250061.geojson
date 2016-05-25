@@ -1,0 +1,75 @@
+{
+  "id": 857250061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.963997,41.044959,-111.963997,41.044959",
+    "geom:latitude":41.044959,
+    "geom:longitude":-111.963997,
+    "iso:country":"US",
+    "sg:address":"1205 Flint Meadow Dr",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 546 0927",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7F54sVpMGCUIp9D2ErSVBS_41.044959_-111.963997@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125243,
+    "wof:geomhash":"ade9fed22520a530003d6e14eafb497d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857250061
+        }
+    ],
+    "wof:id":857250061,
+    "wof:lastmodified":1464125243,
+    "wof:name":"American Leak Detection",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.963997,
+    41.044959,
+    -111.963997,
+    41.044959
+],
+  "geometry": {"coordinates":[-111.96399700000001,41.044959],"type":"Point"}
+}

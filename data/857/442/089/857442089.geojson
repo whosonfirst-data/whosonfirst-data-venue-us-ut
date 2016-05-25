@@ -1,0 +1,73 @@
+{
+  "id": 857442089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.810847,40.672341,-111.810847,40.672341",
+    "geom:latitude":40.672341,
+    "geom:longitude":-111.810847,
+    "iso:country":"US",
+    "sg:address":"2805 Cherry Blossom Ln",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 278 1041",
+    "sg:postcode":"84117",
+    "sg:province":"UT",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728049,
+        102082877,
+        85807679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZXWFwSPeTDw0ZIyomdKPf_40.672341_-111.810847@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129606,
+    "wof:geomhash":"002de3fdfa17d639f4d719ceeee8cf69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728049,
+            "neighbourhood_id":85807679,
+            "region_id":85688567,
+            "venue_id":857442089
+        }
+    ],
+    "wof:id":857442089,
+    "wof:lastmodified":1464129606,
+    "wof:name":"Riches Maintenance Landsc",
+    "wof:parent_id":85807679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -111.810847,
+    40.672341,
+    -111.810847,
+    40.672341
+],
+  "geometry": {"coordinates":[-111.810847,40.672341],"type":"Point"}
+}

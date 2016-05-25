@@ -1,0 +1,71 @@
+{
+  "id": 857236123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.732654,40.045666,-111.732654,40.045666",
+    "geom:latitude":40.045666,
+    "geom:longitude":-111.732654,
+    "iso:country":"US",
+    "sg:address":"97 W 200 N",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 4474",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oZ6i6B7X6uO2vTOGYggrt_40.045666_-111.732654@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124928,
+    "wof:geomhash":"6823a33aad3af4c71b0fdc0c7eab5146",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857236123
+        }
+    ],
+    "wof:id":857236123,
+    "wof:lastmodified":1464124928,
+    "wof:name":"Kevin J Reece DDS",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -111.732654,
+    40.045666,
+    -111.732654,
+    40.045666
+],
+  "geometry": {"coordinates":[-111.732654,40.045666],"type":"Point"}
+}

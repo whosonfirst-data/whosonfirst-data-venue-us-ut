@@ -1,0 +1,75 @@
+{
+  "id": 857434661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.942028,41.088877,-111.942028,41.088877",
+    "geom:latitude":41.088877,
+    "geom:longitude":-111.942028,
+    "iso:country":"US",
+    "sg:address":"1997 N 1250 E",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 543 2298",
+    "sg:postcode":"84040",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hlN05aWZc3r6ynSGZ2yjs_41.088877_-111.942028@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129458,
+    "wof:geomhash":"be10c2792f6fef47217af256071b0f26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857434661
+        }
+    ],
+    "wof:id":857434661,
+    "wof:lastmodified":1464129458,
+    "wof:name":"Dynamic Electrical Systems",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.942028,
+    41.088877,
+    -111.942028,
+    41.088877
+],
+  "geometry": {"coordinates":[-111.94202799999999,41.088877],"type":"Point"}
+}

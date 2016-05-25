@@ -1,0 +1,77 @@
+{
+  "id": 857432091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.026032,41.157527,-112.026032,41.157527",
+    "geom:latitude":41.157527,
+    "geom:longitude":-112.026032,
+    "iso:country":"US",
+    "sg:address":"5948 S 1900 W",
+    "sg:city":"Roy",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 825 8755",
+    "sg:postcode":"84067",
+    "sg:province":"UT",
+    "sg:tags":[
+        "state",
+        "liquor",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728023,
+        102083539,
+        85843307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ALDKqGm2qX8yiFZDZi8Sz_41.157527_-112.026032@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129394,
+    "wof:geomhash":"18aa4e560907c78348f9631c8cb90379",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728023,
+            "neighbourhood_id":85843307,
+            "region_id":85688567,
+            "venue_id":857432091
+        }
+    ],
+    "wof:id":857432091,
+    "wof:lastmodified":1464129394,
+    "wof:name":"State Liquor Store 23",
+    "wof:parent_id":85843307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "liquor",
+        "store"
+    ]
+},
+  "bbox": [
+    -112.026032,
+    41.157527,
+    -112.026032,
+    41.157527
+],
+  "geometry": {"coordinates":[-112.026032,41.157527],"type":"Point"}
+}

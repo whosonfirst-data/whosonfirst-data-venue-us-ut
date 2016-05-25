@@ -1,0 +1,73 @@
+{
+  "id": 857389979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834724,41.739142,-111.834724,41.739142",
+    "geom:latitude":41.739142,
+    "geom:longitude":-111.834724,
+    "iso:country":"US",
+    "sg:address":"491 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 6222",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "life",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pdMjTwQtNrLYtZtdRZFGa_41.739142_-111.834724@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128431,
+    "wof:geomhash":"14486bd520c1d800454d20c797a573f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857389979
+        }
+    ],
+    "wof:id":857389979,
+    "wof:lastmodified":1464128431,
+    "wof:name":"American Gen Insur Securities",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "life",
+        "health"
+    ]
+},
+  "bbox": [
+    -111.834724,
+    41.739142,
+    -111.834724,
+    41.739142
+],
+  "geometry": {"coordinates":[-111.83472399999999,41.739142],"type":"Point"}
+}

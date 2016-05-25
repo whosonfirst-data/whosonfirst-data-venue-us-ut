@@ -1,0 +1,69 @@
+{
+  "id": 857374309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.692908,40.227741,-111.692908,40.227741",
+    "geom:latitude":40.227741,
+    "geom:longitude":-111.692908,
+    "iso:country":"US",
+    "sg:address":"441 S 1920 W",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 375 4895",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880073,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0o2braksAomYkqM4m3r009_40.227741_-111.692908@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127995,
+    "wof:geomhash":"ba351cb822e5a307eea0b095e774c6c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880073,
+            "region_id":85688567,
+            "venue_id":857374309
+        }
+    ],
+    "wof:id":857374309,
+    "wof:lastmodified":1464127995,
+    "wof:name":"Janells Salon of Beauty",
+    "wof:parent_id":85880073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.692908,
+    40.227741,
+    -111.692908,
+    40.227741
+],
+  "geometry": {"coordinates":[-111.692908,40.227741],"type":"Point"}
+}

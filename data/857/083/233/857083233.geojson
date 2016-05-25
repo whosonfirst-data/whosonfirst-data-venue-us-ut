@@ -1,0 +1,75 @@
+{
+  "id": 857083233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.898329,40.535025,-111.898329,40.535025",
+    "geom:latitude":40.535025,
+    "geom:longitude":-111.898329,
+    "iso:country":"US",
+    "sg:address":"170 Election Rd",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 619 4728",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dealer",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727849,
+        102082877,
+        85845115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CtA0khQHa3fPmdSjeRwK4_40.535025_-111.898329@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121491,
+    "wof:geomhash":"dcf593ae3b204db9f90d79c994f44216",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85845115,
+            "region_id":85688567,
+            "venue_id":857083233
+        }
+    ],
+    "wof:id":857083233,
+    "wof:lastmodified":1464121491,
+    "wof:name":"I Boats",
+    "wof:parent_id":85845115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "sales"
+    ]
+},
+  "bbox": [
+    -111.898329,
+    40.535025,
+    -111.898329,
+    40.535025
+],
+  "geometry": {"coordinates":[-111.898329,40.535025],"type":"Point"}
+}

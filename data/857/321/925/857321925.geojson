@@ -1,0 +1,73 @@
+{
+  "id": 857321925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.901551,40.879493,-111.901551,40.879493",
+    "geom:latitude":40.879493,
+    "geom:longitude":-111.901551,
+    "iso:country":"US",
+    "sg:address":"716 W 1000 S",
+    "sg:city":"Woods Cross",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 688 2633",
+    "sg:postcode":"84087",
+    "sg:province":"UT",
+    "sg:tags":[
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727887,
+        102083563,
+        85851805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fyXqAPUxHmcZAH399adJo_40.879493_-111.901551@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126887,
+    "wof:geomhash":"b541e956f7a7d6f3c502c31809f4c9c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727887,
+            "neighbourhood_id":85851805,
+            "region_id":85688567,
+            "venue_id":857321925
+        }
+    ],
+    "wof:id":857321925,
+    "wof:lastmodified":1464126887,
+    "wof:name":"Limousine Royale LLC",
+    "wof:parent_id":85851805,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine"
+    ]
+},
+  "bbox": [
+    -111.901551,
+    40.879493,
+    -111.901551,
+    40.879493
+],
+  "geometry": {"coordinates":[-111.901551,40.879493],"type":"Point"}
+}

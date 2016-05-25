@@ -1,0 +1,76 @@
+{
+  "id": 857172013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.918977,40.716976,-111.918977,40.716976",
+    "geom:latitude":40.716976,
+    "geom:longitude":-111.918977,
+    "iso:country":"US",
+    "sg:address":"1018 Bradsley Pl",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 413 1300",
+    "sg:postcode":"84119",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "sg:website":"www.taylor-electric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85810735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hfzJc2x95PHZQHATlfZbu_40.716976_-111.918977@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123626,
+    "wof:geomhash":"a894984157672e351b5ded3327d3eab6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85810735,
+            "region_id":85688567,
+            "venue_id":857172013
+        }
+    ],
+    "wof:id":857172013,
+    "wof:lastmodified":1464123626,
+    "wof:name":"Taylor Electric",
+    "wof:parent_id":85810735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.918977,
+    40.716976,
+    -111.918977,
+    40.716976
+],
+  "geometry": {"coordinates":[-111.918977,40.716976],"type":"Point"}
+}

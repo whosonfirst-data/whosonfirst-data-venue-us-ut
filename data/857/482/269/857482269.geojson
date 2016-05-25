@@ -1,0 +1,75 @@
+{
+  "id": 857482269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.858658,40.534,-111.858658,40.534",
+    "geom:latitude":40.534,
+    "geom:longitude":-111.858658,
+    "iso:country":"US",
+    "sg:address":"11934 Cedar Ridge Rd",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 576 9606",
+    "sg:postcode":"84094",
+    "sg:province":"UT",
+    "sg:tags":[
+        "pathologist",
+        "speech"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727849,
+        102082877,
+        85815193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Dn3Bxjv3LAj7jOO1STW4T_40.534000_-111.858658@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130414,
+    "wof:geomhash":"3b9ae5ad9bb2bb84986664716e97029c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85815193,
+            "region_id":85688567,
+            "venue_id":857482269
+        }
+    ],
+    "wof:id":857482269,
+    "wof:lastmodified":1464130414,
+    "wof:name":"Linda R White",
+    "wof:parent_id":85815193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pathologist",
+        "speech"
+    ]
+},
+  "bbox": [
+    -111.858658,
+    40.534,
+    -111.858658,
+    40.534
+],
+  "geometry": {"coordinates":[-111.85865800000001,40.534],"type":"Point"}
+}

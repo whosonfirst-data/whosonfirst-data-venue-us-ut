@@ -1,0 +1,75 @@
+{
+  "id": 857299501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.880016,40.661282,-111.880016,40.661282",
+    "geom:latitude":40.661282,
+    "geom:longitude":-111.880016,
+    "iso:country":"US",
+    "sg:address":"363 E Vine St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 264 4015",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mormon",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85849577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uoJAjdvQwRo3v1CnLL12f_40.661282_-111.880016@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126400,
+    "wof:geomhash":"563b2d74a7acbacc17e6ae40c0c69f77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85849577,
+            "region_id":85688567,
+            "venue_id":857299501
+        }
+    ],
+    "wof:id":857299501,
+    "wof:lastmodified":1464126400,
+    "wof:name":"Murray Twenty-Fifth Ward",
+    "wof:parent_id":85849577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mormon",
+        "church"
+    ]
+},
+  "bbox": [
+    -111.880016,
+    40.661282,
+    -111.880016,
+    40.661282
+],
+  "geometry": {"coordinates":[-111.880016,40.661282],"type":"Point"}
+}

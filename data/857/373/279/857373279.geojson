@@ -1,0 +1,69 @@
+{
+  "id": 857373279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.863045,41.333549,-111.863045,41.333549",
+    "geom:latitude":41.333549,
+    "geom:longitude":-111.863045,
+    "iso:country":"US",
+    "sg:address":"3722 E 4100 N",
+    "sg:city":"Eden",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 745 3856",
+    "sg:postcode":"84310",
+    "sg:province":"UT",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85824645,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CFiBvewKPxY9mBRlAAVa7_41.333549_-111.863045@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127976,
+    "wof:geomhash":"a8a6f741241816ee58d973a1745a1ca6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85824645,
+            "region_id":85688567,
+            "venue_id":857373279
+        }
+    ],
+    "wof:id":857373279,
+    "wof:lastmodified":1464127976,
+    "wof:name":"Liberty Pipeline Co",
+    "wof:parent_id":85824645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -111.863045,
+    41.333549,
+    -111.863045,
+    41.333549
+],
+  "geometry": {"coordinates":[-111.863045,41.333549],"type":"Point"}
+}

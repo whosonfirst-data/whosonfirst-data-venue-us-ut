@@ -1,0 +1,74 @@
+{
+  "id": 857242883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.835089,41.730739,-111.835089,41.730739",
+    "geom:latitude":41.730739,
+    "geom:longitude":-111.835089,
+    "iso:country":"US",
+    "sg:address":"51 S Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 0085",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "photographer",
+        "photo"
+    ],
+    "sg:website":"www.mackleyphoto.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PBkvV8z63bEBNnm7IdaSE_41.730739_-111.835089@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125081,
+    "wof:geomhash":"3edde5769cfa32f66bc0d698b68c4538",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857242883
+        }
+    ],
+    "wof:id":857242883,
+    "wof:lastmodified":1464125081,
+    "wof:name":"Mackley Designer Portraiture",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer",
+        "photo"
+    ]
+},
+  "bbox": [
+    -111.835089,
+    41.730739,
+    -111.835089,
+    41.730739
+],
+  "geometry": {"coordinates":[-111.835089,41.730739],"type":"Point"}
+}

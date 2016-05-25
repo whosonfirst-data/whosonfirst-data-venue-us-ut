@@ -1,0 +1,71 @@
+{
+  "id": 857447389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.875291,41.639196,-111.875291,41.639196",
+    "geom:latitude":41.639196,
+    "geom:longitude":-111.875291,
+    "iso:country":"US",
+    "sg:address":"245 N 750 W",
+    "sg:city":"Hyrum",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 245 4131",
+    "sg:postcode":"84319",
+    "sg:province":"UT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727555,
+        102082881,
+        85823067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SjckEy3rECxVWNfKBCt1v_41.639196_-111.875291@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129710,
+    "wof:geomhash":"bb4ea6189e41a0d124591f2a5b0edffc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727555,
+            "neighbourhood_id":85823067,
+            "region_id":85688567,
+            "venue_id":857447389
+        }
+    ],
+    "wof:id":857447389,
+    "wof:lastmodified":1464129710,
+    "wof:name":"Church Of Jesus Christ Of Lds",
+    "wof:parent_id":85823067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -111.875291,
+    41.639196,
+    -111.875291,
+    41.639196
+],
+  "geometry": {"coordinates":[-111.875291,41.639196],"type":"Point"}
+}

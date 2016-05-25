@@ -1,0 +1,75 @@
+{
+  "id": 857290161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.864369,40.622242,-111.864369,40.622242",
+    "geom:latitude":40.622242,
+    "geom:longitude":-111.864369,
+    "iso:country":"US",
+    "sg:address":"924 Fort Union Blvd",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 535 1006",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728051,
+        102082877,
+        85804249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cMQR6s3kZucN7JthwUz0Q_40.622242_-111.864369@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126152,
+    "wof:geomhash":"8ce80110c3e8b8dd98bb4f69e720d0d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85804249,
+            "region_id":85688567,
+            "venue_id":857290161
+        }
+    ],
+    "wof:id":857290161,
+    "wof:lastmodified":1464126152,
+    "wof:name":"Keybank National Association",
+    "wof:parent_id":85804249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -111.864369,
+    40.622242,
+    -111.864369,
+    40.622242
+],
+  "geometry": {"coordinates":[-111.864369,40.622242],"type":"Point"}
+}

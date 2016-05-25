@@ -1,0 +1,73 @@
+{
+  "id": 857481919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.898779,40.758398,-111.898779,40.758398",
+    "geom:latitude":40.758398,
+    "geom:longitude":-111.898779,
+    "iso:country":"US",
+    "sg:address":"235 W 500 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 333 8588",
+    "sg:postcode":"84101",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85867259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ntNmAwqGun20W4jX5Pg7u_40.758398_-111.898779@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130405,
+    "wof:geomhash":"11e206c930e9178bfff0074654c91a31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85867259,
+            "region_id":85688567,
+            "venue_id":857481919
+        }
+    ],
+    "wof:id":857481919,
+    "wof:lastmodified":1464130405,
+    "wof:name":"Diamond Exec Detailing L C",
+    "wof:parent_id":85867259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -111.898779,
+    40.758398,
+    -111.898779,
+    40.758398
+],
+  "geometry": {"coordinates":[-111.898779,40.758398],"type":"Point"}
+}

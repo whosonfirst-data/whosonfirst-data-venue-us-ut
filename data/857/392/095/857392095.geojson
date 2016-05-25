@@ -1,0 +1,74 @@
+{
+  "id": 857392095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.831451,41.757563,-111.831451,41.757563",
+    "geom:latitude":41.757563,
+    "geom:longitude":-111.831451,
+    "iso:country":"US",
+    "sg:address":"133 E 1400 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 750 0221",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "national",
+        "commercial"
+    ],
+    "sg:website":"www.zionsbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nRblYnTXyNo9A1EnA9KUt_41.757563_-111.831451@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128468,
+    "wof:geomhash":"9994b8235184ac0ff8bd8ea807d27ea1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857392095
+        }
+    ],
+    "wof:id":857392095,
+    "wof:lastmodified":1464128468,
+    "wof:name":"Zions First National Bank",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -111.831451,
+    41.757563,
+    -111.831451,
+    41.757563
+],
+  "geometry": {"coordinates":[-111.831451,41.757563],"type":"Point"}
+}

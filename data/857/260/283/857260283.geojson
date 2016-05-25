@@ -1,0 +1,68 @@
+{
+  "id": 857260283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.967832,41.062142,-111.967832,41.062142",
+    "geom:latitude":41.062142,
+    "geom:longitude":-111.967832,
+    "iso:country":"US",
+    "sg:address":"197 N Main St",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 544 4344",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rqOs7Zdt96ayRXFrxmrOI_41.062142_-111.967832@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125495,
+    "wof:geomhash":"655175721539105987db93d1b0a77781",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857260283
+        }
+    ],
+    "wof:id":857260283,
+    "wof:lastmodified":1464125495,
+    "wof:name":"Gabor Brothers Main Street Grl",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.967832,
+    41.062142,
+    -111.967832,
+    41.062142
+],
+  "geometry": {"coordinates":[-111.967832,41.062142],"type":"Point"}
+}

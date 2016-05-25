@@ -1,0 +1,75 @@
+{
+  "id": 857317353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.901184,40.629158,-111.901184,40.629158",
+    "geom:latitude":40.629158,
+    "geom:longitude":-111.901184,
+    "iso:country":"US",
+    "sg:address":"6663 S 400 W",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 265 3763",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728051,
+        102082877,
+        85803901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hsma4ujkeQGlQeYPvlsdM_40.629158_-111.901184@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126778,
+    "wof:geomhash":"45d5e6c083f744ecfabf1293a944fc9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85803901,
+            "region_id":85688567,
+            "venue_id":857317353
+        }
+    ],
+    "wof:id":857317353,
+    "wof:lastmodified":1464126778,
+    "wof:name":"Western Auto",
+    "wof:parent_id":85803901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -111.901184,
+    40.629158,
+    -111.901184,
+    40.629158
+],
+  "geometry": {"coordinates":[-111.901184,40.629158],"type":"Point"}
+}

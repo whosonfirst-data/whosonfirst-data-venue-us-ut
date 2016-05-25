@@ -1,0 +1,73 @@
+{
+  "id": 857442607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.912052,41.804897,-111.912052,41.804897",
+    "geom:latitude":41.804897,
+    "geom:longitude":-111.912052,
+    "iso:country":"US",
+    "sg:address":"3830 N 3200 W",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 6506",
+    "sg:postcode":"84335",
+    "sg:province":"UT",
+    "sg:tags":[
+        "animal",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OH9c40DIe3luXbqEcSzCW_41.804897_-111.912052@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129615,
+    "wof:geomhash":"d43867118fba3da1c32a14eb2f8f880c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857442607
+        }
+    ],
+    "wof:id":857442607,
+    "wof:lastmodified":1464129615,
+    "wof:name":"Ballard Farms",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "animal",
+        "general"
+    ]
+},
+  "bbox": [
+    -111.912052,
+    41.804897,
+    -111.912052,
+    41.804897
+],
+  "geometry": {"coordinates":[-111.912052,41.804897],"type":"Point"}
+}

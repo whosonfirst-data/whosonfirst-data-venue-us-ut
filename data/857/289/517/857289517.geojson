@@ -1,0 +1,73 @@
+{
+  "id": 857289517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.983793,40.5079,-111.983793,40.5079",
+    "geom:latitude":40.5079,
+    "geom:longitude":-111.983793,
+    "iso:country":"US",
+    "sg:address":"3926 W 13400 S",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 446 6310",
+    "sg:postcode":"84065",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728045,
+        102082877,
+        85845111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uhlPzXsqYNq6OuhkbfG3j_40.507900_-111.983793@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126135,
+    "wof:geomhash":"a2bf1c014b5d65975a918195ca3c7bd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728045,
+            "neighbourhood_id":85845111,
+            "region_id":85688567,
+            "venue_id":857289517
+        }
+    ],
+    "wof:id":857289517,
+    "wof:lastmodified":1464126135,
+    "wof:name":"Lighthouse Dental",
+    "wof:parent_id":85845111,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -111.983793,
+    40.5079,
+    -111.983793,
+    40.5079
+],
+  "geometry": {"coordinates":[-111.98379300000001,40.5079],"type":"Point"}
+}

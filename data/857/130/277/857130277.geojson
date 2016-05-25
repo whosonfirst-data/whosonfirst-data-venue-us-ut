@@ -1,0 +1,73 @@
+{
+  "id": 857130277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.921442,40.865179,-111.921442,40.865179",
+    "geom:latitude":40.865179,
+    "geom:longitude":-111.921442,
+    "iso:country":"US",
+    "sg:address":"1653 W 2350 S",
+    "sg:city":"Woods Cross",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 295 3049",
+    "sg:postcode":"84087",
+    "sg:province":"UT",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727887,
+        102083563,
+        85848919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DuSVEdkCuG9lC69qBlCMP_40.865179_-111.921442@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122687,
+    "wof:geomhash":"31e254bf675ea3ac0fd285e90bb6f1d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727887,
+            "neighbourhood_id":85848919,
+            "region_id":85688567,
+            "venue_id":857130277
+        }
+    ],
+    "wof:id":857130277,
+    "wof:lastmodified":1464122687,
+    "wof:name":"Aero Services LLC",
+    "wof:parent_id":85848919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -111.921442,
+    40.865179,
+    -111.921442,
+    40.865179
+],
+  "geometry": {"coordinates":[-111.921442,40.865179],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857235941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.65112,40.111231,-111.65112,40.111231",
+    "geom:latitude":40.111231,
+    "geom:longitude":-111.65112,
+    "iso:country":"US",
+    "sg:address":"215 E 100 N",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 1234",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26CjmKlKy0mi7239wIpMmf_40.111231_-111.651120@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124923,
+    "wof:geomhash":"1cf41ec281490e0acf83ad9dd893c7a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857235941
+        }
+    ],
+    "wof:id":857235941,
+    "wof:lastmodified":1464124923,
+    "wof:name":"Kids Count Day Care Center",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -111.65112,
+    40.111231,
+    -111.65112,
+    40.111231
+],
+  "geometry": {"coordinates":[-111.65112000000001,40.111231],"type":"Point"}
+}

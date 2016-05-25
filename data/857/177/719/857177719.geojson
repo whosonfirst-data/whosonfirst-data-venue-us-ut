@@ -1,0 +1,75 @@
+{
+  "id": 857177719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.717547,40.275316,-111.717547,40.275316",
+    "geom:latitude":40.275316,
+    "geom:longitude":-111.717547,
+    "iso:country":"US",
+    "sg:address":"800 W 1200 S",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 437 7650",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "broadcasting",
+        "co"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727827,
+        102083567,
+        85821287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67wBau80CCT1Md2KiARk0L_40.275316_-111.717547@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123746,
+    "wof:geomhash":"247b34f124a0fdf257142f366081986d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727827,
+            "neighbourhood_id":85821287,
+            "region_id":85688567,
+            "venue_id":857177719
+        }
+    ],
+    "wof:id":857177719,
+    "wof:lastmodified":1464123746,
+    "wof:name":"KSL TV News",
+    "wof:parent_id":85821287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broadcasting",
+        "co"
+    ]
+},
+  "bbox": [
+    -111.717547,
+    40.275316,
+    -111.717547,
+    40.275316
+],
+  "geometry": {"coordinates":[-111.717547,40.275316],"type":"Point"}
+}

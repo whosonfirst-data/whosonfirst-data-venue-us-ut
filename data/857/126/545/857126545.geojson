@@ -1,0 +1,71 @@
+{
+  "id": 857126545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.811234,40.390833,-111.811234,40.390833",
+    "geom:latitude":40.390833,
+    "geom:longitude":-111.811234,
+    "iso:country":"US",
+    "sg:address":"741 N 500 W",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 8654",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "operator",
+        "tour"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Xsj4UVnO3oROpCF64mMwh_40.390833_-111.811234@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122598,
+    "wof:geomhash":"1ddc5667ceefcf15836d4100c0835c4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857126545
+        }
+    ],
+    "wof:id":857126545,
+    "wof:lastmodified":1464122598,
+    "wof:name":"Tour Solutions",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "tour"
+    ]
+},
+  "bbox": [
+    -111.811234,
+    40.390833,
+    -111.811234,
+    40.390833
+],
+  "geometry": {"coordinates":[-111.811234,40.390833],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857390345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.826979,41.736304,-111.826979,41.736304",
+    "geom:latitude":41.736304,
+    "geom:longitude":-111.826979,
+    "iso:country":"US",
+    "sg:address":"264 N 300 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 2145",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "investment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ismo0BQX3iwg65uKvYEb9_41.736304_-111.826979@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128437,
+    "wof:geomhash":"ba966937a0bc301e90e66a386d691996",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857390345
+        }
+    ],
+    "wof:id":857390345,
+    "wof:lastmodified":1464128437,
+    "wof:name":"RSI Investments",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investment"
+    ]
+},
+  "bbox": [
+    -111.826979,
+    41.736304,
+    -111.826979,
+    41.736304
+],
+  "geometry": {"coordinates":[-111.82697899999999,41.736304],"type":"Point"}
+}

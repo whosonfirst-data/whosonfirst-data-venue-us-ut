@@ -1,0 +1,77 @@
+{
+  "id": 857307239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.878088,40.944232,-111.878088,40.944232",
+    "geom:latitude":40.944232,
+    "geom:longitude":-111.878088,
+    "iso:country":"US",
+    "sg:address":"1889 N 150 E",
+    "sg:city":"Centerville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 299 0184",
+    "sg:postcode":"84014",
+    "sg:province":"UT",
+    "sg:tags":[
+        "cat",
+        "dog",
+        "kennel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727879,
+        102083563,
+        85835559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LYKWLhFQqAaLVpLfbNBTN_40.944232_-111.878088@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126563,
+    "wof:geomhash":"29095938a569715054ecd9b42ea3c247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727879,
+            "neighbourhood_id":85835559,
+            "region_id":85688567,
+            "venue_id":857307239
+        }
+    ],
+    "wof:id":857307239,
+    "wof:lastmodified":1464126563,
+    "wof:name":"H & R Pet Sitters",
+    "wof:parent_id":85835559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cat",
+        "dog",
+        "kennel"
+    ]
+},
+  "bbox": [
+    -111.878088,
+    40.944232,
+    -111.878088,
+    40.944232
+],
+  "geometry": {"coordinates":[-111.87808800000001,40.944232],"type":"Point"}
+}

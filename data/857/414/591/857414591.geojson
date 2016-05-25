@@ -1,0 +1,75 @@
+{
+  "id": 857414591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.893236,41.641119,-111.893236,41.641119",
+    "geom:latitude":41.641119,
+    "geom:longitude":-111.893236,
+    "iso:country":"US",
+    "sg:address":"2409 W Hwy 101",
+    "sg:city":"Hyrum",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 245 3312",
+    "sg:postcode":"84319",
+    "sg:province":"UT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727555,
+        102082881,
+        85823067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13dnzxDYSPIiP8LfTy0Td9_41.641119_-111.893236@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128957,
+    "wof:geomhash":"e13ff1e81b07cb5d865228d719afc1d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727555,
+            "neighbourhood_id":85823067,
+            "region_id":85688567,
+            "venue_id":857414591
+        }
+    ],
+    "wof:id":857414591,
+    "wof:lastmodified":1464128957,
+    "wof:name":"Evan Brown Trucking",
+    "wof:parent_id":85823067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -111.893236,
+    41.641119,
+    -111.893236,
+    41.641119
+],
+  "geometry": {"coordinates":[-111.893236,41.641119],"type":"Point"}
+}

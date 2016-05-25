@@ -1,0 +1,76 @@
+{
+  "id": 857492069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.893455,40.620597,-111.893455,40.620597",
+    "geom:latitude":40.620597,
+    "geom:longitude":-111.893455,
+    "iso:country":"US",
+    "sg:address":"7200 South 87 West",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/34838-light-house-diner/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 565 0567",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728051,
+        102082877,
+        85851957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kAxY4rybnoKig8aIdFEhR_40.620597_-111.893455@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130664,
+    "wof:geomhash":"82ba7d39e2e367be01b4a7848df5f60b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85851957,
+            "region_id":85688567,
+            "venue_id":857492069
+        }
+    ],
+    "wof:id":857492069,
+    "wof:lastmodified":1464130664,
+    "wof:name":"Light House Diner",
+    "wof:parent_id":85851957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -111.893455,
+    40.620597,
+    -111.893455,
+    40.620597
+],
+  "geometry": {"coordinates":[-111.893455,40.620597],"type":"Point"}
+}

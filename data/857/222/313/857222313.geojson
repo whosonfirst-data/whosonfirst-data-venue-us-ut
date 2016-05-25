@@ -1,0 +1,73 @@
+{
+  "id": 857222313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.935726,40.587845,-111.935726,40.587845",
+    "geom:latitude":40.587845,
+    "geom:longitude":-111.935726,
+    "iso:country":"US",
+    "sg:address":"1658 W 9000 S",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 565 0055",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85832913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mSRE9lZ1YYe4fcB5mSvAx_40.587845_-111.935726@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124662,
+    "wof:geomhash":"91e483fbb132dc12fbe3fb75698d9f5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85832913,
+            "region_id":85688567,
+            "venue_id":857222313
+        }
+    ],
+    "wof:id":857222313,
+    "wof:lastmodified":1464124662,
+    "wof:name":"Village Baker",
+    "wof:parent_id":85832913,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.935726,
+    40.587845,
+    -111.935726,
+    40.587845
+],
+  "geometry": {"coordinates":[-111.935726,40.587845],"type":"Point"}
+}

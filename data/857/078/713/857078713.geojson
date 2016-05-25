@@ -1,0 +1,75 @@
+{
+  "id": 857078713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.045696,41.07735,-112.045696,41.07735",
+    "geom:latitude":41.07735,
+    "geom:longitude":-112.045696,
+    "iso:country":"US",
+    "sg:address":"1101 W 2500 S",
+    "sg:city":"Syracuse",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 779 4003",
+    "sg:postcode":"84075",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727889,
+        102083563,
+        85804563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yHvdW9EEHnIBwg75IaEhF_41.077350_-112.045696@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121369,
+    "wof:geomhash":"fbcf8b07be1d78a1e4ada0d491d21226",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727889,
+            "neighbourhood_id":85804563,
+            "region_id":85688567,
+            "venue_id":857078713
+        }
+    ],
+    "wof:id":857078713,
+    "wof:lastmodified":1464121369,
+    "wof:name":"Rtr Properties Inc",
+    "wof:parent_id":85804563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -112.045696,
+    41.07735,
+    -112.045696,
+    41.07735
+],
+  "geometry": {"coordinates":[-112.04569600000001,41.07735],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857482099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.832186,41.734509,-111.832186,41.734509",
+    "geom:latitude":41.734509,
+    "geom:longitude":-111.832186,
+    "iso:country":"US",
+    "sg:address":"180 N 100 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 7115",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2n1YbSTyuzTB1Dcx9e4Dt7_41.734509_-111.832186@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130411,
+    "wof:geomhash":"4dd4ecb6503d0f650e1b9258a2715ad3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857482099
+        }
+    ],
+    "wof:id":857482099,
+    "wof:lastmodified":1464130411,
+    "wof:name":"Northern Utah Mortgage & Loan",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -111.832186,
+    41.734509,
+    -111.832186,
+    41.734509
+],
+  "geometry": {"coordinates":[-111.83218599999999,41.734509],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857111657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.849,41.771726,-111.849,41.771726",
+    "geom:latitude":41.771726,
+    "geom:longitude":-111.849,
+    "iso:country":"US",
+    "sg:address":"2051 N 600 W",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 713 6297",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0B3g0nPWqyndTJ4Nz7Mdgh_41.771726_-111.849000@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122226,
+    "wof:geomhash":"92bf78801823823924fffee8949ed1f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857111657
+        }
+    ],
+    "wof:id":857111657,
+    "wof:lastmodified":1464122226,
+    "wof:name":"Youth Corrections Logan",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -111.849,
+    41.771726,
+    -111.849,
+    41.771726
+],
+  "geometry": {"coordinates":[-111.849,41.771726],"type":"Point"}
+}

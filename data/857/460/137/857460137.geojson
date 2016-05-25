@@ -1,0 +1,73 @@
+{
+  "id": 857460137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.029784,41.13266,-112.029784,41.13266",
+    "geom:latitude":41.13266,
+    "geom:longitude":-112.029784,
+    "iso:country":"US",
+    "sg:address":"200 W 1300 N",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 825 1620",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85851583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tF0T0GM7NQPEsAkrQ5KNm_41.132660_-112.029784@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129952,
+    "wof:geomhash":"4a5c95b627d43e03a3bd5ac19b9f4764",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85851583,
+            "region_id":85688567,
+            "venue_id":857460137
+        }
+    ],
+    "wof:id":857460137,
+    "wof:lastmodified":1464129952,
+    "wof:name":"Sunset Police Dept",
+    "wof:parent_id":85851583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -112.029784,
+    41.13266,
+    -112.029784,
+    41.13266
+],
+  "geometry": {"coordinates":[-112.02978400000001,41.13266],"type":"Point"}
+}

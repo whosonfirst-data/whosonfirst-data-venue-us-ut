@@ -1,0 +1,71 @@
+{
+  "id": 857467851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.787287,41.784925,-111.787287,41.784925",
+    "geom:latitude":41.784925,
+    "geom:longitude":-111.787287,
+    "iso:country":"US",
+    "sg:address":"1910 Canyon Ridge Dr",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 2593",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tpTHSTRk2V5FMBJXVaohP_41.784925_-111.787287@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130121,
+    "wof:geomhash":"a191429d6e227c5388b46fd8a583c5f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857467851
+        }
+    ],
+    "wof:id":857467851,
+    "wof:lastmodified":1464130121,
+    "wof:name":"Summit Air",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "program"
+    ]
+},
+  "bbox": [
+    -111.787287,
+    41.784925,
+    -111.787287,
+    41.784925
+],
+  "geometry": {"coordinates":[-111.78728700000001,41.784925],"type":"Point"}
+}

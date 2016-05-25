@@ -1,0 +1,78 @@
+{
+  "id": 857349339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.827277,41.735147,-111.827277,41.735147",
+    "geom:latitude":41.735147,
+    "geom:longitude":-111.827277,
+    "iso:country":"US",
+    "sg:address":"297 E 200 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 7620",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mZtvAUNmyCjNq0FtU3nQs_41.735147_-111.827277@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127473,
+    "wof:geomhash":"0eb8616523593b6cbc0c834af5447c1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857349339
+        }
+    ],
+    "wof:id":857349339,
+    "wof:lastmodified":1464127473,
+    "wof:name":"Sierra Associates Inc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.827277,
+    41.735147,
+    -111.827277,
+    41.735147
+],
+  "geometry": {"coordinates":[-111.827277,41.735147],"type":"Point"}
+}

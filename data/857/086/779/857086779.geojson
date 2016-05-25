@@ -1,0 +1,71 @@
+{
+  "id": 857086779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.631241,40.209915,-111.631241,40.209915",
+    "geom:latitude":40.209915,
+    "geom:longitude":-111.631241,
+    "iso:country":"US",
+    "sg:address":"1745 S State St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 370 6648",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727863,
+        102083567,
+        85880103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72rVVoZlqptb8ljqfRnbvf_40.209915_-111.631241@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121577,
+    "wof:geomhash":"4d51ee4440a216822e3daf90699edb59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880103,
+            "region_id":85688567,
+            "venue_id":857086779
+        }
+    ],
+    "wof:id":857086779,
+    "wof:lastmodified":1464121577,
+    "wof:name":"Church Of Jesus Christ Of Lds",
+    "wof:parent_id":85880103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -111.631241,
+    40.209915,
+    -111.631241,
+    40.209915
+],
+  "geometry": {"coordinates":[-111.631241,40.209915],"type":"Point"}
+}

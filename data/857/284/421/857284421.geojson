@@ -1,0 +1,77 @@
+{
+  "id": 857284421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.875721,40.762829,-111.875721,40.762829",
+    "geom:latitude":40.762829,
+    "geom:longitude":-111.875721,
+    "iso:country":"US",
+    "sg:address":"501 E 300 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 355 1725",
+    "sg:postcode":"84102",
+    "sg:province":"UT",
+    "sg:tags":[
+        "cleaners",
+        "plant",
+        "drycleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RPMkSmk7ifXBCnJB2WIcU_40.762829_-111.875721@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126008,
+    "wof:geomhash":"77436d7bf77366130bf6e27a71b5ebdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871021,
+            "region_id":85688567,
+            "venue_id":857284421
+        }
+    ],
+    "wof:id":857284421,
+    "wof:lastmodified":1464126008,
+    "wof:name":"Classic Cleaners Inc",
+    "wof:parent_id":85871021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "plant",
+        "drycleaning"
+    ]
+},
+  "bbox": [
+    -111.875721,
+    40.762829,
+    -111.875721,
+    40.762829
+],
+  "geometry": {"coordinates":[-111.875721,40.762829],"type":"Point"}
+}

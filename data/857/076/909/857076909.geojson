@@ -1,0 +1,75 @@
+{
+  "id": 857076909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.826004,40.749545,-111.826004,40.749545",
+    "geom:latitude":40.749545,
+    "geom:longitude":-111.826004,
+    "iso:country":"US",
+    "sg:address":"2280 E 900 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 554 8233",
+    "sg:postcode":"84108",
+    "sg:province":"UT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Nquax4xhgDyHBgnBUhmDq_40.749545_-111.826004@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121331,
+    "wof:geomhash":"d28387b083d38c368b1fe3138f00ec98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871023,
+            "region_id":85688567,
+            "venue_id":857076909
+        }
+    ],
+    "wof:id":857076909,
+    "wof:lastmodified":1464121331,
+    "wof:name":"Schocker Sprinkler & Landscape",
+    "wof:parent_id":85871023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.826004,
+    40.749545,
+    -111.826004,
+    40.749545
+],
+  "geometry": {"coordinates":[-111.826004,40.749545],"type":"Point"}
+}

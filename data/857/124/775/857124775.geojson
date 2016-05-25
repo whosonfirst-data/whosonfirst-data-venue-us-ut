@@ -1,0 +1,77 @@
+{
+  "id": 857124775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.01958,41.228919,-112.01958,41.228919",
+    "geom:latitude":41.228919,
+    "geom:longitude":-112.01958,
+    "iso:country":"US",
+    "sg:address":"1554 W 2100 S",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 731 1377",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85818351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XEM8Yuelx7WfhFf9yg2AO_41.228919_-112.019580@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122566,
+    "wof:geomhash":"3dcad8d923f47dbad6f96d0e30e591b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85818351,
+            "region_id":85688567,
+            "venue_id":857124775
+        }
+    ],
+    "wof:id":857124775,
+    "wof:lastmodified":1464122566,
+    "wof:name":"United Sand Trucking Inc",
+    "wof:parent_id":85818351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -112.01958,
+    41.228919,
+    -112.01958,
+    41.228919
+],
+  "geometry": {"coordinates":[-112.01958,41.228919],"type":"Point"}
+}

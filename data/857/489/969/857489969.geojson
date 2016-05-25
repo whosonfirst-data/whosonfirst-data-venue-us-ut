@@ -1,0 +1,73 @@
+{
+  "id": 857489969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.957092,41.049561,-111.957092,41.049561",
+    "geom:latitude":41.049561,
+    "geom:longitude":-111.957092,
+    "iso:country":"US",
+    "sg:address":"734 S Main St",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 546 3838",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IDc9bwKs1TC1BcMtLgk3p_41.049296_-111.956982@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464130587,
+    "wof:geomhash":"7737c5f2a244650a0e254805dc6b11a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857489969
+        }
+    ],
+    "wof:id":857489969,
+    "wof:lastmodified":1464130587,
+    "wof:name":"Little Orient Restaurant",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.957092,
+    41.049561,
+    -111.957092,
+    41.049561
+],
+  "geometry": {"coordinates":[-111.957092,41.049561],"type":"Point"}
+}

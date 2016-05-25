@@ -1,0 +1,74 @@
+{
+  "id": 857489065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.671358,40.291679,-111.671358,40.291679",
+    "geom:latitude":40.291679,
+    "geom:longitude":-111.671358,
+    "iso:country":"US",
+    "sg:address":"285 S 1000 E",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 225 5713",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor",
+        "painting",
+        "hanging"
+    ],
+    "sg:website":"http://www.timelliott.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1b9RoNDoYm7yZkVN8OacOe_40.291782_-111.671300@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464130563,
+    "wof:geomhash":"5fd515f47f11c64b9d36917432a2892e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857489065
+        }
+    ],
+    "wof:id":857489065,
+    "wof:lastmodified":1464130563,
+    "wof:name":"Tim Elliott & Sons Painting",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "painting",
+        "hanging"
+    ]
+},
+  "bbox": [
+    -111.671358,
+    40.291679,
+    -111.671358,
+    40.291679
+],
+  "geometry": {"coordinates":[-111.671358,40.291679],"type":"Point"}
+}

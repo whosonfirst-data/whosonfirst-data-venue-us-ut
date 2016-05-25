@@ -1,0 +1,73 @@
+{
+  "id": 857433097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.677147,40.27181,-111.677147,40.27181",
+    "geom:latitude":40.27181,
+    "geom:longitude":-111.677147,
+    "iso:country":"US",
+    "sg:address":"1379 S 740 E",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 226 2493",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73myWEQQTtgFroXbbwVsx1_40.271810_-111.677147@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129429,
+    "wof:geomhash":"0c62f70fcbf2c3f83d4c8441a1d1e69b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880109,
+            "region_id":85688567,
+            "venue_id":857433097
+        }
+    ],
+    "wof:id":857433097,
+    "wof:lastmodified":1464129429,
+    "wof:name":"Appraisal Svcs",
+    "wof:parent_id":85880109,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -111.677147,
+    40.27181,
+    -111.677147,
+    40.27181
+],
+  "geometry": {"coordinates":[-111.67714700000001,40.27181],"type":"Point"}
+}

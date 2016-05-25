@@ -1,0 +1,73 @@
+{
+  "id": 857242421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.702032,40.273504,-111.702032,40.273504",
+    "geom:latitude":40.273504,
+    "geom:longitude":-111.702032,
+    "iso:country":"US",
+    "sg:address":"145 W University Pkwy",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 225 3300",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZviBXJwMhijHP7vyggkWp_40.273504_-111.702032@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125069,
+    "wof:geomhash":"3face21755da28941e817d58ef7a6a9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880087,
+            "region_id":85688567,
+            "venue_id":857242421
+        }
+    ],
+    "wof:id":857242421,
+    "wof:lastmodified":1464125069,
+    "wof:name":"Monarch Dental Assoc",
+    "wof:parent_id":85880087,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -111.702032,
+    40.273504,
+    -111.702032,
+    40.273504
+],
+  "geometry": {"coordinates":[-111.702032,40.273504],"type":"Point"}
+}

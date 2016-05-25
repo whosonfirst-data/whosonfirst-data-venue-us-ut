@@ -1,0 +1,75 @@
+{
+  "id": 857086669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.885492,40.891561,-111.885492,40.891561",
+    "geom:latitude":40.891561,
+    "geom:longitude":-111.885492,
+    "iso:country":"US",
+    "sg:address":"106 W 200 N",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 295 2345",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "sg:tags":[
+        "process",
+        "licensing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727883,
+        102083563,
+        85854881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EobdybehBUZ53XoxfckMX_40.891561_-111.885492@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121575,
+    "wof:geomhash":"43427e933e3c81035a814ca8c2e08f06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727883,
+            "neighbourhood_id":85854881,
+            "region_id":85688567,
+            "venue_id":857086669
+        }
+    ],
+    "wof:id":857086669,
+    "wof:lastmodified":1464121575,
+    "wof:name":"Bountiful Applied Res Corp",
+    "wof:parent_id":85854881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "process",
+        "licensing"
+    ]
+},
+  "bbox": [
+    -111.885492,
+    40.891561,
+    -111.885492,
+    40.891561
+],
+  "geometry": {"coordinates":[-111.885492,40.891561],"type":"Point"}
+}

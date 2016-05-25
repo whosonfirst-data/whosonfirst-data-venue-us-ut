@@ -1,0 +1,71 @@
+{
+  "id": 857456735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.988909,41.042289,-111.988909,41.042289",
+    "geom:latitude":41.042289,
+    "geom:longitude":-111.988909,
+    "iso:country":"US",
+    "sg:address":"1251 Larchmont Way",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 721 9147",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "nonresidential",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85868169,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QYnEqtzAfWW4gQstkpUkg_41.042289_-111.988909@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129886,
+    "wof:geomhash":"124eb698334f39245f7198874189b2bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "neighbourhood_id":85868169,
+            "region_id":85688567,
+            "venue_id":857456735
+        }
+    ],
+    "wof:id":857456735,
+    "wof:lastmodified":1464129886,
+    "wof:name":"Jpl Construction Inc",
+    "wof:parent_id":85868169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.988909,
+    41.042289,
+    -111.988909,
+    41.042289
+],
+  "geometry": {"coordinates":[-111.98890900000001,41.042289],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857140391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.641561,40.29539,-111.641561,40.29539",
+    "geom:latitude":40.29539,
+    "geom:longitude":-111.641561,
+    "iso:country":"US",
+    "sg:address":"1029 Windsor Dr",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 226 8575",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JBZbbmexwwaLi4HK7vxoJ_40.295390_-111.641561@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122904,
+    "wof:geomhash":"ae3a28701f8dd09181b1c0b0c60b2269",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880091,
+            "region_id":85688567,
+            "venue_id":857140391
+        }
+    ],
+    "wof:id":857140391,
+    "wof:lastmodified":1464122904,
+    "wof:name":"Medical Media",
+    "wof:parent_id":85880091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -111.641561,
+    40.29539,
+    -111.641561,
+    40.29539
+],
+  "geometry": {"coordinates":[-111.641561,40.29539],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857110335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.943819,41.038057,-111.943819,41.038057",
+    "geom:latitude":41.038057,
+    "geom:longitude":-111.943819,
+    "iso:country":"US",
+    "sg:address":"215 W 200 N",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 547 1888",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PIU5fem7Oju0fKAr3Stfo_41.038057_-111.943819@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122179,
+    "wof:geomhash":"a20a084183c17f5664aa1cbe61b2800a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857110335
+        }
+    ],
+    "wof:id":857110335,
+    "wof:lastmodified":1464122179,
+    "wof:name":"Kaysville Xpress Lube Auto LLC",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -111.943819,
+    41.038057,
+    -111.943819,
+    41.038057
+],
+  "geometry": {"coordinates":[-111.943819,41.038057],"type":"Point"}
+}

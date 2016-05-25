@@ -1,0 +1,82 @@
+{
+  "id": 857287983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.616164,40.167465,-111.616164,40.167465",
+    "geom:latitude":40.167465,
+    "geom:longitude":-111.616164,
+    "iso:country":"US",
+    "sg:address":"45 N 300 W",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 489 5137",
+    "sg:postcode":"84663",
+    "sg:province":"UT",
+    "sg:tags":[
+        "windows",
+        "mobile",
+        "site"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727829,
+        102083567,
+        85880117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tqCC7g2wwzUYUPTSJOadx_40.167465_-111.616164@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126084,
+    "wof:geomhash":"3c218a9c196082d7b7b38ab11a9c5076",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727829,
+            "neighbourhood_id":85880117,
+            "region_id":85688567,
+            "venue_id":857287983
+        }
+    ],
+    "wof:id":857287983,
+    "wof:lastmodified":1464126084,
+    "wof:name":"Ted's Mobile Glass",
+    "wof:parent_id":85880117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "windows",
+        "mobile",
+        "site"
+    ]
+},
+  "bbox": [
+    -111.616164,
+    40.167465,
+    -111.616164,
+    40.167465
+],
+  "geometry": {"coordinates":[-111.616164,40.167465],"type":"Point"}
+}

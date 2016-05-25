@@ -1,0 +1,74 @@
+{
+  "id": 857317039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.95811,40.714971,-111.95811,40.714971",
+    "geom:latitude":40.714971,
+    "geom:longitude":-111.95811,
+    "iso:country":"US",
+    "sg:address":"2410 S 2700 W",
+    "sg:city":"West Valley",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 977 6200",
+    "sg:postcode":"84119",
+    "sg:province":"UT",
+    "sg:tags":[
+        "trucking"
+    ],
+    "sg:website":"www.myyellow.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85844521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52eoLdtoj9Q7D8IWqaywBl_40.714971_-111.958110@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126768,
+    "wof:geomhash":"4d57ae6fa68907215b8c0298ee7bd060",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85844521,
+            "region_id":85688567,
+            "venue_id":857317039
+        }
+    ],
+    "wof:id":857317039,
+    "wof:lastmodified":1464126768,
+    "wof:name":"Yellow Transportation Inc",
+    "wof:parent_id":85844521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -111.95811,
+    40.714971,
+    -111.95811,
+    40.714971
+],
+  "geometry": {"coordinates":[-111.95811,40.714971],"type":"Point"}
+}

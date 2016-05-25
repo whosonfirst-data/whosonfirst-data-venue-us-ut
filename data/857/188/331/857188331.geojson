@@ -1,0 +1,73 @@
+{
+  "id": 857188331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.672284,40.093456,-111.672284,40.093456",
+    "geom:latitude":40.093456,
+    "geom:longitude":-111.672284,
+    "iso:country":"US",
+    "sg:address":"1618 S Mill Rd",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Aerospace",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 6878",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "aircraft",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZqrKuO6blKzLbpXFSyjuD_40.093456_-111.672284@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123957,
+    "wof:geomhash":"392a83b0c197cd702df3da04a7e39a12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857188331
+        }
+    ],
+    "wof:id":857188331,
+    "wof:lastmodified":1464123957,
+    "wof:name":"Kirkham Helicopter",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.672284,
+    40.093456,
+    -111.672284,
+    40.093456
+],
+  "geometry": {"coordinates":[-111.672284,40.093456],"type":"Point"}
+}

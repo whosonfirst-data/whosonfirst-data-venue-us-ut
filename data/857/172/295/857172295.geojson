@@ -1,0 +1,71 @@
+{
+  "id": 857172295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.642676,40.098602,-111.642676,40.098602",
+    "geom:latitude":40.098602,
+    "geom:longitude":-111.642676,
+    "iso:country":"US",
+    "sg:address":"812 S 690 E",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 794 1216",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Szd8NYr4oglq7ivgw6CsB_40.098602_-111.642676@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123635,
+    "wof:geomhash":"1d39dbacf663215eebd6646ccb271e48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857172295
+        }
+    ],
+    "wof:id":857172295,
+    "wof:lastmodified":1464123635,
+    "wof:name":"Ruth Stamm Photography",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -111.642676,
+    40.098602,
+    -111.642676,
+    40.098602
+],
+  "geometry": {"coordinates":[-111.64267599999999,40.098602],"type":"Point"}
+}

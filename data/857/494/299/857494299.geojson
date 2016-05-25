@@ -1,0 +1,74 @@
+{
+  "id": 857494299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.63374,40.212673,-111.63374,40.212673",
+    "geom:latitude":40.212673,
+    "geom:longitude":-111.63374,
+    "iso:country":"US",
+    "sg:address":"1545 S State St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/provo-orem/37139-fortune-chinese-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 426 6588",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:tags":[
+        "asian",
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727863,
+        102083567,
+        85880103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7T3uMGOM4civ3y0MveHLZJ_40.212673_-111.633740@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130743,
+    "wof:geomhash":"c5b20b828991fd13454e67df2e1a6a20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880103,
+            "region_id":85688567,
+            "venue_id":857494299
+        }
+    ],
+    "wof:id":857494299,
+    "wof:lastmodified":1464130743,
+    "wof:name":"Fortune Chinese Restaurant",
+    "wof:parent_id":85880103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asian",
+        "chinese"
+    ]
+},
+  "bbox": [
+    -111.63374,
+    40.212673,
+    -111.63374,
+    40.212673
+],
+  "geometry": {"coordinates":[-111.63374,40.212673],"type":"Point"}
+}

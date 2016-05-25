@@ -1,0 +1,75 @@
+{
+  "id": 857434111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.018683,41.106859,-112.018683,41.106859",
+    "geom:latitude":41.106859,
+    "geom:longitude":-112.018683,
+    "iso:country":"US",
+    "sg:address":"499 State St",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 774 9907",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "money",
+        "transfer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85851583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7U0spLJxABnv7p078wb8AU_41.106859_-112.018683@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129449,
+    "wof:geomhash":"fd78c0e748adbe33e65a82f051ee1e37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85851583,
+            "region_id":85688567,
+            "venue_id":857434111
+        }
+    ],
+    "wof:id":857434111,
+    "wof:lastmodified":1464129449,
+    "wof:name":"Dolex Dollar Express",
+    "wof:parent_id":85851583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "money",
+        "transfer"
+    ]
+},
+  "bbox": [
+    -112.018683,
+    41.106859,
+    -112.018683,
+    41.106859
+],
+  "geometry": {"coordinates":[-112.018683,41.106859],"type":"Point"}
+}

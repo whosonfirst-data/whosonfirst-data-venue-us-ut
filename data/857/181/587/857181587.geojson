@@ -1,0 +1,73 @@
+{
+  "id": 857181587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.855676,41.735475,-111.855676,41.735475",
+    "geom:latitude":41.735475,
+    "geom:longitude":-111.855676,
+    "iso:country":"US",
+    "sg:address":"648 W 200 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 2342",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automobile",
+        "customizing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZoH9YfK3yxEvfLepkaQTg_41.735475_-111.855676@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123827,
+    "wof:geomhash":"c95719490d426b84b824aebea289ac71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857181587
+        }
+    ],
+    "wof:id":857181587,
+    "wof:lastmodified":1464123827,
+    "wof:name":"Novak Inc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "customizing"
+    ]
+},
+  "bbox": [
+    -111.855676,
+    41.735475,
+    -111.855676,
+    41.735475
+],
+  "geometry": {"coordinates":[-111.855676,41.735475],"type":"Point"}
+}

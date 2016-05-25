@@ -1,0 +1,72 @@
+{
+  "id": 857387011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.654784,40.118568,-111.654784,40.118568",
+    "geom:latitude":40.118568,
+    "geom:longitude":-111.654784,
+    "iso:country":"US",
+    "sg:address":"625 N Main St",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 794 0305",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mortgage"
+    ],
+    "sg:website":"www.bankaf.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MLihRjNJ6eNs2qpPyzkbn_40.118568_-111.654784@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128362,
+    "wof:geomhash":"e74ac01286d162ca41b691665a64a151",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857387011
+        }
+    ],
+    "wof:id":857387011,
+    "wof:lastmodified":1464128362,
+    "wof:name":"Bank Of American Fork",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -111.654784,
+    40.118568,
+    -111.654784,
+    40.118568
+],
+  "geometry": {"coordinates":[-111.65478400000001,40.118568],"type":"Point"}
+}

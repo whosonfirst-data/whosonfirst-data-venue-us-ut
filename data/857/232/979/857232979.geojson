@@ -1,0 +1,73 @@
+{
+  "id": 857232979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.00235,41.090351,-112.00235,41.090351",
+    "geom:latitude":41.090351,
+    "geom:longitude":-112.00235,
+    "iso:country":"US",
+    "sg:address":"2099 N Main St",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 776 0500",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_425cjnSYcMSfxFvpfpedhK_41.090351_-112.002350@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124860,
+    "wof:geomhash":"308f6c903bbf294b49998abad21e730d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857232979
+        }
+    ],
+    "wof:id":857232979,
+    "wof:lastmodified":1464124860,
+    "wof:name":"Hidden Cove Car Wash",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -112.00235,
+    41.090351,
+    -112.00235,
+    41.090351
+],
+  "geometry": {"coordinates":[-112.00235000000001,41.090351],"type":"Point"}
+}

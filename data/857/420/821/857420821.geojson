@@ -1,0 +1,83 @@
+{
+  "id": 857420821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.895926,40.739306,-111.895926,40.739306",
+    "geom:latitude":40.739306,
+    "geom:longitude":-111.895926,
+    "iso:country":"US",
+    "sg:address":"150 W 1400 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 463 0140",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85856491,
+        85825915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VwzZpgcfVLLoSUPKHADDE_40.739306_-111.895926@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129122,
+    "wof:geomhash":"481ed05b1bdf259413b6bf996e4fcbdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85856491,
+            "region_id":85688567,
+            "venue_id":857420821
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85825915,
+            "region_id":85688567,
+            "venue_id":857420821
+        }
+    ],
+    "wof:id":857420821,
+    "wof:lastmodified":1464129122,
+    "wof:name":"Sound Design",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -111.895926,
+    40.739306,
+    -111.895926,
+    40.739306
+],
+  "geometry": {"coordinates":[-111.895926,40.739306],"type":"Point"}
+}

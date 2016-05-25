@@ -1,0 +1,81 @@
+{
+  "id": 857417587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.821488,40.535504,-111.821488,40.535504",
+    "geom:latitude":40.535504,
+    "geom:longitude":-111.821488,
+    "iso:country":"US",
+    "sg:address":"11836 Brookglen Dr",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 571 0821",
+    "sg:postcode":"84092",
+    "sg:province":"UT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85825243,
+        102082877,
+        102191575,
+        101728077,
+        85812845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NQfJApMXV1lgVKmqStCNt_40.535504_-111.821488@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129049,
+    "wof:geomhash":"315759ec93141baa82493a0f2046e994",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85825243,
+            "region_id":85688567,
+            "venue_id":857417587
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85812845,
+            "region_id":85688567,
+            "venue_id":857417587
+        }
+    ],
+    "wof:id":857417587,
+    "wof:lastmodified":1464129049,
+    "wof:name":"Brian T Waterfall MD PC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -111.821488,
+    40.535504,
+    -111.821488,
+    40.535504
+],
+  "geometry": {"coordinates":[-111.821488,40.535504],"type":"Point"}
+}

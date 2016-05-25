@@ -1,0 +1,71 @@
+{
+  "id": 857324423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.785295,40.372841,-111.785295,40.372841",
+    "geom:latitude":40.372841,
+    "geom:longitude":-111.785295,
+    "iso:country":"US",
+    "sg:address":"159 S 500 E",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 492 0404",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rDoWVeD7TpFxpTyG5c6r5_40.372841_-111.785295@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126939,
+    "wof:geomhash":"07870f71274a09204b3c9711dd1d2d19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857324423
+        }
+    ],
+    "wof:id":857324423,
+    "wof:lastmodified":1464126939,
+    "wof:name":"Check City",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [
+    -111.785295,
+    40.372841,
+    -111.785295,
+    40.372841
+],
+  "geometry": {"coordinates":[-111.785295,40.372841],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857122183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.008197,41.237472,-112.008197,41.237472",
+    "geom:latitude":41.237472,
+    "geom:longitude":-112.008197,
+    "iso:country":"US",
+    "sg:address":"808 W 17th St",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 394 3800",
+    "sg:postcode":"84404",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85818351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZDPJiz9oV38yh7aMIKcYZ_41.237472_-112.008197@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122498,
+    "wof:geomhash":"c1117561e3f041e97b9b7dba53d86a48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85818351,
+            "region_id":85688567,
+            "venue_id":857122183
+        }
+    ],
+    "wof:id":857122183,
+    "wof:lastmodified":1464122498,
+    "wof:name":"Green & Company LLC",
+    "wof:parent_id":85818351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.008197,
+    41.237472,
+    -112.008197,
+    41.237472
+],
+  "geometry": {"coordinates":[-112.008197,41.237472],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857207249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.815092,41.724837,-111.815092,41.724837",
+    "geom:latitude":41.724837,
+    "geom:longitude":-111.815092,
+    "iso:country":"US",
+    "sg:address":"810 River Heights Blvd",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 512 2723",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IrHBLlWjpLF4z6TLKdPxF_41.724837_-111.815092@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124336,
+    "wof:geomhash":"7ebbfceac5a2618997c65ef38f3f5941",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857207249
+        }
+    ],
+    "wof:id":857207249,
+    "wof:lastmodified":1464124336,
+    "wof:name":"A Plus Lawn Care",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ]
+},
+  "bbox": [
+    -111.815092,
+    41.724837,
+    -111.815092,
+    41.724837
+],
+  "geometry": {"coordinates":[-111.81509200000001,41.724837],"type":"Point"}
+}

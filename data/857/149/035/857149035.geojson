@@ -1,0 +1,75 @@
+{
+  "id": 857149035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.660528,40.241344,-111.660528,40.241344",
+    "geom:latitude":40.241344,
+    "geom:longitude":-111.660528,
+    "iso:country":"US",
+    "sg:address":"627 N 100 W",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 374 2043",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36zPLpOmUwyUfEl2pK6ZOc_40.241344_-111.660528@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123124,
+    "wof:geomhash":"eeaae90a6e0980481b42b6beb786cc7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880121,
+            "region_id":85688567,
+            "venue_id":857149035
+        }
+    ],
+    "wof:id":857149035,
+    "wof:lastmodified":1464123124,
+    "wof:name":"College Park Apartments",
+    "wof:parent_id":85880121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -111.660528,
+    40.241344,
+    -111.660528,
+    40.241344
+],
+  "geometry": {"coordinates":[-111.660528,40.241344],"type":"Point"}
+}

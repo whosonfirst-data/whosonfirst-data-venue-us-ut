@@ -1,0 +1,82 @@
+{
+  "id": 857377349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.929038,40.563543,-111.929038,40.563543",
+    "geom:latitude":40.563543,
+    "geom:longitude":-111.929038,
+    "iso:country":"US",
+    "sg:address":"10393 S 1300 W",
+    "sg:city":"South Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 254 0740",
+    "sg:postcode":"84095",
+    "sg:province":"UT",
+    "sg:tags":[
+        "laboratory",
+        "dental",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728055,
+        102082877,
+        85810561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NMLpFQefA4k1NxURdrF1y_40.563543_-111.929038@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128063,
+    "wof:geomhash":"5414db2b094c2281639054365b92b65a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728055,
+            "neighbourhood_id":85810561,
+            "region_id":85688567,
+            "venue_id":857377349
+        }
+    ],
+    "wof:id":857377349,
+    "wof:lastmodified":1464128063,
+    "wof:name":"Pearson Dental Laboratory",
+    "wof:parent_id":85810561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.929038,
+    40.563543,
+    -111.929038,
+    40.563543
+],
+  "geometry": {"coordinates":[-111.92903800000001,40.563543],"type":"Point"}
+}

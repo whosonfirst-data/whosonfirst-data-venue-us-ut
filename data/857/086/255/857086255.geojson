@@ -1,0 +1,73 @@
+{
+  "id": 857086255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.842743,40.656406,-111.842743,40.656406",
+    "geom:latitude":40.656406,
+    "geom:longitude":-111.842743,
+    "iso:country":"US",
+    "sg:address":"5108 Westmoor Rd",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 455 5166",
+    "sg:postcode":"84117",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728049,
+        102082877,
+        85829581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qR9DygxFMvPMZosVZf6FY_40.656406_-111.842743@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121567,
+    "wof:geomhash":"6293a0230deb7cb02b93edac277fd1f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728049,
+            "neighbourhood_id":85829581,
+            "region_id":85688567,
+            "venue_id":857086255
+        }
+    ],
+    "wof:id":857086255,
+    "wof:lastmodified":1464121567,
+    "wof:name":"All Data",
+    "wof:parent_id":85829581,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -111.842743,
+    40.656406,
+    -111.842743,
+    40.656406
+],
+  "geometry": {"coordinates":[-111.842743,40.656406],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857456575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.977551,41.198763,-111.977551,41.198763",
+    "geom:latitude":41.198763,
+    "geom:longitude":-111.977551,
+    "iso:country":"US",
+    "sg:address":"175 E Harris St",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Computers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 393 0160",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "hardware"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728021,
+        102083539,
+        85810865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fC1gSSblUiCqPcQlKNArl_41.198763_-111.977551@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129883,
+    "wof:geomhash":"c055a54ece503bc0af0b9a8813794dc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728021,
+            "neighbourhood_id":85810865,
+            "region_id":85688567,
+            "venue_id":857456575
+        }
+    ],
+    "wof:id":857456575,
+    "wof:lastmodified":1464129883,
+    "wof:name":"Io Connections Inc",
+    "wof:parent_id":85810865,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hardware"
+    ]
+},
+  "bbox": [
+    -111.977551,
+    41.198763,
+    -111.977551,
+    41.198763
+],
+  "geometry": {"coordinates":[-111.97755100000001,41.198763],"type":"Point"}
+}

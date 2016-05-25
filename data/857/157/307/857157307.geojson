@@ -1,0 +1,73 @@
+{
+  "id": 857157307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.997984,40.657884,-111.997984,40.657884",
+    "geom:latitude":40.657884,
+    "geom:longitude":-111.997984,
+    "iso:country":"US",
+    "sg:address":"4500 W 5135 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 968 8842",
+    "sg:postcode":"84118",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728253,
+        102082877,
+        85833393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VLW5O4X1iSPoTE95qj3d8_40.657884_-111.997984@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123290,
+    "wof:geomhash":"2acb776245581bb86f1d3dbe11d4c725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728253,
+            "neighbourhood_id":85833393,
+            "region_id":85688567,
+            "venue_id":857157307
+        }
+    ],
+    "wof:id":857157307,
+    "wof:lastmodified":1464123290,
+    "wof:name":"American Movers",
+    "wof:parent_id":85833393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -111.997984,
+    40.657884,
+    -111.997984,
+    40.657884
+],
+  "geometry": {"coordinates":[-111.997984,40.657884],"type":"Point"}
+}

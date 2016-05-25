@@ -1,0 +1,68 @@
+{
+  "id": 857270553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.00224,40.645501,-112.00224,40.645501",
+    "geom:latitude":40.645501,
+    "geom:longitude":-112.00224,
+    "iso:country":"US",
+    "sg:address":"5809 Garner Ct",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 965 6291",
+    "sg:postcode":"84118",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728253,
+        102082877,
+        85833393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BJijEQlZxeHLmDj3MTEVN_40.645501_-112.002240@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125696,
+    "wof:geomhash":"df4fdd5ad68240117d53f8307bb7fffc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728253,
+            "neighbourhood_id":85833393,
+            "region_id":85688567,
+            "venue_id":857270553
+        }
+    ],
+    "wof:id":857270553,
+    "wof:lastmodified":1464125696,
+    "wof:name":"Foster Transport Inc",
+    "wof:parent_id":85833393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.00224,
+    40.645501,
+    -112.00224,
+    40.645501
+],
+  "geometry": {"coordinates":[-112.00224,40.645501],"type":"Point"}
+}

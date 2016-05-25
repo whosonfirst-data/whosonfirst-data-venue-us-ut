@@ -1,0 +1,69 @@
+{
+  "id": 857422855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.57943,40.073777,-111.57943,40.073777",
+    "geom:latitude":40.073777,
+    "geom:longitude":-111.57943,
+    "iso:country":"US",
+    "sg:address":"8628 S State Rd",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 3559",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "broadcast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85822211,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4maRgbjNEACr6Hh4ckTN9O_40.073777_-111.579430@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129165,
+    "wof:geomhash":"f901cae6cd88ee06b01556bd0d0e58c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85822211,
+            "region_id":85688567,
+            "venue_id":857422855
+        }
+    ],
+    "wof:id":857422855,
+    "wof:lastmodified":1464129165,
+    "wof:name":"Face Broadcasting",
+    "wof:parent_id":85822211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broadcast"
+    ]
+},
+  "bbox": [
+    -111.57943,
+    40.073777,
+    -111.57943,
+    40.073777
+],
+  "geometry": {"coordinates":[-111.57943,40.073777],"type":"Point"}
+}

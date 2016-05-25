@@ -1,0 +1,75 @@
+{
+  "id": 857149737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.687753,40.279322,-111.687753,40.279322",
+    "geom:latitude":40.279322,
+    "geom:longitude":-111.687753,
+    "iso:country":"US",
+    "sg:address":"287 E 950 S",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 802 8227",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85830581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2H2vB28PFGzHA6G6zzsRPk_40.279322_-111.687753@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123143,
+    "wof:geomhash":"e88bcbd8b1180b104d4598335824b757",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85830581,
+            "region_id":85688567,
+            "venue_id":857149737
+        }
+    ],
+    "wof:id":857149737,
+    "wof:lastmodified":1464123143,
+    "wof:name":"I2I",
+    "wof:parent_id":85830581,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -111.687753,
+    40.279322,
+    -111.687753,
+    40.279322
+],
+  "geometry": {"coordinates":[-111.687753,40.279322],"type":"Point"}
+}

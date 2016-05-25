@@ -1,0 +1,73 @@
+{
+  "id": 857159597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.926728,40.858316,-111.926728,40.858316",
+    "geom:latitude":40.858316,
+    "geom:longitude":-111.926728,
+    "iso:country":"US",
+    "sg:address":"615 W 900 N",
+    "sg:city":"North Salt Lake",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 294 9411",
+    "sg:postcode":"84054",
+    "sg:province":"UT",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727887,
+        102083563,
+        85848919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66Oh3Nur1gjPbf6H9QkpII_40.858316_-111.926728@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123337,
+    "wof:geomhash":"2e7b1ad29fada47aff46a27155720cd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727887,
+            "neighbourhood_id":85848919,
+            "region_id":85688567,
+            "venue_id":857159597
+        }
+    ],
+    "wof:id":857159597,
+    "wof:lastmodified":1464123337,
+    "wof:name":"Valdez Machining",
+    "wof:parent_id":85848919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.926728,
+    40.858316,
+    -111.926728,
+    40.858316
+],
+  "geometry": {"coordinates":[-111.926728,40.858316],"type":"Point"}
+}

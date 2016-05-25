@@ -1,0 +1,73 @@
+{
+  "id": 857451109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.882957,40.885183,-111.882957,40.885183",
+    "geom:latitude":40.885183,
+    "geom:longitude":-111.882957,
+    "iso:country":"US",
+    "sg:address":"499 S 100 W",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 364 2250",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727881,
+        102083563,
+        85807249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hFo0HdwB551502zg4qdFl_40.885183_-111.882957@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129785,
+    "wof:geomhash":"9e44fdbbb7e8cae6429b7b4103e603c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727881,
+            "neighbourhood_id":85807249,
+            "region_id":85688567,
+            "venue_id":857451109
+        }
+    ],
+    "wof:id":857451109,
+    "wof:lastmodified":1464129785,
+    "wof:name":"Genesis Telephone Systems",
+    "wof:parent_id":85807249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -111.882957,
+    40.885183,
+    -111.882957,
+    40.885183
+],
+  "geometry": {"coordinates":[-111.882957,40.885183],"type":"Point"}
+}

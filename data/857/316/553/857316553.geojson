@@ -1,0 +1,73 @@
+{
+  "id": 857316553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.80962,41.797157,-111.80962,41.797157",
+    "geom:latitude":41.797157,
+    "geom:longitude":-111.80962,
+    "iso:country":"US",
+    "sg:address":"105 S 400 E",
+    "sg:city":"Hyde Park",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 563 5832",
+    "sg:postcode":"84318",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TJ7PBhNl4kAuOuqdomCiN_41.797157_-111.809620@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126756,
+    "wof:geomhash":"fdf25bcbb18df474e9713ceec3e7bb10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857316553
+        }
+    ],
+    "wof:id":857316553,
+    "wof:lastmodified":1464126756,
+    "wof:name":"Stoneridge Properties Inc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -111.80962,
+    41.797157,
+    -111.80962,
+    41.797157
+],
+  "geometry": {"coordinates":[-111.80962,41.797157],"type":"Point"}
+}

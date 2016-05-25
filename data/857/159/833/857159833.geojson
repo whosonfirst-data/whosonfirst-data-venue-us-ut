@@ -1,0 +1,68 @@
+{
+  "id": 857159833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.702218,40.313244,-111.702218,40.313244",
+    "geom:latitude":40.313244,
+    "geom:longitude":-111.702218,
+    "iso:country":"US",
+    "sg:address":"847 N State St",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 5584",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oj1yiYhjtT1ZrAUM5yI0I_40.313244_-111.702218@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123341,
+    "wof:geomhash":"70a3afc3b663212bd236787edd55d15b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":857159833
+        }
+    ],
+    "wof:id":857159833,
+    "wof:lastmodified":1464123341,
+    "wof:name":"Old Home Bakery",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.702218,
+    40.313244,
+    -111.702218,
+    40.313244
+],
+  "geometry": {"coordinates":[-111.702218,40.313244],"type":"Point"}
+}

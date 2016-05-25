@@ -1,0 +1,68 @@
+{
+  "id": 857402131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.829251,40.60377,-111.829251,40.60377",
+    "geom:latitude":40.60377,
+    "geom:longitude":-111.829251,
+    "iso:country":"US",
+    "sg:address":"8131 S Creek Cir",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 942 2325",
+    "sg:postcode":"84093",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85857943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04N4VZWvZxsfGdGpJqmukt_40.603770_-111.829251@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128669,
+    "wof:geomhash":"9709e24d220ac3baa57943d7dba52970",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85857943,
+            "region_id":85688567,
+            "venue_id":857402131
+        }
+    ],
+    "wof:id":857402131,
+    "wof:lastmodified":1464128669,
+    "wof:name":"B&D Co",
+    "wof:parent_id":85857943,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.829251,
+    40.60377,
+    -111.829251,
+    40.60377
+],
+  "geometry": {"coordinates":[-111.829251,40.60377],"type":"Point"}
+}

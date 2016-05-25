@@ -1,0 +1,73 @@
+{
+  "id": 857147869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.687182,40.273542,-111.687182,40.273542",
+    "geom:latitude":40.273542,
+    "geom:longitude":-111.687182,
+    "iso:country":"US",
+    "sg:address":"347 E University Pkwy",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 9091",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85813259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vF6ouKY9BPJQiNxEoDjWr_40.273542_-111.687182@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123095,
+    "wof:geomhash":"095442cdf1146a2043f536e52333aff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85813259,
+            "region_id":85688567,
+            "venue_id":857147869
+        }
+    ],
+    "wof:id":857147869,
+    "wof:lastmodified":1464123095,
+    "wof:name":"Salon At Dianes",
+    "wof:parent_id":85813259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.687182,
+    40.273542,
+    -111.687182,
+    40.273542
+],
+  "geometry": {"coordinates":[-111.68718200000001,40.273542],"type":"Point"}
+}

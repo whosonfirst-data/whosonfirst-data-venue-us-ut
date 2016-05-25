@@ -1,0 +1,73 @@
+{
+  "id": 857115863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.9121,40.765065,-111.9121,40.765065",
+    "geom:latitude":40.765065,
+    "geom:longitude":-111.9121,
+    "iso:country":"US",
+    "sg:address":"728 W 200 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 359 1132",
+    "sg:postcode":"84104",
+    "sg:province":"UT",
+    "sg:tags":[
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85824499
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fJkFmBFF2LLHapcDWAWQf_40.765065_-111.912100@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122337,
+    "wof:geomhash":"6ea11a4c47f3fcdc73d7a6a4f682859c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85824499,
+            "region_id":85688567,
+            "venue_id":857115863
+        }
+    ],
+    "wof:id":857115863,
+    "wof:lastmodified":1464122337,
+    "wof:name":"Savage Scaffold & Equipment",
+    "wof:parent_id":85824499,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing"
+    ]
+},
+  "bbox": [
+    -111.9121,
+    40.765065,
+    -111.9121,
+    40.765065
+],
+  "geometry": {"coordinates":[-111.9121,40.765065],"type":"Point"}
+}

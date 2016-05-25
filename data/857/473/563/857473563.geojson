@@ -1,0 +1,73 @@
+{
+  "id": 857473563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.857285,40.570286,-111.857285,40.570286",
+    "geom:latitude":40.570286,
+    "geom:longitude":-111.857285,
+    "iso:country":"US",
+    "sg:address":"9987 Marble St",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 910 2181",
+    "sg:postcode":"84094",
+    "sg:province":"UT",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85846597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lnDuZk9e8CJ7eh1Y1QO1T_40.570286_-111.857285@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130247,
+    "wof:geomhash":"78739043701b3144135d8442fb36035e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85846597,
+            "region_id":85688567,
+            "venue_id":857473563
+        }
+    ],
+    "wof:id":857473563,
+    "wof:lastmodified":1464130247,
+    "wof:name":"Accu-Paint & Refinish",
+    "wof:parent_id":85846597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -111.857285,
+    40.570286,
+    -111.857285,
+    40.570286
+],
+  "geometry": {"coordinates":[-111.857285,40.570286],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 857445585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.845763,40.867905,-111.845763,40.867905",
+    "geom:latitude":40.867905,
+    "geom:longitude":-111.845763,
+    "iso:country":"US",
+    "sg:address":"1845 High Pointe Dr",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 294 6442",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "sg:tags":[
+        "operations",
+        "test",
+        "flight"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727881,
+        102083563,
+        85824933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VMKjRP7HmWwG2NhUAQUBZ_40.867905_-111.845763@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129674,
+    "wof:geomhash":"e2321edf66befc2023d4ef2aae590ab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727881,
+            "neighbourhood_id":85824933,
+            "region_id":85688567,
+            "venue_id":857445585
+        }
+    ],
+    "wof:id":857445585,
+    "wof:lastmodified":1464129674,
+    "wof:name":"Flight Research Inc",
+    "wof:parent_id":85824933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operations",
+        "test",
+        "flight"
+    ]
+},
+  "bbox": [
+    -111.845763,
+    40.867905,
+    -111.845763,
+    40.867905
+],
+  "geometry": {"coordinates":[-111.84576300000001,40.867905],"type":"Point"}
+}

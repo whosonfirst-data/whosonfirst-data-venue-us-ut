@@ -1,0 +1,71 @@
+{
+  "id": 857340025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.702345,40.237298,-111.702345,40.237298",
+    "geom:latitude":40.237298,
+    "geom:longitude":-111.702345,
+    "iso:country":"US",
+    "sg:address":"2476 W 300 N",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 0249",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "refrigeration",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880073,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hkzfByvn3Drck2WyCFli8_40.237298_-111.702345@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127277,
+    "wof:geomhash":"01bcb565fc9222b9b9a3eebdd445666c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880073,
+            "region_id":85688567,
+            "venue_id":857340025
+        }
+    ],
+    "wof:id":857340025,
+    "wof:lastmodified":1464127277,
+    "wof:name":"Pioneer Appliance Service",
+    "wof:parent_id":85880073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -111.702345,
+    40.237298,
+    -111.702345,
+    40.237298
+],
+  "geometry": {"coordinates":[-111.70234499999999,40.237298],"type":"Point"}
+}

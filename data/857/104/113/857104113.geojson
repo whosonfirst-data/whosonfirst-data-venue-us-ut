@@ -1,0 +1,71 @@
+{
+  "id": 857104113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.6722,40.017006,-111.6722,40.017006",
+    "geom:latitude":40.017006,
+    "geom:longitude":-111.6722,
+    "iso:country":"US",
+    "sg:address":"543 E Bridger Ln",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 423 8828",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZUoxznCLiRXw5HKLZpLXC_40.017006_-111.672200@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122008,
+    "wof:geomhash":"2ae9566ad312a40aa6bf257a62de6051",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857104113
+        }
+    ],
+    "wof:id":857104113,
+    "wof:lastmodified":1464122008,
+    "wof:name":"Ralphs Computers",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -111.6722,
+    40.017006,
+    -111.6722,
+    40.017006
+],
+  "geometry": {"coordinates":[-111.6722,40.017006],"type":"Point"}
+}

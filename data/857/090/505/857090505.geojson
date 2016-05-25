@@ -1,0 +1,68 @@
+{
+  "id": 857090505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.665198,40.27791,-111.665198,40.27791",
+    "geom:latitude":40.27791,
+    "geom:longitude":-111.665198,
+    "iso:country":"US",
+    "sg:address":"3131 N Cottonwood Ln",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 377 1983",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26VdNwjuYL3bmqompvcogM_40.277910_-111.665198@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121691,
+    "wof:geomhash":"b1f783174751ee5656b1cf5fdf20bbeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880109,
+            "region_id":85688567,
+            "venue_id":857090505
+        }
+    ],
+    "wof:id":857090505,
+    "wof:lastmodified":1464121691,
+    "wof:name":"Jensen Management LLC",
+    "wof:parent_id":85880109,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.665198,
+    40.27791,
+    -111.665198,
+    40.27791
+],
+  "geometry": {"coordinates":[-111.665198,40.27791],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857256257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.985833,41.103449,-111.985833,41.103449",
+    "geom:latitude":41.103449,
+    "geom:longitude":-111.985833,
+    "iso:country":"US",
+    "sg:address":"1171 W Hill Field Rd",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 546 3588",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:website":"www.sizzlinplatter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_744k2l91ZPF6HMDPaSxVLC_41.103449_-111.985833@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125410,
+    "wof:geomhash":"9f0c75253fcd8b2e012f34bf0af20fa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857256257
+        }
+    ],
+    "wof:id":857256257,
+    "wof:lastmodified":1464125410,
+    "wof:name":"Sizzler",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.985833,
+    41.103449,
+    -111.985833,
+    41.103449
+],
+  "geometry": {"coordinates":[-111.985833,41.103449],"type":"Point"}
+}

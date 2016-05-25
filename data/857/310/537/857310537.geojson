@@ -1,0 +1,75 @@
+{
+  "id": 857310537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.309252,37.17788,-113.309252,37.17788",
+    "geom:latitude":37.17788,
+    "geom:longitude":-113.309252,
+    "iso:country":"US",
+    "sg:address":"1075 W 100 N",
+    "sg:city":"Hurricane",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 635 4781",
+    "sg:postcode":"84737",
+    "sg:province":"UT",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727631,
+        102082879,
+        85824093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GGTl2aXIlxcKg3Bxas68O_37.177880_-113.309252@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126632,
+    "wof:geomhash":"5bb24fec886cd922d68c6b1d18d0a57f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727631,
+            "neighbourhood_id":85824093,
+            "region_id":85688567,
+            "venue_id":857310537
+        }
+    ],
+    "wof:id":857310537,
+    "wof:lastmodified":1464126632,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85824093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -113.309252,
+    37.17788,
+    -113.309252,
+    37.17788
+],
+  "geometry": {"coordinates":[-113.309252,37.17788],"type":"Point"}
+}

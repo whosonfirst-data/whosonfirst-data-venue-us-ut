@@ -1,0 +1,68 @@
+{
+  "id": 857220689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.022152,41.110853,-112.022152,41.110853",
+    "geom:latitude":41.110853,
+    "geom:longitude":-112.022152,
+    "iso:country":"US",
+    "sg:address":"246 E 200 S",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 728 9064",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85851583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53R7ZH4pVT66zy2IUKnR2x_41.110853_-112.022152@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124627,
+    "wof:geomhash":"367bf43d433aba8939e002c3a60a6da0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85851583,
+            "region_id":85688567,
+            "venue_id":857220689
+        }
+    ],
+    "wof:id":857220689,
+    "wof:lastmodified":1464124627,
+    "wof:name":"LA Koncinita Cafe",
+    "wof:parent_id":85851583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.022152,
+    41.110853,
+    -112.022152,
+    41.110853
+],
+  "geometry": {"coordinates":[-112.02215200000001,41.110853],"type":"Point"}
+}

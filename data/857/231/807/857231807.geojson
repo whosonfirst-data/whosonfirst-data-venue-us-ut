@@ -1,0 +1,77 @@
+{
+  "id": 857231807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.809875,40.682629,-111.809875,40.682629",
+    "geom:latitude":40.682629,
+    "geom:longitude":-111.809875,
+    "iso:country":"US",
+    "sg:address":"2971 E Morgan Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 971 9700",
+    "sg:postcode":"84124",
+    "sg:province":"UT",
+    "sg:tags":[
+        "equipment",
+        "mfg",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85851035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55t3zbxX4XMKzJf2qQkA8t_40.682629_-111.809875@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124839,
+    "wof:geomhash":"79a29b688a8e027ff5e99e6c04838e73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85851035,
+            "region_id":85688567,
+            "venue_id":857231807
+        }
+    ],
+    "wof:id":857231807,
+    "wof:lastmodified":1464124839,
+    "wof:name":"Ya Electronics",
+    "wof:parent_id":85851035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "mfg",
+        "home"
+    ]
+},
+  "bbox": [
+    -111.809875,
+    40.682629,
+    -111.809875,
+    40.682629
+],
+  "geometry": {"coordinates":[-111.80987500000001,40.682629],"type":"Point"}
+}

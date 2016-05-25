@@ -1,0 +1,67 @@
+{
+  "id": 857214115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.835078,41.724689,-111.835078,41.724689",
+    "geom:latitude":41.724689,
+    "geom:longitude":-111.835078,
+    "iso:country":"US",
+    "sg:address":"364 S Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 5623",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:website":"www.daysinn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Qbhblv0D46pguQb0rEuqh_41.724689_-111.835078@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124491,
+    "wof:geomhash":"c6b3f789a48bdbef2fb269cfd6432d19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857214115
+        }
+    ],
+    "wof:id":857214115,
+    "wof:lastmodified":1464124491,
+    "wof:name":"Days Inn",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.835078,
+    41.724689,
+    -111.835078,
+    41.724689
+],
+  "geometry": {"coordinates":[-111.835078,41.724689],"type":"Point"}
+}

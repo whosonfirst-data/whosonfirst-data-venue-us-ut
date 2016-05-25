@@ -1,0 +1,75 @@
+{
+  "id": 857217349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.019203,40.576191,-112.019203,40.576191",
+    "geom:latitude":40.576191,
+    "geom:longitude":-112.019203,
+    "iso:country":"US",
+    "sg:address":"5487 Axel Park Rd",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 255 0245",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728247,
+        102082877,
+        85813417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zkK3lkn3I8SQaudCNH1LH_40.576191_-112.019203@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124560,
+    "wof:geomhash":"6a46766d32bbd96c4c40dda23720739b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728247,
+            "neighbourhood_id":85813417,
+            "region_id":85688567,
+            "venue_id":857217349
+        }
+    ],
+    "wof:id":857217349,
+    "wof:lastmodified":1464124560,
+    "wof:name":"Robert Hardman Masonry",
+    "wof:parent_id":85813417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -112.019203,
+    40.576191,
+    -112.019203,
+    40.576191
+],
+  "geometry": {"coordinates":[-112.019203,40.576191],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857415707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.957453,40.774841,-111.957453,40.774841",
+    "geom:latitude":40.774841,
+    "geom:longitude":-111.957453,
+    "iso:country":"US",
+    "sg:address":"337 N 2370 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 524 3445",
+    "sg:postcode":"84116",
+    "sg:province":"UT",
+    "sg:tags":[
+        "federal",
+        "taxation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85856293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xBnHsD9O9Pa5eUxvptUOh_40.774841_-111.957453@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128996,
+    "wof:geomhash":"a9dd6a77714b8cd9639e037bbbd4b472",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85856293,
+            "region_id":85688567,
+            "venue_id":857415707
+        }
+    ],
+    "wof:id":857415707,
+    "wof:lastmodified":1464128996,
+    "wof:name":"US Customs Svc",
+    "wof:parent_id":85856293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "taxation"
+    ]
+},
+  "bbox": [
+    -111.957453,
+    40.774841,
+    -111.957453,
+    40.774841
+],
+  "geometry": {"coordinates":[-111.957453,40.774841],"type":"Point"}
+}

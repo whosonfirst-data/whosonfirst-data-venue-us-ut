@@ -1,0 +1,73 @@
+{
+  "id": 857267963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.873932,40.532587,-111.873932,40.532587",
+    "geom:latitude":40.532587,
+    "geom:longitude":-111.873932,
+    "iso:country":"US",
+    "sg:address":"606 E 12000 S",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 619 4894",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "handicapped"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727849,
+        102082877,
+        85815193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RnUFJZfHVPd63GOO9pnCz_40.532587_-111.873932@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125647,
+    "wof:geomhash":"c0901c7a8536d966e75bca3455759a92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85815193,
+            "region_id":85688567,
+            "venue_id":857267963
+        }
+    ],
+    "wof:id":857267963,
+    "wof:lastmodified":1464125647,
+    "wof:name":"Personal Touch Transportation",
+    "wof:parent_id":85815193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "handicapped"
+    ]
+},
+  "bbox": [
+    -111.873932,
+    40.532587,
+    -111.873932,
+    40.532587
+],
+  "geometry": {"coordinates":[-111.873932,40.532587],"type":"Point"}
+}

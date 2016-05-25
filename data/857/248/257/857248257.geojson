@@ -1,0 +1,75 @@
+{
+  "id": 857248257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.858204,40.770633,-111.858204,40.770633",
+    "geom:latitude":40.770633,
+    "geom:longitude":-111.858204,
+    "iso:country":"US",
+    "sg:address":"1007 E 1st Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 531 8721",
+    "sg:postcode":"84103",
+    "sg:province":"UT",
+    "sg:tags":[
+        "prepackaged",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85853739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3N2pglyltn9R4XpAlarJZA_40.770633_-111.858204@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125204,
+    "wof:geomhash":"6a42e7721c68ddcd9948cc58a203c7b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85853739,
+            "region_id":85688567,
+            "venue_id":857248257
+        }
+    ],
+    "wof:id":857248257,
+    "wof:lastmodified":1464125204,
+    "wof:name":"PMC",
+    "wof:parent_id":85853739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "prepackaged",
+        "software"
+    ]
+},
+  "bbox": [
+    -111.858204,
+    40.770633,
+    -111.858204,
+    40.770633
+],
+  "geometry": {"coordinates":[-111.858204,40.770633],"type":"Point"}
+}

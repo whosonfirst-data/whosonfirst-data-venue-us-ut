@@ -1,0 +1,73 @@
+{
+  "id": 857448407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.950135,40.583914,-111.950135,40.583914",
+    "geom:latitude":40.583914,
+    "geom:longitude":-111.950135,
+    "iso:country":"US",
+    "sg:address":"9202 Kensington Park Dr",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 562 0540",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85854601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lCCmyB5NcizaKGoIjZazg_40.583914_-111.950135@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129727,
+    "wof:geomhash":"ef9b4644568ceffe0e988b3094c80343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85854601,
+            "region_id":85688567,
+            "venue_id":857448407
+        }
+    ],
+    "wof:id":857448407,
+    "wof:lastmodified":1464129727,
+    "wof:name":"Balfour Plumbing & Heating",
+    "wof:parent_id":85854601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.950135,
+    40.583914,
+    -111.950135,
+    40.583914
+],
+  "geometry": {"coordinates":[-111.950135,40.583914],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857142253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.870375,40.775174,-111.870375,40.775174",
+    "geom:latitude":40.775174,
+    "geom:longitude":-111.870375,
+    "iso:country":"US",
+    "sg:address":"611 5th Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 355 8555",
+    "sg:postcode":"84103",
+    "sg:province":"UT",
+    "sg:tags":[
+        "commercial",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4juT3YJfUFOvZ8cyLrl0uG_40.775174_-111.870375@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122947,
+    "wof:geomhash":"f44dc3b1b3a32411181b29f1a86266ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871029,
+            "region_id":85688567,
+            "venue_id":857142253
+        }
+    ],
+    "wof:id":857142253,
+    "wof:lastmodified":1464122947,
+    "wof:name":"Dazzeland Studious",
+    "wof:parent_id":85871029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "design"
+    ]
+},
+  "bbox": [
+    -111.870375,
+    40.775174,
+    -111.870375,
+    40.775174
+],
+  "geometry": {"coordinates":[-111.870375,40.775174],"type":"Point"}
+}

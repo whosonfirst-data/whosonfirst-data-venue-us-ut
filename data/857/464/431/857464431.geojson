@@ -1,0 +1,69 @@
+{
+  "id": 857464431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.691729,40.227962,-111.691729,40.227962",
+    "geom:latitude":40.227962,
+    "geom:longitude":-111.691729,
+    "iso:country":"US",
+    "sg:address":"468 S 1850 W",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 375 7991",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880073,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2j8HbIMq7zLVhLD3XofSqs_40.227962_-111.691729@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130048,
+    "wof:geomhash":"6092b3e014edf27ee2ee00761ecc3bb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880073,
+            "region_id":85688567,
+            "venue_id":857464431
+        }
+    ],
+    "wof:id":857464431,
+    "wof:lastmodified":1464130048,
+    "wof:name":"Powell Plumbing",
+    "wof:parent_id":85880073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.691729,
+    40.227962,
+    -111.691729,
+    40.227962
+],
+  "geometry": {"coordinates":[-111.691729,40.227962],"type":"Point"}
+}

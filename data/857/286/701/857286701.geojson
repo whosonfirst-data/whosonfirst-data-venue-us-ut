@@ -1,0 +1,73 @@
+{
+  "id": 857286701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.899656,40.67805,-111.899656,40.67805",
+    "geom:latitude":40.67805,
+    "geom:longitude":-111.899656,
+    "iso:country":"US",
+    "sg:address":"4255 S 300 W",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 262 1482",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85851609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fHZZ0mY0RLUeik7QLTdF0_40.678050_-111.899656@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126058,
+    "wof:geomhash":"e0a68b767b61789d772957116ec6c4b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85851609,
+            "region_id":85688567,
+            "venue_id":857286701
+        }
+    ],
+    "wof:id":857286701,
+    "wof:lastmodified":1464126058,
+    "wof:name":"Norrda's Towing",
+    "wof:parent_id":85851609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -111.899656,
+    40.67805,
+    -111.899656,
+    40.67805
+],
+  "geometry": {"coordinates":[-111.89965599999999,40.67805],"type":"Point"}
+}

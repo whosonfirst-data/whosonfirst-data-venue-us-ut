@@ -1,0 +1,71 @@
+{
+  "id": 857079287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.01383,41.780763,-112.01383,41.780763",
+    "geom:latitude":41.780763,
+    "geom:longitude":-112.01383,
+    "iso:country":"US",
+    "sg:address":"2666 Valley Vw W",
+    "sg:city":"Mendon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 787 0444",
+    "sg:postcode":"84325",
+    "sg:province":"UT",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77tm1BqGdvxv6aua8pmT8C_41.780763_-112.013830@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121386,
+    "wof:geomhash":"26cb1be50025bdf76bea701e8000c387",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857079287
+        }
+    ],
+    "wof:id":857079287,
+    "wof:lastmodified":1464121386,
+    "wof:name":"Richard Broun Photography",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -112.01383,
+    41.780763,
+    -112.01383,
+    41.780763
+],
+  "geometry": {"coordinates":[-112.01383,41.780763],"type":"Point"}
+}

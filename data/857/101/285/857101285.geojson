@@ -1,0 +1,77 @@
+{
+  "id": 857101285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.905533,40.586464,-111.905533,40.586464",
+    "geom:latitude":40.586464,
+    "geom:longitude":-111.905533,
+    "iso:country":"US",
+    "sg:address":"9348 S 500 W",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 255 1600",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "semiconductor",
+        "glass",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85818097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0seHQrRVKKO16JQ2CD7tvA_40.586464_-111.905533@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121946,
+    "wof:geomhash":"2bb89d93d6c5dc788eff94f5e792cb4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85818097,
+            "region_id":85688567,
+            "venue_id":857101285
+        }
+    ],
+    "wof:id":857101285,
+    "wof:lastmodified":1464121946,
+    "wof:name":"Quartztech Engineering Inc",
+    "wof:parent_id":85818097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "semiconductor",
+        "glass",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.905533,
+    40.586464,
+    -111.905533,
+    40.586464
+],
+  "geometry": {"coordinates":[-111.90553300000001,40.586464],"type":"Point"}
+}

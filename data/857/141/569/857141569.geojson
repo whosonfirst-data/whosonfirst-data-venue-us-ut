@@ -1,0 +1,71 @@
+{
+  "id": 857141569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.725422,40.048997,-111.725422,40.048997",
+    "geom:latitude":40.048997,
+    "geom:longitude":-111.725422,
+    "iso:country":"US",
+    "sg:address":"471 N 500 E",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 3497",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FadzYnfIUtDxIbaXuoDil_40.048997_-111.725422@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122931,
+    "wof:geomhash":"c6bbb04d02ba5f5026ffea54d1e473c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857141569
+        }
+    ],
+    "wof:id":857141569,
+    "wof:lastmodified":1464122931,
+    "wof:name":"Payson Delivery Svc",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -111.725422,
+    40.048997,
+    -111.725422,
+    40.048997
+],
+  "geometry": {"coordinates":[-111.72542199999999,40.048997],"type":"Point"}
+}

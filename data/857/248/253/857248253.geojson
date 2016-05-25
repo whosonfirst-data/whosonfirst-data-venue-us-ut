@@ -1,0 +1,73 @@
+{
+  "id": 857248253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.835048,41.725629,-111.835048,41.725629",
+    "geom:latitude":41.725629,
+    "geom:longitude":-111.835048,
+    "iso:country":"US",
+    "sg:address":"316 S Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 7771",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mailing",
+        "shipping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5P1m11Dv203tnQd7uyYHK7_41.725629_-111.835048@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125204,
+    "wof:geomhash":"9ec557400186f7d38e71a7d6b02f15dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857248253
+        }
+    ],
+    "wof:id":857248253,
+    "wof:lastmodified":1464125204,
+    "wof:name":"Empire Graphics",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mailing",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -111.835048,
+    41.725629,
+    -111.835048,
+    41.725629
+],
+  "geometry": {"coordinates":[-111.835048,41.725629],"type":"Point"}
+}

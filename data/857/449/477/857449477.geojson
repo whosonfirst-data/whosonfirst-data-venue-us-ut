@@ -1,0 +1,73 @@
+{
+  "id": 857449477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.939082,41.018729,-111.939082,41.018729",
+    "geom:latitude":41.018729,
+    "geom:longitude":-111.939082,
+    "iso:country":"US",
+    "sg:address":"36 W 950 S",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 544 8660",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "medical",
+        "billing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EZKiAjEeXGcpk0gGiQuUX_41.018729_-111.939082@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129745,
+    "wof:geomhash":"fcdf739fc757867d77215d09e4be46b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857449477
+        }
+    ],
+    "wof:id":857449477,
+    "wof:lastmodified":1464129745,
+    "wof:name":"Quality Assured Med Billing",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "billing"
+    ]
+},
+  "bbox": [
+    -111.939082,
+    41.018729,
+    -111.939082,
+    41.018729
+],
+  "geometry": {"coordinates":[-111.939082,41.018729],"type":"Point"}
+}

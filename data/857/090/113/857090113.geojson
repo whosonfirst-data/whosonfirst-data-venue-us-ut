@@ -1,0 +1,69 @@
+{
+  "id": 857090113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.805645,40.376908,-111.805645,40.376908",
+    "geom:latitude":40.376908,
+    "geom:longitude":-111.805645,
+    "iso:country":"US",
+    "sg:address":"240 W Main St",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 2915",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sp8dhgdw3wcipBOxjkMTJ_40.376908_-111.805645@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121680,
+    "wof:geomhash":"cbde22771c081942dbc4edd065f748dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857090113
+        }
+    ],
+    "wof:id":857090113,
+    "wof:lastmodified":1464121680,
+    "wof:name":"King & Mc Cleary",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -111.805645,
+    40.376908,
+    -111.805645,
+    40.376908
+],
+  "geometry": {"coordinates":[-111.805645,40.376908],"type":"Point"}
+}

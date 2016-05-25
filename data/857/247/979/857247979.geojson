@@ -1,0 +1,71 @@
+{
+  "id": 857247979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.835751,40.385986,-111.835751,40.385986",
+    "geom:latitude":40.385986,
+    "geom:longitude":-111.835751,
+    "iso:country":"US",
+    "sg:address":"785 E 200 S",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 768 2404",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "return",
+        "filing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LfZjcr0msVaIFomo35I41_40.385986_-111.835751@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125198,
+    "wof:geomhash":"398d5440d1331240e2f93e096acbaf6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857247979
+        }
+    ],
+    "wof:id":857247979,
+    "wof:lastmodified":1464125198,
+    "wof:name":"Jackson Hewitt Tax Svc",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return",
+        "filing"
+    ]
+},
+  "bbox": [
+    -111.835751,
+    40.385986,
+    -111.835751,
+    40.385986
+],
+  "geometry": {"coordinates":[-111.835751,40.385986],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857145557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.643078,40.249776,-111.643078,40.249776",
+    "geom:latitude":40.249776,
+    "geom:longitude":-111.643078,
+    "iso:country":"US",
+    "sg:address":"1218 N 900 E",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 4410",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Wx9u8fw49SyCV7i7dD01x_40.249776_-111.643078@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123052,
+    "wof:geomhash":"e9138741829aedc790c69fc43791e825",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880125,
+            "region_id":85688567,
+            "venue_id":857145557
+        }
+    ],
+    "wof:id":857145557,
+    "wof:lastmodified":1464123052,
+    "wof:name":"Di Lusso",
+    "wof:parent_id":85880125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -111.643078,
+    40.249776,
+    -111.643078,
+    40.249776
+],
+  "geometry": {"coordinates":[-111.643078,40.249776],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857484505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.857145,41.747074,-111.857145,41.747074",
+    "geom:latitude":41.747074,
+    "geom:longitude":-111.857145,
+    "iso:country":"US",
+    "sg:address":"895 W 800 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 7751",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "transmission",
+        "distribution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6txnKWDQU9Dvwn6hvFPloC_41.747074_-111.857145@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130454,
+    "wof:geomhash":"40e288f1d32ce9006d3c4ade9db40827",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857484505
+        }
+    ],
+    "wof:id":857484505,
+    "wof:lastmodified":1464130454,
+    "wof:name":"Questar Gas Company",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "distribution"
+    ]
+},
+  "bbox": [
+    -111.857145,
+    41.747074,
+    -111.857145,
+    41.747074
+],
+  "geometry": {"coordinates":[-111.857145,41.747074],"type":"Point"}
+}

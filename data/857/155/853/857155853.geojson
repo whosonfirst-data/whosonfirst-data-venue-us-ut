@@ -1,0 +1,73 @@
+{
+  "id": 857155853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.064618,41.11214,-112.064618,41.11214",
+    "geom:latitude":41.11214,
+    "geom:longitude":-112.064618,
+    "iso:country":"US",
+    "sg:address":"58 S 2000 W",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 773 4366",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727889,
+        102083563,
+        85804563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77phH0b6b8uf1hgKX9EqHd_41.112140_-112.064618@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123264,
+    "wof:geomhash":"bb891fbaf9b2946ccbfefa60410bfac7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727889,
+            "neighbourhood_id":85804563,
+            "region_id":85688567,
+            "venue_id":857155853
+        }
+    ],
+    "wof:id":857155853,
+    "wof:lastmodified":1464123264,
+    "wof:name":"Thee Plumbing Co",
+    "wof:parent_id":85804563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -112.064618,
+    41.11214,
+    -112.064618,
+    41.11214
+],
+  "geometry": {"coordinates":[-112.064618,41.11214],"type":"Point"}
+}

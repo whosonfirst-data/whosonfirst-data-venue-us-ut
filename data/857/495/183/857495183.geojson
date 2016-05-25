@@ -1,0 +1,74 @@
+{
+  "id": 857495183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834265,41.761753,-111.834265,41.761753",
+    "geom:latitude":41.761753,
+    "geom:longitude":-111.834265,
+    "iso:country":"US",
+    "sg:address":"1633 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/logan/38317-village-inn/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 5656",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_087EuT6wIj2weyXZFKRGkt_41.761540_-111.834365@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130779,
+    "wof:geomhash":"ac1249965bf5bd3f769cf03f5f761b20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857495183
+        }
+    ],
+    "wof:id":857495183,
+    "wof:lastmodified":1464130779,
+    "wof:name":"Village Inn",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [
+    -111.834265,
+    41.761753,
+    -111.834265,
+    41.761753
+],
+  "geometry": {"coordinates":[-111.834265,41.761753],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 857374909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.056156,41.089223,-112.056156,41.089223",
+    "geom:latitude":41.089223,
+    "geom:longitude":-112.056156,
+    "iso:country":"US",
+    "sg:address":"1586 W 1700 S",
+    "sg:city":"Syracuse",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 825 2600",
+    "sg:postcode":"84075",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727889,
+        102083563,
+        85804563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6b7ZqvBbFalaZcpQd5mRWa_41.089223_-112.056156@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128007,
+    "wof:geomhash":"e86ce56dc84be3c6c5ba26dda4779fc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727889,
+            "neighbourhood_id":85804563,
+            "region_id":85688567,
+            "venue_id":857374909
+        }
+    ],
+    "wof:id":857374909,
+    "wof:lastmodified":1464128007,
+    "wof:name":"Paul's Automotive",
+    "wof:parent_id":85804563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -112.056156,
+    41.089223,
+    -112.056156,
+    41.089223
+],
+  "geometry": {"coordinates":[-112.056156,41.089223],"type":"Point"}
+}

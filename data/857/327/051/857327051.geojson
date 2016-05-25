@@ -1,0 +1,82 @@
+{
+  "id": 857327051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.827165,40.541342,-111.827165,40.541342",
+    "geom:latitude":40.541342,
+    "geom:longitude":-111.827165,
+    "iso:country":"US",
+    "sg:address":"11515 High Mesa Dr",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 572 7073",
+    "sg:postcode":"84092",
+    "sg:province":"UT",
+    "sg:tags":[
+        "elementary"
+    ],
+    "sg:website":"www.peak.jordan.k12.ut.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85825243,
+        102082877,
+        102191575,
+        101728077,
+        85812845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IyirgdTimKVBUzSXPFPoo_40.541342_-111.827165@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126992,
+    "wof:geomhash":"371123f0d92e2429d70e601b28ed8770",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85825243,
+            "region_id":85688567,
+            "venue_id":857327051
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85812845,
+            "region_id":85688567,
+            "venue_id":857327051
+        }
+    ],
+    "wof:id":857327051,
+    "wof:lastmodified":1464126992,
+    "wof:name":"Lone Peak Elementary School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -111.827165,
+    40.541342,
+    -111.827165,
+    40.541342
+],
+  "geometry": {"coordinates":[-111.82716499999999,40.541342],"type":"Point"}
+}

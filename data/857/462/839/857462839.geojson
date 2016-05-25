@@ -1,0 +1,75 @@
+{
+  "id": 857462839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834071,41.777855,-111.834071,41.777855",
+    "geom:latitude":41.777855,
+    "geom:longitude":-111.834071,
+    "iso:country":"US",
+    "sg:address":"2495 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 2725",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aD2rpOvqyQ1IuTPzgunF2_41.777855_-111.834071@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130005,
+    "wof:geomhash":"1e16c4cab8a17994154c2a4672ffd38b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857462839
+        }
+    ],
+    "wof:id":857462839,
+    "wof:lastmodified":1464130005,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -111.834071,
+    41.777855,
+    -111.834071,
+    41.777855
+],
+  "geometry": {"coordinates":[-111.83407099999999,41.777855],"type":"Point"}
+}

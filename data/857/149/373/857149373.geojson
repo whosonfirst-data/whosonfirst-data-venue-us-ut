@@ -1,0 +1,73 @@
+{
+  "id": 857149373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.933775,40.581743,-111.933775,40.581743",
+    "geom:latitude":40.581743,
+    "geom:longitude":-111.933775,
+    "iso:country":"US",
+    "sg:address":"1549 Brigadoon Park Dr",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 568 3934",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85832913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rLxlNDFACzplZXoeCPVEg_40.581743_-111.933775@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123136,
+    "wof:geomhash":"50eb617c376081f83cb2ce39e5c8a5c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85832913,
+            "region_id":85688567,
+            "venue_id":857149373
+        }
+    ],
+    "wof:id":857149373,
+    "wof:lastmodified":1464123136,
+    "wof:name":"Creative Window Painting",
+    "wof:parent_id":85832913,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -111.933775,
+    40.581743,
+    -111.933775,
+    40.581743
+],
+  "geometry": {"coordinates":[-111.933775,40.581743],"type":"Point"}
+}

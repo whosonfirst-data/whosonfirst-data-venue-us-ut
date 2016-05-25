@@ -1,0 +1,71 @@
+{
+  "id": 857218949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.739848,40.032297,-111.739848,40.032297",
+    "geom:latitude":40.032297,
+    "geom:longitude":-111.739848,
+    "iso:country":"US",
+    "sg:address":"746 S 500 W",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 9140",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hc1wItP1R8Rq94CkyJYGW_40.032297_-111.739848@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124595,
+    "wof:geomhash":"4b3baf0dc91da840d7e0d11aaecc0ced",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857218949
+        }
+    ],
+    "wof:id":857218949,
+    "wof:lastmodified":1464124595,
+    "wof:name":"Andy's Refrigeration & Repair",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -111.739848,
+    40.032297,
+    -111.739848,
+    40.032297
+],
+  "geometry": {"coordinates":[-111.73984799999999,40.032297],"type":"Point"}
+}

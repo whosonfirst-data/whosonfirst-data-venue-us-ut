@@ -1,0 +1,75 @@
+{
+  "id": 857348079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.884029,40.750224,-111.884029,40.750224",
+    "geom:latitude":40.750224,
+    "geom:longitude":-111.884029,
+    "iso:country":"US",
+    "sg:address":"820 Roberta St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 355 5750",
+    "sg:postcode":"84111",
+    "sg:province":"UT",
+    "sg:tags":[
+        "distance",
+        "long"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85867259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GI9Iaok08aYAcBprnzaEd_40.750224_-111.884029@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127442,
+    "wof:geomhash":"2e66d0427adee8ddd3273c87ead09a7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85867259,
+            "region_id":85688567,
+            "venue_id":857348079
+        }
+    ],
+    "wof:id":857348079,
+    "wof:lastmodified":1464127442,
+    "wof:name":"Introspect Inc",
+    "wof:parent_id":85867259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distance",
+        "long"
+    ]
+},
+  "bbox": [
+    -111.884029,
+    40.750224,
+    -111.884029,
+    40.750224
+],
+  "geometry": {"coordinates":[-111.884029,40.750224],"type":"Point"}
+}

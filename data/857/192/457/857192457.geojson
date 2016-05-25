@@ -1,0 +1,68 @@
+{
+  "id": 857192457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.657417,40.233853,-111.657417,40.233853",
+    "geom:latitude":40.233853,
+    "geom:longitude":-111.657417,
+    "iso:country":"US",
+    "sg:address":"37 E Center St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 356 1913",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rPdqsKZW2id7MFItQUI6t_40.233853_-111.657417@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124033,
+    "wof:geomhash":"465150bbf80c0e864871ea8c5930518b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880065,
+            "region_id":85688567,
+            "venue_id":857192457
+        }
+    ],
+    "wof:id":857192457,
+    "wof:lastmodified":1464124033,
+    "wof:name":"Axa Advisors",
+    "wof:parent_id":85880065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.657417,
+    40.233853,
+    -111.657417,
+    40.233853
+],
+  "geometry": {"coordinates":[-111.657417,40.233853],"type":"Point"}
+}

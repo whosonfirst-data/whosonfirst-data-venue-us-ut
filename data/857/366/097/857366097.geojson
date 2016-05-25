@@ -1,0 +1,71 @@
+{
+  "id": 857366097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.818131,40.541419,-111.818131,40.541419",
+    "geom:latitude":40.541419,
+    "geom:longitude":-111.818131,
+    "iso:country":"US",
+    "sg:address":"11540 Wyndcastle Dr",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 576 9301",
+    "sg:postcode":"84092",
+    "sg:province":"UT",
+    "sg:tags":[
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85825243,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JPYzDJ0jAffCvwsphsiVO_40.541419_-111.818131@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127826,
+    "wof:geomhash":"0c8a1124e1c022cdebbed9dd19b2453d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85825243,
+            "region_id":85688567,
+            "venue_id":857366097
+        }
+    ],
+    "wof:id":857366097,
+    "wof:lastmodified":1464127826,
+    "wof:name":"S L Systems Technology Inc",
+    "wof:parent_id":85825243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -111.818131,
+    40.541419,
+    -111.818131,
+    40.541419
+],
+  "geometry": {"coordinates":[-111.81813099999999,40.541419],"type":"Point"}
+}

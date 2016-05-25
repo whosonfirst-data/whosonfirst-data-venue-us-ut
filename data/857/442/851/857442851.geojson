@@ -1,0 +1,69 @@
+{
+  "id": 857442851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.778694,40.678184,-111.778694,40.678184",
+    "geom:latitude":40.678184,
+    "geom:longitude":-111.778694,
+    "iso:country":"US",
+    "sg:address":"4277 Park Terrace Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 277 5101",
+    "sg:postcode":"84124",
+    "sg:province":"UT",
+    "sg:tags":[
+        "investor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85835599,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5k5quW9UUiRzCD6oRWPROO_40.678184_-111.778694@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129620,
+    "wof:geomhash":"a3cbd162a0d9cd3bdfb69cae67542bc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85835599,
+            "region_id":85688567,
+            "venue_id":857442851
+        }
+    ],
+    "wof:id":857442851,
+    "wof:lastmodified":1464129620,
+    "wof:name":"Jamestics LLC",
+    "wof:parent_id":85835599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investor"
+    ]
+},
+  "bbox": [
+    -111.778694,
+    40.678184,
+    -111.778694,
+    40.678184
+],
+  "geometry": {"coordinates":[-111.778694,40.678184],"type":"Point"}
+}

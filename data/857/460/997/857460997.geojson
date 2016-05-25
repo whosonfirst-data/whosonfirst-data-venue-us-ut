@@ -1,0 +1,75 @@
+{
+  "id": 857460997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.272165,37.203235,-113.272165,37.203235",
+    "geom:latitude":37.203235,
+    "geom:longitude":-113.272165,
+    "iso:country":"US",
+    "sg:address":"55 N State St",
+    "sg:city":"La Verkin",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 635 4977",
+    "sg:postcode":"84745",
+    "sg:province":"UT",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727631,
+        102082879,
+        85824093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5R3Njwu4itTLBDnY2aND9I_37.203235_-113.272165@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129971,
+    "wof:geomhash":"1ce506afdfd8c57cd471f47acf7d7d2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727631,
+            "neighbourhood_id":85824093,
+            "region_id":85688567,
+            "venue_id":857460997
+        }
+    ],
+    "wof:id":857460997,
+    "wof:lastmodified":1464129971,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85824093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -113.272165,
+    37.203235,
+    -113.272165,
+    37.203235
+],
+  "geometry": {"coordinates":[-113.272165,37.203235],"type":"Point"}
+}

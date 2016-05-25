@@ -1,0 +1,75 @@
+{
+  "id": 857454227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.89403,40.767581,-111.89403,40.767581",
+    "geom:latitude":40.767581,
+    "geom:longitude":-111.89403,
+    "iso:country":"US",
+    "sg:address":"20 S West Temple",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 328 4201",
+    "sg:postcode":"84102",
+    "sg:province":"UT",
+    "sg:tags":[
+        "gallery",
+        "gift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85852649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64GfqpIxSwErkTpwtHZ2kO_40.767581_-111.894030@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129842,
+    "wof:geomhash":"5502c49e2aae7155810afe0b7637d810",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85852649,
+            "region_id":85688567,
+            "venue_id":857454227
+        }
+    ],
+    "wof:id":857454227,
+    "wof:lastmodified":1464129842,
+    "wof:name":"Salt Lake Art Center School",
+    "wof:parent_id":85852649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gallery",
+        "gift"
+    ]
+},
+  "bbox": [
+    -111.89403,
+    40.767581,
+    -111.89403,
+    40.767581
+],
+  "geometry": {"coordinates":[-111.89403,40.767581],"type":"Point"}
+}

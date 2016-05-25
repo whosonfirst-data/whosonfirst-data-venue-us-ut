@@ -1,0 +1,69 @@
+{
+  "id": 857393065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.798643,40.376885,-111.798643,40.376885",
+    "geom:latitude":40.376885,
+    "geom:longitude":-111.798643,
+    "iso:country":"US",
+    "sg:address":"85 N Center St",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 9666",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WiAWfQxFj2fzCLFk2Qyt9_40.376885_-111.798643@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128484,
+    "wof:geomhash":"ba235a3a9896b4d474104de9ce644def",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857393065
+        }
+    ],
+    "wof:id":857393065,
+    "wof:lastmodified":1464128484,
+    "wof:name":"Phelps & Assoc",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -111.798643,
+    40.376885,
+    -111.798643,
+    40.376885
+],
+  "geometry": {"coordinates":[-111.798643,40.376885],"type":"Point"}
+}

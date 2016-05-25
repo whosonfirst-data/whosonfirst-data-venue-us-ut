@@ -1,0 +1,73 @@
+{
+  "id": 857462999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.909391,40.526743,-111.909391,40.526743",
+    "geom:latitude":40.526743,
+    "geom:longitude":-111.909391,
+    "iso:country":"US",
+    "sg:address":"611 W 12300 S",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 816 9104",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "nurseryman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727849,
+        102082877,
+        85823005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4I8M0n35lUArZHWk6eh6rs_40.526743_-111.909391@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130007,
+    "wof:geomhash":"4134be937fca351fdf6512fb421dc427",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85823005,
+            "region_id":85688567,
+            "venue_id":857462999
+        }
+    ],
+    "wof:id":857462999,
+    "wof:lastmodified":1464130007,
+    "wof:name":"Countrywood Nursery",
+    "wof:parent_id":85823005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurseryman"
+    ]
+},
+  "bbox": [
+    -111.909391,
+    40.526743,
+    -111.909391,
+    40.526743
+],
+  "geometry": {"coordinates":[-111.909391,40.526743],"type":"Point"}
+}

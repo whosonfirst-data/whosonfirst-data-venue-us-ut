@@ -1,0 +1,71 @@
+{
+  "id": 857350319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.776971,39.975393,-111.776971,39.975393",
+    "geom:latitude":39.975393,
+    "geom:longitude":-111.776971,
+    "iso:country":"US",
+    "sg:address":"10 S 400 E",
+    "sg:city":"Santaquin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 754 3433",
+    "sg:postcode":"84655",
+    "sg:province":"UT",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MHyKQSbFIEJVHDmW4HXG9_39.975393_-111.776971@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127491,
+    "wof:geomhash":"52e1cf4db61e75ed46c1669cdd7ee0c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857350319
+        }
+    ],
+    "wof:id":857350319,
+    "wof:lastmodified":1464127491,
+    "wof:name":"Preferred Diesel",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -111.776971,
+    39.975393,
+    -111.776971,
+    39.975393
+],
+  "geometry": {"coordinates":[-111.776971,39.975393],"type":"Point"}
+}

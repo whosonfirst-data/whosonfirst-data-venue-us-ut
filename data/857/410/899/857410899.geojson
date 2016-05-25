@@ -1,0 +1,77 @@
+{
+  "id": 857410899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.922683,40.699612,-111.922683,40.699612",
+    "geom:latitude":40.699612,
+    "geom:longitude":-111.922683,
+    "iso:country":"US",
+    "sg:address":"3270 S 1100 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 364 8276",
+    "sg:postcode":"84119",
+    "sg:province":"UT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85810735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NB0pE2mdjfT9oj8M0i8xw_40.699612_-111.922683@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128868,
+    "wof:geomhash":"887174b217dddd311c79af5a269392da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85810735,
+            "region_id":85688567,
+            "venue_id":857410899
+        }
+    ],
+    "wof:id":857410899,
+    "wof:lastmodified":1464128868,
+    "wof:name":"Alpine Body Shop",
+    "wof:parent_id":85810735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -111.922683,
+    40.699612,
+    -111.922683,
+    40.699612
+],
+  "geometry": {"coordinates":[-111.92268300000001,40.699612],"type":"Point"}
+}

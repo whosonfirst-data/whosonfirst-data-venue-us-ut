@@ -1,0 +1,71 @@
+{
+  "id": 857085747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.835151,41.722288,-111.835151,41.722288",
+    "geom:latitude":41.722288,
+    "geom:longitude":-111.835151,
+    "iso:country":"US",
+    "sg:address":"492 S Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 3415",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "monument"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vk95CpjKtcX2nqtoXPAts_41.722288_-111.835151@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121557,
+    "wof:geomhash":"abfaf67a7c633d51b830a96a087abeaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857085747
+        }
+    ],
+    "wof:id":857085747,
+    "wof:lastmodified":1464121557,
+    "wof:name":"Brown Monument & Vault Co",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monument"
+    ]
+},
+  "bbox": [
+    -111.835151,
+    41.722288,
+    -111.835151,
+    41.722288
+],
+  "geometry": {"coordinates":[-111.835151,41.722288],"type":"Point"}
+}

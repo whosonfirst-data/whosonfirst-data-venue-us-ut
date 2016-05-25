@@ -1,0 +1,68 @@
+{
+  "id": 857363093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.939661,41.22824,-111.939661,41.22824",
+    "geom:latitude":41.22824,
+    "geom:longitude":-111.939661,
+    "iso:country":"US",
+    "sg:address":"2130 Taylor Ave",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 737 8400",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85839591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_783ox2BoIGz3lELqNBocsM_41.228240_-111.939661@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127762,
+    "wof:geomhash":"310ec0296d8c857039730b8bf8553324",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85839591,
+            "region_id":85688567,
+            "venue_id":857363093
+        }
+    ],
+    "wof:id":857363093,
+    "wof:lastmodified":1464127762,
+    "wof:name":"Carl H Taylor School",
+    "wof:parent_id":85839591,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.939661,
+    41.22824,
+    -111.939661,
+    41.22824
+],
+  "geometry": {"coordinates":[-111.939661,41.22824],"type":"Point"}
+}

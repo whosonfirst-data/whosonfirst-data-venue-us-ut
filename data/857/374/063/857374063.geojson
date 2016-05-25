@@ -1,0 +1,72 @@
+{
+  "id": 857374063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.809965,40.376787,-111.809965,40.376787",
+    "geom:latitude":40.376787,
+    "geom:longitude":-111.809965,
+    "iso:country":"US",
+    "sg:address":"385 W Main St",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 763 0335",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "sg:website":"www.enterprise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5byXGuJjDxtSx4evXVm1Dh_40.376787_-111.809965@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127990,
+    "wof:geomhash":"9b80c7b65cb2eecd6552515bd7c9be72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857374063
+        }
+    ],
+    "wof:id":857374063,
+    "wof:lastmodified":1464127990,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -111.809965,
+    40.376787,
+    -111.809965,
+    40.376787
+],
+  "geometry": {"coordinates":[-111.80996500000001,40.376787],"type":"Point"}
+}

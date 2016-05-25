@@ -1,0 +1,71 @@
+{
+  "id": 857358669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.608274,37.06044,-113.608274,37.06044",
+    "geom:latitude":37.06044,
+    "geom:longitude":-113.608274,
+    "iso:country":"US",
+    "sg:address":"2825 Jolley Cir",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 656 2476",
+    "sg:postcode":"84790",
+    "sg:province":"UT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727617,
+        102082879,
+        85803851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BcyiwCjDuwL2KTsop6Vxa_37.060440_-113.608274@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127672,
+    "wof:geomhash":"fd7bde478d0feeebb442b83ceedcfd1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85803851,
+            "region_id":85688567,
+            "venue_id":857358669
+        }
+    ],
+    "wof:id":857358669,
+    "wof:lastmodified":1464127672,
+    "wof:name":"Eric Evans MD PC",
+    "wof:parent_id":85803851,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -113.608274,
+    37.06044,
+    -113.608274,
+    37.06044
+],
+  "geometry": {"coordinates":[-113.60827399999999,37.06044],"type":"Point"}
+}

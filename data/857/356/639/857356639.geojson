@@ -1,0 +1,71 @@
+{
+  "id": 857356639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.668185,40.297692,-111.668185,40.297692",
+    "geom:latitude":40.297692,
+    "geom:longitude":-111.668185,
+    "iso:country":"US",
+    "sg:address":"1100 E 40 N",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 9844",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "heavy",
+        "construction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CLCFXI6injmXoiPQJIMKL_40.297692_-111.668185@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127628,
+    "wof:geomhash":"56e2e653c79a9de00df4cf4b23cdb0eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857356639
+        }
+    ],
+    "wof:id":857356639,
+    "wof:lastmodified":1464127628,
+    "wof:name":"Blue Sky Rentals",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heavy",
+        "construction"
+    ]
+},
+  "bbox": [
+    -111.668185,
+    40.297692,
+    -111.668185,
+    40.297692
+],
+  "geometry": {"coordinates":[-111.66818499999999,40.297692],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 857439911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.683918,40.311974,-111.683918,40.311974",
+    "geom:latitude":40.311974,
+    "geom:longitude":-111.683918,
+    "iso:country":"US",
+    "sg:address":"483 E 800 N",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 4785",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QaUMPV35oVfZIykRdopWb_40.311974_-111.683918@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129568,
+    "wof:geomhash":"050771368fd5062c2d7bb17859e6ec5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":857439911
+        }
+    ],
+    "wof:id":857439911,
+    "wof:lastmodified":1464129568,
+    "wof:name":"Marty's Place",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.683918,
+    40.311974,
+    -111.683918,
+    40.311974
+],
+  "geometry": {"coordinates":[-111.68391800000001,40.311974],"type":"Point"}
+}

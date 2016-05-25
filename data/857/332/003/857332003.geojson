@@ -1,0 +1,77 @@
+{
+  "id": 857332003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.912734,40.610566,-111.912734,40.610566",
+    "geom:latitude":40.610566,
+    "geom:longitude":-111.912734,
+    "iso:country":"US",
+    "sg:address":"148 W Center St",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 256 3318",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "sg:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728051,
+        102082877,
+        85810115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DlRm2nXck1MW7Fpa4p6Sv_40.610566_-111.912734@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127101,
+    "wof:geomhash":"738bbef864648ab586d30c337f67565e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85810115,
+            "region_id":85688567,
+            "venue_id":857332003
+        }
+    ],
+    "wof:id":857332003,
+    "wof:lastmodified":1464127101,
+    "wof:name":"Smokin' Joe's Inc",
+    "wof:parent_id":85810115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -111.912734,
+    40.610566,
+    -111.912734,
+    40.610566
+],
+  "geometry": {"coordinates":[-111.912734,40.610566],"type":"Point"}
+}

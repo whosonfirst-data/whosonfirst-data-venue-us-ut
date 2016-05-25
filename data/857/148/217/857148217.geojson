@@ -1,0 +1,82 @@
+{
+  "id": 857148217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.899679,40.778038,-111.899679,40.778038",
+    "geom:latitude":40.778038,
+    "geom:longitude":-111.899679,
+    "iso:country":"US",
+    "sg:address":"427 N 300 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 364 7146",
+    "sg:postcode":"84103",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repairing",
+        "saw",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85852649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1S0fdWoworzYTMqkY4B2xh_40.778038_-111.899679@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123105,
+    "wof:geomhash":"9322d263b162dd287046c8f0162b0ae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85852649,
+            "region_id":85688567,
+            "venue_id":857148217
+        }
+    ],
+    "wof:id":857148217,
+    "wof:lastmodified":1464123105,
+    "wof:name":"Utah Sawworks Inc",
+    "wof:parent_id":85852649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "saw",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.899679,
+    40.778038,
+    -111.899679,
+    40.778038
+],
+  "geometry": {"coordinates":[-111.89967900000001,40.778038],"type":"Point"}
+}

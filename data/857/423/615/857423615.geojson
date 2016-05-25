@@ -1,0 +1,71 @@
+{
+  "id": 857423615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.823646,41.797063,-111.823646,41.797063",
+    "geom:latitude":41.797063,
+    "geom:longitude":-111.823646,
+    "iso:country":"US",
+    "sg:address":"136 W 100 S",
+    "sg:city":"Hyde Park",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 563 0716",
+    "sg:postcode":"84318",
+    "sg:province":"UT",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mkvSZNswtAn5pkN7Yk9Qo_41.797063_-111.823646@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129181,
+    "wof:geomhash":"19d0f15cb765a5e575370c6abe056805",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857423615
+        }
+    ],
+    "wof:id":857423615,
+    "wof:lastmodified":1464129181,
+    "wof:name":"Ostermiller Construction",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -111.823646,
+    41.797063,
+    -111.823646,
+    41.797063
+],
+  "geometry": {"coordinates":[-111.823646,41.797063],"type":"Point"}
+}

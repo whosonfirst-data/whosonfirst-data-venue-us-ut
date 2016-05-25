@@ -1,0 +1,71 @@
+{
+  "id": 857159917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.82627,41.801995,-111.82627,41.801995",
+    "geom:latitude":41.801995,
+    "geom:longitude":-111.82627,
+    "iso:country":"US",
+    "sg:address":"228 W 150 N",
+    "sg:city":"Hyde Park",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 563 0611",
+    "sg:postcode":"84318",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eSDJ7YYgn8U535kr9lYFx_41.801995_-111.826270@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123343,
+    "wof:geomhash":"13994bb232f9a8fd4780ed729c08b1c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857159917
+        }
+    ],
+    "wof:id":857159917,
+    "wof:lastmodified":1464123343,
+    "wof:name":"Lees Plumbing Inc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.82627,
+    41.801995,
+    -111.82627,
+    41.801995
+],
+  "geometry": {"coordinates":[-111.82626999999999,41.801995],"type":"Point"}
+}

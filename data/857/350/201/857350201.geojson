@@ -1,0 +1,68 @@
+{
+  "id": 857350201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.840891,40.742351,-111.840891,40.742351",
+    "geom:latitude":40.742351,
+    "geom:longitude":-111.840891,
+    "iso:country":"US",
+    "sg:address":"1749 Cornell Cir",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 582 3845",
+    "sg:postcode":"84108",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85859305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0z9zJCWd6EgTCBHZj9xuD6_40.742351_-111.840891@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127489,
+    "wof:geomhash":"79748d6b281c87f6d67dbe8c887cbde2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85859305,
+            "region_id":85688567,
+            "venue_id":857350201
+        }
+    ],
+    "wof:id":857350201,
+    "wof:lastmodified":1464127489,
+    "wof:name":"Suzan Lake",
+    "wof:parent_id":85859305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.840891,
+    40.742351,
+    -111.840891,
+    40.742351
+],
+  "geometry": {"coordinates":[-111.840891,40.742351],"type":"Point"}
+}

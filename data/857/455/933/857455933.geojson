@@ -1,0 +1,75 @@
+{
+  "id": 857455933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.885775,40.40688,-111.885775,40.40688",
+    "geom:latitude":40.40688,
+    "geom:longitude":-111.885775,
+    "iso:country":"US",
+    "sg:address":"1543 N 2260 W",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 766 1775",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727857,
+        102083567,
+        85836317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4o1qR1JYEQ96d2vtC8NyJj_40.406880_-111.885775@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129871,
+    "wof:geomhash":"aed6ff3560d640d626b06a44a0b9d9ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727857,
+            "neighbourhood_id":85836317,
+            "region_id":85688567,
+            "venue_id":857455933
+        }
+    ],
+    "wof:id":857455933,
+    "wof:lastmodified":1464129871,
+    "wof:name":"Clear Choice Inc",
+    "wof:parent_id":85836317,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -111.885775,
+    40.40688,
+    -111.885775,
+    40.40688
+],
+  "geometry": {"coordinates":[-111.885775,40.40688],"type":"Point"}
+}

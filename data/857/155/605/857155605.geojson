@@ -1,0 +1,77 @@
+{
+  "id": 857155605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.73236,40.042719,-111.73236,40.042719",
+    "geom:latitude":40.042719,
+    "geom:longitude":-111.73236,
+    "iso:country":"US",
+    "sg:address":"80 S Main St",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 0300",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "prefabricated"
+    ],
+    "sg:website":"www.clearybuilding.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3c2e9JDKfq6Dh5hYYWhPVL_40.042719_-111.732360@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123259,
+    "wof:geomhash":"86665e3c5e0fa906ecdbc434f5420b2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857155605
+        }
+    ],
+    "wof:id":857155605,
+    "wof:lastmodified":1464123259,
+    "wof:name":"Cleary Building Corp",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "prefabricated"
+    ]
+},
+  "bbox": [
+    -111.73236,
+    40.042719,
+    -111.73236,
+    40.042719
+],
+  "geometry": {"coordinates":[-111.73236,40.042719],"type":"Point"}
+}

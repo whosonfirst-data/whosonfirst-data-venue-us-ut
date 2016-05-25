@@ -1,0 +1,73 @@
+{
+  "id": 857432427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.838452,40.617225,-111.838452,40.617225",
+    "geom:latitude":40.617225,
+    "geom:longitude":-111.838452,
+    "iso:country":"US",
+    "sg:address":"1879 Rich Way",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 943 3737",
+    "sg:postcode":"84121",
+    "sg:province":"UT",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728065,
+        102082877,
+        85807559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rUwih6yRL2QEVCjskAvvA_40.617225_-111.838452@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129410,
+    "wof:geomhash":"bc6c5e2e48d15379aa315a907a552c09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728065,
+            "neighbourhood_id":85807559,
+            "region_id":85688567,
+            "venue_id":857432427
+        }
+    ],
+    "wof:id":857432427,
+    "wof:lastmodified":1464129410,
+    "wof:name":"Lane K Peterson CPA",
+    "wof:parent_id":85807559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -111.838452,
+    40.617225,
+    -111.838452,
+    40.617225
+],
+  "geometry": {"coordinates":[-111.838452,40.617225],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857449883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.869816,41.318977,-111.869816,41.318977",
+    "geom:latitude":41.318977,
+    "geom:longitude":-111.869816,
+    "iso:country":"US",
+    "sg:address":"3163 E 3350 N",
+    "sg:city":"Eden",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 745 3951",
+    "sg:postcode":"84310",
+    "sg:province":"UT",
+    "sg:tags":[
+        "camp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85824645,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tiot0O5xTxMDSijhE2uNf_41.318977_-111.869816@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129752,
+    "wof:geomhash":"e9b21181a76bbf8af61591cd10c4aa37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85824645,
+            "region_id":85688567,
+            "venue_id":857449883
+        }
+    ],
+    "wof:id":857449883,
+    "wof:lastmodified":1464129752,
+    "wof:name":"Valley View Stake Camp",
+    "wof:parent_id":85824645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -111.869816,
+    41.318977,
+    -111.869816,
+    41.318977
+],
+  "geometry": {"coordinates":[-111.869816,41.318977],"type":"Point"}
+}

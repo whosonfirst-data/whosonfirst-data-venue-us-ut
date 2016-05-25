@@ -1,0 +1,75 @@
+{
+  "id": 857370223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.854919,40.651833,-111.854919,40.651833",
+    "geom:latitude":40.651833,
+    "geom:longitude":-111.854919,
+    "iso:country":"US",
+    "sg:address":"1290 Chevy Chase Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 263 6833",
+    "sg:postcode":"84117",
+    "sg:province":"UT",
+    "sg:tags":[
+        "course",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85852959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3I4mPi1TDrf44WZM2phMpk_40.651833_-111.854919@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127910,
+    "wof:geomhash":"dfb18fd90f1342ed30fde74af597ff3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85852959,
+            "region_id":85688567,
+            "venue_id":857370223
+        }
+    ],
+    "wof:id":857370223,
+    "wof:lastmodified":1464127910,
+    "wof:name":"Westbrook Golf 9 Hole Par 3",
+    "wof:parent_id":85852959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course",
+        "public"
+    ]
+},
+  "bbox": [
+    -111.854919,
+    40.651833,
+    -111.854919,
+    40.651833
+],
+  "geometry": {"coordinates":[-111.854919,40.651833],"type":"Point"}
+}

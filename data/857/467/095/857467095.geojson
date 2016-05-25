@@ -1,0 +1,73 @@
+{
+  "id": 857467095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.730229,40.039854,-111.730229,40.039854",
+    "geom:latitude":40.039854,
+    "geom:longitude":-111.730229,
+    "iso:country":"US",
+    "sg:address":"155 E 300 S",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 5290",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZdaZby2130rdKtpJHWYbK_40.039854_-111.730229@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130108,
+    "wof:geomhash":"1f9e8401f4b52b37d907a7be14ac459f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857467095
+        }
+    ],
+    "wof:id":857467095,
+    "wof:lastmodified":1464130108,
+    "wof:name":"Swimming Pool",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -111.730229,
+    40.039854,
+    -111.730229,
+    40.039854
+],
+  "geometry": {"coordinates":[-111.73022899999999,40.039854],"type":"Point"}
+}

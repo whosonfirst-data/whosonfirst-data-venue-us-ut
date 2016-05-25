@@ -1,0 +1,69 @@
+{
+  "id": 857212815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.848499,40.591872,-111.848499,40.591872",
+    "geom:latitude":40.591872,
+    "geom:longitude":-111.848499,
+    "iso:country":"US",
+    "sg:address":"8754 S Altair Dr",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 205 3128",
+    "sg:postcode":"84093",
+    "sg:province":"UT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85847325,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_060D5Mabfx3PiCi8NYWcD0_40.591872_-111.848499@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124460,
+    "wof:geomhash":"87d558506910c77c13396049afa45f40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85847325,
+            "region_id":85688567,
+            "venue_id":857212815
+        }
+    ],
+    "wof:id":857212815,
+    "wof:lastmodified":1464124460,
+    "wof:name":"TNT Maintance & RPR",
+    "wof:parent_id":85847325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -111.848499,
+    40.591872,
+    -111.848499,
+    40.591872
+],
+  "geometry": {"coordinates":[-111.848499,40.591872],"type":"Point"}
+}

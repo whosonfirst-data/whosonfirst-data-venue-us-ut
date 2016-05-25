@@ -1,0 +1,75 @@
+{
+  "id": 857381993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.882423,40.759679,-111.882423,40.759679",
+    "geom:latitude":40.759679,
+    "geom:longitude":-111.882423,
+    "iso:country":"US",
+    "sg:address":"455 S 300 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 532 4903",
+    "sg:postcode":"84111",
+    "sg:province":"UT",
+    "sg:tags":[
+        "car",
+        "insurance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_567RjGRQqo3e5pHvaIjjJ6_40.759679_-111.882423@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128179,
+    "wof:geomhash":"124189bc031ae9858567f5ba0d63327f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871021,
+            "region_id":85688567,
+            "venue_id":857381993
+        }
+    ],
+    "wof:id":857381993,
+    "wof:lastmodified":1464128179,
+    "wof:name":"Insurance Company Insptn Bur",
+    "wof:parent_id":85871021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "insurance"
+    ]
+},
+  "bbox": [
+    -111.882423,
+    40.759679,
+    -111.882423,
+    40.759679
+],
+  "geometry": {"coordinates":[-111.882423,40.759679],"type":"Point"}
+}

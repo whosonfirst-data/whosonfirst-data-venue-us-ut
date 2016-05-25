@@ -1,0 +1,68 @@
+{
+  "id": 857204341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.659375,40.221662,-111.659375,40.221662",
+    "geom:latitude":40.221662,
+    "geom:longitude":-111.659375,
+    "iso:country":"US",
+    "sg:address":"109 W 920 S",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 377 9900",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51U3a6Tes19ChRBFfyxtf4_40.221662_-111.659375@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124274,
+    "wof:geomhash":"17869ea24ec680d20155e75930766fa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880077,
+            "region_id":85688567,
+            "venue_id":857204341
+        }
+    ],
+    "wof:id":857204341,
+    "wof:lastmodified":1464124274,
+    "wof:name":"Beehive Credit Union",
+    "wof:parent_id":85880077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.659375,
+    40.221662,
+    -111.659375,
+    40.221662
+],
+  "geometry": {"coordinates":[-111.659375,40.221662],"type":"Point"}
+}

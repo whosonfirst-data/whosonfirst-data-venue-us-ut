@@ -1,0 +1,69 @@
+{
+  "id": 857113445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.860926,40.384123,-111.860926,40.384123",
+    "geom:latitude":40.384123,
+    "geom:longitude":-111.860926,
+    "iso:country":"US",
+    "sg:address":"757 W 300 S",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 766 1132",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vqIl6EnbCxBATbDi4Qe9j_40.384123_-111.860926@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122265,
+    "wof:geomhash":"3808e5116e695ad8e18e56d1a6480e98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857113445
+        }
+    ],
+    "wof:id":857113445,
+    "wof:lastmodified":1464122265,
+    "wof:name":"Jaco Masonry Inc",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.860926,
+    40.384123,
+    -111.860926,
+    40.384123
+],
+  "geometry": {"coordinates":[-111.86092600000001,40.384123],"type":"Point"}
+}

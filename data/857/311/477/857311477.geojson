@@ -1,0 +1,69 @@
+{
+  "id": 857311477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.702314,40.236238,-111.702314,40.236238",
+    "geom:latitude":40.236238,
+    "geom:longitude":-111.702314,
+    "iso:country":"US",
+    "sg:address":"252 N 2475 W",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 374 0276",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880073,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IRXSN7ZInStRDrReHZn9A_40.236238_-111.702314@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126651,
+    "wof:geomhash":"495a74d35f09f1a4f80d0c6ae84ad4f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880073,
+            "region_id":85688567,
+            "venue_id":857311477
+        }
+    ],
+    "wof:id":857311477,
+    "wof:lastmodified":1464126651,
+    "wof:name":"Historical Views",
+    "wof:parent_id":85880073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [
+    -111.702314,
+    40.236238,
+    -111.702314,
+    40.236238
+],
+  "geometry": {"coordinates":[-111.702314,40.236238],"type":"Point"}
+}

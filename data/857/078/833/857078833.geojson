@@ -1,0 +1,68 @@
+{
+  "id": 857078833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.917317,40.716061,-111.917317,40.716061",
+    "geom:latitude":40.716061,
+    "geom:longitude":-111.917317,
+    "iso:country":"US",
+    "sg:address":"2575 S 900 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 886 1410",
+    "sg:postcode":"84104",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85848029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eAiAYScu4bi3KIppFaQWc_40.716061_-111.917317@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121376,
+    "wof:geomhash":"fa8a3535f58a70eb8a02b1ad1dccdf8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85848029,
+            "region_id":85688567,
+            "venue_id":857078833
+        }
+    ],
+    "wof:id":857078833,
+    "wof:lastmodified":1464121376,
+    "wof:name":"Thai Chinese Fast Food",
+    "wof:parent_id":85848029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.917317,
+    40.716061,
+    -111.917317,
+    40.716061
+],
+  "geometry": {"coordinates":[-111.917317,40.716061],"type":"Point"}
+}

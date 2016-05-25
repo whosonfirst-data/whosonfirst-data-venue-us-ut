@@ -1,0 +1,73 @@
+{
+  "id": 857287887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.79591,40.685502,-111.79591,40.685502",
+    "geom:latitude":40.685502,
+    "geom:longitude":-111.79591,
+    "iso:country":"US",
+    "sg:address":"3969 Wasatch Blvd",
+    "sg:city":"Holladay",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 278 1500",
+    "sg:postcode":"84124",
+    "sg:province":"UT",
+    "sg:tags":[
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85833111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oMDXHPvi16kLceixsgxTd_40.685502_-111.795910@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126082,
+    "wof:geomhash":"184c5cc88c635f3ba282981be12014ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85833111,
+            "region_id":85688567,
+            "venue_id":857287887
+        }
+    ],
+    "wof:id":857287887,
+    "wof:lastmodified":1464126082,
+    "wof:name":"Canyon Bicycles LLC",
+    "wof:parent_id":85833111,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parts"
+    ]
+},
+  "bbox": [
+    -111.79591,
+    40.685502,
+    -111.79591,
+    40.685502
+],
+  "geometry": {"coordinates":[-111.79591000000001,40.685502],"type":"Point"}
+}

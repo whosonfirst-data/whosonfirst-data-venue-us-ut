@@ -1,0 +1,71 @@
+{
+  "id": 857315415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.856549,40.59251,-111.856549,40.59251",
+    "geom:latitude":40.59251,
+    "geom:longitude":-111.856549,
+    "iso:country":"US",
+    "sg:address":"8795 S 1185 E",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 255 8138",
+    "sg:postcode":"84094",
+    "sg:province":"UT",
+    "sg:tags":[
+        "housing",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85847325,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uZ0fvWpchU6VWNJWyAonO_40.592510_-111.856549@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126730,
+    "wof:geomhash":"f3cac9a06e297a5cc40debdee0af6365",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85847325,
+            "region_id":85688567,
+            "venue_id":857315415
+        }
+    ],
+    "wof:id":857315415,
+    "wof:lastmodified":1464126730,
+    "wof:name":"Hummingbird Earth Designs Inc",
+    "wof:parent_id":85847325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "housing",
+        "family"
+    ]
+},
+  "bbox": [
+    -111.856549,
+    40.59251,
+    -111.856549,
+    40.59251
+],
+  "geometry": {"coordinates":[-111.856549,40.59251],"type":"Point"}
+}

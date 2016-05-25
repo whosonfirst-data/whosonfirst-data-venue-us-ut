@@ -1,0 +1,81 @@
+{
+  "id": 857182389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.895538,40.667437,-111.895538,40.667437",
+    "geom:latitude":40.667437,
+    "geom:longitude":-111.895538,
+    "iso:country":"US",
+    "sg:address":"153 W 4800 S",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 264 2706",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:tags":[
+        "company",
+        "village"
+    ],
+    "sg:website":"www.murraypower.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85804367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LVqMcxcC7VWycvzuijVGw_40.667437_-111.895538@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123844,
+    "wof:geomhash":"1d38fe6be43dbafbf791262f9ac1fa7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85804367,
+            "region_id":85688567,
+            "venue_id":857182389
+        }
+    ],
+    "wof:id":857182389,
+    "wof:lastmodified":1464123844,
+    "wof:name":"Murray City Power Dept",
+    "wof:parent_id":85804367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "village"
+    ]
+},
+  "bbox": [
+    -111.895538,
+    40.667437,
+    -111.895538,
+    40.667437
+],
+  "geometry": {"coordinates":[-111.895538,40.667437],"type":"Point"}
+}

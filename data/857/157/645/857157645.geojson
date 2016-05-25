@@ -1,0 +1,73 @@
+{
+  "id": 857157645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.908219,40.676869,-111.908219,40.676869",
+    "geom:latitude":40.676869,
+    "geom:longitude":-111.908219,
+    "iso:country":"US",
+    "sg:address":"649 W 4330 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 262 9427",
+    "sg:postcode":"84123",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85851609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zbJ0jSTnGg9ZrgND7OWpO_40.676869_-111.908219@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123296,
+    "wof:geomhash":"341f2eb67d70a9b0ad6a5cf153a85e8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85851609,
+            "region_id":85688567,
+            "venue_id":857157645
+        }
+    ],
+    "wof:id":857157645,
+    "wof:lastmodified":1464123296,
+    "wof:name":"Weather Guard Building Pdts",
+    "wof:parent_id":85851609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.908219,
+    40.676869,
+    -111.908219,
+    40.676869
+],
+  "geometry": {"coordinates":[-111.908219,40.676869],"type":"Point"}
+}

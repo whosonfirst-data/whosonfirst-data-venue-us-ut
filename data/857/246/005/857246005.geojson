@@ -1,0 +1,68 @@
+{
+  "id": 857246005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.498199,37.134737,-113.498199,37.134737",
+    "geom:latitude":37.134737,
+    "geom:longitude":-113.498199,
+    "iso:country":"US",
+    "sg:address":"237 Red Rock Dr",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 628 0116",
+    "sg:postcode":"84780",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BwGcGQi6rGVrqEhp2o9v0_37.134737_-113.498199@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125159,
+    "wof:geomhash":"9f961152b1b60c2ecd52fae41936cfdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857246005
+        }
+    ],
+    "wof:id":857246005,
+    "wof:lastmodified":1464125159,
+    "wof:name":"Utah Elks Camp Wapiti",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.498199,
+    37.134737,
+    -113.498199,
+    37.134737
+],
+  "geometry": {"coordinates":[-113.498199,37.134737],"type":"Point"}
+}

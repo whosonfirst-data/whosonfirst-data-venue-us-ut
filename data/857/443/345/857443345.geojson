@@ -1,0 +1,73 @@
+{
+  "id": 857443345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.933242,41.222191,-111.933242,41.222191",
+    "geom:latitude":41.222191,
+    "geom:longitude":-111.933242,
+    "iso:country":"US",
+    "sg:address":"1771 24th St",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 392 7331",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85832283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_164xv4SmaeDiPs7kcCliKf_41.222191_-111.933242@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129628,
+    "wof:geomhash":"7f83321fa3730a4b89709579e368d140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85832283,
+            "region_id":85688567,
+            "venue_id":857443345
+        }
+    ],
+    "wof:id":857443345,
+    "wof:lastmodified":1464129628,
+    "wof:name":"Dean W Tanner MD",
+    "wof:parent_id":85832283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -111.933242,
+    41.222191,
+    -111.933242,
+    41.222191
+],
+  "geometry": {"coordinates":[-111.93324200000001,41.222191],"type":"Point"}
+}

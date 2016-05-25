@@ -1,0 +1,75 @@
+{
+  "id": 857199793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.564301,37.094466,-113.564301,37.094466",
+    "geom:latitude":37.094466,
+    "geom:longitude":-113.564301,
+    "iso:country":"US",
+    "sg:address":"784 S 900 E",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 652 9124",
+    "sg:postcode":"84790",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contracting",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KfAyhiuw9LEW0TcK7AHLi_37.094466_-113.564301@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124172,
+    "wof:geomhash":"5658402f2c4cd35d71d169c0132c4d55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857199793
+        }
+    ],
+    "wof:id":857199793,
+    "wof:lastmodified":1464124172,
+    "wof:name":"Layton Electric Inc",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contracting",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -113.564301,
+    37.094466,
+    -113.564301,
+    37.094466
+],
+  "geometry": {"coordinates":[-113.564301,37.094466],"type":"Point"}
+}

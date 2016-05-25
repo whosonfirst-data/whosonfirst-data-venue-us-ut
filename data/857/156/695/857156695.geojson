@@ -1,0 +1,73 @@
+{
+  "id": 857156695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.589846,40.146639,-111.589846,40.146639",
+    "geom:latitude":40.146639,
+    "geom:longitude":-111.589846,
+    "iso:country":"US",
+    "sg:address":"940 W 1800 N",
+    "sg:city":"Mapleton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 489 1276",
+    "sg:postcode":"84664",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727829,
+        102083567,
+        85880117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XnUCD7RxKiMZx5EjneaC5_40.146639_-111.589846@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123279,
+    "wof:geomhash":"4486445331032af3ff21d3dab3841abc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727829,
+            "neighbourhood_id":85880117,
+            "region_id":85688567,
+            "venue_id":857156695
+        }
+    ],
+    "wof:id":857156695,
+    "wof:lastmodified":1464123279,
+    "wof:name":"ABS Towing",
+    "wof:parent_id":85880117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -111.589846,
+    40.146639,
+    -111.589846,
+    40.146639
+],
+  "geometry": {"coordinates":[-111.58984599999999,40.146639],"type":"Point"}
+}

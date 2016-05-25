@@ -1,0 +1,73 @@
+{
+  "id": 857353555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.806405,40.380874,-111.806405,40.380874",
+    "geom:latitude":40.380874,
+    "geom:longitude":-111.806405,
+    "iso:country":"US",
+    "sg:address":"271 Pacific Dr",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 763 8189",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "truck",
+        "hauling",
+        "dump"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EzENzRF9cJPyxyz2A0NWk_40.380874_-111.806405@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127565,
+    "wof:geomhash":"d21a5eb4b2fef5a3764db87ba7e5821a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857353555
+        }
+    ],
+    "wof:id":857353555,
+    "wof:lastmodified":1464127565,
+    "wof:name":"Pitts Trucking Incorporated",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "hauling",
+        "dump"
+    ]
+},
+  "bbox": [
+    -111.806405,
+    40.380874,
+    -111.806405,
+    40.380874
+],
+  "geometry": {"coordinates":[-111.806405,40.380874],"type":"Point"}
+}

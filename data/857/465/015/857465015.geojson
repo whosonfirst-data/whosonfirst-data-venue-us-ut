@@ -1,0 +1,73 @@
+{
+  "id": 857465015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.686219,40.277134,-111.686219,40.277134",
+    "geom:latitude":40.277134,
+    "geom:longitude":-111.686219,
+    "iso:country":"US",
+    "sg:address":"1118 S State St",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 6255",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85813259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4B47O6HRLwu6dQ5MNqe3gG_40.277134_-111.686219@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130066,
+    "wof:geomhash":"8e77b7646081e3982bb19e1b23908472",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85813259,
+            "region_id":85688567,
+            "venue_id":857465015
+        }
+    ],
+    "wof:id":857465015,
+    "wof:lastmodified":1464130066,
+    "wof:name":"Serenicare LLC",
+    "wof:parent_id":85813259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -111.686219,
+    40.277134,
+    -111.686219,
+    40.277134
+],
+  "geometry": {"coordinates":[-111.68621899999999,40.277134],"type":"Point"}
+}

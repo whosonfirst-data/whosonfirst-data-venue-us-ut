@@ -1,0 +1,75 @@
+{
+  "id": 857209009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.973516,41.088241,-111.973516,41.088241",
+    "geom:latitude":41.088241,
+    "geom:longitude":-111.973516,
+    "iso:country":"US",
+    "sg:address":"1971 N 400 W",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 728 9232",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JOoQmcebE3tZfV0tWkG4d_41.088241_-111.973516@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124369,
+    "wof:geomhash":"faa469a81917ae68b5cbf693c60a63d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857209009
+        }
+    ],
+    "wof:id":857209009,
+    "wof:lastmodified":1464124369,
+    "wof:name":"Jackson Food Stores Inc",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -111.973516,
+    41.088241,
+    -111.973516,
+    41.088241
+],
+  "geometry": {"coordinates":[-111.973516,41.088241],"type":"Point"}
+}

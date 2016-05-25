@@ -1,0 +1,73 @@
+{
+  "id": 857094935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.735522,40.315181,-111.735522,40.315181",
+    "geom:latitude":40.315181,
+    "geom:longitude":-111.735522,
+    "iso:country":"US",
+    "sg:address":"1165 N Geneva Rd",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 227 7300",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lt6Hm6n8PkU5NUpndH42B_40.315181_-111.735522@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121788,
+    "wof:geomhash":"0d0d31938421d6a449fde1413823f0bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":857094935
+        }
+    ],
+    "wof:id":857094935,
+    "wof:lastmodified":1464121788,
+    "wof:name":"Geneva Nitrogen Inc",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -111.735522,
+    40.315181,
+    -111.735522,
+    40.315181
+],
+  "geometry": {"coordinates":[-111.735522,40.315181],"type":"Point"}
+}

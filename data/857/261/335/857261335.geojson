@@ -1,0 +1,68 @@
+{
+  "id": 857261335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.968734,41.063154,-111.968734,41.063154",
+    "geom:latitude":41.063154,
+    "geom:longitude":-111.968734,
+    "iso:country":"US",
+    "sg:address":"136 N Main St",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 546 3531",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pvO2si9drQKTFnPfWsOyi_41.063154_-111.968734@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125522,
+    "wof:geomhash":"6d9affb13f63ade75a2cb4e67fa8396a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857261335
+        }
+    ],
+    "wof:id":857261335,
+    "wof:lastmodified":1464125522,
+    "wof:name":"Salon On Main",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.968734,
+    41.063154,
+    -111.968734,
+    41.063154
+],
+  "geometry": {"coordinates":[-111.968734,41.063154],"type":"Point"}
+}

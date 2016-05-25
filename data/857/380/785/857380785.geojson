@@ -1,0 +1,71 @@
+{
+  "id": 857380785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.676697,40.306178,-111.676697,40.306178",
+    "geom:latitude":40.306178,
+    "geom:longitude":-111.676697,
+    "iso:country":"US",
+    "sg:address":"411 N 800 E",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 1705",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "prepackaged",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pqbW3IZ2GuxvjLF35ilUP_40.306178_-111.676697@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128143,
+    "wof:geomhash":"3cd23be2e77317fc5cd853b67d0db268",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857380785
+        }
+    ],
+    "wof:id":857380785,
+    "wof:lastmodified":1464128143,
+    "wof:name":"Rdo Software",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "prepackaged",
+        "software"
+    ]
+},
+  "bbox": [
+    -111.676697,
+    40.306178,
+    -111.676697,
+    40.306178
+],
+  "geometry": {"coordinates":[-111.676697,40.306178],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857384581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.893869,40.745947,-111.893869,40.745947",
+    "geom:latitude":40.745947,
+    "geom:longitude":-111.893869,
+    "iso:country":"US",
+    "sg:address":"1011 S West Temple",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 433 1700",
+    "sg:postcode":"84101",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85867259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BTaaHE3SZ8ebYQvOgnAi5_40.745947_-111.893869@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128257,
+    "wof:geomhash":"30e7cc836082b2f152da1565b9a29696",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85867259,
+            "region_id":85688567,
+            "venue_id":857384581
+        }
+    ],
+    "wof:id":857384581,
+    "wof:lastmodified":1464128257,
+    "wof:name":"Chula Vera",
+    "wof:parent_id":85867259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.893869,
+    40.745947,
+    -111.893869,
+    40.745947
+],
+  "geometry": {"coordinates":[-111.893869,40.745947],"type":"Point"}
+}

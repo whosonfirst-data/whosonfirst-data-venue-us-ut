@@ -1,0 +1,73 @@
+{
+  "id": 857252253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834605,41.741663,-111.834605,41.741663",
+    "geom:latitude":41.741663,
+    "geom:longitude":-111.834605,
+    "iso:country":"US",
+    "sg:address":"550 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 1667",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "consultant",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25zz9egp7tzEk1o9D77TLL_41.741663_-111.834605@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125301,
+    "wof:geomhash":"b4baf29655fb35d312ce53f3775bf586",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857252253
+        }
+    ],
+    "wof:id":857252253,
+    "wof:lastmodified":1464125301,
+    "wof:name":"Economic Associates-Utah Inc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "business"
+    ]
+},
+  "bbox": [
+    -111.834605,
+    41.741663,
+    -111.834605,
+    41.741663
+],
+  "geometry": {"coordinates":[-111.834605,41.741663],"type":"Point"}
+}

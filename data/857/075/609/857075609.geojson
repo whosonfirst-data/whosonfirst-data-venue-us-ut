@@ -1,0 +1,75 @@
+{
+  "id": 857075609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.91166,41.110622,-111.91166,41.110622",
+    "geom:latitude":41.110622,
+    "geom:longitude":-111.91166,
+    "iso:country":"US",
+    "sg:address":"3590 N 2900 E",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 771 1108",
+    "sg:postcode":"84040",
+    "sg:province":"UT",
+    "sg:tags":[
+        "residential",
+        "commercial",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727911,
+        102083563,
+        85847875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Dhw2IPuIp1ni2oS3ycVIk_41.110622_-111.911660@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121298,
+    "wof:geomhash":"9bfb04e4a9cd12b5a988f40e2aa03c22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727911,
+            "neighbourhood_id":85847875,
+            "region_id":85688567,
+            "venue_id":857075609
+        }
+    ],
+    "wof:id":857075609,
+    "wof:lastmodified":1464121298,
+    "wof:name":"Bernie Stark Construction Inc",
+    "wof:parent_id":85847875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "commercial",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.91166,
+    41.110622,
+    -111.91166,
+    41.110622
+],
+  "geometry": {"coordinates":[-111.91166,41.110622],"type":"Point"}
+}

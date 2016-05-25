@@ -1,0 +1,80 @@
+{
+  "id": 857218157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.653966,40.233629,-111.653966,40.233629",
+    "geom:latitude":40.233629,
+    "geom:longitude":-111.653966,
+    "iso:country":"US",
+    "sg:address":"240 E Center St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 8333",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NDZelxpG2aKj6BdFvnB1c_40.233629_-111.653966@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124577,
+    "wof:geomhash":"7cf06c8c86fc67aaf845f364a1fc11fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880065,
+            "region_id":85688567,
+            "venue_id":857218157
+        }
+    ],
+    "wof:id":857218157,
+    "wof:lastmodified":1464124577,
+    "wof:name":"Utah Housing Authority County",
+    "wof:parent_id":85880065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "authorities",
+        "housing"
+    ]
+},
+  "bbox": [
+    -111.653966,
+    40.233629,
+    -111.653966,
+    40.233629
+],
+  "geometry": {"coordinates":[-111.653966,40.233629],"type":"Point"}
+}

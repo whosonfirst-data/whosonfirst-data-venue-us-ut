@@ -1,0 +1,73 @@
+{
+  "id": 857132755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.891101,40.774606,-111.891101,40.774606",
+    "geom:latitude":40.774606,
+    "geom:longitude":-111.891101,
+    "iso:country":"US",
+    "sg:address":"215 N Main St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 531 7275",
+    "sg:postcode":"84103",
+    "sg:province":"UT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85809381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fvSmUFsMMUYOTT31EJEvv_40.774606_-111.891101@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122735,
+    "wof:geomhash":"2049eae3da699d5715babaaa122a05a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85809381,
+            "region_id":85688567,
+            "venue_id":857132755
+        }
+    ],
+    "wof:id":857132755,
+    "wof:lastmodified":1464122735,
+    "wof:name":"Park Capital Apartments",
+    "wof:parent_id":85809381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -111.891101,
+    40.774606,
+    -111.891101,
+    40.774606
+],
+  "geometry": {"coordinates":[-111.89110100000001,40.774606],"type":"Point"}
+}

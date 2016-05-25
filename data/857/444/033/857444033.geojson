@@ -1,0 +1,75 @@
+{
+  "id": 857444033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.6676,40.226669,-111.6676,40.226669",
+    "geom:latitude":40.226669,
+    "geom:longitude":-111.6676,
+    "iso:country":"US",
+    "sg:address":"566 S 500 W",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 377 5776",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "residential",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4S0bxFVv6ZTVcWrNWnREZk_40.226669_-111.667600@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129640,
+    "wof:geomhash":"f2c9d0ceb6c8ab819447dc3ec9708fdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880075,
+            "region_id":85688567,
+            "venue_id":857444033
+        }
+    ],
+    "wof:id":857444033,
+    "wof:lastmodified":1464129640,
+    "wof:name":"Boswell & Elder Construction",
+    "wof:parent_id":85880075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -111.6676,
+    40.226669,
+    -111.6676,
+    40.226669
+],
+  "geometry": {"coordinates":[-111.66759999999999,40.226669],"type":"Point"}
+}

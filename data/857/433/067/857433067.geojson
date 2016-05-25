@@ -1,0 +1,68 @@
+{
+  "id": 857433067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.888151,40.722687,-111.888151,40.722687",
+    "geom:latitude":40.722687,
+    "geom:longitude":-111.888151,
+    "iso:country":"US",
+    "sg:address":"2225 S State St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 487 9872",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85849489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fKtaTkdWJEb3za46Aseg4_40.722687_-111.888151@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129428,
+    "wof:geomhash":"dba7eec909042da2e79bd4e29c9b1f97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85849489,
+            "region_id":85688567,
+            "venue_id":857433067
+        }
+    ],
+    "wof:id":857433067,
+    "wof:lastmodified":1464129428,
+    "wof:name":"Denkers David G",
+    "wof:parent_id":85849489,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.888151,
+    40.722687,
+    -111.888151,
+    40.722687
+],
+  "geometry": {"coordinates":[-111.88815099999999,40.722687],"type":"Point"}
+}

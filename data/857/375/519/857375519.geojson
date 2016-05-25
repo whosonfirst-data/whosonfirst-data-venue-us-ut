@@ -1,0 +1,68 @@
+{
+  "id": 857375519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.063318,41.176197,-112.063318,41.176197",
+    "geom:latitude":41.176197,
+    "geom:longitude":-112.063318,
+    "iso:country":"US",
+    "sg:address":"3410 W 4800 S",
+    "sg:city":"Roy",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 731 3947",
+    "sg:postcode":"84067",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85804651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qKKMZrxJ3IztltXt6jDZo_41.176197_-112.063318@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128018,
+    "wof:geomhash":"8ae2148ef42e4e3d6f65047acc36342c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85804651,
+            "region_id":85688567,
+            "venue_id":857375519
+        }
+    ],
+    "wof:id":857375519,
+    "wof:lastmodified":1464128018,
+    "wof:name":"Subway Sandwiches & Salads",
+    "wof:parent_id":85804651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.063318,
+    41.176197,
+    -112.063318,
+    41.176197
+],
+  "geometry": {"coordinates":[-112.063318,41.176197],"type":"Point"}
+}

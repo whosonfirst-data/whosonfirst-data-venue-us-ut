@@ -1,0 +1,75 @@
+{
+  "id": 857191101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.868631,40.40389,-111.868631,40.40389",
+    "geom:latitude":40.40389,
+    "geom:longitude":-111.868631,
+    "iso:country":"US",
+    "sg:address":"1358 N 1200 W",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 768 8505",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727857,
+        102083567,
+        85836317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_543gx9xFsFXM5qzgu5fnVZ_40.403890_-111.868631@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124008,
+    "wof:geomhash":"f8cccf921c47fb769671028a7d1478be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727857,
+            "neighbourhood_id":85836317,
+            "region_id":85688567,
+            "venue_id":857191101
+        }
+    ],
+    "wof:id":857191101,
+    "wof:lastmodified":1464124008,
+    "wof:name":"G & G Electric LLC",
+    "wof:parent_id":85836317,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.868631,
+    40.40389,
+    -111.868631,
+    40.40389
+],
+  "geometry": {"coordinates":[-111.86863099999999,40.40389],"type":"Point"}
+}

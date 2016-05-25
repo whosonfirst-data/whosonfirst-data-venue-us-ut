@@ -1,0 +1,69 @@
+{
+  "id": 857181291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.9524,41.107801,-111.9524,41.107801",
+    "geom:latitude":41.107801,
+    "geom:longitude":-111.9524,
+    "iso:country":"US",
+    "sg:address":"3050 N 750 E",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 544 8666",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85844663,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49UA8OzPK0RLxUMW2RJjut_41.107801_-111.952400@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123820,
+    "wof:geomhash":"6605616030fb93e91a618de548896441",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "neighbourhood_id":85844663,
+            "region_id":85688567,
+            "venue_id":857181291
+        }
+    ],
+    "wof:id":857181291,
+    "wof:lastmodified":1464123820,
+    "wof:name":"Skyhook Towing",
+    "wof:parent_id":85844663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -111.9524,
+    41.107801,
+    -111.9524,
+    41.107801
+],
+  "geometry": {"coordinates":[-111.9524,41.107801],"type":"Point"}
+}

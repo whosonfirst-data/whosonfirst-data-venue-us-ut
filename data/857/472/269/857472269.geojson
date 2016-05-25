@@ -1,0 +1,73 @@
+{
+  "id": 857472269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.741685,40.020338,-111.741685,40.020338",
+    "geom:latitude":40.020338,
+    "geom:longitude":-111.741685,
+    "iso:country":"US",
+    "sg:address":"1455 S 600 W",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 2296",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "apparatus",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Audf5ofjTum2ismAUfs8Y_40.020338_-111.741685@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130223,
+    "wof:geomhash":"f457c2da9a9798db1eb441678c73c46d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857472269
+        }
+    ],
+    "wof:id":857472269,
+    "wof:lastmodified":1464130223,
+    "wof:name":"Eargear LLC",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apparatus",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.741685,
+    40.020338,
+    -111.741685,
+    40.020338
+],
+  "geometry": {"coordinates":[-111.741685,40.020338],"type":"Point"}
+}

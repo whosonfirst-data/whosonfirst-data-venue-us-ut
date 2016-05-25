@@ -1,0 +1,71 @@
+{
+  "id": 857368433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.569415,40.137363,-111.569415,40.137363",
+    "geom:latitude":40.137363,
+    "geom:longitude":-111.569415,
+    "iso:country":"US",
+    "sg:address":"737 N 800 E",
+    "sg:city":"Mapleton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 915 3608",
+    "sg:postcode":"84664",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DVtUxGe6sAaeV0YXuBtt8_40.137363_-111.569415@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127871,
+    "wof:geomhash":"d90a098bd08860b46414b9a2064c02c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857368433
+        }
+    ],
+    "wof:id":857368433,
+    "wof:lastmodified":1464127871,
+    "wof:name":"Conners Custom Construction",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -111.569415,
+    40.137363,
+    -111.569415,
+    40.137363
+],
+  "geometry": {"coordinates":[-111.56941500000001,40.137363],"type":"Point"}
+}

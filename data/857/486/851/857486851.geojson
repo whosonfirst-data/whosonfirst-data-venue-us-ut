@@ -1,0 +1,69 @@
+{
+  "id": 857486851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.944875,41.320916,-111.944875,41.320916",
+    "geom:latitude":41.320916,
+    "geom:longitude":-111.944875,
+    "iso:country":"US",
+    "sg:address":"1146 E 3300 N",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 786 1334",
+    "sg:postcode":"84414",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85824645,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TEh3jeaoDUEASCzO7FbX2_41.320916_-111.944875@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130500,
+    "wof:geomhash":"3545d5e4afef1c873e1333d4362787bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85824645,
+            "region_id":85688567,
+            "venue_id":857486851
+        }
+    ],
+    "wof:id":857486851,
+    "wof:lastmodified":1464130500,
+    "wof:name":"Kendall Insulation Inc",
+    "wof:parent_id":85824645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.944875,
+    41.320916,
+    -111.944875,
+    41.320916
+],
+  "geometry": {"coordinates":[-111.944875,41.320916],"type":"Point"}
+}

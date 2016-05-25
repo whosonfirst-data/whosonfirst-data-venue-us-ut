@@ -1,0 +1,73 @@
+{
+  "id": 857279521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.830031,41.761248,-111.830031,41.761248",
+    "geom:latitude":41.761248,
+    "geom:longitude":-111.830031,
+    "iso:country":"US",
+    "sg:address":"131 E 1600 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 7273",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dealer",
+        "rug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mzZnelPnC0MDzXmPFC8VZ_41.761248_-111.830031@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125911,
+    "wof:geomhash":"8584dab26131b13a032bba3bc4662e08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857279521
+        }
+    ],
+    "wof:id":857279521,
+    "wof:lastmodified":1464125911,
+    "wof:name":"Color Tile",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "rug"
+    ]
+},
+  "bbox": [
+    -111.830031,
+    41.761248,
+    -111.830031,
+    41.761248
+],
+  "geometry": {"coordinates":[-111.83003100000001,41.761248],"type":"Point"}
+}

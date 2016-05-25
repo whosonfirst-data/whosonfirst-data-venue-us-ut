@@ -1,0 +1,73 @@
+{
+  "id": 857407043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.017227,41.113235,-112.017227,41.113235",
+    "geom:latitude":41.113235,
+    "geom:longitude":-112.017227,
+    "iso:country":"US",
+    "sg:address":"157 S 450 E",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 774 8105",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85851583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qLBC1sncn0sM940Jgb8sW_41.113235_-112.017227@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128769,
+    "wof:geomhash":"2b27b76b873630e0b33c53986ede7183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85851583,
+            "region_id":85688567,
+            "venue_id":857407043
+        }
+    ],
+    "wof:id":857407043,
+    "wof:lastmodified":1464128769,
+    "wof:name":"Sunnyside Up Tanning Salon",
+    "wof:parent_id":85851583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -112.017227,
+    41.113235,
+    -112.017227,
+    41.113235
+],
+  "geometry": {"coordinates":[-112.01722700000001,41.113235],"type":"Point"}
+}

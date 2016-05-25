@@ -1,0 +1,69 @@
+{
+  "id": 857197589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.814334,40.382699,-111.814334,40.382699",
+    "geom:latitude":40.382699,
+    "geom:longitude":-111.814334,
+    "iso:country":"US",
+    "sg:address":"240 W State Rd",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 0773",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sE48W1mIXMKgAQvGWsrNU_40.382699_-111.814334@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124129,
+    "wof:geomhash":"7b0229393d47710935d4a8c3f44f51ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857197589
+        }
+    ],
+    "wof:id":857197589,
+    "wof:lastmodified":1464124129,
+    "wof:name":"AT&T",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -111.814334,
+    40.382699,
+    -111.814334,
+    40.382699
+],
+  "geometry": {"coordinates":[-111.814334,40.382699],"type":"Point"}
+}

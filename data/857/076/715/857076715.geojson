@@ -1,0 +1,75 @@
+{
+  "id": 857076715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.655354,40.113809,-111.655354,40.113809",
+    "geom:latitude":40.113809,
+    "geom:longitude":-111.655354,
+    "iso:country":"US",
+    "sg:address":"86 W 300 N",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 2083",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "dwelling",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42Pi949PTK3boJBPlFY7Jq_40.113809_-111.655354@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121327,
+    "wof:geomhash":"a841490619d5f55d0144fc53a75d369d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857076715
+        }
+    ],
+    "wof:id":857076715,
+    "wof:lastmodified":1464121327,
+    "wof:name":"Chapples Rentals",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "dwelling",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -111.655354,
+    40.113809,
+    -111.655354,
+    40.113809
+],
+  "geometry": {"coordinates":[-111.655354,40.113809],"type":"Point"}
+}

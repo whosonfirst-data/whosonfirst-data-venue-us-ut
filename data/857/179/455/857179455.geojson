@@ -1,0 +1,71 @@
+{
+  "id": 857179455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.79536,41.754174,-111.79536,41.754174",
+    "geom:latitude":41.754174,
+    "geom:longitude":-111.79536,
+    "iso:country":"US",
+    "sg:address":"1565 E 1260 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 0001",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1T9fSagH35NZlZT8SXMaSy_41.754174_-111.795360@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123784,
+    "wof:geomhash":"cd393569f3370fdb2d40d22b4a1236fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857179455
+        }
+    ],
+    "wof:id":857179455,
+    "wof:lastmodified":1464123784,
+    "wof:name":"Saunders Resource Managem",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.79536,
+    41.754174,
+    -111.79536,
+    41.754174
+],
+  "geometry": {"coordinates":[-111.79536,41.754174],"type":"Point"}
+}

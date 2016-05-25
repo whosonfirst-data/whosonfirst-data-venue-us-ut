@@ -1,0 +1,73 @@
+{
+  "id": 857456897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.967348,41.060225,-111.967348,41.060225",
+    "geom:latitude":41.060225,
+    "geom:longitude":-111.967348,
+    "iso:country":"US",
+    "sg:address":"116 W Gentile St",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 547 0642",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XfVJUPOyBpj8qxJlQZ8kA_41.060225_-111.967348@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129889,
+    "wof:geomhash":"5b03ee5c5598f1a6909613c0948df226",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857456897
+        }
+    ],
+    "wof:id":857456897,
+    "wof:lastmodified":1464129889,
+    "wof:name":"Ruby Jewels Fashions",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -111.967348,
+    41.060225,
+    -111.967348,
+    41.060225
+],
+  "geometry": {"coordinates":[-111.967348,41.060225],"type":"Point"}
+}

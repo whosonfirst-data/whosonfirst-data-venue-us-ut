@@ -1,0 +1,73 @@
+{
+  "id": 857352979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.900529,40.876073,-111.900529,40.876073",
+    "geom:latitude":40.876073,
+    "geom:longitude":-111.900529,
+    "iso:country":"US",
+    "sg:address":"756 W 1400 S",
+    "sg:city":"Woods Cross",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 295 4315",
+    "sg:postcode":"84087",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727887,
+        102083563,
+        85851805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Vl3e8PKSoAe1Ipxv8t6W5_40.876073_-111.900529@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127553,
+    "wof:geomhash":"35e89c0388518d321d333693f7dc6d38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727887,
+            "neighbourhood_id":85851805,
+            "region_id":85688567,
+            "venue_id":857352979
+        }
+    ],
+    "wof:id":857352979,
+    "wof:lastmodified":1464127553,
+    "wof:name":"Tripoz Diesel Service",
+    "wof:parent_id":85851805,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -111.900529,
+    40.876073,
+    -111.900529,
+    40.876073
+],
+  "geometry": {"coordinates":[-111.90052900000001,40.876073],"type":"Point"}
+}

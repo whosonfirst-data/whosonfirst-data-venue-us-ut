@@ -1,0 +1,69 @@
+{
+  "id": 857441539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.661515,40.303716,-111.661515,40.303716",
+    "geom:latitude":40.303716,
+    "geom:longitude":-111.661515,
+    "iso:country":"US",
+    "sg:address":"251 River Park Dr",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Dairy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 655 0200",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "cheese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_045ARh3RVcgAPEb2GaMRNV_40.303716_-111.661515@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129597,
+    "wof:geomhash":"f9570d9f684c9a2060940790adf08cca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857441539
+        }
+    ],
+    "wof:id":857441539,
+    "wof:lastmodified":1464129597,
+    "wof:name":"Who Moved My Cheese",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cheese"
+    ]
+},
+  "bbox": [
+    -111.661515,
+    40.303716,
+    -111.661515,
+    40.303716
+],
+  "geometry": {"coordinates":[-111.66151499999999,40.303716],"type":"Point"}
+}

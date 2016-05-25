@@ -1,0 +1,73 @@
+{
+  "id": 857414621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.793481,40.631613,-111.793481,40.631613",
+    "geom:latitude":40.631613,
+    "geom:longitude":-111.793481,
+    "iso:country":"US",
+    "sg:address":"6517 E Canyon Cove Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 277 8635",
+    "sg:postcode":"84121",
+    "sg:province":"UT",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85824735,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58O53swXbuagttZZ3a6WIi_40.631613_-111.793481@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128959,
+    "wof:geomhash":"68f283e6644eb52b3e9e25dfbdf3e3fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85824735,
+            "region_id":85688567,
+            "venue_id":857414621
+        }
+    ],
+    "wof:id":857414621,
+    "wof:lastmodified":1464128959,
+    "wof:name":"Ctr Ranching LLC",
+    "wof:parent_id":85824735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -111.793481,
+    40.631613,
+    -111.793481,
+    40.631613
+],
+  "geometry": {"coordinates":[-111.793481,40.631613],"type":"Point"}
+}

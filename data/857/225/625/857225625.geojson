@@ -1,0 +1,75 @@
+{
+  "id": 857225625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.959969,40.48121,-111.959969,40.48121",
+    "geom:latitude":40.48121,
+    "geom:longitude":-111.959969,
+    "iso:country":"US",
+    "sg:address":"2814 W 14865 S",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 253 0501",
+    "sg:postcode":"84065",
+    "sg:province":"UT",
+    "sg:tags":[
+        "surgeon",
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728045,
+        102082877,
+        85845111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gghXfXUNxSjOkHruk0LQd_40.481210_-111.959969@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124723,
+    "wof:geomhash":"7e3fb15a01702281850f5ea33acc7a77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728045,
+            "neighbourhood_id":85845111,
+            "region_id":85688567,
+            "venue_id":857225625
+        }
+    ],
+    "wof:id":857225625,
+    "wof:lastmodified":1464124723,
+    "wof:name":"Taylor's Tree Surgery",
+    "wof:parent_id":85845111,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "tree"
+    ]
+},
+  "bbox": [
+    -111.959969,
+    40.48121,
+    -111.959969,
+    40.48121
+],
+  "geometry": {"coordinates":[-111.959969,40.48121],"type":"Point"}
+}

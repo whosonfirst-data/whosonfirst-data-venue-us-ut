@@ -1,0 +1,75 @@
+{
+  "id": 857091409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.028358,41.15841,-112.028358,41.15841",
+    "geom:latitude":41.15841,
+    "geom:longitude":-112.028358,
+    "iso:country":"US",
+    "sg:address":"5756 S 2000 W",
+    "sg:city":"Roy",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 773 7133",
+    "sg:postcode":"84067",
+    "sg:province":"UT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728023,
+        102083539,
+        85843307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TX04m7GQlJXRJJj9MhSx7_41.158410_-112.028358@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121721,
+    "wof:geomhash":"4a1eaf7c8eddeb3dbb1382f0ee2a2d76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728023,
+            "neighbourhood_id":85843307,
+            "region_id":85688567,
+            "venue_id":857091409
+        }
+    ],
+    "wof:id":857091409,
+    "wof:lastmodified":1464121721,
+    "wof:name":"Leon H White MD",
+    "wof:parent_id":85843307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -112.028358,
+    41.15841,
+    -112.028358,
+    41.15841
+],
+  "geometry": {"coordinates":[-112.028358,41.15841],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857163985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.877034,40.769276,-111.877034,40.769276",
+    "geom:latitude":40.769276,
+    "geom:longitude":-111.877034,
+    "iso:country":"US",
+    "sg:address":"476 E South Temple St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 558 5178",
+    "sg:postcode":"84111",
+    "sg:province":"UT",
+    "sg:tags":[
+        "development",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85809299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HB4LAf2vzgv6w724Xf4D5_40.769276_-111.877034@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123444,
+    "wof:geomhash":"fd84a6bec08e6b63cbfba8a7652f2a6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85809299,
+            "region_id":85688567,
+            "venue_id":857163985
+        }
+    ],
+    "wof:id":857163985,
+    "wof:lastmodified":1464123444,
+    "wof:name":"International Outsourcing",
+    "wof:parent_id":85809299,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "software"
+    ]
+},
+  "bbox": [
+    -111.877034,
+    40.769276,
+    -111.877034,
+    40.769276
+],
+  "geometry": {"coordinates":[-111.87703399999999,40.769276],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 857467019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.901591,40.622327,-111.901591,40.622327",
+    "geom:latitude":40.622327,
+    "geom:longitude":-111.901591,
+    "iso:country":"US",
+    "sg:address":"7117 S 400 W",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 565 8128",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728051,
+        102082877,
+        85803901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vMBckLhIoDAJFucIrhsou_40.622327_-111.901591@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130107,
+    "wof:geomhash":"5de4373cdb1193b09f66499e11f1ca08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85803901,
+            "region_id":85688567,
+            "venue_id":857467019
+        }
+    ],
+    "wof:id":857467019,
+    "wof:lastmodified":1464130107,
+    "wof:name":"Wright Medical-Sato",
+    "wof:parent_id":85803901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -111.901591,
+    40.622327,
+    -111.901591,
+    40.622327
+],
+  "geometry": {"coordinates":[-111.901591,40.622327],"type":"Point"}
+}

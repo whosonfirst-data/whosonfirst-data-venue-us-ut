@@ -1,0 +1,75 @@
+{
+  "id": 857463349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.648277,40.273159,-111.648277,40.273159",
+    "geom:latitude":40.273159,
+    "geom:longitude":-111.648277,
+    "iso:country":"US",
+    "sg:address":"3020 N 600 E",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 374 0347",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85817395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zatUxNbUJEXDtkT82adaE_40.273159_-111.648277@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130013,
+    "wof:geomhash":"441d59b6dada95773e664a496dd840ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85817395,
+            "region_id":85688567,
+            "venue_id":857463349
+        }
+    ],
+    "wof:id":857463349,
+    "wof:lastmodified":1464130013,
+    "wof:name":"Wellesley Electric",
+    "wof:parent_id":85817395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.648277,
+    40.273159,
+    -111.648277,
+    40.273159
+],
+  "geometry": {"coordinates":[-111.64827699999999,40.273159],"type":"Point"}
+}

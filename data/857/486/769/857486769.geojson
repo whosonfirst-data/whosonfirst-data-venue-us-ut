@@ -1,0 +1,75 @@
+{
+  "id": 857486769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.706979,40.322777,-111.706979,40.322777",
+    "geom:latitude":40.322777,
+    "geom:longitude":-111.706979,
+    "iso:country":"US",
+    "sg:address":"511 W 1400 N",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 226 2325",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75CT4dg0qQIZlYfdGRiHIO_40.322777_-111.706979@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130499,
+    "wof:geomhash":"8df6058563cb18ab4645d45bc4cf9f6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":857486769
+        }
+    ],
+    "wof:id":857486769,
+    "wof:lastmodified":1464130499,
+    "wof:name":"Forever Construction",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.706979,
+    40.322777,
+    -111.706979,
+    40.322777
+],
+  "geometry": {"coordinates":[-111.706979,40.322777],"type":"Point"}
+}

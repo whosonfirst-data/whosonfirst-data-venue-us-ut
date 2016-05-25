@@ -1,0 +1,71 @@
+{
+  "id": 857359835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.839705,40.382787,-111.839705,40.382787",
+    "geom:latitude":40.382787,
+    "geom:longitude":-111.839705,
+    "iso:country":"US",
+    "sg:address":"455 S 600 E",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 368 3924",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "demolition",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BGHVhhNtVOeNxzImcebvl_40.382787_-111.839705@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127693,
+    "wof:geomhash":"692ecdd5e7448365fb6c6ec8d0d68b14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857359835
+        }
+    ],
+    "wof:id":857359835,
+    "wof:lastmodified":1464127693,
+    "wof:name":"Thomas J Peck & Sons Inc",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "demolition",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.839705,
+    40.382787,
+    -111.839705,
+    40.382787
+],
+  "geometry": {"coordinates":[-111.839705,40.382787],"type":"Point"}
+}

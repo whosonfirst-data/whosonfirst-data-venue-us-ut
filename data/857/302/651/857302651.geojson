@@ -1,0 +1,75 @@
+{
+  "id": 857302651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.667578,40.230524,-111.667578,40.230524",
+    "geom:latitude":40.230524,
+    "geom:longitude":-111.667578,
+    "iso:country":"US",
+    "sg:address":"260 S 500 W",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 374 2019",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4p0DcGOk9Uem1IMjOHiFCc_40.230524_-111.667578@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126468,
+    "wof:geomhash":"712bc58fea074a7a19512da81ccc1ef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880075,
+            "region_id":85688567,
+            "venue_id":857302651
+        }
+    ],
+    "wof:id":857302651,
+    "wof:lastmodified":1464126468,
+    "wof:name":"Joe R Linford Plumbing & Htg",
+    "wof:parent_id":85880075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.667578,
+    40.230524,
+    -111.667578,
+    40.230524
+],
+  "geometry": {"coordinates":[-111.66757800000001,40.230524],"type":"Point"}
+}

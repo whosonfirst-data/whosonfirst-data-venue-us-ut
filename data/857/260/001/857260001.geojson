@@ -1,0 +1,69 @@
+{
+  "id": 857260001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.672631,40.319725,-111.672631,40.319725",
+    "geom:latitude":40.319725,
+    "geom:longitude":-111.672631,
+    "iso:country":"US",
+    "sg:address":"1212 N 1000 E",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 222 0999",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "photocopying"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rpEJgOpZGKCNxaB9J6884_40.319725_-111.672631@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125490,
+    "wof:geomhash":"c709e2b1d1238db6ca7a7da660fda211",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857260001
+        }
+    ],
+    "wof:id":857260001,
+    "wof:lastmodified":1464125490,
+    "wof:name":"Great Spaces",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photocopying"
+    ]
+},
+  "bbox": [
+    -111.672631,
+    40.319725,
+    -111.672631,
+    40.319725
+],
+  "geometry": {"coordinates":[-111.672631,40.319725],"type":"Point"}
+}

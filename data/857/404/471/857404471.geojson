@@ -1,0 +1,75 @@
+{
+  "id": 857404471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.808911,40.631365,-111.808911,40.631365",
+    "geom:latitude":40.631365,
+    "geom:longitude":-111.808911,
+    "iso:country":"US",
+    "sg:address":"2936 Anne Marie Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 244 3402",
+    "sg:postcode":"84121",
+    "sg:province":"UT",
+    "sg:tags":[
+        "medical",
+        "group"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728065,
+        102082877,
+        85812421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PBO4YbWq4te22QX4sW3d0_40.631365_-111.808911@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128717,
+    "wof:geomhash":"17c2bbf481a17402774bbde1e185776d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728065,
+            "neighbourhood_id":85812421,
+            "region_id":85688567,
+            "venue_id":857404471
+        }
+    ],
+    "wof:id":857404471,
+    "wof:lastmodified":1464128717,
+    "wof:name":"EIR Medical",
+    "wof:parent_id":85812421,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "group"
+    ]
+},
+  "bbox": [
+    -111.808911,
+    40.631365,
+    -111.808911,
+    40.631365
+],
+  "geometry": {"coordinates":[-111.80891099999999,40.631365],"type":"Point"}
+}

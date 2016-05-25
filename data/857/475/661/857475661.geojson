@@ -1,0 +1,71 @@
+{
+  "id": 857475661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.976554,37.00202,-112.976554,37.00202",
+    "geom:latitude":37.00202,
+    "geom:longitude":-112.976554,
+    "iso:country":"US",
+    "sg:address":"150 Field Ave",
+    "sg:city":"Hildale",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 705 0780",
+    "sg:postcode":"84784",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727619,
+        102082879,
+        85822405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pBxfTkGncXPa9ZPBGOKGD_37.002020_-112.976554@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130291,
+    "wof:geomhash":"ed41a2a0e1a4e10180f29a87d74d5028",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727619,
+            "neighbourhood_id":85822405,
+            "region_id":85688567,
+            "venue_id":857475661
+        }
+    ],
+    "wof:id":857475661,
+    "wof:lastmodified":1464130291,
+    "wof:name":"SJS Construction Inc",
+    "wof:parent_id":85822405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -112.976554,
+    37.00202,
+    -112.976554,
+    37.00202
+],
+  "geometry": {"coordinates":[-112.97655399999999,37.00202],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 857402153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.719207,40.044417,-111.719207,40.044417",
+    "geom:latitude":40.044417,
+    "geom:longitude":-111.719207,
+    "iso:country":"US",
+    "sg:address":"818 State Hwy 198",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 2600",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:website":"www.farwestbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wBxTNxEsT8nDVqOuCyXB6_40.044417_-111.719207@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128669,
+    "wof:geomhash":"a4ec7c9dca89ec9912fd89c8f1fad49f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857402153
+        }
+    ],
+    "wof:id":857402153,
+    "wof:lastmodified":1464128669,
+    "wof:name":"Far West Bank",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.719207,
+    40.044417,
+    -111.719207,
+    40.044417
+],
+  "geometry": {"coordinates":[-111.719207,40.044417],"type":"Point"}
+}

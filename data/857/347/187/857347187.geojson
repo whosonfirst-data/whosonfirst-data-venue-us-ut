@@ -1,0 +1,71 @@
+{
+  "id": 857347187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.65309,40.107651,-111.65309,40.107651",
+    "geom:latitude":40.107651,
+    "geom:longitude":-111.65309,
+    "iso:country":"US",
+    "sg:address":"160 S 100 E",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 6920",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WMCBwMHcFTvf0jg2H87CV_40.107651_-111.653090@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127423,
+    "wof:geomhash":"4943ca4a4f2266ec740f758221e0c84f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857347187
+        }
+    ],
+    "wof:id":857347187,
+    "wof:lastmodified":1464127423,
+    "wof:name":"The Wildwood Resort Co",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -111.65309,
+    40.107651,
+    -111.65309,
+    40.107651
+],
+  "geometry": {"coordinates":[-111.65309000000001,40.107651],"type":"Point"}
+}

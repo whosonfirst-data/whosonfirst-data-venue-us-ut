@@ -1,0 +1,73 @@
+{
+  "id": 857104009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.041644,41.138215,-112.041644,41.138215",
+    "geom:latitude":41.138215,
+    "geom:longitude":-112.041644,
+    "iso:country":"US",
+    "sg:address":"1684 N 810 W",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 589 5608",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85819031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76SESiGgCNvfKfQD8SWd8t_41.138215_-112.041644@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122006,
+    "wof:geomhash":"434e8aed764e2b5fab555dec5a5fc69b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85819031,
+            "region_id":85688567,
+            "venue_id":857104009
+        }
+    ],
+    "wof:id":857104009,
+    "wof:lastmodified":1464122006,
+    "wof:name":"Royal Limousine",
+    "wof:parent_id":85819031,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -112.041644,
+    41.138215,
+    -112.041644,
+    41.138215
+],
+  "geometry": {"coordinates":[-112.04164400000001,41.138215],"type":"Point"}
+}

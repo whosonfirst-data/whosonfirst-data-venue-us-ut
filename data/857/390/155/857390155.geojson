@@ -1,0 +1,73 @@
+{
+  "id": 857390155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.634429,40.214349,-111.634429,40.214349",
+    "geom:latitude":40.214349,
+    "geom:longitude":-111.634429,
+    "iso:country":"US",
+    "sg:address":"1635 S State St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 3236",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727863,
+        102083567,
+        85880103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hz6UPjNaQy4iCOn8k1eLC_40.214349_-111.634429@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128434,
+    "wof:geomhash":"9b1bfb76d2e6dcfd65cf53f875ddb7f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880103,
+            "region_id":85688567,
+            "venue_id":857390155
+        }
+    ],
+    "wof:id":857390155,
+    "wof:lastmodified":1464128434,
+    "wof:name":"Japanese Engine Exchange Serv",
+    "wof:parent_id":85880103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -111.634429,
+    40.214349,
+    -111.634429,
+    40.214349
+],
+  "geometry": {"coordinates":[-111.634429,40.214349],"type":"Point"}
+}

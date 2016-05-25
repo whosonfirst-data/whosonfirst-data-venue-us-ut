@@ -1,0 +1,75 @@
+{
+  "id": 857444815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.786913,39.965611,-111.786913,39.965611",
+    "geom:latitude":39.965611,
+    "geom:longitude":-111.786913,
+    "iso:country":"US",
+    "sg:address":"639 S 100 W",
+    "sg:city":"Santaquin",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 754 5456",
+    "sg:postcode":"84655",
+    "sg:province":"UT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HViuKiDUHgFEsZNycatIG_39.965611_-111.786913@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129655,
+    "wof:geomhash":"2b0eead8ac24f7f6d65a52d603cd7e0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857444815
+        }
+    ],
+    "wof:id":857444815,
+    "wof:lastmodified":1464129655,
+    "wof:name":"Jbm Hauling & Maintenance",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -111.786913,
+    39.965611,
+    -111.786913,
+    39.965611
+],
+  "geometry": {"coordinates":[-111.786913,39.965611],"type":"Point"}
+}

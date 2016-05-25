@@ -1,0 +1,68 @@
+{
+  "id": 857339437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.808286,40.670725,-111.808286,40.670725",
+    "geom:latitude":40.670725,
+    "geom:longitude":-111.808286,
+    "iso:country":"US",
+    "sg:address":"2981 Mount Spring Rd",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 277 2991",
+    "sg:postcode":"84117",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728049,
+        102082877,
+        85807679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Lx15iJk6ZH1ZtTnlW5Ca4_40.670725_-111.808286@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127259,
+    "wof:geomhash":"0981a01ea01ff487a0d9231266a94149",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728049,
+            "neighbourhood_id":85807679,
+            "region_id":85688567,
+            "venue_id":857339437
+        }
+    ],
+    "wof:id":857339437,
+    "wof:lastmodified":1464127259,
+    "wof:name":"JM Checchio DDS Inc",
+    "wof:parent_id":85807679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.808286,
+    40.670725,
+    -111.808286,
+    40.670725
+],
+  "geometry": {"coordinates":[-111.808286,40.670725],"type":"Point"}
+}

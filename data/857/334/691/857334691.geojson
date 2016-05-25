@@ -1,0 +1,84 @@
+{
+  "id": 857334691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.842666,41.730833,-111.842666,41.730833",
+    "geom:latitude":41.730833,
+    "geom:longitude":-111.842666,
+    "iso:country":"US",
+    "sg:address":"36 S 300 W",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 760 3467",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automotive",
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56vyXJjBjvT8B9Nflxy9mT_41.730833_-111.842666@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127161,
+    "wof:geomhash":"9b8efc1c333d1f7658e46eadb3853eaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857334691
+        }
+    ],
+    "wof:id":857334691,
+    "wof:lastmodified":1464127161,
+    "wof:name":"Aall Service",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.842666,
+    41.730833,
+    -111.842666,
+    41.730833
+],
+  "geometry": {"coordinates":[-111.84266599999999,41.730833],"type":"Point"}
+}

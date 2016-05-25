@@ -1,0 +1,73 @@
+{
+  "id": 857079805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.847818,41.734584,-111.847818,41.734584",
+    "geom:latitude":41.734584,
+    "geom:longitude":-111.847818,
+    "iso:country":"US",
+    "sg:address":"145 N 500 W",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 6738",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3r8MrxjOjge7Htx7WymCJt_41.734584_-111.847818@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121398,
+    "wof:geomhash":"c0655867444e3a8135d8ca1751da131d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857079805
+        }
+    ],
+    "wof:id":857079805,
+    "wof:lastmodified":1464121398,
+    "wof:name":"Don Dodgeb Construction Co",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.847818,
+    41.734584,
+    -111.847818,
+    41.734584
+],
+  "geometry": {"coordinates":[-111.847818,41.734584],"type":"Point"}
+}

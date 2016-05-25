@@ -1,0 +1,73 @@
+{
+  "id": 857269699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.981109,41.089111,-111.981109,41.089111",
+    "geom:latitude":41.089111,
+    "geom:longitude":-111.981109,
+    "iso:country":"US",
+    "sg:address":"955 W Antelope Dr",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 776 4212",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TmkZHmFkKTxB0hJOhBh9E_41.089111_-111.981109@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125680,
+    "wof:geomhash":"c8fd5e9b54319e4de9b82d72b9206d1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857269699
+        }
+    ],
+    "wof:id":857269699,
+    "wof:lastmodified":1464125680,
+    "wof:name":"Mountain America Credit Union",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -111.981109,
+    41.089111,
+    -111.981109,
+    41.089111
+],
+  "geometry": {"coordinates":[-111.981109,41.089111],"type":"Point"}
+}

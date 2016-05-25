@@ -1,0 +1,68 @@
+{
+  "id": 857229089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.648982,40.28187,-111.648982,40.28187",
+    "geom:latitude":40.28187,
+    "geom:longitude":-111.648982,
+    "iso:country":"US",
+    "sg:address":"566 E 3650 N",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 221 9984",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85817395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jN6iNi4Rko4qLcrtASM6G_40.281870_-111.648982@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124791,
+    "wof:geomhash":"446829b87767968ed635878b0aac9e11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85817395,
+            "region_id":85688567,
+            "venue_id":857229089
+        }
+    ],
+    "wof:id":857229089,
+    "wof:lastmodified":1464124791,
+    "wof:name":"Edgemont Elementary School",
+    "wof:parent_id":85817395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.648982,
+    40.28187,
+    -111.648982,
+    40.28187
+],
+  "geometry": {"coordinates":[-111.648982,40.28187],"type":"Point"}
+}

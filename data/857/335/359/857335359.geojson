@@ -1,0 +1,71 @@
+{
+  "id": 857335359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.030461,41.074605,-112.030461,41.074605",
+    "geom:latitude":41.074605,
+    "geom:longitude":-112.030461,
+    "iso:country":"US",
+    "sg:address":"3277 W 1000 N",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 444 3632",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85868169,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72aa4oeIMOgnWxXSARo8ci_41.074605_-112.030461@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127175,
+    "wof:geomhash":"a95f93d49399dfd0eca86b50d6d2e088",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "neighbourhood_id":85868169,
+            "region_id":85688567,
+            "venue_id":857335359
+        }
+    ],
+    "wof:id":857335359,
+    "wof:lastmodified":1464127175,
+    "wof:name":"Concrete Coring Svc",
+    "wof:parent_id":85868169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -112.030461,
+    41.074605,
+    -112.030461,
+    41.074605
+],
+  "geometry": {"coordinates":[-112.030461,41.074605],"type":"Point"}
+}

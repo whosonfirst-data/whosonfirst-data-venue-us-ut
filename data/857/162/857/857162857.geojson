@@ -1,0 +1,73 @@
+{
+  "id": 857162857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.850482,40.875453,-111.850482,40.875453",
+    "geom:latitude":40.875453,
+    "geom:longitude":-111.850482,
+    "iso:country":"US",
+    "sg:address":"1354 Madera Hills Dr",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 397 0124",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727881,
+        102083563,
+        85809349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Hv2R5zv4t1rSxy1Gm9b4a_40.875453_-111.850482@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123420,
+    "wof:geomhash":"79e094500a5b336dafd9c3aa1a3468cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727881,
+            "neighbourhood_id":85809349,
+            "region_id":85688567,
+            "venue_id":857162857
+        }
+    ],
+    "wof:id":857162857,
+    "wof:lastmodified":1464123420,
+    "wof:name":"Au Bon Appetit Inc",
+    "wof:parent_id":85809349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.850482,
+    40.875453,
+    -111.850482,
+    40.875453
+],
+  "geometry": {"coordinates":[-111.850482,40.875453],"type":"Point"}
+}

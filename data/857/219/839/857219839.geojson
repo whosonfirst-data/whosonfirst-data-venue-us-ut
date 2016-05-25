@@ -1,0 +1,71 @@
+{
+  "id": 857219839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.726414,40.041293,-111.726414,40.041293",
+    "geom:latitude":40.041293,
+    "geom:longitude":-111.726414,
+    "iso:country":"US",
+    "sg:address":"465 E 200 S",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 2422",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hVsiaqtOWRiw2UDQQaUjA_40.041293_-111.726414@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124611,
+    "wof:geomhash":"d0269268fef41981a5c4b91793d0a356",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857219839
+        }
+    ],
+    "wof:id":857219839,
+    "wof:lastmodified":1464124611,
+    "wof:name":"Storybook Photography",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -111.726414,
+    40.041293,
+    -111.726414,
+    40.041293
+],
+  "geometry": {"coordinates":[-111.72641400000001,40.041293],"type":"Point"}
+}

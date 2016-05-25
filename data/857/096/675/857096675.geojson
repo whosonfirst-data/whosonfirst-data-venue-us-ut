@@ -1,0 +1,66 @@
+{
+  "id": 857096675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.867002,41.725434,-111.867002,41.725434",
+    "geom:latitude":41.725434,
+    "geom:longitude":-111.867002,
+    "iso:country":"US",
+    "sg:address":"1234 W 350 S",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 0766",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Znzg62rdhJsYIouRFxDFo_41.725434_-111.867002@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121827,
+    "wof:geomhash":"5e7908b4932dd8d183a35efc3d9e8b2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857096675
+        }
+    ],
+    "wof:id":857096675,
+    "wof:lastmodified":1464121827,
+    "wof:name":"Nutritionals",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.867002,
+    41.725434,
+    -111.867002,
+    41.725434
+],
+  "geometry": {"coordinates":[-111.867002,41.725434],"type":"Point"}
+}

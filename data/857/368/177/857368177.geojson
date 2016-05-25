@@ -1,0 +1,77 @@
+{
+  "id": 857368177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.977163,41.19543,-111.977163,41.19543",
+    "geom:latitude":41.19543,
+    "geom:longitude":-111.977163,
+    "iso:country":"US",
+    "sg:address":"1002 Newgate Mall",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 392 5678",
+    "sg:postcode":"84405",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "operator",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728021,
+        102083539,
+        85810865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZG5yYg2CX87fFtST39bni_41.195430_-111.977163@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127866,
+    "wof:geomhash":"7e07ca18361d5d3db751ff520854b20c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728021,
+            "neighbourhood_id":85810865,
+            "region_id":85688567,
+            "venue_id":857368177
+        }
+    ],
+    "wof:id":857368177,
+    "wof:lastmodified":1464127866,
+    "wof:name":"Dollar Tree",
+    "wof:parent_id":85810865,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "operator",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -111.977163,
+    41.19543,
+    -111.977163,
+    41.19543
+],
+  "geometry": {"coordinates":[-111.977163,41.19543],"type":"Point"}
+}

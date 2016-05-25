@@ -1,0 +1,68 @@
+{
+  "id": 857205499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.001932,40.65273,-112.001932,40.65273",
+    "geom:latitude":40.65273,
+    "geom:longitude":-112.001932,
+    "iso:country":"US",
+    "sg:address":"4655 W 5415 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 969 6497",
+    "sg:postcode":"84118",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728253,
+        102082877,
+        85833393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01qf6Vx8yfBLSfM7pliw1B_40.652730_-112.001932@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124303,
+    "wof:geomhash":"cfc7b58ab2565e7f8bc56901b055caaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728253,
+            "neighbourhood_id":85833393,
+            "region_id":85688567,
+            "venue_id":857205499
+        }
+    ],
+    "wof:id":857205499,
+    "wof:lastmodified":1464124303,
+    "wof:name":"D&D Bakery",
+    "wof:parent_id":85833393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.001932,
+    40.65273,
+    -112.001932,
+    40.65273
+],
+  "geometry": {"coordinates":[-112.001932,40.65273],"type":"Point"}
+}

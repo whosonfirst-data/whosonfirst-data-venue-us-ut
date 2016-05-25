@@ -1,0 +1,75 @@
+{
+  "id": 857245479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.998453,41.221015,-111.998453,41.221015",
+    "geom:latitude":41.221015,
+    "geom:longitude":-111.998453,
+    "iso:country":"US",
+    "sg:address":"805 W 25th St",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 395 1754",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85854925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VCsialZlziKWM1mryWQMO_41.221015_-111.998453@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125149,
+    "wof:geomhash":"15489ec77130521f0312b302edb9b4ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85854925,
+            "region_id":85688567,
+            "venue_id":857245479
+        }
+    ],
+    "wof:id":857245479,
+    "wof:lastmodified":1464125149,
+    "wof:name":"Rocky Mountain Concrete",
+    "wof:parent_id":85854925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.998453,
+    41.221015,
+    -111.998453,
+    41.221015
+],
+  "geometry": {"coordinates":[-111.998453,41.221015],"type":"Point"}
+}

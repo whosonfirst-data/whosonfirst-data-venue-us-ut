@@ -1,0 +1,66 @@
+{
+  "id": 857122383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.654703,40.110194,-111.654703,40.110194",
+    "geom:latitude":40.110194,
+    "geom:longitude":-111.654703,
+    "iso:country":"US",
+    "sg:address":"72 N Main St",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 3587",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nkCYJ3b8wRXgcpfy2Aug1_40.110194_-111.654703@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122507,
+    "wof:geomhash":"b1c36635305dc88ba9eef888ef837e0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857122383
+        }
+    ],
+    "wof:id":857122383,
+    "wof:lastmodified":1464122507,
+    "wof:name":"MVP Sport",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.654703,
+    40.110194,
+    -111.654703,
+    40.110194
+],
+  "geometry": {"coordinates":[-111.654703,40.110194],"type":"Point"}
+}

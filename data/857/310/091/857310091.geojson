@@ -1,0 +1,73 @@
+{
+  "id": 857310091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.813226,41.778397,-111.813226,41.778397",
+    "geom:latitude":41.778397,
+    "geom:longitude":-111.813226,
+    "iso:country":"US",
+    "sg:address":"2600 N 800 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 787 4489",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XTEuMCAe5fODnv6a8T2Ij_41.778397_-111.813226@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126620,
+    "wof:geomhash":"e482d0fb55f56bcfc46c8f3ca6f44afa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857310091
+        }
+    ],
+    "wof:id":857310091,
+    "wof:lastmodified":1464126620,
+    "wof:name":"Jim Hill Plumbing",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.813226,
+    41.778397,
+    -111.813226,
+    41.778397
+],
+  "geometry": {"coordinates":[-111.813226,41.778397],"type":"Point"}
+}

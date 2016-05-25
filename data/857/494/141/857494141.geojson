@@ -1,0 +1,76 @@
+{
+  "id": 857494141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.658638,40.236368,-111.658638,40.236368",
+    "geom:latitude":40.236368,
+    "geom:longitude":-111.658638,
+    "iso:country":"US",
+    "sg:address":"196 N University Ave",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/provo-orem/132835-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 377 1177",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64JrhWcpqNfPT1XuSzp9It_40.236368_-111.658638@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130738,
+    "wof:geomhash":"df947e24b95d327782021cfa11f71d45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880065,
+            "region_id":85688567,
+            "venue_id":857494141
+        }
+    ],
+    "wof:id":857494141,
+    "wof:lastmodified":1464130738,
+    "wof:name":"Subway",
+    "wof:parent_id":85880065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -111.658638,
+    40.236368,
+    -111.658638,
+    40.236368
+],
+  "geometry": {"coordinates":[-111.658638,40.236368],"type":"Point"}
+}

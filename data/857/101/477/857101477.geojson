@@ -1,0 +1,73 @@
+{
+  "id": 857101477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.872223,40.599704,-111.872223,40.599704",
+    "geom:latitude":40.599704,
+    "geom:longitude":-111.872223,
+    "iso:country":"US",
+    "sg:address":"8392 S 700 E",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 568 9339",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85822481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58APtyWQZdtd0fw4DUJX9O_40.599704_-111.872223@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121951,
+    "wof:geomhash":"7b6092fafe89a669dc7a64651a978c91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85822481,
+            "region_id":85688567,
+            "venue_id":857101477
+        }
+    ],
+    "wof:id":857101477,
+    "wof:lastmodified":1464121951,
+    "wof:name":"Pizza Amore Sandy",
+    "wof:parent_id":85822481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.872223,
+    40.599704,
+    -111.872223,
+    40.599704
+],
+  "geometry": {"coordinates":[-111.87222300000001,40.599704],"type":"Point"}
+}

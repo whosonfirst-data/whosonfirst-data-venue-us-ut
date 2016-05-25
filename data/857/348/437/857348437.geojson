@@ -1,0 +1,73 @@
+{
+  "id": 857348437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.612523,40.163435,-111.612523,40.163435",
+    "geom:latitude":40.163435,
+    "geom:longitude":-111.612523,
+    "iso:country":"US",
+    "sg:address":"268 S 100 W",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 489 6391",
+    "sg:postcode":"84663",
+    "sg:province":"UT",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727829,
+        102083567,
+        85880117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17FciN1TAzHW5Qb0iNucL8_40.163435_-111.612523@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127452,
+    "wof:geomhash":"97d7ef573488ab3a3f31ac8618283676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727829,
+            "neighbourhood_id":85880117,
+            "region_id":85688567,
+            "venue_id":857348437
+        }
+    ],
+    "wof:id":857348437,
+    "wof:lastmodified":1464127452,
+    "wof:name":"Springville Meat & Cold Strge",
+    "wof:parent_id":85880117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -111.612523,
+    40.163435,
+    -111.612523,
+    40.163435
+],
+  "geometry": {"coordinates":[-111.612523,40.163435],"type":"Point"}
+}

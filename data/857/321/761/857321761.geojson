@@ -1,0 +1,73 @@
+{
+  "id": 857321761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.689694,40.245125,-111.689694,40.245125",
+    "geom:latitude":40.245125,
+    "geom:longitude":-111.689694,
+    "iso:country":"US",
+    "sg:address":"1881 W 820 N",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 370 9908",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30VlpB6LZRHP9NTIAUubG6_40.245125_-111.689694@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126884,
+    "wof:geomhash":"d8e21009574aca3605263f0b8984c33a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880083,
+            "region_id":85688567,
+            "venue_id":857321761
+        }
+    ],
+    "wof:id":857321761,
+    "wof:lastmodified":1464126884,
+    "wof:name":"Rocky Mountain Steel Buildings",
+    "wof:parent_id":85880083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -111.689694,
+    40.245125,
+    -111.689694,
+    40.245125
+],
+  "geometry": {"coordinates":[-111.689694,40.245125],"type":"Point"}
+}

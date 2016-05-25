@@ -1,0 +1,75 @@
+{
+  "id": 857405951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.682919,40.271583,-111.682919,40.271583",
+    "geom:latitude":40.271583,
+    "geom:longitude":-111.682919,
+    "iso:country":"US",
+    "sg:address":"575 E 1400 S",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 225 4741",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZffJiWFFtthR34FRUW2Ln_40.271583_-111.682919@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128750,
+    "wof:geomhash":"bbb5a57bbc233204f434f3a59b632f84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880109,
+            "region_id":85688567,
+            "venue_id":857405951
+        }
+    ],
+    "wof:id":857405951,
+    "wof:lastmodified":1464128750,
+    "wof:name":"Orem Nursing & Rehab Ctr",
+    "wof:parent_id":85880109,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -111.682919,
+    40.271583,
+    -111.682919,
+    40.271583
+],
+  "geometry": {"coordinates":[-111.682919,40.271583],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857491881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.00187,41.074638,-112.00187,41.074638",
+    "geom:latitude":41.074638,
+    "geom:longitude":-112.00187,
+    "iso:country":"US",
+    "sg:address":"1950 W 1000 N",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/north-davis/240510-panda-express/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 779 0972",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "asian",
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56wDdw9wSTSVpMe34EzBfN_41.074638_-112.001870@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130657,
+    "wof:geomhash":"77e5618600b46f18b4f972ae81e4c2db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857491881
+        }
+    ],
+    "wof:id":857491881,
+    "wof:lastmodified":1464130657,
+    "wof:name":"Panda Express",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asian",
+        "chinese"
+    ]
+},
+  "bbox": [
+    -112.00187,
+    41.074638,
+    -112.00187,
+    41.074638
+],
+  "geometry": {"coordinates":[-112.00187,41.074638],"type":"Point"}
+}

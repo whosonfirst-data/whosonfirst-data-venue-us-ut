@@ -1,0 +1,77 @@
+{
+  "id": 857285807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.857851,40.640702,-111.857851,40.640702",
+    "geom:latitude":40.640702,
+    "geom:longitude":-111.857851,
+    "iso:country":"US",
+    "sg:address":"1195 Vine St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 263 3775",
+    "sg:postcode":"84121",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house",
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85852959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DS7eQYZWy7XuOIbDFYO5a_40.640702_-111.857851@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126041,
+    "wof:geomhash":"3a041d3303aa0552b2b5f9a59a35e68a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85852959,
+            "region_id":85688567,
+            "venue_id":857285807
+        }
+    ],
+    "wof:id":857285807,
+    "wof:lastmodified":1464126041,
+    "wof:name":"Lake Creek Construction Inc",
+    "wof:parent_id":85852959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.857851,
+    40.640702,
+    -111.857851,
+    40.640702
+],
+  "geometry": {"coordinates":[-111.857851,40.640702],"type":"Point"}
+}

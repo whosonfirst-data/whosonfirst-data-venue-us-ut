@@ -1,0 +1,68 @@
+{
+  "id": 857400791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.288005,37.167312,-113.288005,37.167312",
+    "geom:latitude":37.167312,
+    "geom:longitude":-113.288005,
+    "iso:country":"US",
+    "sg:address":"609 S Main St",
+    "sg:city":"Hurricane",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 635 4825",
+    "sg:postcode":"84737",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727631,
+        102082879,
+        85824093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Il4Oc5kNEpQXe2iNEeHq7_37.167312_-113.288005@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128639,
+    "wof:geomhash":"20d872cf8791e5d84874ab2efe797c3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727631,
+            "neighbourhood_id":85824093,
+            "region_id":85688567,
+            "venue_id":857400791
+        }
+    ],
+    "wof:id":857400791,
+    "wof:lastmodified":1464128639,
+    "wof:name":"Chiropractor On Wheels",
+    "wof:parent_id":85824093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.288005,
+    37.167312,
+    -113.288005,
+    37.167312
+],
+  "geometry": {"coordinates":[-113.288005,37.167312],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857449355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.865402,40.69081,-111.865402,40.69081",
+    "geom:latitude":40.69081,
+    "geom:longitude":-111.865402,
+    "iso:country":"US",
+    "sg:address":"3725 S 900 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 266 5957",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85832079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LmArCQSGS9gRCoIzvQ7x1_40.690810_-111.865402@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129744,
+    "wof:geomhash":"7064adee9085e1920a62961e49924128",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85832079,
+            "region_id":85688567,
+            "venue_id":857449355
+        }
+    ],
+    "wof:id":857449355,
+    "wof:lastmodified":1464129744,
+    "wof:name":"Southgate Social Ctr",
+    "wof:parent_id":85832079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -111.865402,
+    40.69081,
+    -111.865402,
+    40.69081
+],
+  "geometry": {"coordinates":[-111.865402,40.69081],"type":"Point"}
+}

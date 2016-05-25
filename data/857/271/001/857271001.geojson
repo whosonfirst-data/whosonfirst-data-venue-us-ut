@@ -1,0 +1,71 @@
+{
+  "id": 857271001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.995307,37.190198,-112.995307,37.190198",
+    "geom:latitude":37.190198,
+    "geom:longitude":-112.995307,
+    "iso:country":"US",
+    "sg:address":"694 Zion Park Blvd",
+    "sg:city":"Springdale",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 772 0472",
+    "sg:postcode":"84767",
+    "sg:province":"UT",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727619,
+        102082879,
+        85822405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49RGEqMOHcvIXnMZBqr1jd_37.190198_-112.995307@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125705,
+    "wof:geomhash":"707aa0afa6f1ac5435a82bfa7e0a6ff1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727619,
+            "neighbourhood_id":85822405,
+            "region_id":85688567,
+            "venue_id":857271001
+        }
+    ],
+    "wof:id":857271001,
+    "wof:lastmodified":1464125705,
+    "wof:name":"Zion Prospector",
+    "wof:parent_id":85822405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -112.995307,
+    37.190198,
+    -112.995307,
+    37.190198
+],
+  "geometry": {"coordinates":[-112.995307,37.190198],"type":"Point"}
+}

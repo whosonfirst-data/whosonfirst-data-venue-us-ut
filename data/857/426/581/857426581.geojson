@@ -1,0 +1,68 @@
+{
+  "id": 857426581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.894215,40.655716,-111.894215,40.655716",
+    "geom:latitude":40.655716,
+    "geom:longitude":-111.894215,
+    "iso:country":"US",
+    "sg:address":"123 W 5300 S",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 262 9000",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85853401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45HCAlrGiNEokgNyX8ZDF9_40.655716_-111.894215@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129269,
+    "wof:geomhash":"4e3ff1bc212e7f99720ff17adfdf66ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85853401,
+            "region_id":85688567,
+            "venue_id":857426581
+        }
+    ],
+    "wof:id":857426581,
+    "wof:lastmodified":1464129269,
+    "wof:name":"Ross R Brunson Insurance Inc",
+    "wof:parent_id":85853401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.894215,
+    40.655716,
+    -111.894215,
+    40.655716
+],
+  "geometry": {"coordinates":[-111.894215,40.655716],"type":"Point"}
+}

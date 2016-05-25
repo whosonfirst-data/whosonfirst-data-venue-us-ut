@@ -1,0 +1,78 @@
+{
+  "id": 857304667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.857225,40.59877,-111.857225,40.59877",
+    "geom:latitude":40.59877,
+    "geom:longitude":-111.857225,
+    "iso:country":"US",
+    "sg:address":"8357 Wayside Dr",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 255 5371",
+    "sg:postcode":"84094",
+    "sg:province":"UT",
+    "sg:tags":[
+        "alarm",
+        "burglar",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85847325,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2b0ChGXJzHYHsxHW6fagDc_40.598770_-111.857225@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126510,
+    "wof:geomhash":"ab219044b6330401bd555e6c814aa1be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85847325,
+            "region_id":85688567,
+            "venue_id":857304667
+        }
+    ],
+    "wof:id":857304667,
+    "wof:lastmodified":1464126510,
+    "wof:name":"Salt Lake Security",
+    "wof:parent_id":85847325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alarm",
+        "burglar",
+        "system"
+    ]
+},
+  "bbox": [
+    -111.857225,
+    40.59877,
+    -111.857225,
+    40.59877
+],
+  "geometry": {"coordinates":[-111.857225,40.59877],"type":"Point"}
+}

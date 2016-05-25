@@ -1,0 +1,73 @@
+{
+  "id": 857445171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.88833,40.683285,-111.88833,40.683285",
+    "geom:latitude":40.683285,
+    "geom:longitude":-111.88833,
+    "iso:country":"US",
+    "sg:address":"4022 S State St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 262 1100",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85810147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uovoYSRaZrNLK4fInzKfF_40.683285_-111.888330@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129662,
+    "wof:geomhash":"7645059a2963d25c684e259e61dbe84f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85810147,
+            "region_id":85688567,
+            "venue_id":857445171
+        }
+    ],
+    "wof:id":857445171,
+    "wof:lastmodified":1464129662,
+    "wof:name":"Ranautos Inc",
+    "wof:parent_id":85810147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -111.88833,
+    40.683285,
+    -111.88833,
+    40.683285
+],
+  "geometry": {"coordinates":[-111.88833,40.683285],"type":"Point"}
+}

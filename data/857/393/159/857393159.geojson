@@ -1,0 +1,73 @@
+{
+  "id": 857393159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.003069,40.593292,-112.003069,40.593292",
+    "geom:latitude":40.593292,
+    "geom:longitude":-112.003069,
+    "iso:country":"US",
+    "sg:address":"4689 W Copper Dale Pl",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 282 6607",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85854997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Y9WBIBrOR0XTmaiXb5tFn_40.593292_-112.003069@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128487,
+    "wof:geomhash":"d07330aaf8b9e632f97ed134790fcf1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85854997,
+            "region_id":85688567,
+            "venue_id":857393159
+        }
+    ],
+    "wof:id":857393159,
+    "wof:lastmodified":1464128487,
+    "wof:name":"Lombardo Leasing",
+    "wof:parent_id":85854997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -112.003069,
+    40.593292,
+    -112.003069,
+    40.593292
+],
+  "geometry": {"coordinates":[-112.003069,40.593292],"type":"Point"}
+}

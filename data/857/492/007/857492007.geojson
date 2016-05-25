@@ -1,0 +1,76 @@
+{
+  "id": 857492007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.870377,40.621012,-111.870377,40.621012",
+    "geom:latitude":40.621012,
+    "geom:longitude":-111.870377,
+    "iso:country":"US",
+    "sg:address":"742 Fort Union Blvd",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/34825-kneaders/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 563 1991",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728051,
+        102082877,
+        85848751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67XlJuR9Laboqw3oZKM026_40.621012_-111.870377@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130662,
+    "wof:geomhash":"7b8c28017b3cfb690e448327b5aa6ab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85848751,
+            "region_id":85688567,
+            "venue_id":857492007
+        }
+    ],
+    "wof:id":857492007,
+    "wof:lastmodified":1464130662,
+    "wof:name":"Kneaders",
+    "wof:parent_id":85848751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -111.870377,
+    40.621012,
+    -111.870377,
+    40.621012
+],
+  "geometry": {"coordinates":[-111.870377,40.621012],"type":"Point"}
+}

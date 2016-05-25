@@ -1,0 +1,73 @@
+{
+  "id": 857409073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.859471,40.723995,-111.859471,40.723995",
+    "geom:latitude":40.723995,
+    "geom:longitude":-111.859471,
+    "iso:country":"US",
+    "sg:address":"2144 Highland Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 487 2295",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85858269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5A945dc9tKaxLco41pNiDV_40.723995_-111.859471@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128814,
+    "wof:geomhash":"f9816bf4e2a8a1f8d55c67b4da499a09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85858269,
+            "region_id":85688567,
+            "venue_id":857409073
+        }
+    ],
+    "wof:id":857409073,
+    "wof:lastmodified":1464128814,
+    "wof:name":"Free Speech Zone",
+    "wof:parent_id":85858269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.859471,
+    40.723995,
+    -111.859471,
+    40.723995
+],
+  "geometry": {"coordinates":[-111.859471,40.723995],"type":"Point"}
+}

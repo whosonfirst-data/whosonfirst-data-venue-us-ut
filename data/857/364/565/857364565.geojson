@@ -1,0 +1,73 @@
+{
+  "id": 857364565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.703014,40.297212,-111.703014,40.297212",
+    "geom:latitude":40.297212,
+    "geom:longitude":-111.703014,
+    "iso:country":"US",
+    "sg:address":"290 W Center St",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 226 6068",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85849197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4i3DkRWyhS6JReIm8M4hlz_40.297212_-111.703014@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127795,
+    "wof:geomhash":"e75d178c125a10865ba304db1c437e5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85849197,
+            "region_id":85688567,
+            "venue_id":857364565
+        }
+    ],
+    "wof:id":857364565,
+    "wof:lastmodified":1464127795,
+    "wof:name":"Holiday Oil Co",
+    "wof:parent_id":85849197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -111.703014,
+    40.297212,
+    -111.703014,
+    40.297212
+],
+  "geometry": {"coordinates":[-111.703014,40.297212],"type":"Point"}
+}

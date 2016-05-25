@@ -1,0 +1,73 @@
+{
+  "id": 857107231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.802768,40.706776,-111.802768,40.706776",
+    "geom:latitude":40.706776,
+    "geom:longitude":-111.802768,
+    "iso:country":"US",
+    "sg:address":"2974 S Gloria St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 274 9154",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728257,
+        102082877,
+        85854869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uGOB5Js0EGdCrGLbr7Ya0_40.706776_-111.802768@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122074,
+    "wof:geomhash":"4dcba1596efcbeeba3e8d03e5a711f48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85854869,
+            "region_id":85688567,
+            "venue_id":857107231
+        }
+    ],
+    "wof:id":857107231,
+    "wof:lastmodified":1464122074,
+    "wof:name":"Pointoview Landscape & Design",
+    "wof:parent_id":85854869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.802768,
+    40.706776,
+    -111.802768,
+    40.706776
+],
+  "geometry": {"coordinates":[-111.802768,40.706776],"type":"Point"}
+}

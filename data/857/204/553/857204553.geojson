@@ -1,0 +1,75 @@
+{
+  "id": 857204553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.843305,40.396306,-111.843305,40.396306",
+    "geom:latitude":40.396306,
+    "geom:longitude":-111.843305,
+    "iso:country":"US",
+    "sg:address":"740 N 400 E",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 766 3233",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contracting",
+        "commercial",
+        "residential",
+        "light"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1j4O6ma6ghL7nqH0aOmVGF_40.396306_-111.843305@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124280,
+    "wof:geomhash":"18778534a349e20436ff48d2d6002e0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857204553
+        }
+    ],
+    "wof:id":857204553,
+    "wof:lastmodified":1464124280,
+    "wof:name":"Acadian Builders Inc",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contracting",
+        "commercial",
+        "residential",
+        "light"
+    ]
+},
+  "bbox": [
+    -111.843305,
+    40.396306,
+    -111.843305,
+    40.396306
+],
+  "geometry": {"coordinates":[-111.843305,40.396306],"type":"Point"}
+}

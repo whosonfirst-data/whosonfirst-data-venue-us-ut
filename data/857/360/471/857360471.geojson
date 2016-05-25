@@ -1,0 +1,73 @@
+{
+  "id": 857360471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.640366,40.221739,-111.640366,40.221739",
+    "geom:latitude":40.221739,
+    "geom:longitude":-111.640366,
+    "iso:country":"US",
+    "sg:address":"944 S State St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 375 4584",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:tags":[
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57L2eQvbDBJdIGlUxrYLmP_40.221739_-111.640366@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127710,
+    "wof:geomhash":"48f1507defd3f93e70cf2d34debd8245",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880069,
+            "region_id":85688567,
+            "venue_id":857360471
+        }
+    ],
+    "wof:id":857360471,
+    "wof:lastmodified":1464127710,
+    "wof:name":"Provo Diesel Sales & Svc",
+    "wof:parent_id":85880069,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine"
+    ]
+},
+  "bbox": [
+    -111.640366,
+    40.221739,
+    -111.640366,
+    40.221739
+],
+  "geometry": {"coordinates":[-111.640366,40.221739],"type":"Point"}
+}

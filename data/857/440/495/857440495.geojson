@@ -1,0 +1,69 @@
+{
+  "id": 857440495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.938596,41.300004,-111.938596,41.300004",
+    "geom:latitude":41.300004,
+    "geom:longitude":-111.938596,
+    "iso:country":"US",
+    "sg:address":"2447 N Mountain Rd",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 782 9302",
+    "sg:postcode":"84414",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85824645,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FuTu49h7UWNXRntHjxBNn_41.300004_-111.938596@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129578,
+    "wof:geomhash":"04404554b736e8c7c0851eddc472c089",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85824645,
+            "region_id":85688567,
+            "venue_id":857440495
+        }
+    ],
+    "wof:id":857440495,
+    "wof:lastmodified":1464129578,
+    "wof:name":"Cheryls Beauty Salon",
+    "wof:parent_id":85824645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.938596,
+    41.300004,
+    -111.938596,
+    41.300004
+],
+  "geometry": {"coordinates":[-111.938596,41.300004],"type":"Point"}
+}

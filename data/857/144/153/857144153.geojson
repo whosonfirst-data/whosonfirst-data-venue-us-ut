@@ -1,0 +1,73 @@
+{
+  "id": 857144153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.901273,40.734844,-111.901273,40.734844",
+    "geom:latitude":40.734844,
+    "geom:longitude":-111.901273,
+    "iso:country":"US",
+    "sg:address":"334 W 1600 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 484 6111",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85854115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tEqI9gk3ud5A0dobx6Vfh_40.734844_-111.901273@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123010,
+    "wof:geomhash":"da21103d0198fc9b4e2e0e3b2cb0ec5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85854115,
+            "region_id":85688567,
+            "venue_id":857144153
+        }
+    ],
+    "wof:id":857144153,
+    "wof:lastmodified":1464123010,
+    "wof:name":"Bonneville Manufacturing Co",
+    "wof:parent_id":85854115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.901273,
+    40.734844,
+    -111.901273,
+    40.734844
+],
+  "geometry": {"coordinates":[-111.901273,40.734844],"type":"Point"}
+}

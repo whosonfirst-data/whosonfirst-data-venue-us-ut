@@ -1,0 +1,68 @@
+{
+  "id": 857343407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.03133,41.112305,-112.03133,41.112305",
+    "geom:latitude":41.112305,
+    "geom:longitude":-112.03133,
+    "iso:country":"US",
+    "sg:address":"321 W 75 S",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 728 0303",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85819031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5J4TjIuz5m7h2TspjUmA4A_41.112305_-112.031330@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127342,
+    "wof:geomhash":"2323823cf556241fd94bdaf065d71431",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85819031,
+            "region_id":85688567,
+            "venue_id":857343407
+        }
+    ],
+    "wof:id":857343407,
+    "wof:lastmodified":1464127342,
+    "wof:name":"RCI Real Estate",
+    "wof:parent_id":85819031,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.03133,
+    41.112305,
+    -112.03133,
+    41.112305
+],
+  "geometry": {"coordinates":[-112.03133,41.112305],"type":"Point"}
+}

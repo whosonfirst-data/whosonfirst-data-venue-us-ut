@@ -1,0 +1,85 @@
+{
+  "id": 857170549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.700862,40.310369,-111.700862,40.310369",
+    "geom:latitude":40.310369,
+    "geom:longitude":-111.700862,
+    "iso:country":"US",
+    "sg:address":"782 N State St",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 225 1885",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "entry",
+        "door",
+        "installation",
+        "overhead"
+    ],
+    "sg:website":"www.lowrydoors.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60z5kPWrpSAHm8y1Z605O9_40.310369_-111.700862@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123596,
+    "wof:geomhash":"71dd31aadb0dbf774f630aecccda4d9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":857170549
+        }
+    ],
+    "wof:id":857170549,
+    "wof:lastmodified":1464123596,
+    "wof:name":"Lowry Overhead Doors Inc",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "entry",
+        "door",
+        "installation",
+        "overhead"
+    ]
+},
+  "bbox": [
+    -111.700862,
+    40.310369,
+    -111.700862,
+    40.310369
+],
+  "geometry": {"coordinates":[-111.700862,40.310369],"type":"Point"}
+}

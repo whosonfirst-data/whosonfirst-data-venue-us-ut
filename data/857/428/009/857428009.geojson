@@ -1,0 +1,77 @@
+{
+  "id": 857428009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.959254,40.712151,-111.959254,40.712151",
+    "geom:latitude":40.712151,
+    "geom:longitude":-111.959254,
+    "iso:country":"US",
+    "sg:address":"2861 Parkway Blvd",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 887 0760",
+    "sg:postcode":"84119",
+    "sg:province":"UT",
+    "sg:tags":[
+        "monitoring",
+        "center",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85844521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aWbJK1E5lYE8KFTAOgVvu_40.712151_-111.959254@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129297,
+    "wof:geomhash":"090312c14ded79f2d2700b6942fe36be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85844521,
+            "region_id":85688567,
+            "venue_id":857428009
+        }
+    ],
+    "wof:id":857428009,
+    "wof:lastmodified":1464129297,
+    "wof:name":"Division of Air Quality",
+    "wof:parent_id":85844521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monitoring",
+        "center",
+        "air"
+    ]
+},
+  "bbox": [
+    -111.959254,
+    40.712151,
+    -111.959254,
+    40.712151
+],
+  "geometry": {"coordinates":[-111.959254,40.712151],"type":"Point"}
+}

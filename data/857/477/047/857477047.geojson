@@ -1,0 +1,71 @@
+{
+  "id": 857477047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.869319,40.924317,-111.869319,40.924317",
+    "geom:latitude":40.924317,
+    "geom:longitude":-111.869319,
+    "iso:country":"US",
+    "sg:address":"593 E 650 N",
+    "sg:city":"Centerville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 292 5314",
+    "sg:postcode":"84014",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727879,
+        102083563,
+        85849063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63rHXmKYxgsQvQhdyt2JkC_40.924317_-111.869319@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130315,
+    "wof:geomhash":"1080caa9810add2d6d76bd7aa518c4b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727879,
+            "neighbourhood_id":85849063,
+            "region_id":85688567,
+            "venue_id":857477047
+        }
+    ],
+    "wof:id":857477047,
+    "wof:lastmodified":1464130315,
+    "wof:name":"Roadrunner Fast Lube Inc",
+    "wof:parent_id":85849063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -111.869319,
+    40.924317,
+    -111.869319,
+    40.924317
+],
+  "geometry": {"coordinates":[-111.869319,40.924317],"type":"Point"}
+}

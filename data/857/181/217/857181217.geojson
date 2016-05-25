@@ -1,0 +1,71 @@
+{
+  "id": 857181217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.715998,40.04414,-111.715998,40.04414",
+    "geom:latitude":40.04414,
+    "geom:longitude":-111.715998,
+    "iso:country":"US",
+    "sg:address":"43 N 1000 E",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 1800",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5f7rB7MGA16UFpFhX9p017_40.044140_-111.715998@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123819,
+    "wof:geomhash":"302216db232b65d2d406d15d55f2bcf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857181217
+        }
+    ],
+    "wof:id":857181217,
+    "wof:lastmodified":1464123819,
+    "wof:name":"Payson Family Pet Hospital",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital"
+    ]
+},
+  "bbox": [
+    -111.715998,
+    40.04414,
+    -111.715998,
+    40.04414
+],
+  "geometry": {"coordinates":[-111.715998,40.04414],"type":"Point"}
+}

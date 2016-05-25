@@ -1,0 +1,80 @@
+{
+  "id": 857446721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.934609,40.608568,-111.934609,40.608568",
+    "geom:latitude":40.608568,
+    "geom:longitude":-111.934609,
+    "iso:country":"US",
+    "sg:address":"7879 S 1530 W",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 352 8757",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "sg:website":"www.cleanfilms.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85817621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58mgQCx84SvVmXL9l3UYcN_40.608568_-111.934609@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129695,
+    "wof:geomhash":"752cca18d8b1086661f9c76928c1df9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85817621,
+            "region_id":85688567,
+            "venue_id":857446721
+        }
+    ],
+    "wof:id":857446721,
+    "wof:lastmodified":1464129695,
+    "wof:name":"CLEANFILMS.COM",
+    "wof:parent_id":85817621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -111.934609,
+    40.608568,
+    -111.934609,
+    40.608568
+],
+  "geometry": {"coordinates":[-111.93460899999999,40.608568],"type":"Point"}
+}

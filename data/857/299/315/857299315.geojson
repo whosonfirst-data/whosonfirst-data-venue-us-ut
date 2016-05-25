@@ -1,0 +1,73 @@
+{
+  "id": 857299315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834151,40.743434,-111.834151,40.743434",
+    "geom:latitude":40.743434,
+    "geom:longitude":-111.834151,
+    "iso:country":"US",
+    "sg:address":"1903 Princeton Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 582 4618",
+    "sg:postcode":"84108",
+    "sg:province":"UT",
+    "sg:tags":[
+        "court"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85859305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ef2WLnOWvfKLk0uzmohqW_40.743434_-111.834151@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126396,
+    "wof:geomhash":"a294f4612c749ce0b26f07078f1c054f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85859305,
+            "region_id":85688567,
+            "venue_id":857299315
+        }
+    ],
+    "wof:id":857299315,
+    "wof:lastmodified":1464126396,
+    "wof:name":"Kim Bowman",
+    "wof:parent_id":85859305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "court"
+    ]
+},
+  "bbox": [
+    -111.834151,
+    40.743434,
+    -111.834151,
+    40.743434
+],
+  "geometry": {"coordinates":[-111.83415100000001,40.743434],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857272497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.92131,41.010843,-111.92131,41.010843",
+    "geom:latitude":41.010843,
+    "geom:longitude":-111.92131,
+    "iso:country":"US",
+    "sg:address":"1492 Haight Creek Dr",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 7873",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "lighting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63XTWlvVYl5TZQaIcniwoX_41.010843_-111.921310@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125735,
+    "wof:geomhash":"a344c4566b1ab9aa37cb36bcbe9210ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857272497
+        }
+    ],
+    "wof:id":857272497,
+    "wof:lastmodified":1464125735,
+    "wof:name":"K & S Lighting Lc",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lighting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.92131,
+    41.010843,
+    -111.92131,
+    41.010843
+],
+  "geometry": {"coordinates":[-111.92131000000001,41.010843],"type":"Point"}
+}

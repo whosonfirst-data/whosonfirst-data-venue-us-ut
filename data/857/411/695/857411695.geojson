@@ -1,0 +1,73 @@
+{
+  "id": 857411695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.892338,40.687072,-111.892338,40.687072",
+    "geom:latitude":40.687072,
+    "geom:longitude":-111.892338,
+    "iso:country":"US",
+    "sg:address":"68 W 3900 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 268 1010",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85810147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YczWOP4Tj03XrUMQPX9qI_40.687072_-111.892338@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128892,
+    "wof:geomhash":"49f94bfe86154163db31871d7e4fa23b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85810147,
+            "region_id":85688567,
+            "venue_id":857411695
+        }
+    ],
+    "wof:id":857411695,
+    "wof:lastmodified":1464128892,
+    "wof:name":"Kramer's Diner",
+    "wof:parent_id":85810147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.892338,
+    40.687072,
+    -111.892338,
+    40.687072
+],
+  "geometry": {"coordinates":[-111.892338,40.687072],"type":"Point"}
+}

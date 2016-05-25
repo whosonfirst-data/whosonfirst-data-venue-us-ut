@@ -1,0 +1,81 @@
+{
+  "id": 857107743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.907191,40.528821,-111.907191,40.528821",
+    "geom:latitude":40.528821,
+    "geom:longitude":-111.907191,
+    "iso:country":"US",
+    "sg:address":"12243 S 550 W",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 816 1600",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "general",
+        "system",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727849,
+        102082877,
+        85823005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PqDp6xcbgyevIPPYaFvJO_40.528821_-111.907191@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122082,
+    "wof:geomhash":"794c2821099c55247acccb89a95c7a3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85823005,
+            "region_id":85688567,
+            "venue_id":857107743
+        }
+    ],
+    "wof:id":857107743,
+    "wof:lastmodified":1464122082,
+    "wof:name":"Kent's Muffler & Brake",
+    "wof:parent_id":85823005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "general",
+        "system",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -111.907191,
+    40.528821,
+    -111.907191,
+    40.528821
+],
+  "geometry": {"coordinates":[-111.907191,40.528821],"type":"Point"}
+}

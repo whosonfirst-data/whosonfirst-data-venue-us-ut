@@ -1,0 +1,71 @@
+{
+  "id": 857278063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.962259,37.005455,-112.962259,37.005455",
+    "geom:latitude":37.005455,
+    "geom:longitude":-112.962259,
+    "iso:country":"US",
+    "sg:address":"880 Canyon St",
+    "sg:city":"Hildale",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 874 2490",
+    "sg:postcode":"84737",
+    "sg:province":"UT",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727619,
+        102082879,
+        85822405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7afykr0JiLImQGq8ydhBxq_37.005455_-112.962259@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125870,
+    "wof:geomhash":"30d4ee68ad0b6bceb7a68936cc5954d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727619,
+            "neighbourhood_id":85822405,
+            "region_id":85688567,
+            "venue_id":857278063
+        }
+    ],
+    "wof:id":857278063,
+    "wof:lastmodified":1464125870,
+    "wof:name":"SAST",
+    "wof:parent_id":85822405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -112.962259,
+    37.005455,
+    -112.962259,
+    37.005455
+],
+  "geometry": {"coordinates":[-112.962259,37.005455],"type":"Point"}
+}

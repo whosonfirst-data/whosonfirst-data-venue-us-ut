@@ -1,0 +1,75 @@
+{
+  "id": 857388349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.720293,40.321548,-111.720293,40.321548",
+    "geom:latitude":40.321548,
+    "geom:longitude":-111.720293,
+    "iso:country":"US",
+    "sg:address":"1027 W 1340 N",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 226 8765",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "cosmetic",
+        "perfume"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65OZpMrgQiEED3zNK9IRMq_40.321548_-111.720293@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128389,
+    "wof:geomhash":"3e3987507c88e1da37cfc658487f0612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":857388349
+        }
+    ],
+    "wof:id":857388349,
+    "wof:lastmodified":1464128389,
+    "wof:name":"Mary Kay Cosmetics",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cosmetic",
+        "perfume"
+    ]
+},
+  "bbox": [
+    -111.720293,
+    40.321548,
+    -111.720293,
+    40.321548
+],
+  "geometry": {"coordinates":[-111.720293,40.321548],"type":"Point"}
+}

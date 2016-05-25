@@ -1,0 +1,68 @@
+{
+  "id": 857187979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.89117,40.768758,-111.89117,40.768758",
+    "geom:latitude":40.768758,
+    "geom:longitude":-111.89117,
+    "iso:country":"US",
+    "sg:address":"72 S Main St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 531 0583",
+    "sg:postcode":"84101",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85852649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eUkVYFcXvGtuiVBywxETA_40.768758_-111.891170@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123951,
+    "wof:geomhash":"dcab01784469a5bd73e6b958aec175b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85852649,
+            "region_id":85688567,
+            "venue_id":857187979
+        }
+    ],
+    "wof:id":857187979,
+    "wof:lastmodified":1464123951,
+    "wof:name":"Rite Aid Pharmacy",
+    "wof:parent_id":85852649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.89117,
+    40.768758,
+    -111.89117,
+    40.768758
+],
+  "geometry": {"coordinates":[-111.89117,40.768758],"type":"Point"}
+}

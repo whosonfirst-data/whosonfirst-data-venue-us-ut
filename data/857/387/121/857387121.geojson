@@ -1,0 +1,71 @@
+{
+  "id": 857387121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.809426,40.693305,-111.809426,40.693305",
+    "geom:latitude":40.693305,
+    "geom:longitude":-111.809426,
+    "iso:country":"US",
+    "sg:address":"3593 Flynn Cir",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 277 2888",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728257,
+        102082877,
+        85854869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GxpmtNu2sPuQRxIiFLxYN_40.693305_-111.809426@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128364,
+    "wof:geomhash":"c40c952a4748fed4eaeb4300316affb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85854869,
+            "region_id":85688567,
+            "venue_id":857387121
+        }
+    ],
+    "wof:id":857387121,
+    "wof:lastmodified":1464128364,
+    "wof:name":"Andrea Lee Behrman",
+    "wof:parent_id":85854869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.809426,
+    40.693305,
+    -111.809426,
+    40.693305
+],
+  "geometry": {"coordinates":[-111.809426,40.693305],"type":"Point"}
+}

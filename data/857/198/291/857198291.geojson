@@ -1,0 +1,73 @@
+{
+  "id": 857198291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.861239,40.418509,-111.861239,40.418509",
+    "geom:latitude":40.418509,
+    "geom:longitude":-111.861239,
+    "iso:country":"US",
+    "sg:address":"2412 N 730 W",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 766 0172",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727857,
+        102083567,
+        85836317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2U7UBB6Re0ejz4TOikezpn_40.418509_-111.861239@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124145,
+    "wof:geomhash":"354c8601dbd92681886b220a63b4fe28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727857,
+            "neighbourhood_id":85836317,
+            "region_id":85688567,
+            "venue_id":857198291
+        }
+    ],
+    "wof:id":857198291,
+    "wof:lastmodified":1464124145,
+    "wof:name":"Ron Anderson Trucking",
+    "wof:parent_id":85836317,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -111.861239,
+    40.418509,
+    -111.861239,
+    40.418509
+],
+  "geometry": {"coordinates":[-111.861239,40.418509],"type":"Point"}
+}

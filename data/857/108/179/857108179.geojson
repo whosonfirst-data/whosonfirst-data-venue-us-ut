@@ -1,0 +1,69 @@
+{
+  "id": 857108179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.726005,41.247077,-111.726005,41.247077",
+    "geom:latitude":41.247077,
+    "geom:longitude":-111.726005,
+    "iso:country":"US",
+    "sg:address":"1221 S 9275 E",
+    "sg:city":"Huntsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 745 1483",
+    "sg:postcode":"84317",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85818631,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dMB5icMowobENkVvVbaXF_41.247077_-111.726005@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122091,
+    "wof:geomhash":"4717043f6e4e0b4362ad35516e215047",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85818631,
+            "region_id":85688567,
+            "venue_id":857108179
+        }
+    ],
+    "wof:id":857108179,
+    "wof:lastmodified":1464122091,
+    "wof:name":"Kirkhams Custom Const Inc",
+    "wof:parent_id":85818631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -111.726005,
+    41.247077,
+    -111.726005,
+    41.247077
+],
+  "geometry": {"coordinates":[-111.726005,41.247077],"type":"Point"}
+}

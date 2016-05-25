@@ -1,0 +1,71 @@
+{
+  "id": 857445933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.837583,41.728499,-111.837583,41.728499",
+    "geom:latitude":41.728499,
+    "geom:longitude":-111.837583,
+    "iso:country":"US",
+    "sg:address":"162 S 100 W",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 0821",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oHdFKMPCeZZaW6Edv81MM_41.728499_-111.837583@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129681,
+    "wof:geomhash":"811338b06d7ad2eb91a583fda625f6df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857445933
+        }
+    ],
+    "wof:id":857445933,
+    "wof:lastmodified":1464129681,
+    "wof:name":"Wonder Hostess Thrift Shop",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -111.837583,
+    41.728499,
+    -111.837583,
+    41.728499
+],
+  "geometry": {"coordinates":[-111.837583,41.728499],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857382263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.026044,41.161715,-112.026044,41.161715",
+    "geom:latitude":41.161715,
+    "geom:longitude":-112.026044,
+    "iso:country":"US",
+    "sg:address":"5451 S 1900 W",
+    "sg:city":"Roy",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 776 5961",
+    "sg:postcode":"84067",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728023,
+        102083539,
+        85843307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ELkIL497ywIebx6NSPRiK_41.161715_-112.026044@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128191,
+    "wof:geomhash":"e43117963343f5806d44c47887d090a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728023,
+            "neighbourhood_id":85843307,
+            "region_id":85688567,
+            "venue_id":857382263
+        }
+    ],
+    "wof:id":857382263,
+    "wof:lastmodified":1464128191,
+    "wof:name":"Van Loi Restaurant",
+    "wof:parent_id":85843307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.026044,
+    41.161715,
+    -112.026044,
+    41.161715
+],
+  "geometry": {"coordinates":[-112.026044,41.161715],"type":"Point"}
+}

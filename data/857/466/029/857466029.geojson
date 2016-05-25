@@ -1,0 +1,78 @@
+{
+  "id": 857466029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.801305,40.699929,-111.801305,40.699929",
+    "geom:latitude":40.699929,
+    "geom:longitude":-111.801305,
+    "iso:country":"US",
+    "sg:address":"3255 E 3300 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 468 0330",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "state",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728257,
+        102082877,
+        85854869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1N2gz29bhKtPEpjIpYl4M3_40.699929_-111.801305@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130089,
+    "wof:geomhash":"6127f851ade507dd2ca1ed608d48645b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85854869,
+            "region_id":85688567,
+            "venue_id":857466029
+        }
+    ],
+    "wof:id":857466029,
+    "wof:lastmodified":1464130089,
+    "wof:name":"State Liquor Store 25",
+    "wof:parent_id":85854869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "store"
+    ]
+},
+  "bbox": [
+    -111.801305,
+    40.699929,
+    -111.801305,
+    40.699929
+],
+  "geometry": {"coordinates":[-111.801305,40.699929],"type":"Point"}
+}

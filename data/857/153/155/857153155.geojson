@@ -1,0 +1,73 @@
+{
+  "id": 857153155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.639176,40.296112,-111.639176,40.296112",
+    "geom:latitude":40.296112,
+    "geom:longitude":-111.639176,
+    "iso:country":"US",
+    "sg:address":"1082 Windsor Dr",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 434 9217",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2odfZpzF4GLbCsXvzPhS7c_40.296112_-111.639176@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123210,
+    "wof:geomhash":"f51ce290a692be4bdc60272f2f8ee292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880091,
+            "region_id":85688567,
+            "venue_id":857153155
+        }
+    ],
+    "wof:id":857153155,
+    "wof:lastmodified":1464123210,
+    "wof:name":"Palisades Development",
+    "wof:parent_id":85880091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -111.639176,
+    40.296112,
+    -111.639176,
+    40.296112
+],
+  "geometry": {"coordinates":[-111.63917600000001,40.296112],"type":"Point"}
+}

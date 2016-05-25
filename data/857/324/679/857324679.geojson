@@ -1,0 +1,73 @@
+{
+  "id": 857324679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.731184,40.330004,-111.731184,40.330004",
+    "geom:latitude":40.330004,
+    "geom:longitude":-111.731184,
+    "iso:country":"US",
+    "sg:address":"535 Lindon Pkwy",
+    "sg:city":"Lindon",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 226 2353",
+    "sg:postcode":"84042",
+    "sg:province":"UT",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4259TUlh2bhyiIVxKKOS1k_40.330004_-111.731184@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126944,
+    "wof:geomhash":"eac45db158af7e9141ac22a619ca3024",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":857324679
+        }
+    ],
+    "wof:id":857324679,
+    "wof:lastmodified":1464126944,
+    "wof:name":"Home Depot",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -111.731184,
+    40.330004,
+    -111.731184,
+    40.330004
+],
+  "geometry": {"coordinates":[-111.731184,40.330004],"type":"Point"}
+}

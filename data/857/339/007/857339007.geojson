@@ -1,0 +1,73 @@
+{
+  "id": 857339007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.837977,40.636168,-111.837977,40.636168",
+    "geom:latitude":40.636168,
+    "geom:longitude":-111.837977,
+    "iso:country":"US",
+    "sg:address":"1871 Monterey Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 272 8928",
+    "sg:postcode":"84121",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85821553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Jf6g0bLSnKb26vUy5oKO1_40.636168_-111.837977@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127252,
+    "wof:geomhash":"fd7e375ae8fe306cf74d13ae22e0c924",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85821553,
+            "region_id":85688567,
+            "venue_id":857339007
+        }
+    ],
+    "wof:id":857339007,
+    "wof:lastmodified":1464127252,
+    "wof:name":"Applewood Beauty Salon",
+    "wof:parent_id":85821553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.837977,
+    40.636168,
+    -111.837977,
+    40.636168
+],
+  "geometry": {"coordinates":[-111.837977,40.636168],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857485463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.03174,41.080722,-112.03174,41.080722",
+    "geom:latitude":41.080722,
+    "geom:longitude":-112.03174,
+    "iso:country":"US",
+    "sg:address":"2290 S 300 W",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 779 0827",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "lawn",
+        "removal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85851583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72HS1quQTmksvaCLViDEBp_41.080722_-112.031740@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130476,
+    "wof:geomhash":"f1f6fd515f652b5e3003d22032fa31dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85851583,
+            "region_id":85688567,
+            "venue_id":857485463
+        }
+    ],
+    "wof:id":857485463,
+    "wof:lastmodified":1464130476,
+    "wof:name":"Halls Property Maintenance",
+    "wof:parent_id":85851583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "removal"
+    ]
+},
+  "bbox": [
+    -112.03174,
+    41.080722,
+    -112.03174,
+    41.080722
+],
+  "geometry": {"coordinates":[-112.03174,41.080722],"type":"Point"}
+}

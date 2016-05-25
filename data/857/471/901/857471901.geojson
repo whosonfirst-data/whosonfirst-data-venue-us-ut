@@ -1,0 +1,75 @@
+{
+  "id": 857471901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.987934,41.070718,-111.987934,41.070718",
+    "geom:latitude":41.070718,
+    "geom:longitude":-111.987934,
+    "iso:country":"US",
+    "sg:address":"867 N 1200 W",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 544 3456",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "skating",
+        "rink"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RatDb0DxLFX56rEow61iK_41.070718_-111.987934@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130213,
+    "wof:geomhash":"bb8329d011918af2878c23ef2d1ec645",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857471901
+        }
+    ],
+    "wof:id":857471901,
+    "wof:lastmodified":1464130213,
+    "wof:name":"Classic Fun Ctr",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skating",
+        "rink"
+    ]
+},
+  "bbox": [
+    -111.987934,
+    41.070718,
+    -111.987934,
+    41.070718
+],
+  "geometry": {"coordinates":[-111.987934,41.070718],"type":"Point"}
+}

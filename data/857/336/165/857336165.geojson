@@ -1,0 +1,73 @@
+{
+  "id": 857336165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.024121,41.112065,-112.024121,41.112065",
+    "geom:latitude":41.112065,
+    "geom:longitude":-112.024121,
+    "iso:country":"US",
+    "sg:address":"129 State St",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 773 6336",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85851583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00a4fSyYNZ9w9q8xvX6LzK_41.112065_-112.024121@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127190,
+    "wof:geomhash":"ce386b51e43e0d1ea74a09577f2041cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85851583,
+            "region_id":85688567,
+            "venue_id":857336165
+        }
+    ],
+    "wof:id":857336165,
+    "wof:lastmodified":1464127190,
+    "wof:name":"Cargo Master",
+    "wof:parent_id":85851583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    -112.024121,
+    41.112065,
+    -112.024121,
+    41.112065
+],
+  "geometry": {"coordinates":[-112.02412099999999,41.112065],"type":"Point"}
+}

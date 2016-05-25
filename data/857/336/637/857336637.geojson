@@ -1,0 +1,73 @@
+{
+  "id": 857336637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.976212,41.080746,-111.976212,41.080746",
+    "geom:latitude":41.080746,
+    "geom:longitude":-111.976212,
+    "iso:country":"US",
+    "sg:address":"540 W 1425 N",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 825 1800",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fkmmz68J7DRIy0pK3D5bL_41.080746_-111.976212@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127200,
+    "wof:geomhash":"451469f4d68bdad32ad3034994b2d0b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857336637
+        }
+    ],
+    "wof:id":857336637,
+    "wof:lastmodified":1464127200,
+    "wof:name":"Layton Meadows Apartments",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -111.976212,
+    41.080746,
+    -111.976212,
+    41.080746
+],
+  "geometry": {"coordinates":[-111.976212,41.080746],"type":"Point"}
+}

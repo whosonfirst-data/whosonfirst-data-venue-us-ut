@@ -1,0 +1,73 @@
+{
+  "id": 857462725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.825514,40.732227,-111.825514,40.732227",
+    "geom:latitude":40.732227,
+    "geom:longitude":-111.825514,
+    "iso:country":"US",
+    "sg:address":"2180 Blaine Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 583 8913",
+    "sg:postcode":"84108",
+    "sg:province":"UT",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85858091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wzF01jBBXw4DpBmFeakmk_40.732227_-111.825514@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130004,
+    "wof:geomhash":"081d710abd16c36bdca414dcf1bf4e41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85858091,
+            "region_id":85688567,
+            "venue_id":857462725
+        }
+    ],
+    "wof:id":857462725,
+    "wof:lastmodified":1464130004,
+    "wof:name":"Summit Technical Services Inc",
+    "wof:parent_id":85858091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -111.825514,
+    40.732227,
+    -111.825514,
+    40.732227
+],
+  "geometry": {"coordinates":[-111.825514,40.732227],"type":"Point"}
+}

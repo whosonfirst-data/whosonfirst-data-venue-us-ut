@@ -1,0 +1,71 @@
+{
+  "id": 857380045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.837257,41.740009,-111.837257,41.740009",
+    "geom:latitude":41.740009,
+    "geom:longitude":-111.837257,
+    "iso:country":"US",
+    "sg:address":"450 N 100 W",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 716 9753",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hcHETiYsyKEsFIYsFQH4t_41.740009_-111.837257@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128122,
+    "wof:geomhash":"f0b30ab8009f6cdd8b9997cea3d1bac0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857380045
+        }
+    ],
+    "wof:id":857380045,
+    "wof:lastmodified":1464128122,
+    "wof:name":"Cache County Service Area",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system"
+    ]
+},
+  "bbox": [
+    -111.837257,
+    41.740009,
+    -111.837257,
+    41.740009
+],
+  "geometry": {"coordinates":[-111.83725699999999,41.740009],"type":"Point"}
+}

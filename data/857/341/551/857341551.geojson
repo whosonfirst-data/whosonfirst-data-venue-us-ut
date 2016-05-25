@@ -1,0 +1,68 @@
+{
+  "id": 857341551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.845125,40.744557,-111.845125,40.744557",
+    "geom:latitude":40.744557,
+    "geom:longitude":-111.845125,
+    "iso:country":"US",
+    "sg:address":"1603 Harvard Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 583 5106",
+    "sg:postcode":"84105",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85859305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3o1Akb70LesoApfpgx6I37_40.744557_-111.845125@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127307,
+    "wof:geomhash":"65da2ce14147d17ef6ab660057a6704d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85859305,
+            "region_id":85688567,
+            "venue_id":857341551
+        }
+    ],
+    "wof:id":857341551,
+    "wof:lastmodified":1464127307,
+    "wof:name":"Rigal Enterprises Inc",
+    "wof:parent_id":85859305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.845125,
+    40.744557,
+    -111.845125,
+    40.744557
+],
+  "geometry": {"coordinates":[-111.845125,40.744557],"type":"Point"}
+}

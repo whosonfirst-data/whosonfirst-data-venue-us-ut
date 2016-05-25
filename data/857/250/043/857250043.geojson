@@ -1,0 +1,73 @@
+{
+  "id": 857250043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.668246,40.217941,-111.668246,40.217941",
+    "geom:latitude":40.217941,
+    "geom:longitude":-111.668246,
+    "iso:country":"US",
+    "sg:address":"1202 W Frontage Rd",
+    "sg:city":"Nephi",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 623 1026",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727863,
+        102083567,
+        85880089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PkWRACtUHjhk759ZBWURm_40.217941_-111.668246@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125243,
+    "wof:geomhash":"7143343be422b0915e6fbab3888f67fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880089,
+            "region_id":85688567,
+            "venue_id":857250043
+        }
+    ],
+    "wof:id":857250043,
+    "wof:lastmodified":1464125243,
+    "wof:name":"Lynn Construction Co",
+    "wof:parent_id":85880089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.668246,
+    40.217941,
+    -111.668246,
+    40.217941
+],
+  "geometry": {"coordinates":[-111.668246,40.217941],"type":"Point"}
+}

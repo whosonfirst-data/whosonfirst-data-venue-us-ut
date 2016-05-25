@@ -1,0 +1,71 @@
+{
+  "id": 857402107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834035,41.769936,-111.834035,41.769936",
+    "geom:latitude":41.769936,
+    "geom:longitude":-111.834035,
+    "iso:country":"US",
+    "sg:address":"2150 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 5455",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5T9AoTGTMw1L0Ew0CNrVU8_41.769936_-111.834035@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128668,
+    "wof:geomhash":"d1d5708e68d1047558e0b33320355963",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857402107
+        }
+    ],
+    "wof:id":857402107,
+    "wof:lastmodified":1464128668,
+    "wof:name":"Computer Station",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "related"
+    ]
+},
+  "bbox": [
+    -111.834035,
+    41.769936,
+    -111.834035,
+    41.769936
+],
+  "geometry": {"coordinates":[-111.834035,41.769936],"type":"Point"}
+}

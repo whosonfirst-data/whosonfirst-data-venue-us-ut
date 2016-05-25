@@ -1,0 +1,83 @@
+{
+  "id": 857301005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.862532,40.766559,-111.862532,40.766559",
+    "geom:latitude":40.766559,
+    "geom:longitude":-111.862532,
+    "iso:country":"US",
+    "sg:address":"170 S 1000 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 943 8300",
+    "sg:postcode":"84102",
+    "sg:province":"UT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85853739,
+        85871021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43YGp8ZjKokEMmVV1Q8ll1_40.766559_-111.862532@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126433,
+    "wof:geomhash":"bbe66d5d28e31b0fe962e26691749aca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85853739,
+            "region_id":85688567,
+            "venue_id":857301005
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871021,
+            "region_id":85688567,
+            "venue_id":857301005
+        }
+    ],
+    "wof:id":857301005,
+    "wof:lastmodified":1464126433,
+    "wof:name":"Educational Alternative",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -111.862532,
+    40.766559,
+    -111.862532,
+    40.766559
+],
+  "geometry": {"coordinates":[-111.862532,40.766559],"type":"Point"}
+}

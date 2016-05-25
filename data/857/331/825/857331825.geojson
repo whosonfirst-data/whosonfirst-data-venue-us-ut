@@ -1,0 +1,71 @@
+{
+  "id": 857331825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.932278,41.638831,-111.932278,41.638831",
+    "geom:latitude":41.638831,
+    "geom:longitude":-111.932278,
+    "iso:country":"US",
+    "sg:address":"75 E Main St",
+    "sg:city":"Wellsville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 245 3686",
+    "sg:postcode":"84339",
+    "sg:province":"UT",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727555,
+        102082881,
+        85823067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Pd2FmWIzbSJ4gVdrIkO3Z_41.638831_-111.932278@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127097,
+    "wof:geomhash":"d6a725ad346d2cef1229a435a4790e8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727555,
+            "neighbourhood_id":85823067,
+            "region_id":85688567,
+            "venue_id":857331825
+        }
+    ],
+    "wof:id":857331825,
+    "wof:lastmodified":1464127097,
+    "wof:name":"Wellsville City Offices",
+    "wof:parent_id":85823067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -111.932278,
+    41.638831,
+    -111.932278,
+    41.638831
+],
+  "geometry": {"coordinates":[-111.932278,41.638831],"type":"Point"}
+}

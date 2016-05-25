@@ -1,0 +1,69 @@
+{
+  "id": 857335301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.624756,40.328078,-111.624756,40.328078",
+    "geom:latitude":40.328078,
+    "geom:longitude":-111.624756,
+    "iso:country":"US",
+    "sg:address":"1474 Spring Dell Dr",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 221 0040",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85857673,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Pz7eG762d9yM63sfB3bji_40.328078_-111.624756@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127174,
+    "wof:geomhash":"a8cef51fc4617f01addfca63f02fe67b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85857673,
+            "region_id":85688567,
+            "venue_id":857335301
+        }
+    ],
+    "wof:id":857335301,
+    "wof:lastmodified":1464127174,
+    "wof:name":"Blue Sky Homes",
+    "wof:parent_id":85857673,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -111.624756,
+    40.328078,
+    -111.624756,
+    40.328078
+],
+  "geometry": {"coordinates":[-111.624756,40.328078],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857324339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.104887,40.73169,-114.104887,40.73169",
+    "geom:latitude":40.73169,
+    "geom:longitude":-114.104887,
+    "iso:country":"US",
+    "sg:address":"2817 W Tibbets Blvd",
+    "sg:city":"West Wendover",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 775 664 3268",
+    "sg:postcode":"89883",
+    "sg:province":"UT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688531,
+        85633793,
+        85974785,
+        102082651,
+        85804355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72Iq51Pfg1PMBfOt0p0ayD_40.731690_-114.104887@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126937,
+    "wof:geomhash":"e36fbec93bad226f92510bff3b3b877c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082651,
+            "locality_id":85974785,
+            "neighbourhood_id":85804355,
+            "region_id":85688531,
+            "venue_id":857324339
+        }
+    ],
+    "wof:id":857324339,
+    "wof:lastmodified":1464126937,
+    "wof:name":"Stone Creek Apartments",
+    "wof:parent_id":85804355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -114.104887,
+    40.73169,
+    -114.104887,
+    40.73169
+],
+  "geometry": {"coordinates":[-114.10488700000001,40.73169],"type":"Point"}
+}

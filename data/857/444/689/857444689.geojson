@@ -1,0 +1,71 @@
+{
+  "id": 857444689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.798035,40.699286,-111.798035,40.699286",
+    "geom:latitude":40.699286,
+    "geom:longitude":-111.798035,
+    "iso:country":"US",
+    "sg:address":"3391 E Santa Rosa Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Toys & Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 467 7395",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728257,
+        102082877,
+        85854869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nXMkDts6vt6TsbN5F8lSX_40.699286_-111.798035@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129652,
+    "wof:geomhash":"dfcfde2488969b6144914d63b25eb8a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85854869,
+            "region_id":85688567,
+            "venue_id":857444689
+        }
+    ],
+    "wof:id":857444689,
+    "wof:lastmodified":1464129652,
+    "wof:name":"Carrie Bears",
+    "wof:parent_id":85854869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.798035,
+    40.699286,
+    -111.798035,
+    40.699286
+],
+  "geometry": {"coordinates":[-111.798035,40.699286],"type":"Point"}
+}

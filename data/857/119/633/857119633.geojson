@@ -1,0 +1,75 @@
+{
+  "id": 857119633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.813254,40.72627,-111.813254,40.72627",
+    "geom:latitude":40.72627,
+    "geom:longitude":-111.813254,
+    "iso:country":"US",
+    "sg:address":"1979 Wasatch Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 487 6906",
+    "sg:postcode":"84108",
+    "sg:province":"UT",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0d3hhUhvZbPHKP7p80Gx76_40.726270_-111.813254@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122442,
+    "wof:geomhash":"19cbcf4603988943fabdde5915535b55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871023,
+            "region_id":85688567,
+            "venue_id":857119633
+        }
+    ],
+    "wof:id":857119633,
+    "wof:lastmodified":1464122442,
+    "wof:name":"North American Funding",
+    "wof:parent_id":85871023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -111.813254,
+    40.72627,
+    -111.813254,
+    40.72627
+],
+  "geometry": {"coordinates":[-111.813254,40.72627],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857085673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.676189,40.259361,-111.676189,40.259361",
+    "geom:latitude":40.259361,
+    "geom:longitude":-111.676189,
+    "iso:country":"US",
+    "sg:address":"1857 N 1120 W",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 426 7799",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dp0hNMKua4OSA5RNspRDd_40.259361_-111.676189@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121553,
+    "wof:geomhash":"39274503e13ba7383b55a2afd18241b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880063,
+            "region_id":85688567,
+            "venue_id":857085673
+        }
+    ],
+    "wof:id":857085673,
+    "wof:lastmodified":1464121553,
+    "wof:name":"WILKERSON ENTERPRISES",
+    "wof:parent_id":85880063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.676189,
+    40.259361,
+    -111.676189,
+    40.259361
+],
+  "geometry": {"coordinates":[-111.67618899999999,40.259361],"type":"Point"}
+}

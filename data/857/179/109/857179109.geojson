@@ -1,0 +1,68 @@
+{
+  "id": 857179109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.067844,41.162144,-112.067844,41.162144",
+    "geom:latitude":41.162144,
+    "geom:longitude":-112.067844,
+    "iso:country":"US",
+    "sg:address":"3535 W 5600 S",
+    "sg:city":"Roy",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 985 3940",
+    "sg:postcode":"84067",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85804651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Yv8BrJQ0MsB6r9Y8f8yl6_41.162144_-112.067844@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123777,
+    "wof:geomhash":"09f0ed89e431e7f63f66d6fc7de8875f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85804651,
+            "region_id":85688567,
+            "venue_id":857179109
+        }
+    ],
+    "wof:id":857179109,
+    "wof:lastmodified":1464123777,
+    "wof:name":"Kent Market",
+    "wof:parent_id":85804651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.067844,
+    41.162144,
+    -112.067844,
+    41.162144
+],
+  "geometry": {"coordinates":[-112.06784399999999,41.162144],"type":"Point"}
+}

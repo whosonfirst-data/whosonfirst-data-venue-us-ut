@@ -1,0 +1,75 @@
+{
+  "id": 857150695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.647505,40.273707,-111.647505,40.273707",
+    "geom:latitude":40.273707,
+    "geom:longitude":-111.647505,
+    "iso:country":"US",
+    "sg:address":"2976 N 650 E",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 8303",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85817395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZsepIyEn3fVVLg9jHczsu_40.273707_-111.647505@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123163,
+    "wof:geomhash":"10aae3f20c6432e30076d07d89b0b77c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85817395,
+            "region_id":85688567,
+            "venue_id":857150695
+        }
+    ],
+    "wof:id":857150695,
+    "wof:lastmodified":1464123163,
+    "wof:name":"Ray Morgan Painting",
+    "wof:parent_id":85817395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.647505,
+    40.273707,
+    -111.647505,
+    40.273707
+],
+  "geometry": {"coordinates":[-111.647505,40.273707],"type":"Point"}
+}

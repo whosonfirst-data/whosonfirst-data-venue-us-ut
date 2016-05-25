@@ -1,0 +1,71 @@
+{
+  "id": 857357277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.60437,37.044623,-113.60437,37.044623",
+    "geom:latitude":37.044623,
+    "geom:longitude":-113.60437,
+    "iso:country":"US",
+    "sg:address":"3735 Mulberry",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 652 8091",
+    "sg:postcode":"84790",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727617,
+        102082879,
+        85803851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23yWjJIcwc2VunwDKZBAen_37.044623_-113.604370@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127640,
+    "wof:geomhash":"4c7132a5896e735a62c22da461af571b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85803851,
+            "region_id":85688567,
+            "venue_id":857357277
+        }
+    ],
+    "wof:id":857357277,
+    "wof:lastmodified":1464127640,
+    "wof:name":"Silver Summit Construction",
+    "wof:parent_id":85803851,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -113.60437,
+    37.044623,
+    -113.60437,
+    37.044623
+],
+  "geometry": {"coordinates":[-113.60437,37.044623],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857332559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.879637,40.758483,-111.879637,40.758483",
+    "geom:latitude":40.758483,
+    "geom:longitude":-111.879637,
+    "iso:country":"US",
+    "sg:address":"312 E 500 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 533 8686",
+    "sg:postcode":"84111",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0r7rh9h79hRnHsU2jcJZ4L_40.758483_-111.879637@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127114,
+    "wof:geomhash":"715e9d11318037e638efa82ffa12d1a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871021,
+            "region_id":85688567,
+            "venue_id":857332559
+        }
+    ],
+    "wof:id":857332559,
+    "wof:lastmodified":1464127114,
+    "wof:name":"State Farm Insurance",
+    "wof:parent_id":85871021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.879637,
+    40.758483,
+    -111.879637,
+    40.758483
+],
+  "geometry": {"coordinates":[-111.879637,40.758483],"type":"Point"}
+}

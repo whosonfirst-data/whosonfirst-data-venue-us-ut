@@ -1,0 +1,77 @@
+{
+  "id": 857181309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.908514,41.001632,-111.908514,41.001632",
+    "geom:latitude":41.001632,
+    "geom:longitude":-111.908514,
+    "iso:country":"US",
+    "sg:address":"1335 US Hwy 89",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 447 8300",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "club",
+        "health",
+        "studio",
+        "gymnasium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42gMdir3y10OCR1QVOyZtF_41.001632_-111.908514@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123821,
+    "wof:geomhash":"411deb269035aa740e01a71b665a57af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857181309
+        }
+    ],
+    "wof:id":857181309,
+    "wof:lastmodified":1464123821,
+    "wof:name":"Fitness Zone",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "health",
+        "studio",
+        "gymnasium"
+    ]
+},
+  "bbox": [
+    -111.908514,
+    41.001632,
+    -111.908514,
+    41.001632
+],
+  "geometry": {"coordinates":[-111.908514,41.001632],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857132527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.763195,41.257379,-111.763195,41.257379",
+    "geom:latitude":41.257379,
+    "geom:longitude":-111.763195,
+    "iso:country":"US",
+    "sg:address":"400 S 7700 E",
+    "sg:city":"Huntsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 745 3101",
+    "sg:postcode":"84317",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house",
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85818631,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39nUNI1bbrLWmoYkl4JWab_41.257379_-111.763195@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122729,
+    "wof:geomhash":"55ccb1c2831976fffc3667b66eb11b0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85818631,
+            "region_id":85688567,
+            "venue_id":857132527
+        }
+    ],
+    "wof:id":857132527,
+    "wof:lastmodified":1464122729,
+    "wof:name":"Cutting Edge Sawing & Drilling",
+    "wof:parent_id":85818631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.763195,
+    41.257379,
+    -111.763195,
+    41.257379
+],
+  "geometry": {"coordinates":[-111.763195,41.257379],"type":"Point"}
+}

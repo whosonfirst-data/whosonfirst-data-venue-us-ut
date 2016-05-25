@@ -1,0 +1,73 @@
+{
+  "id": 857101901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.9074,40.616114,-111.9074,40.616114",
+    "geom:latitude":40.616114,
+    "geom:longitude":-111.9074,
+    "iso:country":"US",
+    "sg:address":"7367 Rio Grande St",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Railroad",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 233 0666",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728051,
+        102082877,
+        85810115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hFdoGPwH8lYIWEpPTYB91_40.616114_-111.907400@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121959,
+    "wof:geomhash":"6607499fb5605d4a9f643f8fd6353cf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85810115,
+            "region_id":85688567,
+            "venue_id":857101901
+        }
+    ],
+    "wof:id":857101901,
+    "wof:lastmodified":1464121959,
+    "wof:name":"Salt Lake City Southern",
+    "wof:parent_id":85810115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -111.9074,
+    40.616114,
+    -111.9074,
+    40.616114
+],
+  "geometry": {"coordinates":[-111.9074,40.616114],"type":"Point"}
+}

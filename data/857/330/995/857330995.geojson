@@ -1,0 +1,73 @@
+{
+  "id": 857330995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.827477,41.728158,-111.827477,41.728158",
+    "geom:latitude":41.728158,
+    "geom:longitude":-111.827477,
+    "iso:country":"US",
+    "sg:address":"169 S 300 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 1982",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "refrigerator",
+        "freezer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PzEZ1aVQSAQfjRagBn9IA_41.728158_-111.827477@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127073,
+    "wof:geomhash":"f59e895edac2f5b62cc602bae40be5cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857330995
+        }
+    ],
+    "wof:id":857330995,
+    "wof:lastmodified":1464127073,
+    "wof:name":"Dan's Valley Refrigeration",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigerator",
+        "freezer"
+    ]
+},
+  "bbox": [
+    -111.827477,
+    41.728158,
+    -111.827477,
+    41.728158
+],
+  "geometry": {"coordinates":[-111.827477,41.728158],"type":"Point"}
+}

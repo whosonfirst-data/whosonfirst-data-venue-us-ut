@@ -1,0 +1,73 @@
+{
+  "id": 857466743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.036495,41.074759,-112.036495,41.074759",
+    "geom:latitude":41.074759,
+    "geom:longitude":-112.036495,
+    "iso:country":"US",
+    "sg:address":"522 W 2700 S",
+    "sg:city":"Syracuse",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 774 0728",
+    "sg:postcode":"84075",
+    "sg:province":"UT",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85851583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CnYG4wndoJImy5Yb10KHh_41.074759_-112.036495@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130102,
+    "wof:geomhash":"147c2c69f430203d3727526cd7fa6416",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85851583,
+            "region_id":85688567,
+            "venue_id":857466743
+        }
+    ],
+    "wof:id":857466743,
+    "wof:lastmodified":1464130102,
+    "wof:name":"Syracuse Montessori",
+    "wof:parent_id":85851583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -112.036495,
+    41.074759,
+    -112.036495,
+    41.074759
+],
+  "geometry": {"coordinates":[-112.036495,41.074759],"type":"Point"}
+}

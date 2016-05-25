@@ -1,0 +1,76 @@
+{
+  "id": 857491937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.851875,40.399868,-111.851875,40.399868",
+    "geom:latitude":40.399868,
+    "geom:longitude":-111.851875,
+    "iso:country":"US",
+    "sg:address":"173 W State St",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/lehi/212953-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 768 4477",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727857,
+        102083567,
+        85836317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xR2obHAsWfK6pTG7pyKbI_40.399868_-111.851875@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130659,
+    "wof:geomhash":"6a052a2d635151a14916be8af8e0a286",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727857,
+            "neighbourhood_id":85836317,
+            "region_id":85688567,
+            "venue_id":857491937
+        }
+    ],
+    "wof:id":857491937,
+    "wof:lastmodified":1464130659,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85836317,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -111.851875,
+    40.399868,
+    -111.851875,
+    40.399868
+],
+  "geometry": {"coordinates":[-111.85187500000001,40.399868],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857492591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.017229,40.638561,-112.017229,40.638561",
+    "geom:latitude":40.638561,
+    "geom:longitude":-112.017229,
+    "iso:country":"US",
+    "sg:address":"5222 W 6200 S",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/34673-big-daddys-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 982 7499",
+    "sg:postcode":"84084",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85840625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UyKhoafjnLg6v3eR2oKzT_40.638561_-112.017229@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130684,
+    "wof:geomhash":"8fdf1573be80e7a28ac1ed6fc1b9fed6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85840625,
+            "region_id":85688567,
+            "venue_id":857492591
+        }
+    ],
+    "wof:id":857492591,
+    "wof:lastmodified":1464130684,
+    "wof:name":"Big Daddy's Pizza",
+    "wof:parent_id":85840625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -112.017229,
+    40.638561,
+    -112.017229,
+    40.638561
+],
+  "geometry": {"coordinates":[-112.017229,40.638561],"type":"Point"}
+}

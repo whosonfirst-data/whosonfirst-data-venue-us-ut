@@ -1,0 +1,75 @@
+{
+  "id": 857379543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.66714,40.229636,-111.66714,40.229636",
+    "geom:latitude":40.229636,
+    "geom:longitude":-111.66714,
+    "iso:country":"US",
+    "sg:address":"427 W 300 S",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 4677",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automobile",
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0j3dSdJcmleRXGRLKfuiv3_40.229636_-111.667140@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128106,
+    "wof:geomhash":"e8b956748d2117d223cca10f53a26aa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880075,
+            "region_id":85688567,
+            "venue_id":857379543
+        }
+    ],
+    "wof:id":857379543,
+    "wof:lastmodified":1464128106,
+    "wof:name":"Utah Safety & Emissions Tstng",
+    "wof:parent_id":85880075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "inspection"
+    ]
+},
+  "bbox": [
+    -111.66714,
+    40.229636,
+    -111.66714,
+    40.229636
+],
+  "geometry": {"coordinates":[-111.66714,40.229636],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857084943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.936839,41.301149,-111.936839,41.301149",
+    "geom:latitude":41.301149,
+    "geom:longitude":-111.936839,
+    "iso:country":"US",
+    "sg:address":"1454 E 2450 N",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 737 1858",
+    "sg:postcode":"84414",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85824645,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MgTfZLyt3daf7usKA9G2B_41.301149_-111.936839@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121528,
+    "wof:geomhash":"7b6fdb36569cabd4b8724ba2ffaa9d6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85824645,
+            "region_id":85688567,
+            "venue_id":857084943
+        }
+    ],
+    "wof:id":857084943,
+    "wof:lastmodified":1464121528,
+    "wof:name":"Shepherd Tile & Stone Co",
+    "wof:parent_id":85824645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.936839,
+    41.301149,
+    -111.936839,
+    41.301149
+],
+  "geometry": {"coordinates":[-111.93683900000001,41.301149],"type":"Point"}
+}

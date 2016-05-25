@@ -1,0 +1,71 @@
+{
+  "id": 857346983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.807243,40.391856,-111.807243,40.391856",
+    "geom:latitude":40.391856,
+    "geom:longitude":-111.807243,
+    "iso:country":"US",
+    "sg:address":"762 N 320 W",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 1077",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qwaWSUE5JZlbHK9kvtZLk_40.391856_-111.807243@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127417,
+    "wof:geomhash":"12454c954d9cfa2c4cdf523f219cacf3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857346983
+        }
+    ],
+    "wof:id":857346983,
+    "wof:lastmodified":1464127417,
+    "wof:name":"Crockmort Inc",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -111.807243,
+    40.391856,
+    -111.807243,
+    40.391856
+],
+  "geometry": {"coordinates":[-111.807243,40.391856],"type":"Point"}
+}

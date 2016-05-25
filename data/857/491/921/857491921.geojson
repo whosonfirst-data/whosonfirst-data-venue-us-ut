@@ -1,0 +1,72 @@
+{
+  "id": 857491921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.835988,40.388987,-111.835988,40.388987",
+    "geom:latitude":40.388987,
+    "geom:longitude":-111.835988,
+    "iso:country":"US",
+    "sg:address":"72 N 850 E",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/lehi/35415-tempanyaki-japanese-steakhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 653 2988",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "japanese",
+        "asian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Oc1NTud2uf71uJp1Ve1A7_40.388987_-111.835988@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130658,
+    "wof:geomhash":"39a453b2a4badb8ad26ebcc35813cfca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857491921
+        }
+    ],
+    "wof:id":857491921,
+    "wof:lastmodified":1464130658,
+    "wof:name":"Tempanyaki Japanese Steakhouse",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "japanese",
+        "asian"
+    ]
+},
+  "bbox": [
+    -111.835988,
+    40.388987,
+    -111.835988,
+    40.388987
+],
+  "geometry": {"coordinates":[-111.835988,40.388987],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857203483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.602675,40.144742,-111.602675,40.144742",
+    "geom:latitude":40.144742,
+    "geom:longitude":-111.602675,
+    "iso:country":"US",
+    "sg:address":"1695 S State St",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 489 7920",
+    "sg:postcode":"84663",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727829,
+        102083567,
+        85880117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63FaWPZWl5j6ZTc53YaM24_40.144742_-111.602675@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124250,
+    "wof:geomhash":"24d24586fe86d1b47d94d7879e61db7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727829,
+            "neighbourhood_id":85880117,
+            "region_id":85688567,
+            "venue_id":857203483
+        }
+    ],
+    "wof:id":857203483,
+    "wof:lastmodified":1464124250,
+    "wof:name":"T Bone Restaurant",
+    "wof:parent_id":85880117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.602675,
+    40.144742,
+    -111.602675,
+    40.144742
+],
+  "geometry": {"coordinates":[-111.602675,40.144742],"type":"Point"}
+}

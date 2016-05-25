@@ -1,0 +1,73 @@
+{
+  "id": 857105089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.941319,40.653071,-111.941319,40.653071",
+    "geom:latitude":40.653071,
+    "geom:longitude":-111.941319,
+    "iso:country":"US",
+    "sg:address":"1879 W 5400 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 964 8181",
+    "sg:postcode":"84118",
+    "sg:province":"UT",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728059,
+        102082877,
+        85844177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VWM6uoVuBTjpDM54R05vA_40.653071_-111.941319@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122028,
+    "wof:geomhash":"8f4731f2ce47c481cdce6f7e21259f4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728059,
+            "neighbourhood_id":85844177,
+            "region_id":85688567,
+            "venue_id":857105089
+        }
+    ],
+    "wof:id":857105089,
+    "wof:lastmodified":1464122028,
+    "wof:name":"Quick Loan",
+    "wof:parent_id":85844177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -111.941319,
+    40.653071,
+    -111.941319,
+    40.653071
+],
+  "geometry": {"coordinates":[-111.94131899999999,40.653071],"type":"Point"}
+}

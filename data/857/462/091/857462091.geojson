@@ -1,0 +1,75 @@
+{
+  "id": 857462091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.88821,40.666633,-111.88821,40.666633",
+    "geom:latitude":40.666633,
+    "geom:longitude":-111.88821,
+    "iso:country":"US",
+    "sg:address":"4865 S State St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 263 9999",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85804367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SboaDIx4K7enjCvcoHbIy_40.666633_-111.888210@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129992,
+    "wof:geomhash":"99c374d9d51a63212145b9777e5f1b65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85804367,
+            "region_id":85688567,
+            "venue_id":857462091
+        }
+    ],
+    "wof:id":857462091,
+    "wof:lastmodified":1464129992,
+    "wof:name":"Iris Apts",
+    "wof:parent_id":85804367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -111.88821,
+    40.666633,
+    -111.88821,
+    40.666633
+],
+  "geometry": {"coordinates":[-111.88821,40.666633],"type":"Point"}
+}

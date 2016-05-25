@@ -1,0 +1,73 @@
+{
+  "id": 857447525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.910153,40.661259,-111.910153,40.661259",
+    "geom:latitude":40.661259,
+    "geom:longitude":-111.910153,
+    "iso:country":"US",
+    "sg:address":"5061 Daisy Ln",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 262 8222",
+    "sg:postcode":"84123",
+    "sg:province":"UT",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85811485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NBYbIPRqWqAppzsmBBLKD_40.661259_-111.910153@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129713,
+    "wof:geomhash":"38f29dc2b9de7ab039671e56c189e30a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85811485,
+            "region_id":85688567,
+            "venue_id":857447525
+        }
+    ],
+    "wof:id":857447525,
+    "wof:lastmodified":1464129713,
+    "wof:name":"Advance Building Maintenance",
+    "wof:parent_id":85811485,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -111.910153,
+    40.661259,
+    -111.910153,
+    40.661259
+],
+  "geometry": {"coordinates":[-111.91015299999999,40.661259],"type":"Point"}
+}

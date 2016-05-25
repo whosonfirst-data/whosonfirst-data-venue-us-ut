@@ -1,0 +1,72 @@
+{
+  "id": 857429861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.801124,41.706567,-111.801124,41.706567",
+    "geom:latitude":41.706567,
+    "geom:longitude":-111.801124,
+    "iso:country":"US",
+    "sg:address":"31 N 700 E",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 8384",
+    "sg:postcode":"84332",
+    "sg:province":"UT",
+    "sg:tags":[
+        "software"
+    ],
+    "sg:website":"www.cybersym.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77im1XTa3WIs5YUUn2QCXv_41.706567_-111.801124@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129342,
+    "wof:geomhash":"48e5e0b683270bee36954f3919d99aa9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857429861
+        }
+    ],
+    "wof:id":857429861,
+    "wof:lastmodified":1464129342,
+    "wof:name":"Cyber Sym Technologies",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [
+    -111.801124,
+    41.706567,
+    -111.801124,
+    41.706567
+],
+  "geometry": {"coordinates":[-111.801124,41.706567],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 857345675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.750524,40.031282,-111.750524,40.031282",
+    "geom:latitude":40.031282,
+    "geom:longitude":-111.750524,
+    "iso:country":"US",
+    "sg:address":"1201 W 800 S",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 9242",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "packing",
+        "fruit"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VysGjlNg2rrZWJpOc07FM_40.031282_-111.750524@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127386,
+    "wof:geomhash":"4685d072e8629e4390deccc66e707a67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857345675
+        }
+    ],
+    "wof:id":857345675,
+    "wof:lastmodified":1464127386,
+    "wof:name":"Payson Fruit Growers Assn",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packing",
+        "fruit"
+    ]
+},
+  "bbox": [
+    -111.750524,
+    40.031282,
+    -111.750524,
+    40.031282
+],
+  "geometry": {"coordinates":[-111.750524,40.031282],"type":"Point"}
+}

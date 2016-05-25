@@ -1,0 +1,73 @@
+{
+  "id": 857115371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.977479,41.042721,-111.977479,41.042721",
+    "geom:latitude":41.042721,
+    "geom:longitude":-111.977479,
+    "iso:country":"US",
+    "sg:address":"1944 Hill St",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 546 4896",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cTPeqC7z85gY6Ne0hn3nh_41.042721_-111.977479@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122322,
+    "wof:geomhash":"a835550c928b0a5680143eb13b597215",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857115371
+        }
+    ],
+    "wof:id":857115371,
+    "wof:lastmodified":1464122322,
+    "wof:name":"Travel With Me",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -111.977479,
+    41.042721,
+    -111.977479,
+    41.042721
+],
+  "geometry": {"coordinates":[-111.977479,41.042721],"type":"Point"}
+}

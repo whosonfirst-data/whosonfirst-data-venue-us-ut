@@ -1,0 +1,75 @@
+{
+  "id": 857148605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.843749,41.777946,-111.843749,41.777946",
+    "geom:latitude":41.777946,
+    "geom:longitude":-111.843749,
+    "iso:country":"US",
+    "sg:address":"225 W 2500 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 7749",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zxX4EucYUZRp8ovEkQ44F_41.777946_-111.843749@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123114,
+    "wof:geomhash":"04d162427fd671b3da5a65bb99acef37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857148605
+        }
+    ],
+    "wof:id":857148605,
+    "wof:lastmodified":1464123114,
+    "wof:name":"Allen Brent Automotive Trucks",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -111.843749,
+    41.777946,
+    -111.843749,
+    41.777946
+],
+  "geometry": {"coordinates":[-111.843749,41.777946],"type":"Point"}
+}

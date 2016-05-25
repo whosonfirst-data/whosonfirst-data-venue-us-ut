@@ -1,0 +1,75 @@
+{
+  "id": 857341633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.897866,40.667441,-111.897866,40.667441",
+    "geom:latitude":40.667441,
+    "geom:longitude":-111.897866,
+    "iso:country":"US",
+    "sg:address":"242 W 4800 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 261 0209",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85851609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ghgCgW0ePJqrEGFkJRYYa_40.667441_-111.897866@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127309,
+    "wof:geomhash":"fd229069693e61d72d96c577dde9861e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85851609,
+            "region_id":85688567,
+            "venue_id":857341633
+        }
+    ],
+    "wof:id":857341633,
+    "wof:lastmodified":1464127309,
+    "wof:name":"Hamlet Homes",
+    "wof:parent_id":85851609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -111.897866,
+    40.667441,
+    -111.897866,
+    40.667441
+],
+  "geometry": {"coordinates":[-111.89786599999999,40.667441],"type":"Point"}
+}

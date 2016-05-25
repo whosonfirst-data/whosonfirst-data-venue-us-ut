@@ -1,0 +1,74 @@
+{
+  "id": 857492165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.689453,40.273306,-111.689453,40.273306",
+    "geom:latitude":40.273306,
+    "geom:longitude":-111.689453,
+    "iso:country":"US",
+    "sg:address":"214 E University Pkwy",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/provo-orem/40372-smokehouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 434 7000",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85880081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KoVq8ZdzVoox3ap6Tf6x7_40.273306_-111.689453@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130667,
+    "wof:geomhash":"9bccdf49a48ae01577698714ae8a50e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85880081,
+            "region_id":85688567,
+            "venue_id":857492165
+        }
+    ],
+    "wof:id":857492165,
+    "wof:lastmodified":1464130667,
+    "wof:name":"Smokehouse",
+    "wof:parent_id":85880081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -111.689453,
+    40.273306,
+    -111.689453,
+    40.273306
+],
+  "geometry": {"coordinates":[-111.689453,40.273306],"type":"Point"}
+}

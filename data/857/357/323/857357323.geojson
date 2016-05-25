@@ -1,0 +1,75 @@
+{
+  "id": 857357323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.934509,41.245855,-111.934509,41.245855",
+    "geom:latitude":41.245855,
+    "geom:longitude":-111.934509,
+    "iso:country":"US",
+    "sg:address":"975 Stowe Dr",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 393 9079",
+    "sg:postcode":"84404",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728033,
+        102083539,
+        85835839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GV5raPZMlNAhLcyV87hXH_41.245855_-111.934509@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127640,
+    "wof:geomhash":"aa46a4555e8bd9eadf60cd539592dfaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85835839,
+            "region_id":85688567,
+            "venue_id":857357323
+        }
+    ],
+    "wof:id":857357323,
+    "wof:lastmodified":1464127640,
+    "wof:name":"Young Wilford Piano Tuning",
+    "wof:parent_id":85835839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -111.934509,
+    41.245855,
+    -111.934509,
+    41.245855
+],
+  "geometry": {"coordinates":[-111.93450900000001,41.245855],"type":"Point"}
+}

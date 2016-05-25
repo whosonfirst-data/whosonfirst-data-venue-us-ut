@@ -1,0 +1,71 @@
+{
+  "id": 857421059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.697642,40.236366,-111.697642,40.236366",
+    "geom:latitude":40.236366,
+    "geom:longitude":-111.697642,
+    "iso:country":"US",
+    "sg:address":"253 N 2250 W",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 8389",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "control",
+        "weight"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880073,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ajGH3uvm3fxFnuVQzomPn_40.236366_-111.697642@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129130,
+    "wof:geomhash":"e3311301a8deb1c1637fd6bf167b059f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880073,
+            "region_id":85688567,
+            "venue_id":857421059
+        }
+    ],
+    "wof:id":857421059,
+    "wof:lastmodified":1464129130,
+    "wof:name":"Overeaters Anonymous",
+    "wof:parent_id":85880073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "weight"
+    ]
+},
+  "bbox": [
+    -111.697642,
+    40.236366,
+    -111.697642,
+    40.236366
+],
+  "geometry": {"coordinates":[-111.697642,40.236366],"type":"Point"}
+}

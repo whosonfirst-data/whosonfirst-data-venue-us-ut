@@ -1,0 +1,73 @@
+{
+  "id": 857181475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.783781,39.977161,-111.783781,39.977161",
+    "geom:latitude":39.977161,
+    "geom:longitude":-111.783781,
+    "iso:country":"US",
+    "sg:address":"90 E 100 N",
+    "sg:city":"Holden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 795 2228",
+    "sg:postcode":"84655",
+    "sg:province":"UT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1y0CNciRxgMFyPdtDx0uRy_39.977161_-111.783781@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123824,
+    "wof:geomhash":"9e3e7a280b576a2ea50f7bf89c971239",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857181475
+        }
+    ],
+    "wof:id":857181475,
+    "wof:lastmodified":1464123824,
+    "wof:name":"Neil Stevens Backhoe Service",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.783781,
+    39.977161,
+    -111.783781,
+    39.977161
+],
+  "geometry": {"coordinates":[-111.783781,39.977161],"type":"Point"}
+}

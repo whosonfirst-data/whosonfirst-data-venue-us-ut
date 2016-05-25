@@ -1,0 +1,73 @@
+{
+  "id": 857084965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.888297,40.771984,-111.888297,40.771984",
+    "geom:latitude":40.771984,
+    "geom:longitude":-111.888297,
+    "iso:country":"US",
+    "sg:address":"125 N State St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 322 3773",
+    "sg:postcode":"84103",
+    "sg:province":"UT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85809381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0X9r4jOyOmTcQe0OHdlwDF_40.771984_-111.888297@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121529,
+    "wof:geomhash":"f514fb394ed142206c1f13fb95113d3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85809381,
+            "region_id":85688567,
+            "venue_id":857084965
+        }
+    ],
+    "wof:id":857084965,
+    "wof:lastmodified":1464121529,
+    "wof:name":"LDS Church",
+    "wof:parent_id":85809381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -111.888297,
+    40.771984,
+    -111.888297,
+    40.771984
+],
+  "geometry": {"coordinates":[-111.88829699999999,40.771984],"type":"Point"}
+}

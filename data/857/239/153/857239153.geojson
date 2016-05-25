@@ -1,0 +1,77 @@
+{
+  "id": 857239153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.033468,41.080001,-112.033468,41.080001",
+    "geom:latitude":41.080001,
+    "geom:longitude":-112.033468,
+    "iso:country":"US",
+    "sg:address":"2233 S 400 W",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 776 2889",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "local",
+        "long",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85851583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ll3R6D7cAA1ByFyCsY6S2_41.080001_-112.033468@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124985,
+    "wof:geomhash":"37a013a8596b4a76c6f3eed51e7e9c41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85851583,
+            "region_id":85688567,
+            "venue_id":857239153
+        }
+    ],
+    "wof:id":857239153,
+    "wof:lastmodified":1464124985,
+    "wof:name":"David J Gardiner",
+    "wof:parent_id":85851583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "long",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -112.033468,
+    41.080001,
+    -112.033468,
+    41.080001
+],
+  "geometry": {"coordinates":[-112.033468,41.080001],"type":"Point"}
+}

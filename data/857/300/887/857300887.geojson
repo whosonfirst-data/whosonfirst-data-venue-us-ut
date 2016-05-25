@@ -1,0 +1,71 @@
+{
+  "id": 857300887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.91235,41.113794,-111.91235,41.113794",
+    "geom:latitude":41.113794,
+    "geom:longitude":-111.91235,
+    "iso:country":"US",
+    "sg:address":"2826 E 3725 N",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 771 4671",
+    "sg:postcode":"84040",
+    "sg:province":"UT",
+    "sg:tags":[
+        "investor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727911,
+        102083563,
+        85847875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_770p32cxeudZ2Oc63tSEV6_41.113794_-111.912350@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126431,
+    "wof:geomhash":"ad4af12f8233d51eaf40b645948ef03f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727911,
+            "neighbourhood_id":85847875,
+            "region_id":85688567,
+            "venue_id":857300887
+        }
+    ],
+    "wof:id":857300887,
+    "wof:lastmodified":1464126431,
+    "wof:name":"Big B Investments LLC",
+    "wof:parent_id":85847875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investor"
+    ]
+},
+  "bbox": [
+    -111.91235,
+    41.113794,
+    -111.91235,
+    41.113794
+],
+  "geometry": {"coordinates":[-111.91235,41.113794],"type":"Point"}
+}

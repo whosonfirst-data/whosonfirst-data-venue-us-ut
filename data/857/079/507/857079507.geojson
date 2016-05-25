@@ -1,0 +1,69 @@
+{
+  "id": 857079507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.87738,41.358074,-111.87738,41.358074",
+    "geom:latitude":41.358074,
+    "geom:longitude":-111.87738,
+    "iso:country":"US",
+    "sg:address":"5325 N Fork Rd",
+    "sg:city":"Eden",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 745 0821",
+    "sg:postcode":"84310",
+    "sg:province":"UT",
+    "sg:tags":[
+        "camp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85824645,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xo2DJxkUo3QAppph4RmCt_41.358074_-111.877380@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121390,
+    "wof:geomhash":"a73032bbb8203400e95925d4ef8a57b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85824645,
+            "region_id":85688567,
+            "venue_id":857079507
+        }
+    ],
+    "wof:id":857079507,
+    "wof:lastmodified":1464121390,
+    "wof:name":"Valley Camp",
+    "wof:parent_id":85824645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -111.87738,
+    41.358074,
+    -111.87738,
+    41.358074
+],
+  "geometry": {"coordinates":[-111.87738,41.358074],"type":"Point"}
+}

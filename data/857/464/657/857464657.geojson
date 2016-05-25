@@ -1,0 +1,75 @@
+{
+  "id": 857464657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.115749,41.17275,-112.115749,41.17275",
+    "geom:latitude":41.17275,
+    "geom:longitude":-112.115749,
+    "iso:country":"US",
+    "sg:address":"5019 S 5600 W",
+    "sg:city":"Hooper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 985 0479",
+    "sg:postcode":"84315",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85804651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dGUil39kuSx224C6J9Pgp_41.172750_-112.115749@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130055,
+    "wof:geomhash":"6ac1fd5d3934013fa5740bdd971a4090",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85804651,
+            "region_id":85688567,
+            "venue_id":857464657
+        }
+    ],
+    "wof:id":857464657,
+    "wof:lastmodified":1464130055,
+    "wof:name":"Scott Home Construction",
+    "wof:parent_id":85804651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -112.115749,
+    41.17275,
+    -112.115749,
+    41.17275
+],
+  "geometry": {"coordinates":[-112.11574899999999,41.17275],"type":"Point"}
+}

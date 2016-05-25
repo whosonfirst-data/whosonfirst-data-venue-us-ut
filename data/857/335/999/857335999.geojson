@@ -1,0 +1,64 @@
+{
+  "id": 857335999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.844826,40.59202,-111.844826,40.59202",
+    "geom:latitude":40.59202,
+    "geom:longitude":-111.844826,
+    "iso:country":"US",
+    "sg:address":"8769 S 1645 E",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 255 6995",
+    "sg:postcode":"84093",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85847325,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SPrxc3qkurnMwiOsozwtT_40.592020_-111.844826@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127187,
+    "wof:geomhash":"4a68640b682130977f49749ec0634ffc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85847325,
+            "region_id":85688567,
+            "venue_id":857335999
+        }
+    ],
+    "wof:id":857335999,
+    "wof:lastmodified":1464127187,
+    "wof:name":"Circle TV",
+    "wof:parent_id":85847325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.844826,
+    40.59202,
+    -111.844826,
+    40.59202
+],
+  "geometry": {"coordinates":[-111.844826,40.59202],"type":"Point"}
+}

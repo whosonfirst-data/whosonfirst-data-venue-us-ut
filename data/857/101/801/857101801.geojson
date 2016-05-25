@@ -1,0 +1,77 @@
+{
+  "id": 857101801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834812,41.791217,-111.834812,41.791217",
+    "geom:latitude":41.791217,
+    "geom:longitude":-111.834812,
+    "iso:country":"US",
+    "sg:address":"142 W 3200 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 9602",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "frozen",
+        "dessert",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_408uAtS2XDA7bktyfXqVRX_41.791217_-111.834812@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121957,
+    "wof:geomhash":"6fb66b494b26c18c1a1402e50610b551",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857101801
+        }
+    ],
+    "wof:id":857101801,
+    "wof:lastmodified":1464121957,
+    "wof:name":"Heart To Heart Food Inc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "dessert",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -111.834812,
+    41.791217,
+    -111.834812,
+    41.791217
+],
+  "geometry": {"coordinates":[-111.834812,41.791217],"type":"Point"}
+}

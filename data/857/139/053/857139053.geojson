@@ -1,0 +1,75 @@
+{
+  "id": 857139053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.886421,40.719363,-111.886421,40.719363",
+    "geom:latitude":40.719363,
+    "geom:longitude":-111.886421,
+    "iso:country":"US",
+    "sg:address":"140 E Burton Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 533 5456",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "national",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UvOeFKUZ8oaSSsSOqaJsT_40.719363_-111.886421@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122870,
+    "wof:geomhash":"370fc7305e966dfa32271d74027c764e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85808615,
+            "region_id":85688567,
+            "venue_id":857139053
+        }
+    ],
+    "wof:id":857139053,
+    "wof:lastmodified":1464122870,
+    "wof:name":"Civil Air Patrol Inc",
+    "wof:parent_id":85808615,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "security"
+    ]
+},
+  "bbox": [
+    -111.886421,
+    40.719363,
+    -111.886421,
+    40.719363
+],
+  "geometry": {"coordinates":[-111.886421,40.719363],"type":"Point"}
+}

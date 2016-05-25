@@ -1,0 +1,73 @@
+{
+  "id": 857387591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.878267,40.733509,-111.878267,40.733509",
+    "geom:latitude":40.733509,
+    "geom:longitude":-111.878267,
+    "iso:country":"US",
+    "sg:address":"401 E 1700 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 484 2046",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49EYTaONUAT4qutlm0iUQL_40.733509_-111.878267@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128372,
+    "wof:geomhash":"d0baa5ea3a8900987e070d9d643803e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871027,
+            "region_id":85688567,
+            "venue_id":857387591
+        }
+    ],
+    "wof:id":857387591,
+    "wof:lastmodified":1464128372,
+    "wof:name":"Vincent Design Group Inc",
+    "wof:parent_id":85871027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architectural"
+    ]
+},
+  "bbox": [
+    -111.878267,
+    40.733509,
+    -111.878267,
+    40.733509
+],
+  "geometry": {"coordinates":[-111.87826699999999,40.733509],"type":"Point"}
+}

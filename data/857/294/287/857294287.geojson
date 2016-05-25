@@ -1,0 +1,73 @@
+{
+  "id": 857294287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.865401,40.692533,-111.865401,40.692533",
+    "geom:latitude":40.692533,
+    "geom:longitude":-111.865401,
+    "iso:country":"US",
+    "sg:address":"3637 S 900 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 485 3622",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85832079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hNM68wRMdYrxqT0k4Sj8I_40.692533_-111.865401@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126260,
+    "wof:geomhash":"d56d2bb5f053780e736eb1ebd241ce3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85832079,
+            "region_id":85688567,
+            "venue_id":857294287
+        }
+    ],
+    "wof:id":857294287,
+    "wof:lastmodified":1464126260,
+    "wof:name":"Arbor Lane Apartment Community",
+    "wof:parent_id":85832079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -111.865401,
+    40.692533,
+    -111.865401,
+    40.692533
+],
+  "geometry": {"coordinates":[-111.86540100000001,40.692533],"type":"Point"}
+}

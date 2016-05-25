@@ -1,0 +1,73 @@
+{
+  "id": 857165627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.891179,40.721452,-111.891179,40.721452",
+    "geom:latitude":40.721452,
+    "geom:longitude":-111.891179,
+    "iso:country":"US",
+    "sg:address":"2280 S Main St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 486 6777",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TvikdV9b9eaUXKg21piQG_40.721452_-111.891179@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123477,
+    "wof:geomhash":"4fd958f0d160ab0d96fb3beafadd4040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85808611,
+            "region_id":85688567,
+            "venue_id":857165627
+        }
+    ],
+    "wof:id":857165627,
+    "wof:lastmodified":1464123477,
+    "wof:name":"H B Boys",
+    "wof:parent_id":85808611,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -111.891179,
+    40.721452,
+    -111.891179,
+    40.721452
+],
+  "geometry": {"coordinates":[-111.89117899999999,40.721452],"type":"Point"}
+}

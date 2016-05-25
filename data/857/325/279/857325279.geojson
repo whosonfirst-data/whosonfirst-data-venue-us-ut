@@ -1,0 +1,81 @@
+{
+  "id": 857325279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.899602,40.715907,-111.899602,40.715907",
+    "geom:latitude":40.715907,
+    "geom:longitude":-111.899602,
+    "iso:country":"US",
+    "sg:address":"2505 S 300 W",
+    "sg:city":"South Salt Lake",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Motor Vehicles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 466 8764",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "truck",
+        "trailer"
+    ],
+    "sg:website":"www.westerntruck.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40Oymriq2theddkUQ5p0rL_40.715907_-111.899602@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126955,
+    "wof:geomhash":"ff25162fac615ca82ba70a4bedbbf147",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85808611,
+            "region_id":85688567,
+            "venue_id":857325279
+        }
+    ],
+    "wof:id":857325279,
+    "wof:lastmodified":1464126955,
+    "wof:name":"Western Truck & Trailer Sales",
+    "wof:parent_id":85808611,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "trailer"
+    ]
+},
+  "bbox": [
+    -111.899602,
+    40.715907,
+    -111.899602,
+    40.715907
+],
+  "geometry": {"coordinates":[-111.899602,40.715907],"type":"Point"}
+}

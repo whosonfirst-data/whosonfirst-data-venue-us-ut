@@ -1,0 +1,69 @@
+{
+  "id": 857402575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.045332,41.067016,-112.045332,41.067016",
+    "geom:latitude":41.067016,
+    "geom:longitude":-112.045332,
+    "iso:country":"US",
+    "sg:address":"3193 S 1000 W",
+    "sg:city":"Syracuse",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 825 4793",
+    "sg:postcode":"84075",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85868169,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43tG1X5aj2AEnLf6ln5G5I_41.067016_-112.045332@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128677,
+    "wof:geomhash":"c5e54c75ac22f38dd6645c4b926fac75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "neighbourhood_id":85868169,
+            "region_id":85688567,
+            "venue_id":857402575
+        }
+    ],
+    "wof:id":857402575,
+    "wof:lastmodified":1464128677,
+    "wof:name":"Kap Drywall Inc",
+    "wof:parent_id":85868169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -112.045332,
+    41.067016,
+    -112.045332,
+    41.067016
+],
+  "geometry": {"coordinates":[-112.045332,41.067016],"type":"Point"}
+}

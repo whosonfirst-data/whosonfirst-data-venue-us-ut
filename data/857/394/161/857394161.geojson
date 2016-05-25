@@ -1,0 +1,73 @@
+{
+  "id": 857394161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.011729,41.17415,-112.011729,41.17415",
+    "geom:latitude":41.17415,
+    "geom:longitude":-112.011729,
+    "iso:country":"US",
+    "sg:address":"1467 W Riverdale Rd",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 621 1919",
+    "sg:postcode":"84405",
+    "sg:province":"UT",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728031,
+        102083539,
+        85853441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JdZ4NQwtB58B5o7AAKXyK_41.174150_-112.011729@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128506,
+    "wof:geomhash":"36af3c69b76ba7279d1c545cf953ccb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728031,
+            "neighbourhood_id":85853441,
+            "region_id":85688567,
+            "venue_id":857394161
+        }
+    ],
+    "wof:id":857394161,
+    "wof:lastmodified":1464128506,
+    "wof:name":"Roberts Photography",
+    "wof:parent_id":85853441,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -112.011729,
+    41.17415,
+    -112.011729,
+    41.17415
+],
+  "geometry": {"coordinates":[-112.011729,41.17415],"type":"Point"}
+}

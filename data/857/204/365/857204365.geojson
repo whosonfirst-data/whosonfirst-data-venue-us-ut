@@ -1,0 +1,77 @@
+{
+  "id": 857204365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.004812,41.228202,-112.004812,41.228202",
+    "geom:latitude":41.228202,
+    "geom:longitude":-112.004812,
+    "iso:country":"US",
+    "sg:address":"880 Wilson Ln",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 394 2935",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "body",
+        "business",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85818351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cR8UxS8J24cHHYJ7g4xHB_41.228202_-112.004812@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124275,
+    "wof:geomhash":"91b84096234c58079a22775d9d06f4e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85818351,
+            "region_id":85688567,
+            "venue_id":857204365
+        }
+    ],
+    "wof:id":857204365,
+    "wof:lastmodified":1464124275,
+    "wof:name":"Dales Repair and Restoration",
+    "wof:parent_id":85818351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "business",
+        "general"
+    ]
+},
+  "bbox": [
+    -112.004812,
+    41.228202,
+    -112.004812,
+    41.228202
+],
+  "geometry": {"coordinates":[-112.004812,41.228202],"type":"Point"}
+}

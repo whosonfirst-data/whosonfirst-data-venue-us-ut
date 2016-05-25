@@ -1,0 +1,69 @@
+{
+  "id": 857473077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.040475,41.066588,-112.040475,41.066588",
+    "geom:latitude":41.066588,
+    "geom:longitude":-112.040475,
+    "iso:country":"US",
+    "sg:address":"3267 S 750 W",
+    "sg:city":"Syracuse",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 771 2002",
+    "sg:postcode":"84075",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85868169,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rxsbQLHSXmh5i2eOZUicd_41.066588_-112.040475@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130239,
+    "wof:geomhash":"0cb7e144fe3b116459caa0e5dd8d91ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "neighbourhood_id":85868169,
+            "region_id":85688567,
+            "venue_id":857473077
+        }
+    ],
+    "wof:id":857473077,
+    "wof:lastmodified":1464130239,
+    "wof:name":"Crazy Auto Lift Kits",
+    "wof:parent_id":85868169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -112.040475,
+    41.066588,
+    -112.040475,
+    41.066588
+],
+  "geometry": {"coordinates":[-112.040475,41.066588],"type":"Point"}
+}

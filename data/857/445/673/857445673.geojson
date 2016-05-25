@@ -1,0 +1,73 @@
+{
+  "id": 857445673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.904998,40.590706,-111.904998,40.590706",
+    "geom:latitude":40.590706,
+    "geom:longitude":-111.904998,
+    "iso:country":"US",
+    "sg:address":"477 Parkland Dr",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 352 2801",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85818097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fAxqssWoh07onZo2Ao04y_40.590706_-111.904998@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129675,
+    "wof:geomhash":"181cbd0a9e048eb5095b763be05c6bdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85818097,
+            "region_id":85688567,
+            "venue_id":857445673
+        }
+    ],
+    "wof:id":857445673,
+    "wof:lastmodified":1464129675,
+    "wof:name":"Fisher Service Center",
+    "wof:parent_id":85818097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -111.904998,
+    40.590706,
+    -111.904998,
+    40.590706
+],
+  "geometry": {"coordinates":[-111.90499800000001,40.590706],"type":"Point"}
+}

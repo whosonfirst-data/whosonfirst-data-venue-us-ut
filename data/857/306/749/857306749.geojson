@@ -1,0 +1,73 @@
+{
+  "id": 857306749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.006481,41.21065,-112.006481,41.21065",
+    "geom:latitude":41.21065,
+    "geom:longitude":-112.006481,
+    "iso:country":"US",
+    "sg:address":"2900 Pennsylvania Ave",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 392 0490",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85818635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4biN6Osz5iixuwXjpQjrp1_41.210650_-112.006481@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126553,
+    "wof:geomhash":"7244f96eb33c29b45a84f6406561445f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85818635,
+            "region_id":85688567,
+            "venue_id":857306749
+        }
+    ],
+    "wof:id":857306749,
+    "wof:lastmodified":1464126553,
+    "wof:name":"Docs Auto Sales",
+    "wof:parent_id":85818635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -112.006481,
+    41.21065,
+    -112.006481,
+    41.21065
+],
+  "geometry": {"coordinates":[-112.00648099999999,41.21065],"type":"Point"}
+}

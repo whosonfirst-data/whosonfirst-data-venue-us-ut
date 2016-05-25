@@ -1,0 +1,73 @@
+{
+  "id": 857248045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.825003,40.562826,-111.825003,40.562826",
+    "geom:latitude":40.562826,
+    "geom:longitude":-111.825003,
+    "iso:country":"US",
+    "sg:address":"2263 Sego Lily Dr",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 404 0375",
+    "sg:postcode":"84092",
+    "sg:province":"UT",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85818849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ht97E4eTnc1bRq81De8oF_40.562826_-111.825003@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125199,
+    "wof:geomhash":"bc620469a6acb57511e7d9ccc7753047",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85818849,
+            "region_id":85688567,
+            "venue_id":857248045
+        }
+    ],
+    "wof:id":857248045,
+    "wof:lastmodified":1464125199,
+    "wof:name":"Alpine Products",
+    "wof:parent_id":85818849,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -111.825003,
+    40.562826,
+    -111.825003,
+    40.562826
+],
+  "geometry": {"coordinates":[-111.825003,40.562826],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857361391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.013136,40.642029,-112.013136,40.642029",
+    "geom:latitude":40.642029,
+    "geom:longitude":-112.013136,
+    "iso:country":"US",
+    "sg:address":"5124 Halford Cir",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 963 2701",
+    "sg:postcode":"84118",
+    "sg:province":"UT",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85840625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4U0ABuvKNCscVUBP2WLWAA_40.642029_-112.013136@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127729,
+    "wof:geomhash":"fd167bdeeff47ed3999059a60a81d72a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85840625,
+            "region_id":85688567,
+            "venue_id":857361391
+        }
+    ],
+    "wof:id":857361391,
+    "wof:lastmodified":1464127729,
+    "wof:name":"Summit Aviation Svc",
+    "wof:parent_id":85840625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -112.013136,
+    40.642029,
+    -112.013136,
+    40.642029
+],
+  "geometry": {"coordinates":[-112.013136,40.642029],"type":"Point"}
+}

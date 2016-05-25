@@ -1,0 +1,75 @@
+{
+  "id": 857084907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.891189,40.688492,-111.891189,40.688492",
+    "geom:latitude":40.688492,
+    "geom:longitude":-111.891189,
+    "iso:country":"US",
+    "sg:address":"3830 S Main St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 263 6300",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85810147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EMjYb2qSrRsEiRBlc7D9p_40.688492_-111.891189@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121528,
+    "wof:geomhash":"fd15c88be734f4daee1029181fb8d0ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85810147,
+            "region_id":85688567,
+            "venue_id":857084907
+        }
+    ],
+    "wof:id":857084907,
+    "wof:lastmodified":1464121528,
+    "wof:name":"Crecent Auto Sales",
+    "wof:parent_id":85810147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -111.891189,
+    40.688492,
+    -111.891189,
+    40.688492
+],
+  "geometry": {"coordinates":[-111.891189,40.688492],"type":"Point"}
+}

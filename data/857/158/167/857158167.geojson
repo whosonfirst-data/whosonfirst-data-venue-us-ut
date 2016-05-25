@@ -1,0 +1,68 @@
+{
+  "id": 857158167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.689809,40.279835,-111.689809,40.279835",
+    "geom:latitude":40.279835,
+    "geom:longitude":-111.689809,
+    "iso:country":"US",
+    "sg:address":"903 S Orem Blvd",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 225 8005",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85830581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1np6S5BQ7LXs8LxcB1jQAp_40.279835_-111.689809@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123306,
+    "wof:geomhash":"26cc597a11ca73c8b38a059eeac05240",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85830581,
+            "region_id":85688567,
+            "venue_id":857158167
+        }
+    ],
+    "wof:id":857158167,
+    "wof:lastmodified":1464123306,
+    "wof:name":"Farm Bureau Insurance",
+    "wof:parent_id":85830581,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.689809,
+    40.279835,
+    -111.689809,
+    40.279835
+],
+  "geometry": {"coordinates":[-111.689809,40.279835],"type":"Point"}
+}

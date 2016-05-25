@@ -1,0 +1,71 @@
+{
+  "id": 857424173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.895225,41.000412,-111.895225,41.000412",
+    "geom:latitude":41.000412,
+    "geom:longitude":-111.895225,
+    "iso:country":"US",
+    "sg:address":"389 Quail Run Rd",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 6128",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Q8ZiCmBnMa0aQVj1cvF3i_41.000412_-111.895225@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129198,
+    "wof:geomhash":"af94481c21b7878969b75997c282753d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857424173
+        }
+    ],
+    "wof:id":857424173,
+    "wof:lastmodified":1464129198,
+    "wof:name":"Knowlton Shondell PHD PC",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -111.895225,
+    41.000412,
+    -111.895225,
+    41.000412
+],
+  "geometry": {"coordinates":[-111.895225,41.000412],"type":"Point"}
+}

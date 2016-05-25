@@ -1,0 +1,71 @@
+{
+  "id": 857441371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834517,41.754317,-111.834517,41.754317",
+    "geom:latitude":41.754317,
+    "geom:longitude":-111.834517,
+    "iso:country":"US",
+    "sg:address":"1165 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 2771",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JxU8KkQLeyafYZ3Cv1uy1_41.754317_-111.834517@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129594,
+    "wof:geomhash":"6ea9a39d7b7f8c305eba0d8cc39981b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857441371
+        }
+    ],
+    "wof:id":857441371,
+    "wof:lastmodified":1464129594,
+    "wof:name":"Sizzler",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.834517,
+    41.754317,
+    -111.834517,
+    41.754317
+],
+  "geometry": {"coordinates":[-111.83451700000001,41.754317],"type":"Point"}
+}

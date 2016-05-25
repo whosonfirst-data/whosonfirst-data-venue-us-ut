@@ -1,0 +1,73 @@
+{
+  "id": 857283015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.523211,37.099775,-113.523211,37.099775",
+    "geom:latitude":37.099775,
+    "geom:longitude":-113.523211,
+    "iso:country":"US",
+    "sg:address":"2209 Colina Vista Dr",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 656 0570",
+    "sg:postcode":"84780",
+    "sg:province":"UT",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09QmNUCJtaICPkqtZC04nQ_37.099775_-113.523211@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125981,
+    "wof:geomhash":"eaea889d3721df983f0f346b1516a1c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857283015
+        }
+    ],
+    "wof:id":857283015,
+    "wof:lastmodified":1464125981,
+    "wof:name":"Smith & Smith",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -113.523211,
+    37.099775,
+    -113.523211,
+    37.099775
+],
+  "geometry": {"coordinates":[-113.523211,37.099775],"type":"Point"}
+}

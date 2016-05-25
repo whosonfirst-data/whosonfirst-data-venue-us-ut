@@ -1,0 +1,73 @@
+{
+  "id": 857378135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.560229,37.07489,-113.560229,37.07489",
+    "geom:latitude":37.07489,
+    "geom:longitude":-113.560229,
+    "iso:country":"US",
+    "sg:address":"1987 Hedera Pl",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 674 7035",
+    "sg:postcode":"84790",
+    "sg:province":"UT",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22qic4YaBfs1t3sTr6qhv3_37.074890_-113.560229@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128078,
+    "wof:geomhash":"1153451d63139d034bef39debe41f2d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857378135
+        }
+    ],
+    "wof:id":857378135,
+    "wof:lastmodified":1464128078,
+    "wof:name":"Dursteler Automotive",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -113.560229,
+    37.07489,
+    -113.560229,
+    37.07489
+],
+  "geometry": {"coordinates":[-113.56022900000001,37.07489],"type":"Point"}
+}

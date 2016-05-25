@@ -1,0 +1,73 @@
+{
+  "id": 857234807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.900304,40.526912,-111.900304,40.526912",
+    "geom:latitude":40.526912,
+    "geom:longitude":-111.900304,
+    "iso:country":"US",
+    "sg:address":"267 W 12300 S",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 816 1665",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727849,
+        102082877,
+        85845115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4w8irRP7Ynu9pG4ExVhYOL_40.526912_-111.900304@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124898,
+    "wof:geomhash":"b722976e63bb7b41ecfa76e31cb0ccc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85845115,
+            "region_id":85688567,
+            "venue_id":857234807
+        }
+    ],
+    "wof:id":857234807,
+    "wof:lastmodified":1464124898,
+    "wof:name":"Draper Chevron",
+    "wof:parent_id":85845115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -111.900304,
+    40.526912,
+    -111.900304,
+    40.526912
+],
+  "geometry": {"coordinates":[-111.90030400000001,40.526912],"type":"Point"}
+}

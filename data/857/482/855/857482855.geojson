@@ -1,0 +1,75 @@
+{
+  "id": 857482855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.891202,40.693792,-111.891202,40.693792",
+    "geom:latitude":40.693792,
+    "geom:longitude":-111.891202,
+    "iso:country":"US",
+    "sg:address":"3564 S Main St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 266 4408",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "car",
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85810147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HpRJ9NQz2Uz0MOo9JxCHy_40.693792_-111.891202@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130426,
+    "wof:geomhash":"40b34ee15212f43658f062f16869e77a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85810147,
+            "region_id":85688567,
+            "venue_id":857482855
+        }
+    ],
+    "wof:id":857482855,
+    "wof:lastmodified":1464130426,
+    "wof:name":"Hanson Auto",
+    "wof:parent_id":85810147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used"
+    ]
+},
+  "bbox": [
+    -111.891202,
+    40.693792,
+    -111.891202,
+    40.693792
+],
+  "geometry": {"coordinates":[-111.89120200000001,40.693792],"type":"Point"}
+}

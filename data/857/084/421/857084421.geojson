@@ -1,0 +1,75 @@
+{
+  "id": 857084421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.854502,40.702149,-111.854502,40.702149",
+    "geom:latitude":40.702149,
+    "geom:longitude":-111.854502,
+    "iso:country":"US",
+    "sg:address":"3165 S 1300 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 466 0838",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "club",
+        "night"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85832079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dQb7qjLnM7Z1nCLq35isQ_40.702149_-111.854502@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121518,
+    "wof:geomhash":"a675649dc563b53785ac1ff57e78fe59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85832079,
+            "region_id":85688567,
+            "venue_id":857084421
+        }
+    ],
+    "wof:id":857084421,
+    "wof:lastmodified":1464121518,
+    "wof:name":"P J's",
+    "wof:parent_id":85832079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "night"
+    ]
+},
+  "bbox": [
+    -111.854502,
+    40.702149,
+    -111.854502,
+    40.702149
+],
+  "geometry": {"coordinates":[-111.854502,40.702149],"type":"Point"}
+}

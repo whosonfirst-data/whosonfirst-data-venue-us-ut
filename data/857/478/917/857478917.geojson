@@ -1,0 +1,68 @@
+{
+  "id": 857478917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.828343,40.724216,-111.828343,40.724216",
+    "geom:latitude":40.724216,
+    "geom:longitude":-111.828343,
+    "iso:country":"US",
+    "sg:address":"2136 S 2200 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 467 8998",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85858091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Yd94T23LEtjGBuNnf7mri_40.724216_-111.828343@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130351,
+    "wof:geomhash":"4eba274bf93370bf0c20695a7b5ff58f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85858091,
+            "region_id":85688567,
+            "venue_id":857478917
+        }
+    ],
+    "wof:id":857478917,
+    "wof:lastmodified":1464130351,
+    "wof:name":"George Cannon Lund Jr DDS Inc",
+    "wof:parent_id":85858091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.828343,
+    40.724216,
+    -111.828343,
+    40.724216
+],
+  "geometry": {"coordinates":[-111.828343,40.724216],"type":"Point"}
+}

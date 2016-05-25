@@ -1,0 +1,76 @@
+{
+  "id": 857495329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.554693,37.110346,-113.554693,37.110346",
+    "geom:latitude":37.110346,
+    "geom:longitude":-113.554693,
+    "iso:country":"US",
+    "sg:address":"29 N River Rd",
+    "sg:city":"Saint George",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/st-george/109460-village-inn/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 652 9528",
+    "sg:postcode":"84790",
+    "sg:province":"UT",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zrRTR6hz5FHXvdEh02AEW_37.110111_-113.554707@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130789,
+    "wof:geomhash":"4ee7206f15fc15aa3e24cbf4c0dd95e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857495329
+        }
+    ],
+    "wof:id":857495329,
+    "wof:lastmodified":1464130789,
+    "wof:name":"Village Inn",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [
+    -113.554693,
+    37.110346,
+    -113.554693,
+    37.110346
+],
+  "geometry": {"coordinates":[-113.554693,37.110346],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857485525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.658626,40.228421,-111.658626,40.228421",
+    "geom:latitude":40.228421,
+    "geom:longitude":-111.658626,
+    "iso:country":"US",
+    "sg:address":"305 S University Ave",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 377 3160",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4q1zMqLqpdsq9OAw8JNeW7_40.228421_-111.658626@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130477,
+    "wof:geomhash":"2527193cb98fa623e84700dec4ad95e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880065,
+            "region_id":85688567,
+            "venue_id":857485525
+        }
+    ],
+    "wof:id":857485525,
+    "wof:lastmodified":1464130477,
+    "wof:name":"KWAL Paints",
+    "wof:parent_id":85880065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -111.658626,
+    40.228421,
+    -111.658626,
+    40.228421
+],
+  "geometry": {"coordinates":[-111.658626,40.228421],"type":"Point"}
+}

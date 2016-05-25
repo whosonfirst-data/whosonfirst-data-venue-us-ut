@@ -1,0 +1,75 @@
+{
+  "id": 857335181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.611875,37.124045,-113.611875,37.124045",
+    "geom:latitude":37.124045,
+    "geom:longitude":-113.611875,
+    "iso:country":"US",
+    "sg:address":"945 N 1300 W",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 628 4255",
+    "sg:postcode":"84770",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lzvH8i4KnTTl0pM1h1HZo_37.124045_-113.611875@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127172,
+    "wof:geomhash":"419cc6676d2c01d6a9793de01a770597",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857335181
+        }
+    ],
+    "wof:id":857335181,
+    "wof:lastmodified":1464127172,
+    "wof:name":"Mountain Alarm",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -113.611875,
+    37.124045,
+    -113.611875,
+    37.124045
+],
+  "geometry": {"coordinates":[-113.611875,37.124045],"type":"Point"}
+}

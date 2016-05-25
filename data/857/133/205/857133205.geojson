@@ -1,0 +1,69 @@
+{
+  "id": 857133205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.852531,40.599083,-111.852531,40.599083",
+    "geom:latitude":40.599083,
+    "geom:longitude":-111.852531,
+    "iso:country":"US",
+    "sg:address":"8340 S 1330 E",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 641 9186",
+    "sg:postcode":"84093",
+    "sg:province":"UT",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85847325,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fvFRwT0RlGrg2gOWXToPJ_40.599083_-111.852531@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122744,
+    "wof:geomhash":"13ef9fd5ca430df7a64c107c9a71808d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85847325,
+            "region_id":85688567,
+            "venue_id":857133205
+        }
+    ],
+    "wof:id":857133205,
+    "wof:lastmodified":1464122744,
+    "wof:name":"Wasatch Tree Experts & Lndscpg",
+    "wof:parent_id":85847325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -111.852531,
+    40.599083,
+    -111.852531,
+    40.599083
+],
+  "geometry": {"coordinates":[-111.852531,40.599083],"type":"Point"}
+}

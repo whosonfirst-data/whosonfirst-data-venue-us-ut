@@ -1,0 +1,73 @@
+{
+  "id": 857140793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.803929,40.379239,-111.803929,40.379239",
+    "geom:latitude":40.379239,
+    "geom:longitude":-111.803929,
+    "iso:country":"US",
+    "sg:address":"143 N 200 W",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 9149",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "medical",
+        "used",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nzRoz98I9NCkZA4F6jZNi_40.379239_-111.803929@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122910,
+    "wof:geomhash":"e2a369b681813a79fbe877015c7b753e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857140793
+        }
+    ],
+    "wof:id":857140793,
+    "wof:lastmodified":1464122910,
+    "wof:name":"Lake City Antiques",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "used",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -111.803929,
+    40.379239,
+    -111.803929,
+    40.379239
+],
+  "geometry": {"coordinates":[-111.803929,40.379239],"type":"Point"}
+}

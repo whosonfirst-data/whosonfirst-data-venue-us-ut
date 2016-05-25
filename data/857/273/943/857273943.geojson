@@ -1,0 +1,77 @@
+{
+  "id": 857273943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.668608,40.254468,-111.668608,40.254468",
+    "geom:latitude":40.254468,
+    "geom:longitude":-111.668608,
+    "iso:country":"US",
+    "sg:address":"1530 Riverside Ave",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 4900",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sG4T4KkazsXA8yELgedSe_40.254468_-111.668608@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125769,
+    "wof:geomhash":"24430fb64a28c4c8fcce58cb8f64f47c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880063,
+            "region_id":85688567,
+            "venue_id":857273943
+        }
+    ],
+    "wof:id":857273943,
+    "wof:lastmodified":1464125769,
+    "wof:name":"Riverside Collision Repair",
+    "wof:parent_id":85880063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -111.668608,
+    40.254468,
+    -111.668608,
+    40.254468
+],
+  "geometry": {"coordinates":[-111.66860800000001,40.254468],"type":"Point"}
+}

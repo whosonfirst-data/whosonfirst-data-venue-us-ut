@@ -1,0 +1,71 @@
+{
+  "id": 857254521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.894813,41.699717,-111.894813,41.699717",
+    "geom:latitude":41.699717,
+    "geom:longitude":-111.894813,
+    "iso:country":"US",
+    "sg:address":"2496 W 1800 S",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 755 9153",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727555,
+        102082881,
+        85823067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zUFbCQuqbZYIutCZcA8SC_41.699717_-111.894813@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125364,
+    "wof:geomhash":"9291d34f37f5813dd58719914305561c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727555,
+            "neighbourhood_id":85823067,
+            "region_id":85688567,
+            "venue_id":857254521
+        }
+    ],
+    "wof:id":857254521,
+    "wof:lastmodified":1464125364,
+    "wof:name":"Ammons Handyman Services LLC",
+    "wof:parent_id":85823067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -111.894813,
+    41.699717,
+    -111.894813,
+    41.699717
+],
+  "geometry": {"coordinates":[-111.894813,41.699717],"type":"Point"}
+}

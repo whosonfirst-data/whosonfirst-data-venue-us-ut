@@ -1,0 +1,75 @@
+{
+  "id": 857160625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.025694,41.22442,-112.025694,41.22442",
+    "geom:latitude":41.22442,
+    "geom:longitude":-112.025694,
+    "iso:country":"US",
+    "sg:address":"2251 S 1900 W",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 732 9080",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automobile",
+        "customizing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85818351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hyI6XgWJWNDJGBJlWX5Dv_41.224420_-112.025694@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123355,
+    "wof:geomhash":"829d396633057a77f9fa6730758a666c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85818351,
+            "region_id":85688567,
+            "venue_id":857160625
+        }
+    ],
+    "wof:id":857160625,
+    "wof:lastmodified":1464123355,
+    "wof:name":"Wardley Vintage Cars",
+    "wof:parent_id":85818351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "customizing"
+    ]
+},
+  "bbox": [
+    -112.025694,
+    41.22442,
+    -112.025694,
+    41.22442
+],
+  "geometry": {"coordinates":[-112.025694,41.22442],"type":"Point"}
+}

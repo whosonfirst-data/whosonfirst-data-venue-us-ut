@@ -1,0 +1,75 @@
+{
+  "id": 857481177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.831758,40.67643,-111.831758,40.67643",
+    "geom:latitude":40.67643,
+    "geom:longitude":-111.831758,
+    "iso:country":"US",
+    "sg:address":"4418 S Albright Dr",
+    "sg:city":"Holladay",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 278 5454",
+    "sg:postcode":"84124",
+    "sg:province":"UT",
+    "sg:tags":[
+        "return",
+        "filing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728049,
+        102082877,
+        85827505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mh8jTlmAU9v9cQi7POx56_40.676430_-111.831758@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130391,
+    "wof:geomhash":"591c157d6467de7316c8468d3dc77516",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728049,
+            "neighbourhood_id":85827505,
+            "region_id":85688567,
+            "venue_id":857481177
+        }
+    ],
+    "wof:id":857481177,
+    "wof:lastmodified":1464130391,
+    "wof:name":"Tax Computation Enterprises",
+    "wof:parent_id":85827505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return",
+        "filing"
+    ]
+},
+  "bbox": [
+    -111.831758,
+    40.67643,
+    -111.831758,
+    40.67643
+],
+  "geometry": {"coordinates":[-111.83175799999999,40.67643],"type":"Point"}
+}

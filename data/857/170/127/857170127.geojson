@@ -1,0 +1,75 @@
+{
+  "id": 857170127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.821812,40.613005,-111.821812,40.613005",
+    "geom:latitude":40.613005,
+    "geom:longitude":-111.821812,
+    "iso:country":"US",
+    "sg:address":"2327 Bengal Blvd",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 944 2006",
+    "sg:postcode":"84121",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mormon",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728065,
+        102082877,
+        85803915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0G2JBrs4pmftVFQfxEKj3q_40.613005_-111.821812@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123587,
+    "wof:geomhash":"e68e01ce922f1c6cc70138e6deda7abe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728065,
+            "neighbourhood_id":85803915,
+            "region_id":85688567,
+            "venue_id":857170127
+        }
+    ],
+    "wof:id":857170127,
+    "wof:lastmodified":1464123587,
+    "wof:name":"Brighton Fourth Ward",
+    "wof:parent_id":85803915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mormon",
+        "church"
+    ]
+},
+  "bbox": [
+    -111.821812,
+    40.613005,
+    -111.821812,
+    40.613005
+],
+  "geometry": {"coordinates":[-111.82181199999999,40.613005],"type":"Point"}
+}

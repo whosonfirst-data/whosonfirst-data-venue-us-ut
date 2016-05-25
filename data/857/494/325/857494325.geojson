@@ -1,0 +1,76 @@
+{
+  "id": 857494325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.717956,40.044491,-111.717956,40.044491",
+    "geom:latitude":40.044491,
+    "geom:longitude":-111.717956,
+    "iso:country":"US",
+    "sg:address":"887 E 100 N",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/spanish-fork-payson/69608-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 1112",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34l7SZk6GTP8a1487kJgzA_40.044491_-111.717956@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130743,
+    "wof:geomhash":"00371b0d7a645a04f4ecbea874570b23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857494325
+        }
+    ],
+    "wof:id":857494325,
+    "wof:lastmodified":1464130743,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -111.717956,
+    40.044491,
+    -111.717956,
+    40.044491
+],
+  "geometry": {"coordinates":[-111.717956,40.044491],"type":"Point"}
+}

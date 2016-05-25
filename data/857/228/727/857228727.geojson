@@ -1,0 +1,75 @@
+{
+  "id": 857228727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.607636,37.057193,-113.607636,37.057193",
+    "geom:latitude":37.057193,
+    "geom:longitude":-113.607636,
+    "iso:country":"US",
+    "sg:address":"2994 Jacob Hamblin Dr",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 656 8543",
+    "sg:postcode":"84790",
+    "sg:province":"UT",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727617,
+        102082879,
+        85803851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5T8NiBWZjtAqH7Nzro9wrZ_37.057193_-113.607636@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124785,
+    "wof:geomhash":"0527ef842eb47cf8aac792f6cc9485ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85803851,
+            "region_id":85688567,
+            "venue_id":857228727
+        }
+    ],
+    "wof:id":857228727,
+    "wof:lastmodified":1464124785,
+    "wof:name":"R&R Flooring Inc",
+    "wof:parent_id":85803851,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -113.607636,
+    37.057193,
+    -113.607636,
+    37.057193
+],
+  "geometry": {"coordinates":[-113.607636,37.057193],"type":"Point"}
+}

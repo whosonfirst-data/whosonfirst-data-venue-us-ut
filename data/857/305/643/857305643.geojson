@@ -1,0 +1,75 @@
+{
+  "id": 857305643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.823272,41.773269,-111.823272,41.773269",
+    "geom:latitude":41.773269,
+    "geom:longitude":-111.823272,
+    "iso:country":"US",
+    "sg:address":"2351 N 400 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 792 0353",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "apartment",
+        "an"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KFEK6Qa7FMa8ZHDga8Odv_41.773269_-111.823272@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126532,
+    "wof:geomhash":"99eea992abec604c0597332735f589ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857305643
+        }
+    ],
+    "wof:id":857305643,
+    "wof:lastmodified":1464126532,
+    "wof:name":"Pioneer Valley Lodge",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment",
+        "an"
+    ]
+},
+  "bbox": [
+    -111.823272,
+    41.773269,
+    -111.823272,
+    41.773269
+],
+  "geometry": {"coordinates":[-111.823272,41.773269],"type":"Point"}
+}

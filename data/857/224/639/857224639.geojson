@@ -1,0 +1,68 @@
+{
+  "id": 857224639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.052825,41.115927,-112.052825,41.115927",
+    "geom:latitude":41.115927,
+    "geom:longitude":-112.052825,
+    "iso:country":"US",
+    "sg:address":"162 N 1400 W",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 776 3008",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727889,
+        102083563,
+        85804563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bbAUPt4lKjqrKmti25GbU_41.115927_-112.052825@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124704,
+    "wof:geomhash":"e8e3ef0f4c2402e273f064846b3d9b1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727889,
+            "neighbourhood_id":85804563,
+            "region_id":85688567,
+            "venue_id":857224639
+        }
+    ],
+    "wof:id":857224639,
+    "wof:lastmodified":1464124704,
+    "wof:name":"Avatar Inc",
+    "wof:parent_id":85804563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.052825,
+    41.115927,
+    -112.052825,
+    41.115927
+],
+  "geometry": {"coordinates":[-112.052825,41.115927],"type":"Point"}
+}

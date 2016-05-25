@@ -1,0 +1,75 @@
+{
+  "id": 857235739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.031458,40.640711,-112.031458,40.640711",
+    "geom:latitude":40.640711,
+    "geom:longitude":-112.031458,
+    "iso:country":"US",
+    "sg:address":"6070 Wakefield Way",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 466 8239",
+    "sg:postcode":"84118",
+    "sg:province":"UT",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728061,
+        102082877,
+        85854369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ES2OtdA6gX4SHPzAAs9TY_40.640711_-112.031458@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124917,
+    "wof:geomhash":"a43274c9d5e3f890489b3f155bdf9d1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85854369,
+            "region_id":85688567,
+            "venue_id":857235739
+        }
+    ],
+    "wof:id":857235739,
+    "wof:lastmodified":1464124917,
+    "wof:name":"Budget Truck Rental",
+    "wof:parent_id":85854369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -112.031458,
+    40.640711,
+    -112.031458,
+    40.640711
+],
+  "geometry": {"coordinates":[-112.031458,40.640711],"type":"Point"}
+}

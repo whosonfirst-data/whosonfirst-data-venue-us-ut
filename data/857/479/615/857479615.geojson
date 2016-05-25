@@ -1,0 +1,73 @@
+{
+  "id": 857479615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.804746,41.708278,-111.804746,41.708278",
+    "geom:latitude":41.708278,
+    "geom:longitude":-111.804746,
+    "iso:country":"US",
+    "sg:address":"557 Vons Way Dr",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 994 1302",
+    "sg:postcode":"84332",
+    "sg:province":"UT",
+    "sg:tags":[
+        "stucco",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54PHuzYDAwC13NI2UNaGGt_41.708278_-111.804746@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130364,
+    "wof:geomhash":"bcc0405ab7351ae21f2f1c941dc35c49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857479615
+        }
+    ],
+    "wof:id":857479615,
+    "wof:lastmodified":1464130364,
+    "wof:name":"Proline Plastering Inc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stucco",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.804746,
+    41.708278,
+    -111.804746,
+    41.708278
+],
+  "geometry": {"coordinates":[-111.80474599999999,41.708278],"type":"Point"}
+}

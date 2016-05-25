@@ -1,0 +1,73 @@
+{
+  "id": 857276245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.909509,40.895461,-111.909509,40.895461",
+    "geom:latitude":40.895461,
+    "geom:longitude":-111.909509,
+    "iso:country":"US",
+    "sg:address":"1060 W 600 N",
+    "sg:city":"Woods Cross",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 298 9063",
+    "sg:postcode":"84087",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727883,
+        102083563,
+        85818403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QjylRG6hj6iL4x1wMrX4u_40.895461_-111.909509@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125818,
+    "wof:geomhash":"b2a577baf781fa70cc260271e050aa46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727883,
+            "neighbourhood_id":85818403,
+            "region_id":85688567,
+            "venue_id":857276245
+        }
+    ],
+    "wof:id":857276245,
+    "wof:lastmodified":1464125818,
+    "wof:name":"Turley Heating & Air Condition",
+    "wof:parent_id":85818403,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.909509,
+    40.895461,
+    -111.909509,
+    40.895461
+],
+  "geometry": {"coordinates":[-111.909509,40.895461],"type":"Point"}
+}

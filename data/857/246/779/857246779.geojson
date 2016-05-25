@@ -1,0 +1,73 @@
+{
+  "id": 857246779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.731937,40.289913,-111.731937,40.289913",
+    "geom:latitude":40.289913,
+    "geom:longitude":-111.731937,
+    "iso:country":"US",
+    "sg:address":"1518 W 400 S",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Dairy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 221 7717",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "cheese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727827,
+        102083567,
+        85821287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IJ3yAPbL9UhqGJGXArtfx_40.289913_-111.731937@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125173,
+    "wof:geomhash":"c1d4a328d634b65e3f63d9eeff312109",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727827,
+            "neighbourhood_id":85821287,
+            "region_id":85688567,
+            "venue_id":857246779
+        }
+    ],
+    "wof:id":857246779,
+    "wof:lastmodified":1464125173,
+    "wof:name":"Hickory Farms",
+    "wof:parent_id":85821287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cheese"
+    ]
+},
+  "bbox": [
+    -111.731937,
+    40.289913,
+    -111.731937,
+    40.289913
+],
+  "geometry": {"coordinates":[-111.731937,40.289913],"type":"Point"}
+}

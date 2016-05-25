@@ -1,0 +1,75 @@
+{
+  "id": 857213583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.995686,40.507913,-111.995686,40.507913",
+    "geom:latitude":40.507913,
+    "geom:longitude":-111.995686,
+    "iso:country":"US",
+    "sg:address":"4258 W 13400 S",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 254 1207",
+    "sg:postcode":"84065",
+    "sg:province":"UT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728047,
+        102082877,
+        85819751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5X97tbOXJM3f4RlToAmNTk_40.507913_-111.995686@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124474,
+    "wof:geomhash":"952bf039fa0b0dd7297080f411771b7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728047,
+            "neighbourhood_id":85819751,
+            "region_id":85688567,
+            "venue_id":857213583
+        }
+    ],
+    "wof:id":857213583,
+    "wof:lastmodified":1464124474,
+    "wof:name":"Riverton Self Storage",
+    "wof:parent_id":85819751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -111.995686,
+    40.507913,
+    -111.995686,
+    40.507913
+],
+  "geometry": {"coordinates":[-111.99568600000001,40.507913],"type":"Point"}
+}

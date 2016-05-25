@@ -1,0 +1,71 @@
+{
+  "id": 857164483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.026742,41.060266,-112.026742,41.060266",
+    "geom:latitude":41.060266,
+    "geom:longitude":-112.026742,
+    "iso:country":"US",
+    "sg:address":"3252 W Gentile St",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 544 8889",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85868169,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bdvZO3Y8vGLf3Wn2VBmdq_41.060266_-112.026742@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123455,
+    "wof:geomhash":"1a720eade2e9c638c57a15a64d7024b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "neighbourhood_id":85868169,
+            "region_id":85688567,
+            "venue_id":857164483
+        }
+    ],
+    "wof:id":857164483,
+    "wof:lastmodified":1464123455,
+    "wof:name":"Wayne Bone & Sons Electric",
+    "wof:parent_id":85868169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -112.026742,
+    41.060266,
+    -112.026742,
+    41.060266
+],
+  "geometry": {"coordinates":[-112.026742,41.060266],"type":"Point"}
+}

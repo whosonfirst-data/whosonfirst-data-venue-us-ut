@@ -1,0 +1,75 @@
+{
+  "id": 857398921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.804351,41.761126,-111.804351,41.761126",
+    "geom:latitude":41.761126,
+    "geom:longitude":-111.804351,
+    "iso:country":"US",
+    "sg:address":"1650 N 1200 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 5226",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59QTJlEIvLB9r8GePTvpCX_41.761126_-111.804351@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128604,
+    "wof:geomhash":"a3d182cc4d16907ea1debce5f7228fa3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857398921
+        }
+    ],
+    "wof:id":857398921,
+    "wof:lastmodified":1464128604,
+    "wof:name":"North Logan Public Works",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -111.804351,
+    41.761126,
+    -111.804351,
+    41.761126
+],
+  "geometry": {"coordinates":[-111.804351,41.761126],"type":"Point"}
+}

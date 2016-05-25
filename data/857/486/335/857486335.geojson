@@ -1,0 +1,68 @@
+{
+  "id": 857486335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.895781,40.556698,-111.895781,40.556698",
+    "geom:latitude":40.556698,
+    "geom:longitude":-111.895781,
+    "iso:country":"US",
+    "sg:address":"10640 Holiday Park Dr",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 495 7050",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85850585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ciljFoDk0mXHZKiAWBvQa_40.556698_-111.895781@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130491,
+    "wof:geomhash":"1ab872e5a6f446cd6f64fd31e7aa2b03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85850585,
+            "region_id":85688567,
+            "venue_id":857486335
+        }
+    ],
+    "wof:id":857486335,
+    "wof:lastmodified":1464130491,
+    "wof:name":"Bistro Ganache",
+    "wof:parent_id":85850585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.895781,
+    40.556698,
+    -111.895781,
+    40.556698
+],
+  "geometry": {"coordinates":[-111.895781,40.556698],"type":"Point"}
+}

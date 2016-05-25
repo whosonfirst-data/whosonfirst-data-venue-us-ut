@@ -1,0 +1,74 @@
+{
+  "id": 857491791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.942318,41.040736,-111.942318,41.040736",
+    "geom:latitude":41.040736,
+    "geom:longitude":-111.942318,
+    "iso:country":"US",
+    "sg:address":"315 N Main St",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/north-davis/157638-taco-maker/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 444 3230",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GvseUe82n0ZHXQWFplDEf_41.040736_-111.942318@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130652,
+    "wof:geomhash":"8c78f725f8018ac66e90831632d1955f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857491791
+        }
+    ],
+    "wof:id":857491791,
+    "wof:lastmodified":1464130652,
+    "wof:name":"Taco Maker",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -111.942318,
+    41.040736,
+    -111.942318,
+    41.040736
+],
+  "geometry": {"coordinates":[-111.942318,41.040736],"type":"Point"}
+}

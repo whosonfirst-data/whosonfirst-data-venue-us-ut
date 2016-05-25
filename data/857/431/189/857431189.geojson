@@ -1,0 +1,73 @@
+{
+  "id": 857431189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.559174,37.115879,-113.559174,37.115879",
+    "geom:latitude":37.115879,
+    "geom:longitude":-113.559174,
+    "iso:country":"US",
+    "sg:address":"1155 E 350 N",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 673 7514",
+    "sg:postcode":"84770",
+    "sg:province":"UT",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0F6Fv3cgl3mVY2tWJZh8yR_37.115879_-113.559174@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129370,
+    "wof:geomhash":"6055df68cad96309f0b9ac1288d16330",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857431189
+        }
+    ],
+    "wof:id":857431189,
+    "wof:lastmodified":1464129370,
+    "wof:name":"Questar Gas Company",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -113.559174,
+    37.115879,
+    -113.559174,
+    37.115879
+],
+  "geometry": {"coordinates":[-113.559174,37.115879],"type":"Point"}
+}

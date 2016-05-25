@@ -1,0 +1,75 @@
+{
+  "id": 857222423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.013333,40.63816,-112.013333,40.63816",
+    "geom:latitude":40.63816,
+    "geom:longitude":-112.013333,
+    "iso:country":"US",
+    "sg:address":"5066 W 6225 S",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 255 4814",
+    "sg:postcode":"84084",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop",
+        "consignment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85840625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30tCEQji0xVjmPlS7bf5gY_40.638160_-112.013333@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124664,
+    "wof:geomhash":"52dd5f66e89dfd1b73dcdf60cf93cdce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85840625,
+            "region_id":85688567,
+            "venue_id":857222423
+        }
+    ],
+    "wof:id":857222423,
+    "wof:lastmodified":1464124664,
+    "wof:name":"Auctionopolis",
+    "wof:parent_id":85840625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "consignment"
+    ]
+},
+  "bbox": [
+    -112.013333,
+    40.63816,
+    -112.013333,
+    40.63816
+],
+  "geometry": {"coordinates":[-112.013333,40.63816],"type":"Point"}
+}

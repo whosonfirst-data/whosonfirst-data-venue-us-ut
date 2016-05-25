@@ -1,0 +1,71 @@
+{
+  "id": 857457563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.721352,40.051332,-111.721352,40.051332",
+    "geom:latitude":40.051332,
+    "geom:longitude":-111.721352,
+    "iso:country":"US",
+    "sg:address":"516 N 700 E",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 0441",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pwW905ZfrPixkSQ0G4DQi_40.051332_-111.721352@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129899,
+    "wof:geomhash":"be67f355f008564b51ff968033d8ef4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857457563
+        }
+    ],
+    "wof:id":857457563,
+    "wof:lastmodified":1464129899,
+    "wof:name":"Best Built Homes Lc",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -111.721352,
+    40.051332,
+    -111.721352,
+    40.051332
+],
+  "geometry": {"coordinates":[-111.721352,40.051332],"type":"Point"}
+}

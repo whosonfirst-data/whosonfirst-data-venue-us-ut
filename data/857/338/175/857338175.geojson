@@ -1,0 +1,68 @@
+{
+  "id": 857338175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.583388,37.078047,-113.583388,37.078047",
+    "geom:latitude":37.078047,
+    "geom:longitude":-113.583388,
+    "iso:country":"US",
+    "sg:address":"1835 S Convention Center Dr",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 634 5747",
+    "sg:postcode":"84790",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1y8CQoMv2RaeQn1tGFdPNY_37.078047_-113.583388@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127235,
+    "wof:geomhash":"84b9711451be13dcc601c53c9c3c9164",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857338175
+        }
+    ],
+    "wof:id":857338175,
+    "wof:lastmodified":1464127235,
+    "wof:name":"Washington County Travel Cncl",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.583388,
+    37.078047,
+    -113.583388,
+    37.078047
+],
+  "geometry": {"coordinates":[-113.583388,37.078047],"type":"Point"}
+}

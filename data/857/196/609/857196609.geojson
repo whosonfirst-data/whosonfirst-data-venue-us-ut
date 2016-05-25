@@ -1,0 +1,75 @@
+{
+  "id": 857196609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.969118,40.613601,-111.969118,40.613601",
+    "geom:latitude":40.613601,
+    "geom:longitude":-111.969118,
+    "iso:country":"US",
+    "sg:address":"3305 W 7545 S",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 282 1534",
+    "sg:postcode":"84084",
+    "sg:province":"UT",
+    "sg:tags":[
+        "maintenance",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85843301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BBuIec8QRhQhlIadxjv5d_40.613601_-111.969118@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124112,
+    "wof:geomhash":"30d32a9950d8a4991495fe8d0829b6c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85843301,
+            "region_id":85688567,
+            "venue_id":857196609
+        }
+    ],
+    "wof:id":857196609,
+    "wof:lastmodified":1464124112,
+    "wof:name":"Pearson Maintenance Co",
+    "wof:parent_id":85843301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "general"
+    ]
+},
+  "bbox": [
+    -111.969118,
+    40.613601,
+    -111.969118,
+    40.613601
+],
+  "geometry": {"coordinates":[-111.96911799999999,40.613601],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857096767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.844609,40.387938,-111.844609,40.387938",
+    "geom:latitude":40.387938,
+    "geom:longitude":-111.844609,
+    "iso:country":"US",
+    "sg:address":"224 E Main St",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 766 4199",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69TQYoBd6brmaxydCO6Y0a_40.387938_-111.844609@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121828,
+    "wof:geomhash":"76d0ca87ebbe63acd8d84e267262f4d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857096767
+        }
+    ],
+    "wof:id":857096767,
+    "wof:lastmodified":1464121828,
+    "wof:name":"Caribbean Nails",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -111.844609,
+    40.387938,
+    -111.844609,
+    40.387938
+],
+  "geometry": {"coordinates":[-111.84460900000001,40.387938],"type":"Point"}
+}

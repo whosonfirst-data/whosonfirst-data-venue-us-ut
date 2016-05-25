@@ -1,0 +1,75 @@
+{
+  "id": 857089117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.938789,40.672093,-111.938789,40.672093",
+    "geom:latitude":40.672093,
+    "geom:longitude":-111.938789,
+    "iso:country":"US",
+    "sg:address":"4515 S Redwood Rd",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 759 4672",
+    "sg:postcode":"84123",
+    "sg:province":"UT",
+    "sg:tags":[
+        "instruction",
+        "driving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728059,
+        102082877,
+        85806869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07ObK99KdJwaVg2B0y1dB2_40.672093_-111.938789@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121646,
+    "wof:geomhash":"cef8dc249ed16f728ca16ce4a2f4ac08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728059,
+            "neighbourhood_id":85806869,
+            "region_id":85688567,
+            "venue_id":857089117
+        }
+    ],
+    "wof:id":857089117,
+    "wof:lastmodified":1464121646,
+    "wof:name":"A Plus Driving School",
+    "wof:parent_id":85806869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "driving"
+    ]
+},
+  "bbox": [
+    -111.938789,
+    40.672093,
+    -111.938789,
+    40.672093
+],
+  "geometry": {"coordinates":[-111.938789,40.672093],"type":"Point"}
+}

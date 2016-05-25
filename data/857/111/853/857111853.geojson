@@ -1,0 +1,69 @@
+{
+  "id": 857111853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.827873,41.305528,-111.827873,41.305528",
+    "geom:latitude":41.305528,
+    "geom:longitude":-111.827873,
+    "iso:country":"US",
+    "sg:address":"2580 N Hwy 162",
+    "sg:city":"Eden",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 745 2519",
+    "sg:postcode":"84310",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85824645,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5j4LqPuCD511tWQsGPewxg_41.305528_-111.827873@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122231,
+    "wof:geomhash":"173672090b2ffd64a925eb1c87339873",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85824645,
+            "region_id":85688567,
+            "venue_id":857111853
+        }
+    ],
+    "wof:id":857111853,
+    "wof:lastmodified":1464122231,
+    "wof:name":"Jeffrey D Shepherd DDS",
+    "wof:parent_id":85824645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -111.827873,
+    41.305528,
+    -111.827873,
+    41.305528
+],
+  "geometry": {"coordinates":[-111.827873,41.305528],"type":"Point"}
+}

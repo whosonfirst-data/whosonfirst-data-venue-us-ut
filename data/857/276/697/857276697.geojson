@@ -1,0 +1,73 @@
+{
+  "id": 857276697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.768005,40.023539,-111.768005,40.023539",
+    "geom:latitude":40.023539,
+    "geom:longitude":-111.768005,
+    "iso:country":"US",
+    "sg:address":"11315 S 4800 W",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 3564",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MT6XBVym7IPjE0pwH74tU_40.023539_-111.768005@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125833,
+    "wof:geomhash":"ef51c921822bb96a3192fde702b1361f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857276697
+        }
+    ],
+    "wof:id":857276697,
+    "wof:lastmodified":1464125833,
+    "wof:name":"Spencer Drywall",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.768005,
+    40.023539,
+    -111.768005,
+    40.023539
+],
+  "geometry": {"coordinates":[-111.768005,40.023539],"type":"Point"}
+}

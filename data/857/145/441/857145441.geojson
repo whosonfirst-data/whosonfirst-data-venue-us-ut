@@ -1,0 +1,73 @@
+{
+  "id": 857145441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.890866,41.628067,-111.890866,41.628067",
+    "geom:latitude":41.628067,
+    "geom:longitude":-111.890866,
+    "iso:country":"US",
+    "sg:address":"5760 S 2400 W",
+    "sg:city":"Hyrum",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 245 4508",
+    "sg:postcode":"84339",
+    "sg:province":"UT",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727555,
+        102082881,
+        85823067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5n2hbV4cqTUj1B6nBMPI7P_41.628067_-111.890866@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123050,
+    "wof:geomhash":"c5a049eb35baea3af41927e18abe65a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727555,
+            "neighbourhood_id":85823067,
+            "region_id":85688567,
+            "venue_id":857145441
+        }
+    ],
+    "wof:id":857145441,
+    "wof:lastmodified":1464123050,
+    "wof:name":"Cache Valley Roofing",
+    "wof:parent_id":85823067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.890866,
+    41.628067,
+    -111.890866,
+    41.628067
+],
+  "geometry": {"coordinates":[-111.890866,41.628067],"type":"Point"}
+}

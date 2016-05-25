@@ -1,0 +1,82 @@
+{
+  "id": 857492429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.891407,40.556856,-111.891407,40.556856",
+    "geom:latitude":40.556856,
+    "geom:longitude":-111.891407,
+    "iso:country":"US",
+    "sg:address":"10710 S State St",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/151791-aw-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 501 0678",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "burger",
+        "american",
+        "dog",
+        "pub",
+        "hot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85850585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SWjvWbKavERiTYVZLHDnd_40.556856_-111.891407@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130676,
+    "wof:geomhash":"2a1c58cfd5c0931ecf6b9bc90c0de137",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85850585,
+            "region_id":85688567,
+            "venue_id":857492429
+        }
+    ],
+    "wof:id":857492429,
+    "wof:lastmodified":1464130676,
+    "wof:name":"A&W Restaurant",
+    "wof:parent_id":85850585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "dog",
+        "pub",
+        "hot"
+    ]
+},
+  "bbox": [
+    -111.891407,
+    40.556856,
+    -111.891407,
+    40.556856
+],
+  "geometry": {"coordinates":[-111.891407,40.556856],"type":"Point"}
+}

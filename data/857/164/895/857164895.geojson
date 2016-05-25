@@ -1,0 +1,75 @@
+{
+  "id": 857164895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.883163,40.52494,-111.883163,40.52494",
+    "geom:latitude":40.52494,
+    "geom:longitude":-111.883163,
+    "iso:country":"US",
+    "sg:address":"405 E 12450 S",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 545 0706",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727849,
+        102082877,
+        85823005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6H0eqy00k1067WEjcQxsQ0_40.524940_-111.883163@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123463,
+    "wof:geomhash":"6a30b3bbfcb325b01aad34b57ee76ef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85823005,
+            "region_id":85688567,
+            "venue_id":857164895
+        }
+    ],
+    "wof:id":857164895,
+    "wof:lastmodified":1464123463,
+    "wof:name":"Home Loan Funding",
+    "wof:parent_id":85823005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -111.883163,
+    40.52494,
+    -111.883163,
+    40.52494
+],
+  "geometry": {"coordinates":[-111.883163,40.52494],"type":"Point"}
+}

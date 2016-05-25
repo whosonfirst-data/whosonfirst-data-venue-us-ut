@@ -1,0 +1,68 @@
+{
+  "id": 857446237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.93232,41.224269,-111.93232,41.224269",
+    "geom:latitude":41.224269,
+    "geom:longitude":-111.93232,
+    "iso:country":"US",
+    "sg:address":"1715 23rd St",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 393 5545",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85839591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74ETCaX5yW9vmMpDEfwIgt_41.224269_-111.932320@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129686,
+    "wof:geomhash":"bc94ca7b754f12c0cb3aada28fbcbd5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85839591,
+            "region_id":85688567,
+            "venue_id":857446237
+        }
+    ],
+    "wof:id":857446237,
+    "wof:lastmodified":1464129686,
+    "wof:name":"Curio Shop",
+    "wof:parent_id":85839591,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.93232,
+    41.224269,
+    -111.93232,
+    41.224269
+],
+  "geometry": {"coordinates":[-111.93232,41.224269],"type":"Point"}
+}

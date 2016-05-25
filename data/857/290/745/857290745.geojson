@@ -1,0 +1,75 @@
+{
+  "id": 857290745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.892155,40.892756,-111.892155,40.892756",
+    "geom:latitude":40.892756,
+    "geom:longitude":-111.892155,
+    "iso:country":"US",
+    "sg:address":"390 N 500 W",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 335 3324",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727883,
+        102083563,
+        85854881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2i9wG4REOpyZPmyN1i5Fp1_40.892756_-111.892155@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126163,
+    "wof:geomhash":"ed722684c63376e003d3d85ad9ad05c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727883,
+            "neighbourhood_id":85854881,
+            "region_id":85688567,
+            "venue_id":857290745
+        }
+    ],
+    "wof:id":857290745,
+    "wof:lastmodified":1464126163,
+    "wof:name":"Checkmate",
+    "wof:parent_id":85854881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [
+    -111.892155,
+    40.892756,
+    -111.892155,
+    40.892756
+],
+  "geometry": {"coordinates":[-111.892155,40.892756],"type":"Point"}
+}

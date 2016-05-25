@@ -1,0 +1,71 @@
+{
+  "id": 857327613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.817711,41.711697,-111.817711,41.711697",
+    "geom:latitude":41.711697,
+    "geom:longitude":-111.817711,
+    "iso:country":"US",
+    "sg:address":"233 N Main St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 792 4770",
+    "sg:postcode":"84332",
+    "sg:province":"UT",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Jk6vdZvC0rfYIihSgNKdi_41.711697_-111.817711@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127004,
+    "wof:geomhash":"87cd952ea0dad132fb8cf766e4966c73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857327613
+        }
+    ],
+    "wof:id":857327613,
+    "wof:lastmodified":1464127004,
+    "wof:name":"Providence Assisted Living",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -111.817711,
+    41.711697,
+    -111.817711,
+    41.711697
+],
+  "geometry": {"coordinates":[-111.817711,41.711697],"type":"Point"}
+}

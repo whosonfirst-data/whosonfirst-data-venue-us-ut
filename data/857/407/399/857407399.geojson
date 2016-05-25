@@ -1,0 +1,73 @@
+{
+  "id": 857407399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.641689,40.094442,-111.641689,40.094442",
+    "geom:latitude":40.094442,
+    "geom:longitude":-111.641689,
+    "iso:country":"US",
+    "sg:address":"788 E 1170 S",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 9604",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "copper",
+        "foundry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LvHIFhG4z1t95J6aMGUs5_40.094442_-111.641689@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128782,
+    "wof:geomhash":"bb27c95540b921cdf6cb296377f1f464",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857407399
+        }
+    ],
+    "wof:id":857407399,
+    "wof:lastmodified":1464128782,
+    "wof:name":"McSnows Casting Inc",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "copper",
+        "foundry"
+    ]
+},
+  "bbox": [
+    -111.641689,
+    40.094442,
+    -111.641689,
+    40.094442
+],
+  "geometry": {"coordinates":[-111.641689,40.094442],"type":"Point"}
+}

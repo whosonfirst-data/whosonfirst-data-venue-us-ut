@@ -1,0 +1,73 @@
+{
+  "id": 857445001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.867457,40.764932,-111.867457,40.764932",
+    "geom:latitude":40.764932,
+    "geom:longitude":-111.867457,
+    "iso:country":"US",
+    "sg:address":"812 E 200 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 355 3938",
+    "sg:postcode":"84102",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mzRFZ1t7EpkUS1AVjsE5j_40.764932_-111.867457@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129659,
+    "wof:geomhash":"bed7195849ba14db80f56a492a11aa42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871021,
+            "region_id":85688567,
+            "venue_id":857445001
+        }
+    ],
+    "wof:id":857445001,
+    "wof:lastmodified":1464129659,
+    "wof:name":"Dollar Tree",
+    "wof:parent_id":85871021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.867457,
+    40.764932,
+    -111.867457,
+    40.764932
+],
+  "geometry": {"coordinates":[-111.867457,40.764932],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857274191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.813646,40.38057,-111.813646,40.38057",
+    "geom:latitude":40.38057,
+    "geom:longitude":-111.813646,
+    "iso:country":"US",
+    "sg:address":"188 W State Rd",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 492 1133",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VMvW1uVuOEIfgCn0w6qtp_40.380570_-111.813646@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125774,
+    "wof:geomhash":"5ee81e46d54d83dce81df6ba5fedc6db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857274191
+        }
+    ],
+    "wof:id":857274191,
+    "wof:lastmodified":1464125774,
+    "wof:name":"Salon Cachet",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.813646,
+    40.38057,
+    -111.813646,
+    40.38057
+],
+  "geometry": {"coordinates":[-111.81364600000001,40.38057],"type":"Point"}
+}

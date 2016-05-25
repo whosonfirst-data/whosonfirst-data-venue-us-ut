@@ -1,0 +1,71 @@
+{
+  "id": 857222393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.671274,40.055175,-111.671274,40.055175",
+    "geom:latitude":40.055175,
+    "geom:longitude":-111.671274,
+    "iso:country":"US",
+    "sg:address":"60 N 100 E",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 423 1035",
+    "sg:postcode":"84653",
+    "sg:province":"UT",
+    "sg:tags":[
+        "amusement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52lmGHytGEBYhToERtc9Fc_40.055175_-111.671274@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124664,
+    "wof:geomhash":"dec0d3ce681081e540aba2bbca72a089",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857222393
+        }
+    ],
+    "wof:id":857222393,
+    "wof:lastmodified":1464124664,
+    "wof:name":"Salem City Recreation",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "amusement"
+    ]
+},
+  "bbox": [
+    -111.671274,
+    40.055175,
+    -111.671274,
+    40.055175
+],
+  "geometry": {"coordinates":[-111.671274,40.055175],"type":"Point"}
+}

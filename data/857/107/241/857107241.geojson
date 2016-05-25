@@ -1,0 +1,68 @@
+{
+  "id": 857107241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.005385,40.638605,-112.005385,40.638605",
+    "geom:latitude":40.638605,
+    "geom:longitude":-112.005385,
+    "iso:country":"US",
+    "sg:address":"4800 W 6200 S",
+    "sg:city":"Kearns",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 964 8084",
+    "sg:postcode":"84118",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728253,
+        102082877,
+        85833569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0C6gFMgB6N4XyJOJ1d4Fgj_40.638605_-112.005385@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122074,
+    "wof:geomhash":"0fe683d6b432ba4fa9944ab6c9e4e59f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728253,
+            "neighbourhood_id":85833569,
+            "region_id":85688567,
+            "venue_id":857107241
+        }
+    ],
+    "wof:id":857107241,
+    "wof:lastmodified":1464122074,
+    "wof:name":"7-Eleven",
+    "wof:parent_id":85833569,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.005385,
+    40.638605,
+    -112.005385,
+    40.638605
+],
+  "geometry": {"coordinates":[-112.005385,40.638605],"type":"Point"}
+}

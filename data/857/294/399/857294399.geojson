@@ -1,0 +1,73 @@
+{
+  "id": 857294399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.843383,41.777939,-111.843383,41.777939",
+    "geom:latitude":41.777939,
+    "geom:longitude":-111.843383,
+    "iso:country":"US",
+    "sg:address":"245 W 2500 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 787 2706",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "bulk",
+        "station"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LlNLn76xj4ORZ06iS7fx3_41.777939_-111.843383@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126269,
+    "wof:geomhash":"487f5f05bad96803b1cb20502486f177",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857294399
+        }
+    ],
+    "wof:id":857294399,
+    "wof:lastmodified":1464126269,
+    "wof:name":"Performance Petrolium",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulk",
+        "station"
+    ]
+},
+  "bbox": [
+    -111.843383,
+    41.777939,
+    -111.843383,
+    41.777939
+],
+  "geometry": {"coordinates":[-111.843383,41.777939],"type":"Point"}
+}

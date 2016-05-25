@@ -1,0 +1,73 @@
+{
+  "id": 857422771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.891706,40.998256,-111.891706,40.998256",
+    "geom:latitude":40.998256,
+    "geom:longitude":-111.891706,
+    "iso:country":"US",
+    "sg:address":"195 W 1100 N",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 7488",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61LjYxaGUzSe91UiHep8YO_40.998256_-111.891706@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129163,
+    "wof:geomhash":"72e3006f15998db481dcdf53cb9b9a6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857422771
+        }
+    ],
+    "wof:id":857422771,
+    "wof:lastmodified":1464129163,
+    "wof:name":"Uintah Refrigeration & Elctrcl",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.891706,
+    40.998256,
+    -111.891706,
+    40.998256
+],
+  "geometry": {"coordinates":[-111.891706,40.998256],"type":"Point"}
+}

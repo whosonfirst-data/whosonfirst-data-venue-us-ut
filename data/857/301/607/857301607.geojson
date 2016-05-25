@@ -1,0 +1,77 @@
+{
+  "id": 857301607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.906102,40.730873,-111.906102,40.730873",
+    "geom:latitude":40.730873,
+    "geom:longitude":-111.906102,
+    "iso:country":"US",
+    "sg:address":"537 Pickett Cir",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 956 0666",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "home",
+        "sp",
+        "furnishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85851735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fxyHVA9WqIxJ4JI76DbmF_40.730873_-111.906102@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126446,
+    "wof:geomhash":"cde18a61959a6bf5687b4a0da0ee0544",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85851735,
+            "region_id":85688567,
+            "venue_id":857301607
+        }
+    ],
+    "wof:id":857301607,
+    "wof:lastmodified":1464126446,
+    "wof:name":"Sport Court of Utah",
+    "wof:parent_id":85851735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "sp",
+        "furnishing"
+    ]
+},
+  "bbox": [
+    -111.906102,
+    40.730873,
+    -111.906102,
+    40.730873
+],
+  "geometry": {"coordinates":[-111.906102,40.730873],"type":"Point"}
+}

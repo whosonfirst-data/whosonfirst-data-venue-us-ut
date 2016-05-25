@@ -1,0 +1,74 @@
+{
+  "id": 857495157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.831888,41.738984,-111.831888,41.738984",
+    "geom:latitude":41.738984,
+    "geom:longitude":-111.831888,
+    "iso:country":"US",
+    "sg:address":"110 E 400 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/logan/75020-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 6400",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lOzIkWJb5dZXiPYhdfJBg_41.738934_-111.831928@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130778,
+    "wof:geomhash":"cbf6f4888acc5a54b77480d08a9f7da8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857495157
+        }
+    ],
+    "wof:id":857495157,
+    "wof:lastmodified":1464130778,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -111.831888,
+    41.738984,
+    -111.831888,
+    41.738984
+],
+  "geometry": {"coordinates":[-111.83188800000001,41.738984],"type":"Point"}
+}

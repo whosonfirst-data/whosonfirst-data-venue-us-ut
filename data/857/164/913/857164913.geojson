@@ -1,0 +1,73 @@
+{
+  "id": 857164913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.745306,40.023677,-111.745306,40.023677",
+    "geom:latitude":40.023677,
+    "geom:longitude":-111.745306,
+    "iso:country":"US",
+    "sg:address":"1316 S 780 W",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 376 0385",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "processing",
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jhDAVGgLJfjU2DA2sVJn4_40.023677_-111.745306@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123464,
+    "wof:geomhash":"c7237c36ea3ff9264f563de273223f94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857164913
+        }
+    ],
+    "wof:id":857164913,
+    "wof:lastmodified":1464123464,
+    "wof:name":"Technology Trainers",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "processing",
+        "datum"
+    ]
+},
+  "bbox": [
+    -111.745306,
+    40.023677,
+    -111.745306,
+    40.023677
+],
+  "geometry": {"coordinates":[-111.745306,40.023677],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857407295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.946596,40.653172,-111.946596,40.653172",
+    "geom:latitude":40.653172,
+    "geom:longitude":-111.946596,
+    "iso:country":"US",
+    "sg:address":"2048 W 5400 S",
+    "sg:city":"Kearns",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 968 5400",
+    "sg:postcode":"84118",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728059,
+        102082877,
+        85844177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ya893FYOJ2n3MoIorFX9n_40.653172_-111.946596@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128778,
+    "wof:geomhash":"0df9ffc82c8b3f0ff73e9a1eb04442d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728059,
+            "neighbourhood_id":85844177,
+            "region_id":85688567,
+            "venue_id":857407295
+        }
+    ],
+    "wof:id":857407295,
+    "wof:lastmodified":1464128778,
+    "wof:name":"Green Chiropractic Clinic",
+    "wof:parent_id":85844177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.946596,
+    40.653172,
+    -111.946596,
+    40.653172
+],
+  "geometry": {"coordinates":[-111.946596,40.653172],"type":"Point"}
+}

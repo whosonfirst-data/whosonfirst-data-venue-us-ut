@@ -1,0 +1,79 @@
+{
+  "id": 857270671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.920859,40.807809,-111.920859,40.807809",
+    "geom:latitude":40.807809,
+    "geom:longitude":-111.920859,
+    "iso:country":"US",
+    "sg:address":"2001 Warm Springs Rd",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 328 4600",
+    "sg:postcode":"84116",
+    "sg:province":"UT",
+    "sg:tags":[
+        "operator",
+        "mover",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85851619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ak1YpvpRFiktrPxjzs33D_40.807809_-111.920859@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125699,
+    "wof:geomhash":"6671f64a806cb41d7d9d658caf92f6a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85851619,
+            "region_id":85688567,
+            "venue_id":857270671
+        }
+    ],
+    "wof:id":857270671,
+    "wof:lastmodified":1464125699,
+    "wof:name":"Bekins/B & B Moving & Storage",
+    "wof:parent_id":85851619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "mover",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -111.920859,
+    40.807809,
+    -111.920859,
+    40.807809
+],
+  "geometry": {"coordinates":[-111.92085899999999,40.807809],"type":"Point"}
+}

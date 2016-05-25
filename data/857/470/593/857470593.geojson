@@ -1,0 +1,73 @@
+{
+  "id": 857470593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.822119,40.727546,-111.822119,40.727546",
+    "geom:latitude":40.727546,
+    "geom:longitude":-111.822119,
+    "iso:country":"US",
+    "sg:address":"1886 Texas St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 466 1656",
+    "sg:postcode":"84108",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85858091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lSWTb494brwMBsqXosg9R_40.727546_-111.822119@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130182,
+    "wof:geomhash":"8401eeabeabf37f33dff1b132841a86a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85858091,
+            "region_id":85688567,
+            "venue_id":857470593
+        }
+    ],
+    "wof:id":857470593,
+    "wof:lastmodified":1464130182,
+    "wof:name":"R T K LLC",
+    "wof:parent_id":85858091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.822119,
+    40.727546,
+    -111.822119,
+    40.727546
+],
+  "geometry": {"coordinates":[-111.822119,40.727546],"type":"Point"}
+}

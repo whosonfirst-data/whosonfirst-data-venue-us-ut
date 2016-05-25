@@ -1,0 +1,73 @@
+{
+  "id": 857356667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.805981,41.75311,-111.805981,41.75311",
+    "geom:latitude":41.75311,
+    "geom:longitude":-111.805981,
+    "iso:country":"US",
+    "sg:address":"1105 E Stadium Dr",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 563 2563",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "advisory",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kPdyJB1leWL7McJhfXyxO_41.753110_-111.805981@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127629,
+    "wof:geomhash":"481acf0cbf9e03888d39f710e6dea15a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857356667
+        }
+    ],
+    "wof:id":857356667,
+    "wof:lastmodified":1464127629,
+    "wof:name":"Seniors Only Financial",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "financial"
+    ]
+},
+  "bbox": [
+    -111.805981,
+    41.75311,
+    -111.805981,
+    41.75311
+],
+  "geometry": {"coordinates":[-111.805981,41.75311],"type":"Point"}
+}

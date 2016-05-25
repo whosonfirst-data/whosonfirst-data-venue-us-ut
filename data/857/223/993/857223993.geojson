@@ -1,0 +1,73 @@
+{
+  "id": 857223993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.691012,40.299059,-111.691012,40.299059",
+    "geom:latitude":40.299059,
+    "geom:longitude":-111.691012,
+    "iso:country":"US",
+    "sg:address":"107 E 100 N",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 225 0800",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85849197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0q8SS1akrUw4N96VrGtf2R_40.299059_-111.691012@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124692,
+    "wof:geomhash":"7d69c3d879a52198f17676747c958693",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85849197,
+            "region_id":85688567,
+            "venue_id":857223993
+        }
+    ],
+    "wof:id":857223993,
+    "wof:lastmodified":1464124692,
+    "wof:name":"Ken's Rocky Mountain Taxidermy",
+    "wof:parent_id":85849197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxidermist"
+    ]
+},
+  "bbox": [
+    -111.691012,
+    40.299059,
+    -111.691012,
+    40.299059
+],
+  "geometry": {"coordinates":[-111.691012,40.299059],"type":"Point"}
+}

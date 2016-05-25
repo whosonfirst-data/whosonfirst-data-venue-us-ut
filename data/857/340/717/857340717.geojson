@@ -1,0 +1,73 @@
+{
+  "id": 857340717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.833597,41.797811,-111.833597,41.797811",
+    "geom:latitude":41.797811,
+    "geom:longitude":-111.833597,
+    "iso:country":"US",
+    "sg:address":"3559 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 563 1500",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "lawn",
+        "garden"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZMjszmelXKwFpj0F1uYxP_41.797811_-111.833597@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127292,
+    "wof:geomhash":"f4b00b7e7e664fd28522e9b1d96a8319",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857340717
+        }
+    ],
+    "wof:id":857340717,
+    "wof:lastmodified":1464127292,
+    "wof:name":"Outdoor Rental & Recreation",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "garden"
+    ]
+},
+  "bbox": [
+    -111.833597,
+    41.797811,
+    -111.833597,
+    41.797811
+],
+  "geometry": {"coordinates":[-111.833597,41.797811],"type":"Point"}
+}

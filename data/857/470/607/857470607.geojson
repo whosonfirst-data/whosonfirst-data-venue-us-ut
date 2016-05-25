@@ -1,0 +1,75 @@
+{
+  "id": 857470607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.687909,40.281283,-111.687909,40.281283",
+    "geom:latitude":40.281283,
+    "geom:longitude":-111.687909,
+    "iso:country":"US",
+    "sg:address":"829 S 220 E",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 226 8808",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "company",
+        "title"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85830581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TjbKWZutrIJB0AV1doU97_40.281283_-111.687909@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130182,
+    "wof:geomhash":"59a656717e44961f368648a6e54c535d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85830581,
+            "region_id":85688567,
+            "venue_id":857470607
+        }
+    ],
+    "wof:id":857470607,
+    "wof:lastmodified":1464130182,
+    "wof:name":"Precision Title",
+    "wof:parent_id":85830581,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "title"
+    ]
+},
+  "bbox": [
+    -111.687909,
+    40.281283,
+    -111.687909,
+    40.281283
+],
+  "geometry": {"coordinates":[-111.687909,40.281283],"type":"Point"}
+}

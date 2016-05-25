@@ -1,0 +1,77 @@
+{
+  "id": 857342041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.861497,41.738569,-111.861497,41.738569",
+    "geom:latitude":41.738569,
+    "geom:longitude":-111.861497,
+    "iso:country":"US",
+    "sg:address":"1011 W 400 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 792 1100",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mfg",
+        "optical",
+        "commercial",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fDgGSeQyanVqWcHp6UIvn_41.738569_-111.861497@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127316,
+    "wof:geomhash":"e065eefc6c89dcb8e4f91f358132686f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857342041
+        }
+    ],
+    "wof:id":857342041,
+    "wof:lastmodified":1464127316,
+    "wof:name":"Sorenson Technologies",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "optical",
+        "commercial",
+        "physical"
+    ]
+},
+  "bbox": [
+    -111.861497,
+    41.738569,
+    -111.861497,
+    41.738569
+],
+  "geometry": {"coordinates":[-111.861497,41.738569],"type":"Point"}
+}

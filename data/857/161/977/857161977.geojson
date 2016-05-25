@@ -1,0 +1,71 @@
+{
+  "id": 857161977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.799899,40.396191,-111.799899,40.396191",
+    "geom:latitude":40.396191,
+    "geom:longitude":-111.799899,
+    "iso:country":"US",
+    "sg:address":"935 N Nobhill Ave",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 6094",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00v9PeN1VC3epDEeqLmSXe_40.396191_-111.799899@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123403,
+    "wof:geomhash":"e86e8d7c0caf41819240f298ed6c8a7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857161977
+        }
+    ],
+    "wof:id":857161977,
+    "wof:lastmodified":1464123403,
+    "wof:name":"Richard G Bromley Ortho Surg",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -111.799899,
+    40.396191,
+    -111.799899,
+    40.396191
+],
+  "geometry": {"coordinates":[-111.799899,40.396191],"type":"Point"}
+}

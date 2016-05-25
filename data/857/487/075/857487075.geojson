@@ -1,0 +1,73 @@
+{
+  "id": 857487075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.020769,40.574638,-112.020769,40.574638",
+    "geom:latitude":40.574638,
+    "geom:longitude":-112.020769,
+    "iso:country":"US",
+    "sg:address":"9740 Hawley Park Rd",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 280 1503",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728247,
+        102082877,
+        85813417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iTeCfQOgRuBUHW69F9aMi_40.574638_-112.020769@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130504,
+    "wof:geomhash":"06429564a27876b15a459e3c43ab7146",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728247,
+            "neighbourhood_id":85813417,
+            "region_id":85688567,
+            "venue_id":857487075
+        }
+    ],
+    "wof:id":857487075,
+    "wof:lastmodified":1464130504,
+    "wof:name":"Speciality Machine Inc",
+    "wof:parent_id":85813417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -112.020769,
+    40.574638,
+    -112.020769,
+    40.574638
+],
+  "geometry": {"coordinates":[-112.020769,40.574638],"type":"Point"}
+}

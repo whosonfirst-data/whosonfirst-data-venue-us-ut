@@ -1,0 +1,82 @@
+{
+  "id": 857467939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.899784,40.70404,-111.899784,40.70404",
+    "geom:latitude":40.70404,
+    "geom:longitude":-111.899784,
+    "iso:country":"US",
+    "sg:address":"3058 S 300 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 467 6575",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "tile",
+        "ceramic",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85805797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ScEAdGD5GNbyTXxvL39mo_40.704040_-111.899784@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130123,
+    "wof:geomhash":"3280bf56425fe35e7952e2b5caba463b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85805797,
+            "region_id":85688567,
+            "venue_id":857467939
+        }
+    ],
+    "wof:id":857467939,
+    "wof:lastmodified":1464130123,
+    "wof:name":"Alpine Tile & Supply Inc",
+    "wof:parent_id":85805797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "ceramic",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -111.899784,
+    40.70404,
+    -111.899784,
+    40.70404
+],
+  "geometry": {"coordinates":[-111.899784,40.70404],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857460111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.669926,40.309673,-111.669926,40.309673",
+    "geom:latitude":40.309673,
+    "geom:longitude":-111.669926,
+    "iso:country":"US",
+    "sg:address":"1108 E 680 N",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 2491",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gW7q6WEAleWDXPUs261eL_40.309673_-111.669926@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129951,
+    "wof:geomhash":"51da7a05ed8ac761f12280f1b0c4f5ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857460111
+        }
+    ],
+    "wof:id":857460111,
+    "wof:lastmodified":1464129951,
+    "wof:name":"Mountainwest Plumbing Inc",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.669926,
+    40.309673,
+    -111.669926,
+    40.309673
+],
+  "geometry": {"coordinates":[-111.669926,40.309673],"type":"Point"}
+}

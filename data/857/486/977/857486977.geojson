@@ -1,0 +1,69 @@
+{
+  "id": 857486977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.955163,40.573327,-111.955163,40.573327",
+    "geom:latitude":40.573327,
+    "geom:longitude":-111.955163,
+    "iso:country":"US",
+    "sg:address":"2636 W 9800 S",
+    "sg:city":"South Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 254 8025",
+    "sg:postcode":"84095",
+    "sg:province":"UT",
+    "sg:website":"www.jridge.jordan.k12.ut.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728055,
+        102082877,
+        85821341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eaMlmxds5c4CBjzjY8bTQ_40.573327_-111.955163@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130502,
+    "wof:geomhash":"05fff74e20f259255c2796ecbb312c42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728055,
+            "neighbourhood_id":85821341,
+            "region_id":85688567,
+            "venue_id":857486977
+        }
+    ],
+    "wof:id":857486977,
+    "wof:lastmodified":1464130502,
+    "wof:name":"Jordan Ridge Elementary School",
+    "wof:parent_id":85821341,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.955163,
+    40.573327,
+    -111.955163,
+    40.573327
+],
+  "geometry": {"coordinates":[-111.955163,40.573327],"type":"Point"}
+}

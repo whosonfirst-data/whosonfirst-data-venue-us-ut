@@ -1,0 +1,71 @@
+{
+  "id": 857218267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.822552,41.731271,-111.822552,41.731271",
+    "geom:latitude":41.731271,
+    "geom:longitude":-111.822552,
+    "iso:country":"US",
+    "sg:address":"481 E Center St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 5120",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "refrigerating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cJJLzTy5lkigzCU3OMzXs_41.731271_-111.822552@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124580,
+    "wof:geomhash":"c28745d3cb92dbc0bb47536836af1e72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857218267
+        }
+    ],
+    "wof:id":857218267,
+    "wof:lastmodified":1464124580,
+    "wof:name":"Logan Refrigeration Co",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigerating"
+    ]
+},
+  "bbox": [
+    -111.822552,
+    41.731271,
+    -111.822552,
+    41.731271
+],
+  "geometry": {"coordinates":[-111.822552,41.731271],"type":"Point"}
+}

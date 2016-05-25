@@ -1,0 +1,76 @@
+{
+  "id": 857494615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.878925,40.884326,-111.878925,40.884326",
+    "geom:latitude":40.884326,
+    "geom:longitude":-111.878925,
+    "iso:country":"US",
+    "sg:address":"74 E 500 S",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/south-davis/86034-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 298 4448",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727881,
+        102083563,
+        85807249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LMYYqzraTuh6tkdhI0K0W_40.884205_-111.879707@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464130754,
+    "wof:geomhash":"fd825e527373087aeab97979005d056d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727881,
+            "neighbourhood_id":85807249,
+            "region_id":85688567,
+            "venue_id":857494615
+        }
+    ],
+    "wof:id":857494615,
+    "wof:lastmodified":1464130754,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85807249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -111.878925,
+    40.884326,
+    -111.878925,
+    40.884326
+],
+  "geometry": {"coordinates":[-111.878925,40.884326],"type":"Point"}
+}

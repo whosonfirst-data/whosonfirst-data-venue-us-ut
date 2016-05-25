@@ -1,0 +1,73 @@
+{
+  "id": 857163693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834017,41.771337,-111.834017,41.771337",
+    "geom:latitude":41.771337,
+    "geom:longitude":-111.834017,
+    "iso:country":"US",
+    "sg:address":"2072 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 713 0550",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7A9RVrQpW7TP0LM3Hyhjm7_41.771337_-111.834017@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123436,
+    "wof:geomhash":"18c64d7084a53f9819d9bd28fa80054e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857163693
+        }
+    ],
+    "wof:id":857163693,
+    "wof:lastmodified":1464123436,
+    "wof:name":"Computer Nexus",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -111.834017,
+    41.771337,
+    -111.834017,
+    41.771337
+],
+  "geometry": {"coordinates":[-111.834017,41.771337],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857313231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.876287,40.787779,-111.876287,40.787779",
+    "geom:latitude":40.787779,
+    "geom:longitude":-111.876287,
+    "iso:country":"US",
+    "sg:address":"550 Northmont Way",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 355 9561",
+    "sg:postcode":"84103",
+    "sg:province":"UT",
+    "sg:tags":[
+        "investment",
+        "closed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85837721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3w6yesmZZpjD9L2qiRZiM4_40.787779_-111.876287@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126686,
+    "wof:geomhash":"446fa4b0add0f4d615e4227c2fedfa95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85837721,
+            "region_id":85688567,
+            "venue_id":857313231
+        }
+    ],
+    "wof:id":857313231,
+    "wof:lastmodified":1464126686,
+    "wof:name":"Badger Investment",
+    "wof:parent_id":85837721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investment",
+        "closed"
+    ]
+},
+  "bbox": [
+    -111.876287,
+    40.787779,
+    -111.876287,
+    40.787779
+],
+  "geometry": {"coordinates":[-111.876287,40.787779],"type":"Point"}
+}

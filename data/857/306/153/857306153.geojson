@@ -1,0 +1,76 @@
+{
+  "id": 857306153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.832337,41.75759,-111.832337,41.75759",
+    "geom:latitude":41.75759,
+    "geom:longitude":-111.832337,
+    "iso:country":"US",
+    "sg:address":"89 E 1400 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 750 7850",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "depository",
+        "banking",
+        "loan"
+    ],
+    "sg:website":"www.quikcheck.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Tb1RJ7HnoG5ih3MtXvWFh_41.757590_-111.832337@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126541,
+    "wof:geomhash":"21391711d38b63368aad1c0008fb03ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857306153
+        }
+    ],
+    "wof:id":857306153,
+    "wof:lastmodified":1464126541,
+    "wof:name":"Quick Check",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "depository",
+        "banking",
+        "loan"
+    ]
+},
+  "bbox": [
+    -111.832337,
+    41.75759,
+    -111.832337,
+    41.75759
+],
+  "geometry": {"coordinates":[-111.832337,41.75759],"type":"Point"}
+}

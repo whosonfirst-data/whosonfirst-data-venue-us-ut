@@ -1,0 +1,76 @@
+{
+  "id": 857096671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.86428,41.743162,-111.86428,41.743162",
+    "geom:latitude":41.743162,
+    "geom:longitude":-111.86428,
+    "iso:country":"US",
+    "sg:address":"1065 W 600 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 7268",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50MFEfZJZDGt9ZBcZH2DH8_41.743162_-111.864280@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121827,
+    "wof:geomhash":"d889992b071fecf9aa005285ccd71ab0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857096671
+        }
+    ],
+    "wof:id":857096671,
+    "wof:lastmodified":1464121827,
+    "wof:name":"Urban Forest Woodworks Inc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.86428,
+    41.743162,
+    -111.86428,
+    41.743162
+],
+  "geometry": {"coordinates":[-111.86427999999999,41.743162],"type":"Point"}
+}

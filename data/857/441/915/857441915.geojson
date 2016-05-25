@@ -1,0 +1,73 @@
+{
+  "id": 857441915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.890852,40.578642,-111.890852,40.578642",
+    "geom:latitude":40.578642,
+    "geom:longitude":-111.890852,
+    "iso:country":"US",
+    "sg:address":"9400 S State St",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 304 4075",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85835551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ogCMLaj5I3AgvoRzkpM2Y_40.578642_-111.890852@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129604,
+    "wof:geomhash":"3586d4797012c5ec73a6b75f40ad28cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85835551,
+            "region_id":85688567,
+            "venue_id":857441915
+        }
+    ],
+    "wof:id":857441915,
+    "wof:lastmodified":1464129604,
+    "wof:name":"Two T Italian Restaurant Inc",
+    "wof:parent_id":85835551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.890852,
+    40.578642,
+    -111.890852,
+    40.578642
+],
+  "geometry": {"coordinates":[-111.890852,40.578642],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857493745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.83526,41.718097,-111.83526,41.718097",
+    "geom:latitude":41.718097,
+    "geom:longitude":-111.83526,
+    "iso:country":"US",
+    "sg:address":"904 S Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/logan/192870-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 750 5607",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3u75QlFNUwSiCE10yC8Cjp_41.718097_-111.835260@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130722,
+    "wof:geomhash":"660114ff5baef9aa0ececd15883e1b46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857493745
+        }
+    ],
+    "wof:id":857493745,
+    "wof:lastmodified":1464130722,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -111.83526,
+    41.718097,
+    -111.83526,
+    41.718097
+],
+  "geometry": {"coordinates":[-111.83526000000001,41.718097],"type":"Point"}
+}

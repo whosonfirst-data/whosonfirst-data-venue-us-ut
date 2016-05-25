@@ -1,0 +1,68 @@
+{
+  "id": 857448805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.904412,40.79507,-111.904412,40.79507",
+    "geom:latitude":40.79507,
+    "geom:longitude":-111.904412,
+    "iso:country":"US",
+    "sg:address":"1370 Beck St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 532 2341",
+    "sg:postcode":"84116",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85829255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wEccZfz5xDGDrXoapk2wv_40.795070_-111.904412@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129734,
+    "wof:geomhash":"986335064bc062c7fdcefae7a911edbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85829255,
+            "region_id":85688567,
+            "venue_id":857448805
+        }
+    ],
+    "wof:id":857448805,
+    "wof:lastmodified":1464129734,
+    "wof:name":"Miles Unlimited Inc",
+    "wof:parent_id":85829255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.904412,
+    40.79507,
+    -111.904412,
+    40.79507
+],
+  "geometry": {"coordinates":[-111.90441199999999,40.79507],"type":"Point"}
+}

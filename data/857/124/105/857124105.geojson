@@ -1,0 +1,75 @@
+{
+  "id": 857124105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.93016,41.031449,-111.93016,41.031449",
+    "geom:latitude":41.031449,
+    "geom:longitude":-111.93016,
+    "iso:country":"US",
+    "sg:address":"336 E 200 S",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 546 2357",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mfg",
+        "cartridge",
+        "toner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59pXTvy8CC7Oc8fJqsne5p_41.031449_-111.930160@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122552,
+    "wof:geomhash":"c260d66d7db8e0f0689bbe1ceb091777",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857124105
+        }
+    ],
+    "wof:id":857124105,
+    "wof:lastmodified":1464122552,
+    "wof:name":"Marlo Products Corporation",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "cartridge",
+        "toner"
+    ]
+},
+  "bbox": [
+    -111.93016,
+    41.031449,
+    -111.93016,
+    41.031449
+],
+  "geometry": {"coordinates":[-111.93016,41.031449],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857430643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.667194,40.243123,-111.667194,40.243123",
+    "geom:latitude":40.243123,
+    "geom:longitude":-111.667194,
+    "iso:country":"US",
+    "sg:address":"450 W 700 N",
+    "sg:city":"Manti",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 835 7263",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "ranch"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15IR7QO3O3ksRh2k3zSccC_40.243123_-111.667194@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129357,
+    "wof:geomhash":"d772e20205c70d3733786ccc00ad7653",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880121,
+            "region_id":85688567,
+            "venue_id":857430643
+        }
+    ],
+    "wof:id":857430643,
+    "wof:lastmodified":1464129357,
+    "wof:name":"Barton Charolais Ranch",
+    "wof:parent_id":85880121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ranch"
+    ]
+},
+  "bbox": [
+    -111.667194,
+    40.243123,
+    -111.667194,
+    40.243123
+],
+  "geometry": {"coordinates":[-111.66719399999999,40.243123],"type":"Point"}
+}

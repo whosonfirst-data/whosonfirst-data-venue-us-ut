@@ -1,0 +1,75 @@
+{
+  "id": 857245021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.881678,40.516307,-111.881678,40.516307",
+    "geom:latitude":40.516307,
+    "geom:longitude":-111.881678,
+    "iso:country":"US",
+    "sg:address":"12975 S 300 E",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 571 5309",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "personal",
+        "equine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727849,
+        102082877,
+        85815185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73LiPIudBB2NhsxkjMpx17_40.516307_-111.881678@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125132,
+    "wof:geomhash":"09a6fa9e27a73636aaf46e793f51045d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85815185,
+            "region_id":85688567,
+            "venue_id":857245021
+        }
+    ],
+    "wof:id":857245021,
+    "wof:lastmodified":1464125132,
+    "wof:name":"Pony Patch",
+    "wof:parent_id":85815185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "equine"
+    ]
+},
+  "bbox": [
+    -111.881678,
+    40.516307,
+    -111.881678,
+    40.516307
+],
+  "geometry": {"coordinates":[-111.88167799999999,40.516307],"type":"Point"}
+}

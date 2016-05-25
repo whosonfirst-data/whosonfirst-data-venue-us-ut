@@ -1,0 +1,71 @@
+{
+  "id": 857472045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.615346,40.091254,-111.615346,40.091254",
+    "geom:latitude":40.091254,
+    "geom:longitude":-111.615346,
+    "iso:country":"US",
+    "sg:address":"1441 S 2370 E",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 0968",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6E7nRj2EjbESgjn9Ihc3eS_40.091254_-111.615346@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130216,
+    "wof:geomhash":"9ce53becaa6be0c345cf35c00daa4875",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857472045
+        }
+    ],
+    "wof:id":857472045,
+    "wof:lastmodified":1464130216,
+    "wof:name":"Studio Kms",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.615346,
+    40.091254,
+    -111.615346,
+    40.091254
+],
+  "geometry": {"coordinates":[-111.615346,40.091254],"type":"Point"}
+}

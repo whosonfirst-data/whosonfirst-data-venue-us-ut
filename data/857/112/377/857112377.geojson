@@ -1,0 +1,73 @@
+{
+  "id": 857112377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.659033,40.220332,-111.659033,40.220332",
+    "geom:latitude":40.220332,
+    "geom:longitude":-111.659033,
+    "iso:country":"US",
+    "sg:address":"1000 S University Ave",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 0849",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WfHWyN1rz20Ohh6sW109U_40.220332_-111.659033@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122240,
+    "wof:geomhash":"3ba865f1c3dd9fe327a59c1f42f2dfff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880077,
+            "region_id":85688567,
+            "venue_id":857112377
+        }
+    ],
+    "wof:id":857112377,
+    "wof:lastmodified":1464122240,
+    "wof:name":"Elks Lodge",
+    "wof:parent_id":85880077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -111.659033,
+    40.220332,
+    -111.659033,
+    40.220332
+],
+  "geometry": {"coordinates":[-111.65903299999999,40.220332],"type":"Point"}
+}

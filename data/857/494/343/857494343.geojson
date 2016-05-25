@@ -1,0 +1,76 @@
+{
+  "id": 857494343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.734042,40.041191,-111.734042,40.041191",
+    "geom:latitude":40.041191,
+    "geom:longitude":-111.734042,
+    "iso:country":"US",
+    "sg:address":"212 S 100 W",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/spanish-fork-payson/235444-taco-time/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 3881",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "mexican",
+        "tex-mex"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2embrcSvQeAPsAbI3MlUYZ_40.041191_-111.734042@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130744,
+    "wof:geomhash":"dcdec64b2df5b1d8863abf52717f3d11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857494343
+        }
+    ],
+    "wof:id":857494343,
+    "wof:lastmodified":1464130744,
+    "wof:name":"Taco Time",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican",
+        "tex-mex"
+    ]
+},
+  "bbox": [
+    -111.734042,
+    40.041191,
+    -111.734042,
+    40.041191
+],
+  "geometry": {"coordinates":[-111.734042,40.041191],"type":"Point"}
+}

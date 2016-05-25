@@ -1,0 +1,75 @@
+{
+  "id": 857442579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.851716,40.500988,-111.851716,40.500988",
+    "geom:latitude":40.500988,
+    "geom:longitude":-111.851716,
+    "iso:country":"US",
+    "sg:address":"13801 Tom Shoemaker Cir",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 572 5296",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727849,
+        102082877,
+        85802765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6v6RJIS8SF5jsVbr0EfEv2_40.500988_-111.851716@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129615,
+    "wof:geomhash":"2cdb5e3d3d1f43d0a873378402e45eb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85802765,
+            "region_id":85688567,
+            "venue_id":857442579
+        }
+    ],
+    "wof:id":857442579,
+    "wof:lastmodified":1464129615,
+    "wof:name":"ACORE Turf Seeding",
+    "wof:parent_id":85802765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.851716,
+    40.500988,
+    -111.851716,
+    40.500988
+],
+  "geometry": {"coordinates":[-111.851716,40.500988],"type":"Point"}
+}

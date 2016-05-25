@@ -1,0 +1,73 @@
+{
+  "id": 857205683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.895578,40.719349,-111.895578,40.719349",
+    "geom:latitude":40.719349,
+    "geom:longitude":-111.895578,
+    "iso:country":"US",
+    "sg:address":"149 W Burton Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 486 4768",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "fleet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BVAIBpJn5zdpO8Y7mqhwz_40.719349_-111.895578@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124307,
+    "wof:geomhash":"b12b2b4da59bc57112c7fd4aa30b01e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85808611,
+            "region_id":85688567,
+            "venue_id":857205683
+        }
+    ],
+    "wof:id":857205683,
+    "wof:lastmodified":1464124307,
+    "wof:name":"Qualco Inc",
+    "wof:parent_id":85808611,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fleet"
+    ]
+},
+  "bbox": [
+    -111.895578,
+    40.719349,
+    -111.895578,
+    40.719349
+],
+  "geometry": {"coordinates":[-111.895578,40.719349],"type":"Point"}
+}

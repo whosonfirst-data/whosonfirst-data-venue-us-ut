@@ -1,0 +1,75 @@
+{
+  "id": 857397565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.743596,40.063451,-111.743596,40.063451",
+    "geom:latitude":40.063451,
+    "geom:longitude":-111.743596,
+    "iso:country":"US",
+    "sg:address":"3841 W 9200 S",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 2742",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55NSApuXUr7Rc7iu16INP7_40.063451_-111.743596@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128580,
+    "wof:geomhash":"37bf2ea900980b18be0855a4c3c3c1d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857397565
+        }
+    ],
+    "wof:id":857397565,
+    "wof:lastmodified":1464128580,
+    "wof:name":"Charles Maurin",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -111.743596,
+    40.063451,
+    -111.743596,
+    40.063451
+],
+  "geometry": {"coordinates":[-111.743596,40.063451],"type":"Point"}
+}

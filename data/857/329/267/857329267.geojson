@@ -1,0 +1,73 @@
+{
+  "id": 857329267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.898475,40.65691,-111.898475,40.65691",
+    "geom:latitude":40.65691,
+    "geom:longitude":-111.898475,
+    "iso:country":"US",
+    "sg:address":"5296 Commerce Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 266 4310",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85853401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BTfzOGOSdbbdWQTqQFt7A_40.656910_-111.898475@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127039,
+    "wof:geomhash":"7decc50692446eb54c4b762f07a334f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85853401,
+            "region_id":85688567,
+            "venue_id":857329267
+        }
+    ],
+    "wof:id":857329267,
+    "wof:lastmodified":1464127039,
+    "wof:name":"Team Lending",
+    "wof:parent_id":85853401,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -111.898475,
+    40.65691,
+    -111.898475,
+    40.65691
+],
+  "geometry": {"coordinates":[-111.898475,40.65691],"type":"Point"}
+}

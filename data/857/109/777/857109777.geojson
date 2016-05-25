@@ -1,0 +1,75 @@
+{
+  "id": 857109777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.93916,41.186631,-111.93916,41.186631",
+    "geom:latitude":41.186631,
+    "geom:longitude":-111.93916,
+    "iso:country":"US",
+    "sg:address":"4219 College Dr",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 393 2578",
+    "sg:postcode":"84403",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85808451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cbIhoFjowNojlNYF8mymy_41.186631_-111.939160@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122155,
+    "wof:geomhash":"fb0a5082c02ce8435824266380958604",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85808451,
+            "region_id":85688567,
+            "venue_id":857109777
+        }
+    ],
+    "wof:id":857109777,
+    "wof:lastmodified":1464122155,
+    "wof:name":"Shadow Mountain Prof Bldg L",
+    "wof:parent_id":85808451,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -111.93916,
+    41.186631,
+    -111.93916,
+    41.186631
+],
+  "geometry": {"coordinates":[-111.93916,41.186631],"type":"Point"}
+}

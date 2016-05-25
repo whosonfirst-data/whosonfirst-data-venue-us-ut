@@ -1,0 +1,73 @@
+{
+  "id": 857384509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.850884,40.772934,-111.850884,40.772934",
+    "geom:latitude":40.772934,
+    "geom:longitude":-111.850884,
+    "iso:country":"US",
+    "sg:address":"1291 E 3rd Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 588 3908",
+    "sg:postcode":"84103",
+    "sg:province":"UT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85842739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4K9NUl6v0G4AyTzwoyFX9V_40.772934_-111.850884@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128255,
+    "wof:geomhash":"ea9a7c4ad9235196acd8af35e7d379ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85842739,
+            "region_id":85688567,
+            "venue_id":857384509
+        }
+    ],
+    "wof:id":857384509,
+    "wof:lastmodified":1464128255,
+    "wof:name":"Medical Internet Solutions LLC",
+    "wof:parent_id":85842739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -111.850884,
+    40.772934,
+    -111.850884,
+    40.772934
+],
+  "geometry": {"coordinates":[-111.85088399999999,40.772934],"type":"Point"}
+}

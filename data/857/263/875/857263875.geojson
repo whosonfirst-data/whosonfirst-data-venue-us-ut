@@ -1,0 +1,73 @@
+{
+  "id": 857263875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.916761,40.657161,-111.916761,40.657161",
+    "geom:latitude":40.657161,
+    "geom:longitude":-111.916761,
+    "iso:country":"US",
+    "sg:address":"5242 Spring Clover Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 268 2087",
+    "sg:postcode":"84123",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728059,
+        102082877,
+        85829683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4k45bwYYOkmOOnK5skR57o_40.657161_-111.916761@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125571,
+    "wof:geomhash":"b518a7809f370023d168f3e119fddea3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728059,
+            "neighbourhood_id":85829683,
+            "region_id":85688567,
+            "venue_id":857263875
+        }
+    ],
+    "wof:id":857263875,
+    "wof:lastmodified":1464125571,
+    "wof:name":"Bell Mfrs Representitives",
+    "wof:parent_id":85829683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.916761,
+    40.657161,
+    -111.916761,
+    40.657161
+],
+  "geometry": {"coordinates":[-111.91676099999999,40.657161],"type":"Point"}
+}

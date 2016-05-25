@@ -1,0 +1,68 @@
+{
+  "id": 857422463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.866795,40.849725,-111.866795,40.849725",
+    "geom:latitude":40.849725,
+    "geom:longitude":-111.866795,
+    "iso:country":"US",
+    "sg:address":"3552 S 900 E",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 292 4527",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727881,
+        102083563,
+        85851571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oGBq2c4h4xUroDbxfgRIY_40.849725_-111.866795@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129158,
+    "wof:geomhash":"643b3af44d53eb41113d231e6a65cecf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727881,
+            "neighbourhood_id":85851571,
+            "region_id":85688567,
+            "venue_id":857422463
+        }
+    ],
+    "wof:id":857422463,
+    "wof:lastmodified":1464129158,
+    "wof:name":"Pilkington Leasing Co",
+    "wof:parent_id":85851571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.866795,
+    40.849725,
+    -111.866795,
+    40.849725
+],
+  "geometry": {"coordinates":[-111.866795,40.849725],"type":"Point"}
+}

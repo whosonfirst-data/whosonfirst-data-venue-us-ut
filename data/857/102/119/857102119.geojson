@@ -1,0 +1,80 @@
+{
+  "id": 857102119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834522,41.752643,-111.834522,41.752643",
+    "geom:latitude":41.752643,
+    "geom:longitude":-111.834522,
+    "iso:country":"US",
+    "sg:address":"1155 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 750 6579",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "limb",
+        "medical",
+        "artificial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3U5hkdkLjl4go8eZzuk9bg_41.752643_-111.834522@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121963,
+    "wof:geomhash":"d550ab0020b2f6a9ff47180d6716a427",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857102119
+        }
+    ],
+    "wof:id":857102119,
+    "wof:lastmodified":1464121963,
+    "wof:name":"Utah Prosthetics & Orthotics",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limb",
+        "medical",
+        "artificial"
+    ]
+},
+  "bbox": [
+    -111.834522,
+    41.752643,
+    -111.834522,
+    41.752643
+],
+  "geometry": {"coordinates":[-111.83452200000001,41.752643],"type":"Point"}
+}

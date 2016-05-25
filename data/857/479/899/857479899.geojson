@@ -1,0 +1,69 @@
+{
+  "id": 857479899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.694672,40.233898,-111.694672,40.233898",
+    "geom:latitude":40.233898,
+    "geom:longitude":-111.694672,
+    "iso:country":"US",
+    "sg:address":"66 N Geneva Rd",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 377 1857",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880073,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vEtCu7MbvHw9M4RB2VrEr_40.233898_-111.694672@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130368,
+    "wof:geomhash":"d8d049717a8135ea4ab42cd2f7e41295",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880073,
+            "region_id":85688567,
+            "venue_id":857479899
+        }
+    ],
+    "wof:id":857479899,
+    "wof:lastmodified":1464130368,
+    "wof:name":"Lakeview Car Wash",
+    "wof:parent_id":85880073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -111.694672,
+    40.233898,
+    -111.694672,
+    40.233898
+],
+  "geometry": {"coordinates":[-111.694672,40.233898],"type":"Point"}
+}

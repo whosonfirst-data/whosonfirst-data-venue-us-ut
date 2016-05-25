@@ -1,0 +1,72 @@
+{
+  "id": 857254171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.654613,40.12049,-111.654613,40.12049",
+    "geom:latitude":40.12049,
+    "geom:longitude":-111.654613,
+    "iso:country":"US",
+    "sg:address":"872 N Main St",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 794 0077",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "used"
+    ],
+    "sg:website":"www.carsource.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XNEQLmyvH4G1aG5xEhxEN_40.120490_-111.654613@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125350,
+    "wof:geomhash":"d6ad500f34a56e0f09aa0cb7a3ccc4e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857254171
+        }
+    ],
+    "wof:id":857254171,
+    "wof:lastmodified":1464125350,
+    "wof:name":"Car Source",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -111.654613,
+    40.12049,
+    -111.654613,
+    40.12049
+],
+  "geometry": {"coordinates":[-111.654613,40.12049],"type":"Point"}
+}

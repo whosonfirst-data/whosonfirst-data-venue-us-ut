@@ -1,0 +1,71 @@
+{
+  "id": 857368945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.603262,40.080699,-111.603262,40.080699",
+    "geom:latitude":40.080699,
+    "geom:longitude":-111.603262,
+    "iso:country":"US",
+    "sg:address":"2228 Fairway Dr",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 3925",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zqiEdydR5OKmh0QmpU5nQ_40.080699_-111.603262@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127881,
+    "wof:geomhash":"19b583afa729597725bf33192391f572",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857368945
+        }
+    ],
+    "wof:id":857368945,
+    "wof:lastmodified":1464127881,
+    "wof:name":"Hjorth Manufacturing",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -111.603262,
+    40.080699,
+    -111.603262,
+    40.080699
+],
+  "geometry": {"coordinates":[-111.603262,40.080699],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857405761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.743253,40.041449,-111.743253,40.041449",
+    "geom:latitude":40.041449,
+    "geom:longitude":-111.743253,
+    "iso:country":"US",
+    "sg:address":"675 W 200 S",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 1193",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WB3XtuCjNv7QL9OTTFqxy_40.041449_-111.743253@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128745,
+    "wof:geomhash":"449ef5a6c9a83e6aee2607d3aab61490",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857405761
+        }
+    ],
+    "wof:id":857405761,
+    "wof:lastmodified":1464128745,
+    "wof:name":"Spencer Sprinkler Repair",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.743253,
+    40.041449,
+    -111.743253,
+    40.041449
+],
+  "geometry": {"coordinates":[-111.743253,40.041449],"type":"Point"}
+}

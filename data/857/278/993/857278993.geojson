@@ -1,0 +1,73 @@
+{
+  "id": 857278993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.84749,40.565951,-111.84749,40.565951",
+    "geom:latitude":40.565951,
+    "geom:longitude":-111.84749,
+    "iso:country":"US",
+    "sg:address":"10166 Calla Lily Way",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 572 7785",
+    "sg:postcode":"84092",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85846597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ImCMH0WCPfi8TNyM7HTGT_40.565951_-111.847490@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125896,
+    "wof:geomhash":"d47e93fa2f8387d35fd06e854ed88501",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85846597,
+            "region_id":85688567,
+            "venue_id":857278993
+        }
+    ],
+    "wof:id":857278993,
+    "wof:lastmodified":1464125896,
+    "wof:name":"New Hong Kong",
+    "wof:parent_id":85846597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.84749,
+    40.565951,
+    -111.84749,
+    40.565951
+],
+  "geometry": {"coordinates":[-111.84748999999999,40.565951],"type":"Point"}
+}

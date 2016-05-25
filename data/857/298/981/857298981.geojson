@@ -1,0 +1,68 @@
+{
+  "id": 857298981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.642531,40.23733,-111.642531,40.23733",
+    "geom:latitude":40.23733,
+    "geom:longitude":-111.642531,
+    "iso:country":"US",
+    "sg:address":"1006 E 300 N",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 356 2800",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xm0UVDjg9b4mU9hHc6Nks_40.237330_-111.642531@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126387,
+    "wof:geomhash":"1d773d1ebb0174cb694ec44d1f297481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880071,
+            "region_id":85688567,
+            "venue_id":857298981
+        }
+    ],
+    "wof:id":857298981,
+    "wof:lastmodified":1464126387,
+    "wof:name":"Art Barrett DC",
+    "wof:parent_id":85880071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.642531,
+    40.23733,
+    -111.642531,
+    40.23733
+],
+  "geometry": {"coordinates":[-111.64253100000001,40.23733],"type":"Point"}
+}

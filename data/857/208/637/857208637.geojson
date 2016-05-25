@@ -1,0 +1,71 @@
+{
+  "id": 857208637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.655522,40.09688,-111.655522,40.09688",
+    "geom:latitude":40.09688,
+    "geom:longitude":-111.655522,
+    "iso:country":"US",
+    "sg:address":"890 S Main St",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 7861",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79EqljMMR8sTkaOvkhfhH0_40.096880_-111.655522@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124363,
+    "wof:geomhash":"35b7e8543ce83d1d6fc6c43e58efcd4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857208637
+        }
+    ],
+    "wof:id":857208637,
+    "wof:lastmodified":1464124363,
+    "wof:name":"Pro Roofing & Construction",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.655522,
+    40.09688,
+    -111.655522,
+    40.09688
+],
+  "geometry": {"coordinates":[-111.655522,40.09688],"type":"Point"}
+}

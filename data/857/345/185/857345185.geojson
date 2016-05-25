@@ -1,0 +1,75 @@
+{
+  "id": 857345185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.292684,37.150724,-113.292684,37.150724",
+    "geom:latitude":37.150724,
+    "geom:longitude":-113.292684,
+    "iso:country":"US",
+    "sg:address":"1525 S 160 W",
+    "sg:city":"Hurricane",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 635 7392",
+    "sg:postcode":"84737",
+    "sg:province":"UT",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727631,
+        102082879,
+        85824093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yDdLDNo6xlwpg2YwGLDhQ_37.150724_-113.292684@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127377,
+    "wof:geomhash":"fe51f68d0131aef3bebf1f5bda4bce38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727631,
+            "neighbourhood_id":85824093,
+            "region_id":85688567,
+            "venue_id":857345185
+        }
+    ],
+    "wof:id":857345185,
+    "wof:lastmodified":1464127377,
+    "wof:name":"Rebel Auto Transport Inc",
+    "wof:parent_id":85824093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -113.292684,
+    37.150724,
+    -113.292684,
+    37.150724
+],
+  "geometry": {"coordinates":[-113.29268399999999,37.150724],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 857331355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.878705,40.710471,-111.878705,40.710471",
+    "geom:latitude":40.710471,
+    "geom:longitude":-111.878705,
+    "iso:country":"US",
+    "sg:address":"2800 Adams St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 484 5620",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85858223,
+        101728075,
+        85871027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Lk85oG51A1aKokBW7svbB_40.710471_-111.878705@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127087,
+    "wof:geomhash":"13a68ff2c15075444c77ba74640293f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85858223,
+            "region_id":85688567,
+            "venue_id":857331355
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871027,
+            "region_id":85688567,
+            "venue_id":857331355
+        }
+    ],
+    "wof:id":857331355,
+    "wof:lastmodified":1464127087,
+    "wof:name":"Complete Home Remodeling",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.878705,
+    40.710471,
+    -111.878705,
+    40.710471
+],
+  "geometry": {"coordinates":[-111.878705,40.710471],"type":"Point"}
+}

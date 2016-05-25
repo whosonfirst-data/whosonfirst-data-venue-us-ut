@@ -1,0 +1,73 @@
+{
+  "id": 857331591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.890771,40.608353,-111.890771,40.608353",
+    "geom:latitude":40.608353,
+    "geom:longitude":-111.890771,
+    "iso:country":"US",
+    "sg:address":"7800 S State St",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 561 0100",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728051,
+        102082877,
+        85810115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lZiOPctY56a06QpZPAxan_40.608353_-111.890771@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127092,
+    "wof:geomhash":"6315b62c172c9d489f38297703417e09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85810115,
+            "region_id":85688567,
+            "venue_id":857331591
+        }
+    ],
+    "wof:id":857331591,
+    "wof:lastmodified":1464127092,
+    "wof:name":"Smith's Food & Drug Ctr",
+    "wof:parent_id":85810115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -111.890771,
+    40.608353,
+    -111.890771,
+    40.608353
+],
+  "geometry": {"coordinates":[-111.890771,40.608353],"type":"Point"}
+}

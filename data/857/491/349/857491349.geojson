@@ -1,0 +1,73 @@
+{
+  "id": 857491349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.878998,40.887501,-111.878998,40.887501",
+    "geom:latitude":40.887501,
+    "geom:longitude":-111.878998,
+    "iso:country":"US",
+    "sg:address":"75 E 200 S",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 581 8821",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "sg:tags":[
+        "university"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727881,
+        102083563,
+        85807249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7d7cfhYY5QCYIehkKLh4z9_40.887385_-111.879732@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464130629,
+    "wof:geomhash":"db44a44ef2883b7ec1685c60f7f98e6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727881,
+            "neighbourhood_id":85807249,
+            "region_id":85688567,
+            "venue_id":857491349
+        }
+    ],
+    "wof:id":857491349,
+    "wof:lastmodified":1464130629,
+    "wof:name":"Bountiful-University of Utah",
+    "wof:parent_id":85807249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "university"
+    ]
+},
+  "bbox": [
+    -111.878998,
+    40.887501,
+    -111.878998,
+    40.887501
+],
+  "geometry": {"coordinates":[-111.878998,40.887501],"type":"Point"}
+}

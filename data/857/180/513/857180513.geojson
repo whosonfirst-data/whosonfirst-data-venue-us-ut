@@ -1,0 +1,68 @@
+{
+  "id": 857180513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.658578,40.238438,-111.658578,40.238438",
+    "geom:latitude":40.238438,
+    "geom:longitude":-111.658578,
+    "iso:country":"US",
+    "sg:address":"346 N University Ave",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 377 3131",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FKl8xLsL7Gj1UIMJnr6tb_40.238438_-111.658578@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123806,
+    "wof:geomhash":"5f4cb88c151da0e6b12e7dfd13760f05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880121,
+            "region_id":85688567,
+            "venue_id":857180513
+        }
+    ],
+    "wof:id":857180513,
+    "wof:lastmodified":1464123806,
+    "wof:name":"Pampas",
+    "wof:parent_id":85880121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.658578,
+    40.238438,
+    -111.658578,
+    40.238438
+],
+  "geometry": {"coordinates":[-111.65857800000001,40.238438],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857359873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.865876,40.625816,-111.865876,40.625816",
+    "geom:latitude":40.625816,
+    "geom:longitude":-111.865876,
+    "iso:country":"US",
+    "sg:address":"6895 S 900 E",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 255 7700",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728051,
+        102082877,
+        85804249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dtgXUD9qHpZyc6Vi2PsCU_40.625816_-111.865876@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127694,
+    "wof:geomhash":"36beaf3bc3010f6eaf85b774435ea7f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85804249,
+            "region_id":85688567,
+            "venue_id":857359873
+        }
+    ],
+    "wof:id":857359873,
+    "wof:lastmodified":1464127694,
+    "wof:name":"Mc Neil Engineering Inc",
+    "wof:parent_id":85804249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -111.865876,
+    40.625816,
+    -111.865876,
+    40.625816
+],
+  "geometry": {"coordinates":[-111.865876,40.625816],"type":"Point"}
+}

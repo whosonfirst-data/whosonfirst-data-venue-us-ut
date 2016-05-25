@@ -1,0 +1,73 @@
+{
+  "id": 857408671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.895649,40.56829,-111.895649,40.56829",
+    "geom:latitude":40.56829,
+    "geom:longitude":-111.895649,
+    "iso:country":"US",
+    "sg:address":"10011 Centennial Pkwy",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 233 9300",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728055,
+        102082877,
+        85829657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TaiAdmTxjxdajvZjD1u3b_40.568290_-111.895649@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128806,
+    "wof:geomhash":"06b1e809910899a3105938c458dbb5e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728055,
+            "neighbourhood_id":85829657,
+            "region_id":85688567,
+            "venue_id":857408671
+        }
+    ],
+    "wof:id":857408671,
+    "wof:lastmodified":1464128806,
+    "wof:name":"Iasis Healthcare Corporation",
+    "wof:parent_id":85829657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -111.895649,
+    40.56829,
+    -111.895649,
+    40.56829
+],
+  "geometry": {"coordinates":[-111.89564900000001,40.56829],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857143525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.870983,40.750632,-111.870983,40.750632",
+    "geom:latitude":40.750632,
+    "geom:longitude":-111.870983,
+    "iso:country":"US",
+    "sg:address":"839 S 700 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 558 5688",
+    "sg:postcode":"84102",
+    "sg:province":"UT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85858241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xyFFJLEibtRYS78gLbv5m_40.750632_-111.870983@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122982,
+    "wof:geomhash":"403bdd074d56c6cc57a9153c71500a15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85858241,
+            "region_id":85688567,
+            "venue_id":857143525
+        }
+    ],
+    "wof:id":857143525,
+    "wof:lastmodified":1464122982,
+    "wof:name":"Bbm Restoration",
+    "wof:parent_id":85858241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -111.870983,
+    40.750632,
+    -111.870983,
+    40.750632
+],
+  "geometry": {"coordinates":[-111.870983,40.750632],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857476289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.703218,40.281284,-111.703218,40.281284",
+    "geom:latitude":40.281284,
+    "geom:longitude":-111.703218,
+    "iso:country":"US",
+    "sg:address":"910 S 325 W",
+    "sg:city":"Heber City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 654 3469",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85830581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VR9jBvHO0A6LugkEOovAS_40.281284_-111.703218@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130301,
+    "wof:geomhash":"593149f2c0e3e16209fa5ba9fd9a9895",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85830581,
+            "region_id":85688567,
+            "venue_id":857476289
+        }
+    ],
+    "wof:id":857476289,
+    "wof:lastmodified":1464130301,
+    "wof:name":"Wright Heating & Air Cond",
+    "wof:parent_id":85830581,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.703218,
+    40.281284,
+    -111.703218,
+    40.281284
+],
+  "geometry": {"coordinates":[-111.70321800000001,40.281284],"type":"Point"}
+}

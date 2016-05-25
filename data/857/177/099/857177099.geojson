@@ -1,0 +1,69 @@
+{
+  "id": 857177099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.830313,40.594919,-111.830313,40.594919",
+    "geom:latitude":40.594919,
+    "geom:longitude":-111.830313,
+    "iso:country":"US",
+    "sg:address":"2105 Alta Canyon Dr",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 944 0180",
+    "sg:postcode":"84093",
+    "sg:province":"UT",
+    "sg:website":"www.lapetiteacademy.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85857943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46vndBwY8En2OgzzogUzPF_40.594919_-111.830313@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123735,
+    "wof:geomhash":"50f4c71ecd8c12f11b383aecdcf44111",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85857943,
+            "region_id":85688567,
+            "venue_id":857177099
+        }
+    ],
+    "wof:id":857177099,
+    "wof:lastmodified":1464123735,
+    "wof:name":"LA Petite Academy",
+    "wof:parent_id":85857943,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.830313,
+    40.594919,
+    -111.830313,
+    40.594919
+],
+  "geometry": {"coordinates":[-111.830313,40.594919],"type":"Point"}
+}

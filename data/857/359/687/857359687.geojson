@@ -1,0 +1,71 @@
+{
+  "id": 857359687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.007178,41.047467,-112.007178,41.047467",
+    "geom:latitude":41.047467,
+    "geom:longitude":-112.007178,
+    "iso:country":"US",
+    "sg:address":"852 S 2200 W",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 546 1114",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85868169,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UKdD4hOY3BFNMSziacENl_41.047467_-112.007178@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127691,
+    "wof:geomhash":"cc1af759ef9375633aa95063a039f1dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "neighbourhood_id":85868169,
+            "region_id":85688567,
+            "venue_id":857359687
+        }
+    ],
+    "wof:id":857359687,
+    "wof:lastmodified":1464127691,
+    "wof:name":"Call Farms",
+    "wof:parent_id":85868169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -112.007178,
+    41.047467,
+    -112.007178,
+    41.047467
+],
+  "geometry": {"coordinates":[-112.007178,41.047467],"type":"Point"}
+}

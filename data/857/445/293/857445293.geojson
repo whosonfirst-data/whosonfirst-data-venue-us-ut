@@ -1,0 +1,73 @@
+{
+  "id": 857445293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.901106,40.719357,-111.901106,40.719357",
+    "geom:latitude":40.719357,
+    "geom:longitude":-111.901106,
+    "iso:country":"US",
+    "sg:address":"434 W Bearcat Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 570 9393",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "broadcast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85846407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3J48tnubftjEUNAJ1nwBVl_40.719357_-111.901106@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129664,
+    "wof:geomhash":"d10c13bc708f24d77e3b45588eb44dfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85846407,
+            "region_id":85688567,
+            "venue_id":857445293
+        }
+    ],
+    "wof:id":857445293,
+    "wof:lastmodified":1464129664,
+    "wof:name":"K-Bull 933 Frsh Cntry Rqst Ln",
+    "wof:parent_id":85846407,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broadcast"
+    ]
+},
+  "bbox": [
+    -111.901106,
+    40.719357,
+    -111.901106,
+    40.719357
+],
+  "geometry": {"coordinates":[-111.901106,40.719357],"type":"Point"}
+}

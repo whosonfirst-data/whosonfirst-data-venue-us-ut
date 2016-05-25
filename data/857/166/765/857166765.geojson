@@ -1,0 +1,75 @@
+{
+  "id": 857166765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.733505,40.044615,-111.733505,40.044615",
+    "geom:latitude":40.044615,
+    "geom:longitude":-111.733505,
+    "iso:country":"US",
+    "sg:address":"94 W 100 N",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 2726",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "carwash",
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Y7f8YVa6cca5KfvUE9KAF_40.044615_-111.733505@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123500,
+    "wof:geomhash":"437131ef6fc8b0a3d37b1e4b96a296d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857166765
+        }
+    ],
+    "wof:id":857166765,
+    "wof:lastmodified":1464123500,
+    "wof:name":"Super Wash of Payson",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash",
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -111.733505,
+    40.044615,
+    -111.733505,
+    40.044615
+],
+  "geometry": {"coordinates":[-111.73350499999999,40.044615],"type":"Point"}
+}

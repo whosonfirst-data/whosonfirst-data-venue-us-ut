@@ -1,0 +1,73 @@
+{
+  "id": 857248277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.940945,41.229353,-111.940945,41.229353",
+    "geom:latitude":41.229353,
+    "geom:longitude":-111.940945,
+    "iso:country":"US",
+    "sg:address":"2046 Robins Ave",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 612 1586",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85839743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11VUjGmjiA4YIGgRD4qOLk_41.229353_-111.940945@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125205,
+    "wof:geomhash":"1a9d442d9f0f17e45bf1341d89f62f13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85839743,
+            "region_id":85688567,
+            "venue_id":857248277
+        }
+    ],
+    "wof:id":857248277,
+    "wof:lastmodified":1464125205,
+    "wof:name":"Galloway Construction",
+    "wof:parent_id":85839743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -111.940945,
+    41.229353,
+    -111.940945,
+    41.229353
+],
+  "geometry": {"coordinates":[-111.940945,41.229353],"type":"Point"}
+}

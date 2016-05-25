@@ -1,0 +1,73 @@
+{
+  "id": 857227497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.730368,40.297208,-111.730368,40.297208",
+    "geom:latitude":40.297208,
+    "geom:longitude":-111.730368,
+    "iso:country":"US",
+    "sg:address":"1374 W Center St",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 5403",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727827,
+        102083567,
+        85821287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07T1McDuu0lWWHtrERZRPS_40.297208_-111.730368@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124760,
+    "wof:geomhash":"f2ac9580e972f5d39358b809d10f4947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727827,
+            "neighbourhood_id":85821287,
+            "region_id":85688567,
+            "venue_id":857227497
+        }
+    ],
+    "wof:id":857227497,
+    "wof:lastmodified":1464124760,
+    "wof:name":"Drywall Surgeons",
+    "wof:parent_id":85821287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.730368,
+    40.297208,
+    -111.730368,
+    40.297208
+],
+  "geometry": {"coordinates":[-111.730368,40.297208],"type":"Point"}
+}

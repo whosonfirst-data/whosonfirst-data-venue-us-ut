@@ -1,0 +1,73 @@
+{
+  "id": 857430895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.932255,40.609461,-111.932255,40.609461",
+    "geom:latitude":40.609461,
+    "geom:longitude":-111.932255,
+    "iso:country":"US",
+    "sg:address":"1429 W 7800 S",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 567 9733",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "driveway"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85817621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LK2OmxHsJ8a2kAhUsyr9D_40.609461_-111.932255@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129362,
+    "wof:geomhash":"617df2f2368e6e34f3e2b8aa6aab2f41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85817621,
+            "region_id":85688567,
+            "venue_id":857430895
+        }
+    ],
+    "wof:id":857430895,
+    "wof:lastmodified":1464129362,
+    "wof:name":"Concretedriveway",
+    "wof:parent_id":85817621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "driveway"
+    ]
+},
+  "bbox": [
+    -111.932255,
+    40.609461,
+    -111.932255,
+    40.609461
+],
+  "geometry": {"coordinates":[-111.932255,40.609461],"type":"Point"}
+}

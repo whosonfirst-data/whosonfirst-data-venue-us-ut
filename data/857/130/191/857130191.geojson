@@ -1,0 +1,73 @@
+{
+  "id": 857130191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.929051,41.236463,-111.929051,41.236463",
+    "geom:latitude":41.236463,
+    "geom:longitude":-111.929051,
+    "iso:country":"US",
+    "sg:address":"1875 Valley Dr",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 392 1777",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85839591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17F2BsP7vlgHu8fPNXS3yR_41.236463_-111.929051@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122685,
+    "wof:geomhash":"dffa1edc45515e176c6231d082b59984",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85839591,
+            "region_id":85688567,
+            "venue_id":857130191
+        }
+    ],
+    "wof:id":857130191,
+    "wof:lastmodified":1464122685,
+    "wof:name":"Greenery Restaurant Company",
+    "wof:parent_id":85839591,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.929051,
+    41.236463,
+    -111.929051,
+    41.236463
+],
+  "geometry": {"coordinates":[-111.929051,41.236463],"type":"Point"}
+}

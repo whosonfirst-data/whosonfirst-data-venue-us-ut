@@ -1,0 +1,64 @@
+{
+  "id": 857265529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.853222,40.595323,-111.853222,40.595323",
+    "geom:latitude":40.595323,
+    "geom:longitude":-111.853222,
+    "iso:country":"US",
+    "sg:address":"8590 S 1300 E",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 481 5280",
+    "sg:postcode":"84094",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85847325,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dkHOONeocO7lYK99bKrQC_40.595323_-111.853222@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125602,
+    "wof:geomhash":"357b678bcd932eb449680b1a449584e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85847325,
+            "region_id":85688567,
+            "venue_id":857265529
+        }
+    ],
+    "wof:id":857265529,
+    "wof:lastmodified":1464125602,
+    "wof:name":"Bank One",
+    "wof:parent_id":85847325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.853222,
+    40.595323,
+    -111.853222,
+    40.595323
+],
+  "geometry": {"coordinates":[-111.853222,40.595323],"type":"Point"}
+}

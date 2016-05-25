@@ -1,0 +1,68 @@
+{
+  "id": 857195057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.986981,40.653661,-111.986981,40.653661",
+    "geom:latitude":40.653661,
+    "geom:longitude":-111.986981,
+    "iso:country":"US",
+    "sg:address":"5316 S 4015 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 966 6300",
+    "sg:postcode":"84118",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728253,
+        102082877,
+        85805333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60uLiV1uwH580nGqJlakXj_40.653661_-111.986981@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124081,
+    "wof:geomhash":"abf3547d9caacd6f21cd7dba28c8b0ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728253,
+            "neighbourhood_id":85805333,
+            "region_id":85688567,
+            "venue_id":857195057
+        }
+    ],
+    "wof:id":857195057,
+    "wof:lastmodified":1464124081,
+    "wof:name":"Diamond Rental Inc",
+    "wof:parent_id":85805333,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.986981,
+    40.653661,
+    -111.986981,
+    40.653661
+],
+  "geometry": {"coordinates":[-111.986981,40.653661],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857384641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.674882,40.316056,-111.674882,40.316056",
+    "geom:latitude":40.316056,
+    "geom:longitude":-111.674882,
+    "iso:country":"US",
+    "sg:address":"854 E 1030 N",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 9552",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Zm31qHPrFc61bWUg70H04_40.316056_-111.674882@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128259,
+    "wof:geomhash":"0a9654edb11e7f818f8f72264f80c724",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857384641
+        }
+    ],
+    "wof:id":857384641,
+    "wof:lastmodified":1464128259,
+    "wof:name":"Pehrson Property",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -111.674882,
+    40.316056,
+    -111.674882,
+    40.316056
+],
+  "geometry": {"coordinates":[-111.674882,40.316056],"type":"Point"}
+}

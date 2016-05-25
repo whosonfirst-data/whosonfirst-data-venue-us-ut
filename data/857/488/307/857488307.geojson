@@ -1,0 +1,69 @@
+{
+  "id": 857488307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.790745,40.374471,-111.790745,40.374471",
+    "geom:latitude":40.374471,
+    "geom:longitude":-111.790745,
+    "iso:country":"US",
+    "sg:address":"172 S 300 E",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 5163",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xtJPf8GYN5UmkU81P8QYa_40.374471_-111.790745@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130543,
+    "wof:geomhash":"87f9c0c9c2db7397ac34299971b360ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857488307
+        }
+    ],
+    "wof:id":857488307,
+    "wof:lastmodified":1464130543,
+    "wof:name":"Edgar Automotive Punto Com",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -111.790745,
+    40.374471,
+    -111.790745,
+    40.374471
+],
+  "geometry": {"coordinates":[-111.790745,40.374471],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 857152653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.828055,40.543352,-111.828055,40.543352",
+    "geom:latitude":40.543352,
+    "geom:longitude":-111.828055,
+    "iso:country":"US",
+    "sg:address":"2214 High Mountain Dr",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 572 2277",
+    "sg:postcode":"84092",
+    "sg:province":"UT",
+    "sg:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85825243,
+        102082877,
+        102191575,
+        101728077,
+        85812845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59HlWg5o9fYLtuWmzIqwYY_40.543352_-111.828055@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123198,
+    "wof:geomhash":"ab98b510751ed56cbc959736b31dd6dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85825243,
+            "region_id":85688567,
+            "venue_id":857152653
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85812845,
+            "region_id":85688567,
+            "venue_id":857152653
+        }
+    ],
+    "wof:id":857152653,
+    "wof:lastmodified":1464123198,
+    "wof:name":"Forever Green",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ]
+},
+  "bbox": [
+    -111.828055,
+    40.543352,
+    -111.828055,
+    40.543352
+],
+  "geometry": {"coordinates":[-111.82805500000001,40.543352],"type":"Point"}
+}

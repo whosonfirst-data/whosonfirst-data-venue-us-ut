@@ -1,0 +1,73 @@
+{
+  "id": 857299627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.949021,41.183253,-111.949021,41.183253",
+    "geom:latitude":41.183253,
+    "geom:longitude":-111.949021,
+    "iso:country":"US",
+    "sg:address":"4342 Harrison Blvd",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 392 2525",
+    "sg:postcode":"84403",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85823617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4r2RgsZRXuiza7fc2BPHJp_41.183253_-111.949021@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126403,
+    "wof:geomhash":"1ac29982cadcfe9c79a5704119e39930",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85823617,
+            "region_id":85688567,
+            "venue_id":857299627
+        }
+    ],
+    "wof:id":857299627,
+    "wof:lastmodified":1464126403,
+    "wof:name":"University Broiler & Grill",
+    "wof:parent_id":85823617,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.949021,
+    41.183253,
+    -111.949021,
+    41.183253
+],
+  "geometry": {"coordinates":[-111.949021,41.183253],"type":"Point"}
+}

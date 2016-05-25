@@ -1,0 +1,66 @@
+{
+  "id": 857084975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.798381,40.695376,-111.798381,40.695376",
+    "geom:latitude":40.695376,
+    "geom:longitude":-111.798381,
+    "iso:country":"US",
+    "sg:address":"3436 E el Serrito Cir",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 486 6795",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728257,
+        102082877,
+        85854869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ce7t23BXktTrSABXsqVY9_40.695376_-111.798381@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121529,
+    "wof:geomhash":"485ae9ce209d3d847c5df74133e1d319",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85854869,
+            "region_id":85688567,
+            "venue_id":857084975
+        }
+    ],
+    "wof:id":857084975,
+    "wof:lastmodified":1464121529,
+    "wof:name":"Gift Horse",
+    "wof:parent_id":85854869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.798381,
+    40.695376,
+    -111.798381,
+    40.695376
+],
+  "geometry": {"coordinates":[-111.79838100000001,40.695376],"type":"Point"}
+}

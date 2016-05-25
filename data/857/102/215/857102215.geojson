@@ -1,0 +1,74 @@
+{
+  "id": 857102215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.884474,40.550809,-111.884474,40.550809",
+    "geom:latitude":40.550809,
+    "geom:longitude":-111.884474,
+    "iso:country":"US",
+    "sg:address":"11100 S 230 E",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 572 7060",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "elementary"
+    ],
+    "sg:website":"www.crescentelementary.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85850585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hNnARLPPVhZsRVeSiKbaw_40.550809_-111.884474@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121965,
+    "wof:geomhash":"06d09e218f26191fafd4a148acefc9cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85850585,
+            "region_id":85688567,
+            "venue_id":857102215
+        }
+    ],
+    "wof:id":857102215,
+    "wof:lastmodified":1464121965,
+    "wof:name":"Crescent Elementary School",
+    "wof:parent_id":85850585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -111.884474,
+    40.550809,
+    -111.884474,
+    40.550809
+],
+  "geometry": {"coordinates":[-111.884474,40.550809],"type":"Point"}
+}

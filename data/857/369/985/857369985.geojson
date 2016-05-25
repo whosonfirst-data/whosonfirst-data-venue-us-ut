@@ -1,0 +1,78 @@
+{
+  "id": 857369985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.888321,40.704263,-111.888321,40.704263",
+    "geom:latitude":40.704263,
+    "geom:longitude":-111.888321,
+    "iso:country":"US",
+    "sg:address":"3080 S State St",
+    "sg:city":"South Salt Lake",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 474 0900",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "equipment",
+        "medical",
+        "laboratory"
+    ],
+    "sg:website":"www.bio-medenginc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85854999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XWk3Yogw5S9I585Gz6FZc_40.704263_-111.888321@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127905,
+    "wof:geomhash":"050cd38faa6878e15550be2d8089fafa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85854999,
+            "region_id":85688567,
+            "venue_id":857369985
+        }
+    ],
+    "wof:id":857369985,
+    "wof:lastmodified":1464127905,
+    "wof:name":"Bio Med Engineering Inc",
+    "wof:parent_id":85854999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "medical",
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -111.888321,
+    40.704263,
+    -111.888321,
+    40.704263
+],
+  "geometry": {"coordinates":[-111.888321,40.704263],"type":"Point"}
+}

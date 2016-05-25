@@ -1,0 +1,75 @@
+{
+  "id": 857133803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.973342,41.073407,-111.973342,41.073407",
+    "geom:latitude":41.073407,
+    "geom:longitude":-111.973342,
+    "iso:country":"US",
+    "sg:address":"914 N 400 W",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 444 2900",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "state",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AlOVUIAytDFPz3L9w8Jlf_41.073407_-111.973342@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122760,
+    "wof:geomhash":"27fe38243513bf8261226eb3bc395952",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857133803
+        }
+    ],
+    "wof:id":857133803,
+    "wof:lastmodified":1464122760,
+    "wof:name":"Medicaid Eligibility",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "resource"
+    ]
+},
+  "bbox": [
+    -111.973342,
+    41.073407,
+    -111.973342,
+    41.073407
+],
+  "geometry": {"coordinates":[-111.973342,41.073407],"type":"Point"}
+}

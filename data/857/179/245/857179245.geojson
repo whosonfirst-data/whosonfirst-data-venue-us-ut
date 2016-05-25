@@ -1,0 +1,73 @@
+{
+  "id": 857179245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.637705,40.246178,-111.637705,40.246178",
+    "geom:latitude":40.246178,
+    "geom:longitude":-111.637705,
+    "iso:country":"US",
+    "sg:address":"1106 E 930 N",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 356 3823",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "internet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vaQezCVZa0Fra8NwoSuRm_40.246178_-111.637705@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123780,
+    "wof:geomhash":"c6da05fb19c02f548da4aa7006dc69c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880125,
+            "region_id":85688567,
+            "venue_id":857179245
+        }
+    ],
+    "wof:id":857179245,
+    "wof:lastmodified":1464123780,
+    "wof:name":"Sewell Development Corp",
+    "wof:parent_id":85880125,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "internet"
+    ]
+},
+  "bbox": [
+    -111.637705,
+    40.246178,
+    -111.637705,
+    40.246178
+],
+  "geometry": {"coordinates":[-111.637705,40.246178],"type":"Point"}
+}

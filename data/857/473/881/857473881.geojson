@@ -1,0 +1,73 @@
+{
+  "id": 857473881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.879039,40.929661,-111.879039,40.929661",
+    "geom:latitude":40.929661,
+    "geom:longitude":-111.879039,
+    "iso:country":"US",
+    "sg:address":"1011 N Main St",
+    "sg:city":"Centerville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 296 0386",
+    "sg:postcode":"84014",
+    "sg:province":"UT",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727879,
+        102083563,
+        85809721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4csTW5xll54RAEsa7zziU6_40.929661_-111.879039@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130253,
+    "wof:geomhash":"aa4f501da74c6dd1119c2128621276a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727879,
+            "neighbourhood_id":85809721,
+            "region_id":85688567,
+            "venue_id":857473881
+        }
+    ],
+    "wof:id":857473881,
+    "wof:lastmodified":1464130253,
+    "wof:name":"Tri-Valley Chevron",
+    "wof:parent_id":85809721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -111.879039,
+    40.929661,
+    -111.879039,
+    40.929661
+],
+  "geometry": {"coordinates":[-111.87903900000001,40.929661],"type":"Point"}
+}

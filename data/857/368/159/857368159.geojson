@@ -1,0 +1,71 @@
+{
+  "id": 857368159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.952746,41.311983,-111.952746,41.311983",
+    "geom:latitude":41.311983,
+    "geom:longitude":-111.952746,
+    "iso:country":"US",
+    "sg:address":"855 E 2850 N",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 782 5135",
+    "sg:postcode":"84414",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85824645,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tSe6qH1NqyGNuMb8mem3X_41.311983_-111.952746@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127866,
+    "wof:geomhash":"84d5dd8de717ed540f7489c553b86292",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85824645,
+            "region_id":85688567,
+            "venue_id":857368159
+        }
+    ],
+    "wof:id":857368159,
+    "wof:lastmodified":1464127866,
+    "wof:name":"R A Fleming Construction",
+    "wof:parent_id":85824645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.952746,
+    41.311983,
+    -111.952746,
+    41.311983
+],
+  "geometry": {"coordinates":[-111.952746,41.311983],"type":"Point"}
+}

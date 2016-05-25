@@ -1,0 +1,77 @@
+{
+  "id": 857165127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.045125,41.089076,-112.045125,41.089076",
+    "geom:latitude":41.089076,
+    "geom:longitude":-112.045125,
+    "iso:country":"US",
+    "sg:address":"765 W 1700 S",
+    "sg:city":"Syracuse",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 773 7597",
+    "sg:postcode":"84075",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727889,
+        102083563,
+        85804563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45Rjyz4aPbDtBNkmRitnem_41.089076_-112.045125@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123469,
+    "wof:geomhash":"791d87769208b7a1de4e376fbfbb9577",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727889,
+            "neighbourhood_id":85804563,
+            "region_id":85688567,
+            "venue_id":857165127
+        }
+    ],
+    "wof:id":857165127,
+    "wof:lastmodified":1464123469,
+    "wof:name":"Antelope Auto Repair  Inc",
+    "wof:parent_id":85804563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -112.045125,
+    41.089076,
+    -112.045125,
+    41.089076
+],
+  "geometry": {"coordinates":[-112.045125,41.089076],"type":"Point"}
+}

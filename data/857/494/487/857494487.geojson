@@ -1,0 +1,76 @@
+{
+  "id": 857494487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.298214,37.176467,-113.298214,37.176467",
+    "geom:latitude":37.176467,
+    "geom:longitude":-113.298214,
+    "iso:country":"US",
+    "sg:address":"535 W State St",
+    "sg:city":"Hurricane",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/hurricane/77725-papa-murphys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 635 7272",
+    "sg:postcode":"84737",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727631,
+        102082879,
+        85824093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nJpvx3IQP6Egz1swgqgGQ_37.176467_-113.298214@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130749,
+    "wof:geomhash":"e3dd4d0b4d6594dbcc5638bb068ff55f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727631,
+            "neighbourhood_id":85824093,
+            "region_id":85688567,
+            "venue_id":857494487
+        }
+    ],
+    "wof:id":857494487,
+    "wof:lastmodified":1464130749,
+    "wof:name":"Papa Murphy's",
+    "wof:parent_id":85824093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -113.298214,
+    37.176467,
+    -113.298214,
+    37.176467
+],
+  "geometry": {"coordinates":[-113.298214,37.176467],"type":"Point"}
+}

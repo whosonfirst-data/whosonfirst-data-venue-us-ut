@@ -1,0 +1,67 @@
+{
+  "id": 857215047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.654775,40.109831,-111.654775,40.109831",
+    "geom:latitude":40.109831,
+    "geom:longitude":-111.654775,
+    "iso:country":"US",
+    "sg:address":"99 N Main St",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 3522",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:website":"www.wellsfargo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NdPMSIR7ZRRTC6POLeIqv_40.109831_-111.654775@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124515,
+    "wof:geomhash":"c019ebbdab029aceb5051c6ef467f13f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857215047
+        }
+    ],
+    "wof:id":857215047,
+    "wof:lastmodified":1464124515,
+    "wof:name":"Wells Fargo Bank",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.654775,
+    40.109831,
+    -111.654775,
+    40.109831
+],
+  "geometry": {"coordinates":[-111.654775,40.109831],"type":"Point"}
+}

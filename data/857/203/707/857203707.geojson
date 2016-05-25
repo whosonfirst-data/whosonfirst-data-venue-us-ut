@@ -1,0 +1,75 @@
+{
+  "id": 857203707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.662264,40.238375,-111.662264,40.238375",
+    "geom:latitude":40.238375,
+    "geom:longitude":-111.662264,
+    "iso:country":"US",
+    "sg:address":"353 N 200 W",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 375 8618",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automotive",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RVc6TtfQ2K99sD6QfciFJ_40.238375_-111.662264@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124259,
+    "wof:geomhash":"8abf0a2fe9409eeb61680fcde88ac0f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880121,
+            "region_id":85688567,
+            "venue_id":857203707
+        }
+    ],
+    "wof:id":857203707,
+    "wof:lastmodified":1464124259,
+    "wof:name":"Oil Rig Inc",
+    "wof:parent_id":85880121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -111.662264,
+    40.238375,
+    -111.662264,
+    40.238375
+],
+  "geometry": {"coordinates":[-111.66226399999999,40.238375],"type":"Point"}
+}

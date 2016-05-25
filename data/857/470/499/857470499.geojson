@@ -1,0 +1,76 @@
+{
+  "id": 857470499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.930531,40.603654,-111.930531,40.603654",
+    "geom:latitude":40.603654,
+    "geom:longitude":-111.930531,
+    "iso:country":"US",
+    "sg:address":"1455 W 8120 S",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 568 7300",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "semiconductor",
+        "devices"
+    ],
+    "sg:website":"www.bold-tech.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85817621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0le7XROsiULnqAlu7zJFA9_40.603654_-111.930531@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130180,
+    "wof:geomhash":"25ef7fd175be53f87dce052195a765be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85817621,
+            "region_id":85688567,
+            "venue_id":857470499
+        }
+    ],
+    "wof:id":857470499,
+    "wof:lastmodified":1464130180,
+    "wof:name":"Bold Technologies",
+    "wof:parent_id":85817621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "semiconductor",
+        "devices"
+    ]
+},
+  "bbox": [
+    -111.930531,
+    40.603654,
+    -111.930531,
+    40.603654
+],
+  "geometry": {"coordinates":[-111.930531,40.603654],"type":"Point"}
+}

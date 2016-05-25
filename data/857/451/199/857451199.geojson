@@ -1,0 +1,68 @@
+{
+  "id": 857451199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.930911,41.219168,-111.930911,41.219168",
+    "geom:latitude":41.219168,
+    "geom:longitude":-111.930911,
+    "iso:country":"US",
+    "sg:address":"1790 Lake St",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 394 1515",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85832283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LDxzIyIGZHiKrPlS3kK3z_41.219168_-111.930911@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129786,
+    "wof:geomhash":"463eb589e2212751c7f8be26e6c2303a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85832283,
+            "region_id":85688567,
+            "venue_id":857451199
+        }
+    ],
+    "wof:id":857451199,
+    "wof:lastmodified":1464129786,
+    "wof:name":"St Joseph High School",
+    "wof:parent_id":85832283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.930911,
+    41.219168,
+    -111.930911,
+    41.219168
+],
+  "geometry": {"coordinates":[-111.93091099999999,41.219168],"type":"Point"}
+}

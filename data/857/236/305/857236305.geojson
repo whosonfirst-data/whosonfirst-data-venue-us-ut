@@ -1,0 +1,73 @@
+{
+  "id": 857236305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.978154,40.714601,-111.978154,40.714601",
+    "geom:latitude":40.714601,
+    "geom:longitude":-111.978154,
+    "iso:country":"US",
+    "sg:address":"3687 Great Lakes Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 973 9870",
+    "sg:postcode":"84120",
+    "sg:province":"UT",
+    "sg:tags":[
+        "door"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85844521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3T2lb1xECBy00Xvw9c4cr5_40.714601_-111.978154@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124932,
+    "wof:geomhash":"b3de888700c0eb66ed6ec638e42b892f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85844521,
+            "region_id":85688567,
+            "venue_id":857236305
+        }
+    ],
+    "wof:id":857236305,
+    "wof:lastmodified":1464124932,
+    "wof:name":"Amarr Garage Doors",
+    "wof:parent_id":85844521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "door"
+    ]
+},
+  "bbox": [
+    -111.978154,
+    40.714601,
+    -111.978154,
+    40.714601
+],
+  "geometry": {"coordinates":[-111.978154,40.714601],"type":"Point"}
+}

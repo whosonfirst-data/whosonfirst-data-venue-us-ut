@@ -1,0 +1,73 @@
+{
+  "id": 857266415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.667505,40.21323,-111.667505,40.21323",
+    "geom:latitude":40.21323,
+    "geom:longitude":-111.667505,
+    "iso:country":"US",
+    "sg:address":"1530 S 500 W",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 374 1468",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4E083WdgSCRQBGFEYycOlG_40.213230_-111.667505@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125619,
+    "wof:geomhash":"4d2c72e4e69c746d90fd8f6617d8f2d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880077,
+            "region_id":85688567,
+            "venue_id":857266415
+        }
+    ],
+    "wof:id":857266415,
+    "wof:lastmodified":1464125619,
+    "wof:name":"Oakview Living Center",
+    "wof:parent_id":85880077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -111.667505,
+    40.21323,
+    -111.667505,
+    40.21323
+],
+  "geometry": {"coordinates":[-111.66750500000001,40.21323],"type":"Point"}
+}

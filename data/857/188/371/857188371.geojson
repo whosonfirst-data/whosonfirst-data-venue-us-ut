@@ -1,0 +1,71 @@
+{
+  "id": 857188371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.720151,40.044573,-111.720151,40.044573",
+    "geom:latitude":40.044573,
+    "geom:longitude":-111.720151,
+    "iso:country":"US",
+    "sg:address":"745 State Hwy 198",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 2438",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1S2TLTYoPCZ80OgwaAGBOk_40.044573_-111.720151@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123958,
+    "wof:geomhash":"7e51a2cab824360eb9abb7d5c9f07206",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857188371
+        }
+    ],
+    "wof:id":857188371,
+    "wof:lastmodified":1464123958,
+    "wof:name":"Polar Queen Drive Inn",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.720151,
+    40.044573,
+    -111.720151,
+    40.044573
+],
+  "geometry": {"coordinates":[-111.720151,40.044573],"type":"Point"}
+}

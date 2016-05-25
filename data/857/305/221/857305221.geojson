@@ -1,0 +1,75 @@
+{
+  "id": 857305221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.638028,40.237484,-111.638028,40.237484",
+    "geom:latitude":40.237484,
+    "geom:longitude":-111.638028,
+    "iso:country":"US",
+    "sg:address":"1157 E 300 N",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 377 4668",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ry5uwm5rYRPXy2CcWJXRz_40.237484_-111.638028@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126524,
+    "wof:geomhash":"ed9506ec87efd0dd774122686b759731",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880071,
+            "region_id":85688567,
+            "venue_id":857305221
+        }
+    ],
+    "wof:id":857305221,
+    "wof:lastmodified":1464126524,
+    "wof:name":"Wasatch Mental Health",
+    "wof:parent_id":85880071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -111.638028,
+    40.237484,
+    -111.638028,
+    40.237484
+],
+  "geometry": {"coordinates":[-111.63802800000001,40.237484],"type":"Point"}
+}

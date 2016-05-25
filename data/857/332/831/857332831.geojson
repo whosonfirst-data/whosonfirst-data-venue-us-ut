@@ -1,0 +1,82 @@
+{
+  "id": 857332831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.85968,40.733262,-111.85968,40.733262",
+    "geom:latitude":40.733262,
+    "geom:longitude":-111.85968,
+    "iso:country":"US",
+    "sg:address":"1724 S 1100 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 485 6806",
+    "sg:postcode":"84105",
+    "sg:province":"UT",
+    "sg:tags":[
+        "bridal",
+        "design",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85855583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dCZmQHPBjqbcr2VEK1CXK_40.733262_-111.859680@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127122,
+    "wof:geomhash":"9d98fa521a6402b19023b0d7d1f0a2a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85855583,
+            "region_id":85688567,
+            "venue_id":857332831
+        }
+    ],
+    "wof:id":857332831,
+    "wof:lastmodified":1464127122,
+    "wof:name":"Private Collection Inc",
+    "wof:parent_id":85855583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bridal",
+        "design",
+        "custom"
+    ]
+},
+  "bbox": [
+    -111.85968,
+    40.733262,
+    -111.85968,
+    40.733262
+],
+  "geometry": {"coordinates":[-111.85968,40.733262],"type":"Point"}
+}

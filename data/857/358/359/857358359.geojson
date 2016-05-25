@@ -1,0 +1,68 @@
+{
+  "id": 857358359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.935906,40.750173,-111.935906,40.750173",
+    "geom:latitude":40.750173,
+    "geom:longitude":-111.935906,
+    "iso:country":"US",
+    "sg:address":"1595 W 900 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 973 7587",
+    "sg:postcode":"84104",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85808519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SCw68qJDQX8LLwh0cgYUm_40.750173_-111.935906@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127666,
+    "wof:geomhash":"baeaa4f2d9786490352c2d94ac47dccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85808519,
+            "region_id":85688567,
+            "venue_id":857358359
+        }
+    ],
+    "wof:id":857358359,
+    "wof:lastmodified":1464127666,
+    "wof:name":"Eleanor's Day Care",
+    "wof:parent_id":85808519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.935906,
+    40.750173,
+    -111.935906,
+    40.750173
+],
+  "geometry": {"coordinates":[-111.935906,40.750173],"type":"Point"}
+}

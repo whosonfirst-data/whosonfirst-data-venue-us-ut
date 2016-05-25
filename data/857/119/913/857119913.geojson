@@ -1,0 +1,73 @@
+{
+  "id": 857119913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.850444,40.398556,-111.850444,40.398556",
+    "geom:latitude":40.398556,
+    "geom:longitude":-111.850444,
+    "iso:country":"US",
+    "sg:address":"89 W State Rd",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 766 0742",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mall",
+        "shopping",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7L7I8GCsrfV3vQtQvg25NJ_40.398556_-111.850444@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122448,
+    "wof:geomhash":"86997d488ec5e96f5e211886ba15e5c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857119913
+        }
+    ],
+    "wof:id":857119913,
+    "wof:lastmodified":1464122448,
+    "wof:name":"Saratoga Springs Shopping Ctr",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mall",
+        "shopping",
+        "center"
+    ]
+},
+  "bbox": [
+    -111.850444,
+    40.398556,
+    -111.850444,
+    40.398556
+],
+  "geometry": {"coordinates":[-111.850444,40.398556],"type":"Point"}
+}

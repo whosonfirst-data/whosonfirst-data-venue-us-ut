@@ -1,0 +1,71 @@
+{
+  "id": 857141453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.872205,40.921362,-111.872205,40.921362",
+    "geom:latitude":40.921362,
+    "geom:longitude":-111.872205,
+    "iso:country":"US",
+    "sg:address":"310 N 400 E",
+    "sg:city":"Centerville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 298 3004",
+    "sg:postcode":"84014",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727879,
+        102083563,
+        85849063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GPbJlt8ubYs1yXOYoxL2g_40.921362_-111.872205@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122929,
+    "wof:geomhash":"eb33a975ca164485f21fb948bdbea7e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727879,
+            "neighbourhood_id":85849063,
+            "region_id":85688567,
+            "venue_id":857141453
+        }
+    ],
+    "wof:id":857141453,
+    "wof:lastmodified":1464122929,
+    "wof:name":"P and B Construction",
+    "wof:parent_id":85849063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.872205,
+    40.921362,
+    -111.872205,
+    40.921362
+],
+  "geometry": {"coordinates":[-111.87220499999999,40.921362],"type":"Point"}
+}

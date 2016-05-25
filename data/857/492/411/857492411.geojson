@@ -1,0 +1,74 @@
+{
+  "id": 857492411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.872508,40.578744,-111.872508,40.578744",
+    "geom:latitude":40.578744,
+    "geom:longitude":-111.872508,
+    "iso:country":"US",
+    "sg:address":"694 Union Sq",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/37355-brittons/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 572 5148",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85854667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uU25f9vHm38nQ367uy4qw_40.578744_-111.872508@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130675,
+    "wof:geomhash":"0f2cd861579efb54b9ad0e0a6b630b64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85854667,
+            "region_id":85688567,
+            "venue_id":857492411
+        }
+    ],
+    "wof:id":857492411,
+    "wof:lastmodified":1464130675,
+    "wof:name":"Britton's",
+    "wof:parent_id":85854667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -111.872508,
+    40.578744,
+    -111.872508,
+    40.578744
+],
+  "geometry": {"coordinates":[-111.872508,40.578744],"type":"Point"}
+}

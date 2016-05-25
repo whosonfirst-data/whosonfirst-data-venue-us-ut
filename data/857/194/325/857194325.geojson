@@ -1,0 +1,68 @@
+{
+  "id": 857194325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.858884,40.536192,-111.858884,40.536192",
+    "geom:latitude":40.536192,
+    "geom:longitude":-111.858884,
+    "iso:country":"US",
+    "sg:address":"11825 Elm Ridge Rd",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 501 0411",
+    "sg:postcode":"84094",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727849,
+        102082877,
+        85815193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rWp41tjjxa7uJbnJtt3FR_40.536192_-111.858884@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124068,
+    "wof:geomhash":"027acbf76604f4119ca335d92d50d1d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85815193,
+            "region_id":85688567,
+            "venue_id":857194325
+        }
+    ],
+    "wof:id":857194325,
+    "wof:lastmodified":1464124068,
+    "wof:name":"Steak N Greek",
+    "wof:parent_id":85815193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.858884,
+    40.536192,
+    -111.858884,
+    40.536192
+],
+  "geometry": {"coordinates":[-111.858884,40.536192],"type":"Point"}
+}

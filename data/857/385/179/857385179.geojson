@@ -1,0 +1,69 @@
+{
+  "id": 857385179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.853111,40.593006,-111.853111,40.593006",
+    "geom:latitude":40.593006,
+    "geom:longitude":-111.853111,
+    "iso:country":"US",
+    "sg:address":"8703 S 1300 E",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 255 4367",
+    "sg:postcode":"84094",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85847325,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IMY8Fya7MnrOdOrD6MJHy_40.593006_-111.853111@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128278,
+    "wof:geomhash":"d0b5fe65432475663d0b868e0de83df2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85847325,
+            "region_id":85688567,
+            "venue_id":857385179
+        }
+    ],
+    "wof:id":857385179,
+    "wof:lastmodified":1464128278,
+    "wof:name":"A One Engineering & Mfg",
+    "wof:parent_id":85847325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.853111,
+    40.593006,
+    -111.853111,
+    40.593006
+],
+  "geometry": {"coordinates":[-111.853111,40.593006],"type":"Point"}
+}

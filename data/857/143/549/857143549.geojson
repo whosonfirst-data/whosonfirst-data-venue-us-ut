@@ -1,0 +1,81 @@
+{
+  "id": 857143549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.603368,37.04926,-113.603368,37.04926",
+    "geom:latitude":37.04926,
+    "geom:longitude":-113.603368,
+    "iso:country":"US",
+    "sg:address":"943 Gardinia Cir",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 673 5260",
+    "sg:postcode":"84790",
+    "sg:province":"UT",
+    "sg:tags":[
+        "steel",
+        "abrasive",
+        "product",
+        "erection",
+        "mfg",
+        "structural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727617,
+        102082879,
+        85803851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QPgbfbbJmXdqPhOhZncll_37.049260_-113.603368@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122983,
+    "wof:geomhash":"c9a898e474ff586ca3f0b34993da1dc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85803851,
+            "region_id":85688567,
+            "venue_id":857143549
+        }
+    ],
+    "wof:id":857143549,
+    "wof:lastmodified":1464122983,
+    "wof:name":"C Dock Construction",
+    "wof:parent_id":85803851,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "abrasive",
+        "product",
+        "erection",
+        "mfg",
+        "structural"
+    ]
+},
+  "bbox": [
+    -113.603368,
+    37.04926,
+    -113.603368,
+    37.04926
+],
+  "geometry": {"coordinates":[-113.603368,37.04926],"type":"Point"}
+}

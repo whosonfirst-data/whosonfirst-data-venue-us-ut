@@ -1,0 +1,73 @@
+{
+  "id": 857428765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.950498,40.685813,-111.950498,40.685813",
+    "geom:latitude":40.685813,
+    "geom:longitude":-111.950498,
+    "iso:country":"US",
+    "sg:address":"3932 Red Hawk Rd",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 972 9490",
+    "sg:postcode":"84119",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85859153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mV52AD6RGk89YaGKtKNpo_40.685813_-111.950498@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129312,
+    "wof:geomhash":"3c07ff4c6e4fe462ed37e6ebf1962312",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85859153,
+            "region_id":85688567,
+            "venue_id":857428765
+        }
+    ],
+    "wof:id":857428765,
+    "wof:lastmodified":1464129312,
+    "wof:name":"2 Cups Full",
+    "wof:parent_id":85859153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.950498,
+    40.685813,
+    -111.950498,
+    40.685813
+],
+  "geometry": {"coordinates":[-111.950498,40.685813],"type":"Point"}
+}

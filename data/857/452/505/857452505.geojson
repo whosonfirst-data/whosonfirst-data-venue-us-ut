@@ -1,0 +1,73 @@
+{
+  "id": 857452505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.858073,40.614391,-111.858073,40.614391",
+    "geom:latitude":40.614391,
+    "geom:longitude":-111.858073,
+    "iso:country":"US",
+    "sg:address":"7525 Union Park Ave",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 566 3333",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "sg:tags":[
+        "doughnut"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728065,
+        102082877,
+        85813265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fwYytqIXdGJYEDl7I83qs_40.614391_-111.858073@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129808,
+    "wof:geomhash":"4b83478d2d8855761086e1299c6be7af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728065,
+            "neighbourhood_id":85813265,
+            "region_id":85688567,
+            "venue_id":857452505
+        }
+    ],
+    "wof:id":857452505,
+    "wof:lastmodified":1464129808,
+    "wof:name":"Krispy Kreme Doughnuts",
+    "wof:parent_id":85813265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "doughnut"
+    ]
+},
+  "bbox": [
+    -111.858073,
+    40.614391,
+    -111.858073,
+    40.614391
+],
+  "geometry": {"coordinates":[-111.858073,40.614391],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857209213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.962676,40.758488,-111.962676,40.758488",
+    "geom:latitude":40.758488,
+    "geom:longitude":-111.962676,
+    "iso:country":"US",
+    "sg:address":"2950 W 500 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 974 5362",
+    "sg:postcode":"84104",
+    "sg:province":"UT",
+    "sg:tags":[
+        "bathroom",
+        "remodeling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85833645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22M0kOETSHM3TBpz90sB3e_40.758488_-111.962676@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124373,
+    "wof:geomhash":"ef1682b9049d0782bcb297b599143cc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85833645,
+            "region_id":85688567,
+            "venue_id":857209213
+        }
+    ],
+    "wof:id":857209213,
+    "wof:lastmodified":1464124373,
+    "wof:name":"Pro Cast Marble",
+    "wof:parent_id":85833645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bathroom",
+        "remodeling"
+    ]
+},
+  "bbox": [
+    -111.962676,
+    40.758488,
+    -111.962676,
+    40.758488
+],
+  "geometry": {"coordinates":[-111.962676,40.758488],"type":"Point"}
+}

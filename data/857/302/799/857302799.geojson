@@ -1,0 +1,75 @@
+{
+  "id": 857302799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.861315,40.725417,-111.861315,40.725417",
+    "geom:latitude":40.725417,
+    "geom:longitude":-111.861315,
+    "iso:country":"US",
+    "sg:address":"1033 E 2100 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 487 4419",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85858269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61yKUnDDEljRHT9DiM94K4_40.725417_-111.861315@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126471,
+    "wof:geomhash":"e23e71017f7e19d61b305a0a5f3af249",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85858269,
+            "region_id":85688567,
+            "venue_id":857302799
+        }
+    ],
+    "wof:id":857302799,
+    "wof:lastmodified":1464126471,
+    "wof:name":"Custom Fit Nutrition",
+    "wof:parent_id":85858269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -111.861315,
+    40.725417,
+    -111.861315,
+    40.725417
+],
+  "geometry": {"coordinates":[-111.861315,40.725417],"type":"Point"}
+}

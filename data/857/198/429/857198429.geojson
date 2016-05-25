@@ -1,0 +1,68 @@
+{
+  "id": 857198429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.837029,40.615242,-111.837029,40.615242",
+    "geom:latitude":40.615242,
+    "geom:longitude":-111.837029,
+    "iso:country":"US",
+    "sg:address":"1988 Curtis Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 943 8490",
+    "sg:postcode":"84121",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728065,
+        102082877,
+        85807559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qNVgAZ0SmFfXSstPQFbMA_40.615242_-111.837029@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124148,
+    "wof:geomhash":"4200f66250e546a34eeba5f3e1b59490",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728065,
+            "neighbourhood_id":85807559,
+            "region_id":85688567,
+            "venue_id":857198429
+        }
+    ],
+    "wof:id":857198429,
+    "wof:lastmodified":1464124148,
+    "wof:name":"Millers & Ellisons Flowers",
+    "wof:parent_id":85807559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.837029,
+    40.615242,
+    -111.837029,
+    40.615242
+],
+  "geometry": {"coordinates":[-111.837029,40.615242],"type":"Point"}
+}

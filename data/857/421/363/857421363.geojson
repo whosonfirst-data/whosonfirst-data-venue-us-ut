@@ -1,0 +1,73 @@
+{
+  "id": 857421363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.838542,41.725915,-111.838542,41.725915",
+    "geom:latitude":41.725915,
+    "geom:longitude":-111.838542,
+    "iso:country":"US",
+    "sg:address":"202 W 300 S",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 0484",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vWS1a1obdndYuR4GK7mgi_41.725915_-111.838542@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129135,
+    "wof:geomhash":"86a6bfe1185a2ee5741b953f206d25f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857421363
+        }
+    ],
+    "wof:id":857421363,
+    "wof:lastmodified":1464129135,
+    "wof:name":"Northern Acoustics Dry Wall",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.838542,
+    41.725915,
+    -111.838542,
+    41.725915
+],
+  "geometry": {"coordinates":[-111.838542,41.725915],"type":"Point"}
+}

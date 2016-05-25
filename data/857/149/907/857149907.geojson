@@ -1,0 +1,77 @@
+{
+  "id": 857149907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.896383,40.682326,-111.896383,40.682326",
+    "geom:latitude":40.682326,
+    "geom:longitude":-111.896383,
+    "iso:country":"US",
+    "sg:address":"155 W Central Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 269 0051",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:tags":[
+        "steel",
+        "fabrication",
+        "structural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85851609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71tpqiRrCI03UNVI0SJ277_40.682326_-111.896383@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123146,
+    "wof:geomhash":"b42f442a62e57e938c75e1722555e87c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85851609,
+            "region_id":85688567,
+            "venue_id":857149907
+        }
+    ],
+    "wof:id":857149907,
+    "wof:lastmodified":1464123146,
+    "wof:name":"Viking Steel Corporation",
+    "wof:parent_id":85851609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "fabrication",
+        "structural"
+    ]
+},
+  "bbox": [
+    -111.896383,
+    40.682326,
+    -111.896383,
+    40.682326
+],
+  "geometry": {"coordinates":[-111.896383,40.682326],"type":"Point"}
+}

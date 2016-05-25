@@ -1,0 +1,87 @@
+{
+  "id": 857208295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.865407,40.768267,-111.865407,40.768267",
+    "geom:latitude":40.768267,
+    "geom:longitude":-111.865407,
+    "iso:country":"US",
+    "sg:address":"50 S 900 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 531 6744",
+    "sg:postcode":"84102",
+    "sg:province":"UT",
+    "sg:tags":[
+        "home",
+        "planning",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85853739,
+        85871029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LrX3xTL6fjYB1VjaGzd7v_40.768267_-111.865407@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124356,
+    "wof:geomhash":"dafa4aefe6ed867f57bf6a76de2dc092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85853739,
+            "region_id":85688567,
+            "venue_id":857208295
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871029,
+            "region_id":85688567,
+            "venue_id":857208295
+        }
+    ],
+    "wof:id":857208295,
+    "wof:lastmodified":1464124356,
+    "wof:name":"Great American Designs",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "planning",
+        "design"
+    ]
+},
+  "bbox": [
+    -111.865407,
+    40.768267,
+    -111.865407,
+    40.768267
+],
+  "geometry": {"coordinates":[-111.865407,40.768267],"type":"Point"}
+}

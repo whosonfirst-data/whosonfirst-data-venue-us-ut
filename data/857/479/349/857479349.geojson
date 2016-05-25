@@ -1,0 +1,77 @@
+{
+  "id": 857479349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.846264,40.747865,-111.846264,40.747865",
+    "geom:latitude":40.747865,
+    "geom:longitude":-111.846264,
+    "iso:country":"US",
+    "sg:address":"1513 Michigan Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 619 6453",
+    "sg:postcode":"84105",
+    "sg:province":"UT",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bV2aMUlrIpGh1ZbbQjgtZ_40.747865_-111.846264@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130359,
+    "wof:geomhash":"777c5dd1974699feef1f90ef05b32ca3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871031,
+            "region_id":85688567,
+            "venue_id":857479349
+        }
+    ],
+    "wof:id":857479349,
+    "wof:lastmodified":1464130359,
+    "wof:name":"Caldwell Ranching Co",
+    "wof:parent_id":85871031,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -111.846264,
+    40.747865,
+    -111.846264,
+    40.747865
+],
+  "geometry": {"coordinates":[-111.84626400000001,40.747865],"type":"Point"}
+}

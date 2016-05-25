@@ -1,0 +1,69 @@
+{
+  "id": 857207229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.674172,40.307313,-111.674172,40.307313",
+    "geom:latitude":40.307313,
+    "geom:longitude":-111.674172,
+    "iso:country":"US",
+    "sg:address":"548 N 900 E",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 3081",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Hkm2t5nIarFX5fteV39kY_40.307313_-111.674172@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124336,
+    "wof:geomhash":"ed55c7302cf7f7c62e8b7dcde912ff6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857207229
+        }
+    ],
+    "wof:id":857207229,
+    "wof:lastmodified":1464124336,
+    "wof:name":"Ralph Dent",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -111.674172,
+    40.307313,
+    -111.674172,
+    40.307313
+],
+  "geometry": {"coordinates":[-111.674172,40.307313],"type":"Point"}
+}

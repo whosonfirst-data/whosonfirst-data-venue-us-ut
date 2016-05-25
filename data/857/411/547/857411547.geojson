@@ -1,0 +1,73 @@
+{
+  "id": 857411547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.041317,41.179158,-112.041317,41.179158",
+    "geom:latitude":41.179158,
+    "geom:longitude":-112.041317,
+    "iso:country":"US",
+    "sg:address":"2560 W 4600 S",
+    "sg:city":"Roy",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 728 9800",
+    "sg:postcode":"84067",
+    "sg:province":"UT",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728023,
+        102083539,
+        85853469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hT3BBpaYJjJ6ADJuZANG3_41.179158_-112.041317@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128887,
+    "wof:geomhash":"eb5ad744ecc9a564d326f27f858357dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728023,
+            "neighbourhood_id":85853469,
+            "region_id":85688567,
+            "venue_id":857411547
+        }
+    ],
+    "wof:id":857411547,
+    "wof:lastmodified":1464128887,
+    "wof:name":"Westside Legal",
+    "wof:parent_id":85853469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -112.041317,
+    41.179158,
+    -112.041317,
+    41.179158
+],
+  "geometry": {"coordinates":[-112.04131700000001,41.179158],"type":"Point"}
+}

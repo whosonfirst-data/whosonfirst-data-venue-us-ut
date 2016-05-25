@@ -1,0 +1,77 @@
+{
+  "id": 857323007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.839323,40.665943,-111.839323,40.665943",
+    "geom:latitude":40.665943,
+    "geom:longitude":-111.839323,
+    "iso:country":"US",
+    "sg:address":"4696 Highland Dr",
+    "sg:city":"Holladay",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 277 0771",
+    "sg:postcode":"84117",
+    "sg:province":"UT",
+    "sg:tags":[
+        "hospital",
+        "veterinarian",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85825901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OVXdT1JP6BZeprJpqLcU1_40.665943_-111.839323@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126912,
+    "wof:geomhash":"c11afbc9101fa97941b7a41e6b8c4da9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85825901,
+            "region_id":85688567,
+            "venue_id":857323007
+        }
+    ],
+    "wof:id":857323007,
+    "wof:lastmodified":1464126912,
+    "wof:name":"Osguthorpe Animal Hospital",
+    "wof:parent_id":85825901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "veterinarian",
+        "animal"
+    ]
+},
+  "bbox": [
+    -111.839323,
+    40.665943,
+    -111.839323,
+    40.665943
+],
+  "geometry": {"coordinates":[-111.83932299999999,40.665943],"type":"Point"}
+}

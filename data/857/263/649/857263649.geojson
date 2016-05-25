@@ -1,0 +1,71 @@
+{
+  "id": 857263649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.901717,40.999142,-111.901717,40.999142",
+    "geom:latitude":40.999142,
+    "geom:longitude":-111.901717,
+    "iso:country":"US",
+    "sg:address":"641 W 1175 N",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 2551",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30xVlQ2RFKtqbyeCdEtG9f_40.999142_-111.901717@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125566,
+    "wof:geomhash":"468c96196286e0a09a46ac4ca472b617",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857263649
+        }
+    ],
+    "wof:id":857263649,
+    "wof:lastmodified":1464125566,
+    "wof:name":"Tuttle Construction",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -111.901717,
+    40.999142,
+    -111.901717,
+    40.999142
+],
+  "geometry": {"coordinates":[-111.901717,40.999142],"type":"Point"}
+}

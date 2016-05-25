@@ -1,0 +1,73 @@
+{
+  "id": 857408277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.8857,40.775701,-111.8857,40.775701",
+    "geom:latitude":40.775701,
+    "geom:longitude":-111.8857,
+    "iso:country":"US",
+    "sg:address":"233 N Canyon Rd",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 596 1730",
+    "sg:postcode":"84103",
+    "sg:province":"UT",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85809381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wgQ9GI3HYJFmxthPQaUVa_40.775701_-111.885700@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128800,
+    "wof:geomhash":"df6b42c10edc010d5205787b44e82e6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85809381,
+            "region_id":85688567,
+            "venue_id":857408277
+        }
+    ],
+    "wof:id":857408277,
+    "wof:lastmodified":1464128800,
+    "wof:name":"Salt Lake City Police Dept",
+    "wof:parent_id":85809381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -111.8857,
+    40.775701,
+    -111.8857,
+    40.775701
+],
+  "geometry": {"coordinates":[-111.8857,40.775701],"type":"Point"}
+}

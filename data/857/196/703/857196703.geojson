@@ -1,0 +1,80 @@
+{
+  "id": 857196703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.895969,40.585539,-111.895969,40.585539",
+    "geom:latitude":40.585539,
+    "geom:longitude":-111.895969,
+    "iso:country":"US",
+    "sg:address":"9131 Monroe St",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 307 0200",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85803467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3v5Sqnd37nZY7ylugK0JG1_40.585539_-111.895969@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124113,
+    "wof:geomhash":"ffd3a73bf71315ca6baaf07813025b07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85803467,
+            "region_id":85688567,
+            "venue_id":857196703
+        }
+    ],
+    "wof:id":857196703,
+    "wof:lastmodified":1464124113,
+    "wof:name":"Allied Health Systems",
+    "wof:parent_id":85803467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -111.895969,
+    40.585539,
+    -111.895969,
+    40.585539
+],
+  "geometry": {"coordinates":[-111.89596899999999,40.585539],"type":"Point"}
+}

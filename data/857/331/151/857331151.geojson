@@ -1,0 +1,73 @@
+{
+  "id": 857331151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.919338,40.725962,-111.919338,40.725962",
+    "geom:latitude":40.725962,
+    "geom:longitude":-111.919338,
+    "iso:country":"US",
+    "sg:address":"960 W 2100 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 973 0091",
+    "sg:postcode":"84119",
+    "sg:province":"UT",
+    "sg:tags":[
+        "outdoor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85828609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ReKSx8ZlpQ49kTIFy6HQA_40.725962_-111.919338@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127081,
+    "wof:geomhash":"de38c989cdff196950106c353a43eb8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85828609,
+            "region_id":85688567,
+            "venue_id":857331151
+        }
+    ],
+    "wof:id":857331151,
+    "wof:lastmodified":1464127081,
+    "wof:name":"Card Sign Advertising",
+    "wof:parent_id":85828609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "outdoor"
+    ]
+},
+  "bbox": [
+    -111.919338,
+    40.725962,
+    -111.919338,
+    40.725962
+],
+  "geometry": {"coordinates":[-111.919338,40.725962],"type":"Point"}
+}

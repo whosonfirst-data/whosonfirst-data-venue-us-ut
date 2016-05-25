@@ -1,0 +1,73 @@
+{
+  "id": 857280727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.9393,41.643081,-111.9393,41.643081",
+    "geom:latitude":41.643081,
+    "geom:longitude":-111.9393,
+    "iso:country":"US",
+    "sg:address":"274 N 200 W",
+    "sg:city":"Wellsville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 245 5600",
+    "sg:postcode":"84339",
+    "sg:province":"UT",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727555,
+        102082881,
+        85823067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hwaOUEuzhXmXOVbiIS043_41.643081_-111.939300@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125935,
+    "wof:geomhash":"73b99045f64b5d01c5a5c36b0b6236b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727555,
+            "neighbourhood_id":85823067,
+            "region_id":85688567,
+            "venue_id":857280727
+        }
+    ],
+    "wof:id":857280727,
+    "wof:lastmodified":1464125935,
+    "wof:name":"Family Preferred Mortgage",
+    "wof:parent_id":85823067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -111.9393,
+    41.643081,
+    -111.9393,
+    41.643081
+],
+  "geometry": {"coordinates":[-111.9393,41.643081],"type":"Point"}
+}

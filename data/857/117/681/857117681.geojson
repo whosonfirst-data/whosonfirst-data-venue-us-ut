@@ -1,0 +1,76 @@
+{
+  "id": 857117681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.875402,40.733509,-111.875402,40.733509",
+    "geom:latitude":40.733509,
+    "geom:longitude":-111.875402,
+    "iso:country":"US",
+    "sg:address":"501 E 1700 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 994 7222",
+    "sg:postcode":"84105",
+    "sg:province":"UT",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "sg:website":"www.slcdc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hB9zeWtGyl7aXZ2LPjigl_40.733509_-111.875402@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122403,
+    "wof:geomhash":"ba2b71b3b34c56691174a7bc613c330a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871027,
+            "region_id":85688567,
+            "venue_id":857117681
+        }
+    ],
+    "wof:id":857117681,
+    "wof:lastmodified":1464122403,
+    "wof:name":"Community Development Corp",
+    "wof:parent_id":85871027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -111.875402,
+    40.733509,
+    -111.875402,
+    40.733509
+],
+  "geometry": {"coordinates":[-111.87540199999999,40.733509],"type":"Point"}
+}

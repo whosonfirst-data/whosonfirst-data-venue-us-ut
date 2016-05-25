@@ -1,0 +1,73 @@
+{
+  "id": 857093263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.854678,40.641038,-111.854678,40.641038",
+    "geom:latitude":40.641038,
+    "geom:longitude":-111.854678,
+    "iso:country":"US",
+    "sg:address":"6070 S 1300 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 266 7831",
+    "sg:postcode":"84121",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85852959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SKESiqPz3ROKYx4zZDmPi_40.641038_-111.854678@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121756,
+    "wof:geomhash":"b2e24f289aa98e934db4cecc90269939",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85852959,
+            "region_id":85688567,
+            "venue_id":857093263
+        }
+    ],
+    "wof:id":857093263,
+    "wof:lastmodified":1464121756,
+    "wof:name":"Noel E Burns DDS",
+    "wof:parent_id":85852959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -111.854678,
+    40.641038,
+    -111.854678,
+    40.641038
+],
+  "geometry": {"coordinates":[-111.85467800000001,40.641038],"type":"Point"}
+}

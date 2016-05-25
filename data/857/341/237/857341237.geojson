@@ -1,0 +1,73 @@
+{
+  "id": 857341237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.02143,40.575442,-112.02143,40.575442",
+    "geom:latitude":40.575442,
+    "geom:longitude":-112.02143,
+    "iso:country":"US",
+    "sg:address":"5601 Axel Park Rd",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 280 0683",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728247,
+        102082877,
+        85813417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UZ3Zzxzq7gVD9thSfhftN_40.575442_-112.021430@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127301,
+    "wof:geomhash":"265617bbdb0dc4dd7fb65fe07f936319",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728247,
+            "neighbourhood_id":85813417,
+            "region_id":85688567,
+            "venue_id":857341237
+        }
+    ],
+    "wof:id":857341237,
+    "wof:lastmodified":1464127301,
+    "wof:name":"American Welding & Tank Co",
+    "wof:parent_id":85813417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -112.02143,
+    40.575442,
+    -112.02143,
+    40.575442
+],
+  "geometry": {"coordinates":[-112.02143,40.575442],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857211365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.661578,40.26101,-111.661578,40.26101",
+    "geom:latitude":40.26101,
+    "geom:longitude":-111.661578,
+    "iso:country":"US",
+    "sg:address":"1849 N Freedom Blvd",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 377 1511",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "sg:website":"www.raintreeapt.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Xw5T7Fp9GsfsFfkN5Mzbj_40.261010_-111.661578@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124425,
+    "wof:geomhash":"8428cbedcd74025c4e4017bf7c8c087a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880063,
+            "region_id":85688567,
+            "venue_id":857211365
+        }
+    ],
+    "wof:id":857211365,
+    "wof:lastmodified":1464124425,
+    "wof:name":"Raintree Apartments",
+    "wof:parent_id":85880063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -111.661578,
+    40.26101,
+    -111.661578,
+    40.26101
+],
+  "geometry": {"coordinates":[-111.66157800000001,40.26101],"type":"Point"}
+}

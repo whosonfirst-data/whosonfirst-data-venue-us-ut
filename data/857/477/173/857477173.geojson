@@ -1,0 +1,73 @@
+{
+  "id": 857477173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.067331,41.160108,-112.067331,41.160108",
+    "geom:latitude":41.160108,
+    "geom:longitude":-112.067331,
+    "iso:country":"US",
+    "sg:address":"5681 S 3600 W",
+    "sg:city":"Roy",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 985 1550",
+    "sg:postcode":"84067",
+    "sg:province":"UT",
+    "sg:tags":[
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85804651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RryeppI2Zhi8mz2ewDavP_41.160108_-112.067331@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130318,
+    "wof:geomhash":"5b98304ce560ed580c23bd5bda4d69dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85804651,
+            "region_id":85688567,
+            "venue_id":857477173
+        }
+    ],
+    "wof:id":857477173,
+    "wof:lastmodified":1464130318,
+    "wof:name":"Roylance Properties & Leasing",
+    "wof:parent_id":85804651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing"
+    ]
+},
+  "bbox": [
+    -112.067331,
+    41.160108,
+    -112.067331,
+    41.160108
+],
+  "geometry": {"coordinates":[-112.067331,41.160108],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857215959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.063237,41.178187,-112.063237,41.178187",
+    "geom:latitude":41.178187,
+    "geom:longitude":-112.063237,
+    "iso:country":"US",
+    "sg:address":"4645 Midland Dr",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 731 5600",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85804651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MlmixnhXd7d1buDxSi67t_41.178187_-112.063237@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124532,
+    "wof:geomhash":"de32bf880eb308d48df7302446fd2d45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85804651,
+            "region_id":85688567,
+            "venue_id":857215959
+        }
+    ],
+    "wof:id":857215959,
+    "wof:lastmodified":1464124532,
+    "wof:name":"Louis W Meyer DDS PC",
+    "wof:parent_id":85804651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -112.063237,
+    41.178187,
+    -112.063237,
+    41.178187
+],
+  "geometry": {"coordinates":[-112.063237,41.178187],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857199413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834528,41.751534,-111.834528,41.751534",
+    "geom:latitude":41.751534,
+    "geom:longitude":-111.834528,
+    "iso:country":"US",
+    "sg:address":"1045 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 6077",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7W4ylWb1dNeWpx5K2dKH0N_41.751534_-111.834528@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124164,
+    "wof:geomhash":"6ecb08c6d1878d98471205144b52abe2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857199413
+        }
+    ],
+    "wof:id":857199413,
+    "wof:lastmodified":1464124164,
+    "wof:name":"Threads n Things",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.834528,
+    41.751534,
+    -111.834528,
+    41.751534
+],
+  "geometry": {"coordinates":[-111.83452800000001,41.751534],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857346631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.846202,41.731484,-111.846202,41.731484",
+    "geom:latitude":41.731484,
+    "geom:longitude":-111.846202,
+    "iso:country":"US",
+    "sg:address":"478 W Center St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 787 1865",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5m5H9beAcL48oaICqoY8yH_41.731484_-111.846202@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127408,
+    "wof:geomhash":"bf6c8822fbd22f775d8bd546209602e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857346631
+        }
+    ],
+    "wof:id":857346631,
+    "wof:lastmodified":1464127408,
+    "wof:name":"C J Electric",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.846202,
+    41.731484,
+    -111.846202,
+    41.731484
+],
+  "geometry": {"coordinates":[-111.84620200000001,41.731484],"type":"Point"}
+}

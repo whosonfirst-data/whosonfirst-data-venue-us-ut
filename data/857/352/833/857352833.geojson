@@ -1,0 +1,73 @@
+{
+  "id": 857352833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.504978,37.127629,-113.504978,37.127629",
+    "geom:latitude":37.127629,
+    "geom:longitude":-113.504978,
+    "iso:country":"US",
+    "sg:address":"250 E 200 S",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 674 5650",
+    "sg:postcode":"84780",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7d5rg36yfaaRevD5lsFIE4_37.127629_-113.504978@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127550,
+    "wof:geomhash":"875b51a645f447f13caad66d0e6908ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857352833
+        }
+    ],
+    "wof:id":857352833,
+    "wof:lastmodified":1464127550,
+    "wof:name":"Street Stylin Salon",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -113.504978,
+    37.127629,
+    -113.504978,
+    37.127629
+],
+  "geometry": {"coordinates":[-113.50497799999999,37.127629],"type":"Point"}
+}

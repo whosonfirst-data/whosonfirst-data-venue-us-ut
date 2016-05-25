@@ -1,0 +1,75 @@
+{
+  "id": 857446881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.65411,40.300112,-111.65411,40.300112",
+    "geom:latitude":40.300112,
+    "geom:longitude":-111.65411,
+    "iso:country":"US",
+    "sg:address":"4994 N Canyon Rd",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 5227",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02BRXQMqLDZjtmxfN2UxvP_40.300112_-111.654110@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129699,
+    "wof:geomhash":"2843c0112cf0ac979e6406d26b8d8902",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880091,
+            "region_id":85688567,
+            "venue_id":857446881
+        }
+    ],
+    "wof:id":857446881,
+    "wof:lastmodified":1464129699,
+    "wof:name":"Painting & Coating Systems",
+    "wof:parent_id":85880091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.65411,
+    40.300112,
+    -111.65411,
+    40.300112
+],
+  "geometry": {"coordinates":[-111.65411,40.300112],"type":"Point"}
+}

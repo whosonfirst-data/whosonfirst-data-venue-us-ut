@@ -1,0 +1,73 @@
+{
+  "id": 857420101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.025502,41.227545,-112.025502,41.227545",
+    "geom:latitude":41.227545,
+    "geom:longitude":-112.025502,
+    "iso:country":"US",
+    "sg:address":"2134 S 1900 W",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 731 5199",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85818351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fMGqJX2ixwAVohGda6JrH_41.227545_-112.025502@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129095,
+    "wof:geomhash":"1dd3ea79a5de1d93306f335a025fd034",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85818351,
+            "region_id":85688567,
+            "venue_id":857420101
+        }
+    ],
+    "wof:id":857420101,
+    "wof:lastmodified":1464129095,
+    "wof:name":"T & N Cycle",
+    "wof:parent_id":85818351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -112.025502,
+    41.227545,
+    -112.025502,
+    41.227545
+],
+  "geometry": {"coordinates":[-112.025502,41.227545],"type":"Point"}
+}

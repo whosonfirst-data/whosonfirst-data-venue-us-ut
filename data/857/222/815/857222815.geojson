@@ -1,0 +1,75 @@
+{
+  "id": 857222815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.976917,41.070728,-111.976917,41.070728",
+    "geom:latitude":41.070728,
+    "geom:longitude":-111.976917,
+    "iso:country":"US",
+    "sg:address":"645 N Main St",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 444 1777",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "brokerage",
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Nl70S2uYyGQPSNMsNmwzM_41.070728_-111.976917@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124671,
+    "wof:geomhash":"134aa113bce83db40d1af198a3f9691d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857222815
+        }
+    ],
+    "wof:id":857222815,
+    "wof:lastmodified":1464124671,
+    "wof:name":"New Line Auto Credit",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brokerage",
+        "loan"
+    ]
+},
+  "bbox": [
+    -111.976917,
+    41.070728,
+    -111.976917,
+    41.070728
+],
+  "geometry": {"coordinates":[-111.976917,41.070728],"type":"Point"}
+}

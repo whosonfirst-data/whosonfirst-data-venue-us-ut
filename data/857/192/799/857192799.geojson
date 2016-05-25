@@ -1,0 +1,75 @@
+{
+  "id": 857192799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.845962,40.421997,-111.845962,40.421997",
+    "geom:latitude":40.421997,
+    "geom:longitude":-111.845962,
+    "iso:country":"US",
+    "sg:address":"248 E 2700 N",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 768 3510",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727857,
+        102083567,
+        85836317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eKnfZhm3tRtoelYJMrK5v_40.421997_-111.845962@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124038,
+    "wof:geomhash":"9b9edf0e96617fbf85dc1d8cd267a8c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727857,
+            "neighbourhood_id":85836317,
+            "region_id":85688567,
+            "venue_id":857192799
+        }
+    ],
+    "wof:id":857192799,
+    "wof:lastmodified":1464124038,
+    "wof:name":"Basin Electric LLC",
+    "wof:parent_id":85836317,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.845962,
+    40.421997,
+    -111.845962,
+    40.421997
+],
+  "geometry": {"coordinates":[-111.845962,40.421997],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857161735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.949342,41.133644,-111.949342,41.133644",
+    "geom:latitude":41.133644,
+    "geom:longitude":-111.949342,
+    "iso:country":"US",
+    "sg:address":"7385 S 1200 E",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 546 0913",
+    "sg:postcode":"84405",
+    "sg:province":"UT",
+    "sg:tags":[
+        "pipeline",
+        "work",
+        "cement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85844663,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bglLqJNJYapUjR9eHTZPc_41.133644_-111.949342@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123398,
+    "wof:geomhash":"16a12871ab05312fdaf6926b1ba113c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "neighbourhood_id":85844663,
+            "region_id":85688567,
+            "venue_id":857161735
+        }
+    ],
+    "wof:id":857161735,
+    "wof:lastmodified":1464123398,
+    "wof:name":"Eddy L Shaw Construction Co",
+    "wof:parent_id":85844663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pipeline",
+        "work",
+        "cement"
+    ]
+},
+  "bbox": [
+    -111.949342,
+    41.133644,
+    -111.949342,
+    41.133644
+],
+  "geometry": {"coordinates":[-111.949342,41.133644],"type":"Point"}
+}

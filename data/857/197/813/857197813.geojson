@@ -1,0 +1,69 @@
+{
+  "id": 857197813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.850018,40.597427,-111.850018,40.597427",
+    "geom:latitude":40.597427,
+    "geom:longitude":-111.850018,
+    "iso:country":"US",
+    "sg:address":"8501 S 1430 E",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 566 6928",
+    "sg:postcode":"84093",
+    "sg:province":"UT",
+    "sg:tags":[
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85847325,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Jh3NGytMGOgh5L0t3jGJO_40.597427_-111.850018@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124135,
+    "wof:geomhash":"9333cdf314e45dc9f073207e2ad2e56c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85847325,
+            "region_id":85688567,
+            "venue_id":857197813
+        }
+    ],
+    "wof:id":857197813,
+    "wof:lastmodified":1464124135,
+    "wof:name":"Architectual Designs",
+    "wof:parent_id":85847325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architectural"
+    ]
+},
+  "bbox": [
+    -111.850018,
+    40.597427,
+    -111.850018,
+    40.597427
+],
+  "geometry": {"coordinates":[-111.85001800000001,40.597427],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857407265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.597777,40.125544,-111.597777,40.125544",
+    "geom:latitude":40.125544,
+    "geom:longitude":-111.597777,
+    "iso:country":"US",
+    "sg:address":"664 S Alvey Dr",
+    "sg:city":"Mapleton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 491 6822",
+    "sg:postcode":"84664",
+    "sg:province":"UT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76VYYG9ePHbOdtpCTsuDxI_40.125544_-111.597777@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128778,
+    "wof:geomhash":"93567028bfa3d20193c5a0f8f9f51b3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857407265
+        }
+    ],
+    "wof:id":857407265,
+    "wof:lastmodified":1464128778,
+    "wof:name":"Premier Landscape",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.597777,
+    40.125544,
+    -111.597777,
+    40.125544
+],
+  "geometry": {"coordinates":[-111.59777699999999,40.125544],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857426267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.007118,41.060128,-112.007118,41.060128",
+    "geom:latitude":41.060128,
+    "geom:longitude":-112.007118,
+    "iso:country":"US",
+    "sg:address":"142 S 2200 W",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 444 0273",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "investment",
+        "closed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85868169,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HeoCpy0kJsDU3mLP1993Q_41.060128_-112.007118@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129263,
+    "wof:geomhash":"7f4ae05dc3e2e0dc771b6ce700c2c284",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "neighbourhood_id":85868169,
+            "region_id":85688567,
+            "venue_id":857426267
+        }
+    ],
+    "wof:id":857426267,
+    "wof:lastmodified":1464129263,
+    "wof:name":"M & W Investments LLC",
+    "wof:parent_id":85868169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investment",
+        "closed"
+    ]
+},
+  "bbox": [
+    -112.007118,
+    41.060128,
+    -112.007118,
+    41.060128
+],
+  "geometry": {"coordinates":[-112.00711800000001,41.060128],"type":"Point"}
+}

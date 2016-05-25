@@ -1,0 +1,73 @@
+{
+  "id": 857201801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.859771,40.74972,-111.859771,40.74972",
+    "geom:latitude":40.74972,
+    "geom:longitude":-111.859771,
+    "iso:country":"US",
+    "sg:address":"1054 E 900 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 359 4021",
+    "sg:postcode":"84105",
+    "sg:province":"UT",
+    "sg:tags":[
+        "psychotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85858577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CxfPJjpEyxE8JYLWHuI5M_40.749720_-111.859771@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124209,
+    "wof:geomhash":"0deb34fce5e4ac099423dd75ebd613bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85858577,
+            "region_id":85688567,
+            "venue_id":857201801
+        }
+    ],
+    "wof:id":857201801,
+    "wof:lastmodified":1464124209,
+    "wof:name":"Katie Coco",
+    "wof:parent_id":85858577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychotherapist"
+    ]
+},
+  "bbox": [
+    -111.859771,
+    40.74972,
+    -111.859771,
+    40.74972
+],
+  "geometry": {"coordinates":[-111.85977099999999,40.74972],"type":"Point"}
+}

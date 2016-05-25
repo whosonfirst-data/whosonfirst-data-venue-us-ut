@@ -1,0 +1,68 @@
+{
+  "id": 857270069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.017408,40.640132,-112.017408,40.640132",
+    "geom:latitude":40.640132,
+    "geom:longitude":-112.017408,
+    "iso:country":"US",
+    "sg:address":"6124 Van Gogh Cir",
+    "sg:city":"Kearns",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 967 8028",
+    "sg:postcode":"84118",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85840625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78WqyAPpXpcJgTTVJu5PA1_40.640132_-112.017408@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125686,
+    "wof:geomhash":"f7622c3f19f86a0469eb8d229709ebfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85840625,
+            "region_id":85688567,
+            "venue_id":857270069
+        }
+    ],
+    "wof:id":857270069,
+    "wof:lastmodified":1464125686,
+    "wof:name":"Joe's Pest Control",
+    "wof:parent_id":85840625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.017408,
+    40.640132,
+    -112.017408,
+    40.640132
+],
+  "geometry": {"coordinates":[-112.017408,40.640132],"type":"Point"}
+}

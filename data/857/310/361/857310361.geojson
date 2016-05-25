@@ -1,0 +1,75 @@
+{
+  "id": 857310361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.949656,41.179727,-111.949656,41.179727",
+    "geom:latitude":41.179727,
+    "geom:longitude":-111.949656,
+    "iso:country":"US",
+    "sg:address":"1186 E 4600 S",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 611 4550",
+    "sg:postcode":"84403",
+    "sg:province":"UT",
+    "sg:tags":[
+        "consulting",
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85804639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31ZnDdnrlpgcz4C7meo5BW_41.179727_-111.949656@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126625,
+    "wof:geomhash":"c53a50a1e917b46e34524055ac5d74f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85804639,
+            "region_id":85688567,
+            "venue_id":857310361
+        }
+    ],
+    "wof:id":857310361,
+    "wof:lastmodified":1464126625,
+    "wof:name":"Workers Compensation Fund",
+    "wof:parent_id":85804639,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting",
+        "management"
+    ]
+},
+  "bbox": [
+    -111.949656,
+    41.179727,
+    -111.949656,
+    41.179727
+],
+  "geometry": {"coordinates":[-111.949656,41.179727],"type":"Point"}
+}

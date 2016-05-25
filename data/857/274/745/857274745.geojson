@@ -1,0 +1,73 @@
+{
+  "id": 857274745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.782287,40.356543,-111.782287,40.356543",
+    "geom:latitude":40.356543,
+    "geom:longitude":-111.782287,
+    "iso:country":"US",
+    "sg:address":"1072 S 630 E",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 847 4000",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "car",
+        "dealership",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6B0cPRWQ2okRqqtoTtEisM_40.356543_-111.782287@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125785,
+    "wof:geomhash":"6759c66f41d4576ccb0daa273cdf05e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857274745
+        }
+    ],
+    "wof:id":857274745,
+    "wof:lastmodified":1464125785,
+    "wof:name":"Land Rover American Fork",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealership",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -111.782287,
+    40.356543,
+    -111.782287,
+    40.356543
+],
+  "geometry": {"coordinates":[-111.782287,40.356543],"type":"Point"}
+}

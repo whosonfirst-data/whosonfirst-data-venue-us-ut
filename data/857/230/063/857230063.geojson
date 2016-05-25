@@ -1,0 +1,73 @@
+{
+  "id": 857230063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.833663,41.731281,-111.833663,41.731281",
+    "geom:latitude":41.731281,
+    "geom:longitude":-111.833663,
+    "iso:country":"US",
+    "sg:address":"60 E Center St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 787 8413",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "utility",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HDLPcYv9wjNMAaWzjAV2L_41.731281_-111.833663@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124809,
+    "wof:geomhash":"b2cfb16d660b6d639e2c37ffe1d16bb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857230063
+        }
+    ],
+    "wof:id":857230063,
+    "wof:lastmodified":1464124809,
+    "wof:name":"Elm Locating & Utility Svc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "utility",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.833663,
+    41.731281,
+    -111.833663,
+    41.731281
+],
+  "geometry": {"coordinates":[-111.833663,41.731281],"type":"Point"}
+}

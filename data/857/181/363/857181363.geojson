@@ -1,0 +1,73 @@
+{
+  "id": 857181363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.658481,40.281685,-111.658481,40.281685",
+    "geom:latitude":40.281685,
+    "geom:longitude":-111.658481,
+    "iso:country":"US",
+    "sg:address":"3585 N University Ave",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 374 5336",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85817395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ubgz2gW9EXE1gXUOkjWET_40.281685_-111.658481@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123822,
+    "wof:geomhash":"04029e96d3a85be14a65c9fe2c8daf16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85817395,
+            "region_id":85688567,
+            "venue_id":857181363
+        }
+    ],
+    "wof:id":857181363,
+    "wof:lastmodified":1464123822,
+    "wof:name":"Keen Law Offices",
+    "wof:parent_id":85817395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -111.658481,
+    40.281685,
+    -111.658481,
+    40.281685
+],
+  "geometry": {"coordinates":[-111.65848099999999,40.281685],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857336729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.047462,41.09241,-112.047462,41.09241",
+    "geom:latitude":41.09241,
+    "geom:longitude":-112.047462,
+    "iso:country":"US",
+    "sg:address":"1553 S 1100 W",
+    "sg:city":"Syracuse",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 779 0749",
+    "sg:postcode":"84075",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727889,
+        102083563,
+        85804563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pkzSapETjw1gqff5FGYjd_41.092410_-112.047462@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127203,
+    "wof:geomhash":"aaf1a46458f95891f412e126e10bcf8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727889,
+            "neighbourhood_id":85804563,
+            "region_id":85688567,
+            "venue_id":857336729
+        }
+    ],
+    "wof:id":857336729,
+    "wof:lastmodified":1464127203,
+    "wof:name":"Horace Mann Insurance Agency",
+    "wof:parent_id":85804563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.047462,
+    41.09241,
+    -112.047462,
+    41.09241
+],
+  "geometry": {"coordinates":[-112.047462,41.09241],"type":"Point"}
+}

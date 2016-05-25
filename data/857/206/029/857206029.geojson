@@ -1,0 +1,71 @@
+{
+  "id": 857206029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.83392,41.787171,-111.83392,41.787171",
+    "geom:latitude":41.787171,
+    "geom:longitude":-111.83392,
+    "iso:country":"US",
+    "sg:address":"2865 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 797 3245",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "university"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5joh2CEgGsUMlGNCviw4Zd_41.787171_-111.833920@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124313,
+    "wof:geomhash":"dcc2b162bca2ce6a235535f3babfde8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857206029
+        }
+    ],
+    "wof:id":857206029,
+    "wof:lastmodified":1464124313,
+    "wof:name":"Dept Spcial Edcatn Rhblitation",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "university"
+    ]
+},
+  "bbox": [
+    -111.83392,
+    41.787171,
+    -111.83392,
+    41.787171
+],
+  "geometry": {"coordinates":[-111.83392000000001,41.787171],"type":"Point"}
+}

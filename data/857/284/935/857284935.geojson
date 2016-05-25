@@ -1,0 +1,71 @@
+{
+  "id": 857284935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.784754,40.373886,-111.784754,40.373886",
+    "geom:latitude":40.373886,
+    "geom:longitude":-111.784754,
+    "iso:country":"US",
+    "sg:address":"575 E State Rd",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 772 0325",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6unxE78bwGFlXsVj98TWXF_40.373886_-111.784754@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126020,
+    "wof:geomhash":"266d712b9bbd1aff55d58eb43ac7844d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857284935
+        }
+    ],
+    "wof:id":857284935,
+    "wof:lastmodified":1464126020,
+    "wof:name":"Hart's Carwash",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -111.784754,
+    40.373886,
+    -111.784754,
+    40.373886
+],
+  "geometry": {"coordinates":[-111.78475400000001,40.373886],"type":"Point"}
+}

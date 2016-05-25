@@ -1,0 +1,68 @@
+{
+  "id": 857446183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.659713,40.236351,-111.659713,40.236351",
+    "geom:latitude":40.236351,
+    "geom:longitude":-111.659713,
+    "iso:country":"US",
+    "sg:address":"55 W 200 N",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 2444",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oR0jjMujHT9GleuRzrOh8_40.236351_-111.659713@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129685,
+    "wof:geomhash":"e85592c3b35c1642ac29e12927216f5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880065,
+            "region_id":85688567,
+            "venue_id":857446183
+        }
+    ],
+    "wof:id":857446183,
+    "wof:lastmodified":1464129685,
+    "wof:name":"Keystone Real Estate",
+    "wof:parent_id":85880065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.659713,
+    40.236351,
+    -111.659713,
+    40.236351
+],
+  "geometry": {"coordinates":[-111.659713,40.236351],"type":"Point"}
+}

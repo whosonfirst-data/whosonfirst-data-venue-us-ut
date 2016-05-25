@@ -1,0 +1,83 @@
+{
+  "id": 857495701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.890639,40.508531,-111.890639,40.508531",
+    "geom:latitude":40.508531,
+    "geom:longitude":-111.890639,
+    "iso:country":"US",
+    "sg:address":"13997 South Minuteman Drive Suite 300",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "chat",
+        "ecommerce",
+        "social-commerce",
+        "mobile-commerce",
+        "mobile-chat",
+        "crowd-sourcing"
+    ],
+    "sg:website":"http://needle.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727849,
+        102082877,
+        85815185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06KFJzVOaRqZMBbIIstq2A_40.508531_-111.890639@1308186501"
+    },
+    "wof:country":"US",
+    "wof:created":1464130810,
+    "wof:geomhash":"43b55064059969aa5fe4001c16a83a9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85815185,
+            "region_id":85688567,
+            "venue_id":857495701
+        }
+    ],
+    "wof:id":857495701,
+    "wof:lastmodified":1464130810,
+    "wof:name":"Needle",
+    "wof:parent_id":85815185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chat",
+        "ecommerce",
+        "social-commerce",
+        "mobile-commerce",
+        "mobile-chat",
+        "crowd-sourcing"
+    ]
+},
+  "bbox": [
+    -111.890639,
+    40.508531,
+    -111.890639,
+    40.508531
+],
+  "geometry": {"coordinates":[-111.89063899999999,40.508531],"type":"Point"}
+}

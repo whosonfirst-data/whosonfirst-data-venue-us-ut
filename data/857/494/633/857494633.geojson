@@ -1,0 +1,74 @@
+{
+  "id": 857494633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.888562,40.525979,-111.888562,40.525979",
+    "geom:latitude":40.525979,
+    "geom:longitude":-111.888562,
+    "iso:country":"US",
+    "sg:address":"12361 Minuteman Dr",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/34061-fazolis/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 816 0305",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727849,
+        102082877,
+        85823005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32gzLtJtP47MH7Tc26Mbz2_40.526034_-111.888435@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130755,
+    "wof:geomhash":"76cf6ed185eaeeddf0b135ae51fb6d1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85823005,
+            "region_id":85688567,
+            "venue_id":857494633
+        }
+    ],
+    "wof:id":857494633,
+    "wof:lastmodified":1464130755,
+    "wof:name":"Fazoli's",
+    "wof:parent_id":85823005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -111.888562,
+    40.525979,
+    -111.888562,
+    40.525979
+],
+  "geometry": {"coordinates":[-111.88856199999999,40.525979],"type":"Point"}
+}

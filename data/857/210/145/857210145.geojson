@@ -1,0 +1,75 @@
+{
+  "id": 857210145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.799274,41.803762,-111.799274,41.803762",
+    "geom:latitude":41.803762,
+    "geom:longitude":-111.799274,
+    "iso:country":"US",
+    "sg:address":"235 Kal Ridge Ln",
+    "sg:city":"Hyde Park",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 563 0764",
+    "sg:postcode":"84318",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eE3AzMtH4zM17enIHXBHM_41.803762_-111.799274@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124393,
+    "wof:geomhash":"800a31372224a721f0f8efc278dc919a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857210145
+        }
+    ],
+    "wof:id":857210145,
+    "wof:lastmodified":1464124393,
+    "wof:name":"Integ Detailing LLC",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -111.799274,
+    41.803762,
+    -111.799274,
+    41.803762
+],
+  "geometry": {"coordinates":[-111.799274,41.803762],"type":"Point"}
+}

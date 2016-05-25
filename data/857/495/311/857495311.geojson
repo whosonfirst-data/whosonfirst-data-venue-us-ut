@@ -1,0 +1,74 @@
+{
+  "id": 857495311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.563384,37.109775,-113.563384,37.109775",
+    "geom:latitude":37.109775,
+    "geom:longitude":-113.563384,
+    "iso:country":"US",
+    "sg:address":"938 E Saint George Blvd",
+    "sg:city":"Saint George",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/st-george/218158-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 628 1516",
+    "sg:postcode":"84770",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GshYh5uF5nlzBI6r9lgiK_37.109716_-113.563490@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130788,
+    "wof:geomhash":"49fc3cd4ae58ec48bf248b6a8f673eb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857495311
+        }
+    ],
+    "wof:id":857495311,
+    "wof:lastmodified":1464130788,
+    "wof:name":"Burger King",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -113.563384,
+    37.109775,
+    -113.563384,
+    37.109775
+],
+  "geometry": {"coordinates":[-113.563384,37.109775],"type":"Point"}
+}

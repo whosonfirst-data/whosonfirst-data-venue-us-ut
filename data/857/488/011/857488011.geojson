@@ -1,0 +1,75 @@
+{
+  "id": 857488011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.890848,40.553276,-111.890848,40.553276",
+    "geom:latitude":40.553276,
+    "geom:longitude":-111.890848,
+    "iso:country":"US",
+    "sg:address":"10970 S State St",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 553 5656",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85850585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bL6Xulj2FpnNxbUKzgWM7_40.553276_-111.890848@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130537,
+    "wof:geomhash":"838918ea1aaf1d9218613ddefa0d7c0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85850585,
+            "region_id":85688567,
+            "venue_id":857488011
+        }
+    ],
+    "wof:id":857488011,
+    "wof:lastmodified":1464130537,
+    "wof:name":"Larry H's Quick Lube",
+    "wof:parent_id":85850585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -111.890848,
+    40.553276,
+    -111.890848,
+    40.553276
+],
+  "geometry": {"coordinates":[-111.89084800000001,40.553276],"type":"Point"}
+}

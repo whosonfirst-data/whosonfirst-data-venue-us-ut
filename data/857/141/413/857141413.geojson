@@ -1,0 +1,68 @@
+{
+  "id": 857141413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.391098,37.20942,-113.391098,37.20942",
+    "geom:latitude":37.20942,
+    "geom:longitude":-113.391098,
+    "iso:country":"US",
+    "sg:address":"30 Redbluff Dr",
+    "sg:city":"Hurricane",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 879 2091",
+    "sg:postcode":"84737",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727631,
+        102082879,
+        85824093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mJ4Lmhc2YQTVJ4VSaSfRW_37.209420_-113.391098@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122927,
+    "wof:geomhash":"306cc005e7b6b031fab4efb50cb3ad38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727631,
+            "neighbourhood_id":85824093,
+            "region_id":85688567,
+            "venue_id":857141413
+        }
+    ],
+    "wof:id":857141413,
+    "wof:lastmodified":1464122927,
+    "wof:name":"Sweet Williams",
+    "wof:parent_id":85824093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.391098,
+    37.20942,
+    -113.391098,
+    37.20942
+],
+  "geometry": {"coordinates":[-113.391098,37.20942],"type":"Point"}
+}

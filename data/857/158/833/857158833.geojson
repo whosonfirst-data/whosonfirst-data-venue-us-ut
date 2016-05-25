@@ -1,0 +1,73 @@
+{
+  "id": 857158833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.925617,40.631326,-111.925617,40.631326",
+    "geom:latitude":40.631326,
+    "geom:longitude":-111.925617,
+    "iso:country":"US",
+    "sg:address":"6502 River Edge Ln",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 293 8081",
+    "sg:postcode":"84123",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85853339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mIwMgYAZKN1hrVTUpxjLm_40.631326_-111.925617@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123324,
+    "wof:geomhash":"dd69bf1302b5cbe31189007b84ee0c2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85853339,
+            "region_id":85688567,
+            "venue_id":857158833
+        }
+    ],
+    "wof:id":857158833,
+    "wof:lastmodified":1464123324,
+    "wof:name":"Paradise Heating & Air Conditi",
+    "wof:parent_id":85853339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.925617,
+    40.631326,
+    -111.925617,
+    40.631326
+],
+  "geometry": {"coordinates":[-111.925617,40.631326],"type":"Point"}
+}

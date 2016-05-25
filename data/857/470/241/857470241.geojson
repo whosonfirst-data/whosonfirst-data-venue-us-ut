@@ -1,0 +1,73 @@
+{
+  "id": 857470241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.847944,41.725081,-111.847944,41.725081",
+    "geom:latitude":41.725081,
+    "geom:longitude":-111.847944,
+    "iso:country":"US",
+    "sg:address":"352 S 500 W",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 9797",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7D2myq39bOtXE3ynabED7f_41.725081_-111.847944@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130175,
+    "wof:geomhash":"498e9ba741422dc7378edd29ea4d6de3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857470241
+        }
+    ],
+    "wof:id":857470241,
+    "wof:lastmodified":1464130175,
+    "wof:name":"Meadowbrook Senior Svc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -111.847944,
+    41.725081,
+    -111.847944,
+    41.725081
+],
+  "geometry": {"coordinates":[-111.847944,41.725081],"type":"Point"}
+}

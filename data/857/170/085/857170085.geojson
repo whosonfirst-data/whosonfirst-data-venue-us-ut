@@ -1,0 +1,73 @@
+{
+  "id": 857170085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.871244,40.718175,-111.871244,40.718175",
+    "geom:latitude":40.718175,
+    "geom:longitude":-111.871244,
+    "iso:country":"US",
+    "sg:address":"2459 S 700 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 485 9487",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_173bgKe0ZsDkTFNq4ivuwf_40.718175_-111.871244@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123587,
+    "wof:geomhash":"6c8e0e4005c57d61bb3f0118a3563b6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871027,
+            "region_id":85688567,
+            "venue_id":857170085
+        }
+    ],
+    "wof:id":857170085,
+    "wof:lastmodified":1464123587,
+    "wof:name":"J B Refrigeration",
+    "wof:parent_id":85871027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.871244,
+    40.718175,
+    -111.871244,
+    40.718175
+],
+  "geometry": {"coordinates":[-111.871244,40.718175],"type":"Point"}
+}

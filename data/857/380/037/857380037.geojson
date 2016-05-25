@@ -1,0 +1,73 @@
+{
+  "id": 857380037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.888182,40.688215,-111.888182,40.688215",
+    "geom:latitude":40.688215,
+    "geom:longitude":-111.888182,
+    "iso:country":"US",
+    "sg:address":"3793 S State St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 261 9111",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85810147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3V6e8LiYml4qJwYBPKN0VY_40.688215_-111.888182@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128121,
+    "wof:geomhash":"83e706092b24bd90107f3e3758cb2780",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85810147,
+            "region_id":85688567,
+            "venue_id":857380037
+        }
+    ],
+    "wof:id":857380037,
+    "wof:lastmodified":1464128121,
+    "wof:name":"Amarillo Club II",
+    "wof:parent_id":85810147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -111.888182,
+    40.688215,
+    -111.888182,
+    40.688215
+],
+  "geometry": {"coordinates":[-111.888182,40.688215],"type":"Point"}
+}

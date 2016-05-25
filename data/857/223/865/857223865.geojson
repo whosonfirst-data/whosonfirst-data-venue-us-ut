@@ -1,0 +1,68 @@
+{
+  "id": 857223865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.969132,40.712211,-111.969132,40.712211",
+    "geom:latitude":40.712211,
+    "geom:longitude":-111.969132,
+    "iso:country":"US",
+    "sg:address":"2621 S 3270 W",
+    "sg:city":"West Valley",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 972 1898",
+    "sg:postcode":"84119",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85844521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QdORCIMU4PVFrvq7CgtDh_40.712211_-111.969132@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124690,
+    "wof:geomhash":"372c938dc1d0ad46608502ed20cde194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85844521,
+            "region_id":85688567,
+            "venue_id":857223865
+        }
+    ],
+    "wof:id":857223865,
+    "wof:lastmodified":1464124690,
+    "wof:name":"Nicholas Poulos",
+    "wof:parent_id":85844521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.969132,
+    40.712211,
+    -111.969132,
+    40.712211
+],
+  "geometry": {"coordinates":[-111.969132,40.712211],"type":"Point"}
+}

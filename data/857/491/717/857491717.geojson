@@ -1,0 +1,78 @@
+{
+  "id": 857491717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.88524,40.525773,-111.88524,40.525773",
+    "geom:latitude":40.525773,
+    "geom:longitude":-111.88524,
+    "iso:country":"US",
+    "sg:address":"148 E 12300 S",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/116231-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 523 5824",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727849,
+        102082877,
+        85823005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SXjx8Vcg5dbn06vdaMSQn_40.525773_-111.885240@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130649,
+    "wof:geomhash":"e632ce9a4566cada1ed5f5ebc9421d72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85823005,
+            "region_id":85688567,
+            "venue_id":857491717
+        }
+    ],
+    "wof:id":857491717,
+    "wof:lastmodified":1464130649,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85823005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -111.88524,
+    40.525773,
+    -111.88524,
+    40.525773
+],
+  "geometry": {"coordinates":[-111.88524,40.525773],"type":"Point"}
+}

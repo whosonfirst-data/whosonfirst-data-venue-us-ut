@@ -1,0 +1,76 @@
+{
+  "id": 857488273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.656626,40.11068,-111.656626,40.11068",
+    "geom:latitude":40.11068,
+    "geom:longitude":-111.656626,
+    "iso:country":"US",
+    "sg:address":"37 N 100 W",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 7179",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "tarpaulin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LrpftVu9miRh2dQyurQGg_40.110680_-111.656626@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130542,
+    "wof:geomhash":"9314fadb16031fb7d77b3a7bbf3e07a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857488273
+        }
+    ],
+    "wof:id":857488273,
+    "wof:lastmodified":1464130542,
+    "wof:name":"Shepherd's Tarps & Upholstery",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tarpaulin"
+    ]
+},
+  "bbox": [
+    -111.656626,
+    40.11068,
+    -111.656626,
+    40.11068
+],
+  "geometry": {"coordinates":[-111.656626,40.11068],"type":"Point"}
+}

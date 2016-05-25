@@ -1,0 +1,75 @@
+{
+  "id": 857215463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.023129,40.580212,-112.023129,40.580212",
+    "geom:latitude":40.580212,
+    "geom:longitude":-112.023129,
+    "iso:country":"US",
+    "sg:address":"5565 Leo Park Rd",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 280 7473",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728247,
+        102082877,
+        85813417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PtktL35JwUbCoswSGIzUS_40.580212_-112.023129@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124523,
+    "wof:geomhash":"00db8870b0c3c8fdccd855e41f25e0b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728247,
+            "neighbourhood_id":85813417,
+            "region_id":85688567,
+            "venue_id":857215463
+        }
+    ],
+    "wof:id":857215463,
+    "wof:lastmodified":1464124523,
+    "wof:name":"C L Wayman Pipeline",
+    "wof:parent_id":85813417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -112.023129,
+    40.580212,
+    -112.023129,
+    40.580212
+],
+  "geometry": {"coordinates":[-112.023129,40.580212],"type":"Point"}
+}

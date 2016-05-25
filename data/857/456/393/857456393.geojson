@@ -1,0 +1,68 @@
+{
+  "id": 857456393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.976709,41.195458,-111.976709,41.195458",
+    "geom:latitude":41.195458,
+    "geom:longitude":-111.976709,
+    "iso:country":"US",
+    "sg:address":"4000 Newgate Mall",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 392 0689",
+    "sg:postcode":"84405",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728021,
+        102083539,
+        85810865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JfKkjdq5weEZ0MzcYHlUy_41.195458_-111.976709@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129879,
+    "wof:geomhash":"a018c169db589d6c8fc0727f0c27df06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728021,
+            "neighbourhood_id":85810865,
+            "region_id":85688567,
+            "venue_id":857456393
+        }
+    ],
+    "wof:id":857456393,
+    "wof:lastmodified":1464129879,
+    "wof:name":"Dillards 931",
+    "wof:parent_id":85810865,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.976709,
+    41.195458,
+    -111.976709,
+    41.195458
+],
+  "geometry": {"coordinates":[-111.976709,41.195458],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857327637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.937442,41.017975,-111.937442,41.017975",
+    "geom:latitude":41.017975,
+    "geom:longitude":-111.937442,
+    "iso:country":"US",
+    "sg:address":"52 E 1000 S",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 547 0557",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1snA3HU05Z8JRy95Leec94_41.017975_-111.937442@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127005,
+    "wof:geomhash":"fd1b182d8940d7373921e5092f2c9aa7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857327637
+        }
+    ],
+    "wof:id":857327637,
+    "wof:lastmodified":1464127005,
+    "wof:name":"Pediatric Home Care Inc",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -111.937442,
+    41.017975,
+    -111.937442,
+    41.017975
+],
+  "geometry": {"coordinates":[-111.937442,41.017975],"type":"Point"}
+}

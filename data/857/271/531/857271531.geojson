@@ -1,0 +1,75 @@
+{
+  "id": 857271531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.885817,40.609547,-111.885817,40.609547",
+    "geom:latitude":40.609547,
+    "geom:longitude":-111.885817,
+    "iso:country":"US",
+    "sg:address":"160 E 7800 S",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Sewage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 255 7321",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "sg:tags":[
+        "disposal",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728051,
+        102082877,
+        85810115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1A1DBNfKzTKiKUVQVBEQqB_40.609547_-111.885817@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125717,
+    "wof:geomhash":"f0496f4000c241b49fe6d57e37f151d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85810115,
+            "region_id":85688567,
+            "venue_id":857271531
+        }
+    ],
+    "wof:id":857271531,
+    "wof:lastmodified":1464125717,
+    "wof:name":"Salt Lake Suburban Sanitary",
+    "wof:parent_id":85810115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "disposal",
+        "system"
+    ]
+},
+  "bbox": [
+    -111.885817,
+    40.609547,
+    -111.885817,
+    40.609547
+],
+  "geometry": {"coordinates":[-111.885817,40.609547],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857144135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.938663,40.605732,-111.938663,40.605732",
+    "geom:latitude":40.605732,
+    "geom:longitude":-111.938663,
+    "iso:country":"US",
+    "sg:address":"7915 S Redwood Rd",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 255 6068",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85817621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46KhgbAVDkWFT0cfTclrdt_40.605732_-111.938663@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123010,
+    "wof:geomhash":"38ddd254a1669f941b7a0fbd2b3a7c8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85817621,
+            "region_id":85688567,
+            "venue_id":857144135
+        }
+    ],
+    "wof:id":857144135,
+    "wof:lastmodified":1464123010,
+    "wof:name":"Super Dollar",
+    "wof:parent_id":85817621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.938663,
+    40.605732,
+    -111.938663,
+    40.605732
+],
+  "geometry": {"coordinates":[-111.93866300000001,40.605732],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857135503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.005617,40.647918,-112.005617,40.647918",
+    "geom:latitude":40.647918,
+    "geom:longitude":-112.005617,
+    "iso:country":"US",
+    "sg:address":"5662 S 4800 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 955 0331",
+    "sg:postcode":"84118",
+    "sg:province":"UT",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728253,
+        102082877,
+        85833569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EDeE9YLoVD0xc4OzRMf92_40.647918_-112.005617@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122793,
+    "wof:geomhash":"26adf1b992bb51da0fd1f3a2d7fe1d2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728253,
+            "neighbourhood_id":85833569,
+            "region_id":85688567,
+            "venue_id":857135503
+        }
+    ],
+    "wof:id":857135503,
+    "wof:lastmodified":1464122793,
+    "wof:name":"IHC Tosh Physical Therapy",
+    "wof:parent_id":85833569,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -112.005617,
+    40.647918,
+    -112.005617,
+    40.647918
+],
+  "geometry": {"coordinates":[-112.005617,40.647918],"type":"Point"}
+}

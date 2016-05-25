@@ -1,0 +1,68 @@
+{
+  "id": 857365961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.835303,40.750816,-111.835303,40.750816",
+    "geom:latitude":40.750816,
+    "geom:longitude":-111.835303,
+    "iso:country":"US",
+    "sg:address":"1945 Sunnyside Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 582 1869",
+    "sg:postcode":"84108",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pNnwaOeXLy8icQXjafgdZ_40.750816_-111.835303@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127824,
+    "wof:geomhash":"6c21cc2927c34d0b83996960c841360c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871031,
+            "region_id":85688567,
+            "venue_id":857365961
+        }
+    ],
+    "wof:id":857365961,
+    "wof:lastmodified":1464127824,
+    "wof:name":"U Of U Head Start",
+    "wof:parent_id":85871031,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.835303,
+    40.750816,
+    -111.835303,
+    40.750816
+],
+  "geometry": {"coordinates":[-111.835303,40.750816],"type":"Point"}
+}

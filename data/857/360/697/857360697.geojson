@@ -1,0 +1,75 @@
+{
+  "id": 857360697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.771195,39.97009,-111.771195,39.97009",
+    "geom:latitude":39.97009,
+    "geom:longitude":-111.771195,
+    "iso:country":"US",
+    "sg:address":"367 S 690 E",
+    "sg:city":"Santaquin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 754 3049",
+    "sg:postcode":"84655",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02bTJ42EhbgbleYOmfY99x_39.970090_-111.771195@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127716,
+    "wof:geomhash":"4e6c5492f15913ec05903db524455dff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857360697
+        }
+    ],
+    "wof:id":857360697,
+    "wof:lastmodified":1464127716,
+    "wof:name":"Bill's Custom Electric",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.771195,
+    39.97009,
+    -111.771195,
+    39.97009
+],
+  "geometry": {"coordinates":[-111.77119500000001,39.97009],"type":"Point"}
+}

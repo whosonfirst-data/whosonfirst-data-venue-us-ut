@@ -1,0 +1,73 @@
+{
+  "id": 857413273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.806781,40.725967,-111.806781,40.725967",
+    "geom:latitude":40.725967,
+    "geom:longitude":-111.806781,
+    "iso:country":"US",
+    "sg:address":"2127 Belaire Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 412 0250",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85859457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4USjSukrilV59YKMzpjXTw_40.725967_-111.806781@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128929,
+    "wof:geomhash":"a450cebad48b0793fb138d18e22bbd15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85859457,
+            "region_id":85688567,
+            "venue_id":857413273
+        }
+    ],
+    "wof:id":857413273,
+    "wof:lastmodified":1464128929,
+    "wof:name":"Steven H Warnock MD PC",
+    "wof:parent_id":85859457,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -111.806781,
+    40.725967,
+    -111.806781,
+    40.725967
+],
+  "geometry": {"coordinates":[-111.806781,40.725967],"type":"Point"}
+}

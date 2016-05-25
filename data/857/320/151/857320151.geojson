@@ -1,0 +1,73 @@
+{
+  "id": 857320151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.703611,40.316542,-111.703611,40.316542",
+    "geom:latitude":40.316542,
+    "geom:longitude":-111.703611,
+    "iso:country":"US",
+    "sg:address":"1067 N State St",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 434 4580",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "locating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XVqgXslxJx710NJJ9hqzY_40.316542_-111.703611@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126853,
+    "wof:geomhash":"f311b6007af9ffaf3adc1e682fe08dcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":857320151
+        }
+    ],
+    "wof:id":857320151,
+    "wof:lastmodified":1464126853,
+    "wof:name":"ELM Locating & Utility Svc",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locating"
+    ]
+},
+  "bbox": [
+    -111.703611,
+    40.316542,
+    -111.703611,
+    40.316542
+],
+  "geometry": {"coordinates":[-111.703611,40.316542],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857367327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.957906,40.59275,-111.957906,40.59275",
+    "geom:latitude":40.59275,
+    "geom:longitude":-111.957906,
+    "iso:country":"US",
+    "sg:address":"8680 S 2700 W",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Railroad",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 255 3808",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "operator",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85854601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2msHP3iiVeLiLIU2DZvYtN_40.592750_-111.957906@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127851,
+    "wof:geomhash":"9157af9fd74166a82b94ba999a6566da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85854601,
+            "region_id":85688567,
+            "venue_id":857367327
+        }
+    ],
+    "wof:id":857367327,
+    "wof:lastmodified":1464127851,
+    "wof:name":"CSX",
+    "wof:parent_id":85854601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "line"
+    ]
+},
+  "bbox": [
+    -111.957906,
+    40.59275,
+    -111.957906,
+    40.59275
+],
+  "geometry": {"coordinates":[-111.95790599999999,40.59275],"type":"Point"}
+}

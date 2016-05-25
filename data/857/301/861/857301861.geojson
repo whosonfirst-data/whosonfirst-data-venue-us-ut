@@ -1,0 +1,69 @@
+{
+  "id": 857301861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.804933,40.388647,-111.804933,40.388647",
+    "geom:latitude":40.388647,
+    "geom:longitude":-111.804933,
+    "iso:country":"US",
+    "sg:address":"686 N 250 W",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 253 5656",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "retail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QATNezKOLV7Ql0xPZeA3s_40.388647_-111.804933@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126453,
+    "wof:geomhash":"56df62a1b73a05c8d6e753e9bc7b89e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857301861
+        }
+    ],
+    "wof:id":857301861,
+    "wof:lastmodified":1464126453,
+    "wof:name":"Spoon In",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "retail"
+    ]
+},
+  "bbox": [
+    -111.804933,
+    40.388647,
+    -111.804933,
+    40.388647
+],
+  "geometry": {"coordinates":[-111.80493300000001,40.388647],"type":"Point"}
+}

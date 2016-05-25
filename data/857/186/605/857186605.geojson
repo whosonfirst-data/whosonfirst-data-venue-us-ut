@@ -1,0 +1,69 @@
+{
+  "id": 857186605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.956518,41.066169,-111.956518,41.066169",
+    "geom:latitude":41.066169,
+    "geom:longitude":-111.956518,
+    "iso:country":"US",
+    "sg:address":"440 Wasatch Dr",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 402 4800",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:website":"www.davis.k12.ut.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57MJ7S1YgqLFGyTtUwOsEW_41.066169_-111.956518@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123926,
+    "wof:geomhash":"329818b37fde1109db3f605c30e58384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857186605
+        }
+    ],
+    "wof:id":857186605,
+    "wof:lastmodified":1464123926,
+    "wof:name":"Layton High School",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.956518,
+    41.066169,
+    -111.956518,
+    41.066169
+],
+  "geometry": {"coordinates":[-111.956518,41.066169],"type":"Point"}
+}

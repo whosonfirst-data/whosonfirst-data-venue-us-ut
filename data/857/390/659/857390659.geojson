@@ -1,0 +1,68 @@
+{
+  "id": 857390659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.022928,40.507758,-112.022928,40.507758",
+    "geom:latitude":40.507758,
+    "geom:longitude":-112.022928,
+    "iso:country":"US",
+    "sg:address":"5532 W 13400 S",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 254 1234",
+    "sg:postcode":"84065",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728047,
+        102082877,
+        85819751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pY2ugtf6iAMw6i4JK2Q9g_40.507758_-112.022928@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128442,
+    "wof:geomhash":"f6a88b98c8d413878be5fb3906b2aba6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728047,
+            "neighbourhood_id":85819751,
+            "region_id":85688567,
+            "venue_id":857390659
+        }
+    ],
+    "wof:id":857390659,
+    "wof:lastmodified":1464128442,
+    "wof:name":"Godfather's Pizza",
+    "wof:parent_id":85819751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.022928,
+    40.507758,
+    -112.022928,
+    40.507758
+],
+  "geometry": {"coordinates":[-112.02292799999999,40.507758],"type":"Point"}
+}

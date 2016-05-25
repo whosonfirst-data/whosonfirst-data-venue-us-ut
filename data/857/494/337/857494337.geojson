@@ -1,0 +1,74 @@
+{
+  "id": 857494337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.754731,40.031866,-111.754731,40.031866",
+    "geom:latitude":40.031866,
+    "geom:longitude":-111.754731,
+    "iso:country":"US",
+    "sg:address":"788 S 1270 W",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/spanish-fork-payson/166053-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 489 1645",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fgUNbl4M3M1UQsvAcFZH6_40.031866_-111.754731@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130744,
+    "wof:geomhash":"11559ca2765abce9dbc7009e17060c80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857494337
+        }
+    ],
+    "wof:id":857494337,
+    "wof:lastmodified":1464130744,
+    "wof:name":"Arby's",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -111.754731,
+    40.031866,
+    -111.754731,
+    40.031866
+],
+  "geometry": {"coordinates":[-111.75473100000001,40.031866],"type":"Point"}
+}

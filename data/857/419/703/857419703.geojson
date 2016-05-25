@@ -1,0 +1,75 @@
+{
+  "id": 857419703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.849729,40.413513,-111.849729,40.413513",
+    "geom:latitude":40.413513,
+    "geom:longitude":-111.849729,
+    "iso:country":"US",
+    "sg:address":"2111 N Center St",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 768 3636",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727857,
+        102083567,
+        85836317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VeFzlWL9vY37UC88okOmL_40.413513_-111.849729@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129089,
+    "wof:geomhash":"a5d2d0d06587780fcc4c590da5d7d894",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727857,
+            "neighbourhood_id":85836317,
+            "region_id":85688567,
+            "venue_id":857419703
+        }
+    ],
+    "wof:id":857419703,
+    "wof:lastmodified":1464129089,
+    "wof:name":"CMH Properties",
+    "wof:parent_id":85836317,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -111.849729,
+    40.413513,
+    -111.849729,
+    40.413513
+],
+  "geometry": {"coordinates":[-111.849729,40.413513],"type":"Point"}
+}

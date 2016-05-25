@@ -1,0 +1,78 @@
+{
+  "id": 857238155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.929578,40.766344,-111.929578,40.766344",
+    "geom:latitude":40.766344,
+    "geom:longitude":-111.929578,
+    "iso:country":"US",
+    "sg:address":"122 Navajo St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 524 8800",
+    "sg:postcode":"84104",
+    "sg:province":"UT",
+    "sg:tags":[
+        "printed",
+        "circuit",
+        "etched"
+    ],
+    "sg:website":"www.qtcircuits.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85822709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IiLqf3bEf17CiJ9jEO69d_40.766344_-111.929578@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124967,
+    "wof:geomhash":"c405cb2204e7973ee8ed555ae51b92b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85822709,
+            "region_id":85688567,
+            "venue_id":857238155
+        }
+    ],
+    "wof:id":857238155,
+    "wof:lastmodified":1464124967,
+    "wof:name":"Quick Turn Circuits",
+    "wof:parent_id":85822709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printed",
+        "circuit",
+        "etched"
+    ]
+},
+  "bbox": [
+    -111.929578,
+    40.766344,
+    -111.929578,
+    40.766344
+],
+  "geometry": {"coordinates":[-111.92957800000001,40.766344],"type":"Point"}
+}

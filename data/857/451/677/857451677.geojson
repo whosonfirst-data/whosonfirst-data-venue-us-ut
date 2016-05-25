@@ -1,0 +1,76 @@
+{
+  "id": 857451677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.938777,40.585964,-111.938777,40.585964",
+    "geom:latitude":40.585964,
+    "geom:longitude":-111.938777,
+    "iso:country":"US",
+    "sg:address":"9100 S Redwood Rd",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 481 5290",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "national",
+        "commercial"
+    ],
+    "sg:website":"www.bankone.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85832913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5P9CwnJUwE6BIXTPn0SghN_40.585964_-111.938777@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129795,
+    "wof:geomhash":"58d37dbf20eba334f02226c53055d5e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85832913,
+            "region_id":85688567,
+            "venue_id":857451677
+        }
+    ],
+    "wof:id":857451677,
+    "wof:lastmodified":1464129795,
+    "wof:name":"Bank One",
+    "wof:parent_id":85832913,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -111.938777,
+    40.585964,
+    -111.938777,
+    40.585964
+],
+  "geometry": {"coordinates":[-111.938777,40.585964],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857429015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.747433,40.030027,-111.747433,40.030027",
+    "geom:latitude":40.030027,
+    "geom:longitude":-111.747433,
+    "iso:country":"US",
+    "sg:address":"812 S 880 W",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 3356",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WORLL9btoMwokib97s4lJ_40.030027_-111.747433@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129317,
+    "wof:geomhash":"8daf67afc68dd56aada993da151976d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857429015
+        }
+    ],
+    "wof:id":857429015,
+    "wof:lastmodified":1464129317,
+    "wof:name":"Met Enterprises",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -111.747433,
+    40.030027,
+    -111.747433,
+    40.030027
+],
+  "geometry": {"coordinates":[-111.747433,40.030027],"type":"Point"}
+}

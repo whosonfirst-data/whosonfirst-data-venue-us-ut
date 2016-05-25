@@ -1,0 +1,71 @@
+{
+  "id": 857400663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.813234,40.696751,-111.813234,40.696751",
+    "geom:latitude":40.696751,
+    "geom:longitude":-111.813234,
+    "iso:country":"US",
+    "sg:address":"2810 E Evergreen Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 694 0901",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "taping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728257,
+        102082877,
+        85854869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SHC4YQNzqD75BQDGapAhd_40.696751_-111.813234@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128637,
+    "wof:geomhash":"dd6b464a02a9e8ce0ee0a6d9327ee00e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85854869,
+            "region_id":85688567,
+            "venue_id":857400663
+        }
+    ],
+    "wof:id":857400663,
+    "wof:lastmodified":1464128637,
+    "wof:name":"Norman Ross Productions",
+    "wof:parent_id":85854869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taping"
+    ]
+},
+  "bbox": [
+    -111.813234,
+    40.696751,
+    -111.813234,
+    40.696751
+],
+  "geometry": {"coordinates":[-111.81323399999999,40.696751],"type":"Point"}
+}

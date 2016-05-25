@@ -1,0 +1,73 @@
+{
+  "id": 857210701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.633843,37.13872,-113.633843,37.13872",
+    "geom:latitude":37.13872,
+    "geom:longitude":-113.633843,
+    "iso:country":"US",
+    "sg:address":"1958 N Lava Flow Dr",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 674 1806",
+    "sg:postcode":"84770",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33faW6dv1A9tydsHpOLgB2_37.138720_-113.633843@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124408,
+    "wof:geomhash":"f47654b58db7c2c8a0fc63290d50e887",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857210701
+        }
+    ],
+    "wof:id":857210701,
+    "wof:lastmodified":1464124408,
+    "wof:name":"Family Auto Center",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -113.633843,
+    37.13872,
+    -113.633843,
+    37.13872
+],
+  "geometry": {"coordinates":[-113.633843,37.13872],"type":"Point"}
+}

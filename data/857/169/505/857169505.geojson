@@ -1,0 +1,69 @@
+{
+  "id": 857169505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.845628,40.587578,-111.845628,40.587578",
+    "geom:latitude":40.587578,
+    "geom:longitude":-111.845628,
+    "iso:country":"US",
+    "sg:address":"9012 S 1620 E",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 571 0974",
+    "sg:postcode":"84093",
+    "sg:province":"UT",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85847325,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UJvHiSLFYrLb12FCcEGPz_40.587578_-111.845628@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123571,
+    "wof:geomhash":"fb1388d1e117e913673d674c04a554d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85847325,
+            "region_id":85688567,
+            "venue_id":857169505
+        }
+    ],
+    "wof:id":857169505,
+    "wof:lastmodified":1464123571,
+    "wof:name":"Accounting Systems Inc",
+    "wof:parent_id":85847325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -111.845628,
+    40.587578,
+    -111.845628,
+    40.587578
+],
+  "geometry": {"coordinates":[-111.845628,40.587578],"type":"Point"}
+}

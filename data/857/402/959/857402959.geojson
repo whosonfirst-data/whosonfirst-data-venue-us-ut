@@ -1,0 +1,75 @@
+{
+  "id": 857402959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.876954,40.708969,-111.876954,40.708969",
+    "geom:latitude":40.708969,
+    "geom:longitude":-111.876954,
+    "iso:country":"US",
+    "sg:address":"2920 S 500 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 466 6674",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85854999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xqzeRkFuteUT2CnKnupmj_40.708969_-111.876954@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128683,
+    "wof:geomhash":"08b7a0aff1bf8553bd3a1958cbdfd7ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85854999,
+            "region_id":85688567,
+            "venue_id":857402959
+        }
+    ],
+    "wof:id":857402959,
+    "wof:lastmodified":1464128683,
+    "wof:name":"Martin Mast Construction Co",
+    "wof:parent_id":85854999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.876954,
+    40.708969,
+    -111.876954,
+    40.708969
+],
+  "geometry": {"coordinates":[-111.876954,40.708969],"type":"Point"}
+}

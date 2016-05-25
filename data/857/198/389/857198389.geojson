@@ -1,0 +1,73 @@
+{
+  "id": 857198389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.908558,41.001747,-111.908558,41.001747",
+    "geom:latitude":41.001747,
+    "geom:longitude":-111.908558,
+    "iso:country":"US",
+    "sg:address":"1325 US Hwy 89",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 983 7700",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "design",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DedepJyOyt5tXs5rbGdOf_41.001747_-111.908558@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124147,
+    "wof:geomhash":"745f934b86daf680cabfd01e3fc28d1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857198389
+        }
+    ],
+    "wof:id":857198389,
+    "wof:lastmodified":1464124147,
+    "wof:name":"Icu Net",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "design",
+        "system"
+    ]
+},
+  "bbox": [
+    -111.908558,
+    41.001747,
+    -111.908558,
+    41.001747
+],
+  "geometry": {"coordinates":[-111.908558,41.001747],"type":"Point"}
+}

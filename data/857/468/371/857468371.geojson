@@ -1,0 +1,71 @@
+{
+  "id": 857468371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.700238,40.231992,-111.700238,40.231992",
+    "geom:latitude":40.231992,
+    "geom:longitude":-111.700238,
+    "iso:country":"US",
+    "sg:address":"2121 W 130 S",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 375 6125",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880073,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34oI6Te9d4s4kXHmzFqzJh_40.231992_-111.700238@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130133,
+    "wof:geomhash":"d2d5eb0839f807295452ace7ce7e90bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880073,
+            "region_id":85688567,
+            "venue_id":857468371
+        }
+    ],
+    "wof:id":857468371,
+    "wof:lastmodified":1464130133,
+    "wof:name":"Dahl Contracting Inc",
+    "wof:parent_id":85880073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.700238,
+    40.231992,
+    -111.700238,
+    40.231992
+],
+  "geometry": {"coordinates":[-111.700238,40.231992],"type":"Point"}
+}

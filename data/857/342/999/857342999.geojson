@@ -1,0 +1,73 @@
+{
+  "id": 857342999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.821151,41.749837,-111.821151,41.749837",
+    "geom:latitude":41.749837,
+    "geom:longitude":-111.821151,
+    "iso:country":"US",
+    "sg:address":"516 E 1000 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 4994",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vz8Q2KVP4SFdlWysNke2l_41.749837_-111.821151@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127334,
+    "wof:geomhash":"6287a84ce56da106b9a418c30e91359e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857342999
+        }
+    ],
+    "wof:id":857342999,
+    "wof:lastmodified":1464127334,
+    "wof:name":"Acupressure Therapy",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -111.821151,
+    41.749837,
+    -111.821151,
+    41.749837
+],
+  "geometry": {"coordinates":[-111.821151,41.749837],"type":"Point"}
+}

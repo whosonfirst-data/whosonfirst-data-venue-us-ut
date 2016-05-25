@@ -1,0 +1,71 @@
+{
+  "id": 857258713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.844617,41.777956,-111.844617,41.777956",
+    "geom:latitude":41.777956,
+    "geom:longitude":-111.844617,
+    "iso:country":"US",
+    "sg:address":"513 W 2500 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 3828",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "aircraft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Suj4TcAs9xyiajwAsfUnb_41.777956_-111.844617@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125467,
+    "wof:geomhash":"568b7852a7068f6ecc8aa80b2777bf9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857258713
+        }
+    ],
+    "wof:id":857258713,
+    "wof:lastmodified":1464125467,
+    "wof:name":"X Country Aviation",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft"
+    ]
+},
+  "bbox": [
+    -111.844617,
+    41.777956,
+    -111.844617,
+    41.777956
+],
+  "geometry": {"coordinates":[-111.844617,41.777956],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857479873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.655254,40.099282,-111.655254,40.099282",
+    "geom:latitude":40.099282,
+    "geom:longitude":-111.655254,
+    "iso:country":"US",
+    "sg:address":"725 S Main St",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 6166",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OK7GZOqsHVybtq8Tntc9L_40.099282_-111.655254@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130368,
+    "wof:geomhash":"9ce207cc064047f2934b25a729123a38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857479873
+        }
+    ],
+    "wof:id":857479873,
+    "wof:lastmodified":1464130368,
+    "wof:name":"Transportation-Maintenance Sta",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -111.655254,
+    40.099282,
+    -111.655254,
+    40.099282
+],
+  "geometry": {"coordinates":[-111.655254,40.099282],"type":"Point"}
+}

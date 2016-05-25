@@ -1,0 +1,68 @@
+{
+  "id": 857228479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.661328,40.23358,-111.661328,40.23358",
+    "geom:latitude":40.23358,
+    "geom:longitude":-111.661328,
+    "iso:country":"US",
+    "sg:address":"163 W Center St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 377 9244",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0O5hkNkqfN1hYFXAGhZG4F_40.233580_-111.661328@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124781,
+    "wof:geomhash":"e24aa23d4bbca8028fbcd99f2ba5db94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880065,
+            "region_id":85688567,
+            "venue_id":857228479
+        }
+    ],
+    "wof:id":857228479,
+    "wof:lastmodified":1464124781,
+    "wof:name":"Sensuous Sandwich",
+    "wof:parent_id":85880065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.661328,
+    40.23358,
+    -111.661328,
+    40.23358
+],
+  "geometry": {"coordinates":[-111.661328,40.23358],"type":"Point"}
+}

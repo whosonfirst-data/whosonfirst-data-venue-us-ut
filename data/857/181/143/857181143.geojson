@@ -1,0 +1,73 @@
+{
+  "id": 857181143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.656794,40.234204,-111.656794,40.234204",
+    "geom:latitude":40.234204,
+    "geom:longitude":-111.656794,
+    "iso:country":"US",
+    "sg:address":"64 N 100 E",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 3733",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xHqDxidRh59PmhrUYyqLH_40.234204_-111.656794@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123818,
+    "wof:geomhash":"2a5bc3424e4e7221f977fc16ff2b8161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880065,
+            "region_id":85688567,
+            "venue_id":857181143
+        }
+    ],
+    "wof:id":857181143,
+    "wof:lastmodified":1464123818,
+    "wof:name":"Morgan & Payne",
+    "wof:parent_id":85880065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -111.656794,
+    40.234204,
+    -111.656794,
+    40.234204
+],
+  "geometry": {"coordinates":[-111.656794,40.234204],"type":"Point"}
+}

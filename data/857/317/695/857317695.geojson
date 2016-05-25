@@ -1,0 +1,73 @@
+{
+  "id": 857317695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.84667,41.757744,-111.84667,41.757744",
+    "geom:latitude":41.757744,
+    "geom:longitude":-111.84667,
+    "iso:country":"US",
+    "sg:address":"430 W 1400 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 787 1142",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PEiw6sgTR1Rpe8OufVeTE_41.757744_-111.846670@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126788,
+    "wof:geomhash":"cce26ee93bb06f89350fecdda5b8e8c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857317695
+        }
+    ],
+    "wof:id":857317695,
+    "wof:lastmodified":1464126788,
+    "wof:name":"Pinnacle Precision LLC",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.84667,
+    41.757744,
+    -111.84667,
+    41.757744
+],
+  "geometry": {"coordinates":[-111.84667,41.757744],"type":"Point"}
+}

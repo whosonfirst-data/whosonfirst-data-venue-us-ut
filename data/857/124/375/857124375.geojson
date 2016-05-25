@@ -1,0 +1,67 @@
+{
+  "id": 857124375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.83184,41.739082,-111.83184,41.739082",
+    "geom:latitude":41.739082,
+    "geom:longitude":-111.83184,
+    "iso:country":"US",
+    "sg:address":"115 E 400 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 6009",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:website":"www.kingsdiscount.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yRqoiGRpzbIpUACQqd7YB_41.739082_-111.831840@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122558,
+    "wof:geomhash":"41a4abb22fbd20efe50e956106eec397",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857124375
+        }
+    ],
+    "wof:id":857124375,
+    "wof:lastmodified":1464122558,
+    "wof:name":"King's Department Store",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.83184,
+    41.739082,
+    -111.83184,
+    41.739082
+],
+  "geometry": {"coordinates":[-111.83184,41.739082],"type":"Point"}
+}

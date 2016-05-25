@@ -1,0 +1,71 @@
+{
+  "id": 857077547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.93792,41.134284,-111.93792,41.134284",
+    "geom:latitude":41.134284,
+    "geom:longitude":-111.93792,
+    "iso:country":"US",
+    "sg:address":"7325 S 1600 E",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 479 5630",
+    "sg:postcode":"84405",
+    "sg:province":"UT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85844663,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Hpc9mvHzKOhlShFGLluob_41.134284_-111.937920@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121345,
+    "wof:geomhash":"619245b04cc0c8bac35dde8633337588",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "neighbourhood_id":85844663,
+            "region_id":85688567,
+            "venue_id":857077547
+        }
+    ],
+    "wof:id":857077547,
+    "wof:lastmodified":1464121345,
+    "wof:name":"Merlin E Daines",
+    "wof:parent_id":85844663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.93792,
+    41.134284,
+    -111.93792,
+    41.134284
+],
+  "geometry": {"coordinates":[-111.93792000000001,41.134284],"type":"Point"}
+}

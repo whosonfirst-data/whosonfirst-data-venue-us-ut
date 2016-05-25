@@ -1,0 +1,68 @@
+{
+  "id": 857160839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.859531,40.736275,-111.859531,40.736275",
+    "geom:latitude":40.736275,
+    "geom:longitude":-111.859531,
+    "iso:country":"US",
+    "sg:address":"1553 S 1100 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 746 3059",
+    "sg:postcode":"84105",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85857821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mw2YjV29SH8zSwjDBubO2_40.736275_-111.859531@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123360,
+    "wof:geomhash":"2ee140fecd86fa461d7ba16c0db0dd7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85857821,
+            "region_id":85688567,
+            "venue_id":857160839
+        }
+    ],
+    "wof:id":857160839,
+    "wof:lastmodified":1464123360,
+    "wof:name":"Reflections Salon",
+    "wof:parent_id":85857821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.859531,
+    40.736275,
+    -111.859531,
+    40.736275
+],
+  "geometry": {"coordinates":[-111.859531,40.736275],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 857255473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.850849,40.700032,-111.850849,40.700032",
+    "geom:latitude":40.700032,
+    "geom:longitude":-111.850849,
+    "iso:country":"US",
+    "sg:address":"3216 Highland Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 933 5581",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "merchant",
+        "credit"
+    ],
+    "sg:website":"www.e-mg.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85832079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_789lMCGLGVDuymZ0lRIquK_40.700032_-111.850849@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125385,
+    "wof:geomhash":"96d1d93a0a57a714629ceef4f5547050",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85832079,
+            "region_id":85688567,
+            "venue_id":857255473
+        }
+    ],
+    "wof:id":857255473,
+    "wof:lastmodified":1464125385,
+    "wof:name":"Eliot Management Group",
+    "wof:parent_id":85832079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchant",
+        "credit"
+    ]
+},
+  "bbox": [
+    -111.850849,
+    40.700032,
+    -111.850849,
+    40.700032
+],
+  "geometry": {"coordinates":[-111.850849,40.700032],"type":"Point"}
+}

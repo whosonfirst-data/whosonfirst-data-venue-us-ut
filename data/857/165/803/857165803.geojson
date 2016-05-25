@@ -1,0 +1,73 @@
+{
+  "id": 857165803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.637646,40.15107,-111.637646,40.15107",
+    "geom:latitude":40.15107,
+    "geom:longitude":-111.637646,
+    "iso:country":"US",
+    "sg:address":"1350 S 1700 W",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 489 9700",
+    "sg:postcode":"84663",
+    "sg:province":"UT",
+    "sg:tags":[
+        "foundry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727829,
+        102083567,
+        85880117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17QBOkG44EFsLBlkCumQFi_40.151070_-111.637646@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123483,
+    "wof:geomhash":"dbf81984a8313cd2e2a2cb8757fb52c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727829,
+            "neighbourhood_id":85880117,
+            "region_id":85688567,
+            "venue_id":857165803
+        }
+    ],
+    "wof:id":857165803,
+    "wof:lastmodified":1464123483,
+    "wof:name":"Baer Bronze Fine Art Casting",
+    "wof:parent_id":85880117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundry"
+    ]
+},
+  "bbox": [
+    -111.637646,
+    40.15107,
+    -111.637646,
+    40.15107
+],
+  "geometry": {"coordinates":[-111.637646,40.15107],"type":"Point"}
+}

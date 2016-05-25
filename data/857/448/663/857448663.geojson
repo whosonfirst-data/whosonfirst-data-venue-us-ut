@@ -1,0 +1,73 @@
+{
+  "id": 857448663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.973044,41.040167,-111.973044,41.040167",
+    "geom:latitude":41.040167,
+    "geom:longitude":-111.973044,
+    "iso:country":"US",
+    "sg:address":"342 Wilkie St",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 546 6750",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kdqt2lKigyjR3LjT7k5SP_41.040167_-111.973044@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129732,
+    "wof:geomhash":"8a7a15da903b7efed27f36fb20b5e092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857448663
+        }
+    ],
+    "wof:id":857448663,
+    "wof:lastmodified":1464129732,
+    "wof:name":"John E Heath",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -111.973044,
+    41.040167,
+    -111.973044,
+    41.040167
+],
+  "geometry": {"coordinates":[-111.973044,41.040167],"type":"Point"}
+}

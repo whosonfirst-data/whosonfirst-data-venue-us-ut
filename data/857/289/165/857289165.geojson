@@ -1,0 +1,73 @@
+{
+  "id": 857289165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.902759,40.60177,-111.902759,40.60177",
+    "geom:latitude":40.60177,
+    "geom:longitude":-111.902759,
+    "iso:country":"US",
+    "sg:address":"338 Marquette Dr",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 255 1744",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728051,
+        102082877,
+        85834097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BMMkQehreLDIhXr8IfVyH_40.601770_-111.902759@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126118,
+    "wof:geomhash":"fc5c61f658df6a41891d3e0f6bb46be1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85834097,
+            "region_id":85688567,
+            "venue_id":857289165
+        }
+    ],
+    "wof:id":857289165,
+    "wof:lastmodified":1464126118,
+    "wof:name":"Apco of Utah",
+    "wof:parent_id":85834097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -111.902759,
+    40.60177,
+    -111.902759,
+    40.60177
+],
+  "geometry": {"coordinates":[-111.902759,40.60177],"type":"Point"}
+}

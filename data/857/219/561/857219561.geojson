@@ -1,0 +1,75 @@
+{
+  "id": 857219561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.917951,40.728905,-111.917951,40.728905",
+    "geom:latitude":40.728905,
+    "geom:longitude":-111.917951,
+    "iso:country":"US",
+    "sg:address":"958 Jewell Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 972 5551",
+    "sg:postcode":"84104",
+    "sg:province":"UT",
+    "sg:tags":[
+        "cartage",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85848029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34DGuVEYF2CxWP48vc11Dx_40.728905_-111.917951@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124606,
+    "wof:geomhash":"5a6697545cfcc21628797f2846e33b5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85848029,
+            "region_id":85688567,
+            "venue_id":857219561
+        }
+    ],
+    "wof:id":857219561,
+    "wof:lastmodified":1464124606,
+    "wof:name":"Maxway Trucking",
+    "wof:parent_id":85848029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cartage",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -111.917951,
+    40.728905,
+    -111.917951,
+    40.728905
+],
+  "geometry": {"coordinates":[-111.917951,40.728905],"type":"Point"}
+}

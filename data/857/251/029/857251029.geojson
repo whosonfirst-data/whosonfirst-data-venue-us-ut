@@ -1,0 +1,75 @@
+{
+  "id": 857251029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.029191,40.577375,-112.029191,40.577375",
+    "geom:latitude":40.577375,
+    "geom:longitude":-112.029191,
+    "iso:country":"US",
+    "sg:address":"9524 Feulner Park Rd",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 280 1232",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728247,
+        102082877,
+        85813417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QcletAHmWeNKHSTt4tt0u_40.577375_-112.029191@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125270,
+    "wof:geomhash":"d193a93c723b09a91593a342793ea904",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728247,
+            "neighbourhood_id":85813417,
+            "region_id":85688567,
+            "venue_id":857251029
+        }
+    ],
+    "wof:id":857251029,
+    "wof:lastmodified":1464125270,
+    "wof:name":"McNeil Construction Company",
+    "wof:parent_id":85813417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -112.029191,
+    40.577375,
+    -112.029191,
+    40.577375
+],
+  "geometry": {"coordinates":[-112.029191,40.577375],"type":"Point"}
+}

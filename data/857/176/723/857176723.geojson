@@ -1,0 +1,73 @@
+{
+  "id": 857176723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.889707,40.738284,-111.889707,40.738284",
+    "geom:latitude":40.738284,
+    "geom:longitude":-111.889707,
+    "iso:country":"US",
+    "sg:address":"1496 Major St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 483 2898",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85824705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Gj0BFkRJ09I9G5VWsbOoE_40.738284_-111.889707@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123728,
+    "wof:geomhash":"5e6c1f27fdc1f60d3ca74a25d29f6bf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85824705,
+            "region_id":85688567,
+            "venue_id":857176723
+        }
+    ],
+    "wof:id":857176723,
+    "wof:lastmodified":1464123728,
+    "wof:name":"Chinatown Market",
+    "wof:parent_id":85824705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.889707,
+    40.738284,
+    -111.889707,
+    40.738284
+],
+  "geometry": {"coordinates":[-111.889707,40.738284],"type":"Point"}
+}

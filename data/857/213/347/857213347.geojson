@@ -1,0 +1,73 @@
+{
+  "id": 857213347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.839456,40.730784,-111.839456,40.730784",
+    "geom:latitude":40.730784,
+    "geom:longitude":-111.839456,
+    "iso:country":"US",
+    "sg:address":"1705 Downington Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 463 2504",
+    "sg:postcode":"84108",
+    "sg:province":"UT",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85858091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WEQOBA8d4bKT64JFbi6G7_40.730784_-111.839456@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124470,
+    "wof:geomhash":"3278ee0a03d8bc39330d9aa8982c3ef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85858091,
+            "region_id":85688567,
+            "venue_id":857213347
+        }
+    ],
+    "wof:id":857213347,
+    "wof:lastmodified":1464124470,
+    "wof:name":"Arch Way Landscape Lighting",
+    "wof:parent_id":85858091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -111.839456,
+    40.730784,
+    -111.839456,
+    40.730784
+],
+  "geometry": {"coordinates":[-111.839456,40.730784],"type":"Point"}
+}

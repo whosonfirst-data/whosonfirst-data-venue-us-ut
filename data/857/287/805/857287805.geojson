@@ -1,0 +1,73 @@
+{
+  "id": 857287805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.829224,41.753535,-111.829224,41.753535",
+    "geom:latitude":41.753535,
+    "geom:longitude":-111.829224,
+    "iso:country":"US",
+    "sg:address":"1221 N 200 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 7762",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "motion",
+        "picture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kJTHPhj9aBNAo4VioDGSM_41.753535_-111.829224@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126081,
+    "wof:geomhash":"1806b5d6009994154a85611b5bb283e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857287805
+        }
+    ],
+    "wof:id":857287805,
+    "wof:lastmodified":1464126081,
+    "wof:name":"Cache Valley 3",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motion",
+        "picture"
+    ]
+},
+  "bbox": [
+    -111.829224,
+    41.753535,
+    -111.829224,
+    41.753535
+],
+  "geometry": {"coordinates":[-111.829224,41.753535],"type":"Point"}
+}

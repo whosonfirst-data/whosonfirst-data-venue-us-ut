@@ -1,0 +1,73 @@
+{
+  "id": 857289863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.870551,40.725499,-111.870551,40.725499",
+    "geom:latitude":40.725499,
+    "geom:longitude":-111.870551,
+    "iso:country":"US",
+    "sg:address":"781 E 2100 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 575 4745",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85858269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67RkwQHJg7KayZ6SirK8j2_40.725499_-111.870551@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126147,
+    "wof:geomhash":"f35c4b1ae8dc9c92f94180ca42300252",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85858269,
+            "region_id":85688567,
+            "venue_id":857289863
+        }
+    ],
+    "wof:id":857289863,
+    "wof:lastmodified":1464126147,
+    "wof:name":"Qwest Communications Intl",
+    "wof:parent_id":85858269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -111.870551,
+    40.725499,
+    -111.870551,
+    40.725499
+],
+  "geometry": {"coordinates":[-111.87055100000001,40.725499],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857304997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.791937,41.764123,-111.791937,41.764123",
+    "geom:latitude":41.764123,
+    "geom:longitude":-111.791937,
+    "iso:country":"US",
+    "sg:address":"1819 N 1700 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 1705",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "vitamin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Gg0Ew2szQAvLAvTNI5ZcF_41.764123_-111.791937@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126518,
+    "wof:geomhash":"682845b46684a8f08c5568e577fb404e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857304997
+        }
+    ],
+    "wof:id":857304997,
+    "wof:lastmodified":1464126518,
+    "wof:name":"Health Dynamics",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vitamin"
+    ]
+},
+  "bbox": [
+    -111.791937,
+    41.764123,
+    -111.791937,
+    41.764123
+],
+  "geometry": {"coordinates":[-111.791937,41.764123],"type":"Point"}
+}

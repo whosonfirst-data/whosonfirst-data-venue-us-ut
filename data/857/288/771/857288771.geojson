@@ -1,0 +1,75 @@
+{
+  "id": 857288771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.929082,40.614429,-111.929082,40.614429",
+    "geom:latitude":40.614429,
+    "geom:longitude":-111.929082,
+    "iso:country":"US",
+    "sg:address":"7495 S 1300 W",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Sewage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 566 7711",
+    "sg:postcode":"84084",
+    "sg:province":"UT",
+    "sg:tags":[
+        "disposal",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85817621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Cl0BeIZn2qEJHKQ0bi10X_40.614429_-111.929082@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126106,
+    "wof:geomhash":"b7c79612588a0c82852bb13763df5737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85817621,
+            "region_id":85688567,
+            "venue_id":857288771
+        }
+    ],
+    "wof:id":857288771,
+    "wof:lastmodified":1464126106,
+    "wof:name":"South Valley Water Reclamation",
+    "wof:parent_id":85817621,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "disposal",
+        "system"
+    ]
+},
+  "bbox": [
+    -111.929082,
+    40.614429,
+    -111.929082,
+    40.614429
+],
+  "geometry": {"coordinates":[-111.92908199999999,40.614429],"type":"Point"}
+}

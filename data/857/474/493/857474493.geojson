@@ -1,0 +1,73 @@
+{
+  "id": 857474493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.034081,41.134754,-112.034081,41.134754",
+    "geom:latitude":41.134754,
+    "geom:longitude":-112.034081,
+    "iso:country":"US",
+    "sg:address":"1527 N 400 W",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 773 1314",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85851583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qt1AxFN1o6dIbsfzDtuNb_41.134754_-112.034081@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130265,
+    "wof:geomhash":"52a8801c4e5d58efcf5a56746e0877d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85851583,
+            "region_id":85688567,
+            "venue_id":857474493
+        }
+    ],
+    "wof:id":857474493,
+    "wof:lastmodified":1464130265,
+    "wof:name":"BCM Hauling",
+    "wof:parent_id":85851583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -112.034081,
+    41.134754,
+    -112.034081,
+    41.134754
+],
+  "geometry": {"coordinates":[-112.034081,41.134754],"type":"Point"}
+}

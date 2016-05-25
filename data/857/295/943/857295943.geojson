@@ -1,0 +1,68 @@
+{
+  "id": 857295943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.815468,40.610863,-111.815468,40.610863",
+    "geom:latitude":40.610863,
+    "geom:longitude":-111.815468,
+    "iso:country":"US",
+    "sg:address":"2686 E Towne Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 942 4100",
+    "sg:postcode":"84121",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728065,
+        102082877,
+        85803915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36NjP7ydNDbGochU42qEk0_40.610863_-111.815468@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126323,
+    "wof:geomhash":"0b258bfc96a2c954abd79203c7fd877c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728065,
+            "neighbourhood_id":85803915,
+            "region_id":85688567,
+            "venue_id":857295943
+        }
+    ],
+    "wof:id":857295943,
+    "wof:lastmodified":1464126323,
+    "wof:name":"Insurance Designers",
+    "wof:parent_id":85803915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.815468,
+    40.610863,
+    -111.815468,
+    40.610863
+],
+  "geometry": {"coordinates":[-111.815468,40.610863],"type":"Point"}
+}

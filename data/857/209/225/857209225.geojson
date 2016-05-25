@@ -1,0 +1,69 @@
+{
+  "id": 857209225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.857012,40.665649,-111.857012,40.665649",
+    "geom:latitude":40.665649,
+    "geom:longitude":-111.857012,
+    "iso:country":"US",
+    "sg:address":"1220 Murray Holladay Rd",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 685 7222",
+    "sg:postcode":"84117",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85826429,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pLZs24ivuXzYfAfj4EUuM_40.665649_-111.857012@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124373,
+    "wof:geomhash":"ce1c849bc6bbd7b48aeb117c376bf955",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85826429,
+            "region_id":85688567,
+            "venue_id":857209225
+        }
+    ],
+    "wof:id":857209225,
+    "wof:lastmodified":1464124373,
+    "wof:name":"Attitudes & Images Desgr Salon",
+    "wof:parent_id":85826429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.857012,
+    40.665649,
+    -111.857012,
+    40.665649
+],
+  "geometry": {"coordinates":[-111.857012,40.665649],"type":"Point"}
+}

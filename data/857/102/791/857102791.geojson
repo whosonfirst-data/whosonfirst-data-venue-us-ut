@@ -1,0 +1,79 @@
+{
+  "id": 857102791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.865441,40.710802,-111.865441,40.710802",
+    "geom:latitude":40.710802,
+    "geom:longitude":-111.865441,
+    "iso:country":"US",
+    "sg:address":"2860 S 900 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 466 0910",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85858223,
+        101728075,
+        85819795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fBb3lfGXNe3eNeP3vfFgr_40.710802_-111.865441@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121978,
+    "wof:geomhash":"d35995b46da3a7ce7e19f9fb06f9c6cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85858223,
+            "region_id":85688567,
+            "venue_id":857102791
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85819795,
+            "region_id":85688567,
+            "venue_id":857102791
+        }
+    ],
+    "wof:id":857102791,
+    "wof:lastmodified":1464121978,
+    "wof:name":"Health Procurement Svc Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.865441,
+    40.710802,
+    -111.865441,
+    40.710802
+],
+  "geometry": {"coordinates":[-111.865441,40.710802],"type":"Point"}
+}

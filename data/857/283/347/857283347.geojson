@@ -1,0 +1,86 @@
+{
+  "id": 857283347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.025945,41.118206,-112.025945,41.118206",
+    "geom:latitude":41.118206,
+    "geom:longitude":-112.025945,
+    "iso:country":"US",
+    "sg:address":"442 N Main St",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 776 6768",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automobile",
+        "testing",
+        "electrical",
+        "emission",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85851583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Q8FUIeTFcCLeCLGKTBYMn_41.118206_-112.025945@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125987,
+    "wof:geomhash":"a58a9fdf32ec9161f92f1462a3217bb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85851583,
+            "region_id":85688567,
+            "venue_id":857283347
+        }
+    ],
+    "wof:id":857283347,
+    "wof:lastmodified":1464125987,
+    "wof:name":"Weston's Special Svc",
+    "wof:parent_id":85851583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "testing",
+        "electrical",
+        "emission",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -112.025945,
+    41.118206,
+    -112.025945,
+    41.118206
+],
+  "geometry": {"coordinates":[-112.02594499999999,41.118206],"type":"Point"}
+}

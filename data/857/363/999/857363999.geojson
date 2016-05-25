@@ -1,0 +1,69 @@
+{
+  "id": 857363999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.697097,40.238731,-111.697097,40.238731",
+    "geom:latitude":40.238731,
+    "geom:longitude":-111.697097,
+    "iso:country":"US",
+    "sg:address":"2189 W 390 N",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Toys & Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 344 8520",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880073,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0J3ShcMPNUZcVvWYCm6Jps_40.238731_-111.697097@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127785,
+    "wof:geomhash":"d309de6a44094985b6c0a1967b264293",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880073,
+            "region_id":85688567,
+            "venue_id":857363999
+        }
+    ],
+    "wof:id":857363999,
+    "wof:lastmodified":1464127785,
+    "wof:name":"Allison Fitness",
+    "wof:parent_id":85880073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.697097,
+    40.238731,
+    -111.697097,
+    40.238731
+],
+  "geometry": {"coordinates":[-111.697097,40.238731],"type":"Point"}
+}

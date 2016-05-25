@@ -1,0 +1,69 @@
+{
+  "id": 857158465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.845351,40.387904,-111.845351,40.387904",
+    "geom:latitude":40.387904,
+    "geom:longitude":-111.845351,
+    "iso:country":"US",
+    "sg:address":"286 E Main St",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 766 6199",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DvsmyqJgOxr61wdO7JcwL_40.387904_-111.845351@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123315,
+    "wof:geomhash":"c61dee6e1bc937b79d43dfde773e93e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857158465
+        }
+    ],
+    "wof:id":857158465,
+    "wof:lastmodified":1464123315,
+    "wof:name":"Security Finance Corp",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -111.845351,
+    40.387904,
+    -111.845351,
+    40.387904
+],
+  "geometry": {"coordinates":[-111.84535099999999,40.387904],"type":"Point"}
+}

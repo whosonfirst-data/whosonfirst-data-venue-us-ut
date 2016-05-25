@@ -1,0 +1,75 @@
+{
+  "id": 857248405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.865088,40.4061,-111.865088,40.4061",
+    "geom:latitude":40.4061,
+    "geom:longitude":-111.865088,
+    "iso:country":"US",
+    "sg:address":"894 W 1500 N",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 768 8763",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "self",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727857,
+        102083567,
+        85836317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47P7SmPZLLoSZNdisZhTer_40.406100_-111.865088@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125209,
+    "wof:geomhash":"e51b6d2495bd6148a020ee6a1a6ff761",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727857,
+            "neighbourhood_id":85836317,
+            "region_id":85688567,
+            "venue_id":857248405
+        }
+    ],
+    "wof:id":857248405,
+    "wof:lastmodified":1464125209,
+    "wof:name":"AAA Self Storage",
+    "wof:parent_id":85836317,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "self",
+        "storage"
+    ]
+},
+  "bbox": [
+    -111.865088,
+    40.4061,
+    -111.865088,
+    40.4061
+],
+  "geometry": {"coordinates":[-111.865088,40.4061],"type":"Point"}
+}

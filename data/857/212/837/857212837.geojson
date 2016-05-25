@@ -1,0 +1,73 @@
+{
+  "id": 857212837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.83531,41.721982,-111.83531,41.721982",
+    "geom:latitude":41.721982,
+    "geom:longitude":-111.83531,
+    "iso:country":"US",
+    "sg:address":"521 S Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 8824",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GoCIttkLcBPb9j2h6slUC_41.721982_-111.835310@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124460,
+    "wof:geomhash":"77ca66eae992cfdcd6ab179eacc87f5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857212837
+        }
+    ],
+    "wof:id":857212837,
+    "wof:lastmodified":1464124460,
+    "wof:name":"Coldwell Banker Gold Key",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -111.83531,
+    41.721982,
+    -111.83531,
+    41.721982
+],
+  "geometry": {"coordinates":[-111.83531000000001,41.721982],"type":"Point"}
+}

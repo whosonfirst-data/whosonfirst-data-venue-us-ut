@@ -1,0 +1,75 @@
+{
+  "id": 857359561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.017845,41.089148,-112.017845,41.089148",
+    "geom:latitude":41.089148,
+    "geom:longitude":-112.017845,
+    "iso:country":"US",
+    "sg:address":"420 E 1700 S",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 773 1970",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85851583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UO1PVGZoPrXKDLG74HhOU_41.089148_-112.017845@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127689,
+    "wof:geomhash":"af93f5c4d8f0383bcbbdfb075d2e8aa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85851583,
+            "region_id":85688567,
+            "venue_id":857359561
+        }
+    ],
+    "wof:id":857359561,
+    "wof:lastmodified":1464127689,
+    "wof:name":"Bill's Superior Electric Inc",
+    "wof:parent_id":85851583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -112.017845,
+    41.089148,
+    -112.017845,
+    41.089148
+],
+  "geometry": {"coordinates":[-112.01784499999999,41.089148],"type":"Point"}
+}

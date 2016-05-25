@@ -1,0 +1,68 @@
+{
+  "id": 857184845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.935765,40.587844,-111.935765,40.587844",
+    "geom:latitude":40.587844,
+    "geom:longitude":-111.935765,
+    "iso:country":"US",
+    "sg:address":"1656 W 9000 S",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 255 5454",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85832913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40vxu8XnfaN1jwEp706Dok_40.587844_-111.935765@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123896,
+    "wof:geomhash":"1929847aba133279f7fb31fc5ef62445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85832913,
+            "region_id":85688567,
+            "venue_id":857184845
+        }
+    ],
+    "wof:id":857184845,
+    "wof:lastmodified":1464123896,
+    "wof:name":"Standard Optical",
+    "wof:parent_id":85832913,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.935765,
+    40.587844,
+    -111.935765,
+    40.587844
+],
+  "geometry": {"coordinates":[-111.935765,40.587844],"type":"Point"}
+}

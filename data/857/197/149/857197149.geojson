@@ -1,0 +1,77 @@
+{
+  "id": 857197149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.07743,41.160796,-112.07743,41.160796",
+    "geom:latitude":41.160796,
+    "geom:longitude":-112.07743,
+    "iso:country":"US",
+    "sg:address":"5641 S 4050 W",
+    "sg:city":"Roy",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 985 8826",
+    "sg:postcode":"84067",
+    "sg:province":"UT",
+    "sg:tags":[
+        "residential",
+        "group",
+        "counseling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85804651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sHS4xEdJYSHidOAHADNrr_41.160796_-112.077430@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124121,
+    "wof:geomhash":"78a96bd0a7e9ab94efd33ea36bbca095",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85804651,
+            "region_id":85688567,
+            "venue_id":857197149
+        }
+    ],
+    "wof:id":857197149,
+    "wof:lastmodified":1464124121,
+    "wof:name":"West Roy Home",
+    "wof:parent_id":85804651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "group",
+        "counseling"
+    ]
+},
+  "bbox": [
+    -112.07743,
+    41.160796,
+    -112.07743,
+    41.160796
+],
+  "geometry": {"coordinates":[-112.07743000000001,41.160796],"type":"Point"}
+}

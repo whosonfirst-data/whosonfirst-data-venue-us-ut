@@ -1,0 +1,77 @@
+{
+  "id": 857187901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.967421,40.677426,-111.967421,40.677426",
+    "geom:latitude":40.677426,
+    "geom:longitude":-111.967421,
+    "iso:country":"US",
+    "sg:address":"4315 S 3200 W",
+    "sg:city":"West Valley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 967 2507",
+    "sg:postcode":"84119",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85834353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fcB5qHGujNwA4wU4DVQ2T_40.677426_-111.967421@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123949,
+    "wof:geomhash":"60ae0522c399c46fb6a52a7980e8ee04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85834353,
+            "region_id":85688567,
+            "venue_id":857187901
+        }
+    ],
+    "wof:id":857187901,
+    "wof:lastmodified":1464123949,
+    "wof:name":"Brian Ballard-Pianist",
+    "wof:parent_id":85834353,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -111.967421,
+    40.677426,
+    -111.967421,
+    40.677426
+],
+  "geometry": {"coordinates":[-111.967421,40.677426],"type":"Point"}
+}

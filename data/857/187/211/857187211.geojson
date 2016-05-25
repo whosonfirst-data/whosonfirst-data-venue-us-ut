@@ -1,0 +1,75 @@
+{
+  "id": 857187211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.654654,40.116412,-111.654654,40.116412",
+    "geom:latitude":40.116412,
+    "geom:longitude":-111.654654,
+    "iso:country":"US",
+    "sg:address":"590 N Main St",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 1664",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "transmission",
+        "used",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZGJyTvlcAApx171THEivk_40.116412_-111.654654@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123937,
+    "wof:geomhash":"8a5b52f7666cab11a3bbd1c2c0947cf5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857187211
+        }
+    ],
+    "wof:id":857187211,
+    "wof:lastmodified":1464123937,
+    "wof:name":"Deans Qualify Transmissions",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "used",
+        "general"
+    ]
+},
+  "bbox": [
+    -111.654654,
+    40.116412,
+    -111.654654,
+    40.116412
+],
+  "geometry": {"coordinates":[-111.65465399999999,40.116412],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857248601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.792469,40.704793,-111.792469,40.704793",
+    "geom:latitude":40.704793,
+    "geom:longitude":-111.792469,
+    "iso:country":"US",
+    "sg:address":"3081 S Rainier Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 468 1335",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "support",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728257,
+        102082877,
+        85854869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hniSRXvCWtWJ2ao37xPtu_40.704793_-111.792469@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125215,
+    "wof:geomhash":"fb056e90ea3c44f84e6c048b75da1087",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85854869,
+            "region_id":85688567,
+            "venue_id":857248601
+        }
+    ],
+    "wof:id":857248601,
+    "wof:lastmodified":1464125215,
+    "wof:name":"Portage Environmental Inc",
+    "wof:parent_id":85854869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "support",
+        "facility"
+    ]
+},
+  "bbox": [
+    -111.792469,
+    40.704793,
+    -111.792469,
+    40.704793
+],
+  "geometry": {"coordinates":[-111.792469,40.704793],"type":"Point"}
+}

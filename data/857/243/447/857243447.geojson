@@ -1,0 +1,67 @@
+{
+  "id": 857243447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.939336,41.649372,-111.939336,41.649372",
+    "geom:latitude":41.649372,
+    "geom:longitude":-111.939336,
+    "iso:country":"US",
+    "sg:address":"525 N 200 W",
+    "sg:city":"Wellsville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 245 0505",
+    "sg:postcode":"84339",
+    "sg:province":"UT",
+    "sg:website":"www.cache.k12.ut.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727555,
+        102082881,
+        85823067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cMEnflNONz3Yqo7fig3R6_41.649372_-111.939336@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125093,
+    "wof:geomhash":"af589b9e30e86ab57df6790beb384b38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727555,
+            "neighbourhood_id":85823067,
+            "region_id":85688567,
+            "venue_id":857243447
+        }
+    ],
+    "wof:id":857243447,
+    "wof:lastmodified":1464125093,
+    "wof:name":"Willow Valley Middle School",
+    "wof:parent_id":85823067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.939336,
+    41.649372,
+    -111.939336,
+    41.649372
+],
+  "geometry": {"coordinates":[-111.939336,41.649372],"type":"Point"}
+}

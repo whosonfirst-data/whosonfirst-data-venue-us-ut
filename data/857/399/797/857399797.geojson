@@ -1,0 +1,68 @@
+{
+  "id": 857399797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.905497,40.577949,-111.905497,40.577949",
+    "geom:latitude":40.577949,
+    "geom:longitude":-111.905497,
+    "iso:country":"US",
+    "sg:address":"9500 S 500 W",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 967 0482",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85829663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fvDt6X1FzBbh0vl45wYlO_40.577949_-111.905497@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128618,
+    "wof:geomhash":"2c14a759c1971f4adb3b4c8c0ced3341",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85829663,
+            "region_id":85688567,
+            "venue_id":857399797
+        }
+    ],
+    "wof:id":857399797,
+    "wof:lastmodified":1464128618,
+    "wof:name":"TAG Co Inc",
+    "wof:parent_id":85829663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.905497,
+    40.577949,
+    -111.905497,
+    40.577949
+],
+  "geometry": {"coordinates":[-111.905497,40.577949],"type":"Point"}
+}

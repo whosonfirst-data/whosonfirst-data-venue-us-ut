@@ -1,0 +1,73 @@
+{
+  "id": 857219681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.84648,40.749872,-111.84648,40.749872",
+    "geom:latitude":40.749872,
+    "geom:longitude":-111.84648,
+    "iso:country":"US",
+    "sg:address":"1549 E 900 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 583 8856",
+    "sg:postcode":"84105",
+    "sg:province":"UT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ym1jkKWIoMO9i5dcGMOtB_40.749872_-111.846480@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124608,
+    "wof:geomhash":"2066d0941b2c00edf5658376fbdcab85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871031,
+            "region_id":85688567,
+            "venue_id":857219681
+        }
+    ],
+    "wof:id":857219681,
+    "wof:lastmodified":1464124608,
+    "wof:name":"K2-D2 Therapy",
+    "wof:parent_id":85871031,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -111.84648,
+    40.749872,
+    -111.84648,
+    40.749872
+],
+  "geometry": {"coordinates":[-111.84648,40.749872],"type":"Point"}
+}

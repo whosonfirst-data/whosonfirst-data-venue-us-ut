@@ -1,0 +1,85 @@
+{
+  "id": 857280305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.830169,40.623902,-111.830169,40.623902",
+    "geom:latitude":40.623902,
+    "geom:longitude":-111.830169,
+    "iso:country":"US",
+    "sg:address":"2122 Fort Union Blvd",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 943 3840",
+    "sg:postcode":"84121",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop",
+        "fitness",
+        "physical",
+        "facility"
+    ],
+    "sg:website":"www.shirodharadayspa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728065,
+        102082877,
+        85845715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5X568VTvvEQ2i4D9WLpxr2_40.623902_-111.830169@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125926,
+    "wof:geomhash":"d70f6552cf4a3a4f92d83ad6efbb9e86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728065,
+            "neighbourhood_id":85845715,
+            "region_id":85688567,
+            "venue_id":857280305
+        }
+    ],
+    "wof:id":857280305,
+    "wof:lastmodified":1464125926,
+    "wof:name":"The Shirodhara Day Spa",
+    "wof:parent_id":85845715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "fitness",
+        "physical",
+        "facility"
+    ]
+},
+  "bbox": [
+    -111.830169,
+    40.623902,
+    -111.830169,
+    40.623902
+],
+  "geometry": {"coordinates":[-111.830169,40.623902],"type":"Point"}
+}

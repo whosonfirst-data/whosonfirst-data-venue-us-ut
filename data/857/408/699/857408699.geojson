@@ -1,0 +1,73 @@
+{
+  "id": 857408699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.940798,41.106039,-111.940798,41.106039",
+    "geom:latitude":41.106039,
+    "geom:longitude":-111.940798,
+    "iso:country":"US",
+    "sg:address":"1367 E 3125 N",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 771 7000",
+    "sg:postcode":"84040",
+    "sg:province":"UT",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85844663,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_567crBJjbXyVOoI3xoD0Dj_41.106039_-111.940798@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128807,
+    "wof:geomhash":"f536846e89f09470269cc6ce346fac35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "neighbourhood_id":85844663,
+            "region_id":85688567,
+            "venue_id":857408699
+        }
+    ],
+    "wof:id":857408699,
+    "wof:lastmodified":1464128807,
+    "wof:name":"Greens Keeper",
+    "wof:parent_id":85844663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.940798,
+    41.106039,
+    -111.940798,
+    41.106039
+],
+  "geometry": {"coordinates":[-111.940798,41.106039],"type":"Point"}
+}

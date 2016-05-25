@@ -1,0 +1,73 @@
+{
+  "id": 857137683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.939268,40.65309,-111.939268,40.65309",
+    "geom:latitude":40.65309,
+    "geom:longitude":-111.939268,
+    "iso:country":"US",
+    "sg:address":"1735 W 5400 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 967 4402",
+    "sg:postcode":"84118",
+    "sg:province":"UT",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728059,
+        102082877,
+        85844177
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xYGQyMusZAUkTio2T7G22_40.653090_-111.939268@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122844,
+    "wof:geomhash":"122b8631fd088f9695047b456d1b2301",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728059,
+            "neighbourhood_id":85844177,
+            "region_id":85688567,
+            "venue_id":857137683
+        }
+    ],
+    "wof:id":857137683,
+    "wof:lastmodified":1464122844,
+    "wof:name":"Sheriffs Dept",
+    "wof:parent_id":85844177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -111.939268,
+    40.65309,
+    -111.939268,
+    40.65309
+],
+  "geometry": {"coordinates":[-111.939268,40.65309],"type":"Point"}
+}

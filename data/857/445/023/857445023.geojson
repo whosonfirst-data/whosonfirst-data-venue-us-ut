@@ -1,0 +1,76 @@
+{
+  "id": 857445023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.975903,41.070007,-111.975903,41.070007",
+    "geom:latitude":41.070007,
+    "geom:longitude":-111.975903,
+    "iso:country":"US",
+    "sg:address":"570 N Main St",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 544 3445",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.youngpontiac.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KTpVsoQqT0afCU3agCLej_41.070007_-111.975903@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129659,
+    "wof:geomhash":"1b963aabceb63f72055a0ccdd6e51358",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857445023
+        }
+    ],
+    "wof:id":857445023,
+    "wof:lastmodified":1464129659,
+    "wof:name":"Young Pontiac-Cadillac GMC",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -111.975903,
+    41.070007,
+    -111.975903,
+    41.070007
+],
+  "geometry": {"coordinates":[-111.975903,41.070007],"type":"Point"}
+}

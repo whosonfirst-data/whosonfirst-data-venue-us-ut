@@ -1,0 +1,73 @@
+{
+  "id": 857197347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.774312,40.761241,-111.774312,40.761241",
+    "geom:latitude":40.761241,
+    "geom:longitude":-111.774312,
+    "iso:country":"US",
+    "sg:address":"4454 Kenbridge Ct",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 583 9998",
+    "sg:postcode":"84108",
+    "sg:province":"UT",
+    "sg:tags":[
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728245,
+        102082877,
+        85850555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08SJwGbLQL3rJj9Y0X02WN_40.761241_-111.774312@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124125,
+    "wof:geomhash":"fac8114a7fc913df32e52ba57695e97a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728245,
+            "neighbourhood_id":85850555,
+            "region_id":85688567,
+            "venue_id":857197347
+        }
+    ],
+    "wof:id":857197347,
+    "wof:lastmodified":1464124125,
+    "wof:name":"Continental Trading Company",
+    "wof:parent_id":85850555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker"
+    ]
+},
+  "bbox": [
+    -111.774312,
+    40.761241,
+    -111.774312,
+    40.761241
+],
+  "geometry": {"coordinates":[-111.77431199999999,40.761241],"type":"Point"}
+}

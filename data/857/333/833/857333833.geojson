@@ -1,0 +1,71 @@
+{
+  "id": 857333833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.952347,41.107551,-111.952347,41.107551",
+    "geom:latitude":41.107551,
+    "geom:longitude":-111.952347,
+    "iso:country":"US",
+    "sg:address":"3068 N 750 E",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 771 8652",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85844663,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gThLpjiHcNK2sFrviAphm_41.107551_-111.952347@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127143,
+    "wof:geomhash":"cfdbe4eda6c6d76f35cd9b05e3dbca0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "neighbourhood_id":85844663,
+            "region_id":85688567,
+            "venue_id":857333833
+        }
+    ],
+    "wof:id":857333833,
+    "wof:lastmodified":1464127143,
+    "wof:name":"Pineview Plumbing",
+    "wof:parent_id":85844663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.952347,
+    41.107551,
+    -111.952347,
+    41.107551
+],
+  "geometry": {"coordinates":[-111.952347,41.107551],"type":"Point"}
+}

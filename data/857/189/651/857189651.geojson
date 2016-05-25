@@ -1,0 +1,73 @@
+{
+  "id": 857189651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.591777,40.149296,-111.591777,40.149296",
+    "geom:latitude":40.149296,
+    "geom:longitude":-111.591777,
+    "iso:country":"US",
+    "sg:address":"1056 E 1200 S",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 489 7237",
+    "sg:postcode":"84663",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727829,
+        102083567,
+        85880117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kjeXn072DyItnQ8L5OERN_40.149296_-111.591777@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123984,
+    "wof:geomhash":"ac8c0a703082382a4c37654fff2e4b86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727829,
+            "neighbourhood_id":85880117,
+            "region_id":85688567,
+            "venue_id":857189651
+        }
+    ],
+    "wof:id":857189651,
+    "wof:lastmodified":1464123984,
+    "wof:name":"Troy D Mills",
+    "wof:parent_id":85880117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -111.591777,
+    40.149296,
+    -111.591777,
+    40.149296
+],
+  "geometry": {"coordinates":[-111.59177699999999,40.149296],"type":"Point"}
+}

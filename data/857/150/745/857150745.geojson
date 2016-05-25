@@ -1,0 +1,68 @@
+{
+  "id": 857150745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.008243,40.534563,-112.008243,40.534563",
+    "geom:latitude":40.534563,
+    "geom:longitude":-112.008243,
+    "iso:country":"US",
+    "sg:address":"11928 Dynamite Cir",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 718 6397",
+    "sg:postcode":"84096",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728073,
+        102082877,
+        85845107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QyGizVqNKPaSBPrvkuWGH_40.534563_-112.008243@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123164,
+    "wof:geomhash":"4124684a89ecc811cd2b829981c7fb20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728073,
+            "neighbourhood_id":85845107,
+            "region_id":85688567,
+            "venue_id":857150745
+        }
+    ],
+    "wof:id":857150745,
+    "wof:lastmodified":1464123164,
+    "wof:name":"Salt Lake Radio Monitoring",
+    "wof:parent_id":85845107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.008243,
+    40.534563,
+    -112.008243,
+    40.534563
+],
+  "geometry": {"coordinates":[-112.00824299999999,40.534563],"type":"Point"}
+}

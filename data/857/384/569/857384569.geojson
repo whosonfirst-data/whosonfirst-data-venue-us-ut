@@ -1,0 +1,73 @@
+{
+  "id": 857384569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.660394,40.238932,-111.660394,40.238932",
+    "geom:latitude":40.238932,
+    "geom:longitude":-111.660394,
+    "iso:country":"US",
+    "sg:address":"310 N 100 W",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 377 6288",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64LZvVuRA8aXSgd6nSEHUD_40.238932_-111.660394@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128256,
+    "wof:geomhash":"6668bbb356a838c35b6c20eba8345fe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880121,
+            "region_id":85688567,
+            "venue_id":857384569
+        }
+    ],
+    "wof:id":857384569,
+    "wof:lastmodified":1464128256,
+    "wof:name":"Utah Valley Credit Union",
+    "wof:parent_id":85880121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -111.660394,
+    40.238932,
+    -111.660394,
+    40.238932
+],
+  "geometry": {"coordinates":[-111.660394,40.238932],"type":"Point"}
+}

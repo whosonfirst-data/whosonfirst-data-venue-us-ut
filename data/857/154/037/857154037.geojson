@@ -1,0 +1,71 @@
+{
+  "id": 857154037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.830467,41.761254,-111.830467,41.761254",
+    "geom:latitude":41.761254,
+    "geom:longitude":-111.830467,
+    "iso:country":"US",
+    "sg:address":"141 E 1600 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 4355",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3e0CDsRcuS7g9yoWji2tjC_41.761254_-111.830467@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123228,
+    "wof:geomhash":"78f0755c554e0caa7dd926aa4e2b6e6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857154037
+        }
+    ],
+    "wof:id":857154037,
+    "wof:lastmodified":1464123228,
+    "wof:name":"Instant Cash Flow",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -111.830467,
+    41.761254,
+    -111.830467,
+    41.761254
+],
+  "geometry": {"coordinates":[-111.830467,41.761254],"type":"Point"}
+}

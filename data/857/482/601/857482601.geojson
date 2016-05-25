@@ -1,0 +1,73 @@
+{
+  "id": 857482601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.593564,40.088056,-111.593564,40.088056",
+    "geom:latitude":40.088056,
+    "geom:longitude":-111.593564,
+    "iso:country":"US",
+    "sg:address":"3480 E Canyon Rd",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 6006",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jkujaX8sqtNfDjPDui5Dp_40.088056_-111.593564@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130420,
+    "wof:geomhash":"66d64610fb8e9a212620071439ad44db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857482601
+        }
+    ],
+    "wof:id":857482601,
+    "wof:lastmodified":1464130420,
+    "wof:name":"Legacy Mountain",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -111.593564,
+    40.088056,
+    -111.593564,
+    40.088056
+],
+  "geometry": {"coordinates":[-111.593564,40.088056],"type":"Point"}
+}

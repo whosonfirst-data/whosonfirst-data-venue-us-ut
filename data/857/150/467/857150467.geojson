@@ -1,0 +1,73 @@
+{
+  "id": 857150467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.819375,40.702287,-111.819375,40.702287",
+    "geom:latitude":40.702287,
+    "geom:longitude":-111.819375,
+    "iso:country":"US",
+    "sg:address":"2535 E Lambourne Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 484 1327",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85859423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gRMuxtkTsa6kFjjBoKkhM_40.702287_-111.819375@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123157,
+    "wof:geomhash":"95dd420c222a0c0babd4db3237b434a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85859423,
+            "region_id":85688567,
+            "venue_id":857150467
+        }
+    ],
+    "wof:id":857150467,
+    "wof:lastmodified":1464123157,
+    "wof:name":"Lyon Investments LLC",
+    "wof:parent_id":85859423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building"
+    ]
+},
+  "bbox": [
+    -111.819375,
+    40.702287,
+    -111.819375,
+    40.702287
+],
+  "geometry": {"coordinates":[-111.81937499999999,40.702287],"type":"Point"}
+}

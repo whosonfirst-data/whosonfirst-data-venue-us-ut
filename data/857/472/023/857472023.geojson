@@ -1,0 +1,75 @@
+{
+  "id": 857472023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.897331,40.583997,-111.897331,40.583997",
+    "geom:latitude":40.583997,
+    "geom:longitude":-111.897331,
+    "iso:country":"US",
+    "sg:address":"195 W 9210 S",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 255 7200",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85803467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ErhKvzsw6sIrgMZAyNmx1_40.583997_-111.897331@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130216,
+    "wof:geomhash":"af0dd242c12e5da189ee805ff3fa05a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85803467,
+            "region_id":85688567,
+            "venue_id":857472023
+        }
+    ],
+    "wof:id":857472023,
+    "wof:lastmodified":1464130216,
+    "wof:name":"Boyd's Automotive",
+    "wof:parent_id":85803467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -111.897331,
+    40.583997,
+    -111.897331,
+    40.583997
+],
+  "geometry": {"coordinates":[-111.89733099999999,40.583997],"type":"Point"}
+}

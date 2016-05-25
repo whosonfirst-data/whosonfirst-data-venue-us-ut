@@ -1,0 +1,75 @@
+{
+  "id": 857084595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.987006,41.089112,-111.987006,41.089112",
+    "geom:latitude":41.089112,
+    "geom:longitude":-111.987006,
+    "iso:country":"US",
+    "sg:address":"1055 W Antelope Dr",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 776 4447",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "center",
+        "improvement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eC7ZiTULOy6Fhn9AAK15b_41.089112_-111.987006@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121522,
+    "wof:geomhash":"f94bad60dcc93a5d9620fb87e71d181b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857084595
+        }
+    ],
+    "wof:id":857084595,
+    "wof:lastmodified":1464121522,
+    "wof:name":"Lowes",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center",
+        "improvement"
+    ]
+},
+  "bbox": [
+    -111.987006,
+    41.089112,
+    -111.987006,
+    41.089112
+],
+  "geometry": {"coordinates":[-111.98700599999999,41.089112],"type":"Point"}
+}

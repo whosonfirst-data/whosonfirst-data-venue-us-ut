@@ -1,0 +1,76 @@
+{
+  "id": 857493215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.877787,40.762831,-111.877787,40.762831",
+    "geom:latitude":40.762831,
+    "geom:longitude":-111.877787,
+    "iso:country":"US",
+    "sg:address":"454 E 300 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/34741-faustina/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 746 4441",
+    "sg:postcode":"84111",
+    "sg:province":"UT",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0z9Tu3z6IRFTlQlthgu99E_40.762831_-111.877787@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130706,
+    "wof:geomhash":"f69471d0708c4069c8419a18f1d6ea56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871021,
+            "region_id":85688567,
+            "venue_id":857493215
+        }
+    ],
+    "wof:id":857493215,
+    "wof:lastmodified":1464130706,
+    "wof:name":"Faustina",
+    "wof:parent_id":85871021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [
+    -111.877787,
+    40.762831,
+    -111.877787,
+    40.762831
+],
+  "geometry": {"coordinates":[-111.877787,40.762831],"type":"Point"}
+}

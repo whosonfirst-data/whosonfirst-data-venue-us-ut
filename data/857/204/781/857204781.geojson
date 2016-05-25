@@ -1,0 +1,73 @@
+{
+  "id": 857204781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.820238,41.715598,-111.820238,41.715598",
+    "geom:latitude":41.715598,
+    "geom:longitude":-111.820238,
+    "iso:country":"US",
+    "sg:address":"395 N 100 W",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 1121",
+    "sg:postcode":"84332",
+    "sg:province":"UT",
+    "sg:tags":[
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QebFhTlILHcMuQMI3nDQq_41.715598_-111.820238@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124286,
+    "wof:geomhash":"20f91291cff4bfdb2fe59e2fc9d4a917",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857204781
+        }
+    ],
+    "wof:id":857204781,
+    "wof:lastmodified":1464124286,
+    "wof:name":"T M Leasing Inc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -111.820238,
+    41.715598,
+    -111.820238,
+    41.715598
+],
+  "geometry": {"coordinates":[-111.820238,41.715598],"type":"Point"}
+}

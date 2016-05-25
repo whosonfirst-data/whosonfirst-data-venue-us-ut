@@ -1,0 +1,75 @@
+{
+  "id": 857373941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.853271,40.595122,-111.853271,40.595122",
+    "geom:latitude":40.595122,
+    "geom:longitude":-111.853271,
+    "iso:country":"US",
+    "sg:address":"1245 E 8600 S",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 566 0145",
+    "sg:postcode":"84094",
+    "sg:province":"UT",
+    "sg:tags":[
+        "center",
+        "treatment",
+        "outpatient",
+        "rehabilitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85847325,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2c4m3H9CEUWghOyREAU3Aj_40.595122_-111.853271@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127988,
+    "wof:geomhash":"ca0542ccaa341922fb75bb01229ae531",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85847325,
+            "region_id":85688567,
+            "venue_id":857373941
+        }
+    ],
+    "wof:id":857373941,
+    "wof:lastmodified":1464127988,
+    "wof:name":"HealthSouth",
+    "wof:parent_id":85847325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center",
+        "treatment",
+        "outpatient",
+        "rehabilitation"
+    ]
+},
+  "bbox": [
+    -111.853271,
+    40.595122,
+    -111.853271,
+    40.595122
+],
+  "geometry": {"coordinates":[-111.85327100000001,40.595122],"type":"Point"}
+}

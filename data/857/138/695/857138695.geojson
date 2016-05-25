@@ -1,0 +1,78 @@
+{
+  "id": 857138695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.876703,40.75751,-111.876703,40.75751",
+    "geom:latitude":40.75751,
+    "geom:longitude":-111.876703,
+    "iso:country":"US",
+    "sg:address":"511 S 500 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 359 7414",
+    "sg:postcode":"84102",
+    "sg:province":"UT",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26s2uawgMhocr3S7BP7H0T_40.757510_-111.876703@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122864,
+    "wof:geomhash":"50f391e949c5a0a18eeae9f9e1eab191",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871021,
+            "region_id":85688567,
+            "venue_id":857138695
+        }
+    ],
+    "wof:id":857138695,
+    "wof:lastmodified":1464122864,
+    "wof:name":"Hale's Market",
+    "wof:parent_id":85871021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -111.876703,
+    40.75751,
+    -111.876703,
+    40.75751
+],
+  "geometry": {"coordinates":[-111.87670300000001,40.75751],"type":"Point"}
+}

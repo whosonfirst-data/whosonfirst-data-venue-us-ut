@@ -1,0 +1,75 @@
+{
+  "id": 857191609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.919009,41.009105,-111.919009,41.009105",
+    "geom:latitude":41.009105,
+    "geom:longitude":-111.919009,
+    "iso:country":"US",
+    "sg:address":"1729 Stayner Dr",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 771 4768",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "steel",
+        "erection",
+        "structural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1m1W6McH7WFvZalqqk93EC_41.009105_-111.919009@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124017,
+    "wof:geomhash":"27dc774e3d12b3090e7306825b306728",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857191609
+        }
+    ],
+    "wof:id":857191609,
+    "wof:lastmodified":1464124017,
+    "wof:name":"Celia Steel Erection Inc",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "erection",
+        "structural"
+    ]
+},
+  "bbox": [
+    -111.919009,
+    41.009105,
+    -111.919009,
+    41.009105
+],
+  "geometry": {"coordinates":[-111.919009,41.009105],"type":"Point"}
+}

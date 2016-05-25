@@ -1,0 +1,71 @@
+{
+  "id": 857283159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.62862,40.217031,-111.62862,40.217031",
+    "geom:latitude":40.217031,
+    "geom:longitude":-111.62862,
+    "iso:country":"US",
+    "sg:address":"1200 Nevada Ave",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 375 6639",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727863,
+        102083567,
+        85880103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15dgWNNhmrwDSTeERHwI5l_40.217031_-111.628620@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125984,
+    "wof:geomhash":"b531910a00b047ce9a756bf8c249e3c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880103,
+            "region_id":85688567,
+            "venue_id":857283159
+        }
+    ],
+    "wof:id":857283159,
+    "wof:lastmodified":1464125984,
+    "wof:name":"Miller Education Grp",
+    "wof:parent_id":85880103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -111.62862,
+    40.217031,
+    -111.62862,
+    40.217031
+],
+  "geometry": {"coordinates":[-111.62862,40.217031],"type":"Point"}
+}

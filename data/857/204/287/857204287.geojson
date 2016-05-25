@@ -1,0 +1,73 @@
+{
+  "id": 857204287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.892426,40.70893,-111.892426,40.70893",
+    "geom:latitude":40.70893,
+    "geom:longitude":-111.892426,
+    "iso:country":"US",
+    "sg:address":"65 W Louise Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 412 0464",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85854999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fdQUrsdFe6aSb1YGxvLcR_40.708930_-111.892426@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124274,
+    "wof:geomhash":"4a4a6c12397a6eb39e1903d4da8763d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85854999,
+            "region_id":85688567,
+            "venue_id":857204287
+        }
+    ],
+    "wof:id":857204287,
+    "wof:lastmodified":1464124274,
+    "wof:name":"USA Alliance",
+    "wof:parent_id":85854999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -111.892426,
+    40.70893,
+    -111.892426,
+    40.70893
+],
+  "geometry": {"coordinates":[-111.892426,40.70893],"type":"Point"}
+}

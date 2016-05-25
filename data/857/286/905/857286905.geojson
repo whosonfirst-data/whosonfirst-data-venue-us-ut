@@ -1,0 +1,73 @@
+{
+  "id": 857286905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.832162,41.735257,-111.832162,41.735257",
+    "geom:latitude":41.735257,
+    "geom:longitude":-111.832162,
+    "iso:country":"US",
+    "sg:address":"294 N 100 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 755 5609",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mormon",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XK3qm4C249hlTfsnuOtEC_41.735257_-111.832162@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126062,
+    "wof:geomhash":"45ed0add165867d5b655acefbf43aef9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857286905
+        }
+    ],
+    "wof:id":857286905,
+    "wof:lastmodified":1464126062,
+    "wof:name":"University Ninth Ward",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mormon",
+        "church"
+    ]
+},
+  "bbox": [
+    -111.832162,
+    41.735257,
+    -111.832162,
+    41.735257
+],
+  "geometry": {"coordinates":[-111.832162,41.735257],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857262927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.655804,40.111099,-111.655804,40.111099",
+    "geom:latitude":40.111099,
+    "geom:longitude":-111.655804,
+    "iso:country":"US",
+    "sg:address":"55 W 100 N",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 6555",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gCG4FZhOlh5xoqwKcenX3_40.111099_-111.655804@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125552,
+    "wof:geomhash":"ca77fe0a7a6b0413e2844f65b31adfa1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857262927
+        }
+    ],
+    "wof:id":857262927,
+    "wof:lastmodified":1464125552,
+    "wof:name":"Spanish Fork Liquor Agency",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -111.655804,
+    40.111099,
+    -111.655804,
+    40.111099
+],
+  "geometry": {"coordinates":[-111.655804,40.111099],"type":"Point"}
+}

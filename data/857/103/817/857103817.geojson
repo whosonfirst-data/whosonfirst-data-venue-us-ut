@@ -1,0 +1,73 @@
+{
+  "id": 857103817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.945661,41.062495,-111.945661,41.062495",
+    "geom:latitude":41.062495,
+    "geom:longitude":-111.945661,
+    "iso:country":"US",
+    "sg:address":"70 N Fairfield Rd",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 444 3420",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Etq4kPpxlUhdRQ8QVICAv_41.062495_-111.945661@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122002,
+    "wof:geomhash":"039450c70f27e31676c5e24b4fceed47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857103817
+        }
+    ],
+    "wof:id":857103817,
+    "wof:lastmodified":1464122002,
+    "wof:name":"Layton Nails",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -111.945661,
+    41.062495,
+    -111.945661,
+    41.062495
+],
+  "geometry": {"coordinates":[-111.945661,41.062495],"type":"Point"}
+}

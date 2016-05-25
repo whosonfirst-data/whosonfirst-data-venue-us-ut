@@ -1,0 +1,75 @@
+{
+  "id": 857346721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.865552,40.735518,-111.865552,40.735518",
+    "geom:latitude":40.735518,
+    "geom:longitude":-111.865552,
+    "iso:country":"US",
+    "sg:address":"810 Bryan Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 466 9400",
+    "sg:postcode":"84105",
+    "sg:province":"UT",
+    "sg:tags":[
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85855583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64zDvK0AG4E7JnSjeWPR2b_40.735518_-111.865552@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127410,
+    "wof:geomhash":"471448eefabfd00a9397f32ad8792d32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85855583,
+            "region_id":85688567,
+            "venue_id":857346721
+        }
+    ],
+    "wof:id":857346721,
+    "wof:lastmodified":1464127410,
+    "wof:name":"Codemotion LLC",
+    "wof:parent_id":85855583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -111.865552,
+    40.735518,
+    -111.865552,
+    40.735518
+],
+  "geometry": {"coordinates":[-111.86555199999999,40.735518],"type":"Point"}
+}

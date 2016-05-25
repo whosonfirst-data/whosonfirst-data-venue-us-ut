@@ -1,0 +1,73 @@
+{
+  "id": 857388605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834248,41.766574,-111.834248,41.766574",
+    "geom:latitude":41.766574,
+    "geom:longitude":-111.834248,
+    "iso:country":"US",
+    "sg:address":"1815 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 787 8770",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "cleaners",
+        "vacuum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4N5S8eEfZPVKC9TFs1HMkX_41.766574_-111.834248@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128395,
+    "wof:geomhash":"19ca76f06a3cb1ec0a75c50bddd17c88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857388605
+        }
+    ],
+    "wof:id":857388605,
+    "wof:lastmodified":1464128395,
+    "wof:name":"Aslett's Cleaning Ctr",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "vacuum"
+    ]
+},
+  "bbox": [
+    -111.834248,
+    41.766574,
+    -111.834248,
+    41.766574
+],
+  "geometry": {"coordinates":[-111.834248,41.766574],"type":"Point"}
+}

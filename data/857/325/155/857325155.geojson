@@ -1,0 +1,73 @@
+{
+  "id": 857325155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.71322,40.082391,-111.71322,40.082391",
+    "geom:latitude":40.082391,
+    "geom:longitude":-111.71322,
+    "iso:country":"US",
+    "sg:address":"8162 S 2450 W",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 2288",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hdymsTLn6S6I63cuU9LCN_40.082391_-111.713220@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126953,
+    "wof:geomhash":"cbd2d6d3ff218b31c3537eddae7e36b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857325155
+        }
+    ],
+    "wof:id":857325155,
+    "wof:lastmodified":1464126953,
+    "wof:name":"Dallas Swenson",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -111.71322,
+    40.082391,
+    -111.71322,
+    40.082391
+],
+  "geometry": {"coordinates":[-111.71322000000001,40.082391],"type":"Point"}
+}

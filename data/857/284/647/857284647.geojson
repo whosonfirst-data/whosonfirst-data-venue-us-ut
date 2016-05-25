@@ -1,0 +1,73 @@
+{
+  "id": 857284647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.747196,40.056115,-111.747196,40.056115",
+    "geom:latitude":40.056115,
+    "geom:longitude":-111.747196,
+    "iso:country":"US",
+    "sg:address":"3880 W 9600 S",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 2668",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HjjEfrAI2SeGKYsyLYSXw_40.056115_-111.747196@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126015,
+    "wof:geomhash":"8397dea145b0c9622c22340c1f2b487b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857284647
+        }
+    ],
+    "wof:id":857284647,
+    "wof:lastmodified":1464126015,
+    "wof:name":"Juhl Trucking",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -111.747196,
+    40.056115,
+    -111.747196,
+    40.056115
+],
+  "geometry": {"coordinates":[-111.747196,40.056115],"type":"Point"}
+}

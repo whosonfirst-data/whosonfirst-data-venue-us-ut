@@ -1,0 +1,75 @@
+{
+  "id": 857285903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.695666,40.2983,-111.695666,40.2983",
+    "geom:latitude":40.2983,
+    "geom:longitude":-111.695666,
+    "iso:country":"US",
+    "sg:address":"35 N State St",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 379 2140",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "national",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85849197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0niF1hYAfrBiED76erc1aF_40.298300_-111.695666@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126043,
+    "wof:geomhash":"c88a3a188e472396a3ca7a32b52ae916",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85849197,
+            "region_id":85688567,
+            "venue_id":857285903
+        }
+    ],
+    "wof:id":857285903,
+    "wof:lastmodified":1464126043,
+    "wof:name":"Wells Fargo",
+    "wof:parent_id":85849197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -111.695666,
+    40.2983,
+    -111.695666,
+    40.2983
+],
+  "geometry": {"coordinates":[-111.695666,40.2983],"type":"Point"}
+}

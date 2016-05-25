@@ -1,0 +1,68 @@
+{
+  "id": 857258101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.064652,41.091855,-112.064652,41.091855",
+    "geom:latitude":41.091855,
+    "geom:longitude":-112.064652,
+    "iso:country":"US",
+    "sg:address":"1450 S 2000 W",
+    "sg:city":"Syracuse",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 402 6800",
+    "sg:postcode":"84075",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727889,
+        102083563,
+        85804563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TxH15WS4gI0GDeut2uEeM_41.091855_-112.064652@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125453,
+    "wof:geomhash":"53522376ca71d30a3c6b13d41d6dbe54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727889,
+            "neighbourhood_id":85804563,
+            "region_id":85688567,
+            "venue_id":857258101
+        }
+    ],
+    "wof:id":857258101,
+    "wof:lastmodified":1464125453,
+    "wof:name":"Syracuse Junior High Schl 420",
+    "wof:parent_id":85804563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.064652,
+    41.091855,
+    -112.064652,
+    41.091855
+],
+  "geometry": {"coordinates":[-112.064652,41.091855],"type":"Point"}
+}

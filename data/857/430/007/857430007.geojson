@@ -1,0 +1,73 @@
+{
+  "id": 857430007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.63618,40.228435,-111.63618,40.228435",
+    "geom:latitude":40.228435,
+    "geom:longitude":-111.63618,
+    "iso:country":"US",
+    "sg:address":"363 S 1280 E",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 375 0170",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UVn2AHVXh7Szi0USSmnWu_40.228435_-111.636180@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129344,
+    "wof:geomhash":"18b60734fff7864a14644cf5ce5f8fe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880093,
+            "region_id":85688567,
+            "venue_id":857430007
+        }
+    ],
+    "wof:id":857430007,
+    "wof:lastmodified":1464129344,
+    "wof:name":"J R Linford Plumbing & Heating",
+    "wof:parent_id":85880093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.63618,
+    40.228435,
+    -111.63618,
+    40.228435
+],
+  "geometry": {"coordinates":[-111.63618,40.228435],"type":"Point"}
+}

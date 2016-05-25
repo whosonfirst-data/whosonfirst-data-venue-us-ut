@@ -1,0 +1,71 @@
+{
+  "id": 857078095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.9368,41.237661,-111.9368,41.237661",
+    "geom:latitude":41.237661,
+    "geom:longitude":-111.9368,
+    "iso:country":"US",
+    "sg:address":"1490 Park Blvd",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 629 8244",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "executive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728033,
+        102083539,
+        85835839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65EJQfpnHPouKADGkxIIZQ_41.237661_-111.936800@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121355,
+    "wof:geomhash":"23b8e855b7d929941c37a434a0707d03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85835839,
+            "region_id":85688567,
+            "venue_id":857078095
+        }
+    ],
+    "wof:id":857078095,
+    "wof:lastmodified":1464121355,
+    "wof:name":"City of Ogden",
+    "wof:parent_id":85835839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "executive"
+    ]
+},
+  "bbox": [
+    -111.9368,
+    41.237661,
+    -111.9368,
+    41.237661
+],
+  "geometry": {"coordinates":[-111.93680000000001,41.237661],"type":"Point"}
+}

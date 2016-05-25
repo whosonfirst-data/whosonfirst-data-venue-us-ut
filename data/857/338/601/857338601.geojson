@@ -1,0 +1,68 @@
+{
+  "id": 857338601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.940597,41.155449,-111.940597,41.155449",
+    "geom:latitude":41.155449,
+    "geom:longitude":-111.940597,
+    "iso:country":"US",
+    "sg:address":"1491 E Ridgeline Dr",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 409 1100",
+    "sg:postcode":"84405",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728021,
+        102083539,
+        85831977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Eu19GdejGw2UDJhDspYuf_41.155449_-111.940597@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127244,
+    "wof:geomhash":"1e0c648b16dbc9e591b885ed86c8a7ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728021,
+            "neighbourhood_id":85831977,
+            "region_id":85688567,
+            "venue_id":857338601
+        }
+    ],
+    "wof:id":857338601,
+    "wof:lastmodified":1464127244,
+    "wof:name":"Capitalwerks LLC",
+    "wof:parent_id":85831977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.940597,
+    41.155449,
+    -111.940597,
+    41.155449
+],
+  "geometry": {"coordinates":[-111.940597,41.155449],"type":"Point"}
+}

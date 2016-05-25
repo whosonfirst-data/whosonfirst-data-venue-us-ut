@@ -1,0 +1,71 @@
+{
+  "id": 857254783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.838842,41.572871,-111.838842,41.572871",
+    "geom:latitude":41.572871,
+    "geom:longitude":-111.838842,
+    "iso:country":"US",
+    "sg:address":"288 W 8800 S",
+    "sg:city":"Paradise",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 245 6626",
+    "sg:postcode":"84328",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727555,
+        102082881,
+        85823067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30ahLzIDmGmKzzv4LFKLvf_41.572871_-111.838842@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125372,
+    "wof:geomhash":"cb0d2dcfac66507744bbf7cb0b8dcb24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727555,
+            "neighbourhood_id":85823067,
+            "region_id":85688567,
+            "venue_id":857254783
+        }
+    ],
+    "wof:id":857254783,
+    "wof:lastmodified":1464125372,
+    "wof:name":"Norman Mike Construction Co",
+    "wof:parent_id":85823067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.838842,
+    41.572871,
+    -111.838842,
+    41.572871
+],
+  "geometry": {"coordinates":[-111.838842,41.572871],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857439325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.990454,41.074678,-111.990454,41.074678",
+    "geom:latitude":41.074678,
+    "geom:longitude":-111.990454,
+    "iso:country":"US",
+    "sg:address":"1000 Laytona Dr",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 544 4213",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hg6bfqbupipQafNe9QpIw_41.074678_-111.990454@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129557,
+    "wof:geomhash":"059a73584fe6911982efc454f0eee0b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857439325
+        }
+    ],
+    "wof:id":857439325,
+    "wof:lastmodified":1464129557,
+    "wof:name":"Absolute Wellness & Chiro",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.990454,
+    41.074678,
+    -111.990454,
+    41.074678
+],
+  "geometry": {"coordinates":[-111.990454,41.074678],"type":"Point"}
+}

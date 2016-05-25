@@ -1,0 +1,68 @@
+{
+  "id": 857431303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.885679,40.775769,-111.885679,40.775769",
+    "geom:latitude":40.775769,
+    "geom:longitude":-111.885679,
+    "iso:country":"US",
+    "sg:address":"225 N Canyon Rd",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 524 9603",
+    "sg:postcode":"84103",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85809381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pbjC0KWGzz0rn5DfPtdGC_40.775769_-111.885679@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129372,
+    "wof:geomhash":"6ca7872ac86f742185a16d24af710c44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85809381,
+            "region_id":85688567,
+            "venue_id":857431303
+        }
+    ],
+    "wof:id":857431303,
+    "wof:lastmodified":1464129372,
+    "wof:name":"White Spider Mountaineering LL",
+    "wof:parent_id":85809381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.885679,
+    40.775769,
+    -111.885679,
+    40.775769
+],
+  "geometry": {"coordinates":[-111.885679,40.775769],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857484649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.948009,41.229761,-111.948009,41.229761",
+    "geom:latitude":41.229761,
+    "geom:longitude":-111.948009,
+    "iso:country":"US",
+    "sg:address":"2098 Harrison Blvd",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 394 5584",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85803557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AWwh0zC8AEXvW6voDN9Yq_41.229761_-111.948009@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130457,
+    "wof:geomhash":"78cb014e1a561b9240fca25251c07c7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85803557,
+            "region_id":85688567,
+            "venue_id":857484649
+        }
+    ],
+    "wof:id":857484649,
+    "wof:lastmodified":1464130457,
+    "wof:name":"Chevron",
+    "wof:parent_id":85803557,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -111.948009,
+    41.229761,
+    -111.948009,
+    41.229761
+],
+  "geometry": {"coordinates":[-111.948009,41.229761],"type":"Point"}
+}

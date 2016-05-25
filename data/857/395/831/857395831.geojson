@@ -1,0 +1,75 @@
+{
+  "id": 857395831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.938823,40.626871,-111.938823,40.626871",
+    "geom:latitude":40.626871,
+    "geom:longitude":-111.938823,
+    "iso:country":"US",
+    "sg:address":"6832 S Redwood Rd",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 569 9707",
+    "sg:postcode":"84084",
+    "sg:province":"UT",
+    "sg:tags":[
+        "party",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85824493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sQA9wKcDGZDCkf2iQfZqe_40.626871_-111.938823@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128544,
+    "wof:geomhash":"b4b105b1ca1c63368dc80ae1aaad28fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85824493,
+            "region_id":85688567,
+            "venue_id":857395831
+        }
+    ],
+    "wof:id":857395831,
+    "wof:lastmodified":1464128544,
+    "wof:name":"Party City",
+    "wof:parent_id":85824493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "party",
+        "supply"
+    ]
+},
+  "bbox": [
+    -111.938823,
+    40.626871,
+    -111.938823,
+    40.626871
+],
+  "geometry": {"coordinates":[-111.938823,40.626871],"type":"Point"}
+}

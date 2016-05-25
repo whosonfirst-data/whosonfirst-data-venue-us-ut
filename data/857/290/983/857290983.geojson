@@ -1,0 +1,86 @@
+{
+  "id": 857290983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.902137,40.859337,-111.902137,40.859337",
+    "geom:latitude":40.859337,
+    "geom:longitude":-111.902137,
+    "iso:country":"US",
+    "sg:address":"955 N 400 E",
+    "sg:city":"North Salt Lake",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 292 9479",
+    "sg:postcode":"84054",
+    "sg:province":"UT",
+    "sg:tags":[
+        "bulk",
+        "terminal",
+        "station",
+        "representative",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727895,
+        102083563,
+        85835391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CFKd4EW3l9VW0aneLDJ7k_40.859337_-111.902137@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126167,
+    "wof:geomhash":"f571c4b0f3e16a124c7084afb05e5d4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727895,
+            "neighbourhood_id":85835391,
+            "region_id":85688567,
+            "venue_id":857290983
+        }
+    ],
+    "wof:id":857290983,
+    "wof:lastmodified":1464126167,
+    "wof:name":"Chemical Consultants Inc",
+    "wof:parent_id":85835391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulk",
+        "terminal",
+        "station",
+        "representative",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -111.902137,
+    40.859337,
+    -111.902137,
+    40.859337
+],
+  "geometry": {"coordinates":[-111.902137,40.859337],"type":"Point"}
+}

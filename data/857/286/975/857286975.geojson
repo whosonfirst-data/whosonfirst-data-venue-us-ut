@@ -1,0 +1,68 @@
+{
+  "id": 857286975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.949369,41.175412,-111.949369,41.175412",
+    "geom:latitude":41.175412,
+    "geom:longitude":-111.949369,
+    "iso:country":"US",
+    "sg:address":"4847 Harrison Blvd",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 479 4410",
+    "sg:postcode":"84403",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85804639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DZ16vaZT5OO6IXfsYfuBT_41.175412_-111.949369@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126064,
+    "wof:geomhash":"a764afddb3e9db6725bd22af584ea0e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85804639,
+            "region_id":85688567,
+            "venue_id":857286975
+        }
+    ],
+    "wof:id":857286975,
+    "wof:lastmodified":1464126064,
+    "wof:name":"Birch Creek Animal Hospital",
+    "wof:parent_id":85804639,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.949369,
+    41.175412,
+    -111.949369,
+    41.175412
+],
+  "geometry": {"coordinates":[-111.949369,41.175412],"type":"Point"}
+}

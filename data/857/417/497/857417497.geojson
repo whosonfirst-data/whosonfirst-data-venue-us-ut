@@ -1,0 +1,73 @@
+{
+  "id": 857417497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.848605,40.589105,-111.848605,40.589105",
+    "geom:latitude":40.589105,
+    "geom:longitude":-111.848605,
+    "iso:country":"US",
+    "sg:address":"8930 Capella Way",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 563 3059",
+    "sg:postcode":"84093",
+    "sg:province":"UT",
+    "sg:tags":[
+        "equipment",
+        "satellite",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85847325,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4I1mfdBDjdwfkIoVLI7HbC_40.589105_-111.848605@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129047,
+    "wof:geomhash":"4b9ce5a1a3de1bf2185326c1c06c9d5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85847325,
+            "region_id":85688567,
+            "venue_id":857417497
+        }
+    ],
+    "wof:id":857417497,
+    "wof:lastmodified":1464129047,
+    "wof:name":"Universal Satellite",
+    "wof:parent_id":85847325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "satellite",
+        "system"
+    ]
+},
+  "bbox": [
+    -111.848605,
+    40.589105,
+    -111.848605,
+    40.589105
+],
+  "geometry": {"coordinates":[-111.84860500000001,40.589105],"type":"Point"}
+}

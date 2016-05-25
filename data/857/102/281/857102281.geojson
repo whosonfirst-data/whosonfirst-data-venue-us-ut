@@ -1,0 +1,78 @@
+{
+  "id": 857102281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.798548,40.378989,-111.798548,40.378989",
+    "geom:latitude":40.378989,
+    "geom:longitude":-111.798548,
+    "iso:country":"US",
+    "sg:address":"98 N Center St",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 763 3045",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "passenger",
+        "executive",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bCx72Pvnbbfrp0EOJdUej_40.378989_-111.798548@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121966,
+    "wof:geomhash":"8303de2f95ac9c2d1b007f520e0a9c04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857102281
+        }
+    ],
+    "wof:id":857102281,
+    "wof:lastmodified":1464121966,
+    "wof:name":"American Fork Ambulance",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "executive",
+        "village"
+    ]
+},
+  "bbox": [
+    -111.798548,
+    40.378989,
+    -111.798548,
+    40.378989
+],
+  "geometry": {"coordinates":[-111.798548,40.378989],"type":"Point"}
+}

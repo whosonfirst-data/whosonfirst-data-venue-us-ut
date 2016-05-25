@@ -1,0 +1,71 @@
+{
+  "id": 857411653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.73238,40.034188,-111.73238,40.034188",
+    "geom:latitude":40.034188,
+    "geom:longitude":-111.73238,
+    "iso:country":"US",
+    "sg:address":"640 S Main St",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 3369",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cVq42R4iVst78g586SGPn_40.034188_-111.732380@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128890,
+    "wof:geomhash":"b9013ed13cb0b10f8cc324b0deade05f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857411653
+        }
+    ],
+    "wof:id":857411653,
+    "wof:lastmodified":1464128890,
+    "wof:name":"Competitive Cuts",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.73238,
+    40.034188,
+    -111.73238,
+    40.034188
+],
+  "geometry": {"coordinates":[-111.73238000000001,40.034188],"type":"Point"}
+}

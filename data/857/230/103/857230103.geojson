@@ -1,0 +1,75 @@
+{
+  "id": 857230103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.943417,40.587664,-111.943417,40.587664",
+    "geom:latitude":40.587664,
+    "geom:longitude":-111.943417,
+    "iso:country":"US",
+    "sg:address":"1995 W 9000 S",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 566 5646",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "consulting",
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85832913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63VtMjnnyxpE13V77Rj2dW_40.587664_-111.943417@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124809,
+    "wof:geomhash":"00c8fc577ebdb86e0298db9ceefb8fce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85832913,
+            "region_id":85688567,
+            "venue_id":857230103
+        }
+    ],
+    "wof:id":857230103,
+    "wof:lastmodified":1464124809,
+    "wof:name":"Nufocus",
+    "wof:parent_id":85832913,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting",
+        "management"
+    ]
+},
+  "bbox": [
+    -111.943417,
+    40.587664,
+    -111.943417,
+    40.587664
+],
+  "geometry": {"coordinates":[-111.943417,40.587664],"type":"Point"}
+}

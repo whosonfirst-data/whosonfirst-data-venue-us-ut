@@ -1,0 +1,73 @@
+{
+  "id": 857226225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.026399,41.155721,-112.026399,41.155721",
+    "geom:latitude":41.155721,
+    "geom:longitude":-112.026399,
+    "iso:country":"US",
+    "sg:address":"1915 W 5950 S",
+    "sg:city":"Roy",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 773 5005",
+    "sg:postcode":"84067",
+    "sg:province":"UT",
+    "sg:tags":[
+        "physician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728023,
+        102083539,
+        85843307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qSwOzNbViEFzUOgGnQSEW_41.155721_-112.026399@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124733,
+    "wof:geomhash":"7b555ec5f2e11d4f34cd482039e55d09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728023,
+            "neighbourhood_id":85843307,
+            "region_id":85688567,
+            "venue_id":857226225
+        }
+    ],
+    "wof:id":857226225,
+    "wof:lastmodified":1464124733,
+    "wof:name":"Herefrdshire Fmly Physcians PC",
+    "wof:parent_id":85843307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician"
+    ]
+},
+  "bbox": [
+    -112.026399,
+    41.155721,
+    -112.026399,
+    41.155721
+],
+  "geometry": {"coordinates":[-112.026399,41.155721],"type":"Point"}
+}

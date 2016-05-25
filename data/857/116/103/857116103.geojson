@@ -1,0 +1,71 @@
+{
+  "id": 857116103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.856971,41.725948,-111.856971,41.725948",
+    "geom:latitude":41.725948,
+    "geom:longitude":-111.856971,
+    "iso:country":"US",
+    "sg:address":"867 W 330 S",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 4549",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JbIJ9onGmW8tZ0yLAVKsC_41.725948_-111.856971@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122348,
+    "wof:geomhash":"88f76522ee3d56c559055fc0c26a9437",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857116103
+        }
+    ],
+    "wof:id":857116103,
+    "wof:lastmodified":1464122348,
+    "wof:name":"Busibee Day Care",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -111.856971,
+    41.725948,
+    -111.856971,
+    41.725948
+],
+  "geometry": {"coordinates":[-111.856971,41.725948],"type":"Point"}
+}

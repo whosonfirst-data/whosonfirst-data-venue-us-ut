@@ -1,0 +1,73 @@
+{
+  "id": 857316055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.829523,41.55132,-111.829523,41.55132",
+    "geom:latitude":41.55132,
+    "geom:longitude":-111.829523,
+    "iso:country":"US",
+    "sg:address":"9971 S Hwy 165",
+    "sg:city":"Paradise",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Orchard",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 245 6203",
+    "sg:postcode":"84328",
+    "sg:province":"UT",
+    "sg:tags":[
+        "fruit",
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727555,
+        102082881,
+        85823067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zMJfnr3Uo3Zc2jv2jqowN_41.551320_-111.829523@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126747,
+    "wof:geomhash":"78126132a6af7172b5b8cc129f70aa27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727555,
+            "neighbourhood_id":85823067,
+            "region_id":85688567,
+            "venue_id":857316055
+        }
+    ],
+    "wof:id":857316055,
+    "wof:lastmodified":1464126747,
+    "wof:name":"Paradise Valley Orchard",
+    "wof:parent_id":85823067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fruit",
+        "tree"
+    ]
+},
+  "bbox": [
+    -111.829523,
+    41.55132,
+    -111.829523,
+    41.55132
+],
+  "geometry": {"coordinates":[-111.82952299999999,41.55132],"type":"Point"}
+}

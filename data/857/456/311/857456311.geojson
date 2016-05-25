@@ -1,0 +1,73 @@
+{
+  "id": 857456311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.833591,41.733341,-111.833591,41.733341",
+    "geom:latitude":41.733341,
+    "geom:longitude":-111.833591,
+    "iso:country":"US",
+    "sg:address":"55 E 100 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 792 3100",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QY7jlC5RLSPn1cORY76Qt_41.733341_-111.833591@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129878,
+    "wof:geomhash":"65dbc1d09a3e2b6bb1685beaffc2916c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857456311
+        }
+    ],
+    "wof:id":857456311,
+    "wof:lastmodified":1464129878,
+    "wof:name":"Security Mortgage Lending",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -111.833591,
+    41.733341,
+    -111.833591,
+    41.733341
+],
+  "geometry": {"coordinates":[-111.833591,41.733341],"type":"Point"}
+}

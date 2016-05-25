@@ -1,0 +1,71 @@
+{
+  "id": 857456723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.805448,41.708295,-111.805448,41.708295",
+    "geom:latitude":41.708295,
+    "geom:longitude":-111.805448,
+    "iso:country":"US",
+    "sg:address":"491 Vons Way Dr",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 2622",
+    "sg:postcode":"84332",
+    "sg:province":"UT",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1O3TrgpeH795dJC4BH4GEk_41.708295_-111.805448@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129886,
+    "wof:geomhash":"2502af3cd0ccf95187ad7e0b17e81f93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857456723
+        }
+    ],
+    "wof:id":857456723,
+    "wof:lastmodified":1464129886,
+    "wof:name":"Tymeless Image A",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -111.805448,
+    41.708295,
+    -111.805448,
+    41.708295
+],
+  "geometry": {"coordinates":[-111.805448,41.708295],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857348119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.847326,40.783414,-111.847326,40.783414",
+    "geom:latitude":40.783414,
+    "geom:longitude":-111.847326,
+    "iso:country":"US",
+    "sg:address":"1377 Tomahawk Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 539 8419",
+    "sg:postcode":"84103",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85838217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xosXWXKpVhhNV9BuiaXS6_40.783414_-111.847326@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127443,
+    "wof:geomhash":"e8be3d33ebbb6e71fce334d885c5f14d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85838217,
+            "region_id":85688567,
+            "venue_id":857348119
+        }
+    ],
+    "wof:id":857348119,
+    "wof:lastmodified":1464127443,
+    "wof:name":"Tooele M Properties LLC",
+    "wof:parent_id":85838217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -111.847326,
+    40.783414,
+    -111.847326,
+    40.783414
+],
+  "geometry": {"coordinates":[-111.847326,40.783414],"type":"Point"}
+}

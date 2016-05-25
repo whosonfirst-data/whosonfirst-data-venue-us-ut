@@ -1,0 +1,76 @@
+{
+  "id": 857251241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.854668,40.641872,-111.854668,40.641872",
+    "geom:latitude":40.641872,
+    "geom:longitude":-111.854668,
+    "iso:country":"US",
+    "sg:address":"6006 S 1300 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Ferry",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 268 6667",
+    "sg:postcode":"84121",
+    "sg:province":"UT",
+    "sg:tags":[
+        "river",
+        "trip"
+    ],
+    "sg:website":"www.mokimac.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85852959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pAwsXSjDjDFFtO6Wr7zeq_40.641872_-111.854668@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125276,
+    "wof:geomhash":"c35771556695046a24b250a48e0f68b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85852959,
+            "region_id":85688567,
+            "venue_id":857251241
+        }
+    ],
+    "wof:id":857251241,
+    "wof:lastmodified":1464125276,
+    "wof:name":"Moki Mac River Expeditions",
+    "wof:parent_id":85852959,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "river",
+        "trip"
+    ]
+},
+  "bbox": [
+    -111.854668,
+    40.641872,
+    -111.854668,
+    40.641872
+],
+  "geometry": {"coordinates":[-111.854668,40.641872],"type":"Point"}
+}

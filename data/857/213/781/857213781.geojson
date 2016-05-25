@@ -1,0 +1,75 @@
+{
+  "id": 857213781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.733727,40.29629,-111.733727,40.29629",
+    "geom:latitude":40.29629,
+    "geom:longitude":-111.733727,
+    "iso:country":"US",
+    "sg:address":"243 S 1600 W",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 9325",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727827,
+        102083567,
+        85821287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1w1S6bOBcOcgCyfEkwTuPB_40.296290_-111.733727@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124480,
+    "wof:geomhash":"4c14edf7d19c7aa4aaa0fd71335eb6a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727827,
+            "neighbourhood_id":85821287,
+            "region_id":85688567,
+            "venue_id":857213781
+        }
+    ],
+    "wof:id":857213781,
+    "wof:lastmodified":1464124480,
+    "wof:name":"DNS Storage",
+    "wof:parent_id":85821287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -111.733727,
+    40.29629,
+    -111.733727,
+    40.29629
+],
+  "geometry": {"coordinates":[-111.733727,40.29629],"type":"Point"}
+}

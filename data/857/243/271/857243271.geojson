@@ -1,0 +1,71 @@
+{
+  "id": 857243271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.932866,41.638845,-111.932866,41.638845",
+    "geom:latitude":41.638845,
+    "geom:longitude":-111.932866,
+    "iso:country":"US",
+    "sg:address":"55 E Main St",
+    "sg:city":"Wellsville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 245 2464",
+    "sg:postcode":"84339",
+    "sg:province":"UT",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727555,
+        102082881,
+        85823067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tyJ1lz1slUtOBAwNnSOIf_41.638845_-111.932866@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125088,
+    "wof:geomhash":"61a9b8b623485146ff00e3c8772a9040",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727555,
+            "neighbourhood_id":85823067,
+            "region_id":85688567,
+            "venue_id":857243271
+        }
+    ],
+    "wof:id":857243271,
+    "wof:lastmodified":1464125088,
+    "wof:name":"Countermeasures",
+    "wof:parent_id":85823067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -111.932866,
+    41.638845,
+    -111.932866,
+    41.638845
+],
+  "geometry": {"coordinates":[-111.932866,41.638845],"type":"Point"}
+}

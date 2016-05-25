@@ -1,0 +1,74 @@
+{
+  "id": 857230415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.859283,40.72359,-111.859283,40.72359",
+    "geom:latitude":40.72359,
+    "geom:longitude":-111.859283,
+    "iso:country":"US",
+    "sg:address":"2124 Highland Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 466 3518",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dealer"
+    ],
+    "sg:website":"www.christianscienceslc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85858269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RzQ6xBCY3gxM5GDvCEJID_40.723590_-111.859283@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124815,
+    "wof:geomhash":"dbc49095a77d7c8098b7791acdf3bfbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85858269,
+            "region_id":85688567,
+            "venue_id":857230415
+        }
+    ],
+    "wof:id":857230415,
+    "wof:lastmodified":1464124815,
+    "wof:name":"Christian Science Reading Room",
+    "wof:parent_id":85858269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -111.859283,
+    40.72359,
+    -111.859283,
+    40.72359
+],
+  "geometry": {"coordinates":[-111.859283,40.72359],"type":"Point"}
+}

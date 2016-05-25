@@ -1,0 +1,73 @@
+{
+  "id": 857224691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.65617,40.255452,-111.65617,40.255452",
+    "geom:latitude":40.255452,
+    "geom:longitude":-111.65617,
+    "iso:country":"US",
+    "sg:address":"1455 N Canyon Rd",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 1378",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hImeiz8jV7i2mqA7ZwYQW_40.255452_-111.656170@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124705,
+    "wof:geomhash":"6ee642fe035333de101d19f8bf8f6797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880123,
+            "region_id":85688567,
+            "venue_id":857224691
+        }
+    ],
+    "wof:id":857224691,
+    "wof:lastmodified":1464124705,
+    "wof:name":"Hidden Clipper",
+    "wof:parent_id":85880123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.65617,
+    40.255452,
+    -111.65617,
+    40.255452
+],
+  "geometry": {"coordinates":[-111.65617,40.255452],"type":"Point"}
+}

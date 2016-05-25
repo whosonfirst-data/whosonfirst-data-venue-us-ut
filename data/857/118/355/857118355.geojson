@@ -1,0 +1,71 @@
+{
+  "id": 857118355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-114.071945,40.73598,-114.071945,40.73598",
+    "geom:latitude":40.73598,
+    "geom:longitude":-114.071945,
+    "iso:country":"US",
+    "sg:address":"1632 Butte St",
+    "sg:city":"West Wendover",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 775 664 2121",
+    "sg:postcode":"89883",
+    "sg:province":"UT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688531,
+        85633793,
+        85974785,
+        102082651,
+        85804355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SwALYxK6KlaVCrB85lwmC_40.735980_-114.071945@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122418,
+    "wof:geomhash":"750fbdd682c272c3343da312a5cd2604",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082651,
+            "locality_id":85974785,
+            "neighbourhood_id":85804355,
+            "region_id":85688531,
+            "venue_id":857118355
+        }
+    ],
+    "wof:id":857118355,
+    "wof:lastmodified":1464122418,
+    "wof:name":"Horizon Apartments",
+    "wof:parent_id":85804355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -114.071945,
+    40.73598,
+    -114.071945,
+    40.73598
+],
+  "geometry": {"coordinates":[-114.071945,40.73598],"type":"Point"}
+}

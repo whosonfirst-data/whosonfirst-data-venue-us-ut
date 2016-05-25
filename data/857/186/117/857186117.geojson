@@ -1,0 +1,68 @@
+{
+  "id": 857186117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.888142,40.748426,-111.888142,40.748426",
+    "geom:latitude":40.748426,
+    "geom:longitude":-111.888142,
+    "iso:country":"US",
+    "sg:address":"917 S State St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 595 1916",
+    "sg:postcode":"84111",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85867259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6drGZP1Lry4mk42Zf8m2Nb_40.748426_-111.888142@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123917,
+    "wof:geomhash":"82d9e467a98aeeb5e5a83749debd4bf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85867259,
+            "region_id":85688567,
+            "venue_id":857186117
+        }
+    ],
+    "wof:id":857186117,
+    "wof:lastmodified":1464123917,
+    "wof:name":"Republican",
+    "wof:parent_id":85867259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.888142,
+    40.748426,
+    -111.888142,
+    40.748426
+],
+  "geometry": {"coordinates":[-111.888142,40.748426],"type":"Point"}
+}

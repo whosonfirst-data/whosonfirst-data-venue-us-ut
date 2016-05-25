@@ -1,0 +1,78 @@
+{
+  "id": 857425465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.913173,41.002708,-111.913173,41.002708",
+    "geom:latitude":41.002708,
+    "geom:longitude":-111.913173,
+    "iso:country":"US",
+    "sg:address":"1198 W Tee Time Dr",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Toys & Hobbies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 447 3714",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "wholesaler",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kKkrPbJDTRnUeCcHPxgzJ_41.002708_-111.913173@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129238,
+    "wof:geomhash":"02369698ce486520cdc2b39814baa880",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857425465
+        }
+    ],
+    "wof:id":857425465,
+    "wof:lastmodified":1464129238,
+    "wof:name":"Royal's Promotion Marketing",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wholesaler",
+        "product"
+    ]
+},
+  "bbox": [
+    -111.913173,
+    41.002708,
+    -111.913173,
+    41.002708
+],
+  "geometry": {"coordinates":[-111.913173,41.002708],"type":"Point"}
+}

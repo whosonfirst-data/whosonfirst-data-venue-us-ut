@@ -1,0 +1,77 @@
+{
+  "id": 857180625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.859195,40.723348,-111.859195,40.723348",
+    "geom:latitude":40.723348,
+    "geom:longitude":-111.859195,
+    "iso:country":"US",
+    "sg:address":"2112 Highland Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 466 2990",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85858269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6D1tIALwM1m0YYUWkQzg06_40.723348_-111.859195@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123808,
+    "wof:geomhash":"6e15e8ca04d8f73add09b33af73f80a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85858269,
+            "region_id":85688567,
+            "venue_id":857180625
+        }
+    ],
+    "wof:id":857180625,
+    "wof:lastmodified":1464123808,
+    "wof:name":"Us Tobacco & Gift Shop",
+    "wof:parent_id":85858269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -111.859195,
+    40.723348,
+    -111.859195,
+    40.723348
+],
+  "geometry": {"coordinates":[-111.859195,40.723348],"type":"Point"}
+}

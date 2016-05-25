@@ -1,0 +1,75 @@
+{
+  "id": 857339549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.651596,40.27957,-111.651596,40.27957",
+    "geom:latitude":40.27957,
+    "geom:longitude":-111.651596,
+    "iso:country":"US",
+    "sg:address":"3645 N Canyon Rd",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 221 9288",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85817395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VmrNrCpzrE3VAuKESriFy_40.279570_-111.651596@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127262,
+    "wof:geomhash":"b81791f195aebee7e91d65fd67e56b2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85817395,
+            "region_id":85688567,
+            "venue_id":857339549
+        }
+    ],
+    "wof:id":857339549,
+    "wof:lastmodified":1464127262,
+    "wof:name":"Timpview Car Wash",
+    "wof:parent_id":85817395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -111.651596,
+    40.27957,
+    -111.651596,
+    40.27957
+],
+  "geometry": {"coordinates":[-111.651596,40.27957],"type":"Point"}
+}

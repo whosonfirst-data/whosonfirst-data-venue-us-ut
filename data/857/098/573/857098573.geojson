@@ -1,0 +1,71 @@
+{
+  "id": 857098573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.769258,40.355174,-111.769258,40.355174",
+    "geom:latitude":40.355174,
+    "geom:longitude":-111.769258,
+    "iso:country":"US",
+    "sg:address":"1610 W 700 S",
+    "sg:city":"Pleasant Grove",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 785 7055",
+    "sg:postcode":"84062",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vURDIbo2DIzLJDac21BL6_40.355174_-111.769258@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121869,
+    "wof:geomhash":"0c9fa96fb0f9150f310761aa5871bd47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857098573
+        }
+    ],
+    "wof:id":857098573,
+    "wof:lastmodified":1464121869,
+    "wof:name":"Armech Construction",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.769258,
+    40.355174,
+    -111.769258,
+    40.355174
+],
+  "geometry": {"coordinates":[-111.76925799999999,40.355174],"type":"Point"}
+}

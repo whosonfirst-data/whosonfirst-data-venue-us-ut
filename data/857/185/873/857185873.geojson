@@ -1,0 +1,73 @@
+{
+  "id": 857185873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.829756,41.551969,-111.829756,41.551969",
+    "geom:latitude":41.551969,
+    "geom:longitude":-111.829756,
+    "iso:country":"US",
+    "sg:address":"9915 S Hwy 165",
+    "sg:city":"Paradise",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 245 3656",
+    "sg:postcode":"84328",
+    "sg:province":"UT",
+    "sg:tags":[
+        "education",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727555,
+        102082881,
+        85823067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aT5myuOwbceyxxPAdaAFT_41.551969_-111.829756@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123913,
+    "wof:geomhash":"2db334739ffa5e62b0e13135618003bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727555,
+            "neighbourhood_id":85823067,
+            "region_id":85688567,
+            "venue_id":857185873
+        }
+    ],
+    "wof:id":857185873,
+    "wof:lastmodified":1464123913,
+    "wof:name":"TTI Enterprizes",
+    "wof:parent_id":85823067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "education",
+        "software"
+    ]
+},
+  "bbox": [
+    -111.829756,
+    41.551969,
+    -111.829756,
+    41.551969
+],
+  "geometry": {"coordinates":[-111.829756,41.551969],"type":"Point"}
+}

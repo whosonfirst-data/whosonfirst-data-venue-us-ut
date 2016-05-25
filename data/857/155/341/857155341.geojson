@@ -1,0 +1,68 @@
+{
+  "id": 857155341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.7071,40.324809,-111.7071,40.324809",
+    "geom:latitude":40.324809,
+    "geom:longitude":-111.7071,
+    "iso:country":"US",
+    "sg:address":"1464 N State St",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 226 3420",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VJwcqL4epnZILEcHLrve1_40.324809_-111.707100@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123254,
+    "wof:geomhash":"e5199e1fa964e98baf60dfd865c90d8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":857155341
+        }
+    ],
+    "wof:id":857155341,
+    "wof:lastmodified":1464123254,
+    "wof:name":"Stylin'",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.7071,
+    40.324809,
+    -111.7071,
+    40.324809
+],
+  "geometry": {"coordinates":[-111.7071,40.324809],"type":"Point"}
+}

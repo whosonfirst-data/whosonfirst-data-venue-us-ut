@@ -1,0 +1,75 @@
+{
+  "id": 857457089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.797715,40.620138,-111.797715,40.620138",
+    "geom:latitude":40.620138,
+    "geom:longitude":-111.797715,
+    "iso:country":"US",
+    "sg:address":"3441 E Buck Cir",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 943 4094",
+    "sg:postcode":"84121",
+    "sg:province":"UT",
+    "sg:tags":[
+        "sewer",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728065,
+        102082877,
+        85841705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1isndgHTMDdrMC8Ndclu0a_40.620138_-111.797715@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129892,
+    "wof:geomhash":"8f351ec87ba31fb5a706fd3edba4db6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728065,
+            "neighbourhood_id":85841705,
+            "region_id":85688567,
+            "venue_id":857457089
+        }
+    ],
+    "wof:id":857457089,
+    "wof:lastmodified":1464129892,
+    "wof:name":"American Rooter",
+    "wof:parent_id":85841705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sewer",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.797715,
+    40.620138,
+    -111.797715,
+    40.620138
+],
+  "geometry": {"coordinates":[-111.797715,40.620138],"type":"Point"}
+}

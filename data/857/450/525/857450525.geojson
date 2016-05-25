@@ -1,0 +1,73 @@
+{
+  "id": 857450525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.667408,40.232949,-111.667408,40.232949",
+    "geom:latitude":40.232949,
+    "geom:longitude":-111.667408,
+    "iso:country":"US",
+    "sg:address":"43 S 500 W",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 2699",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DgjYK6ziRBfNIYKugWD8Y_40.232949_-111.667408@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129770,
+    "wof:geomhash":"37df2d21e46f3c765a234523807e71a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880065,
+            "region_id":85688567,
+            "venue_id":857450525
+        }
+    ],
+    "wof:id":857450525,
+    "wof:lastmodified":1464129770,
+    "wof:name":"Rocky Mountain Drive-In",
+    "wof:parent_id":85880065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.667408,
+    40.232949,
+    -111.667408,
+    40.232949
+],
+  "geometry": {"coordinates":[-111.66740799999999,40.232949],"type":"Point"}
+}

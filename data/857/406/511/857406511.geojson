@@ -1,0 +1,73 @@
+{
+  "id": 857406511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.90572,40.982052,-111.90572,40.982052",
+    "geom:latitude":40.982052,
+    "geom:longitude":-111.90572,
+    "iso:country":"US",
+    "sg:address":"883 W 100 N",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 4707",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "probation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727907,
+        102083563,
+        85833427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VzyTh4uukILbbk6sZ5Rs2_40.982052_-111.905720@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128760,
+    "wof:geomhash":"4a7c24a891d4edfa0fdfcbc8e4de0faf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85833427,
+            "region_id":85688567,
+            "venue_id":857406511
+        }
+    ],
+    "wof:id":857406511,
+    "wof:lastmodified":1464128760,
+    "wof:name":"Corrections Department",
+    "wof:parent_id":85833427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "probation"
+    ]
+},
+  "bbox": [
+    -111.90572,
+    40.982052,
+    -111.90572,
+    40.982052
+],
+  "geometry": {"coordinates":[-111.90572,40.982052],"type":"Point"}
+}

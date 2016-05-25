@@ -1,0 +1,78 @@
+{
+  "id": 857249237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.98337,41.089111,-111.98337,41.089111",
+    "geom:latitude":41.089111,
+    "geom:longitude":-111.98337,
+    "iso:country":"US",
+    "sg:address":"761 W Antelope Dr",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 779 2620",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZcGSLjCTI96oqzRDs4ej1_41.089111_-111.983370@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125227,
+    "wof:geomhash":"f7301c72afbe14fd171643e84fde7c96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857249237
+        }
+    ],
+    "wof:id":857249237,
+    "wof:lastmodified":1464125227,
+    "wof:name":"Tanning Oasis LLC",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -111.98337,
+    41.089111,
+    -111.98337,
+    41.089111
+],
+  "geometry": {"coordinates":[-111.98336999999999,41.089111],"type":"Point"}
+}

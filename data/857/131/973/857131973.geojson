@@ -1,0 +1,71 @@
+{
+  "id": 857131973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.831653,41.757569,-111.831653,41.757569",
+    "geom:latitude":41.757569,
+    "geom:longitude":-111.831653,
+    "iso:country":"US",
+    "sg:address":"123 E 1400 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 2121",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xFqweq1zHFc2mxJ7ERMXR_41.757569_-111.831653@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122718,
+    "wof:geomhash":"e006446f0049e834af50b60687f87590",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857131973
+        }
+    ],
+    "wof:id":857131973,
+    "wof:lastmodified":1464122718,
+    "wof:name":"Little Caesars Pizza",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -111.831653,
+    41.757569,
+    -111.831653,
+    41.757569
+],
+  "geometry": {"coordinates":[-111.831653,41.757569],"type":"Point"}
+}

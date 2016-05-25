@@ -1,0 +1,82 @@
+{
+  "id": 857492177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.692216,40.273018,-111.692216,40.273018",
+    "geom:latitude":40.273018,
+    "geom:longitude":-111.692216,
+    "iso:country":"US",
+    "sg:address":"122 E University Pkwy",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/provo-orem/115075-chilis/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 221 0884",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "tex-mex",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85813259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47rhfln6yHtVxZPIgurl2O_40.273018_-111.692216@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130668,
+    "wof:geomhash":"e985cd7dd01a9774f2a03171d0655ea4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85813259,
+            "region_id":85688567,
+            "venue_id":857492177
+        }
+    ],
+    "wof:id":857492177,
+    "wof:lastmodified":1464130668,
+    "wof:name":"Chili's",
+    "wof:parent_id":85813259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "tex-mex",
+        "soup"
+    ]
+},
+  "bbox": [
+    -111.692216,
+    40.273018,
+    -111.692216,
+    40.273018
+],
+  "geometry": {"coordinates":[-111.692216,40.273018],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 857352415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.970783,40.587662,-111.970783,40.587662",
+    "geom:latitude":40.587662,
+    "geom:longitude":-111.970783,
+    "iso:country":"US",
+    "sg:address":"3333 W 9000 S",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 562 7000",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "calculating",
+        "mfg",
+        "devices",
+        "semiconductor",
+        "parts",
+        "electronic"
+    ],
+    "sg:website":"www.fairchildsemi.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85854601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VMGwhsP0OYp6ptdG8OvpM_40.587662_-111.970783@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127539,
+    "wof:geomhash":"3fc67c8a1e5f156557f60a52fd446b79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85854601,
+            "region_id":85688567,
+            "venue_id":857352415
+        }
+    ],
+    "wof:id":857352415,
+    "wof:lastmodified":1464127539,
+    "wof:name":"Fairchild Semiconductor Corp",
+    "wof:parent_id":85854601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "calculating",
+        "mfg",
+        "devices",
+        "semiconductor",
+        "parts",
+        "electronic"
+    ]
+},
+  "bbox": [
+    -111.970783,
+    40.587662,
+    -111.970783,
+    40.587662
+],
+  "geometry": {"coordinates":[-111.970783,40.587662],"type":"Point"}
+}

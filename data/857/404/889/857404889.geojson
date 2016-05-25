@@ -1,0 +1,73 @@
+{
+  "id": 857404889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.727721,40.085322,-111.727721,40.085322",
+    "geom:latitude":40.085322,
+    "geom:longitude":-111.727721,
+    "iso:country":"US",
+    "sg:address":"3172 W 8000 S",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 7935",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ErAKN31WkoyGqGvIHwbsM_40.085322_-111.727721@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128726,
+    "wof:geomhash":"4f8780e6b736e94addf1c54aaea2b8cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857404889
+        }
+    ],
+    "wof:id":857404889,
+    "wof:lastmodified":1464128726,
+    "wof:name":"Hegerhorst Apartments",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -111.727721,
+    40.085322,
+    -111.727721,
+    40.085322
+],
+  "geometry": {"coordinates":[-111.727721,40.085322],"type":"Point"}
+}

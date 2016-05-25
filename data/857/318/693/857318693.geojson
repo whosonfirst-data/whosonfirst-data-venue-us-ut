@@ -1,0 +1,81 @@
+{
+  "id": 857318693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.891554,40.558785,-111.891554,40.558785",
+    "geom:latitude":40.558785,
+    "geom:longitude":-111.891554,
+    "iso:country":"US",
+    "sg:address":"45 W 10600 S",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 501 9713",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "equipment",
+        "skiing"
+    ],
+    "sg:website":"www.canyonsports.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85850585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mjA94B6QG8loICHp16VWb_40.558785_-111.891554@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126825,
+    "wof:geomhash":"10ccd95108d6e559ae4182ce311ecf20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85850585,
+            "region_id":85688567,
+            "venue_id":857318693
+        }
+    ],
+    "wof:id":857318693,
+    "wof:lastmodified":1464126825,
+    "wof:name":"Canyon Sports Ltd",
+    "wof:parent_id":85850585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "skiing"
+    ]
+},
+  "bbox": [
+    -111.891554,
+    40.558785,
+    -111.891554,
+    40.558785
+],
+  "geometry": {"coordinates":[-111.891554,40.558785],"type":"Point"}
+}

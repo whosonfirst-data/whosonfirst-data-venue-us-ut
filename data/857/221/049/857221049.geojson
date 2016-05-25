@@ -1,0 +1,73 @@
+{
+  "id": 857221049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.809447,40.672044,-111.809447,40.672044",
+    "geom:latitude":40.672044,
+    "geom:longitude":-111.809447,
+    "iso:country":"US",
+    "sg:address":"4541 Peach St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 731 0357",
+    "sg:postcode":"84117",
+    "sg:province":"UT",
+    "sg:tags":[
+        "vineyard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728049,
+        102082877,
+        85807679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kEokYKRnhZk2ASklLS9Pc_40.672044_-111.809447@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124638,
+    "wof:geomhash":"9d6d15e71a6d2387c6aa55889dedaf96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728049,
+            "neighbourhood_id":85807679,
+            "region_id":85688567,
+            "venue_id":857221049
+        }
+    ],
+    "wof:id":857221049,
+    "wof:lastmodified":1464124638,
+    "wof:name":"Kiler Grove Winegrowers LLC",
+    "wof:parent_id":85807679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vineyard"
+    ]
+},
+  "bbox": [
+    -111.809447,
+    40.672044,
+    -111.809447,
+    40.672044
+],
+  "geometry": {"coordinates":[-111.80944700000001,40.672044],"type":"Point"}
+}

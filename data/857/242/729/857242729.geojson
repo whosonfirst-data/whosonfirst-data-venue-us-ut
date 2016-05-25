@@ -1,0 +1,71 @@
+{
+  "id": 857242729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.816672,41.803926,-111.816672,41.803926",
+    "geom:latitude":41.803926,
+    "geom:longitude":-111.816672,
+    "iso:country":"US",
+    "sg:address":"255 N 100 E",
+    "sg:city":"Hyde Park",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 750 5556",
+    "sg:postcode":"84318",
+    "sg:province":"UT",
+    "sg:tags":[
+        "windows"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TpoWLXqvsjdj1FO2yALct_41.803926_-111.816672@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125078,
+    "wof:geomhash":"83d0df0e47f78f853842ef1589f7954b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857242729
+        }
+    ],
+    "wof:id":857242729,
+    "wof:lastmodified":1464125078,
+    "wof:name":"Accent Windows",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "windows"
+    ]
+},
+  "bbox": [
+    -111.816672,
+    41.803926,
+    -111.816672,
+    41.803926
+],
+  "geometry": {"coordinates":[-111.816672,41.803926],"type":"Point"}
+}

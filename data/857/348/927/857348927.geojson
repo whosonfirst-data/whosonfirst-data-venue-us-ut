@@ -1,0 +1,68 @@
+{
+  "id": 857348927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.945195,41.206911,-111.945195,41.206911",
+    "geom:latitude":41.206911,
+    "geom:longitude":-111.945195,
+    "iso:country":"US",
+    "sg:address":"3108 Tyler Ave",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 392 7007",
+    "sg:postcode":"84403",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85853181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1augcyowERDIOEWdmzAqh6_41.206911_-111.945195@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127463,
+    "wof:geomhash":"4924d0f241f19b18f4bd48df866ecf87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85853181,
+            "region_id":85688567,
+            "venue_id":857348927
+        }
+    ],
+    "wof:id":857348927,
+    "wof:lastmodified":1464127463,
+    "wof:name":"Extreme Cleaning Services Inc",
+    "wof:parent_id":85853181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.945195,
+    41.206911,
+    -111.945195,
+    41.206911
+],
+  "geometry": {"coordinates":[-111.945195,41.206911],"type":"Point"}
+}

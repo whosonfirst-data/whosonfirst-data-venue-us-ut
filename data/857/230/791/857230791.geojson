@@ -1,0 +1,68 @@
+{
+  "id": 857230791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.973708,41.197827,-111.973708,41.197827",
+    "geom:latitude":41.197827,
+    "geom:longitude":-111.973708,
+    "iso:country":"US",
+    "sg:address":"301 36th St",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 621 3167",
+    "sg:postcode":"84405",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728021,
+        102083539,
+        85810865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Xflmjsg9IXP8I9fsGYqxb_41.197827_-111.973708@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124821,
+    "wof:geomhash":"814a329a766dc7a1f292dd67ed9a547e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728021,
+            "neighbourhood_id":85810865,
+            "region_id":85688567,
+            "venue_id":857230791
+        }
+    ],
+    "wof:id":857230791,
+    "wof:lastmodified":1464124821,
+    "wof:name":"Tasties Donuts",
+    "wof:parent_id":85810865,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.973708,
+    41.197827,
+    -111.973708,
+    41.197827
+],
+  "geometry": {"coordinates":[-111.973708,41.197827],"type":"Point"}
+}

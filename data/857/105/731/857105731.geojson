@@ -1,0 +1,73 @@
+{
+  "id": 857105731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.960734,40.600087,-111.960734,40.600087",
+    "geom:latitude":40.600087,
+    "geom:longitude":-111.960734,
+    "iso:country":"US",
+    "sg:address":"2866 Dunlop Dr",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 558 9707",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85854601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3atuyy6OTIobUsoMgHF2st_40.600087_-111.960734@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122040,
+    "wof:geomhash":"936148c4a1dd4ec45b19a3783740a728",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85854601,
+            "region_id":85688567,
+            "venue_id":857105731
+        }
+    ],
+    "wof:id":857105731,
+    "wof:lastmodified":1464122040,
+    "wof:name":"Custom Expression Builders",
+    "wof:parent_id":85854601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -111.960734,
+    40.600087,
+    -111.960734,
+    40.600087
+],
+  "geometry": {"coordinates":[-111.960734,40.600087],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 857245321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.04059,41.08903,-112.04059,41.08903",
+    "geom:latitude":41.08903,
+    "geom:longitude":-112.04059,
+    "iso:country":"US",
+    "sg:address":"1790 S 750 W",
+    "sg:city":"Syracuse",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 825 2295",
+    "sg:postcode":"84075",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repairing",
+        "lawn",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727889,
+        102083563,
+        85804563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1skHLNke5gLfaDVMVujaZ3_41.089030_-112.040590@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125145,
+    "wof:geomhash":"44338c422bd7f556f43e9f3b5a447be8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727889,
+            "neighbourhood_id":85804563,
+            "region_id":85688567,
+            "venue_id":857245321
+        }
+    ],
+    "wof:id":857245321,
+    "wof:lastmodified":1464125145,
+    "wof:name":"Ken's Parts & Equipment",
+    "wof:parent_id":85804563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "lawn",
+        "mower"
+    ]
+},
+  "bbox": [
+    -112.04059,
+    41.08903,
+    -112.04059,
+    41.08903
+],
+  "geometry": {"coordinates":[-112.04058999999999,41.08903],"type":"Point"}
+}

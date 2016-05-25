@@ -1,0 +1,71 @@
+{
+  "id": 857302361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.827873,41.757382,-111.827873,41.757382",
+    "geom:latitude":41.757382,
+    "geom:longitude":-111.827873,
+    "iso:country":"US",
+    "sg:address":"250 E 1400 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 4622",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CUHYn5IywDMPIixBNAvC3_41.757382_-111.827873@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126462,
+    "wof:geomhash":"afb4b258d4f9380c8610e19b1d2757ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857302361
+        }
+    ],
+    "wof:id":857302361,
+    "wof:lastmodified":1464126462,
+    "wof:name":"Big O Tires",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -111.827873,
+    41.757382,
+    -111.827873,
+    41.757382
+],
+  "geometry": {"coordinates":[-111.827873,41.757382],"type":"Point"}
+}

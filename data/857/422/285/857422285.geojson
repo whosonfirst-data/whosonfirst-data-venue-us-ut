@@ -1,0 +1,71 @@
+{
+  "id": 857422285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.939136,41.034804,-111.939136,41.034804",
+    "geom:latitude":41.034804,
+    "geom:longitude":-111.939136,
+    "iso:country":"US",
+    "sg:address":"13 W Center St",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 547 6769",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JfQB7KgIzfFxUJKaltzeM_41.034804_-111.939136@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129155,
+    "wof:geomhash":"6a482077dceda122358cac61a1d46a48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857422285
+        }
+    ],
+    "wof:id":857422285,
+    "wof:lastmodified":1464129155,
+    "wof:name":"Hair Play and Baseball",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.939136,
+    41.034804,
+    -111.939136,
+    41.034804
+],
+  "geometry": {"coordinates":[-111.939136,41.034804],"type":"Point"}
+}

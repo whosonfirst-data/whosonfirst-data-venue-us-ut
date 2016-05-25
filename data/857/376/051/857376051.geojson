@@ -1,0 +1,71 @@
+{
+  "id": 857376051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.017852,41.079,-112.017852,41.079",
+    "geom:latitude":41.079,
+    "geom:longitude":-112.017852,
+    "iso:country":"US",
+    "sg:address":"2755 Brady Way",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 497 9963",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "pencil",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85868169,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66oheVBgvgpiFpGPyThyfw_41.079000_-112.017852@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128034,
+    "wof:geomhash":"46383ff6e97052bd5ee7ba550efc1d21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "neighbourhood_id":85868169,
+            "region_id":85688567,
+            "venue_id":857376051
+        }
+    ],
+    "wof:id":857376051,
+    "wof:lastmodified":1464128034,
+    "wof:name":"C Wyont",
+    "wof:parent_id":85868169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pencil",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -112.017852,
+    41.079,
+    -112.017852,
+    41.079
+],
+  "geometry": {"coordinates":[-112.017852,41.079],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 857388773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.66514,40.277714,-111.66514,40.277714",
+    "geom:latitude":40.277714,
+    "geom:longitude":-111.66514,
+    "iso:country":"US",
+    "sg:address":"3218 N Cottonwood Ln",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 374 5960",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "residential",
+        "builder",
+        "commercial",
+        "light"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AOTCBDoW9Of90xRT5TB7N_40.277714_-111.665140@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128402,
+    "wof:geomhash":"1421950539f931b65fca5da46af7cc2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880109,
+            "region_id":85688567,
+            "venue_id":857388773
+        }
+    ],
+    "wof:id":857388773,
+    "wof:lastmodified":1464128402,
+    "wof:name":"Image Builder Construction",
+    "wof:parent_id":85880109,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "builder",
+        "commercial",
+        "light"
+    ]
+},
+  "bbox": [
+    -111.66514,
+    40.277714,
+    -111.66514,
+    40.277714
+],
+  "geometry": {"coordinates":[-111.66513999999999,40.277714],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 857348133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.885288,40.75777,-111.885288,40.75777",
+    "geom:latitude":40.75777,
+    "geom:longitude":-111.885288,
+    "iso:country":"US",
+    "sg:address":"567 S 200 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 359 2089",
+    "sg:postcode":"84111",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85867259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HaRvFSeE7VwMDUpvP0VQz_40.757770_-111.885288@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127443,
+    "wof:geomhash":"b8198f1ce7fc775ab8c0b633c8fc17a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85867259,
+            "region_id":85688567,
+            "venue_id":857348133
+        }
+    ],
+    "wof:id":857348133,
+    "wof:lastmodified":1464127443,
+    "wof:name":"Western Auto Radiator Company",
+    "wof:parent_id":85867259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [
+    -111.885288,
+    40.75777,
+    -111.885288,
+    40.75777
+],
+  "geometry": {"coordinates":[-111.885288,40.75777],"type":"Point"}
+}

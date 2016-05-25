@@ -1,0 +1,74 @@
+{
+  "id": 857494381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.652014,40.122895,-111.652014,40.122895",
+    "geom:latitude":40.122895,
+    "geom:longitude":-111.652014,
+    "iso:country":"US",
+    "sg:address":"998 N Main St",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/spanish-fork-payson/35649-the-pizza-factory/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 794 2211",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3c8zjqXjItrS3qlMu0Bkrk_40.122895_-111.652014@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130745,
+    "wof:geomhash":"2da488111a498c259ff8ecb1079e41ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857494381
+        }
+    ],
+    "wof:id":857494381,
+    "wof:lastmodified":1464130745,
+    "wof:name":"The Pizza Factory",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -111.652014,
+    40.122895,
+    -111.652014,
+    40.122895
+],
+  "geometry": {"coordinates":[-111.65201399999999,40.122895],"type":"Point"}
+}

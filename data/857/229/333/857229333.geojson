@@ -1,0 +1,73 @@
+{
+  "id": 857229333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.869897,41.631529,-111.869897,41.631529",
+    "geom:latitude":41.631529,
+    "geom:longitude":-111.869897,
+    "iso:country":"US",
+    "sg:address":"560 Eagle Ridge Dr",
+    "sg:city":"Hyrum",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 245 3781",
+    "sg:postcode":"84319",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mobile",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727555,
+        102082881,
+        85823067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XYfiglMRIAmFeMkKnm9WJ_41.631529_-111.869897@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124795,
+    "wof:geomhash":"0bd74ab9d36133539339e4d0b487835f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727555,
+            "neighbourhood_id":85823067,
+            "region_id":85688567,
+            "venue_id":857229333
+        }
+    ],
+    "wof:id":857229333,
+    "wof:lastmodified":1464124795,
+    "wof:name":"Valley View Mobile Park",
+    "wof:parent_id":85823067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home"
+    ]
+},
+  "bbox": [
+    -111.869897,
+    41.631529,
+    -111.869897,
+    41.631529
+],
+  "geometry": {"coordinates":[-111.86989699999999,41.631529],"type":"Point"}
+}

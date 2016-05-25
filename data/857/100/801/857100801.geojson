@@ -1,0 +1,73 @@
+{
+  "id": 857100801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.88388,40.691911,-111.88388,40.691911",
+    "geom:latitude":40.691911,
+    "geom:longitude":-111.88388,
+    "iso:country":"US",
+    "sg:address":"246 E Helm Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 265 2121",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85810147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gtpN1d0QpqD0RhTgbVMPa_40.691911_-111.883880@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121934,
+    "wof:geomhash":"a225cc450b00906f246da849e480531a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85810147,
+            "region_id":85688567,
+            "venue_id":857100801
+        }
+    ],
+    "wof:id":857100801,
+    "wof:lastmodified":1464121934,
+    "wof:name":"Villa Chablis",
+    "wof:parent_id":85810147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wine"
+    ]
+},
+  "bbox": [
+    -111.88388,
+    40.691911,
+    -111.88388,
+    40.691911
+],
+  "geometry": {"coordinates":[-111.88388,40.691911],"type":"Point"}
+}

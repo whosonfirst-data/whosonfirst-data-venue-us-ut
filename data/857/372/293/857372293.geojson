@@ -1,0 +1,75 @@
+{
+  "id": 857372293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.867648,40.410306,-111.867648,40.410306",
+    "geom:latitude":40.410306,
+    "geom:longitude":-111.867648,
+    "iso:country":"US",
+    "sg:address":"1841 N 1100 W",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 768 9266",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727857,
+        102083567,
+        85836317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42Uuji34ByXtLjwGRQUqOv_40.410306_-111.867648@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127956,
+    "wof:geomhash":"cd0eba34d2ccbb4c306193e85e198687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727857,
+            "neighbourhood_id":85836317,
+            "region_id":85688567,
+            "venue_id":857372293
+        }
+    ],
+    "wof:id":857372293,
+    "wof:lastmodified":1464127956,
+    "wof:name":"Scott Beal Excavation",
+    "wof:parent_id":85836317,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.867648,
+    40.410306,
+    -111.867648,
+    40.410306
+],
+  "geometry": {"coordinates":[-111.867648,40.410306],"type":"Point"}
+}

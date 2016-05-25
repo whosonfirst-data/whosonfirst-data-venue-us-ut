@@ -1,0 +1,68 @@
+{
+  "id": 857186113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.85044,40.519684,-111.85044,40.519684",
+    "geom:latitude":40.519684,
+    "geom:longitude":-111.85044,
+    "iso:country":"US",
+    "sg:address":"1447 Cherry Canyon Way",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 576 0603",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727849,
+        102082877,
+        85849301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_485zdkyOPdVTNnUSkwjH9p_40.519684_-111.850440@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123917,
+    "wof:geomhash":"26e612b1d6702f9ab11e3dc674e64e6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85849301,
+            "region_id":85688567,
+            "venue_id":857186113
+        }
+    ],
+    "wof:id":857186113,
+    "wof:lastmodified":1464123917,
+    "wof:name":"Cool Concepts Golf Inc",
+    "wof:parent_id":85849301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.85044,
+    40.519684,
+    -111.85044,
+    40.519684
+],
+  "geometry": {"coordinates":[-111.85044000000001,40.519684],"type":"Point"}
+}

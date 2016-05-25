@@ -1,0 +1,68 @@
+{
+  "id": 857252157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.693159,40.287739,-111.693159,40.287739",
+    "geom:latitude":40.287739,
+    "geom:longitude":-111.693159,
+    "iso:country":"US",
+    "sg:address":"479 S Orem Blvd",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 226 6993",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85830581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Z6ElHKIuL8wG5k8eS5ujN_40.287739_-111.693159@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125298,
+    "wof:geomhash":"d57c8d0a6db804125cd455f53c26b696",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85830581,
+            "region_id":85688567,
+            "venue_id":857252157
+        }
+    ],
+    "wof:id":857252157,
+    "wof:lastmodified":1464125298,
+    "wof:name":"Suggestions Salon",
+    "wof:parent_id":85830581,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.693159,
+    40.287739,
+    -111.693159,
+    40.287739
+],
+  "geometry": {"coordinates":[-111.69315899999999,40.287739],"type":"Point"}
+}

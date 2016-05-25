@@ -1,0 +1,71 @@
+{
+  "id": 857371261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.668605,40.303642,-111.668605,40.303642",
+    "geom:latitude":40.303642,
+    "geom:longitude":-111.668605,
+    "iso:country":"US",
+    "sg:address":"1161 E 350 N",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 1941",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2b7VJL1kydMWjbFXQFyjbJ_40.303642_-111.668605@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127930,
+    "wof:geomhash":"9b616cdce46f5e4974a8babc483896d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857371261
+        }
+    ],
+    "wof:id":857371261,
+    "wof:lastmodified":1464127930,
+    "wof:name":"Hoyal Properties LLC",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -111.668605,
+    40.303642,
+    -111.668605,
+    40.303642
+],
+  "geometry": {"coordinates":[-111.668605,40.303642],"type":"Point"}
+}

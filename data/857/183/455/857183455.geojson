@@ -1,0 +1,75 @@
+{
+  "id": 857183455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.86801,40.563733,-111.86801,40.563733",
+    "geom:latitude":40.563733,
+    "geom:longitude":-111.86801,
+    "iso:country":"US",
+    "sg:address":"837 E Hibiscus Ave",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 576 1222",
+    "sg:postcode":"84094",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85857477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68VIYmjLTTAQ7RWrA8z5RL_40.563733_-111.868010@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123866,
+    "wof:geomhash":"197f395e408e2e21fb26ad8af17cca68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85857477,
+            "region_id":85688567,
+            "venue_id":857183455
+        }
+    ],
+    "wof:id":857183455,
+    "wof:lastmodified":1464123866,
+    "wof:name":"Carbine Electric",
+    "wof:parent_id":85857477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.86801,
+    40.563733,
+    -111.86801,
+    40.563733
+],
+  "geometry": {"coordinates":[-111.86801,40.563733],"type":"Point"}
+}

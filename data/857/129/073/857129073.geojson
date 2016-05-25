@@ -1,0 +1,72 @@
+{
+  "id": 857129073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.798484,40.377758,-111.798484,40.377758",
+    "geom:latitude":40.377758,
+    "geom:longitude":-111.798484,
+    "iso:country":"US",
+    "sg:address":"50 N Center St",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 492 1342",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "instruction",
+        "music"
+    ],
+    "sg:website":"www.crescentschoolofmusic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NzEUSgu4q2dJ5NyUkP5p2_40.377758_-111.798484@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122649,
+    "wof:geomhash":"efc7ae73dd80cc802f5045ad8c35f07d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857129073
+        }
+    ],
+    "wof:id":857129073,
+    "wof:lastmodified":1464122649,
+    "wof:name":"Crescent School Of Music",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "music"
+    ]
+},
+  "bbox": [
+    -111.798484,
+    40.377758,
+    -111.798484,
+    40.377758
+],
+  "geometry": {"coordinates":[-111.798484,40.377758],"type":"Point"}
+}

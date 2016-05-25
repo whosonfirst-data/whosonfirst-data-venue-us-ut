@@ -1,0 +1,75 @@
+{
+  "id": 857472467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.056279,41.081945,-112.056279,41.081945",
+    "geom:latitude":41.081945,
+    "geom:longitude":-112.056279,
+    "iso:country":"US",
+    "sg:address":"1531 W 2175 S",
+    "sg:city":"Syracuse",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 773 5779",
+    "sg:postcode":"84075",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mail",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727889,
+        102083563,
+        85804563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6L2mBjgjRuTAZMEDMorq7O_41.081945_-112.056279@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130227,
+    "wof:geomhash":"babdb8b04afa483d4b3609dc885e9c77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727889,
+            "neighbourhood_id":85804563,
+            "region_id":85688567,
+            "venue_id":857472467
+        }
+    ],
+    "wof:id":857472467,
+    "wof:lastmodified":1464130227,
+    "wof:name":"A & R Adventures",
+    "wof:parent_id":85804563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "house"
+    ]
+},
+  "bbox": [
+    -112.056279,
+    41.081945,
+    -112.056279,
+    41.081945
+],
+  "geometry": {"coordinates":[-112.056279,41.081945],"type":"Point"}
+}

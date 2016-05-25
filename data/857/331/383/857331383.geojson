@@ -1,0 +1,71 @@
+{
+  "id": 857331383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.984726,41.75738,-111.984726,41.75738",
+    "geom:latitude":41.75738,
+    "geom:longitude":-111.984726,
+    "iso:country":"US",
+    "sg:address":"6181 W 1400 N",
+    "sg:city":"Mendon",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 787 4314",
+    "sg:postcode":"84325",
+    "sg:province":"UT",
+    "sg:tags":[
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RZzWphDWDbAsgY7tS05mw_41.757380_-111.984726@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127088,
+    "wof:geomhash":"6d774f1747dd89701273deaa9f33ca78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857331383
+        }
+    ],
+    "wof:id":857331383,
+    "wof:lastmodified":1464127088,
+    "wof:name":"Renegade Enterprises",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motor"
+    ]
+},
+  "bbox": [
+    -111.984726,
+    41.75738,
+    -111.984726,
+    41.75738
+],
+  "geometry": {"coordinates":[-111.98472599999999,41.75738],"type":"Point"}
+}

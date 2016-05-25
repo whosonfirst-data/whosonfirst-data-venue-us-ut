@@ -1,0 +1,75 @@
+{
+  "id": 857428487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.845755,41.757722,-111.845755,41.757722",
+    "geom:latitude":41.757722,
+    "geom:longitude":-111.845755,
+    "iso:country":"US",
+    "sg:address":"480 W 1400 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 9107",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "wheel",
+        "axle",
+        "alignment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QLcXezpZZeiXWtgPieoIn_41.757722_-111.845755@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129305,
+    "wof:geomhash":"c48c5c1405ad696ce77d3be42a0dd942",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857428487
+        }
+    ],
+    "wof:id":857428487,
+    "wof:lastmodified":1464129305,
+    "wof:name":"Henson's Alignment Ctr",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wheel",
+        "axle",
+        "alignment"
+    ]
+},
+  "bbox": [
+    -111.845755,
+    41.757722,
+    -111.845755,
+    41.757722
+],
+  "geometry": {"coordinates":[-111.845755,41.757722],"type":"Point"}
+}

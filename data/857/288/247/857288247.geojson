@@ -1,0 +1,69 @@
+{
+  "id": 857288247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.955556,41.322487,-111.955556,41.322487",
+    "geom:latitude":41.322487,
+    "geom:longitude":-111.955556,
+    "iso:country":"US",
+    "sg:address":"815 E 3400 N",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 737 4286",
+    "sg:postcode":"84414",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85824645,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52Fi3p2TAkQhZxvXd9asc9_41.322487_-111.955556@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126088,
+    "wof:geomhash":"fdd7b4db593e6e1999122a1746888c08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85824645,
+            "region_id":85688567,
+            "venue_id":857288247
+        }
+    ],
+    "wof:id":857288247,
+    "wof:lastmodified":1464126088,
+    "wof:name":"Tiffanis Salon",
+    "wof:parent_id":85824645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.955556,
+    41.322487,
+    -111.955556,
+    41.322487
+],
+  "geometry": {"coordinates":[-111.955556,41.322487],"type":"Point"}
+}

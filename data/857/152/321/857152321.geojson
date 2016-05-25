@@ -1,0 +1,73 @@
+{
+  "id": 857152321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.799626,41.785279,-111.799626,41.785279",
+    "geom:latitude":41.785279,
+    "geom:longitude":-111.799626,
+    "iso:country":"US",
+    "sg:address":"2946 N 1400 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 792 4240",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "designer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iIMpw91ekbuI2dxtAi9cI_41.785279_-111.799626@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123192,
+    "wof:geomhash":"22e8d9d4e8b951b1a0190cd68f94457e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857152321
+        }
+    ],
+    "wof:id":857152321,
+    "wof:lastmodified":1464123192,
+    "wof:name":"Techni-Graphic Svc Home Plans",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "designer"
+    ]
+},
+  "bbox": [
+    -111.799626,
+    41.785279,
+    -111.799626,
+    41.785279
+],
+  "geometry": {"coordinates":[-111.799626,41.785279],"type":"Point"}
+}

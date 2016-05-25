@@ -1,0 +1,73 @@
+{
+  "id": 857255685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.632888,37.10408,-113.632888,37.10408",
+    "geom:latitude":37.10408,
+    "geom:longitude":-113.632888,
+    "iso:country":"US",
+    "sg:address":"2366 W Sunbrook Dr",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 634 5865",
+    "sg:postcode":"84770",
+    "sg:province":"UT",
+    "sg:tags":[
+        "course"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79ZR8BYEyFY9jFkzluoQa9_37.104080_-113.632888@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125389,
+    "wof:geomhash":"2d35b142a10362ea8ed3ebfe2e604ec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857255685
+        }
+    ],
+    "wof:id":857255685,
+    "wof:lastmodified":1464125389,
+    "wof:name":"Sunbrook Golf Club",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course"
+    ]
+},
+  "bbox": [
+    -113.632888,
+    37.10408,
+    -113.632888,
+    37.10408
+],
+  "geometry": {"coordinates":[-113.63288799999999,37.10408],"type":"Point"}
+}

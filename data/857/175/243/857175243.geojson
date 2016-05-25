@@ -1,0 +1,68 @@
+{
+  "id": 857175243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.938677,40.587681,-111.938677,40.587681",
+    "geom:latitude":40.587681,
+    "geom:longitude":-111.938677,
+    "iso:country":"US",
+    "sg:address":"1519 W 9000 S",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 561 8872",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85832913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lDXIGSq0HL0yBoELD7Nem_40.587681_-111.938677@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123698,
+    "wof:geomhash":"1dcdf4c3387c3c5c88d9776805d67db5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85832913,
+            "region_id":85688567,
+            "venue_id":857175243
+        }
+    ],
+    "wof:id":857175243,
+    "wof:lastmodified":1464123698,
+    "wof:name":"Jordan River Animal Hospital",
+    "wof:parent_id":85832913,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.938677,
+    40.587681,
+    -111.938677,
+    40.587681
+],
+  "geometry": {"coordinates":[-111.938677,40.587681],"type":"Point"}
+}

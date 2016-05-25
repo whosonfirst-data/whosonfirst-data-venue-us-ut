@@ -1,0 +1,77 @@
+{
+  "id": 857184827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.938824,40.620306,-111.938824,40.620306",
+    "geom:latitude":40.620306,
+    "geom:longitude":-111.938824,
+    "iso:country":"US",
+    "sg:address":"7210 S Redwood Rd",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 566 1990",
+    "sg:postcode":"84084",
+    "sg:province":"UT",
+    "sg:tags":[
+        "commercial",
+        "storage",
+        "special"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85824493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uivQ7157HqPLWGqWgivZQ_40.620306_-111.938824@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123895,
+    "wof:geomhash":"b1b640cee9da625ac960b53074079ce0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85824493,
+            "region_id":85688567,
+            "venue_id":857184827
+        }
+    ],
+    "wof:id":857184827,
+    "wof:lastmodified":1464123895,
+    "wof:name":"Central Self Storage Inc",
+    "wof:parent_id":85824493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage",
+        "special"
+    ]
+},
+  "bbox": [
+    -111.938824,
+    40.620306,
+    -111.938824,
+    40.620306
+],
+  "geometry": {"coordinates":[-111.938824,40.620306],"type":"Point"}
+}

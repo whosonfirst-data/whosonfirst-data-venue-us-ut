@@ -1,0 +1,69 @@
+{
+  "id": 857368597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.939885,41.313886,-111.939885,41.313886",
+    "geom:latitude":41.313886,
+    "geom:longitude":-111.939885,
+    "iso:country":"US",
+    "sg:address":"1337 E 2925 N",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 782 4513",
+    "sg:postcode":"84414",
+    "sg:province":"UT",
+    "sg:tags":[
+        "investor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85824645,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oxIhYfXfAAbS6hgX68NHh_41.313886_-111.939885@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127875,
+    "wof:geomhash":"a6a4f32bd6149a4094b0aed85025a443",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85824645,
+            "region_id":85688567,
+            "venue_id":857368597
+        }
+    ],
+    "wof:id":857368597,
+    "wof:lastmodified":1464127875,
+    "wof:name":"Jon D Bingham Inv Co LLC",
+    "wof:parent_id":85824645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investor"
+    ]
+},
+  "bbox": [
+    -111.939885,
+    41.313886,
+    -111.939885,
+    41.313886
+],
+  "geometry": {"coordinates":[-111.939885,41.313886],"type":"Point"}
+}

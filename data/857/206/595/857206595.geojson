@@ -1,0 +1,71 @@
+{
+  "id": 857206595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.798882,41.732435,-111.798882,41.732435",
+    "geom:latitude":41.732435,
+    "geom:longitude":-111.798882,
+    "iso:country":"US",
+    "sg:address":"25 Ptarmigan Loop",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 755 5921",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1f2yKuvxuvB7wPB0E6jpZe_41.732435_-111.798882@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124323,
+    "wof:geomhash":"c4513be85b61e355e1170dda6d83a6fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857206595
+        }
+    ],
+    "wof:id":857206595,
+    "wof:lastmodified":1464124323,
+    "wof:name":"Homer Roofing",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.798882,
+    41.732435,
+    -111.798882,
+    41.732435
+],
+  "geometry": {"coordinates":[-111.79888200000001,41.732435],"type":"Point"}
+}

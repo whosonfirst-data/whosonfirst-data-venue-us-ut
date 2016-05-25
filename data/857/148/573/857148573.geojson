@@ -1,0 +1,73 @@
+{
+  "id": 857148573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.610533,40.171827,-111.610533,40.171827",
+    "geom:latitude":40.171827,
+    "geom:longitude":-111.610533,
+    "iso:country":"US",
+    "sg:address":"330 N Main St",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 489 3222",
+    "sg:postcode":"84663",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727829,
+        102083567,
+        85880117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KU8qXFVBgMtHBG3QRzzE8_40.171827_-111.610533@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123113,
+    "wof:geomhash":"3f1fabadeca81cff618f1e77655ff3b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727829,
+            "neighbourhood_id":85880117,
+            "region_id":85688567,
+            "venue_id":857148573
+        }
+    ],
+    "wof:id":857148573,
+    "wof:lastmodified":1464123113,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85880117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.610533,
+    40.171827,
+    -111.610533,
+    40.171827
+],
+  "geometry": {"coordinates":[-111.610533,40.171827],"type":"Point"}
+}

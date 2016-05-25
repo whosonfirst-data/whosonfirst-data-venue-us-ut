@@ -1,0 +1,73 @@
+{
+  "id": 857179113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.813927,41.755905,-111.813927,41.755905",
+    "geom:latitude":41.755905,
+    "geom:longitude":-111.813927,
+    "iso:country":"US",
+    "sg:address":"1355 N 800 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 6555",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6e0aTACFSKNtDl0bcSCY1r_41.755905_-111.813927@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123777,
+    "wof:geomhash":"7381338b881de098561ebb0615a9fa28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857179113
+        }
+    ],
+    "wof:id":857179113,
+    "wof:lastmodified":1464123777,
+    "wof:name":"Oakridge Apts",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -111.813927,
+    41.755905,
+    -111.813927,
+    41.755905
+],
+  "geometry": {"coordinates":[-111.81392700000001,41.755905],"type":"Point"}
+}

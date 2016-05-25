@@ -1,0 +1,71 @@
+{
+  "id": 857358537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.615448,37.05155,-113.615448,37.05155",
+    "geom:latitude":37.05155,
+    "geom:longitude":-113.615448,
+    "iso:country":"US",
+    "sg:address":"2991 S Bloomington Dr W",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 673 4232",
+    "sg:postcode":"84790",
+    "sg:province":"UT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727617,
+        102082879,
+        85803851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uer3zlnQrIAVRDMFlHQ1Q_37.051550_-113.615448@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127670,
+    "wof:geomhash":"8a8c2c26a438ca4aa34a7a07372c348c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85803851,
+            "region_id":85688567,
+            "venue_id":857358537
+        }
+    ],
+    "wof:id":857358537,
+    "wof:lastmodified":1464127670,
+    "wof:name":"Vici Noble MD PC",
+    "wof:parent_id":85803851,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -113.615448,
+    37.05155,
+    -113.615448,
+    37.05155
+],
+  "geometry": {"coordinates":[-113.615448,37.05155],"type":"Point"}
+}

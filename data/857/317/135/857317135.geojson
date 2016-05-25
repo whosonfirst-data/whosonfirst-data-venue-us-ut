@@ -1,0 +1,73 @@
+{
+  "id": 857317135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.840534,40.628083,-111.840534,40.628083",
+    "geom:latitude":40.628083,
+    "geom:longitude":-111.840534,
+    "iso:country":"US",
+    "sg:address":"1830 Meadow Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 943 4274",
+    "sg:postcode":"84121",
+    "sg:province":"UT",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85821553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2S3tqLpUISaMrZxQRluW9L_40.628083_-111.840534@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126771,
+    "wof:geomhash":"45d21dd51c61534e43779472ec611274",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85821553,
+            "region_id":85688567,
+            "venue_id":857317135
+        }
+    ],
+    "wof:id":857317135,
+    "wof:lastmodified":1464126771,
+    "wof:name":"Griptoyz Inc",
+    "wof:parent_id":85821553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -111.840534,
+    40.628083,
+    -111.840534,
+    40.628083
+],
+  "geometry": {"coordinates":[-111.84053400000001,40.628083],"type":"Point"}
+}

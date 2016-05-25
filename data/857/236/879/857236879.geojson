@@ -1,0 +1,73 @@
+{
+  "id": 857236879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.800761,40.376734,-111.800761,40.376734",
+    "geom:latitude":40.376734,
+    "geom:longitude":-111.800761,
+    "iso:country":"US",
+    "sg:address":"53 W Main St",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 2223",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "household",
+        "sewing",
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00uEf8yNT1iO9U2HgdHgUe_40.376734_-111.800761@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124943,
+    "wof:geomhash":"7c6aefac568df8b0e9f57e053f8f6df2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857236879
+        }
+    ],
+    "wof:id":857236879,
+    "wof:lastmodified":1464124943,
+    "wof:name":"Nuttall Fabric Center",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "household",
+        "sewing",
+        "appliance"
+    ]
+},
+  "bbox": [
+    -111.800761,
+    40.376734,
+    -111.800761,
+    40.376734
+],
+  "geometry": {"coordinates":[-111.80076099999999,40.376734],"type":"Point"}
+}

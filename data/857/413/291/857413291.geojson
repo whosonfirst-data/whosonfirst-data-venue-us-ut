@@ -1,0 +1,77 @@
+{
+  "id": 857413291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.660893,40.31303,-111.660893,40.31303",
+    "geom:latitude":40.31303,
+    "geom:longitude":-111.660893,
+    "iso:country":"US",
+    "sg:address":"1434 E 820 N",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 221 1001",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "sg:website":"www.nomoremortgage.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WVdiVrEvSj0OuTLkrfQqL_40.313030_-111.660893@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128929,
+    "wof:geomhash":"d2571eac16187649ebc2761653dce6db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857413291
+        }
+    ],
+    "wof:id":857413291,
+    "wof:lastmodified":1464128929,
+    "wof:name":"No More Mortgage",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -111.660893,
+    40.31303,
+    -111.660893,
+    40.31303
+],
+  "geometry": {"coordinates":[-111.660893,40.31303],"type":"Point"}
+}

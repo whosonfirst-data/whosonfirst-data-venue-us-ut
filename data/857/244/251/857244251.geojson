@@ -1,0 +1,71 @@
+{
+  "id": 857244251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.82736,41.733082,-111.82736,41.733082",
+    "geom:latitude":41.733082,
+    "geom:longitude":-111.82736,
+    "iso:country":"US",
+    "sg:address":"229 Boulevard",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 9079",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "theatrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jY45cRwsTAGQ5gZqbzql8_41.733082_-111.827360@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125116,
+    "wof:geomhash":"3bdf0bd3d42483a9d00b04a7eb647bc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857244251
+        }
+    ],
+    "wof:id":857244251,
+    "wof:lastmodified":1464125116,
+    "wof:name":"Valley Dance Ensemble",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "theatrical"
+    ]
+},
+  "bbox": [
+    -111.82736,
+    41.733082,
+    -111.82736,
+    41.733082
+],
+  "geometry": {"coordinates":[-111.82736,41.733082],"type":"Point"}
+}

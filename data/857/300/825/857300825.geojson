@@ -1,0 +1,71 @@
+{
+  "id": 857300825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.938537,41.038112,-111.938537,41.038112",
+    "geom:latitude":41.038112,
+    "geom:longitude":-111.938537,
+    "iso:country":"US",
+    "sg:address":"79 N Main St",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 547 0173",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NE1jtsnlceDiTP4cTYHiL_41.038112_-111.938537@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126430,
+    "wof:geomhash":"23f126383b87e5b334e901d8bd511004",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857300825
+        }
+    ],
+    "wof:id":857300825,
+    "wof:lastmodified":1464126430,
+    "wof:name":"Snips & Snails",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.938537,
+    41.038112,
+    -111.938537,
+    41.038112
+],
+  "geometry": {"coordinates":[-111.938537,41.038112],"type":"Point"}
+}

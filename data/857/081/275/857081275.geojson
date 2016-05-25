@@ -1,0 +1,71 @@
+{
+  "id": 857081275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.795901,40.38186,-111.795901,40.38186",
+    "geom:latitude":40.38186,
+    "geom:longitude":-111.795901,
+    "iso:country":"US",
+    "sg:address":"259 N 100 E",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 492 0642",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62PLb4vROB9hbMMqfmhSeG_40.381860_-111.795901@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121431,
+    "wof:geomhash":"a888c7a6f2b9b702222bfef8907b35ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857081275
+        }
+    ],
+    "wof:id":857081275,
+    "wof:lastmodified":1464121431,
+    "wof:name":"Aspiring Heights Home Health",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -111.795901,
+    40.38186,
+    -111.795901,
+    40.38186
+],
+  "geometry": {"coordinates":[-111.795901,40.38186],"type":"Point"}
+}

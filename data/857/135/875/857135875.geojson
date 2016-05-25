@@ -1,0 +1,71 @@
+{
+  "id": 857135875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.888807,40.996542,-111.888807,40.996542",
+    "geom:latitude":40.996542,
+    "geom:longitude":-111.888807,
+    "iso:country":"US",
+    "sg:address":"963 Oakridge Dr",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 6314",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ML1N5ttYPMOx3Yq9WnoVs_40.996542_-111.888807@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122802,
+    "wof:geomhash":"f5e683649e52bcd2ba6249e0e9971123",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857135875
+        }
+    ],
+    "wof:id":857135875,
+    "wof:lastmodified":1464122802,
+    "wof:name":"Dimension Development LLC",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.888807,
+    40.996542,
+    -111.888807,
+    40.996542
+],
+  "geometry": {"coordinates":[-111.888807,40.996542],"type":"Point"}
+}

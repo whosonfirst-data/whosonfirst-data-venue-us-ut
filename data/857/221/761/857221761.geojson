@@ -1,0 +1,90 @@
+{
+  "id": 857221761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.986544,40.522157,-111.986544,40.522157",
+    "geom:latitude":40.522157,
+    "geom:longitude":-111.986544,
+    "iso:country":"US",
+    "sg:address":"4091 W 12600 S",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 254 4572",
+    "sg:postcode":"84096",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general",
+        "farm",
+        "trucking",
+        "animal",
+        "operator",
+        "topsoil",
+        "local"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728073,
+        102082877,
+        85845107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VXrwnlcKDkRYOUzQh63Q5_40.522157_-111.986544@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124651,
+    "wof:geomhash":"85d62a5af4616b3c2951b063b2c7e15b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728073,
+            "neighbourhood_id":85845107,
+            "region_id":85688567,
+            "venue_id":857221761
+        }
+    ],
+    "wof:id":857221761,
+    "wof:lastmodified":1464124651,
+    "wof:name":"Tony Mascaro Inc & Trucking",
+    "wof:parent_id":85845107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "farm",
+        "trucking",
+        "animal",
+        "operator",
+        "topsoil",
+        "local"
+    ]
+},
+  "bbox": [
+    -111.986544,
+    40.522157,
+    -111.986544,
+    40.522157
+],
+  "geometry": {"coordinates":[-111.98654399999999,40.522157],"type":"Point"}
+}

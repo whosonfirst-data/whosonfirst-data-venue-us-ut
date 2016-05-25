@@ -1,0 +1,71 @@
+{
+  "id": 857243107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.928957,41.635743,-111.928957,41.635743",
+    "geom:latitude":41.635743,
+    "geom:longitude":-111.928957,
+    "iso:country":"US",
+    "sg:address":"145 S 200 E",
+    "sg:city":"Wellsville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 245 4026",
+    "sg:postcode":"84339",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727555,
+        102082881,
+        85823067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pT7PXBmzja2e30RvAaQMN_41.635743_-111.928957@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125085,
+    "wof:geomhash":"6847803878db98b3503aeb88844cc35e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727555,
+            "neighbourhood_id":85823067,
+            "region_id":85688567,
+            "venue_id":857243107
+        }
+    ],
+    "wof:id":857243107,
+    "wof:lastmodified":1464125085,
+    "wof:name":"Larrys Appliance",
+    "wof:parent_id":85823067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -111.928957,
+    41.635743,
+    -111.928957,
+    41.635743
+],
+  "geometry": {"coordinates":[-111.928957,41.635743],"type":"Point"}
+}

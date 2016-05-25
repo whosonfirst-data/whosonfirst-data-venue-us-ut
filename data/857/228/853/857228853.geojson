@@ -1,0 +1,70 @@
+{
+  "id": 857228853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.816679,40.376939,-111.816679,40.376939",
+    "geom:latitude":40.376939,
+    "geom:longitude":-111.816679,
+    "iso:country":"US",
+    "sg:address":"656 W Main St",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 763 9612",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "sg:website":"www.pier1.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sjAC0vqklm2zqzoqUV0Ax_40.376939_-111.816679@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124787,
+    "wof:geomhash":"a3e813f586c08868107e724470fc9d39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857228853
+        }
+    ],
+    "wof:id":857228853,
+    "wof:lastmodified":1464124787,
+    "wof:name":"Pier 1 Imports",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.816679,
+    40.376939,
+    -111.816679,
+    40.376939
+],
+  "geometry": {"coordinates":[-111.81667899999999,40.376939],"type":"Point"}
+}

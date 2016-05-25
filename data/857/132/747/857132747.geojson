@@ -1,0 +1,71 @@
+{
+  "id": 857132747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.952328,41.103932,-111.952328,41.103932",
+    "geom:latitude":41.103932,
+    "geom:longitude":-111.952328,
+    "iso:country":"US",
+    "sg:address":"3324 N 750 E",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 771 4524",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85844663,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6W72jWla3QpkjWgGtYSyaE_41.103932_-111.952328@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122735,
+    "wof:geomhash":"9c201208f7081459591d0c99cf5ec09d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "neighbourhood_id":85844663,
+            "region_id":85688567,
+            "venue_id":857132747
+        }
+    ],
+    "wof:id":857132747,
+    "wof:lastmodified":1464122735,
+    "wof:name":"S & S Mfg",
+    "wof:parent_id":85844663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.952328,
+    41.103932,
+    -111.952328,
+    41.103932
+],
+  "geometry": {"coordinates":[-111.95232799999999,41.103932],"type":"Point"}
+}

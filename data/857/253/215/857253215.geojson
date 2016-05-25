@@ -1,0 +1,69 @@
+{
+  "id": 857253215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.796893,40.379116,-111.796893,40.379116",
+    "geom:latitude":40.379116,
+    "geom:longitude":-111.796893,
+    "iso:country":"US",
+    "sg:address":"91 E 100 N",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 4747",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "athletic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2G3s0a4n9AciTpwEUUCyXe_40.379116_-111.796893@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125325,
+    "wof:geomhash":"3cf224de87cb4042ece0ea9d710938dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857253215
+        }
+    ],
+    "wof:id":857253215,
+    "wof:lastmodified":1464125325,
+    "wof:name":"Hopper's Footwear",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "athletic"
+    ]
+},
+  "bbox": [
+    -111.796893,
+    40.379116,
+    -111.796893,
+    40.379116
+],
+  "geometry": {"coordinates":[-111.796893,40.379116],"type":"Point"}
+}

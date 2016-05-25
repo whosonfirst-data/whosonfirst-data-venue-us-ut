@@ -1,0 +1,75 @@
+{
+  "id": 857269225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.753681,40.043617,-111.753681,40.043617",
+    "geom:latitude":40.043617,
+    "geom:longitude":-111.753681,
+    "iso:country":"US",
+    "sg:address":"1199 W Utah Ave",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 925 1000",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "manufacture",
+        "equipment",
+        "safe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38FUID8mkPI5saal3iQfhK_40.043617_-111.753681@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125670,
+    "wof:geomhash":"1b8b966e6c8872f6e5a54743889ddd6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857269225
+        }
+    ],
+    "wof:id":857269225,
+    "wof:lastmodified":1464125670,
+    "wof:name":"Liberty Safe",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacture",
+        "equipment",
+        "safe"
+    ]
+},
+  "bbox": [
+    -111.753681,
+    40.043617,
+    -111.753681,
+    40.043617
+],
+  "geometry": {"coordinates":[-111.753681,40.043617],"type":"Point"}
+}

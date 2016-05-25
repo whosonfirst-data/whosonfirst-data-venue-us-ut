@@ -1,0 +1,73 @@
+{
+  "id": 857420815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.9609,40.712148,-111.9609,40.712148",
+    "geom:latitude":40.712148,
+    "geom:longitude":-111.9609,
+    "iso:country":"US",
+    "sg:address":"3023 Parkway Blvd",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 302 7960",
+    "sg:postcode":"84119",
+    "sg:province":"UT",
+    "sg:tags":[
+        "fireplace"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85844521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qAkNC1DnShIRf133nZ8hm_40.712148_-111.960900@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129122,
+    "wof:geomhash":"5fc6ef5394d82e007956dc349fe37528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85844521,
+            "region_id":85688567,
+            "venue_id":857420815
+        }
+    ],
+    "wof:id":857420815,
+    "wof:lastmodified":1464129122,
+    "wof:name":"Innsbruck Fireplaces",
+    "wof:parent_id":85844521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fireplace"
+    ]
+},
+  "bbox": [
+    -111.9609,
+    40.712148,
+    -111.9609,
+    40.712148
+],
+  "geometry": {"coordinates":[-111.9609,40.712148],"type":"Point"}
+}

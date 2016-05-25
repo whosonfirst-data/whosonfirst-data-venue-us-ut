@@ -1,0 +1,75 @@
+{
+  "id": 857485847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.865523,40.770004,-111.865523,40.770004",
+    "geom:latitude":40.770004,
+    "geom:longitude":-111.865523,
+    "iso:country":"US",
+    "sg:address":"24 M St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 363 9017",
+    "sg:postcode":"84103",
+    "sg:province":"UT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85853739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HfVF8pRazbACNceZWJkYZ_40.770004_-111.865523@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130482,
+    "wof:geomhash":"a173a3b39a8908c09aaf9319f32f0c0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85853739,
+            "region_id":85688567,
+            "venue_id":857485847
+        }
+    ],
+    "wof:id":857485847,
+    "wof:lastmodified":1464130482,
+    "wof:name":"Behavioral Technology Inc",
+    "wof:parent_id":85853739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -111.865523,
+    40.770004,
+    -111.865523,
+    40.770004
+],
+  "geometry": {"coordinates":[-111.865523,40.770004],"type":"Point"}
+}

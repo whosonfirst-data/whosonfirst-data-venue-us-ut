@@ -1,0 +1,75 @@
+{
+  "id": 857297423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.68902,40.262086,-111.68902,40.262086",
+    "geom:latitude":40.262086,
+    "geom:longitude":-111.68902,
+    "iso:country":"US",
+    "sg:address":"210 E 1910 S",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 225 6768",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85880081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mqnjuhgBFkS6FzeoA428k_40.262086_-111.689020@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126353,
+    "wof:geomhash":"da6db67b960d553cf86f8d10c48eb402",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85880081,
+            "region_id":85688567,
+            "venue_id":857297423
+        }
+    ],
+    "wof:id":857297423,
+    "wof:lastmodified":1464126353,
+    "wof:name":"Skyline Woods",
+    "wof:parent_id":85880081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.68902,
+    40.262086,
+    -111.68902,
+    40.262086
+],
+  "geometry": {"coordinates":[-111.68902,40.262086],"type":"Point"}
+}

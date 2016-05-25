@@ -1,0 +1,79 @@
+{
+  "id": 857495077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.949075,40.699123,-111.949075,40.699123",
+    "geom:latitude":40.699123,
+    "geom:longitude":-111.949075,
+    "iso:country":"US",
+    "sg:address":"2283 City Center Ct",
+    "sg:city":"West Valley",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/89114-cracker-barrel/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 977 8221",
+    "sg:postcode":"84119",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85832291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IqdOkzS6tyZP2pOwi1fcH_40.699227_-111.948875@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130775,
+    "wof:geomhash":"1a05ee01e8b5290326da71ba1955a3e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85832291,
+            "region_id":85688567,
+            "venue_id":857495077
+        }
+    ],
+    "wof:id":857495077,
+    "wof:lastmodified":1464130775,
+    "wof:name":"Cracker Barrel",
+    "wof:parent_id":85832291,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -111.949075,
+    40.699123,
+    -111.949075,
+    40.699123
+],
+  "geometry": {"coordinates":[-111.94907499999999,40.699123],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857245667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.024924,40.697419,-112.024924,40.697419",
+    "geom:latitude":40.697419,
+    "geom:longitude":-112.024924,
+    "iso:country":"US",
+    "sg:address":"3356 S 5600 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 969 5219",
+    "sg:postcode":"84120",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85802447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42p3Vz6KYIeWs7Y0ZqcXCE_40.697419_-112.024924@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125153,
+    "wof:geomhash":"c8e197451b077c0743efa54e2ec3e343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85802447,
+            "region_id":85688567,
+            "venue_id":857245667
+        }
+    ],
+    "wof:id":857245667,
+    "wof:lastmodified":1464125153,
+    "wof:name":"Banzai Teppan Yaki Inc",
+    "wof:parent_id":85802447,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -112.024924,
+    40.697419,
+    -112.024924,
+    40.697419
+],
+  "geometry": {"coordinates":[-112.024924,40.697419],"type":"Point"}
+}

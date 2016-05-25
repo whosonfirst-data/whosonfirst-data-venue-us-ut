@@ -1,0 +1,82 @@
+{
+  "id": 857111997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.848604,40.562644,-111.848604,40.562644",
+    "geom:latitude":40.562644,
+    "geom:longitude":-111.848604,
+    "iso:country":"US",
+    "sg:address":"1450 Edgecliff Dr",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 0891",
+    "sg:postcode":"84092",
+    "sg:province":"UT",
+    "sg:tags":[
+        "medical",
+        "permanent",
+        "make"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85846597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_142FQNE5ee3JzOotfPJyYb_40.562644_-111.848604@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122233,
+    "wof:geomhash":"6fda5df5a6d87a51379e03b7d9667899",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85846597,
+            "region_id":85688567,
+            "venue_id":857111997
+        }
+    ],
+    "wof:id":857111997,
+    "wof:lastmodified":1464122233,
+    "wof:name":"Utah Physician Associates Inc",
+    "wof:parent_id":85846597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "permanent",
+        "make"
+    ]
+},
+  "bbox": [
+    -111.848604,
+    40.562644,
+    -111.848604,
+    40.562644
+],
+  "geometry": {"coordinates":[-111.84860399999999,40.562644],"type":"Point"}
+}

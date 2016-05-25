@@ -1,0 +1,71 @@
+{
+  "id": 857322093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.683039,40.065228,-111.683039,40.065228",
+    "geom:latitude":40.065228,
+    "geom:longitude":-111.683039,
+    "iso:country":"US",
+    "sg:address":"441 S 1200 W",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 319 0274",
+    "sg:postcode":"84653",
+    "sg:province":"UT",
+    "sg:tags":[
+        "arrangement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1betMAQvA4IX8FGwGQQrS4_40.065228_-111.683039@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126890,
+    "wof:geomhash":"af591f051a203dccb29842e6559f9fe2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857322093
+        }
+    ],
+    "wof:id":857322093,
+    "wof:lastmodified":1464126890,
+    "wof:name":"T H B Express LLC",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arrangement"
+    ]
+},
+  "bbox": [
+    -111.683039,
+    40.065228,
+    -111.683039,
+    40.065228
+],
+  "geometry": {"coordinates":[-111.68303899999999,40.065228],"type":"Point"}
+}

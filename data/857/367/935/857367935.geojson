@@ -1,0 +1,75 @@
+{
+  "id": 857367935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.585691,40.164379,-111.585691,40.164379",
+    "geom:latitude":40.164379,
+    "geom:longitude":-111.585691,
+    "iso:country":"US",
+    "sg:address":"1417 E 150 S",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 489 1351",
+    "sg:postcode":"84663",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727829,
+        102083567,
+        85880117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3c2nfVux0jERkMQPpGs2uu_40.164379_-111.585691@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127862,
+    "wof:geomhash":"548ecb3b399c9cbd48d6f46d310235d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727829,
+            "neighbourhood_id":85880117,
+            "region_id":85688567,
+            "venue_id":857367935
+        }
+    ],
+    "wof:id":857367935,
+    "wof:lastmodified":1464127862,
+    "wof:name":"Cutler Electric Inc",
+    "wof:parent_id":85880117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.585691,
+    40.164379,
+    -111.585691,
+    40.164379
+],
+  "geometry": {"coordinates":[-111.585691,40.164379],"type":"Point"}
+}

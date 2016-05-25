@@ -1,0 +1,75 @@
+{
+  "id": 857462177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.881616,40.558772,-111.881616,40.558772",
+    "geom:latitude":40.558772,
+    "geom:longitude":-111.881616,
+    "iso:country":"US",
+    "sg:address":"310 E 10600 S",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 523 2737",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85852927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LITrUfyeeKmeoybDXfI6R_40.558772_-111.881616@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129993,
+    "wof:geomhash":"6603e269379de97b74ed646377feb26e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85852927,
+            "region_id":85688567,
+            "venue_id":857462177
+        }
+    ],
+    "wof:id":857462177,
+    "wof:lastmodified":1464129993,
+    "wof:name":"South Towne Ranch",
+    "wof:parent_id":85852927,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -111.881616,
+    40.558772,
+    -111.881616,
+    40.558772
+],
+  "geometry": {"coordinates":[-111.88161599999999,40.558772],"type":"Point"}
+}

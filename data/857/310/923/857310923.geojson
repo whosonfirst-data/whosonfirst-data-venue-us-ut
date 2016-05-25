@@ -1,0 +1,69 @@
+{
+  "id": 857310923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.845756,40.38738,-111.845756,40.38738",
+    "geom:latitude":40.38738,
+    "geom:longitude":-111.845756,
+    "iso:country":"US",
+    "sg:address":"49 S 200 East St",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 766 0167",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01GwZbnhKY0Q2L0uyx00Iy_40.387380_-111.845756@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126638,
+    "wof:geomhash":"38703afc292e3e4a8e9c0ebb181263d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857310923
+        }
+    ],
+    "wof:id":857310923,
+    "wof:lastmodified":1464126638,
+    "wof:name":"Mc Cains Campground",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer"
+    ]
+},
+  "bbox": [
+    -111.845756,
+    40.38738,
+    -111.845756,
+    40.38738
+],
+  "geometry": {"coordinates":[-111.84575599999999,40.38738],"type":"Point"}
+}

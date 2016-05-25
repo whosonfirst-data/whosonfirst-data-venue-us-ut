@@ -1,0 +1,77 @@
+{
+  "id": 857462561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.002022,41.090009,-112.002022,41.090009",
+    "geom:latitude":41.090009,
+    "geom:longitude":-112.002022,
+    "iso:country":"US",
+    "sg:address":"2071 N Main St",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 825 4040",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "x",
+        "imaging",
+        "diagnostic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26XFCuF7ICG8xCx2xGxq0K_41.090009_-112.002022@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129999,
+    "wof:geomhash":"7a0dc3ab1fcada813f368d905651c299",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857462561
+        }
+    ],
+    "wof:id":857462561,
+    "wof:lastmodified":1464129999,
+    "wof:name":"Open Imaging Layton LLC",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "x",
+        "imaging",
+        "diagnostic"
+    ]
+},
+  "bbox": [
+    -112.002022,
+    41.090009,
+    -112.002022,
+    41.090009
+],
+  "geometry": {"coordinates":[-112.002022,41.090009],"type":"Point"}
+}

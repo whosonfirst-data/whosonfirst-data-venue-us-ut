@@ -1,0 +1,75 @@
+{
+  "id": 857102723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.851803,40.694686,-111.851803,40.694686",
+    "geom:latitude":40.694686,
+    "geom:longitude":-111.851803,
+    "iso:country":"US",
+    "sg:address":"1349 E Brookshire Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 573 2597",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85832079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lOc7DWKmKUUW9HsZleUYT_40.694686_-111.851803@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121975,
+    "wof:geomhash":"c52ba2aa897cf3b9e69506d558137992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85832079,
+            "region_id":85688567,
+            "venue_id":857102723
+        }
+    ],
+    "wof:id":857102723,
+    "wof:lastmodified":1464121975,
+    "wof:name":"Fordham Property Svc",
+    "wof:parent_id":85832079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.851803,
+    40.694686,
+    -111.851803,
+    40.694686
+],
+  "geometry": {"coordinates":[-111.851803,40.694686],"type":"Point"}
+}

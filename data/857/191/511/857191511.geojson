@@ -1,0 +1,68 @@
+{
+  "id": 857191511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.990391,40.502698,-111.990391,40.502698",
+    "geom:latitude":40.502698,
+    "geom:longitude":-111.990391,
+    "iso:country":"US",
+    "sg:address":"13768 S 4170 W",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 254 7824",
+    "sg:postcode":"84065",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728045,
+        102082877,
+        85845111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01D1CH0UYMZO1OBDEH6SWl_40.502698_-111.990391@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124015,
+    "wof:geomhash":"ca5ca7cdb1e90b9c5b685ee3abb44199",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728045,
+            "neighbourhood_id":85845111,
+            "region_id":85688567,
+            "venue_id":857191511
+        }
+    ],
+    "wof:id":857191511,
+    "wof:lastmodified":1464124015,
+    "wof:name":"Shannon's Style Salon",
+    "wof:parent_id":85845111,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.990391,
+    40.502698,
+    -111.990391,
+    40.502698
+],
+  "geometry": {"coordinates":[-111.990391,40.502698],"type":"Point"}
+}

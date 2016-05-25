@@ -1,0 +1,71 @@
+{
+  "id": 857150917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.654623,40.11963,-111.654623,40.11963",
+    "geom:latitude":40.11963,
+    "geom:longitude":-111.654623,
+    "iso:country":"US",
+    "sg:address":"740 N Main St",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 8217",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SugjFGCDgOT5LefsQfbhk_40.119630_-111.654623@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123167,
+    "wof:geomhash":"f1db49b2b62381a6ba9df3a47e408bc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857150917
+        }
+    ],
+    "wof:id":857150917,
+    "wof:lastmodified":1464123167,
+    "wof:name":"Pet Clinic",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -111.654623,
+    40.11963,
+    -111.654623,
+    40.11963
+],
+  "geometry": {"coordinates":[-111.654623,40.11963],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 857490249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.901881,41.031135,-111.901881,41.031135",
+    "geom:latitude":41.031135,
+    "geom:longitude":-111.901881,
+    "iso:country":"US",
+    "sg:address":"281 S Mountain Rd",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 593 9756",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "cake",
+        "baker",
+        "pastry",
+        "wedding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4asOYL0c6zXwYNd8z4sQOI_41.031716_-111.901974@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464130596,
+    "wof:geomhash":"4163281e6d67ffaec9a0ce7f1537bb0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857490249
+        }
+    ],
+    "wof:id":857490249,
+    "wof:lastmodified":1464130596,
+    "wof:name":"Bun Basket N Bakery",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cake",
+        "baker",
+        "pastry",
+        "wedding"
+    ]
+},
+  "bbox": [
+    -111.901881,
+    41.031135,
+    -111.901881,
+    41.031135
+],
+  "geometry": {"coordinates":[-111.901881,41.031135],"type":"Point"}
+}

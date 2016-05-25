@@ -1,0 +1,75 @@
+{
+  "id": 857227001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.933958,40.716518,-111.933958,40.716518",
+    "geom:latitude":40.716518,
+    "geom:longitude":-111.933958,
+    "iso:country":"US",
+    "sg:address":"2581 Chatham St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 532 5625",
+    "sg:postcode":"84119",
+    "sg:province":"UT",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85810735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ti3Edb6VLIxkL6sOW5uSp_40.716518_-111.933958@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124750,
+    "wof:geomhash":"f5f4f4668e0a548224c34d3ae1042808",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85810735,
+            "region_id":85688567,
+            "venue_id":857227001
+        }
+    ],
+    "wof:id":857227001,
+    "wof:lastmodified":1464124750,
+    "wof:name":"White Knight Locksmith",
+    "wof:parent_id":85810735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -111.933958,
+    40.716518,
+    -111.933958,
+    40.716518
+],
+  "geometry": {"coordinates":[-111.933958,40.716518],"type":"Point"}
+}

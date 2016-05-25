@@ -1,0 +1,77 @@
+{
+  "id": 857109323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.043459,40.499513,-112.043459,40.499513",
+    "geom:latitude":40.499513,
+    "geom:longitude":-112.043459,
+    "iso:country":"US",
+    "sg:address":"13873 Rose Canyon Rd",
+    "sg:city":"Herriman",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 446 3612",
+    "sg:postcode":"84096",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house",
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728047,
+        102082877,
+        85819751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lvZq608H3qonowoNN38Ux_40.499513_-112.043459@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122132,
+    "wof:geomhash":"cb56db61c8a268617e72837014500372",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728047,
+            "neighbourhood_id":85819751,
+            "region_id":85688567,
+            "venue_id":857109323
+        }
+    ],
+    "wof:id":857109323,
+    "wof:lastmodified":1464122132,
+    "wof:name":"Davis Construction Inc",
+    "wof:parent_id":85819751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -112.043459,
+    40.499513,
+    -112.043459,
+    40.499513
+],
+  "geometry": {"coordinates":[-112.043459,40.499513],"type":"Point"}
+}

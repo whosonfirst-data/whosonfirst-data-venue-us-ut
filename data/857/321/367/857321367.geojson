@@ -1,0 +1,74 @@
+{
+  "id": 857321367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.890356,40.523802,-111.890356,40.523802",
+    "geom:latitude":40.523802,
+    "geom:longitude":-111.890356,
+    "iso:country":"US",
+    "sg:address":"12595 Minuteman Dr",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 572 6989",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mental"
+    ],
+    "sg:website":"www.youthcare.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727849,
+        102082877,
+        85823005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Xf9dE2W4c46npMNGRLTA1_40.523802_-111.890356@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126877,
+    "wof:geomhash":"6f1e1607e275679c91687cb88016e490",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85823005,
+            "region_id":85688567,
+            "venue_id":857321367
+        }
+    ],
+    "wof:id":857321367,
+    "wof:lastmodified":1464126877,
+    "wof:name":"Youth Care Inc",
+    "wof:parent_id":85823005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -111.890356,
+    40.523802,
+    -111.890356,
+    40.523802
+],
+  "geometry": {"coordinates":[-111.890356,40.523802],"type":"Point"}
+}

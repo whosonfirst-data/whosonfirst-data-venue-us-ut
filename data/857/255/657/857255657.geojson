@@ -1,0 +1,75 @@
+{
+  "id": 857255657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.969282,40.71199,-111.969282,40.71199",
+    "geom:latitude":40.71199,
+    "geom:longitude":-111.969282,
+    "iso:country":"US",
+    "sg:address":"2606 S 3270 W",
+    "sg:city":"West Valley",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 973 4707",
+    "sg:postcode":"84119",
+    "sg:province":"UT",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85844521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cH88S5DlQDxrNUWvdytuF_40.711990_-111.969282@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125389,
+    "wof:geomhash":"77e9729fbf23bf04a9a25c9c355e0d73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85844521,
+            "region_id":85688567,
+            "venue_id":857255657
+        }
+    ],
+    "wof:id":857255657,
+    "wof:lastmodified":1464125389,
+    "wof:name":"Ams Inc",
+    "wof:parent_id":85844521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.969282,
+    40.71199,
+    -111.969282,
+    40.71199
+],
+  "geometry": {"coordinates":[-111.96928200000001,40.71199],"type":"Point"}
+}

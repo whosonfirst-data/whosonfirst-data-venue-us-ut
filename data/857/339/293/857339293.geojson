@@ -1,0 +1,69 @@
+{
+  "id": 857339293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.761104,41.253799,-111.761104,41.253799",
+    "geom:latitude":41.253799,
+    "geom:longitude":-111.761104,
+    "iso:country":"US",
+    "sg:address":"570 S 7800 E",
+    "sg:city":"Huntsville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 745 9622",
+    "sg:postcode":"84317",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85818631,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TuUJ1RwKtjGbfa4cf6Sqe_41.253799_-111.761104@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127257,
+    "wof:geomhash":"5dd9ee9607a01a609b96f5d9206361e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85818631,
+            "region_id":85688567,
+            "venue_id":857339293
+        }
+    ],
+    "wof:id":857339293,
+    "wof:lastmodified":1464127257,
+    "wof:name":"Subway Huntsville",
+    "wof:parent_id":85818631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.761104,
+    41.253799,
+    -111.761104,
+    41.253799
+],
+  "geometry": {"coordinates":[-111.761104,41.253799],"type":"Point"}
+}

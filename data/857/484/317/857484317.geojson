@@ -1,0 +1,71 @@
+{
+  "id": 857484317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834072,41.772603,-111.834072,41.772603",
+    "geom:latitude":41.772603,
+    "geom:longitude":-111.834072,
+    "iso:country":"US",
+    "sg:address":"2200 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 2770",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "battery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uAS82A9YVKig55VjflO6W_41.772603_-111.834072@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130451,
+    "wof:geomhash":"1ade16b56bdd3e88028186edbede29ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857484317
+        }
+    ],
+    "wof:id":857484317,
+    "wof:lastmodified":1464130451,
+    "wof:name":"NAPA Auto Parts",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "battery"
+    ]
+},
+  "bbox": [
+    -111.834072,
+    41.772603,
+    -111.834072,
+    41.772603
+],
+  "geometry": {"coordinates":[-111.83407200000001,41.772603],"type":"Point"}
+}

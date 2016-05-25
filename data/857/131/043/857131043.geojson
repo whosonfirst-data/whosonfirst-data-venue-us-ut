@@ -1,0 +1,75 @@
+{
+  "id": 857131043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.579253,40.144969,-111.579253,40.144969",
+    "geom:latitude":40.144969,
+    "geom:longitude":-111.579253,
+    "iso:country":"US",
+    "sg:address":"48 W 1600 N",
+    "sg:city":"Mapleton",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 491 2074",
+    "sg:postcode":"84664",
+    "sg:province":"UT",
+    "sg:tags":[
+        "station",
+        "gas",
+        "chevron"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4i3OnyYQO9pvDVuhmcO72n_40.144969_-111.579253@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122702,
+    "wof:geomhash":"663cb9b7cd0e3d7cb24f7a5c7770541d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857131043
+        }
+    ],
+    "wof:id":857131043,
+    "wof:lastmodified":1464122702,
+    "wof:name":"Wheelers Country Store",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gas",
+        "chevron"
+    ]
+},
+  "bbox": [
+    -111.579253,
+    40.144969,
+    -111.579253,
+    40.144969
+],
+  "geometry": {"coordinates":[-111.57925299999999,40.144969],"type":"Point"}
+}

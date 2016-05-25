@@ -1,0 +1,77 @@
+{
+  "id": 857395103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.872995,40.886205,-111.872995,40.886205",
+    "geom:latitude":40.886205,
+    "geom:longitude":-111.872995,
+    "iso:country":"US",
+    "sg:address":"350 E 300 S",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 397 4600",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "sg:tags":[
+        "hospice",
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727881,
+        102083563,
+        85807249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MoQ7EPGFqWE55pKqmM2mx_40.886205_-111.872995@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128528,
+    "wof:geomhash":"8abc18a018ac7168a9186e5f5bb9c90b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727881,
+            "neighbourhood_id":85807249,
+            "region_id":85688567,
+            "venue_id":857395103
+        }
+    ],
+    "wof:id":857395103,
+    "wof:lastmodified":1464128528,
+    "wof:name":"Rocky Mountain Home Care",
+    "wof:parent_id":85807249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospice",
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -111.872995,
+    40.886205,
+    -111.872995,
+    40.886205
+],
+  "geometry": {"coordinates":[-111.872995,40.886205],"type":"Point"}
+}

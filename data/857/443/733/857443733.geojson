@@ -1,0 +1,68 @@
+{
+  "id": 857443733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.746709,40.297033,-111.746709,40.297033",
+    "geom:latitude":40.297033,
+    "geom:longitude":-111.746709,
+    "iso:country":"US",
+    "sg:address":"345 S Holdaway Rd",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 225 3741",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727827,
+        102083567,
+        85821287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ed7ZpPRjVYpFOwANvChTt_40.297033_-111.746709@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129635,
+    "wof:geomhash":"bd6c30587550f542765a8aa444e5f5e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727827,
+            "neighbourhood_id":85821287,
+            "region_id":85688567,
+            "venue_id":857443733
+        }
+    ],
+    "wof:id":857443733,
+    "wof:lastmodified":1464129635,
+    "wof:name":"Global Precision Surveying",
+    "wof:parent_id":85821287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.746709,
+    40.297033,
+    -111.746709,
+    40.297033
+],
+  "geometry": {"coordinates":[-111.746709,40.297033],"type":"Point"}
+}

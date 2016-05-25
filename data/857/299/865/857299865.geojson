@@ -1,0 +1,75 @@
+{
+  "id": 857299865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.999442,40.705752,-111.999442,40.705752",
+    "geom:latitude":40.705752,
+    "geom:longitude":-111.999442,
+    "iso:country":"US",
+    "sg:address":"4523 Blue Lake Ln",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 955 9747",
+    "sg:postcode":"84120",
+    "sg:province":"UT",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85852823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ABUtdJE2f2XF3W5PB4WcV_40.705752_-111.999442@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126408,
+    "wof:geomhash":"6306d0b1dfb1b95c83f6e79b49bcd776",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85852823,
+            "region_id":85688567,
+            "venue_id":857299865
+        }
+    ],
+    "wof:id":857299865,
+    "wof:lastmodified":1464126408,
+    "wof:name":"Pauls Carpentry Inc",
+    "wof:parent_id":85852823,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.999442,
+    40.705752,
+    -111.999442,
+    40.705752
+],
+  "geometry": {"coordinates":[-111.999442,40.705752],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857419523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.959691,40.68848,-111.959691,40.68848",
+    "geom:latitude":40.68848,
+    "geom:longitude":-111.959691,
+    "iso:country":"US",
+    "sg:address":"3775 S Market St",
+    "sg:city":"West Valley",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 966 4238",
+    "sg:postcode":"84119",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85859153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45ENJxDp4M4WgQRUkvGRXK_40.688480_-111.959691@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129086,
+    "wof:geomhash":"d2713ff42f5e29aad6743682f274f245",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85859153,
+            "region_id":85688567,
+            "venue_id":857419523
+        }
+    ],
+    "wof:id":857419523,
+    "wof:lastmodified":1464129086,
+    "wof:name":"Burningham Chiropractic",
+    "wof:parent_id":85859153,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.959691,
+    40.68848,
+    -111.959691,
+    40.68848
+],
+  "geometry": {"coordinates":[-111.95969100000001,40.68848],"type":"Point"}
+}

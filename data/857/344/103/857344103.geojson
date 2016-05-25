@@ -1,0 +1,73 @@
+{
+  "id": 857344103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.068526,41.077507,-112.068526,41.077507",
+    "geom:latitude":41.077507,
+    "geom:longitude":-112.068526,
+    "iso:country":"US",
+    "sg:address":"2680 S Bluff Rd",
+    "sg:city":"Syracuse",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 402 2850",
+    "sg:postcode":"84075",
+    "sg:province":"UT",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727889,
+        102083563,
+        85804563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MNYWK9P3Ff4aAievlY9PT_41.077507_-112.068526@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127354,
+    "wof:geomhash":"f67a39520a4fef1d7eb6e01242aebf5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727889,
+            "neighbourhood_id":85804563,
+            "region_id":85688567,
+            "venue_id":857344103
+        }
+    ],
+    "wof:id":857344103,
+    "wof:lastmodified":1464127354,
+    "wof:name":"Bluff Ridge Elementary",
+    "wof:parent_id":85804563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -112.068526,
+    41.077507,
+    -112.068526,
+    41.077507
+],
+  "geometry": {"coordinates":[-112.06852600000001,41.077507],"type":"Point"}
+}

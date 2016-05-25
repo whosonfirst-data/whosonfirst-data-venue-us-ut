@@ -1,0 +1,69 @@
+{
+  "id": 857465377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.666549,40.308026,-111.666549,40.308026",
+    "geom:latitude":40.308026,
+    "geom:longitude":-111.666549,
+    "iso:country":"US",
+    "sg:address":"584 N 1230 E",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 229 3947",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FQw4BIRIxbiHd78YP79AP_40.308026_-111.666549@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130075,
+    "wof:geomhash":"f215c063e7a2f5c67998d07caa4639e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857465377
+        }
+    ],
+    "wof:id":857465377,
+    "wof:lastmodified":1464130075,
+    "wof:name":"Gibbs Consulting Inc",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    -111.666549,
+    40.308026,
+    -111.666549,
+    40.308026
+],
+  "geometry": {"coordinates":[-111.666549,40.308026],"type":"Point"}
+}

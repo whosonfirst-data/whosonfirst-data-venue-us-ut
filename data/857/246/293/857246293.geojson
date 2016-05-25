@@ -1,0 +1,72 @@
+{
+  "id": 857246293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.833994,41.73921,-111.833994,41.73921",
+    "geom:latitude":41.73921,
+    "geom:longitude":-111.833994,
+    "iso:country":"US",
+    "sg:address":"35 E 400 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 3100",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "sg:website":"www.junipertakeout.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30xdv4057aa9ub0EoFV0AB_41.739210_-111.833994@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125164,
+    "wof:geomhash":"c1ee35beca5ebd57dabc4eccaf8f9bb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857246293
+        }
+    ],
+    "wof:id":857246293,
+    "wof:lastmodified":1464125164,
+    "wof:name":"Juniper Take Out",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.833994,
+    41.73921,
+    -111.833994,
+    41.73921
+],
+  "geometry": {"coordinates":[-111.833994,41.73921],"type":"Point"}
+}

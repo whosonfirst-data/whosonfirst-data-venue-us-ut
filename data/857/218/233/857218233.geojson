@@ -1,0 +1,73 @@
+{
+  "id": 857218233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.881003,40.771777,-111.881003,40.771777",
+    "geom:latitude":40.771777,
+    "geom:longitude":-111.881003,
+    "iso:country":"US",
+    "sg:address":"267 2nd Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 323 1148",
+    "sg:postcode":"84103",
+    "sg:province":"UT",
+    "sg:tags":[
+        "investor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85809299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aNTVmwoD6UTtI2fdd3cZu_40.771777_-111.881003@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124579,
+    "wof:geomhash":"dfc31ae04e280a7ae43f60bcb18cec76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85809299,
+            "region_id":85688567,
+            "venue_id":857218233
+        }
+    ],
+    "wof:id":857218233,
+    "wof:lastmodified":1464124579,
+    "wof:name":"Chase",
+    "wof:parent_id":85809299,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investor"
+    ]
+},
+  "bbox": [
+    -111.881003,
+    40.771777,
+    -111.881003,
+    40.771777
+],
+  "geometry": {"coordinates":[-111.88100300000001,40.771777],"type":"Point"}
+}

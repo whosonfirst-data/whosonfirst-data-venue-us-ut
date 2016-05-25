@@ -1,0 +1,73 @@
+{
+  "id": 857478743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.006954,41.097908,-112.006954,41.097908",
+    "geom:latitude":41.097908,
+    "geom:longitude":-112.006954,
+    "iso:country":"US",
+    "sg:address":"1084 S 1000 E",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 776 2210",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TpMQ4yiLWgRnfYYZmtLEK_41.097908_-112.006954@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130348,
+    "wof:geomhash":"fd2d7c2b94c7a6dcfaf6021c19c9a4a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857478743
+        }
+    ],
+    "wof:id":857478743,
+    "wof:lastmodified":1464130348,
+    "wof:name":"Holly Haven Apartments",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -112.006954,
+    41.097908,
+    -112.006954,
+    41.097908
+],
+  "geometry": {"coordinates":[-112.00695399999999,41.097908],"type":"Point"}
+}

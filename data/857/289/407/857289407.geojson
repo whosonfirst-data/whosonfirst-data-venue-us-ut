@@ -1,0 +1,71 @@
+{
+  "id": 857289407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.837197,41.557859,-111.837197,41.557859",
+    "geom:latitude":41.557859,
+    "geom:longitude":-111.837197,
+    "iso:country":"US",
+    "sg:address":"9500 S Hwy 165",
+    "sg:city":"Paradise",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 245 6260",
+    "sg:postcode":"84328",
+    "sg:province":"UT",
+    "sg:tags":[
+        "livestock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727555,
+        102082881,
+        85823067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lu9TluvqO2pk8G27SYrWV_41.557859_-111.837197@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126130,
+    "wof:geomhash":"12dc83adfcc11af65aec3234435dba15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727555,
+            "neighbourhood_id":85823067,
+            "region_id":85688567,
+            "venue_id":857289407
+        }
+    ],
+    "wof:id":857289407,
+    "wof:lastmodified":1464126130,
+    "wof:name":"Chris Bailey",
+    "wof:parent_id":85823067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "livestock"
+    ]
+},
+  "bbox": [
+    -111.837197,
+    41.557859,
+    -111.837197,
+    41.557859
+],
+  "geometry": {"coordinates":[-111.837197,41.557859],"type":"Point"}
+}

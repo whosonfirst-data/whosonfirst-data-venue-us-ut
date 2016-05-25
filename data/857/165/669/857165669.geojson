@@ -1,0 +1,73 @@
+{
+  "id": 857165669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.724252,40.304551,-111.724252,40.304551",
+    "geom:latitude":40.304551,
+    "geom:longitude":-111.724252,
+    "iso:country":"US",
+    "sg:address":"490 N 1200 W",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 225 7175",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CXpNpr5Fq5e6QIjJU5GoZ_40.304551_-111.724252@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123479,
+    "wof:geomhash":"6514881160170457bf699ebe63d2d261",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":857165669
+        }
+    ],
+    "wof:id":857165669,
+    "wof:lastmodified":1464123479,
+    "wof:name":"Curtis Mobile Homes Inc",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.724252,
+    40.304551,
+    -111.724252,
+    40.304551
+],
+  "geometry": {"coordinates":[-111.72425200000001,40.304551],"type":"Point"}
+}

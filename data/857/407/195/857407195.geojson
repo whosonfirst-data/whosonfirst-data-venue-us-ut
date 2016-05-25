@@ -1,0 +1,75 @@
+{
+  "id": 857407195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.904107,40.587313,-111.904107,40.587313",
+    "geom:latitude":40.587313,
+    "geom:longitude":-111.904107,
+    "iso:country":"US",
+    "sg:address":"9091 Sandy Pkwy",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 255 6880",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "car",
+        "polygraph"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85818097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4i5yLFepAnCuaRGrFEWuXX_40.587313_-111.904107@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128771,
+    "wof:geomhash":"5fe2462a3e29ccea79b5a622e702588d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85818097,
+            "region_id":85688567,
+            "venue_id":857407195
+        }
+    ],
+    "wof:id":857407195,
+    "wof:lastmodified":1464128771,
+    "wof:name":"Polygraph Screening Service",
+    "wof:parent_id":85818097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "polygraph"
+    ]
+},
+  "bbox": [
+    -111.904107,
+    40.587313,
+    -111.904107,
+    40.587313
+],
+  "geometry": {"coordinates":[-111.904107,40.587313],"type":"Point"}
+}

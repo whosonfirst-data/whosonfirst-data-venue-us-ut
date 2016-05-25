@@ -1,0 +1,68 @@
+{
+  "id": 857239403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.996184,40.648342,-111.996184,40.648342",
+    "geom:latitude":40.648342,
+    "geom:longitude":-111.996184,
+    "iso:country":"US",
+    "sg:address":"4371 W 5655 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 967 1845",
+    "sg:postcode":"84118",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728253,
+        102082877,
+        85825833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UVS45nj3x0sKWe0RdH52X_40.648342_-111.996184@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124989,
+    "wof:geomhash":"7cf57e531752e97d1e23c9fdd4c4da68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728253,
+            "neighbourhood_id":85825833,
+            "region_id":85688567,
+            "venue_id":857239403
+        }
+    ],
+    "wof:id":857239403,
+    "wof:lastmodified":1464124989,
+    "wof:name":"Lacroix Computer Service",
+    "wof:parent_id":85825833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.996184,
+    40.648342,
+    -111.996184,
+    40.648342
+],
+  "geometry": {"coordinates":[-111.996184,40.648342],"type":"Point"}
+}

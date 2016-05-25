@@ -1,0 +1,73 @@
+{
+  "id": 857403615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.659104,40.213533,-111.659104,40.213533",
+    "geom:latitude":40.213533,
+    "geom:longitude":-111.659104,
+    "iso:country":"US",
+    "sg:address":"1550 S University Ave",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 418 1015",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HiutHGCh7U44ptQUdTMO0_40.213533_-111.659104@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128694,
+    "wof:geomhash":"f9a87f2dc175b42e70760c9ae27e4bbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880077,
+            "region_id":85688567,
+            "venue_id":857403615
+        }
+    ],
+    "wof:id":857403615,
+    "wof:lastmodified":1464128694,
+    "wof:name":"Home Depot",
+    "wof:parent_id":85880077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -111.659104,
+    40.213533,
+    -111.659104,
+    40.213533
+],
+  "geometry": {"coordinates":[-111.659104,40.213533],"type":"Point"}
+}

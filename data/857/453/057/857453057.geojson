@@ -1,0 +1,73 @@
+{
+  "id": 857453057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.020645,41.108375,-112.020645,41.108375",
+    "geom:latitude":41.108375,
+    "geom:longitude":-112.020645,
+    "iso:country":"US",
+    "sg:address":"354 State St",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 776 2079",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85851583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gC2tfXhYRLft5uISQEutQ_41.108375_-112.020645@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129817,
+    "wof:geomhash":"8dc570c5d25ccedf8b0c13165923721d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85851583,
+            "region_id":85688567,
+            "venue_id":857453057
+        }
+    ],
+    "wof:id":857453057,
+    "wof:lastmodified":1464129817,
+    "wof:name":"Yes Print & Copy",
+    "wof:parent_id":85851583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -112.020645,
+    41.108375,
+    -112.020645,
+    41.108375
+],
+  "geometry": {"coordinates":[-112.020645,41.108375],"type":"Point"}
+}

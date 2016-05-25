@@ -1,0 +1,73 @@
+{
+  "id": 857387535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.842903,40.557317,-111.842903,40.557317",
+    "geom:latitude":40.557317,
+    "geom:longitude":-111.842903,
+    "iso:country":"US",
+    "sg:address":"1723 Dimple Dell Rd",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 571 5120",
+    "sg:postcode":"84092",
+    "sg:province":"UT",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85805391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2V7vn5XF1xBirKw9xRQA5r_40.557317_-111.842903@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128371,
+    "wof:geomhash":"2fe799aad1cbd7159edbc1f7b4ef13ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85805391,
+            "region_id":85688567,
+            "venue_id":857387535
+        }
+    ],
+    "wof:id":857387535,
+    "wof:lastmodified":1464128371,
+    "wof:name":"Flynn Construction LLC",
+    "wof:parent_id":85805391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -111.842903,
+    40.557317,
+    -111.842903,
+    40.557317
+],
+  "geometry": {"coordinates":[-111.84290300000001,40.557317],"type":"Point"}
+}

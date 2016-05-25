@@ -1,0 +1,71 @@
+{
+  "id": 857137675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.789942,40.383105,-111.789942,40.383105",
+    "geom:latitude":40.383105,
+    "geom:longitude":-111.789942,
+    "iso:country":"US",
+    "sg:address":"321 E 300 N",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 763 1994",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7K6aMUMkOts0oQDOP6ZF4l_40.383105_-111.789942@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122844,
+    "wof:geomhash":"736217a86845547dd6d1f296a4619831",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857137675
+        }
+    ],
+    "wof:id":857137675,
+    "wof:lastmodified":1464122844,
+    "wof:name":"Women Infants & Children",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -111.789942,
+    40.383105,
+    -111.789942,
+    40.383105
+],
+  "geometry": {"coordinates":[-111.789942,40.383105],"type":"Point"}
+}

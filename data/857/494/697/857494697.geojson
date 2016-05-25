@@ -1,0 +1,76 @@
+{
+  "id": 857494697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.866041,40.620332,-111.866041,40.620332",
+    "geom:latitude":40.620332,
+    "geom:longitude":-111.866041,
+    "iso:country":"US",
+    "sg:address":"7206 S 900 E",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/38715-big-apple-pizzeria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 568 9095",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728051,
+        102082877,
+        85848751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4COyzRiQpjvPR1LflxvG4U_40.620570_-111.866091@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130757,
+    "wof:geomhash":"6253f742a559c52533b1cfd8a3a9111a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85848751,
+            "region_id":85688567,
+            "venue_id":857494697
+        }
+    ],
+    "wof:id":857494697,
+    "wof:lastmodified":1464130757,
+    "wof:name":"Big Apple Pizzeria",
+    "wof:parent_id":85848751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -111.866041,
+    40.620332,
+    -111.866041,
+    40.620332
+],
+  "geometry": {"coordinates":[-111.866041,40.620332],"type":"Point"}
+}

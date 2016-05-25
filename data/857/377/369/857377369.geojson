@@ -1,0 +1,73 @@
+{
+  "id": 857377369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.911763,41.019434,-111.911763,41.019434",
+    "geom:latitude":41.019434,
+    "geom:longitude":-111.911763,
+    "iso:country":"US",
+    "sg:address":"887 Valley View Dr",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 309 3788",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "aerobic",
+        "instructor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DJmlLZs0nDgJw23mJnppg_41.019434_-111.911763@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128064,
+    "wof:geomhash":"a90b099cd42904fcf8a2ef28a7ede97b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857377369
+        }
+    ],
+    "wof:id":857377369,
+    "wof:lastmodified":1464128064,
+    "wof:name":"Hill Top Fitness",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aerobic",
+        "instructor"
+    ]
+},
+  "bbox": [
+    -111.911763,
+    41.019434,
+    -111.911763,
+    41.019434
+],
+  "geometry": {"coordinates":[-111.91176299999999,41.019434],"type":"Point"}
+}

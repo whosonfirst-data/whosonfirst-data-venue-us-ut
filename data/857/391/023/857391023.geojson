@@ -1,0 +1,73 @@
+{
+  "id": 857391023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.929216,40.628178,-111.929216,40.628178",
+    "geom:latitude":40.628178,
+    "geom:longitude":-111.929216,
+    "iso:country":"US",
+    "sg:address":"6773 S 1300 W",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 455 9582",
+    "sg:postcode":"84084",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85853339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02OZ2nRv8m9dyqdrO4N9pR_40.628178_-111.929216@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128450,
+    "wof:geomhash":"9a50458a27b9af8442f3c0079af279d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85853339,
+            "region_id":85688567,
+            "venue_id":857391023
+        }
+    ],
+    "wof:id":857391023,
+    "wof:lastmodified":1464128450,
+    "wof:name":"Performance Builders Inc",
+    "wof:parent_id":85853339,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -111.929216,
+    40.628178,
+    -111.929216,
+    40.628178
+],
+  "geometry": {"coordinates":[-111.929216,40.628178],"type":"Point"}
+}

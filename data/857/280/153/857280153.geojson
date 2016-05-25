@@ -1,0 +1,76 @@
+{
+  "id": 857280153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.889996,40.627449,-111.889996,40.627449",
+    "geom:latitude":40.627449,
+    "geom:longitude":-111.889996,
+    "iso:country":"US",
+    "sg:address":"6804 S State St",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 255 5585",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "sg:website":"www.autozone.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85825767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JDt1ZpaglI5jKfBF0IjaX_40.627449_-111.889996@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125924,
+    "wof:geomhash":"a59a34b908e2e4564d206bb6fc4ab281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85825767,
+            "region_id":85688567,
+            "venue_id":857280153
+        }
+    ],
+    "wof:id":857280153,
+    "wof:lastmodified":1464125924,
+    "wof:name":"Autozone",
+    "wof:parent_id":85825767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -111.889996,
+    40.627449,
+    -111.889996,
+    40.627449
+],
+  "geometry": {"coordinates":[-111.889996,40.627449],"type":"Point"}
+}

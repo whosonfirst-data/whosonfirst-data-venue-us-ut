@@ -1,0 +1,73 @@
+{
+  "id": 857289449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.829157,41.755872,-111.829157,41.755872",
+    "geom:latitude":41.755872,
+    "geom:longitude":-111.829157,
+    "iso:country":"US",
+    "sg:address":"1395 N 200 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 5320",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eBBJoeRaUhAoz22zzqAeF_41.755872_-111.829157@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126132,
+    "wof:geomhash":"6af571281a2bc621ae144b8f6c6dd513",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857289449
+        }
+    ],
+    "wof:id":857289449,
+    "wof:lastmodified":1464126132,
+    "wof:name":"General Nutrition Ctr",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -111.829157,
+    41.755872,
+    -111.829157,
+    41.755872
+],
+  "geometry": {"coordinates":[-111.829157,41.755872],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857449789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.835003,41.733003,-111.835003,41.733003",
+    "geom:latitude":41.733003,
+    "geom:longitude":-111.835003,
+    "iso:country":"US",
+    "sg:address":"15 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 7851",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "cards",
+        "greeting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Jja1GVOoZwDGzEri7bTZn_41.733003_-111.835003@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129750,
+    "wof:geomhash":"5914bf7afb599016bdf61044f4f9c2dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857449789
+        }
+    ],
+    "wof:id":857449789,
+    "wof:lastmodified":1464129750,
+    "wof:name":"Coppins Hallmark Shop",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cards",
+        "greeting"
+    ]
+},
+  "bbox": [
+    -111.835003,
+    41.733003,
+    -111.835003,
+    41.733003
+],
+  "geometry": {"coordinates":[-111.835003,41.733003],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857192875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.692867,40.232453,-111.692867,40.232453",
+    "geom:latitude":40.232453,
+    "geom:longitude":-111.692867,
+    "iso:country":"US",
+    "sg:address":"1928 W 100 S",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 636 6300",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880073,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09EudO36CLuS9ehXh9fMAx_40.232453_-111.692867@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124039,
+    "wof:geomhash":"9170ee6eaf42b1897865e2311b9c0c66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880073,
+            "region_id":85688567,
+            "venue_id":857192875
+        }
+    ],
+    "wof:id":857192875,
+    "wof:lastmodified":1464124039,
+    "wof:name":"Tip Top Groom Shop",
+    "wof:parent_id":85880073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -111.692867,
+    40.232453,
+    -111.692867,
+    40.232453
+],
+  "geometry": {"coordinates":[-111.69286700000001,40.232453],"type":"Point"}
+}

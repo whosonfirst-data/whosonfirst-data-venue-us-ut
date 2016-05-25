@@ -1,0 +1,73 @@
+{
+  "id": 857234995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.890699,40.552892,-111.890699,40.552892",
+    "geom:latitude":40.552892,
+    "geom:longitude":-111.890699,
+    "iso:country":"US",
+    "sg:address":"10955 S State St",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 523 8857",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85850585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qCsw8KeBNYwffjJP9H7k3_40.552892_-111.890699@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124902,
+    "wof:geomhash":"84bd37863dce0610990501b5590389a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85850585,
+            "region_id":85688567,
+            "venue_id":857234995
+        }
+    ],
+    "wof:id":857234995,
+    "wof:lastmodified":1464124902,
+    "wof:name":"Laboratory Corporation America",
+    "wof:parent_id":85850585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -111.890699,
+    40.552892,
+    -111.890699,
+    40.552892
+],
+  "geometry": {"coordinates":[-111.890699,40.552892],"type":"Point"}
+}

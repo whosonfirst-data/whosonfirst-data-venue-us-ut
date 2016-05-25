@@ -1,0 +1,82 @@
+{
+  "id": 857332299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.971977,40.718677,-111.971977,40.718677",
+    "geom:latitude":40.718677,
+    "geom:longitude":-111.971977,
+    "iso:country":"US",
+    "sg:address":"3412 W 2400 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 973 6038",
+    "sg:postcode":"84119",
+    "sg:province":"UT",
+    "sg:tags":[
+        "steel",
+        "industrial",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85844521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Bds3EopeMOruEN04eTHv3_40.718677_-111.971977@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127106,
+    "wof:geomhash":"1b49428a253b989a762d1fcef73f23bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85844521,
+            "region_id":85688567,
+            "venue_id":857332299
+        }
+    ],
+    "wof:id":857332299,
+    "wof:lastmodified":1464127106,
+    "wof:name":"Works Machine",
+    "wof:parent_id":85844521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "industrial",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.971977,
+    40.718677,
+    -111.971977,
+    40.718677
+],
+  "geometry": {"coordinates":[-111.971977,40.718677],"type":"Point"}
+}

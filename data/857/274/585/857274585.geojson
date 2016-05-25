@@ -1,0 +1,75 @@
+{
+  "id": 857274585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.829382,40.699875,-111.829382,40.699875",
+    "geom:latitude":40.699875,
+    "geom:longitude":-111.829382,
+    "iso:country":"US",
+    "sg:address":"2221 E 3300 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 466 5455",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85859423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Yh2iCQhO9Z1dYHxFeXEiz_40.699875_-111.829382@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125782,
+    "wof:geomhash":"e811842289d7b6f8cecfc91146c92409",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85859423,
+            "region_id":85688567,
+            "venue_id":857274585
+        }
+    ],
+    "wof:id":857274585,
+    "wof:lastmodified":1464125782,
+    "wof:name":"Old Fashion Svc",
+    "wof:parent_id":85859423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -111.829382,
+    40.699875,
+    -111.829382,
+    40.699875
+],
+  "geometry": {"coordinates":[-111.829382,40.699875],"type":"Point"}
+}

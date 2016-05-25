@@ -1,0 +1,75 @@
+{
+  "id": 857411267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.833908,41.780509,-111.833908,41.780509",
+    "geom:latitude":41.780509,
+    "geom:longitude":-111.833908,
+    "iso:country":"US",
+    "sg:address":"2800 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 797 1437",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "educational",
+        "program",
+        "administrative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ipKMsShJATZf94qk1vhdD_41.780509_-111.833908@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128882,
+    "wof:geomhash":"336a0583f091b9f2f3829b8ac013298b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857411267
+        }
+    ],
+    "wof:id":857411267,
+    "wof:lastmodified":1464128882,
+    "wof:name":"Utah St Univ College of Educ",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational",
+        "program",
+        "administrative"
+    ]
+},
+  "bbox": [
+    -111.833908,
+    41.780509,
+    -111.833908,
+    41.780509
+],
+  "geometry": {"coordinates":[-111.83390799999999,41.780509],"type":"Point"}
+}

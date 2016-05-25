@@ -1,0 +1,73 @@
+{
+  "id": 857093135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.91308,41.111379,-111.91308,41.111379",
+    "geom:latitude":41.111379,
+    "geom:longitude":-111.91308,
+    "iso:country":"US",
+    "sg:address":"2813 E 3600 N",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 771 0523",
+    "sg:postcode":"84040",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727911,
+        102083563,
+        85847875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yTx3LAtMLmJJ9LRVsi8H9_41.111379_-111.913080@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121754,
+    "wof:geomhash":"ed2f5f18f2d0d1f5a6d2ca936f82d1ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727911,
+            "neighbourhood_id":85847875,
+            "region_id":85688567,
+            "venue_id":857093135
+        }
+    ],
+    "wof:id":857093135,
+    "wof:lastmodified":1464121754,
+    "wof:name":"Evergreen Electric Inc",
+    "wof:parent_id":85847875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.91308,
+    41.111379,
+    -111.91308,
+    41.111379
+],
+  "geometry": {"coordinates":[-111.91307999999999,41.111379],"type":"Point"}
+}

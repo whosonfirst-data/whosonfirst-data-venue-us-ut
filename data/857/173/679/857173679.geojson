@@ -1,0 +1,69 @@
+{
+  "id": 857173679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.850591,40.38794,-111.850591,40.38794",
+    "geom:latitude":40.38794,
+    "geom:longitude":-111.850591,
+    "iso:country":"US",
+    "sg:address":"12 W Main St",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 766 0940",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Vs7qoy0UnJU1IPvZS57eU_40.387940_-111.850591@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123668,
+    "wof:geomhash":"e17280de69ef9e95b0586b7faddba840",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857173679
+        }
+    ],
+    "wof:id":857173679,
+    "wof:lastmodified":1464123668,
+    "wof:name":"Cash It Now Pawn",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -111.850591,
+    40.38794,
+    -111.850591,
+    40.38794
+],
+  "geometry": {"coordinates":[-111.85059099999999,40.38794],"type":"Point"}
+}

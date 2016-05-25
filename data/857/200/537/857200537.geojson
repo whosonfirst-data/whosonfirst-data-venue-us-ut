@@ -1,0 +1,75 @@
+{
+  "id": 857200537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.88593,40.659428,-111.88593,40.659428",
+    "geom:latitude":40.659428,
+    "geom:longitude":-111.88593,
+    "iso:country":"US",
+    "sg:address":"5201 Murray Park Ln",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 270 7280",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:tags":[
+        "skating",
+        "rink"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85849577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6glkQief2CDWm0pYdP4EBn_40.659428_-111.885930@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124185,
+    "wof:geomhash":"a03d0b62b966c925838c6d5e9002880b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85849577,
+            "region_id":85688567,
+            "venue_id":857200537
+        }
+    ],
+    "wof:id":857200537,
+    "wof:lastmodified":1464124185,
+    "wof:name":"County Ice Ctr",
+    "wof:parent_id":85849577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skating",
+        "rink"
+    ]
+},
+  "bbox": [
+    -111.88593,
+    40.659428,
+    -111.88593,
+    40.659428
+],
+  "geometry": {"coordinates":[-111.88593,40.659428],"type":"Point"}
+}

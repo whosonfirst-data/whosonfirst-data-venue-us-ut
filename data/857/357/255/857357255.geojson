@@ -1,0 +1,71 @@
+{
+  "id": 857357255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.831532,41.757565,-111.831532,41.757565",
+    "geom:latitude":41.757565,
+    "geom:longitude":-111.831532,
+    "iso:country":"US",
+    "sg:address":"129 E 1400 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 7171",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "audiologists"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QzgUaHsChvXSPeSwGA0Og_41.757565_-111.831532@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127639,
+    "wof:geomhash":"c9671c66133cc578bfba19d81d742c54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857357255
+        }
+    ],
+    "wof:id":857357255,
+    "wof:lastmodified":1464127639,
+    "wof:name":"Logan Hearing Zone",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "audiologists"
+    ]
+},
+  "bbox": [
+    -111.831532,
+    41.757565,
+    -111.831532,
+    41.757565
+],
+  "geometry": {"coordinates":[-111.831532,41.757565],"type":"Point"}
+}

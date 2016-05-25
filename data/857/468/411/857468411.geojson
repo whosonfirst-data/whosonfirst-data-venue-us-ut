@@ -1,0 +1,73 @@
+{
+  "id": 857468411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.667491,40.244517,-111.667491,40.244517",
+    "geom:latitude":40.244517,
+    "geom:longitude":-111.667491,
+    "iso:country":"US",
+    "sg:address":"925 N 500 W",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 377 5226",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3G2xJC8kKiJnChY4x8ZRWR_40.244517_-111.667491@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130134,
+    "wof:geomhash":"8f7f34fbca64e22223801677a4128775",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880107,
+            "region_id":85688567,
+            "venue_id":857468411
+        }
+    ],
+    "wof:id":857468411,
+    "wof:lastmodified":1464130134,
+    "wof:name":"Gold Cross Ambulance Svc",
+    "wof:parent_id":85880107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -111.667491,
+    40.244517,
+    -111.667491,
+    40.244517
+],
+  "geometry": {"coordinates":[-111.667491,40.244517],"type":"Point"}
+}

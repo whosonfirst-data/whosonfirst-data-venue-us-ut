@@ -1,0 +1,77 @@
+{
+  "id": 857465849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.727222,40.293252,-111.727222,40.293252",
+    "geom:latitude":40.293252,
+    "geom:longitude":-111.727222,
+    "iso:country":"US",
+    "sg:address":"235 S Mountain Lands Dr",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 426 7400",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "govt",
+        "state",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727827,
+        102083567,
+        85821287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2w2PLU4l7Dl7nkxnB9Ldxl_40.293252_-111.727222@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130086,
+    "wof:geomhash":"dd5d4937eb5843d526eba16587b493b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727827,
+            "neighbourhood_id":85821287,
+            "region_id":85688567,
+            "venue_id":857465849
+        }
+    ],
+    "wof:id":857465849,
+    "wof:lastmodified":1464130086,
+    "wof:name":"Juvenile Court Probation Ofc",
+    "wof:parent_id":85821287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "institution"
+    ]
+},
+  "bbox": [
+    -111.727222,
+    40.293252,
+    -111.727222,
+    40.293252
+],
+  "geometry": {"coordinates":[-111.727222,40.293252],"type":"Point"}
+}

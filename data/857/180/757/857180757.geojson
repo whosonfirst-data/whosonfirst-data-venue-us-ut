@@ -1,0 +1,75 @@
+{
+  "id": 857180757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.859222,40.743705,-111.859222,40.743705",
+    "geom:latitude":40.743705,
+    "geom:longitude":-111.859222,
+    "iso:country":"US",
+    "sg:address":"1240 Princeton Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 581 0084",
+    "sg:postcode":"84105",
+    "sg:province":"UT",
+    "sg:tags":[
+        "demolition",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85858577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0USBreGqAbxqhKTyJF0QRn_40.743705_-111.859222@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123811,
+    "wof:geomhash":"1f2b0c14870e7846c14cadc132d04332",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85858577,
+            "region_id":85688567,
+            "venue_id":857180757
+        }
+    ],
+    "wof:id":857180757,
+    "wof:lastmodified":1464123811,
+    "wof:name":"Costello Co",
+    "wof:parent_id":85858577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "demolition",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.859222,
+    40.743705,
+    -111.859222,
+    40.743705
+],
+  "geometry": {"coordinates":[-111.859222,40.743705],"type":"Point"}
+}

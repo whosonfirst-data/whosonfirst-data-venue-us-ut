@@ -1,0 +1,71 @@
+{
+  "id": 857273907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.777464,39.975661,-111.777464,39.975661",
+    "geom:latitude":39.975661,
+    "geom:longitude":-111.777464,
+    "iso:country":"US",
+    "sg:address":"333 E Main St",
+    "sg:city":"Santaquin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 754 5823",
+    "sg:postcode":"84655",
+    "sg:province":"UT",
+    "sg:tags":[
+        "exhaust"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bvb3xfAMGoAPZoKiDhA78_39.975661_-111.777464@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125767,
+    "wof:geomhash":"b15ebc8cb52e0112032ca220ff655bf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857273907
+        }
+    ],
+    "wof:id":857273907,
+    "wof:lastmodified":1464125767,
+    "wof:name":"Winners Circle Lube & Wash",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exhaust"
+    ]
+},
+  "bbox": [
+    -111.777464,
+    39.975661,
+    -111.777464,
+    39.975661
+],
+  "geometry": {"coordinates":[-111.77746399999999,39.975661],"type":"Point"}
+}

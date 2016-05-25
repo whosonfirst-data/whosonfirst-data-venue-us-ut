@@ -1,0 +1,75 @@
+{
+  "id": 857237505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.63961,40.284614,-111.63961,40.284614",
+    "geom:latitude":40.284614,
+    "geom:longitude":-111.63961,
+    "iso:country":"US",
+    "sg:address":"1107 E Quail Valley Dr",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 431 0506",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85817395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FmtDueofhtMjAdBoFyfuS_40.284614_-111.639610@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124955,
+    "wof:geomhash":"faa1fcabe009bdac914b906d2dc76977",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85817395,
+            "region_id":85688567,
+            "venue_id":857237505
+        }
+    ],
+    "wof:id":857237505,
+    "wof:lastmodified":1464124955,
+    "wof:name":"G E L Inc",
+    "wof:parent_id":85817395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.63961,
+    40.284614,
+    -111.63961,
+    40.284614
+],
+  "geometry": {"coordinates":[-111.63961,40.284614],"type":"Point"}
+}

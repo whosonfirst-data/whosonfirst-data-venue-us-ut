@@ -1,0 +1,71 @@
+{
+  "id": 857350249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.822994,41.753263,-111.822994,41.753263",
+    "geom:latitude":41.753263,
+    "geom:longitude":-111.822994,
+    "iso:country":"US",
+    "sg:address":"470 E 1200 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 9697",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zrA8LIHQkki4mZRIFN2lf_41.753263_-111.822994@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127490,
+    "wof:geomhash":"09a351568e3ced94f5af94b9efc16213",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857350249
+        }
+    ],
+    "wof:id":857350249,
+    "wof:lastmodified":1464127490,
+    "wof:name":"Beverly Dunford Day Care",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -111.822994,
+    41.753263,
+    -111.822994,
+    41.753263
+],
+  "geometry": {"coordinates":[-111.82299399999999,41.753263],"type":"Point"}
+}

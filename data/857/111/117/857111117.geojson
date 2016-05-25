@@ -1,0 +1,73 @@
+{
+  "id": 857111117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834565,41.73901,-111.834565,41.73901",
+    "geom:latitude":41.73901,
+    "geom:longitude":-111.834565,
+    "iso:country":"US",
+    "sg:address":"498 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 3090",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "windshield",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dU2VEgkLnwtxfs0RnGdjH_41.739010_-111.834565@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122210,
+    "wof:geomhash":"efcaf768479eb637a010f647f1fee70b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857111117
+        }
+    ],
+    "wof:id":857111117,
+    "wof:lastmodified":1464122210,
+    "wof:name":"The Window Welders",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "windshield",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -111.834565,
+    41.73901,
+    -111.834565,
+    41.73901
+],
+  "geometry": {"coordinates":[-111.834565,41.73901],"type":"Point"}
+}

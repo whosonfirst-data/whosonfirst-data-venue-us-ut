@@ -1,0 +1,75 @@
+{
+  "id": 857372321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.705086,40.29234,-111.705086,40.29234",
+    "geom:latitude":40.29234,
+    "geom:longitude":-111.705086,
+    "iso:country":"US",
+    "sg:address":"287 S 400 W",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 229 1415",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85849197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mLIycpe3Cu1qqBAdr7v0u_40.292340_-111.705086@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127956,
+    "wof:geomhash":"7c9d3c925b64a88b4e604d2eb82dc613",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85849197,
+            "region_id":85688567,
+            "venue_id":857372321
+        }
+    ],
+    "wof:id":857372321,
+    "wof:lastmodified":1464127956,
+    "wof:name":"Flashco Electric",
+    "wof:parent_id":85849197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.705086,
+    40.29234,
+    -111.705086,
+    40.29234
+],
+  "geometry": {"coordinates":[-111.70508599999999,40.29234],"type":"Point"}
+}

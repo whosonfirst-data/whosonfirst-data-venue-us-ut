@@ -1,0 +1,76 @@
+{
+  "id": 857492579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.938863,40.625801,-111.938863,40.625801",
+    "geom:latitude":40.625801,
+    "geom:longitude":-111.938863,
+    "iso:country":"US",
+    "sg:address":"6910 Redwood Rd",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/37374-panda-express/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 233 8163",
+    "sg:postcode":"84084",
+    "sg:province":"UT",
+    "sg:tags":[
+        "asian",
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85824493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xtlBvLGXIH0tWISahXeo0_40.625801_-111.938863@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130684,
+    "wof:geomhash":"cf92aa178c04ca0cc2b35b848a438584",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85824493,
+            "region_id":85688567,
+            "venue_id":857492579
+        }
+    ],
+    "wof:id":857492579,
+    "wof:lastmodified":1464130684,
+    "wof:name":"Panda Express",
+    "wof:parent_id":85824493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asian",
+        "chinese"
+    ]
+},
+  "bbox": [
+    -111.938863,
+    40.625801,
+    -111.938863,
+    40.625801
+],
+  "geometry": {"coordinates":[-111.938863,40.625801],"type":"Point"}
+}

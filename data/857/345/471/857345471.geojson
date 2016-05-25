@@ -1,0 +1,73 @@
+{
+  "id": 857345471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.661013,40.232407,-111.661013,40.232407",
+    "geom:latitude":40.232407,
+    "geom:longitude":-111.661013,
+    "iso:country":"US",
+    "sg:address":"190 W 100 S",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 375 3505",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0g8bOgplA1AIRcNFHPhE1R_40.232407_-111.661013@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127382,
+    "wof:geomhash":"eaf417762fcbdea4e68abf82fb41bf37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880065,
+            "region_id":85688567,
+            "venue_id":857345471
+        }
+    ],
+    "wof:id":857345471,
+    "wof:lastmodified":1464127382,
+    "wof:name":"Keith's Lunch",
+    "wof:parent_id":85880065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.661013,
+    40.232407,
+    -111.661013,
+    40.232407
+],
+  "geometry": {"coordinates":[-111.661013,40.232407],"type":"Point"}
+}

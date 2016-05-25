@@ -1,0 +1,73 @@
+{
+  "id": 857424459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.859923,40.552264,-111.859923,40.552264",
+    "geom:latitude":40.552264,
+    "geom:longitude":-111.859923,
+    "iso:country":"US",
+    "sg:address":"10959 S Shady Dell Dr",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 495 9210",
+    "sg:postcode":"84094",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85812845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39tt7X85J7HwwVrGrnq7WO_40.552264_-111.859923@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129209,
+    "wof:geomhash":"d21345addea57dcdee07a6925007fdcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85812845,
+            "region_id":85688567,
+            "venue_id":857424459
+        }
+    ],
+    "wof:id":857424459,
+    "wof:lastmodified":1464129209,
+    "wof:name":"Kevco Construction",
+    "wof:parent_id":85812845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.859923,
+    40.552264,
+    -111.859923,
+    40.552264
+],
+  "geometry": {"coordinates":[-111.85992299999999,40.552264],"type":"Point"}
+}

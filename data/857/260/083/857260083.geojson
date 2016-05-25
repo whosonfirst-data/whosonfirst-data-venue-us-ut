@@ -1,0 +1,71 @@
+{
+  "id": 857260083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.996687,37.189219,-112.996687,37.189219",
+    "geom:latitude":37.189219,
+    "geom:longitude":-112.996687,
+    "iso:country":"US",
+    "sg:address":"801 Zion Park Blvd",
+    "sg:city":"Springdale",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 772 7600",
+    "sg:postcode":"84767",
+    "sg:province":"UT",
+    "sg:tags":[
+        "gallery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727619,
+        102082879,
+        85822405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IqQcO8jBoJtQqjKdgdOG6_37.189219_-112.996687@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125491,
+    "wof:geomhash":"7d3fd82c5fb215ba4d0c099bfe859e25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727619,
+            "neighbourhood_id":85822405,
+            "region_id":85688567,
+            "venue_id":857260083
+        }
+    ],
+    "wof:id":857260083,
+    "wof:lastmodified":1464125491,
+    "wof:name":"Plateau Light Gallery",
+    "wof:parent_id":85822405,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gallery"
+    ]
+},
+  "bbox": [
+    -112.996687,
+    37.189219,
+    -112.996687,
+    37.189219
+],
+  "geometry": {"coordinates":[-112.99668699999999,37.189219],"type":"Point"}
+}

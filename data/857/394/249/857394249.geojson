@@ -1,0 +1,75 @@
+{
+  "id": 857394249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.083844,41.112894,-112.083844,41.112894",
+    "geom:latitude":41.112894,
+    "geom:longitude":-112.083844,
+    "iso:country":"US",
+    "sg:address":"136 S 3000 W",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 773 5891",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "residential",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727889,
+        102083563,
+        85804563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BWaDiEMMxMUqRk67aG52i_41.112894_-112.083844@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128509,
+    "wof:geomhash":"2755e94031eabb47a288b07c6af407a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727889,
+            "neighbourhood_id":85804563,
+            "region_id":85688567,
+            "venue_id":857394249
+        }
+    ],
+    "wof:id":857394249,
+    "wof:lastmodified":1464128509,
+    "wof:name":"Jet Construction Co",
+    "wof:parent_id":85804563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -112.083844,
+    41.112894,
+    -112.083844,
+    41.112894
+],
+  "geometry": {"coordinates":[-112.083844,41.112894],"type":"Point"}
+}

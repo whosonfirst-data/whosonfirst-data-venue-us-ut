@@ -1,0 +1,73 @@
+{
+  "id": 857395217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.890671,40.509083,-111.890671,40.509083",
+    "geom:latitude":40.509083,
+    "geom:longitude":-111.890671,
+    "iso:country":"US",
+    "sg:address":"13275 Minuteman Dr",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 573 1117",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727849,
+        102082877,
+        85815185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KcpEoyfV0dx3ZGehvmUGj_40.509083_-111.890671@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128530,
+    "wof:geomhash":"78daefc137f797c959f274973f164433",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85815185,
+            "region_id":85688567,
+            "venue_id":857395217
+        }
+    ],
+    "wof:id":857395217,
+    "wof:lastmodified":1464128530,
+    "wof:name":"E & D Construction",
+    "wof:parent_id":85815185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -111.890671,
+    40.509083,
+    -111.890671,
+    40.509083
+],
+  "geometry": {"coordinates":[-111.890671,40.509083],"type":"Point"}
+}

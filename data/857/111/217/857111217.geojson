@@ -1,0 +1,75 @@
+{
+  "id": 857111217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.616807,37.122584,-113.616807,37.122584",
+    "geom:latitude":37.122584,
+    "geom:longitude":-113.616807,
+    "iso:country":"US",
+    "sg:address":"1515 W Sunset Blvd",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 628 5889",
+    "sg:postcode":"84770",
+    "sg:province":"UT",
+    "sg:tags":[
+        "car",
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PkiCmv1YcFKaRM0U1iucD_37.122584_-113.616807@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122212,
+    "wof:geomhash":"a5307cc8ae6ec4bf07fbb7c289de6ec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857111217
+        }
+    ],
+    "wof:id":857111217,
+    "wof:lastmodified":1464122212,
+    "wof:name":"St George Motorcars",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used"
+    ]
+},
+  "bbox": [
+    -113.616807,
+    37.122584,
+    -113.616807,
+    37.122584
+],
+  "geometry": {"coordinates":[-113.61680699999999,37.122584],"type":"Point"}
+}

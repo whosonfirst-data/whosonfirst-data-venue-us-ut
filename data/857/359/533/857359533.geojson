@@ -1,0 +1,73 @@
+{
+  "id": 857359533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.935411,41.013078,-111.935411,41.013078",
+    "geom:latitude":41.013078,
+    "geom:longitude":-111.935411,
+    "iso:country":"US",
+    "sg:address":"149 E Shadowbrook Ln",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 690 3661",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zp5VLNBV0jmCTpDWlP0V0_41.013078_-111.935411@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127688,
+    "wof:geomhash":"e7c927d22f75a0c8d33cbe0a604cad75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857359533
+        }
+    ],
+    "wof:id":857359533,
+    "wof:lastmodified":1464127688,
+    "wof:name":"A Plus Mobil Computer Service",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -111.935411,
+    41.013078,
+    -111.935411,
+    41.013078
+],
+  "geometry": {"coordinates":[-111.935411,41.013078],"type":"Point"}
+}

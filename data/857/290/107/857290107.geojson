@@ -1,0 +1,71 @@
+{
+  "id": 857290107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.610463,40.092698,-111.610463,40.092698",
+    "geom:latitude":40.092698,
+    "geom:longitude":-111.610463,
+    "iso:country":"US",
+    "sg:address":"1310 S 2640 E",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 1064",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "handyman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66oytGPxOVhZ83sibpfH3Q_40.092698_-111.610463@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126151,
+    "wof:geomhash":"83776abeda3f7c186237ec2fd3d55e9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857290107
+        }
+    ],
+    "wof:id":857290107,
+    "wof:lastmodified":1464126151,
+    "wof:name":"Residential Remodeling Co",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "handyman"
+    ]
+},
+  "bbox": [
+    -111.610463,
+    40.092698,
+    -111.610463,
+    40.092698
+],
+  "geometry": {"coordinates":[-111.610463,40.092698],"type":"Point"}
+}

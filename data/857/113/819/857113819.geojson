@@ -1,0 +1,68 @@
+{
+  "id": 857113819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.977142,41.195432,-111.977142,41.195432",
+    "geom:latitude":41.195432,
+    "geom:longitude":-111.977142,
+    "iso:country":"US",
+    "sg:address":"1180 Newgate Mall",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 392 5226",
+    "sg:postcode":"84405",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728021,
+        102083539,
+        85810865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xeK1zol3gzhRVQLMinYBR_41.195432_-111.977142@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122278,
+    "wof:geomhash":"43ca621b4a39598dc7e2626dd1e2f8c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728021,
+            "neighbourhood_id":85810865,
+            "region_id":85688567,
+            "venue_id":857113819
+        }
+    ],
+    "wof:id":857113819,
+    "wof:lastmodified":1464122278,
+    "wof:name":"Express Fashions",
+    "wof:parent_id":85810865,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.977142,
+    41.195432,
+    -111.977142,
+    41.195432
+],
+  "geometry": {"coordinates":[-111.977142,41.195432],"type":"Point"}
+}

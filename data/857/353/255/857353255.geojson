@@ -1,0 +1,67 @@
+{
+  "id": 857353255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.818995,41.761105,-111.818995,41.761105",
+    "geom:latitude":41.761105,
+    "geom:longitude":-111.818995,
+    "iso:country":"US",
+    "sg:address":"1575 N 600 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 750 8790",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:website":"www.worldsavings.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CO6uZ9YuXWtQkLyrqElHy_41.761105_-111.818995@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127559,
+    "wof:geomhash":"3f1dd64d48512f2e12252f37ddcfc63a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857353255
+        }
+    ],
+    "wof:id":857353255,
+    "wof:lastmodified":1464127559,
+    "wof:name":"World Savings Bank",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.818995,
+    41.761105,
+    -111.818995,
+    41.761105
+],
+  "geometry": {"coordinates":[-111.818995,41.761105],"type":"Point"}
+}

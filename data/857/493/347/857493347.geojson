@@ -1,0 +1,74 @@
+{
+  "id": 857493347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.9123,40.771515,-111.9123,40.771515",
+    "geom:latitude":40.771515,
+    "geom:longitude":-111.9123,
+    "iso:country":"US",
+    "sg:address":"736 W North Temple",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/38916-the-red-iguana/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 322 9567",
+    "sg:postcode":"84116",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85856843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AyElqgGNI6GpcfFefWm7n_40.771515_-111.912300@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130710,
+    "wof:geomhash":"84c02030adf5fb96b679f6e4bb5fd140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85856843,
+            "region_id":85688567,
+            "venue_id":857493347
+        }
+    ],
+    "wof:id":857493347,
+    "wof:lastmodified":1464130710,
+    "wof:name":"The Red Iguana",
+    "wof:parent_id":85856843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -111.9123,
+    40.771515,
+    -111.9123,
+    40.771515
+],
+  "geometry": {"coordinates":[-111.9123,40.771515],"type":"Point"}
+}

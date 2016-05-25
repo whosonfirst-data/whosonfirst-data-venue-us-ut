@@ -1,0 +1,73 @@
+{
+  "id": 857363551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.876852,40.755046,-111.876852,40.755046",
+    "geom:latitude":40.755046,
+    "geom:longitude":-111.876852,
+    "iso:country":"US",
+    "sg:address":"602 S 500 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 532 8022",
+    "sg:postcode":"84102",
+    "sg:province":"UT",
+    "sg:tags":[
+        "confectionery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7A8rXwb6yvx2KZystnvmCi_40.755046_-111.876852@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127776,
+    "wof:geomhash":"c5aa357edbe4624e1a35377c6918c46c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871021,
+            "region_id":85688567,
+            "venue_id":857363551
+        }
+    ],
+    "wof:id":857363551,
+    "wof:lastmodified":1464127776,
+    "wof:name":"Rocky Mountain Chocolate Fctry",
+    "wof:parent_id":85871021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectionery"
+    ]
+},
+  "bbox": [
+    -111.876852,
+    40.755046,
+    -111.876852,
+    40.755046
+],
+  "geometry": {"coordinates":[-111.876852,40.755046],"type":"Point"}
+}

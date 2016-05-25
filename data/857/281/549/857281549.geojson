@@ -1,0 +1,69 @@
+{
+  "id": 857281549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.107025,40.711296,-112.107025,40.711296",
+    "geom:latitude":40.711296,
+    "geom:longitude":-112.107025,
+    "iso:country":"US",
+    "sg:address":"2617 S 9040 West St",
+    "sg:city":"Magna",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 250 2300",
+    "sg:postcode":"84044",
+    "sg:province":"UT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85830063,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vbLPXQ1o4hqkig8egD5PR_40.711296_-112.107025@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125952,
+    "wof:geomhash":"e7827ab4a3ccc9a04e543cdda01f114b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85830063,
+            "region_id":85688567,
+            "venue_id":857281549
+        }
+    ],
+    "wof:id":857281549,
+    "wof:lastmodified":1464125952,
+    "wof:name":"Martha's Terrace Apartments",
+    "wof:parent_id":85830063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -112.107025,
+    40.711296,
+    -112.107025,
+    40.711296
+],
+  "geometry": {"coordinates":[-112.10702499999999,40.711296],"type":"Point"}
+}

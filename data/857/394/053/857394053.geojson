@@ -1,0 +1,75 @@
+{
+  "id": 857394053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.925367,40.561829,-111.925367,40.561829",
+    "geom:latitude":40.561829,
+    "geom:longitude":-111.925367,
+    "iso:country":"US",
+    "sg:address":"1196 S Jordan Pkwy",
+    "sg:city":"South Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 293 1152",
+    "sg:postcode":"84095",
+    "sg:province":"UT",
+    "sg:tags":[
+        "instruction",
+        "driving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728055,
+        102082877,
+        85810561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0M8KUIYN3V2pUqyovpPitE_40.561829_-111.925367@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128503,
+    "wof:geomhash":"896086d1a6b06125acf944cd5ff172ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728055,
+            "neighbourhood_id":85810561,
+            "region_id":85688567,
+            "venue_id":857394053
+        }
+    ],
+    "wof:id":857394053,
+    "wof:lastmodified":1464128503,
+    "wof:name":"Utah Driver Education Academy",
+    "wof:parent_id":85810561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "driving"
+    ]
+},
+  "bbox": [
+    -111.925367,
+    40.561829,
+    -111.925367,
+    40.561829
+],
+  "geometry": {"coordinates":[-111.92536699999999,40.561829],"type":"Point"}
+}

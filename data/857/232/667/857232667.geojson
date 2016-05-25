@@ -1,0 +1,68 @@
+{
+  "id": 857232667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.872071,40.587067,-111.872071,40.587067",
+    "geom:latitude":40.587067,
+    "geom:longitude":-111.872071,
+    "iso:country":"US",
+    "sg:address":"9015 S 700 E",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 255 8951",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85833023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PHbeKa9wEZuMBfimvEAdB_40.587067_-111.872071@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124854,
+    "wof:geomhash":"f091d032ed9a4a66a6d8f20d5fd00e9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85833023,
+            "region_id":85688567,
+            "venue_id":857232667
+        }
+    ],
+    "wof:id":857232667,
+    "wof:lastmodified":1464124854,
+    "wof:name":"7-Eleven",
+    "wof:parent_id":85833023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.872071,
+    40.587067,
+    -111.872071,
+    40.587067
+],
+  "geometry": {"coordinates":[-111.87207100000001,40.587067],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857234485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834646,41.739987,-111.834646,41.739987",
+    "geom:latitude":41.739987,
+    "geom:longitude":-111.834646,
+    "iso:country":"US",
+    "sg:address":"454 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 2498",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "paint",
+        "floor",
+        "covering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5c0x3KdjNGQI8YYrjpL1wM_41.739987_-111.834646@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124891,
+    "wof:geomhash":"d5a334548b4bea035bfb0c50fb082884",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857234485
+        }
+    ],
+    "wof:id":857234485,
+    "wof:lastmodified":1464124891,
+    "wof:name":"Sherwin-Williams Paints",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "floor",
+        "covering"
+    ]
+},
+  "bbox": [
+    -111.834646,
+    41.739987,
+    -111.834646,
+    41.739987
+],
+  "geometry": {"coordinates":[-111.83464600000001,41.739987],"type":"Point"}
+}

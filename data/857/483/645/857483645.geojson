@@ -1,0 +1,68 @@
+{
+  "id": 857483645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.86445,40.536569,-111.86445,40.536569",
+    "geom:latitude":40.536569,
+    "geom:longitude":-111.86445,
+    "iso:country":"US",
+    "sg:address":"11838 Pond Ridge Dr",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 523 0225",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727849,
+        102082877,
+        85858009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3A1YZpNvBE2vEjSR5biGh1_40.536569_-111.864450@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130439,
+    "wof:geomhash":"7eda376806df14fa64c8a981dc7618e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85858009,
+            "region_id":85688567,
+            "venue_id":857483645
+        }
+    ],
+    "wof:id":857483645,
+    "wof:lastmodified":1464130439,
+    "wof:name":"Wallflowers",
+    "wof:parent_id":85858009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.86445,
+    40.536569,
+    -111.86445,
+    40.536569
+],
+  "geometry": {"coordinates":[-111.86445000000001,40.536569],"type":"Point"}
+}

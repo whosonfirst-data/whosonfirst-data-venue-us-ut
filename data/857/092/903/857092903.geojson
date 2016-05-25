@@ -1,0 +1,71 @@
+{
+  "id": 857092903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.844585,40.387939,-111.844585,40.387939",
+    "geom:latitude":40.387939,
+    "geom:longitude":-111.844585,
+    "iso:country":"US",
+    "sg:address":"222 E Main St",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 766 6543",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_099cU80wVo9eXmrnbTGM76_40.387939_-111.844585@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121749,
+    "wof:geomhash":"9a67b01fb98d0744d82199eb1d50e372",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857092903
+        }
+    ],
+    "wof:id":857092903,
+    "wof:lastmodified":1464121749,
+    "wof:name":"Freedom Wireless",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -111.844585,
+    40.387939,
+    -111.844585,
+    40.387939
+],
+  "geometry": {"coordinates":[-111.844585,40.387939],"type":"Point"}
+}

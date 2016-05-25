@@ -1,0 +1,75 @@
+{
+  "id": 857476579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.647423,40.208473,-111.647423,40.208473",
+    "geom:latitude":40.208473,
+    "geom:longitude":-111.647423,
+    "iso:country":"US",
+    "sg:address":"640 E 1860 S",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 5252",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10G4Bko7SMJcqZ8seA9aWs_40.208473_-111.647423@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130306,
+    "wof:geomhash":"ba979119478ce4e3c082af14482425b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880069,
+            "region_id":85688567,
+            "venue_id":857476579
+        }
+    ],
+    "wof:id":857476579,
+    "wof:lastmodified":1464130306,
+    "wof:name":"Boshard Electric Inc",
+    "wof:parent_id":85880069,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.647423,
+    40.208473,
+    -111.647423,
+    40.208473
+],
+  "geometry": {"coordinates":[-111.647423,40.208473],"type":"Point"}
+}

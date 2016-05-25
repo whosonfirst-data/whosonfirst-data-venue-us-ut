@@ -1,0 +1,68 @@
+{
+  "id": 857414317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.86634,40.527999,-111.86634,40.527999",
+    "geom:latitude":40.527999,
+    "geom:longitude":-111.86634,
+    "iso:country":"US",
+    "sg:address":"12256 S 900 E",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 523 5975",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727849,
+        102082877,
+        85815193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ROcq9NIjB3BSXMCNOnP1w_40.527999_-111.866340@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128950,
+    "wof:geomhash":"a36d4494f802b490ce2707890205dff3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85815193,
+            "region_id":85688567,
+            "venue_id":857414317
+        }
+    ],
+    "wof:id":857414317,
+    "wof:lastmodified":1464128950,
+    "wof:name":"Bouncharon Salon",
+    "wof:parent_id":85815193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.86634,
+    40.527999,
+    -111.86634,
+    40.527999
+],
+  "geometry": {"coordinates":[-111.86633999999999,40.527999],"type":"Point"}
+}

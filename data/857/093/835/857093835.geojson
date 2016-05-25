@@ -1,0 +1,73 @@
+{
+  "id": 857093835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.975645,40.69284,-111.975645,40.69284",
+    "geom:latitude":40.69284,
+    "geom:longitude":-111.975645,
+    "iso:country":"US",
+    "sg:address":"3525 W 3650 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 968 9675",
+    "sg:postcode":"84119",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85818107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50JNOrpG209F9ebwcdnbsA_40.692840_-111.975645@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121767,
+    "wof:geomhash":"2b30714e6cb07dc3612dc4013b559780",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85818107,
+            "region_id":85688567,
+            "venue_id":857093835
+        }
+    ],
+    "wof:id":857093835,
+    "wof:lastmodified":1464121767,
+    "wof:name":"J B Tile Setters",
+    "wof:parent_id":85818107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.975645,
+    40.69284,
+    -111.975645,
+    40.69284
+],
+  "geometry": {"coordinates":[-111.975645,40.69284],"type":"Point"}
+}

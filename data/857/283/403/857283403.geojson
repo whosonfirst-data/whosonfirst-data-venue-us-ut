@@ -1,0 +1,68 @@
+{
+  "id": 857283403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.949036,41.182654,-111.949036,41.182654",
+    "geom:latitude":41.182654,
+    "geom:longitude":-111.949036,
+    "iso:country":"US",
+    "sg:address":"4590 Harrison Blvd",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 621 4756",
+    "sg:postcode":"84403",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85804639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6m77KgWWwOsw9s9N6wvg9m_41.182654_-111.949036@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125988,
+    "wof:geomhash":"a11d8fcb4ebce6b7804a6b35526c76df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85804639,
+            "region_id":85688567,
+            "venue_id":857283403
+        }
+    ],
+    "wof:id":857283403,
+    "wof:lastmodified":1464125988,
+    "wof:name":"Glenn Smith",
+    "wof:parent_id":85804639,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.949036,
+    41.182654,
+    -111.949036,
+    41.182654
+],
+  "geometry": {"coordinates":[-111.94903600000001,41.182654],"type":"Point"}
+}

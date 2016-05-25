@@ -1,0 +1,71 @@
+{
+  "id": 857337023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.934015,41.027493,-111.934015,41.027493",
+    "geom:latitude":41.027493,
+    "geom:longitude":-111.934015,
+    "iso:country":"US",
+    "sg:address":"426 S 225 E",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 547 9504",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "investor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68khRqXvFunsmqz86ZHYDY_41.027493_-111.934015@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127209,
+    "wof:geomhash":"f434160665d6d747f580952b91e0f6c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857337023
+        }
+    ],
+    "wof:id":857337023,
+    "wof:lastmodified":1464127209,
+    "wof:name":"Tda Investments LLC",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investor"
+    ]
+},
+  "bbox": [
+    -111.934015,
+    41.027493,
+    -111.934015,
+    41.027493
+],
+  "geometry": {"coordinates":[-111.934015,41.027493],"type":"Point"}
+}

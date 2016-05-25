@@ -1,0 +1,68 @@
+{
+  "id": 857459653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.697783,40.31379,-111.697783,40.31379",
+    "geom:latitude":40.31379,
+    "geom:longitude":-111.697783,
+    "iso:country":"US",
+    "sg:address":"74 W 900 N",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 225 6904",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_384XrzsDYb0GlM9i6fN0Qe_40.313790_-111.697783@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129944,
+    "wof:geomhash":"06dea4e517752856fc7988c27ce5e084",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":857459653
+        }
+    ],
+    "wof:id":857459653,
+    "wof:lastmodified":1464129944,
+    "wof:name":"Greensneakers Landscaping",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.697783,
+    40.31379,
+    -111.697783,
+    40.31379
+],
+  "geometry": {"coordinates":[-111.697783,40.31379],"type":"Point"}
+}

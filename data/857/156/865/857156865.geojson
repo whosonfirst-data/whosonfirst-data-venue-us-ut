@@ -1,0 +1,83 @@
+{
+  "id": 857156865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.90032,40.756371,-111.90032,40.756371",
+    "geom:latitude":40.756371,
+    "geom:longitude":-111.90032,
+    "iso:country":"US",
+    "sg:address":"326 W 600 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 364 9614",
+    "sg:postcode":"84101",
+    "sg:province":"UT",
+    "sg:tags":[
+        "body",
+        "shop",
+        "used",
+        "car",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85867259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Dlz7VJXEzgivZfZx3VYFl_40.756371_-111.900320@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123282,
+    "wof:geomhash":"f9d46fa21fc881e6f2aa2485b3d1e214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85867259,
+            "region_id":85688567,
+            "venue_id":857156865
+        }
+    ],
+    "wof:id":857156865,
+    "wof:lastmodified":1464123282,
+    "wof:name":"Shio Brothers Inc",
+    "wof:parent_id":85867259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "used",
+        "car",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -111.90032,
+    40.756371,
+    -111.90032,
+    40.756371
+],
+  "geometry": {"coordinates":[-111.90031999999999,40.756371],"type":"Point"}
+}

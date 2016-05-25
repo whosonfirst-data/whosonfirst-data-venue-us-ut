@@ -1,0 +1,69 @@
+{
+  "id": 857263097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.700879,40.238306,-111.700879,40.238306",
+    "geom:latitude":40.238306,
+    "geom:longitude":-111.700879,
+    "iso:country":"US",
+    "sg:address":"2397 W 360 N",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 374 2337",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880073,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2u9D47edmK94cRIjsjZAFv_40.238306_-111.700879@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125555,
+    "wof:geomhash":"a2e6ead30868332514f760d25de87968",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880073,
+            "region_id":85688567,
+            "venue_id":857263097
+        }
+    ],
+    "wof:id":857263097,
+    "wof:lastmodified":1464125555,
+    "wof:name":"Harolds Cafe Lounge",
+    "wof:parent_id":85880073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -111.700879,
+    40.238306,
+    -111.700879,
+    40.238306
+],
+  "geometry": {"coordinates":[-111.700879,40.238306],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857479745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.80156,40.346366,-111.80156,40.346366",
+    "geom:latitude":40.346366,
+    "geom:longitude":-111.80156,
+    "iso:country":"US",
+    "sg:address":"6135 N 6000 W",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 763 3055",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5X9NJo1GJ6T0trX23OSPLH_40.346366_-111.801560@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130366,
+    "wof:geomhash":"ef39cf1f547b721a9c6b2ef571448d58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857479745
+        }
+    ],
+    "wof:id":857479745,
+    "wof:lastmodified":1464130366,
+    "wof:name":"American Fork Boat Harbor",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -111.80156,
+    40.346366,
+    -111.80156,
+    40.346366
+],
+  "geometry": {"coordinates":[-111.80155999999999,40.346366],"type":"Point"}
+}

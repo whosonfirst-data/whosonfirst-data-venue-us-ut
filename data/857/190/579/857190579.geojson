@@ -1,0 +1,69 @@
+{
+  "id": 857190579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.945223,41.315213,-111.945223,41.315213",
+    "geom:latitude":41.315213,
+    "geom:longitude":-111.945223,
+    "iso:country":"US",
+    "sg:address":"1139 E 2950 N",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 392 3921",
+    "sg:postcode":"84414",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85824645,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wdGE0A7jMcKyOd9wxYr0N_41.315213_-111.945223@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123999,
+    "wof:geomhash":"74577c5126d514b5d37fb6667cbc18e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85824645,
+            "region_id":85688567,
+            "venue_id":857190579
+        }
+    ],
+    "wof:id":857190579,
+    "wof:lastmodified":1464123999,
+    "wof:name":"Piano Man",
+    "wof:parent_id":85824645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -111.945223,
+    41.315213,
+    -111.945223,
+    41.315213
+],
+  "geometry": {"coordinates":[-111.945223,41.315213],"type":"Point"}
+}

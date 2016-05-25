@@ -1,0 +1,66 @@
+{
+  "id": 857165559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.908219,41.000878,-111.908219,41.000878",
+    "geom:latitude":41.000878,
+    "geom:longitude":-111.908219,
+    "iso:country":"US",
+    "sg:address":"1401 US Hwy 89",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 5742",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BOsIrAtu2Og2zrjTXji8X_41.000878_-111.908219@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123476,
+    "wof:geomhash":"8ce37b5a6365ccfb5000058c43ade7f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857165559
+        }
+    ],
+    "wof:id":857165559,
+    "wof:lastmodified":1464123476,
+    "wof:name":"ADP",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.908219,
+    41.000878,
+    -111.908219,
+    41.000878
+],
+  "geometry": {"coordinates":[-111.908219,41.000878],"type":"Point"}
+}

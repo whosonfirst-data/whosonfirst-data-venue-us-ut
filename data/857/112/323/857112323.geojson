@@ -1,0 +1,71 @@
+{
+  "id": 857112323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.819456,40.543388,-111.819456,40.543388",
+    "geom:latitude":40.543388,
+    "geom:longitude":-111.819456,
+    "iso:country":"US",
+    "sg:address":"11496 Rockhampton Dr",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 572 2912",
+    "sg:postcode":"84092",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85825243,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JUNxBm7EJBRoJo7lgRDma_40.543388_-111.819456@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122239,
+    "wof:geomhash":"b352317598f73e2220c8098f7d7f1d96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85825243,
+            "region_id":85688567,
+            "venue_id":857112323
+        }
+    ],
+    "wof:id":857112323,
+    "wof:lastmodified":1464122239,
+    "wof:name":"Park Terrace Holding Lc",
+    "wof:parent_id":85825243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -111.819456,
+    40.543388,
+    -111.819456,
+    40.543388
+],
+  "geometry": {"coordinates":[-111.819456,40.543388],"type":"Point"}
+}

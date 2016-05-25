@@ -1,0 +1,68 @@
+{
+  "id": 857451911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.850766,40.691511,-111.850766,40.691511",
+    "geom:latitude":40.691511,
+    "geom:longitude":-111.850766,
+    "iso:country":"US",
+    "sg:address":"1495 Vineyard Ct",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 278 8137",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85832079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Gec4BlGLY2Frq4I0U0C2u_40.691511_-111.850766@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129798,
+    "wof:geomhash":"619f38f396eb7ab71d4b2c4ee94902f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85832079,
+            "region_id":85688567,
+            "venue_id":857451911
+        }
+    ],
+    "wof:id":857451911,
+    "wof:lastmodified":1464129798,
+    "wof:name":"J Bar J",
+    "wof:parent_id":85832079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.850766,
+    40.691511,
+    -111.850766,
+    40.691511
+],
+  "geometry": {"coordinates":[-111.85076599999999,40.691511],"type":"Point"}
+}

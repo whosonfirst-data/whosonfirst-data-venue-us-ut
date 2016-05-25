@@ -1,0 +1,68 @@
+{
+  "id": 857331109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.698417,40.292384,-111.698417,40.292384",
+    "geom:latitude":40.292384,
+    "geom:longitude":-111.698417,
+    "iso:country":"US",
+    "sg:address":"137 W 255 S",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 226 1906",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85849197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IWReTm5UjdvKikWY78BLQ_40.292384_-111.698417@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127080,
+    "wof:geomhash":"79b80746893a2481130326153bc1659d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85849197,
+            "region_id":85688567,
+            "venue_id":857331109
+        }
+    ],
+    "wof:id":857331109,
+    "wof:lastmodified":1464127080,
+    "wof:name":"Food Necessities",
+    "wof:parent_id":85849197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.698417,
+    40.292384,
+    -111.698417,
+    40.292384
+],
+  "geometry": {"coordinates":[-111.69841700000001,40.292384],"type":"Point"}
+}

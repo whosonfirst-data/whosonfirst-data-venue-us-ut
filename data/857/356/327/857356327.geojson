@@ -1,0 +1,79 @@
+{
+  "id": 857356327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.828765,40.743533,-111.828765,40.743533",
+    "geom:latitude":40.743533,
+    "geom:longitude":-111.828765,
+    "iso:country":"US",
+    "sg:address":"1215 Foothill Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 582 7617",
+    "sg:postcode":"84108",
+    "sg:province":"UT",
+    "sg:tags":[
+        "residential",
+        "masonry",
+        "work",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59T9tEEgBvZ8T0PfwLYQzz_40.743533_-111.828765@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127623,
+    "wof:geomhash":"3e787de0487ca9655e62929d074713b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871023,
+            "region_id":85688567,
+            "venue_id":857356327
+        }
+    ],
+    "wof:id":857356327,
+    "wof:lastmodified":1464127623,
+    "wof:name":"P C Construction",
+    "wof:parent_id":85871023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "masonry",
+        "work",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -111.828765,
+    40.743533,
+    -111.828765,
+    40.743533
+],
+  "geometry": {"coordinates":[-111.828765,40.743533],"type":"Point"}
+}

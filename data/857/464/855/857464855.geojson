@@ -1,0 +1,78 @@
+{
+  "id": 857464855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.785615,40.356156,-111.785615,40.356156",
+    "geom:latitude":40.356156,
+    "geom:longitude":-111.785615,
+    "iso:country":"US",
+    "sg:address":"1060 S 500 E",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 1199",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "farm",
+        "product",
+        "eating",
+        "grocery",
+        "warehousing"
+    ],
+    "sg:website":"www.securityfood.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WKN7WEZgvmvGfnFO8Ft6k_40.356156_-111.785615@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130059,
+    "wof:geomhash":"d77b0228e254c49a93dd6151a0b16487",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857464855
+        }
+    ],
+    "wof:id":857464855,
+    "wof:lastmodified":1464130059,
+    "wof:name":"Security Foods & Supplies",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "product",
+        "eating",
+        "grocery",
+        "warehousing"
+    ]
+},
+  "bbox": [
+    -111.785615,
+    40.356156,
+    -111.785615,
+    40.356156
+],
+  "geometry": {"coordinates":[-111.78561500000001,40.356156],"type":"Point"}
+}

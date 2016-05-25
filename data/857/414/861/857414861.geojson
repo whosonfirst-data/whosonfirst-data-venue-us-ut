@@ -1,0 +1,73 @@
+{
+  "id": 857414861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.048625,40.493267,-112.048625,40.493267",
+    "geom:latitude":40.493267,
+    "geom:longitude":-112.048625,
+    "iso:country":"US",
+    "sg:address":"6650 W 14200 S",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 446 0839",
+    "sg:postcode":"84096",
+    "sg:province":"UT",
+    "sg:tags":[
+        "excavation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728047,
+        102082877,
+        85819751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70bimSq8j2gfXmWC9tuHNJ_40.493267_-112.048625@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128970,
+    "wof:geomhash":"4d13e465fad6dfe1acfd4a4b009b536c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728047,
+            "neighbourhood_id":85819751,
+            "region_id":85688567,
+            "venue_id":857414861
+        }
+    ],
+    "wof:id":857414861,
+    "wof:lastmodified":1464128970,
+    "wof:name":"Randy Hansen Excavation Inc",
+    "wof:parent_id":85819751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation"
+    ]
+},
+  "bbox": [
+    -112.048625,
+    40.493267,
+    -112.048625,
+    40.493267
+],
+  "geometry": {"coordinates":[-112.048625,40.493267],"type":"Point"}
+}

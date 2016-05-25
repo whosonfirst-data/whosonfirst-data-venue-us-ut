@@ -1,0 +1,78 @@
+{
+  "id": 857480725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.928816,41.038078,-111.928816,41.038078",
+    "geom:latitude":41.038078,
+    "geom:longitude":-111.928816,
+    "iso:country":"US",
+    "sg:address":"495 E 200 N",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 544 7534",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3R1TMCEUrBQ1Y7I68JRs2o_41.038078_-111.928816@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130382,
+    "wof:geomhash":"2cabeaa9a6abc93a4b8643cfa5abe937",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857480725
+        }
+    ],
+    "wof:id":857480725,
+    "wof:lastmodified":1464130382,
+    "wof:name":"Potter Sprinkling & Fencing",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.928816,
+    41.038078,
+    -111.928816,
+    41.038078
+],
+  "geometry": {"coordinates":[-111.928816,41.038078],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857465979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.938615,40.583921,-111.938615,40.583921",
+    "geom:latitude":40.583921,
+    "geom:longitude":-111.938615,
+    "iso:country":"US",
+    "sg:address":"9233 S Redwood Rd",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 566 0971",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85832913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Gpni6pW3KwLmQBUP4aDRH_40.583921_-111.938615@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130088,
+    "wof:geomhash":"fbb2f021be6ca427ae2e81ef61df323b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85832913,
+            "region_id":85688567,
+            "venue_id":857465979
+        }
+    ],
+    "wof:id":857465979,
+    "wof:lastmodified":1464130088,
+    "wof:name":"Ronald G Ashton DDS",
+    "wof:parent_id":85832913,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.938615,
+    40.583921,
+    -111.938615,
+    40.583921
+],
+  "geometry": {"coordinates":[-111.938615,40.583921],"type":"Point"}
+}

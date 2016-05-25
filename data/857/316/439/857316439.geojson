@@ -1,0 +1,73 @@
+{
+  "id": 857316439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.666283,40.233873,-111.666283,40.233873",
+    "geom:latitude":40.233873,
+    "geom:longitude":-111.666283,
+    "iso:country":"US",
+    "sg:address":"480 W Center St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 607 2214",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gdtxugA6pld3AYwNDnpuD_40.233873_-111.666283@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126754,
+    "wof:geomhash":"7e9a7f89ad61a53c8650fe4063b8783b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880065,
+            "region_id":85688567,
+            "venue_id":857316439
+        }
+    ],
+    "wof:id":857316439,
+    "wof:lastmodified":1464126754,
+    "wof:name":"Roasted Artichoke",
+    "wof:parent_id":85880065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.666283,
+    40.233873,
+    -111.666283,
+    40.233873
+],
+  "geometry": {"coordinates":[-111.66628300000001,40.233873],"type":"Point"}
+}

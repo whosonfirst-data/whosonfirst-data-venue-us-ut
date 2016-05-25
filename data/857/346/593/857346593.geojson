@@ -1,0 +1,73 @@
+{
+  "id": 857346593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.844209,40.666332,-111.844209,40.666332",
+    "geom:latitude":40.666332,
+    "geom:longitude":-111.844209,
+    "iso:country":"US",
+    "sg:address":"1732 E 4800 S",
+    "sg:city":"Holladay",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 272 1327",
+    "sg:postcode":"84117",
+    "sg:province":"UT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85825901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HPFS6LKq1pXcnKo2lXEiO_40.666332_-111.844209@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127407,
+    "wof:geomhash":"e5812c31e650e1c1cb50ac2bcf65cda0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85825901,
+            "region_id":85688567,
+            "venue_id":857346593
+        }
+    ],
+    "wof:id":857346593,
+    "wof:lastmodified":1464127407,
+    "wof:name":"Fairbrook Apartments",
+    "wof:parent_id":85825901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -111.844209,
+    40.666332,
+    -111.844209,
+    40.666332
+],
+  "geometry": {"coordinates":[-111.84420900000001,40.666332],"type":"Point"}
+}

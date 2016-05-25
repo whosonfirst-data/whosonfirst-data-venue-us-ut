@@ -1,0 +1,75 @@
+{
+  "id": 857181693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.670458,40.2134,-111.670458,40.2134",
+    "geom:latitude":40.2134,
+    "geom:longitude":-111.670458,
+    "iso:country":"US",
+    "sg:address":"1521 S 680 W",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 377 6903",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KgGo7tsvCYWU4bJBzZKeZ_40.213400_-111.670458@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123828,
+    "wof:geomhash":"033fc6e86583cb4f413770098e0e53d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880077,
+            "region_id":85688567,
+            "venue_id":857181693
+        }
+    ],
+    "wof:id":857181693,
+    "wof:lastmodified":1464123828,
+    "wof:name":"Stf Concrete",
+    "wof:parent_id":85880077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.670458,
+    40.2134,
+    -111.670458,
+    40.2134
+],
+  "geometry": {"coordinates":[-111.670458,40.2134],"type":"Point"}
+}

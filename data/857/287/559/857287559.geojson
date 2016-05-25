@@ -1,0 +1,86 @@
+{
+  "id": 857287559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.795911,40.685549,-111.795911,40.685549",
+    "geom:latitude":40.685549,
+    "geom:longitude":-111.795911,
+    "iso:country":"US",
+    "sg:address":"3971 Wasatch Blvd",
+    "sg:city":"Holladay",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 274 6070",
+    "sg:postcode":"84124",
+    "sg:province":"UT",
+    "sg:tags":[
+        "juice",
+        "eating",
+        "desert",
+        "ice",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85833111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20qYbW1Dlsw2ZgDK3VoV96_40.685549_-111.795911@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126076,
+    "wof:geomhash":"d2aad94c60409dd85de902dcf25d6e94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85833111,
+            "region_id":85688567,
+            "venue_id":857287559
+        }
+    ],
+    "wof:id":857287559,
+    "wof:lastmodified":1464126076,
+    "wof:name":"Desserts First",
+    "wof:parent_id":85833111,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "juice",
+        "eating",
+        "desert",
+        "ice",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.795911,
+    40.685549,
+    -111.795911,
+    40.685549
+],
+  "geometry": {"coordinates":[-111.795911,40.685549],"type":"Point"}
+}

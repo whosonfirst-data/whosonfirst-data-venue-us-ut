@@ -1,0 +1,71 @@
+{
+  "id": 857262589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.843528,40.395336,-111.843528,40.395336",
+    "geom:latitude":40.395336,
+    "geom:longitude":-111.843528,
+    "iso:country":"US",
+    "sg:address":"310 E State St",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 766 1181",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "club",
+        "night"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0W9KIJuYmnToMVRYcZNZk2_40.395336_-111.843528@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125546,
+    "wof:geomhash":"5e8666de7d1b20bb399bfcc7dbd58199",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857262589
+        }
+    ],
+    "wof:id":857262589,
+    "wof:lastmodified":1464125546,
+    "wof:name":"Big Easy",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "night"
+    ]
+},
+  "bbox": [
+    -111.843528,
+    40.395336,
+    -111.843528,
+    40.395336
+],
+  "geometry": {"coordinates":[-111.84352800000001,40.395336],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857224193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.791019,39.969083,-111.791019,39.969083",
+    "geom:latitude":39.969083,
+    "geom:longitude":-111.791019,
+    "iso:country":"US",
+    "sg:address":"200 W 400 S",
+    "sg:city":"Santaquin",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 754 3269",
+    "sg:postcode":"84655",
+    "sg:province":"UT",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xoQkHosZ1WDrIFw1OBf3n_39.969083_-111.791019@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124695,
+    "wof:geomhash":"c1adfe9e414c39da36cc3af4e3b4318d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857224193
+        }
+    ],
+    "wof:id":857224193,
+    "wof:lastmodified":1464124695,
+    "wof:name":"Santaquin City Shop",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -111.791019,
+    39.969083,
+    -111.791019,
+    39.969083
+],
+  "geometry": {"coordinates":[-111.79101900000001,39.969083],"type":"Point"}
+}

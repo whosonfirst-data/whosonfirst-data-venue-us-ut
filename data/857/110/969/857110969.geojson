@@ -1,0 +1,75 @@
+{
+  "id": 857110969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.659932,37.173308,-113.659932,37.173308",
+    "geom:latitude":37.173308,
+    "geom:longitude":-113.659932,
+    "iso:country":"US",
+    "sg:address":"234 Painted Hills Dr",
+    "sg:city":"Ivins",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 986 9949",
+    "sg:postcode":"84738",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CJsb1yBss8Kqg21wrTp8H_37.173308_-113.659932@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122198,
+    "wof:geomhash":"3a4c5c4a4d36b0343ce79d28625cb453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857110969
+        }
+    ],
+    "wof:id":857110969,
+    "wof:lastmodified":1464122198,
+    "wof:name":"Whittier Apartments Inc",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -113.659932,
+    37.173308,
+    -113.659932,
+    37.173308
+],
+  "geometry": {"coordinates":[-113.659932,37.173308],"type":"Point"}
+}

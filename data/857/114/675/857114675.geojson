@@ -1,0 +1,75 @@
+{
+  "id": 857114675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.780777,40.617574,-111.780777,40.617574",
+    "geom:latitude":40.617574,
+    "geom:longitude":-111.780777,
+    "iso:country":"US",
+    "sg:address":"4085 Prospector Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 942 4085",
+    "sg:postcode":"84121",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "wall",
+        "wholesaling",
+        "insulation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85843219,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7APLdoCCOr1BdE2VbJOXvN_40.617574_-111.780777@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122305,
+    "wof:geomhash":"b297f5e2c03028fcdf4d830361ddfc70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85843219,
+            "region_id":85688567,
+            "venue_id":857114675
+        }
+    ],
+    "wof:id":857114675,
+    "wof:lastmodified":1464122305,
+    "wof:name":"Energy Lock Inc",
+    "wof:parent_id":85843219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "wall",
+        "wholesaling",
+        "insulation"
+    ]
+},
+  "bbox": [
+    -111.780777,
+    40.617574,
+    -111.780777,
+    40.617574
+],
+  "geometry": {"coordinates":[-111.780777,40.617574],"type":"Point"}
+}

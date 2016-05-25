@@ -1,0 +1,74 @@
+{
+  "id": 857495147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.83473,41.739927,-111.83473,41.739927",
+    "geom:latitude":41.739927,
+    "geom:longitude":-111.83473,
+    "iso:country":"US",
+    "sg:address":"446 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/logan/132866-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 0147",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PYvcRUWw6Z8uIrmyLWKXc_41.740168_-111.834643@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130778,
+    "wof:geomhash":"2171dd3d4bee484798fb43b2b4cf0554",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857495147
+        }
+    ],
+    "wof:id":857495147,
+    "wof:lastmodified":1464130778,
+    "wof:name":"Subway",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -111.83473,
+    41.739927,
+    -111.83473,
+    41.739927
+],
+  "geometry": {"coordinates":[-111.83472999999999,41.739927],"type":"Point"}
+}

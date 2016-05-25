@@ -1,0 +1,74 @@
+{
+  "id": 857495289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.640563,40.119389,-111.640563,40.119389",
+    "geom:latitude":40.119389,
+    "geom:longitude":-111.640563,
+    "iso:country":"US",
+    "sg:address":"790 N 800 E",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/spanish-fork-payson/77722-papa-murphys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 6767",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OkzZAqErBJ45nCcVjOBNS_40.118916_-111.640514@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130788,
+    "wof:geomhash":"b94458e03ad6d0be6e6a022c06433e54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857495289
+        }
+    ],
+    "wof:id":857495289,
+    "wof:lastmodified":1464130788,
+    "wof:name":"Papa Murphy's",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -111.640563,
+    40.119389,
+    -111.640563,
+    40.119389
+],
+  "geometry": {"coordinates":[-111.640563,40.119389],"type":"Point"}
+}

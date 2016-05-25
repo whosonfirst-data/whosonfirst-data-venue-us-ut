@@ -1,0 +1,68 @@
+{
+  "id": 857321609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.649723,37.131566,-113.649723,37.131566",
+    "geom:latitude":37.131566,
+    "geom:longitude":-113.649723,
+    "iso:country":"US",
+    "sg:address":"2812 Santa Clara Dr",
+    "sg:city":"Santa Clara",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 619 1818",
+    "sg:postcode":"84765",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GdlUDqOpHxGRH1AfRPhqs_37.131566_-113.649723@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126881,
+    "wof:geomhash":"e96d3cd748ba2a8c4344b2da3b65ed7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857321609
+        }
+    ],
+    "wof:id":857321609,
+    "wof:lastmodified":1464126881,
+    "wof:name":"Able Agent Insurance",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.649723,
+    37.131566,
+    -113.649723,
+    37.131566
+],
+  "geometry": {"coordinates":[-113.64972299999999,37.131566],"type":"Point"}
+}

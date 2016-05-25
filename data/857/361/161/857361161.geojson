@@ -1,0 +1,73 @@
+{
+  "id": 857361161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.999103,40.619871,-111.999103,40.619871",
+    "geom:latitude":40.619871,
+    "geom:longitude":-111.999103,
+    "iso:country":"US",
+    "sg:address":"7062 Airport Rd",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 568 1566",
+    "sg:postcode":"84084",
+    "sg:province":"UT",
+    "sg:tags":[
+        "special"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85813117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HJ3Szpu61lEqCbjmpzrC8_40.619871_-111.999103@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127725,
+    "wof:geomhash":"82e64f55afec2ef100ccfe057d93c38c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85813117,
+            "region_id":85688567,
+            "venue_id":857361161
+        }
+    ],
+    "wof:id":857361161,
+    "wof:lastmodified":1464127725,
+    "wof:name":"Jordan Landing Storage",
+    "wof:parent_id":85813117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "special"
+    ]
+},
+  "bbox": [
+    -111.999103,
+    40.619871,
+    -111.999103,
+    40.619871
+],
+  "geometry": {"coordinates":[-111.99910300000001,40.619871],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857327395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.671759,40.304091,-111.671759,40.304091",
+    "geom:latitude":40.304091,
+    "geom:longitude":-111.671759,
+    "iso:country":"US",
+    "sg:address":"298 N 1000 E",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 225 4452",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4N5aC9JKL2rpz96i0l9NIl_40.304091_-111.671759@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126999,
+    "wof:geomhash":"c319ee4941d4f29b8ef9a889999c18e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857327395
+        }
+    ],
+    "wof:id":857327395,
+    "wof:lastmodified":1464126999,
+    "wof:name":"Bruce Collings Construction",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.671759,
+    40.304091,
+    -111.671759,
+    40.304091
+],
+  "geometry": {"coordinates":[-111.67175899999999,40.304091],"type":"Point"}
+}

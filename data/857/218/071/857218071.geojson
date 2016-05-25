@@ -1,0 +1,73 @@
+{
+  "id": 857218071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.644444,37.13043,-113.644444,37.13043",
+    "geom:latitude":37.13043,
+    "geom:longitude":-113.644444,
+    "iso:country":"US",
+    "sg:address":"2581 Peach Cir",
+    "sg:city":"Santa Clara",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 652 1642",
+    "sg:postcode":"84765",
+    "sg:province":"UT",
+    "sg:tags":[
+        "disposal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wNWRmY8bq5YkC0OHbLLAt_37.130430_-113.644444@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124575,
+    "wof:geomhash":"d578513fd37c21ad387b2b02cb622cad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857218071
+        }
+    ],
+    "wof:id":857218071,
+    "wof:lastmodified":1464124575,
+    "wof:name":"Desert Disposal LLC",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "disposal"
+    ]
+},
+  "bbox": [
+    -113.644444,
+    37.13043,
+    -113.644444,
+    37.13043
+],
+  "geometry": {"coordinates":[-113.64444399999999,37.13043],"type":"Point"}
+}

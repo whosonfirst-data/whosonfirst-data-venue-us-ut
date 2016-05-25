@@ -1,0 +1,75 @@
+{
+  "id": 857395743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.831711,40.54174,-111.831711,40.54174",
+    "geom:latitude":40.54174,
+    "geom:longitude":-111.831711,
+    "iso:country":"US",
+    "sg:address":"2080 Pinecrest Ln",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 576 2888",
+    "sg:postcode":"84092",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mormon",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85812845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ltqTLEQThwjurtjGfsNf8_40.541740_-111.831711@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128542,
+    "wof:geomhash":"b2b051220d43fbd727b1f9338adf3ec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85812845,
+            "region_id":85688567,
+            "venue_id":857395743
+        }
+    ],
+    "wof:id":857395743,
+    "wof:lastmodified":1464128542,
+    "wof:name":"Pinecrest Ward",
+    "wof:parent_id":85812845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mormon",
+        "church"
+    ]
+},
+  "bbox": [
+    -111.831711,
+    40.54174,
+    -111.831711,
+    40.54174
+],
+  "geometry": {"coordinates":[-111.831711,40.54174],"type":"Point"}
+}

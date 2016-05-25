@@ -1,0 +1,73 @@
+{
+  "id": 857407199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.70084,40.325313,-111.70084,40.325313",
+    "geom:latitude":40.325313,
+    "geom:longitude":-111.70084,
+    "iso:country":"US",
+    "sg:address":"1555 N 200 W",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 225 1340",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TyFHiafuu0EH0SmDOrqbp_40.325313_-111.700840@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128771,
+    "wof:geomhash":"561f0b1f619dfbe45cde0b40ee405b7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":857407199
+        }
+    ],
+    "wof:id":857407199,
+    "wof:lastmodified":1464128771,
+    "wof:name":"Daily Herald Commercial Ptg",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -111.70084,
+    40.325313,
+    -111.70084,
+    40.325313
+],
+  "geometry": {"coordinates":[-111.70084,40.325313],"type":"Point"}
+}

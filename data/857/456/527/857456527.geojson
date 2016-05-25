@@ -1,0 +1,69 @@
+{
+  "id": 857456527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.954115,41.321713,-111.954115,41.321713",
+    "geom:latitude":41.321713,
+    "geom:longitude":-111.954115,
+    "iso:country":"US",
+    "sg:address":"843 E 3350 N",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 737 1073",
+    "sg:postcode":"84414",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85824645,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44ib8sQ65j98crZRcUMZ0k_41.321713_-111.954115@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129882,
+    "wof:geomhash":"fa3f9d9469b922b4558bf7db533ec5c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85824645,
+            "region_id":85688567,
+            "venue_id":857456527
+        }
+    ],
+    "wof:id":857456527,
+    "wof:lastmodified":1464129882,
+    "wof:name":"Jim Carver & Sons",
+    "wof:parent_id":85824645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -111.954115,
+    41.321713,
+    -111.954115,
+    41.321713
+],
+  "geometry": {"coordinates":[-111.954115,41.321713],"type":"Point"}
+}

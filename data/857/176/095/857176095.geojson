@@ -1,0 +1,75 @@
+{
+  "id": 857176095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.824385,40.700507,-111.824385,40.700507",
+    "geom:latitude":40.700507,
+    "geom:longitude":-111.824385,
+    "iso:country":"US",
+    "sg:address":"3275 S 2300 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 466 3010",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85859423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tLl1spQxGzJf0j0pbQC5D_40.700507_-111.824385@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123716,
+    "wof:geomhash":"bc69b3844ab039509d83b4059f77dfe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85859423,
+            "region_id":85688567,
+            "venue_id":857176095
+        }
+    ],
+    "wof:id":857176095,
+    "wof:lastmodified":1464123716,
+    "wof:name":"One Hour Martinizing",
+    "wof:parent_id":85859423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -111.824385,
+    40.700507,
+    -111.824385,
+    40.700507
+],
+  "geometry": {"coordinates":[-111.82438500000001,40.700507],"type":"Point"}
+}

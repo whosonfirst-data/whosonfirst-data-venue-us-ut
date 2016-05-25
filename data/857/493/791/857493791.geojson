@@ -1,0 +1,76 @@
+{
+  "id": 857493791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834392,41.755037,-111.834392,41.755037",
+    "geom:latitude":41.755037,
+    "geom:longitude":-111.834392,
+    "iso:country":"US",
+    "sg:address":"1300 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/logan/209410-tcby/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 8822",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IZuzUFZLAUzEcSWzr0EHN_41.755037_-111.834392@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130724,
+    "wof:geomhash":"818c4312e59a36f40df684c4381c46d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857493791
+        }
+    ],
+    "wof:id":857493791,
+    "wof:lastmodified":1464130724,
+    "wof:name":"TCBY",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ]
+},
+  "bbox": [
+    -111.834392,
+    41.755037,
+    -111.834392,
+    41.755037
+],
+  "geometry": {"coordinates":[-111.83439199999999,41.755037],"type":"Point"}
+}

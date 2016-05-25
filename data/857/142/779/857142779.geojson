@@ -1,0 +1,73 @@
+{
+  "id": 857142779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.80314,41.738961,-111.80314,41.738961",
+    "geom:latitude":41.738961,
+    "geom:longitude":-111.80314,
+    "iso:country":"US",
+    "sg:address":"1264 Island Dr",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 2484",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "yard",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ahTCpyiUqdWqPSh0XftSg_41.738961_-111.803140@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122957,
+    "wof:geomhash":"66ef77b616971f4ebacde88ccee241d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857142779
+        }
+    ],
+    "wof:id":857142779,
+    "wof:lastmodified":1464122957,
+    "wof:name":"Sunrise Gardening",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -111.80314,
+    41.738961,
+    -111.80314,
+    41.738961
+],
+  "geometry": {"coordinates":[-111.80314,41.738961],"type":"Point"}
+}

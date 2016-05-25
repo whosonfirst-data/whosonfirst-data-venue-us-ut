@@ -1,0 +1,73 @@
+{
+  "id": 857335893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.0404,41.131157,-112.0404,41.131157",
+    "geom:latitude":41.131157,
+    "geom:longitude":-112.0404,
+    "iso:country":"US",
+    "sg:address":"1208 N 750 W",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 525 0127",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85819031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UvNsJHY6FzqNIz8LYDS3r_41.131157_-112.040400@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127184,
+    "wof:geomhash":"15e1cbb2f2277d604c208b18b2ee5033",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85819031,
+            "region_id":85688567,
+            "venue_id":857335893
+        }
+    ],
+    "wof:id":857335893,
+    "wof:lastmodified":1464127184,
+    "wof:name":"Caliber Auto Services LLC",
+    "wof:parent_id":85819031,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -112.0404,
+    41.131157,
+    -112.0404,
+    41.131157
+],
+  "geometry": {"coordinates":[-112.04040000000001,41.131157],"type":"Point"}
+}

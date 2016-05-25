@@ -1,0 +1,71 @@
+{
+  "id": 857447771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.825699,41.721472,-111.825699,41.721472",
+    "geom:latitude":41.721472,
+    "geom:longitude":-111.825699,
+    "iso:country":"US",
+    "sg:address":"594 S 400 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 9108",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wrPr9JJpv1KH6w13Qhou5_41.721472_-111.825699@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129717,
+    "wof:geomhash":"45f64688c8f41f16e83c6332dd90d742",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857447771
+        }
+    ],
+    "wof:id":857447771,
+    "wof:lastmodified":1464129717,
+    "wof:name":"Western Connection",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -111.825699,
+    41.721472,
+    -111.825699,
+    41.721472
+],
+  "geometry": {"coordinates":[-111.825699,41.721472],"type":"Point"}
+}

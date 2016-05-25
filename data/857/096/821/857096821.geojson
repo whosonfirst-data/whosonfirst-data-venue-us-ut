@@ -1,0 +1,71 @@
+{
+  "id": 857096821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.924033,40.865902,-111.924033,40.865902",
+    "geom:latitude":40.865902,
+    "geom:longitude":-111.924033,
+    "iso:country":"US",
+    "sg:address":"2272 S 1560 W",
+    "sg:city":"Woods Cross",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 295 7581",
+    "sg:postcode":"84087",
+    "sg:province":"UT",
+    "sg:tags":[
+        "door"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727887,
+        102083563,
+        85848919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wg1MSH90GyIzfxkNgNNS9_40.865902_-111.924033@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121829,
+    "wof:geomhash":"b1f81e53111212a536c59f033ea18957",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727887,
+            "neighbourhood_id":85848919,
+            "region_id":85688567,
+            "venue_id":857096821
+        }
+    ],
+    "wof:id":857096821,
+    "wof:lastmodified":1464121829,
+    "wof:name":"Overhead Door Corp",
+    "wof:parent_id":85848919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "door"
+    ]
+},
+  "bbox": [
+    -111.924033,
+    40.865902,
+    -111.924033,
+    40.865902
+],
+  "geometry": {"coordinates":[-111.92403299999999,40.865902],"type":"Point"}
+}

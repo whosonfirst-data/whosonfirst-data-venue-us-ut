@@ -1,0 +1,78 @@
+{
+  "id": 857372401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.02563,41.216972,-112.02563,41.216972",
+    "geom:latitude":41.216972,
+    "geom:longitude":-112.02563,
+    "iso:country":"US",
+    "sg:address":"2674 S 1900 W",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 392 7737",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "siding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85818351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7acLYF7DP8Q4yyeXxiTafD_41.216972_-112.025630@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127958,
+    "wof:geomhash":"215e23455c57f0c53ada388b9ff93c77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85818351,
+            "region_id":85688567,
+            "venue_id":857372401
+        }
+    ],
+    "wof:id":857372401,
+    "wof:lastmodified":1464127958,
+    "wof:name":"Wasatch West Siding Dist",
+    "wof:parent_id":85818351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "siding"
+    ]
+},
+  "bbox": [
+    -112.02563,
+    41.216972,
+    -112.02563,
+    41.216972
+],
+  "geometry": {"coordinates":[-112.02563000000001,41.216972],"type":"Point"}
+}

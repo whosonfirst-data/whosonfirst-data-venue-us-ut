@@ -1,0 +1,73 @@
+{
+  "id": 857418563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.854934,40.387814,-111.854934,40.387814",
+    "geom:latitude":40.387814,
+    "geom:longitude":-111.854934,
+    "iso:country":"US",
+    "sg:address":"308 W Main St",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 768 9557",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ufaN3BiEjhVlMNhF14Rk9_40.387814_-111.854934@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129070,
+    "wof:geomhash":"ef0ed6cb83198cb35e891a3f2f2abacd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857418563
+        }
+    ],
+    "wof:id":857418563,
+    "wof:lastmodified":1464129070,
+    "wof:name":"Morris Clark",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -111.854934,
+    40.387814,
+    -111.854934,
+    40.387814
+],
+  "geometry": {"coordinates":[-111.854934,40.387814],"type":"Point"}
+}

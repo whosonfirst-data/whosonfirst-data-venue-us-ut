@@ -1,0 +1,77 @@
+{
+  "id": 857389769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.883751,40.662834,-111.883751,40.662834",
+    "geom:latitude":40.662834,
+    "geom:longitude":-111.883751,
+    "iso:country":"US",
+    "sg:address":"247 E Vine St",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 262 5199",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:tags":[
+        "person",
+        "bureau",
+        "missing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85803911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rGfnjx1kc1rppAosmJ3eb_40.662834_-111.883751@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128426,
+    "wof:geomhash":"216b56723df816ccaad3bfddb1807190",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85803911,
+            "region_id":85688567,
+            "venue_id":857389769
+        }
+    ],
+    "wof:id":857389769,
+    "wof:lastmodified":1464128426,
+    "wof:name":"FMAR",
+    "wof:parent_id":85803911,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "person",
+        "bureau",
+        "missing"
+    ]
+},
+  "bbox": [
+    -111.883751,
+    40.662834,
+    -111.883751,
+    40.662834
+],
+  "geometry": {"coordinates":[-111.883751,40.662834],"type":"Point"}
+}

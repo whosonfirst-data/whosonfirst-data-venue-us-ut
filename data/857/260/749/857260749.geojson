@@ -1,0 +1,75 @@
+{
+  "id": 857260749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.946138,41.039802,-111.946138,41.039802",
+    "geom:latitude":41.039802,
+    "geom:longitude":-111.946138,
+    "iso:country":"US",
+    "sg:address":"200 N 400 W",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 546 4400",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pLSIE1KgX99sbBSrO1QLH_41.039802_-111.946138@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125504,
+    "wof:geomhash":"8a6e424f68fc4cc623d63a76cacd8cbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857260749
+        }
+    ],
+    "wof:id":857260749,
+    "wof:lastmodified":1464125504,
+    "wof:name":"Handi Self-Storage",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -111.946138,
+    41.039802,
+    -111.946138,
+    41.039802
+],
+  "geometry": {"coordinates":[-111.946138,41.039802],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857357151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.807338,40.376764,-111.807338,40.376764",
+    "geom:latitude":40.376764,
+    "geom:longitude":-111.807338,
+    "iso:country":"US",
+    "sg:address":"329 W Main St",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 3739",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mWri6MWWz9trFBegZkfyp_40.376764_-111.807338@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127638,
+    "wof:geomhash":"e4a0dc5eb0adbd804e2203d44a11a3c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857357151
+        }
+    ],
+    "wof:id":857357151,
+    "wof:lastmodified":1464127638,
+    "wof:name":"Kirkham's Upholstery",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -111.807338,
+    40.376764,
+    -111.807338,
+    40.376764
+],
+  "geometry": {"coordinates":[-111.807338,40.376764],"type":"Point"}
+}

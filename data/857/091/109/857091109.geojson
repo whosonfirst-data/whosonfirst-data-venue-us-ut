@@ -1,0 +1,73 @@
+{
+  "id": 857091109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.887611,40.984185,-111.887611,40.984185",
+    "geom:latitude":40.984185,
+    "geom:longitude":-111.887611,
+    "iso:country":"US",
+    "sg:address":"273 N Main St",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 1901",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mormon",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tvMvdlT8ekFQyYkmBIHUJ_40.984185_-111.887611@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121715,
+    "wof:geomhash":"b77a42f6ce23f2f1116f40ce07f89ac5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857091109
+        }
+    ],
+    "wof:id":857091109,
+    "wof:lastmodified":1464121715,
+    "wof:name":"Farmington First Ward",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mormon",
+        "church"
+    ]
+},
+  "bbox": [
+    -111.887611,
+    40.984185,
+    -111.887611,
+    40.984185
+],
+  "geometry": {"coordinates":[-111.88761100000001,40.984185],"type":"Point"}
+}

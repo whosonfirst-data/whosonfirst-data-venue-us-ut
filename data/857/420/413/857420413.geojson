@@ -1,0 +1,71 @@
+{
+  "id": 857420413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.654392,40.301703,-111.654392,40.301703",
+    "geom:latitude":40.301703,
+    "geom:longitude":-111.654392,
+    "iso:country":"US",
+    "sg:address":"5225 N Canyon Rd",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 4044",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZNfsjriVuwjYPcy4iAw5h_40.301703_-111.654392@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129105,
+    "wof:geomhash":"ad93c2f9edb28960802e3665008ca88b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857420413
+        }
+    ],
+    "wof:id":857420413,
+    "wof:lastmodified":1464129105,
+    "wof:name":"Lacourt Properties LLC",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -111.654392,
+    40.301703,
+    -111.654392,
+    40.301703
+],
+  "geometry": {"coordinates":[-111.654392,40.301703],"type":"Point"}
+}

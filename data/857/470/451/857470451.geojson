@@ -1,0 +1,72 @@
+{
+  "id": 857470451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.804463,41.766139,-111.804463,41.766139",
+    "geom:latitude":41.766139,
+    "geom:longitude":-111.804463,
+    "iso:country":"US",
+    "sg:address":"2076 N 1200 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 1353",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "city"
+    ],
+    "sg:website":"www.ci.north-logan.ut.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66dy0Ixv4N4cvtI18lBVPG_41.766139_-111.804463@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130179,
+    "wof:geomhash":"3b09e966f3f53fa2af50ee71be708049",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857470451
+        }
+    ],
+    "wof:id":857470451,
+    "wof:lastmodified":1464130179,
+    "wof:name":"North Logan Justice Court",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -111.804463,
+    41.766139,
+    -111.804463,
+    41.766139
+],
+  "geometry": {"coordinates":[-111.804463,41.766139],"type":"Point"}
+}

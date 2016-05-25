@@ -1,0 +1,68 @@
+{
+  "id": 857337085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.007499,41.103443,-112.007499,41.103443",
+    "geom:latitude":41.103443,
+    "geom:longitude":-112.007499,
+    "iso:country":"US",
+    "sg:address":"990 E 700 S",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 402 2500",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85851583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tjmNHtEmA58PUKEPQBqdj_41.103443_-112.007499@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127212,
+    "wof:geomhash":"af0fbdf75a97e031d31b7e2f3150536f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85851583,
+            "region_id":85688567,
+            "venue_id":857337085
+        }
+    ],
+    "wof:id":857337085,
+    "wof:lastmodified":1464127212,
+    "wof:name":"South Clarfield Elementary 156",
+    "wof:parent_id":85851583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.007499,
+    41.103443,
+    -112.007499,
+    41.103443
+],
+  "geometry": {"coordinates":[-112.007499,41.103443],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857245843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.882761,40.70269,-111.882761,40.70269",
+    "geom:latitude":40.70269,
+    "geom:longitude":-111.882761,
+    "iso:country":"US",
+    "sg:address":"3134 S 300 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 481 7117",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85854999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dAbwkntoPU7PhQ5H5W8On_40.702690_-111.882761@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125156,
+    "wof:geomhash":"ba8cfbaccdf1b88785c1adb52adea9fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85854999,
+            "region_id":85688567,
+            "venue_id":857245843
+        }
+    ],
+    "wof:id":857245843,
+    "wof:lastmodified":1464125156,
+    "wof:name":"Young Parent East",
+    "wof:parent_id":85854999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.882761,
+    40.70269,
+    -111.882761,
+    40.70269
+],
+  "geometry": {"coordinates":[-111.882761,40.70269],"type":"Point"}
+}

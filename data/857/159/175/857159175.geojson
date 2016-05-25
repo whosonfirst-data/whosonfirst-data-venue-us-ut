@@ -1,0 +1,71 @@
+{
+  "id": 857159175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.935161,40.864135,-111.935161,40.864135",
+    "geom:latitude":40.864135,
+    "geom:longitude":-111.935161,
+    "iso:country":"US",
+    "sg:address":"2133 W 2425 S",
+    "sg:city":"Woods Cross",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 295 0087",
+    "sg:postcode":"84087",
+    "sg:province":"UT",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727887,
+        102083563,
+        85848919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LLodmKYTf4hS4T7XZBItW_40.864135_-111.935161@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123330,
+    "wof:geomhash":"d88df8c8a178b290ae5f0a723b0dfe9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727887,
+            "neighbourhood_id":85848919,
+            "region_id":85688567,
+            "venue_id":857159175
+        }
+    ],
+    "wof:id":857159175,
+    "wof:lastmodified":1464123330,
+    "wof:name":"Phoenix Construction",
+    "wof:parent_id":85848919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -111.935161,
+    40.864135,
+    -111.935161,
+    40.864135
+],
+  "geometry": {"coordinates":[-111.93516099999999,40.864135],"type":"Point"}
+}

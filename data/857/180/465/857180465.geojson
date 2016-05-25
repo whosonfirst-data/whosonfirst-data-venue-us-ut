@@ -1,0 +1,73 @@
+{
+  "id": 857180465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.990588,40.364254,-111.990588,40.364254",
+    "geom:latitude":40.364254,
+    "geom:longitude":-111.990588,
+    "iso:country":"US",
+    "sg:address":"2766 Forthill Rd",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 766 8666",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "carpenter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727857,
+        102083567,
+        85836317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xyhe4gLM293kA08JwA1r5_40.364254_-111.990588@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123806,
+    "wof:geomhash":"012f0e6d6f19f305adeae1f7ccdef27b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727857,
+            "neighbourhood_id":85836317,
+            "region_id":85688567,
+            "venue_id":857180465
+        }
+    ],
+    "wof:id":857180465,
+    "wof:lastmodified":1464123806,
+    "wof:name":"All Utah Construction",
+    "wof:parent_id":85836317,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpenter"
+    ]
+},
+  "bbox": [
+    -111.990588,
+    40.364254,
+    -111.990588,
+    40.364254
+],
+  "geometry": {"coordinates":[-111.990588,40.364254],"type":"Point"}
+}

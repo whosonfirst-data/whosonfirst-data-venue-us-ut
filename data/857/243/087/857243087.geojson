@@ -1,0 +1,75 @@
+{
+  "id": 857243087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.629396,40.20385,-111.629396,40.20385",
+    "geom:latitude":40.20385,
+    "geom:longitude":-111.629396,
+    "iso:country":"US",
+    "sg:address":"2227 Larson Pkwy",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 374 9525",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:tags":[
+        "lithographic",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727829,
+        102083567,
+        85880117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FMhgNHGd534Jkue6uKjVo_40.203850_-111.629396@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125084,
+    "wof:geomhash":"363946b4b2f772818bcd6f819fadbab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727829,
+            "neighbourhood_id":85880117,
+            "region_id":85688567,
+            "venue_id":857243087
+        }
+    ],
+    "wof:id":857243087,
+    "wof:lastmodified":1464125084,
+    "wof:name":"M C Printing",
+    "wof:parent_id":85880117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lithographic",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -111.629396,
+    40.20385,
+    -111.629396,
+    40.20385
+],
+  "geometry": {"coordinates":[-111.629396,40.20385],"type":"Point"}
+}

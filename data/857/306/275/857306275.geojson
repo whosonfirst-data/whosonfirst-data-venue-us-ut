@@ -1,0 +1,75 @@
+{
+  "id": 857306275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.818271,40.705304,-111.818271,40.705304",
+    "geom:latitude":40.705304,
+    "geom:longitude":-111.818271,
+    "iso:country":"US",
+    "sg:address":"2568 E 3020 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 474 1656",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85859423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VbBvjayHM4UWTsYq32wIn_40.705304_-111.818271@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126544,
+    "wof:geomhash":"09cc272461bf82f9e38a2aeab3fcc848",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85859423,
+            "region_id":85688567,
+            "venue_id":857306275
+        }
+    ],
+    "wof:id":857306275,
+    "wof:lastmodified":1464126544,
+    "wof:name":"Wallace Properties LLC",
+    "wof:parent_id":85859423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -111.818271,
+    40.705304,
+    -111.818271,
+    40.705304
+],
+  "geometry": {"coordinates":[-111.818271,40.705304],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857231961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.888967,40.554595,-111.888967,40.554595",
+    "geom:latitude":40.554595,
+    "geom:longitude":-111.888967,
+    "iso:country":"US",
+    "sg:address":"10827 Marsha Kaye Cir",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 964 5299",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85850585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lWjz319jb6P5BMifk4qRe_40.554595_-111.888967@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124842,
+    "wof:geomhash":"6742180685f6d90f3eba145d75a7589e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85850585,
+            "region_id":85688567,
+            "venue_id":857231961
+        }
+    ],
+    "wof:id":857231961,
+    "wof:lastmodified":1464124842,
+    "wof:name":"Danceworks USA",
+    "wof:parent_id":85850585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -111.888967,
+    40.554595,
+    -111.888967,
+    40.554595
+],
+  "geometry": {"coordinates":[-111.88896699999999,40.554595],"type":"Point"}
+}

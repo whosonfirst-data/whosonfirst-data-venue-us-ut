@@ -1,0 +1,75 @@
+{
+  "id": 857198993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.036492,41.16361,-112.036492,41.16361",
+    "geom:latitude":41.16361,
+    "geom:longitude":-112.036492,
+    "iso:country":"US",
+    "sg:address":"5499 S 2350 W",
+    "sg:city":"Roy",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 773 7857",
+    "sg:postcode":"84067",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728023,
+        102083539,
+        85853469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1A0lvSWXmtciS7Mv801QOF_41.163610_-112.036492@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124157,
+    "wof:geomhash":"e66bd93f5cb540408b525340eff42c33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728023,
+            "neighbourhood_id":85853469,
+            "region_id":85688567,
+            "venue_id":857198993
+        }
+    ],
+    "wof:id":857198993,
+    "wof:lastmodified":1464124157,
+    "wof:name":"England Manor Apts",
+    "wof:parent_id":85853469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -112.036492,
+    41.16361,
+    -112.036492,
+    41.16361
+],
+  "geometry": {"coordinates":[-112.036492,41.16361],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 857370083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.835009,41.727148,-111.835009,41.727148",
+    "geom:latitude":41.727148,
+    "geom:longitude":-111.835009,
+    "iso:country":"US",
+    "sg:address":"232 S Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 750 0900",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16O6HwVnkRZDvL3shA1Y3e_41.727148_-111.835009@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127907,
+    "wof:geomhash":"5da9ba5ff2c830f3f844022a0053e8b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857370083
+        }
+    ],
+    "wof:id":857370083,
+    "wof:lastmodified":1464127907,
+    "wof:name":"State Farm Insurance",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.835009,
+    41.727148,
+    -111.835009,
+    41.727148
+],
+  "geometry": {"coordinates":[-111.835009,41.727148],"type":"Point"}
+}

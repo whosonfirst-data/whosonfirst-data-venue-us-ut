@@ -1,0 +1,75 @@
+{
+  "id": 857283325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.030304,41.118272,-112.030304,41.118272",
+    "geom:latitude":41.118272,
+    "geom:longitude":-112.030304,
+    "iso:country":"US",
+    "sg:address":"300 N 200 W",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 774 2025",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mormon",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85851583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7f6RFYl6c4ELWGI0URSZq8_41.118272_-112.030304@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125987,
+    "wof:geomhash":"7dd415bc6283f934825dafef3d20419d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85851583,
+            "region_id":85688567,
+            "venue_id":857283325
+        }
+    ],
+    "wof:id":857283325,
+    "wof:lastmodified":1464125987,
+    "wof:name":"Clearfield Eighth Ward",
+    "wof:parent_id":85851583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mormon",
+        "church"
+    ]
+},
+  "bbox": [
+    -112.030304,
+    41.118272,
+    -112.030304,
+    41.118272
+],
+  "geometry": {"coordinates":[-112.030304,41.118272],"type":"Point"}
+}

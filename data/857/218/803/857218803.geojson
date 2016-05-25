@@ -1,0 +1,68 @@
+{
+  "id": 857218803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.021035,40.611731,-112.021035,40.611731",
+    "geom:latitude":40.611731,
+    "geom:longitude":-112.021035,
+    "iso:country":"US",
+    "sg:address":"7632 S 5490 W",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 572 3504",
+    "sg:postcode":"84084",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85839665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GcrSELUQBjdn299MsWhUf_40.611731_-112.021035@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124592,
+    "wof:geomhash":"a0d7e8993cac209a027904e8d29c9a91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85839665,
+            "region_id":85688567,
+            "venue_id":857218803
+        }
+    ],
+    "wof:id":857218803,
+    "wof:lastmodified":1464124592,
+    "wof:name":"Horizon Farms",
+    "wof:parent_id":85839665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.021035,
+    40.611731,
+    -112.021035,
+    40.611731
+],
+  "geometry": {"coordinates":[-112.021035,40.611731],"type":"Point"}
+}

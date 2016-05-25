@@ -1,0 +1,75 @@
+{
+  "id": 857173583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.923981,40.518773,-111.923981,40.518773",
+    "geom:latitude":40.518773,
+    "geom:longitude":-111.923981,
+    "iso:country":"US",
+    "sg:address":"12765 S 1125 W",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 253 4404",
+    "sg:postcode":"84065",
+    "sg:province":"UT",
+    "sg:tags":[
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728073,
+        102082877,
+        85817559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7chdH3Men1n5GbIaTxXuad_40.518773_-111.923981@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123667,
+    "wof:geomhash":"a140b15a0d0d6ff2ec48f11b118a4a42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728073,
+            "neighbourhood_id":85817559,
+            "region_id":85688567,
+            "venue_id":857173583
+        }
+    ],
+    "wof:id":857173583,
+    "wof:lastmodified":1464123667,
+    "wof:name":"South County Swimming Pool",
+    "wof:parent_id":85817559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -111.923981,
+    40.518773,
+    -111.923981,
+    40.518773
+],
+  "geometry": {"coordinates":[-111.923981,40.518773],"type":"Point"}
+}

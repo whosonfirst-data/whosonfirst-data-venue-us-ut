@@ -1,0 +1,75 @@
+{
+  "id": 857108143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.898535,40.699788,-111.898535,40.699788",
+    "geom:latitude":40.699788,
+    "geom:longitude":-111.898535,
+    "iso:country":"US",
+    "sg:address":"277 W 3300 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 466 3514",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85810147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vc9eiP8AHz3USNKzkAnu1_40.699788_-111.898535@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122090,
+    "wof:geomhash":"e614c253940d262c1bb6cebca109279c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85810147,
+            "region_id":85688567,
+            "venue_id":857108143
+        }
+    ],
+    "wof:id":857108143,
+    "wof:lastmodified":1464122090,
+    "wof:name":"All Tune & Lube",
+    "wof:parent_id":85810147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -111.898535,
+    40.699788,
+    -111.898535,
+    40.699788
+],
+  "geometry": {"coordinates":[-111.898535,40.699788],"type":"Point"}
+}

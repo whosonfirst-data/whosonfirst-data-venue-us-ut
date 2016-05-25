@@ -1,0 +1,71 @@
+{
+  "id": 857346603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.627749,40.10591,-111.627749,40.10591",
+    "geom:latitude":40.10591,
+    "geom:longitude":-111.627749,
+    "iso:country":"US",
+    "sg:address":"1616 Dover Dr",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 794 1616",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3q9JWrSVpj9CMXGR2TiWI2_40.105910_-111.627749@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127407,
+    "wof:geomhash":"a411ba26a0031ca18a6b0dc5a9949759",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857346603
+        }
+    ],
+    "wof:id":857346603,
+    "wof:lastmodified":1464127407,
+    "wof:name":"Craig Stevenson",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -111.627749,
+    40.10591,
+    -111.627749,
+    40.10591
+],
+  "geometry": {"coordinates":[-111.62774899999999,40.10591],"type":"Point"}
+}

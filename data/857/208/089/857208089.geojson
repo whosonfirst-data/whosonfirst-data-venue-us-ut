@@ -1,0 +1,75 @@
+{
+  "id": 857208089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.507148,37.127647,-113.507148,37.127647",
+    "geom:latitude":37.127647,
+    "geom:longitude":-113.507148,
+    "iso:country":"US",
+    "sg:address":"140 E 200 S",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 673 0745",
+    "sg:postcode":"84780",
+    "sg:province":"UT",
+    "sg:tags":[
+        "local",
+        "moving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3f76Jk29RsSeEMFSs0nvvv_37.127647_-113.507148@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124352,
+    "wof:geomhash":"a17c7a5e9306aff2bf4a8a597a637946",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857208089
+        }
+    ],
+    "wof:id":857208089,
+    "wof:lastmodified":1464124352,
+    "wof:name":"Cloud Moving",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "moving"
+    ]
+},
+  "bbox": [
+    -113.507148,
+    37.127647,
+    -113.507148,
+    37.127647
+],
+  "geometry": {"coordinates":[-113.507148,37.127647],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857366287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.918166,41.03979,-111.918166,41.03979",
+    "geom:latitude":41.03979,
+    "geom:longitude":-111.918166,
+    "iso:country":"US",
+    "sg:address":"914 E 200 N",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 593 0830",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "investor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Fok8RvramhaXFVukujirZ_41.039790_-111.918166@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127830,
+    "wof:geomhash":"769c602196e6b247c883016a88a56b38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857366287
+        }
+    ],
+    "wof:id":857366287,
+    "wof:lastmodified":1464127830,
+    "wof:name":"B&L Holbrook Investmets LLC",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investor"
+    ]
+},
+  "bbox": [
+    -111.918166,
+    41.03979,
+    -111.918166,
+    41.03979
+],
+  "geometry": {"coordinates":[-111.918166,41.03979],"type":"Point"}
+}

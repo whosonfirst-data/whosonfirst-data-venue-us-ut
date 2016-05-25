@@ -1,0 +1,69 @@
+{
+  "id": 857116211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.791244,40.376819,-111.791244,40.376819",
+    "geom:latitude":40.376819,
+    "geom:longitude":-111.791244,
+    "iso:country":"US",
+    "sg:address":"233 E Main St",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 8686",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ra4YRIJhwl5IOxJJiRiIA_40.376819_-111.791244@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122352,
+    "wof:geomhash":"f4d111650adca09af026bbe87c066e91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857116211
+        }
+    ],
+    "wof:id":857116211,
+    "wof:lastmodified":1464122352,
+    "wof:name":"Bruce B Richards DDS",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -111.791244,
+    40.376819,
+    -111.791244,
+    40.376819
+],
+  "geometry": {"coordinates":[-111.79124400000001,40.376819],"type":"Point"}
+}

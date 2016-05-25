@@ -1,0 +1,71 @@
+{
+  "id": 857467769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.60707,37.058612,-113.60707,37.058612",
+    "geom:latitude":37.058612,
+    "geom:longitude":-113.60707,
+    "iso:country":"US",
+    "sg:address":"2966 Jacob Hamblin Dr",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 986 0418",
+    "sg:postcode":"84790",
+    "sg:province":"UT",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727617,
+        102082879,
+        85803851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68TMtp7SnnUzAXzdvBBZ5j_37.058612_-113.607070@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130120,
+    "wof:geomhash":"a6c2291038991cd33469bef52094643c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85803851,
+            "region_id":85688567,
+            "venue_id":857467769
+        }
+    ],
+    "wof:id":857467769,
+    "wof:lastmodified":1464130120,
+    "wof:name":"Twin Peaks Photography",
+    "wof:parent_id":85803851,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -113.60707,
+    37.058612,
+    -113.60707,
+    37.058612
+],
+  "geometry": {"coordinates":[-113.60706999999999,37.058612],"type":"Point"}
+}

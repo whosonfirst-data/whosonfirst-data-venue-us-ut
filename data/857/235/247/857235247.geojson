@@ -1,0 +1,75 @@
+{
+  "id": 857235247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.637468,40.096004,-111.637468,40.096004",
+    "geom:latitude":40.096004,
+    "geom:longitude":-111.637468,
+    "iso:country":"US",
+    "sg:address":"1070 E 1050 S",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 244 7193",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "field",
+        "oil",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4e3T4Kalpxp2C9Tg63Pism_40.096004_-111.637468@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124907,
+    "wof:geomhash":"609983fe6560809230348c69fbd00d3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857235247
+        }
+    ],
+    "wof:id":857235247,
+    "wof:lastmodified":1464124907,
+    "wof:name":"3 D Transportation",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "field",
+        "oil",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -111.637468,
+    40.096004,
+    -111.637468,
+    40.096004
+],
+  "geometry": {"coordinates":[-111.637468,40.096004],"type":"Point"}
+}

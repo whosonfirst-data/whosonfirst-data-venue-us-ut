@@ -1,0 +1,68 @@
+{
+  "id": 857254245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.951468,40.594094,-111.951468,40.594094",
+    "geom:latitude":40.594094,
+    "geom:longitude":-111.951468,
+    "iso:country":"US",
+    "sg:address":"2300 Gardner Ln",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 565 7510",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85854601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44hrBDYnHCZBas9cWyk5UI_40.594094_-111.951468@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125352,
+    "wof:geomhash":"b5d8a5805765ecbfb794db758c84f173",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85854601,
+            "region_id":85688567,
+            "venue_id":857254245
+        }
+    ],
+    "wof:id":857254245,
+    "wof:lastmodified":1464125352,
+    "wof:name":"Westvale Elementary School",
+    "wof:parent_id":85854601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.951468,
+    40.594094,
+    -111.951468,
+    40.594094
+],
+  "geometry": {"coordinates":[-111.95146800000001,40.594094],"type":"Point"}
+}

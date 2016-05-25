@@ -1,0 +1,78 @@
+{
+  "id": 857492173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.686403,40.273354,-111.686403,40.273354",
+    "geom:latitude":40.273354,
+    "geom:longitude":-111.686403,
+    "iso:country":"US",
+    "sg:address":"378 E 1300 S",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/provo-orem/41356-sensuous-sandwich/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 225 9475",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85880081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xktIr9H1zOrUnz7ryv6fd_40.273354_-111.686403@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130667,
+    "wof:geomhash":"6713e4d9d1e97bb232148da386e8ec67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85880081,
+            "region_id":85688567,
+            "venue_id":857492173
+        }
+    ],
+    "wof:id":857492173,
+    "wof:lastmodified":1464130667,
+    "wof:name":"Sensuous Sandwich",
+    "wof:parent_id":85880081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -111.686403,
+    40.273354,
+    -111.686403,
+    40.273354
+],
+  "geometry": {"coordinates":[-111.686403,40.273354],"type":"Point"}
+}

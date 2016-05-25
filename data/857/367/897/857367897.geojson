@@ -1,0 +1,75 @@
+{
+  "id": 857367897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.847775,41.743003,-111.847775,41.743003",
+    "geom:latitude":41.743003,
+    "geom:longitude":-111.847775,
+    "iso:country":"US",
+    "sg:address":"595 W 600 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 2454",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "water",
+        "equipment",
+        "softening"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SR36MWVL1TsYhHBLaZGmA_41.743003_-111.847775@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127861,
+    "wof:geomhash":"fbd6eb70c49f09fc780cd821d819d7c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857367897
+        }
+    ],
+    "wof:id":857367897,
+    "wof:lastmodified":1464127861,
+    "wof:name":"Culligan Water Conditioning",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "equipment",
+        "softening"
+    ]
+},
+  "bbox": [
+    -111.847775,
+    41.743003,
+    -111.847775,
+    41.743003
+],
+  "geometry": {"coordinates":[-111.847775,41.743003],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857079865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.688851,40.277466,-111.688851,40.277466",
+    "geom:latitude":40.277466,
+    "geom:longitude":-111.688851,
+    "iso:country":"US",
+    "sg:address":"1099 S Orem Blvd",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 226 7070",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "agency",
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85813259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ERElSoE6pScWelMk0GlEI_40.277466_-111.688851@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121400,
+    "wof:geomhash":"140d4c2ba46493524e1d20a816461b12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85813259,
+            "region_id":85688567,
+            "venue_id":857079865
+        }
+    ],
+    "wof:id":857079865,
+    "wof:lastmodified":1464121400,
+    "wof:name":"Thomas Travel",
+    "wof:parent_id":85813259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "bureau"
+    ]
+},
+  "bbox": [
+    -111.688851,
+    40.277466,
+    -111.688851,
+    40.277466
+],
+  "geometry": {"coordinates":[-111.688851,40.277466],"type":"Point"}
+}

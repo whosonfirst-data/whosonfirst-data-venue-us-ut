@@ -1,0 +1,73 @@
+{
+  "id": 857142169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.817624,41.742524,-111.817624,41.742524",
+    "geom:latitude":41.742524,
+    "geom:longitude":-111.817624,
+    "iso:country":"US",
+    "sg:address":"676 E 600 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 512 3699",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09cizJLXReRTvSKo4mg3ub_41.742524_-111.817624@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122945,
+    "wof:geomhash":"728a9614219e143aa3b5ba3ccd99f45e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857142169
+        }
+    ],
+    "wof:id":857142169,
+    "wof:lastmodified":1464122945,
+    "wof:name":"Master Paint",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.817624,
+    41.742524,
+    -111.817624,
+    41.742524
+],
+  "geometry": {"coordinates":[-111.817624,41.742524],"type":"Point"}
+}

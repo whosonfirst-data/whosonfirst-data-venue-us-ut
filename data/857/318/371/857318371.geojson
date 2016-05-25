@@ -1,0 +1,71 @@
+{
+  "id": 857318371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.950071,41.102935,-111.950071,41.102935",
+    "geom:latitude":41.102935,
+    "geom:longitude":-111.950071,
+    "iso:country":"US",
+    "sg:address":"3021 N Fairfield Rd",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 721 6979",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85844663,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gYYDBtXcaTQEaUnkJcHqN_41.102935_-111.950071@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126818,
+    "wof:geomhash":"2b4f5f98ce51841928b7c24758645208",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "neighbourhood_id":85844663,
+            "region_id":85688567,
+            "venue_id":857318371
+        }
+    ],
+    "wof:id":857318371,
+    "wof:lastmodified":1464126818,
+    "wof:name":"Love Utah Inc",
+    "wof:parent_id":85844663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.950071,
+    41.102935,
+    -111.950071,
+    41.102935
+],
+  "geometry": {"coordinates":[-111.95007099999999,41.102935],"type":"Point"}
+}

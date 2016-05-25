@@ -1,0 +1,79 @@
+{
+  "id": 857097859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.609506,40.1518,-111.609506,40.1518",
+    "geom:latitude":40.1518,
+    "geom:longitude":-111.609506,
+    "iso:country":"US",
+    "sg:address":"1034 S Main St",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 489 3572",
+    "sg:postcode":"84663",
+    "sg:province":"UT",
+    "sg:tags":[
+        "beef",
+        "except",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727829,
+        102083567,
+        85880117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WPXP7KL3l81DOXJaGTTdx_40.151800_-111.609506@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121854,
+    "wof:geomhash":"e1f23a34a21593e3cc34e3e1ac5a92f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727829,
+            "neighbourhood_id":85880117,
+            "region_id":85688567,
+            "venue_id":857097859
+        }
+    ],
+    "wof:id":857097859,
+    "wof:lastmodified":1464121854,
+    "wof:name":"Crandall Farms Inc",
+    "wof:parent_id":85880117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "except",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -111.609506,
+    40.1518,
+    -111.609506,
+    40.1518
+],
+  "geometry": {"coordinates":[-111.609506,40.1518],"type":"Point"}
+}

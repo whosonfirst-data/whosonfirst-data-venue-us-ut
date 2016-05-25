@@ -1,0 +1,73 @@
+{
+  "id": 857473905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.866687,40.727249,-111.866687,40.727249",
+    "geom:latitude":40.727249,
+    "geom:longitude":-111.866687,
+    "iso:country":"US",
+    "sg:address":"2021 Windsor St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 484 2997",
+    "sg:postcode":"84105",
+    "sg:province":"UT",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85858269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5d4GI2LC76rOtWh1fIjO9N_40.727249_-111.866687@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130253,
+    "wof:geomhash":"c16a68e5561e824d3490cef5012cb36d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85858269,
+            "region_id":85688567,
+            "venue_id":857473905
+        }
+    ],
+    "wof:id":857473905,
+    "wof:lastmodified":1464130253,
+    "wof:name":"Superior Photography",
+    "wof:parent_id":85858269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -111.866687,
+    40.727249,
+    -111.866687,
+    40.727249
+],
+  "geometry": {"coordinates":[-111.866687,40.727249],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857226497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.902053,40.724753,-111.902053,40.724753",
+    "geom:latitude":40.724753,
+    "geom:longitude":-111.902053,
+    "iso:country":"US",
+    "sg:address":"2200 S 400 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 485 6550",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "waste",
+        "removal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85851735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08vQr8NmsZgML8boqYnZQT_40.724753_-111.902053@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124739,
+    "wof:geomhash":"4044559c27f2eaaeed345b1ac960e3ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85851735,
+            "region_id":85688567,
+            "venue_id":857226497
+        }
+    ],
+    "wof:id":857226497,
+    "wof:lastmodified":1464124739,
+    "wof:name":"Med Waste Tec",
+    "wof:parent_id":85851735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "waste",
+        "removal"
+    ]
+},
+  "bbox": [
+    -111.902053,
+    40.724753,
+    -111.902053,
+    40.724753
+],
+  "geometry": {"coordinates":[-111.902053,40.724753],"type":"Point"}
+}

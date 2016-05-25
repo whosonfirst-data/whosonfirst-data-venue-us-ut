@@ -1,0 +1,73 @@
+{
+  "id": 857381745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.687477,40.231351,-111.687477,40.231351",
+    "geom:latitude":40.231351,
+    "geom:longitude":-111.687477,
+    "iso:country":"US",
+    "sg:address":"131 S 1600 W",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 375 4949",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Rm68piJPOk2WvqOdvYWNc_40.231351_-111.687477@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128170,
+    "wof:geomhash":"942ec2bfaa3eda0c4c3eebe64e781834",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880067,
+            "region_id":85688567,
+            "venue_id":857381745
+        }
+    ],
+    "wof:id":857381745,
+    "wof:lastmodified":1464128170,
+    "wof:name":"LDS Church",
+    "wof:parent_id":85880067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -111.687477,
+    40.231351,
+    -111.687477,
+    40.231351
+],
+  "geometry": {"coordinates":[-111.687477,40.231351],"type":"Point"}
+}

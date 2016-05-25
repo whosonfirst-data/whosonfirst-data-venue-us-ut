@@ -1,0 +1,73 @@
+{
+  "id": 857342789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.902451,40.667837,-111.902451,40.667837",
+    "geom:latitude":40.667837,
+    "geom:longitude":-111.902451,
+    "iso:country":"US",
+    "sg:address":"4755 Plum St",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 484 7000",
+    "sg:postcode":"84123",
+    "sg:province":"UT",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85851609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KfJCTeRs1yLx6CtE2bKjV_40.667837_-111.902451@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127330,
+    "wof:geomhash":"a93f28307df11a3befbd9147447bf0e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85851609,
+            "region_id":85688567,
+            "venue_id":857342789
+        }
+    ],
+    "wof:id":857342789,
+    "wof:lastmodified":1464127330,
+    "wof:name":"A-L Towing",
+    "wof:parent_id":85851609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -111.902451,
+    40.667837,
+    -111.902451,
+    40.667837
+],
+  "geometry": {"coordinates":[-111.902451,40.667837],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857104429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.931245,41.000864,-111.931245,41.000864",
+    "geom:latitude":41.000864,
+    "geom:longitude":-111.931245,
+    "iso:country":"US",
+    "sg:address":"309 E Shepard Ln",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 8833",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Fc7Xbu7OwxSDeBuEs4tKH_41.000864_-111.931245@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122014,
+    "wof:geomhash":"b0fb63ce88e50fd30c158214b5107254",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857104429
+        }
+    ],
+    "wof:id":857104429,
+    "wof:lastmodified":1464122014,
+    "wof:name":"V & M Wood Specialists",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.931245,
+    41.000864,
+    -111.931245,
+    41.000864
+],
+  "geometry": {"coordinates":[-111.931245,41.000864],"type":"Point"}
+}

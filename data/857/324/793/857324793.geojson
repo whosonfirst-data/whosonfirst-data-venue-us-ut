@@ -1,0 +1,66 @@
+{
+  "id": 857324793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.835206,41.719223,-111.835206,41.719223",
+    "geom:latitude":41.719223,
+    "geom:longitude":-111.835206,
+    "iso:country":"US",
+    "sg:address":"710 S Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 8550",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RDr1RvVwGkndnz82OcNO1_41.719223_-111.835206@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126946,
+    "wof:geomhash":"041adf19dbd054aa72fcaf69d5e1b5fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857324793
+        }
+    ],
+    "wof:id":857324793,
+    "wof:lastmodified":1464126946,
+    "wof:name":"7-Eleven",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.835206,
+    41.719223,
+    -111.835206,
+    41.719223
+],
+  "geometry": {"coordinates":[-111.835206,41.719223],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 857354567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.794865,40.697797,-111.794865,40.697797",
+    "geom:latitude":40.697797,
+    "geom:longitude":-111.794865,
+    "iso:country":"US",
+    "sg:address":"3305 Wasatch Blvd",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 481 7190",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:website":"www.graniteschooldistrict.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728257,
+        102082877,
+        85854869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4j21gfjBdNbX0mlg4DrzWX_40.697797_-111.794865@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127586,
+    "wof:geomhash":"e07c40ff90c18d09717c4743d58bec27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85854869,
+            "region_id":85688567,
+            "venue_id":857354567
+        }
+    ],
+    "wof:id":857354567,
+    "wof:lastmodified":1464127586,
+    "wof:name":"Eastwood Elementary School",
+    "wof:parent_id":85854869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.794865,
+    40.697797,
+    -111.794865,
+    40.697797
+],
+  "geometry": {"coordinates":[-111.794865,40.697797],"type":"Point"}
+}

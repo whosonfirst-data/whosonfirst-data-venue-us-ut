@@ -1,0 +1,73 @@
+{
+  "id": 857159959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.910331,40.59951,-111.910331,40.59951",
+    "geom:latitude":40.59951,
+    "geom:longitude":-111.910331,
+    "iso:country":"US",
+    "sg:address":"8415 S 700 W",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 255 5045",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728051,
+        102082877,
+        85810115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AJPE67g0aoObXanm4jw6T_40.599510_-111.910331@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123344,
+    "wof:geomhash":"9b1903475d6fb6f81fc17ef33eecd810",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85810115,
+            "region_id":85688567,
+            "venue_id":857159959
+        }
+    ],
+    "wof:id":857159959,
+    "wof:lastmodified":1464123344,
+    "wof:name":"Blue Ridge Taxidermy",
+    "wof:parent_id":85810115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxidermist"
+    ]
+},
+  "bbox": [
+    -111.910331,
+    40.59951,
+    -111.910331,
+    40.59951
+],
+  "geometry": {"coordinates":[-111.910331,40.59951],"type":"Point"}
+}

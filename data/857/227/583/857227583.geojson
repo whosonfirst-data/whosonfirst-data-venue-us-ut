@@ -1,0 +1,67 @@
+{
+  "id": 857227583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834756,41.739257,-111.834756,41.739257",
+    "geom:latitude":41.739257,
+    "geom:longitude":-111.834756,
+    "iso:country":"US",
+    "sg:address":"485 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 755 3456",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:website":"www.bridgerland.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vG7ZUf8V5eu38b29EyYSu_41.739257_-111.834756@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124763,
+    "wof:geomhash":"40d71e741466c370e1c2500b50a2d0b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857227583
+        }
+    ],
+    "wof:id":857227583,
+    "wof:lastmodified":1464124763,
+    "wof:name":"United Computer Svc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.834756,
+    41.739257,
+    -111.834756,
+    41.739257
+],
+  "geometry": {"coordinates":[-111.834756,41.739257],"type":"Point"}
+}

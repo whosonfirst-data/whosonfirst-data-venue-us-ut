@@ -1,0 +1,73 @@
+{
+  "id": 857462645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.899793,40.675629,-111.899793,40.675629",
+    "geom:latitude":40.675629,
+    "geom:longitude":-111.899793,
+    "iso:country":"US",
+    "sg:address":"4452 S 300 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 263 9940",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85851609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RJYhnaTcrbU0MxCdhnNmx_40.675629_-111.899793@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130001,
+    "wof:geomhash":"ecbd2f86965da63e24d30973ee75a7bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85851609,
+            "region_id":85688567,
+            "venue_id":857462645
+        }
+    ],
+    "wof:id":857462645,
+    "wof:lastmodified":1464130001,
+    "wof:name":"McDonalds",
+    "wof:parent_id":85851609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.899793,
+    40.675629,
+    -111.899793,
+    40.675629
+],
+  "geometry": {"coordinates":[-111.899793,40.675629],"type":"Point"}
+}

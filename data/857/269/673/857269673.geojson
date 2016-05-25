@@ -1,0 +1,75 @@
+{
+  "id": 857269673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.941663,41.08125,-111.941663,41.08125",
+    "geom:latitude":41.08125,
+    "geom:longitude":-111.941663,
+    "iso:country":"US",
+    "sg:address":"1360 E Cherry Ln",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 543 2879",
+    "sg:postcode":"84040",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mormon",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0b8cI6UhLTDbnnt9gUF30x_41.081250_-111.941663@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125679,
+    "wof:geomhash":"ab4bb0f7a07f4b06cf092c5482ec2d7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857269673
+        }
+    ],
+    "wof:id":857269673,
+    "wof:lastmodified":1464125679,
+    "wof:name":"Layton Twenty-Fifth Ward",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mormon",
+        "church"
+    ]
+},
+  "bbox": [
+    -111.941663,
+    41.08125,
+    -111.941663,
+    41.08125
+],
+  "geometry": {"coordinates":[-111.94166300000001,41.08125],"type":"Point"}
+}

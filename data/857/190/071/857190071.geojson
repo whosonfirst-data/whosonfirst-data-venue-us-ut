@@ -1,0 +1,73 @@
+{
+  "id": 857190071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.002245,40.736276,-112.002245,40.736276",
+    "geom:latitude":40.736276,
+    "geom:longitude":-112.002245,
+    "iso:country":"US",
+    "sg:address":"1991 S 4650 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 257 5800",
+    "sg:postcode":"84104",
+    "sg:province":"UT",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85856293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Yc0s63aXvjDNvz5ZrjKDc_40.736276_-112.002245@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123991,
+    "wof:geomhash":"e788a7d7ede6db63cd717baf4e470f38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85856293,
+            "region_id":85688567,
+            "venue_id":857190071
+        }
+    ],
+    "wof:id":857190071,
+    "wof:lastmodified":1464123991,
+    "wof:name":"Comm Comm",
+    "wof:parent_id":85856293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -112.002245,
+    40.736276,
+    -112.002245,
+    40.736276
+],
+  "geometry": {"coordinates":[-112.002245,40.736276],"type":"Point"}
+}

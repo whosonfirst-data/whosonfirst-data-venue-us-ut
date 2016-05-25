@@ -1,0 +1,71 @@
+{
+  "id": 857264863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.661702,40.31335,-111.661702,40.31335",
+    "geom:latitude":40.31335,
+    "geom:longitude":-111.661702,
+    "iso:country":"US",
+    "sg:address":"1478 E 880 N",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 226 3459",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dgCt2jwfdftBUCntUwNfS_40.313350_-111.661702@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125590,
+    "wof:geomhash":"f6d17c1e669c4f03685df8006ec2aeb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857264863
+        }
+    ],
+    "wof:id":857264863,
+    "wof:lastmodified":1464125590,
+    "wof:name":"Eagle Painting",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.661702,
+    40.31335,
+    -111.661702,
+    40.31335
+],
+  "geometry": {"coordinates":[-111.66170200000001,40.31335],"type":"Point"}
+}

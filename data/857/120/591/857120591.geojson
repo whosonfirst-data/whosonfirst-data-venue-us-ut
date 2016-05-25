@@ -1,0 +1,75 @@
+{
+  "id": 857120591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.842278,40.859623,-111.842278,40.859623",
+    "geom:latitude":40.859623,
+    "geom:longitude":-111.842278,
+    "iso:country":"US",
+    "sg:address":"2881 Cave Hollow Way",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 292 7072",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727881,
+        102083563,
+        85824933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53XVic5nyt8TF5CxTWc3MF_40.859623_-111.842278@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122461,
+    "wof:geomhash":"bb8a058825ef14bbd5e3ebeee6d9cfc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727881,
+            "neighbourhood_id":85824933,
+            "region_id":85688567,
+            "venue_id":857120591
+        }
+    ],
+    "wof:id":857120591,
+    "wof:lastmodified":1464122461,
+    "wof:name":"Harmon Properties Ltd",
+    "wof:parent_id":85824933,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -111.842278,
+    40.859623,
+    -111.842278,
+    40.859623
+],
+  "geometry": {"coordinates":[-111.84227799999999,40.859623],"type":"Point"}
+}

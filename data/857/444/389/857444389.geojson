@@ -1,0 +1,73 @@
+{
+  "id": 857444389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.893875,40.994049,-111.893875,40.994049",
+    "geom:latitude":40.994049,
+    "geom:longitude":-111.893875,
+    "iso:country":"US",
+    "sg:address":"850 Compton Rd",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 1910",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mormon",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uJSYs9BQAc7HXwwRusGcF_40.994049_-111.893875@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129646,
+    "wof:geomhash":"73140f5f5eff706b4c40df4e2084442f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857444389
+        }
+    ],
+    "wof:id":857444389,
+    "wof:lastmodified":1464129646,
+    "wof:name":"Farmington Tenth Ward",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mormon",
+        "church"
+    ]
+},
+  "bbox": [
+    -111.893875,
+    40.994049,
+    -111.893875,
+    40.994049
+],
+  "geometry": {"coordinates":[-111.89387499999999,40.994049],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 857492121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.7007,40.296501,-111.7007,40.296501",
+    "geom:latitude":40.296501,
+    "geom:longitude":-111.7007,
+    "iso:country":"US",
+    "sg:address":"215 W Center St",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/provo-orem/192047-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 802 0299",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85849197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CX8FPHy4wX4v9jmbiju1I_40.296501_-111.700700@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130666,
+    "wof:geomhash":"fad7eb01c1a2017dab0dc93d1d23b3cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85849197,
+            "region_id":85688567,
+            "venue_id":857492121
+        }
+    ],
+    "wof:id":857492121,
+    "wof:lastmodified":1464130666,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85849197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -111.7007,
+    40.296501,
+    -111.7007,
+    40.296501
+],
+  "geometry": {"coordinates":[-111.7007,40.296501],"type":"Point"}
+}

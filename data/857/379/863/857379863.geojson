@@ -1,0 +1,70 @@
+{
+  "id": 857379863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.805444,40.376907,-111.805444,40.376907",
+    "geom:latitude":40.376907,
+    "geom:longitude":-111.805444,
+    "iso:country":"US",
+    "sg:address":"250 W Main St",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 7434",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "loan"
+    ],
+    "sg:website":"www.aspenmtg.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ei3zzRotwxDtjhdO5aFTt_40.376907_-111.805444@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128114,
+    "wof:geomhash":"1d54ce923a6ac57c88abf476e66b4766",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857379863
+        }
+    ],
+    "wof:id":857379863,
+    "wof:lastmodified":1464128114,
+    "wof:name":"Aspen Mortgage",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -111.805444,
+    40.376907,
+    -111.805444,
+    40.376907
+],
+  "geometry": {"coordinates":[-111.80544399999999,40.376907],"type":"Point"}
+}

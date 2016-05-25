@@ -1,0 +1,85 @@
+{
+  "id": 857249299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.818429,40.545111,-111.818429,40.545111",
+    "geom:latitude":40.545111,
+    "geom:longitude":-111.818429,
+    "iso:country":"US",
+    "sg:address":"35 Lone Hollow",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 553 1958",
+    "sg:postcode":"84092",
+    "sg:province":"UT",
+    "sg:tags":[
+        "motion",
+        "picture",
+        "taping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85825243,
+        102082877,
+        102191575,
+        101728077,
+        85812845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LTzUNrP9komFMeMQdDNeB_40.545111_-111.818429@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125228,
+    "wof:geomhash":"f1824030255929e85d56b6960f446f8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85825243,
+            "region_id":85688567,
+            "venue_id":857249299
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85812845,
+            "region_id":85688567,
+            "venue_id":857249299
+        }
+    ],
+    "wof:id":857249299,
+    "wof:lastmodified":1464125228,
+    "wof:name":"Crossman Post Production LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motion",
+        "picture",
+        "taping"
+    ]
+},
+  "bbox": [
+    -111.818429,
+    40.545111,
+    -111.818429,
+    40.545111
+],
+  "geometry": {"coordinates":[-111.81842899999999,40.545111],"type":"Point"}
+}

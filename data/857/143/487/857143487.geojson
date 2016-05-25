@@ -1,0 +1,78 @@
+{
+  "id": 857143487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.965313,41.059085,-111.965313,41.059085",
+    "geom:latitude":41.059085,
+    "geom:longitude":-111.965313,
+    "iso:country":"US",
+    "sg:address":"159 S Main St",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 544 4261",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "furnace"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pfMlXkRksBSKApQu3Z4Ws_41.059085_-111.965313@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122979,
+    "wof:geomhash":"021dff0f172297112c390018385c29f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857143487
+        }
+    ],
+    "wof:id":857143487,
+    "wof:lastmodified":1464122979,
+    "wof:name":"Bill's Comfort Systems",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furnace"
+    ]
+},
+  "bbox": [
+    -111.965313,
+    41.059085,
+    -111.965313,
+    41.059085
+],
+  "geometry": {"coordinates":[-111.96531299999999,41.059085],"type":"Point"}
+}

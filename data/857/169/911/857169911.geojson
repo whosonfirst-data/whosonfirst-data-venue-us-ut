@@ -1,0 +1,71 @@
+{
+  "id": 857169911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.832211,41.733428,-111.832211,41.733428",
+    "geom:latitude":41.733428,
+    "geom:longitude":-111.832211,
+    "iso:country":"US",
+    "sg:address":"138 N 100 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 3294",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4w7xKRyaNbGZox0B6QI81I_41.733428_-111.832211@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123578,
+    "wof:geomhash":"055f815d84112c90b4babad866086d2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857169911
+        }
+    ],
+    "wof:id":857169911,
+    "wof:lastmodified":1464123578,
+    "wof:name":"Sunrise Cyclery Inc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -111.832211,
+    41.733428,
+    -111.832211,
+    41.733428
+],
+  "geometry": {"coordinates":[-111.832211,41.733428],"type":"Point"}
+}

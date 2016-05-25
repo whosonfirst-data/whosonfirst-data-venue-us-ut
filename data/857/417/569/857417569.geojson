@@ -1,0 +1,73 @@
+{
+  "id": 857417569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.900453,40.754194,-111.900453,40.754194",
+    "geom:latitude":40.754194,
+    "geom:longitude":-111.900453,
+    "iso:country":"US",
+    "sg:address":"316 W 700 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 595 6266",
+    "sg:postcode":"84101",
+    "sg:province":"UT",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85821289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pCl4tVT4w0pw3zRYgcmt1_40.754194_-111.900453@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129049,
+    "wof:geomhash":"585324e972ad063b6c9d4580dbb87a94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85821289,
+            "region_id":85688567,
+            "venue_id":857417569
+        }
+    ],
+    "wof:id":857417569,
+    "wof:lastmodified":1464129049,
+    "wof:name":"Starks LC",
+    "wof:parent_id":85821289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -111.900453,
+    40.754194,
+    -111.900453,
+    40.754194
+],
+  "geometry": {"coordinates":[-111.900453,40.754194],"type":"Point"}
+}

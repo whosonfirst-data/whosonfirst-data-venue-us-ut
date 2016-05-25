@@ -1,0 +1,71 @@
+{
+  "id": 857443127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.664286,40.296348,-111.664286,40.296348",
+    "geom:latitude":40.296348,
+    "geom:longitude":-111.664286,
+    "iso:country":"US",
+    "sg:address":"328 W 4650 N",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 343 3500",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "consultant",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NXG5NuCBWKELgFVxM85pw_40.296348_-111.664286@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129624,
+    "wof:geomhash":"7b56f324259d3bd696010140504dde30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857443127
+        }
+    ],
+    "wof:id":857443127,
+    "wof:lastmodified":1464129624,
+    "wof:name":"Forrest Group",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "business"
+    ]
+},
+  "bbox": [
+    -111.664286,
+    40.296348,
+    -111.664286,
+    40.296348
+],
+  "geometry": {"coordinates":[-111.664286,40.296348],"type":"Point"}
+}

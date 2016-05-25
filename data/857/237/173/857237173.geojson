@@ -1,0 +1,71 @@
+{
+  "id": 857237173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.979444,41.704181,-111.979444,41.704181",
+    "geom:latitude":41.704181,
+    "geom:longitude":-111.979444,
+    "iso:country":"US",
+    "sg:address":"214 S 100 W",
+    "sg:city":"Mendon",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 1062",
+    "sg:postcode":"84325",
+    "sg:province":"UT",
+    "sg:tags":[
+        "nurseryman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727555,
+        102082881,
+        85823067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YFnXLWgFjSIlTCgAxJTUG_41.704181_-111.979444@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124948,
+    "wof:geomhash":"881a47ae6b4c993465f5a81372636cab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727555,
+            "neighbourhood_id":85823067,
+            "region_id":85688567,
+            "venue_id":857237173
+        }
+    ],
+    "wof:id":857237173,
+    "wof:lastmodified":1464124948,
+    "wof:name":"Fonnesbeck Greenhouse",
+    "wof:parent_id":85823067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurseryman"
+    ]
+},
+  "bbox": [
+    -111.979444,
+    41.704181,
+    -111.979444,
+    41.704181
+],
+  "geometry": {"coordinates":[-111.979444,41.704181],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857193185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.922615,41.122269,-111.922615,41.122269",
+    "geom:latitude":41.122269,
+    "geom:longitude":-111.922615,
+    "iso:country":"US",
+    "sg:address":"7981 S 2175 E",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 479 6634",
+    "sg:postcode":"84405",
+    "sg:province":"UT",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727911,
+        102083563,
+        85847875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mLaAr8zNFuCv10stWATsW_41.122269_-111.922615@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124045,
+    "wof:geomhash":"77f80f815c3a633ebb46fb242e3f0ddf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727911,
+            "neighbourhood_id":85847875,
+            "region_id":85688567,
+            "venue_id":857193185
+        }
+    ],
+    "wof:id":857193185,
+    "wof:lastmodified":1464124045,
+    "wof:name":"Dennis Waters Construction",
+    "wof:parent_id":85847875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -111.922615,
+    41.122269,
+    -111.922615,
+    41.122269
+],
+  "geometry": {"coordinates":[-111.92261499999999,41.122269],"type":"Point"}
+}

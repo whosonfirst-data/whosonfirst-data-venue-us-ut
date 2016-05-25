@@ -1,0 +1,73 @@
+{
+  "id": 857163611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.801184,41.745735,-111.801184,41.745735",
+    "geom:latitude":41.745735,
+    "geom:longitude":-111.801184,
+    "iso:country":"US",
+    "sg:address":"820 Hillcrest Ave",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 9360",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "wood",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VyiXK0Yi637CMdP7Qwwbd_41.745735_-111.801184@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123434,
+    "wof:geomhash":"0065eb4c66372876886253e93e9d42d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857163611
+        }
+    ],
+    "wof:id":857163611,
+    "wof:lastmodified":1464123434,
+    "wof:name":"John S & Donna J Park",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wood",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.801184,
+    41.745735,
+    -111.801184,
+    41.745735
+],
+  "geometry": {"coordinates":[-111.80118400000001,41.745735],"type":"Point"}
+}

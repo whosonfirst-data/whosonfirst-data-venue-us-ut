@@ -1,0 +1,73 @@
+{
+  "id": 857264559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.846488,41.75029,-111.846488,41.75029",
+    "geom:latitude":41.75029,
+    "geom:longitude":-111.846488,
+    "iso:country":"US",
+    "sg:address":"440 W 1000 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 1862",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iCwRwqPcArZemXhGzlJZL_41.750290_-111.846488@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125585,
+    "wof:geomhash":"45f72a36b6d78792cb4251f99d93fea0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857264559
+        }
+    ],
+    "wof:id":857264559,
+    "wof:lastmodified":1464125585,
+    "wof:name":"Sorenson Design & Development",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.846488,
+    41.75029,
+    -111.846488,
+    41.75029
+],
+  "geometry": {"coordinates":[-111.84648799999999,41.75029],"type":"Point"}
+}

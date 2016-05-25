@@ -1,0 +1,79 @@
+{
+  "id": 857406435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.037632,40.665966,-112.037632,40.665966",
+    "geom:latitude":40.665966,
+    "geom:longitude":-112.037632,
+    "iso:country":"US",
+    "sg:address":"4825 S 6200 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 963 2436",
+    "sg:postcode":"84118",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mfg"
+    ],
+    "sg:website":"www.brodychemical.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85812919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XtoMGNaKjroGc27ZHBsiM_40.665966_-112.037632@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128759,
+    "wof:geomhash":"8c4df161fe3c4b88d2b3a52213c9532a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85812919,
+            "region_id":85688567,
+            "venue_id":857406435
+        }
+    ],
+    "wof:id":857406435,
+    "wof:lastmodified":1464128759,
+    "wof:name":"Brody Chemical Company Inc",
+    "wof:parent_id":85812919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -112.037632,
+    40.665966,
+    -112.037632,
+    40.665966
+],
+  "geometry": {"coordinates":[-112.037632,40.665966],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857406665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.964023,40.646251,-111.964023,40.646251",
+    "geom:latitude":40.646251,
+    "geom:longitude":-111.964023,
+    "iso:country":"US",
+    "sg:address":"5766 Sierra Grande Cir",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 966 7482",
+    "sg:postcode":"84118",
+    "sg:province":"UT",
+    "sg:tags":[
+        "communication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728059,
+        102082877,
+        85848647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24lTuT9PeXfiL7cLbhSbEM_40.646251_-111.964023@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128763,
+    "wof:geomhash":"f6563bccc6f6e8c6aaf5f1721c418f0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728059,
+            "neighbourhood_id":85848647,
+            "region_id":85688567,
+            "venue_id":857406665
+        }
+    ],
+    "wof:id":857406665,
+    "wof:lastmodified":1464128763,
+    "wof:name":"Media Interface",
+    "wof:parent_id":85848647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication"
+    ]
+},
+  "bbox": [
+    -111.964023,
+    40.646251,
+    -111.964023,
+    40.646251
+],
+  "geometry": {"coordinates":[-111.964023,40.646251],"type":"Point"}
+}

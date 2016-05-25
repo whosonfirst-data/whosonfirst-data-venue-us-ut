@@ -1,0 +1,68 @@
+{
+  "id": 857434823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.879665,40.687142,-111.879665,40.687142",
+    "geom:latitude":40.687142,
+    "geom:longitude":-111.879665,
+    "iso:country":"US",
+    "sg:address":"441 E 3900 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 266 8303",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85855091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0z3Rekyy8Ur0Y7dtNhADvo_40.687142_-111.879665@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129463,
+    "wof:geomhash":"73d692290b11958ac843c0b111d429ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85855091,
+            "region_id":85688567,
+            "venue_id":857434823
+        }
+    ],
+    "wof:id":857434823,
+    "wof:lastmodified":1464129463,
+    "wof:name":"Ducksinarow Appraisal Service",
+    "wof:parent_id":85855091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.879665,
+    40.687142,
+    -111.879665,
+    40.687142
+],
+  "geometry": {"coordinates":[-111.879665,40.687142],"type":"Point"}
+}

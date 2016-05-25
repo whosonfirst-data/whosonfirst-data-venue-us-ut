@@ -1,0 +1,75 @@
+{
+  "id": 857302405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.666802,40.233881,-111.666802,40.233881",
+    "geom:latitude":40.233881,
+    "geom:longitude":-111.666802,
+    "iso:country":"US",
+    "sg:address":"444 W Center St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 374 8076",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop",
+        "pawn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6X9QVRXpb6f9dJBcHdxz5e_40.233881_-111.666802@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126463,
+    "wof:geomhash":"78b49f99e4f565fa38b74facf865861c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880065,
+            "region_id":85688567,
+            "venue_id":857302405
+        }
+    ],
+    "wof:id":857302405,
+    "wof:lastmodified":1464126463,
+    "wof:name":"L&M Trade Center & Jewelry",
+    "wof:parent_id":85880065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "pawn"
+    ]
+},
+  "bbox": [
+    -111.666802,
+    40.233881,
+    -111.666802,
+    40.233881
+],
+  "geometry": {"coordinates":[-111.666802,40.233881],"type":"Point"}
+}

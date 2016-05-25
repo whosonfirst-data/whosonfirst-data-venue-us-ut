@@ -1,0 +1,80 @@
+{
+  "id": 857318079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.833415,41.731274,-111.833415,41.731274",
+    "geom:latitude":41.731274,
+    "geom:longitude":-111.833415,
+    "iso:country":"US",
+    "sg:address":"72 E Center St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 7531",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "monument",
+        "merchandise",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NcOnEJgWju8ZChkgWDJYE_41.731274_-111.833415@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126798,
+    "wof:geomhash":"78694b30a305d34841d8237a8c246449",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857318079
+        }
+    ],
+    "wof:id":857318079,
+    "wof:lastmodified":1464126798,
+    "wof:name":"Logan Memorials Co",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monument",
+        "merchandise",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.833415,
+    41.731274,
+    -111.833415,
+    41.731274
+],
+  "geometry": {"coordinates":[-111.833415,41.731274],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 857317983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.632658,40.21106,-111.632658,40.21106",
+    "geom:latitude":40.21106,
+    "geom:longitude":-111.632658,
+    "iso:country":"US",
+    "sg:address":"1444 S State St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 356 1773",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GIp5NPkVPktvPmW5fhwS6_40.211060_-111.632658@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126796,
+    "wof:geomhash":"b9e53b01cd4a4e521d8bea4a3524040e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880069,
+            "region_id":85688567,
+            "venue_id":857317983
+        }
+    ],
+    "wof:id":857317983,
+    "wof:lastmodified":1464126796,
+    "wof:name":"Bob's Autobody & Paint",
+    "wof:parent_id":85880069,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -111.632658,
+    40.21106,
+    -111.632658,
+    40.21106
+],
+  "geometry": {"coordinates":[-111.63265800000001,40.21106],"type":"Point"}
+}

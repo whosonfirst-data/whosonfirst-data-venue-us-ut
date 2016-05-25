@@ -1,0 +1,73 @@
+{
+  "id": 857086651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.646133,40.118266,-111.646133,40.118266",
+    "geom:latitude":40.118266,
+    "geom:longitude":-111.646133,
+    "iso:country":"US",
+    "sg:address":"645 N 500 E",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 9038",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2A1z8mHILy3zaNN6VieqgG_40.118266_-111.646133@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121574,
+    "wof:geomhash":"95a95442ebbca0e214d7a8fe81d115cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857086651
+        }
+    ],
+    "wof:id":857086651,
+    "wof:lastmodified":1464121574,
+    "wof:name":"Peterson Landscaping Inc",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.646133,
+    40.118266,
+    -111.646133,
+    40.118266
+],
+  "geometry": {"coordinates":[-111.64613300000001,40.118266],"type":"Point"}
+}

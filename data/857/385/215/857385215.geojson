@@ -1,0 +1,73 @@
+{
+  "id": 857385215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.895916,40.58732,-111.895916,40.58732",
+    "geom:latitude":40.58732,
+    "geom:longitude":-111.895916,
+    "iso:country":"US",
+    "sg:address":"9065 S 150 W",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 566 9248",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85803467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6I1xWVe2KsmZVBovY2Qu4e_40.587320_-111.895916@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128280,
+    "wof:geomhash":"2fe48f8088647d4d19a5098c0e20f635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85803467,
+            "region_id":85688567,
+            "venue_id":857385215
+        }
+    ],
+    "wof:id":857385215,
+    "wof:lastmodified":1464128280,
+    "wof:name":"Green Room At Club 90",
+    "wof:parent_id":85803467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.895916,
+    40.58732,
+    -111.895916,
+    40.58732
+],
+  "geometry": {"coordinates":[-111.895916,40.58732],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857325635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.017054,41.219517,-112.017054,41.219517",
+    "geom:latitude":41.219517,
+    "geom:longitude":-112.017054,
+    "iso:country":"US",
+    "sg:address":"1575 W 2550 S",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 621 5000",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mater",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85818351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4k4zAeK9ef1WUz5qw0L74Y_41.219517_-112.017054@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126962,
+    "wof:geomhash":"39926bc8f7a90d6064917759ba73a695",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85818351,
+            "region_id":85688567,
+            "venue_id":857325635
+        }
+    ],
+    "wof:id":857325635,
+    "wof:lastmodified":1464126962,
+    "wof:name":"Masco",
+    "wof:parent_id":85818351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mater",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -112.017054,
+    41.219517,
+    -112.017054,
+    41.219517
+],
+  "geometry": {"coordinates":[-112.017054,41.219517],"type":"Point"}
+}

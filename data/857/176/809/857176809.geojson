@@ -1,0 +1,71 @@
+{
+  "id": 857176809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.927141,41.034897,-111.927141,41.034897",
+    "geom:latitude":41.034897,
+    "geom:longitude":-111.927141,
+    "iso:country":"US",
+    "sg:address":"90 N 500 E",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 544 9447",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "investment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FeDzrhiGzSvZOJIeYAyc6_41.034897_-111.927141@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123729,
+    "wof:geomhash":"01bf6bcdf0cbebfadf6c2c637d0ec20b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857176809
+        }
+    ],
+    "wof:id":857176809,
+    "wof:lastmodified":1464123729,
+    "wof:name":"Whicker Investments LLC",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investment"
+    ]
+},
+  "bbox": [
+    -111.927141,
+    41.034897,
+    -111.927141,
+    41.034897
+],
+  "geometry": {"coordinates":[-111.92714100000001,41.034897],"type":"Point"}
+}

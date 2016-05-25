@@ -1,0 +1,74 @@
+{
+  "id": 857493741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.835298,41.718357,-111.835298,41.718357",
+    "geom:latitude":41.718357,
+    "geom:longitude":-111.835298,
+    "iso:country":"US",
+    "sg:address":"880 S Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/logan/38282-royal-express/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 755 6542",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "asian",
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_736tptHoFxEdDsLMHdrGYX_41.718357_-111.835298@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130722,
+    "wof:geomhash":"c49248ffab3060031592c948339b4b98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857493741
+        }
+    ],
+    "wof:id":857493741,
+    "wof:lastmodified":1464130722,
+    "wof:name":"Royal Express",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asian",
+        "chinese"
+    ]
+},
+  "bbox": [
+    -111.835298,
+    41.718357,
+    -111.835298,
+    41.718357
+],
+  "geometry": {"coordinates":[-111.83529799999999,41.718357],"type":"Point"}
+}

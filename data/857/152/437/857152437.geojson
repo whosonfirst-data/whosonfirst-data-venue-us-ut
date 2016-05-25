@@ -1,0 +1,73 @@
+{
+  "id": 857152437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.794549,40.707161,-111.794549,40.707161",
+    "geom:latitude":40.707161,
+    "geom:longitude":-111.794549,
+    "iso:country":"US",
+    "sg:address":"3570 Warr Rd",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 808 4632",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728257,
+        102082877,
+        85854869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wTKyMymErPHmrpQ247lSK_40.707161_-111.794549@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123194,
+    "wof:geomhash":"77d79fa30caf3baeac80cf53a8d557d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85854869,
+            "region_id":85688567,
+            "venue_id":857152437
+        }
+    ],
+    "wof:id":857152437,
+    "wof:lastmodified":1464123194,
+    "wof:name":"Fdi Products",
+    "wof:parent_id":85854869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.794549,
+    40.707161,
+    -111.794549,
+    40.707161
+],
+  "geometry": {"coordinates":[-111.794549,40.707161],"type":"Point"}
+}

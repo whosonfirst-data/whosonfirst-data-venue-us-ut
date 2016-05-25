@@ -1,0 +1,69 @@
+{
+  "id": 857181743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.863728,40.665798,-111.863728,40.665798",
+    "geom:latitude":40.665798,
+    "geom:longitude":-111.863728,
+    "iso:country":"US",
+    "sg:address":"1079 Murray Holladay Rd",
+    "sg:city":"Holladay",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 270 8606",
+    "sg:postcode":"84117",
+    "sg:province":"UT",
+    "sg:tags":[
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85826429,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dlUbj7GHDc74L0DHQMiTK_40.665798_-111.863728@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123830,
+    "wof:geomhash":"64d3274c15ad235a9c717d52a1681e2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85826429,
+            "region_id":85688567,
+            "venue_id":857181743
+        }
+    ],
+    "wof:id":857181743,
+    "wof:lastmodified":1464123830,
+    "wof:name":"Craig Kitterman & Associates",
+    "wof:parent_id":85826429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architectural"
+    ]
+},
+  "bbox": [
+    -111.863728,
+    40.665798,
+    -111.863728,
+    40.665798
+],
+  "geometry": {"coordinates":[-111.86372799999999,40.665798],"type":"Point"}
+}

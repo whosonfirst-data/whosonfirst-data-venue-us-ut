@@ -1,0 +1,71 @@
+{
+  "id": 857337719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.654852,40.109282,-111.654852,40.109282",
+    "geom:latitude":40.109282,
+    "geom:longitude":-111.654852,
+    "iso:country":"US",
+    "sg:address":"40 S Main St",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 5000",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Tq7XBjwV6gBbU9XiBkVWm_40.109282_-111.654852@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127226,
+    "wof:geomhash":"3e38b13608d0b9abf2075c455fa6e91e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857337719
+        }
+    ],
+    "wof:id":857337719,
+    "wof:lastmodified":1464127226,
+    "wof:name":"Power & Light",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -111.654852,
+    40.109282,
+    -111.654852,
+    40.109282
+],
+  "geometry": {"coordinates":[-111.65485200000001,40.109282],"type":"Point"}
+}

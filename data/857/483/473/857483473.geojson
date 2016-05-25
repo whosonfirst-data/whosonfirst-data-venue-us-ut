@@ -1,0 +1,73 @@
+{
+  "id": 857483473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.895221,40.837367,-111.895221,40.837367",
+    "geom:latitude":40.837367,
+    "geom:longitude":-111.895221,
+    "iso:country":"US",
+    "sg:address":"222 Liberty Rd",
+    "sg:city":"North Salt Lake",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 936 6027",
+    "sg:postcode":"84054",
+    "sg:province":"UT",
+    "sg:tags":[
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727895,
+        102083563,
+        85839735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27xcTZKHS857KGBFdGFYz0_40.837367_-111.895221@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130436,
+    "wof:geomhash":"804b0840fd155ceaf113f4629b88164c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727895,
+            "neighbourhood_id":85839735,
+            "region_id":85688567,
+            "venue_id":857483473
+        }
+    ],
+    "wof:id":857483473,
+    "wof:lastmodified":1464130436,
+    "wof:name":"Paramount Construction",
+    "wof:parent_id":85839735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial"
+    ]
+},
+  "bbox": [
+    -111.895221,
+    40.837367,
+    -111.895221,
+    40.837367
+],
+  "geometry": {"coordinates":[-111.89522100000001,40.837367],"type":"Point"}
+}

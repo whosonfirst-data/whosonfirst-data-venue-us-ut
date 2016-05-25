@@ -1,0 +1,71 @@
+{
+  "id": 857117939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.673219,40.054534,-111.673219,40.054534",
+    "geom:latitude":40.054534,
+    "geom:longitude":-111.673219,
+    "iso:country":"US",
+    "sg:address":"10 E Center St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 423 2133",
+    "sg:postcode":"84653",
+    "sg:province":"UT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DkWeh0A2yo5xur539aQBP_40.054534_-111.673219@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122409,
+    "wof:geomhash":"d63d8a6c5192dd01d46cc964d6b863d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857117939
+        }
+    ],
+    "wof:id":857117939,
+    "wof:lastmodified":1464122409,
+    "wof:name":"Centro De La Familia",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -111.673219,
+    40.054534,
+    -111.673219,
+    40.054534
+],
+  "geometry": {"coordinates":[-111.673219,40.054534],"type":"Point"}
+}

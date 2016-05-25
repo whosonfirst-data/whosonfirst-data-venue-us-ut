@@ -1,0 +1,73 @@
+{
+  "id": 857442911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.87899,40.70433,-111.87899,40.70433",
+    "geom:latitude":40.70433,
+    "geom:longitude":-111.87899,
+    "iso:country":"US",
+    "sg:address":"418 Front Ave",
+    "sg:city":"South Salt Lake",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 484 6531",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85854999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IJC0eoxBLm8Br5YSjlRAT_40.704330_-111.878990@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129621,
+    "wof:geomhash":"9e0e28b7c6ba5d7b6354ef3d0e87428e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85854999,
+            "region_id":85688567,
+            "venue_id":857442911
+        }
+    ],
+    "wof:id":857442911,
+    "wof:lastmodified":1464129621,
+    "wof:name":"St Mark's Millcreek",
+    "wof:parent_id":85854999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -111.87899,
+    40.70433,
+    -111.87899,
+    40.70433
+],
+  "geometry": {"coordinates":[-111.87899,40.70433],"type":"Point"}
+}

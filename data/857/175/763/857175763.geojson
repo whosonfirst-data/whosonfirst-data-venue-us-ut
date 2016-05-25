@@ -1,0 +1,73 @@
+{
+  "id": 857175763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.676442,40.044647,-111.676442,40.044647",
+    "geom:latitude":40.044647,
+    "geom:longitude":-111.676442,
+    "iso:country":"US",
+    "sg:address":"167 W Aspen Way",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 423 1445",
+    "sg:postcode":"84653",
+    "sg:province":"UT",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_268A3C7zsfpLOc9XxxHysZ_40.044647_-111.676442@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123707,
+    "wof:geomhash":"b19ea408fb6200be71fe104d8ecc5352",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857175763
+        }
+    ],
+    "wof:id":857175763,
+    "wof:lastmodified":1464123707,
+    "wof:name":"Neways Independent Distributor",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -111.676442,
+    40.044647,
+    -111.676442,
+    40.044647
+],
+  "geometry": {"coordinates":[-111.67644199999999,40.044647],"type":"Point"}
+}

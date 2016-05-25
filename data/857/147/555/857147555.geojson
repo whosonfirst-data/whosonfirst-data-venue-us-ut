@@ -1,0 +1,73 @@
+{
+  "id": 857147555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.63724,40.120187,-111.63724,40.120187",
+    "geom:latitude":40.120187,
+    "geom:longitude":-111.63724,
+    "iso:country":"US",
+    "sg:address":"989 E 800 N",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 794 0800",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wJ6gm6b6KYebThTBSBTl3_40.120187_-111.637240@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123090,
+    "wof:geomhash":"bd631cf85d8349678fa240f499bc51d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857147555
+        }
+    ],
+    "wof:id":857147555,
+    "wof:lastmodified":1464123090,
+    "wof:name":"All Tune & Lube Spanish Fork",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -111.63724,
+    40.120187,
+    -111.63724,
+    40.120187
+],
+  "geometry": {"coordinates":[-111.63724000000001,40.120187],"type":"Point"}
+}

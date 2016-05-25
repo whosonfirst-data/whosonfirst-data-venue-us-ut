@@ -1,0 +1,69 @@
+{
+  "id": 857395345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.950938,41.102793,-111.950938,41.102793",
+    "geom:latitude":41.102793,
+    "geom:longitude":-111.950938,
+    "iso:country":"US",
+    "sg:address":"803 State Hwy 193",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 776 8872",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "nurseryman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85844663,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nNh1ehYB6n18D6nyKJVRM_41.102793_-111.950938@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128533,
+    "wof:geomhash":"4362b81fd0a7aa48a9cd0d2964d42f70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "neighbourhood_id":85844663,
+            "region_id":85688567,
+            "venue_id":857395345
+        }
+    ],
+    "wof:id":857395345,
+    "wof:lastmodified":1464128533,
+    "wof:name":"Porter Lane Nursery",
+    "wof:parent_id":85844663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurseryman"
+    ]
+},
+  "bbox": [
+    -111.950938,
+    41.102793,
+    -111.950938,
+    41.102793
+],
+  "geometry": {"coordinates":[-111.95093799999999,41.102793],"type":"Point"}
+}

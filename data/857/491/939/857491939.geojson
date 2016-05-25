@@ -1,0 +1,72 @@
+{
+  "id": 857491939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.836121,40.387783,-111.836121,40.387783",
+    "geom:latitude":40.387783,
+    "geom:longitude":-111.836121,
+    "iso:country":"US",
+    "sg:address":"48 S 850 E",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/lehi/212902-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 766 0701",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qoFA5MuJ8pRU9yyXuixkY_40.387783_-111.836121@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130659,
+    "wof:geomhash":"29b1434713f9396845c9ac30f1792b65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857491939
+        }
+    ],
+    "wof:id":857491939,
+    "wof:lastmodified":1464130659,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -111.836121,
+    40.387783,
+    -111.836121,
+    40.387783
+],
+  "geometry": {"coordinates":[-111.83612100000001,40.387783],"type":"Point"}
+}

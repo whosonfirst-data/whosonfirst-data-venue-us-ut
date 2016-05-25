@@ -1,0 +1,75 @@
+{
+  "id": 857170149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.979315,41.204759,-111.979315,41.204759",
+    "geom:latitude":41.204759,
+    "geom:longitude":-111.979315,
+    "iso:country":"US",
+    "sg:address":"3249 Wall Ave",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 392 3221",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85810249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TSp4EptHWpHYzWp4vk2V5_41.204759_-111.979315@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123588,
+    "wof:geomhash":"8452dd9e46691d6539c8dffc52e6546d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85810249,
+            "region_id":85688567,
+            "venue_id":857170149
+        }
+    ],
+    "wof:id":857170149,
+    "wof:lastmodified":1464123588,
+    "wof:name":"Practical Rental Car",
+    "wof:parent_id":85810249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -111.979315,
+    41.204759,
+    -111.979315,
+    41.204759
+],
+  "geometry": {"coordinates":[-111.979315,41.204759],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857105999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.739605,40.043545,-111.739605,40.043545",
+    "geom:latitude":40.043545,
+    "geom:longitude":-111.739605,
+    "iso:country":"US",
+    "sg:address":"439 W Utah Ave",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 5230",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "city",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XtO4dkjQ3LOItjQgbv3LF_40.043545_-111.739605@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122049,
+    "wof:geomhash":"72b291b3cf265e1832ff4a2cb90e8fbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857105999
+        }
+    ],
+    "wof:id":857105999,
+    "wof:lastmodified":1464122049,
+    "wof:name":"Payson Solid Waste Dept",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "program"
+    ]
+},
+  "bbox": [
+    -111.739605,
+    40.043545,
+    -111.739605,
+    40.043545
+],
+  "geometry": {"coordinates":[-111.739605,40.043545],"type":"Point"}
+}

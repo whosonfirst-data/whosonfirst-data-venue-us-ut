@@ -1,0 +1,77 @@
+{
+  "id": 857432453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.842915,41.72354,-111.842915,41.72354",
+    "geom:latitude":41.72354,
+    "geom:longitude":-111.842915,
+    "iso:country":"US",
+    "sg:address":"430 S 300 W",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 787 1902",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "development",
+        "gas",
+        "oil",
+        "exploration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DgoxXl3CftoX0cAM6WaOg_41.723540_-111.842915@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129411,
+    "wof:geomhash":"b838aa1eae02767fec873ed357d09788",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857432453
+        }
+    ],
+    "wof:id":857432453,
+    "wof:lastmodified":1464129411,
+    "wof:name":"Questar Gas Co",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "gas",
+        "oil",
+        "exploration"
+    ]
+},
+  "bbox": [
+    -111.842915,
+    41.72354,
+    -111.842915,
+    41.72354
+],
+  "geometry": {"coordinates":[-111.842915,41.72354],"type":"Point"}
+}

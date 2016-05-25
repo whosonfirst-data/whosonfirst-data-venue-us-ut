@@ -1,0 +1,73 @@
+{
+  "id": 857198703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.666384,40.05463,-111.666384,40.05463",
+    "geom:latitude":40.05463,
+    "geom:longitude":-111.666384,
+    "iso:country":"US",
+    "sg:address":"365 E Center St",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 423 2912",
+    "sg:postcode":"84653",
+    "sg:province":"UT",
+    "sg:tags":[
+        "lithographic",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3U936C6vbnCHSapJEaiv8E_40.054630_-111.666384@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124153,
+    "wof:geomhash":"3e311163482a78c78f077086fa2b5b03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857198703
+        }
+    ],
+    "wof:id":857198703,
+    "wof:lastmodified":1464124153,
+    "wof:name":"Wild Hare Printing Company",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lithographic",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -111.666384,
+    40.05463,
+    -111.666384,
+    40.05463
+],
+  "geometry": {"coordinates":[-111.66638399999999,40.05463],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857248999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.896469,40.592271,-111.896469,40.592271",
+    "geom:latitude":40.592271,
+    "geom:longitude":-111.896469,
+    "iso:country":"US",
+    "sg:address":"170 Cottage Ave",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 233 0371",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85803467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ADHAzIzPSV8VUWjAhdAGK_40.592271_-111.896469@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125222,
+    "wof:geomhash":"7eb3919d08be2f261af6950ea68ec682",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85803467,
+            "region_id":85688567,
+            "venue_id":857248999
+        }
+    ],
+    "wof:id":857248999,
+    "wof:lastmodified":1464125222,
+    "wof:name":"Rent-A-Center",
+    "wof:parent_id":85803467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard"
+    ]
+},
+  "bbox": [
+    -111.896469,
+    40.592271,
+    -111.896469,
+    40.592271
+],
+  "geometry": {"coordinates":[-111.896469,40.592271],"type":"Point"}
+}

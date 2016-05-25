@@ -1,0 +1,68 @@
+{
+  "id": 857320735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.968716,41.306868,-111.968716,41.306868",
+    "geom:latitude":41.306868,
+    "geom:longitude":-111.968716,
+    "iso:country":"US",
+    "sg:address":"2645 N 400 E",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 782 6116",
+    "sg:postcode":"84414",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728025,
+        102083539,
+        85837881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aANrk8MHunW87QSimgjbi_41.306868_-111.968716@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126864,
+    "wof:geomhash":"d418aded1e68903a3a9eb0d3c45b359c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728025,
+            "neighbourhood_id":85837881,
+            "region_id":85688567,
+            "venue_id":857320735
+        }
+    ],
+    "wof:id":857320735,
+    "wof:lastmodified":1464126864,
+    "wof:name":"Acres Market Pharmacy",
+    "wof:parent_id":85837881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.968716,
+    41.306868,
+    -111.968716,
+    41.306868
+],
+  "geometry": {"coordinates":[-111.968716,41.306868],"type":"Point"}
+}

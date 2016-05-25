@@ -1,0 +1,75 @@
+{
+  "id": 857098283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.667552,40.226018,-111.667552,40.226018",
+    "geom:latitude":40.226018,
+    "geom:longitude":-111.667552,
+    "iso:country":"US",
+    "sg:address":"514 S 500 W",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 377 3699",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "trailer",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oZPtq5AvRSikxUp1eT6Uu_40.226018_-111.667552@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121864,
+    "wof:geomhash":"d541b6be84ed19c1f844b1e34cc099a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880075,
+            "region_id":85688567,
+            "venue_id":857098283
+        }
+    ],
+    "wof:id":857098283,
+    "wof:lastmodified":1464121864,
+    "wof:name":"Rent A Toy Inc",
+    "wof:parent_id":85880075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer",
+        "utility"
+    ]
+},
+  "bbox": [
+    -111.667552,
+    40.226018,
+    -111.667552,
+    40.226018
+],
+  "geometry": {"coordinates":[-111.667552,40.226018],"type":"Point"}
+}

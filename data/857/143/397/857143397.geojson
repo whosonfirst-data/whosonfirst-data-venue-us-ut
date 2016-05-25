@@ -1,0 +1,73 @@
+{
+  "id": 857143397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.597886,40.128838,-111.597886,40.128838",
+    "geom:latitude":40.128838,
+    "geom:longitude":-111.597886,
+    "iso:country":"US",
+    "sg:address":"340 S 1600 W",
+    "sg:city":"Mapleton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 489 9447",
+    "sg:postcode":"84664",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nRe03YrcooOycChMP9SWk_40.128838_-111.597886@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122974,
+    "wof:geomhash":"8ae9cdec41e016ed17cceb319a32816e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857143397
+        }
+    ],
+    "wof:id":857143397,
+    "wof:lastmodified":1464122974,
+    "wof:name":"Western Quality Concrete Inc",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.597886,
+    40.128838,
+    -111.597886,
+    40.128838
+],
+  "geometry": {"coordinates":[-111.597886,40.128838],"type":"Point"}
+}

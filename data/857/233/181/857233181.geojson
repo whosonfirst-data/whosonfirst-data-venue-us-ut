@@ -1,0 +1,71 @@
+{
+  "id": 857233181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.832725,41.761268,-111.832725,41.761268",
+    "geom:latitude":41.761268,
+    "geom:longitude":-111.832725,
+    "iso:country":"US",
+    "sg:address":"181 E 1600 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 750 6233",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VCCnR9oDWPTBGVpjtuK6u_41.761268_-111.832725@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124864,
+    "wof:geomhash":"773bd7d256e7b93abcecc85915e237f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857233181
+        }
+    ],
+    "wof:id":857233181,
+    "wof:lastmodified":1464124864,
+    "wof:name":"Vanderbeek & Vanderbeek",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -111.832725,
+    41.761268,
+    -111.832725,
+    41.761268
+],
+  "geometry": {"coordinates":[-111.832725,41.761268],"type":"Point"}
+}

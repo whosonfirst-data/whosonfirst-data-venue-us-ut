@@ -1,0 +1,73 @@
+{
+  "id": 857435317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.900768,40.579809,-111.900768,40.579809",
+    "geom:latitude":40.579809,
+    "geom:longitude":-111.900768,
+    "iso:country":"US",
+    "sg:address":"9750 S 300 W",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Junior College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 957 3717",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85818097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AWwKq2JTUnZ0xopiTUQuW_40.579809_-111.900768@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129473,
+    "wof:geomhash":"63a74849f4de203b19e04e06d5890162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85818097,
+            "region_id":85688567,
+            "venue_id":857435317
+        }
+    ],
+    "wof:id":857435317,
+    "wof:lastmodified":1464129473,
+    "wof:name":"Salt Lake Community College",
+    "wof:parent_id":85818097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "community"
+    ]
+},
+  "bbox": [
+    -111.900768,
+    40.579809,
+    -111.900768,
+    40.579809
+],
+  "geometry": {"coordinates":[-111.900768,40.579809],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857439725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.793477,40.631745,-111.793477,40.631745",
+    "geom:latitude":40.631745,
+    "geom:longitude":-111.793477,
+    "iso:country":"US",
+    "sg:address":"6531 E Canyon Cove Dr",
+    "sg:city":"Holladay",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 272 1445",
+    "sg:postcode":"84121",
+    "sg:province":"UT",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85824735,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZFjjBXTwftNbslYKMq14O_40.631745_-111.793477@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129565,
+    "wof:geomhash":"1625934777da32efba59c898c61a5239",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85824735,
+            "region_id":85688567,
+            "venue_id":857439725
+        }
+    ],
+    "wof:id":857439725,
+    "wof:lastmodified":1464129565,
+    "wof:name":"Acme Publishing Inc",
+    "wof:parent_id":85824735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -111.793477,
+    40.631745,
+    -111.793477,
+    40.631745
+],
+  "geometry": {"coordinates":[-111.793477,40.631745],"type":"Point"}
+}

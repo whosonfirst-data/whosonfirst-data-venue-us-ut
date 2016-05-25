@@ -1,0 +1,76 @@
+{
+  "id": 857441015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.8911,40.773602,-111.8911,40.773602",
+    "geom:latitude":40.773602,
+    "geom:longitude":-111.8911,
+    "iso:country":"US",
+    "sg:address":"150 N Main St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 363 4000",
+    "sg:postcode":"84103",
+    "sg:province":"UT",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "sg:website":"www.thekimball.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85809381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4e33IjN0reM6foS5cHbxQr_40.773602_-111.891100@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129586,
+    "wof:geomhash":"be155d3e48108ef5e8f321897a56193f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85809381,
+            "region_id":85688567,
+            "venue_id":857441015
+        }
+    ],
+    "wof:id":857441015,
+    "wof:lastmodified":1464129586,
+    "wof:name":"Kimball Condominium Owners",
+    "wof:parent_id":85809381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [
+    -111.8911,
+    40.773602,
+    -111.8911,
+    40.773602
+],
+  "geometry": {"coordinates":[-111.89109999999999,40.773602],"type":"Point"}
+}

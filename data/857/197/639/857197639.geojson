@@ -1,0 +1,75 @@
+{
+  "id": 857197639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.728976,40.297065,-111.728976,40.297065",
+    "geom:latitude":40.297065,
+    "geom:longitude":-111.728976,
+    "iso:country":"US",
+    "sg:address":"1459 W Center St",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 225 8835",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "motion",
+        "distribution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727827,
+        102083567,
+        85821287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3njakWpFFbWYKBWITxi80W_40.297065_-111.728976@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124130,
+    "wof:geomhash":"215e820ccdd820cd28ef61d37a5e0011",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727827,
+            "neighbourhood_id":85821287,
+            "region_id":85688567,
+            "venue_id":857197639
+        }
+    ],
+    "wof:id":857197639,
+    "wof:lastmodified":1464124130,
+    "wof:name":"Carlisle Exchange",
+    "wof:parent_id":85821287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motion",
+        "distribution"
+    ]
+},
+  "bbox": [
+    -111.728976,
+    40.297065,
+    -111.728976,
+    40.297065
+],
+  "geometry": {"coordinates":[-111.728976,40.297065],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857105063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.84985,41.728119,-111.84985,41.728119",
+    "geom:latitude":41.728119,
+    "geom:longitude":-111.84985,
+    "iso:country":"US",
+    "sg:address":"180 S 600 W",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 787 8467",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PTaYqiKvn6uYwNHdZ2yVD_41.728119_-111.849850@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122027,
+    "wof:geomhash":"7b1ffb8f387655b3f2b9f61faf0c2ec5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857105063
+        }
+    ],
+    "wof:id":857105063,
+    "wof:lastmodified":1464122027,
+    "wof:name":"Goble E Marlowe MD",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -111.84985,
+    41.728119,
+    -111.84985,
+    41.728119
+],
+  "geometry": {"coordinates":[-111.84985,41.728119],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857163593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.95965,40.587828,-111.95965,40.587828",
+    "geom:latitude":40.587828,
+    "geom:longitude":-111.95965,
+    "iso:country":"US",
+    "sg:address":"2780 W 9000 S",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 568 3210",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85854601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6i6F1UaklqcKzQxp6X7I7r_40.587828_-111.959650@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123434,
+    "wof:geomhash":"76296fa0302af903cb89517537203ce5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85854601,
+            "region_id":85688567,
+            "venue_id":857163593
+        }
+    ],
+    "wof:id":857163593,
+    "wof:lastmodified":1464123434,
+    "wof:name":"Bobs Home Owner Service",
+    "wof:parent_id":85854601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.95965,
+    40.587828,
+    -111.95965,
+    40.587828
+],
+  "geometry": {"coordinates":[-111.95965,40.587828],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857494547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.566326,37.109789,-113.566326,37.109789",
+    "geom:latitude":37.109789,
+    "geom:longitude":-113.566326,
+    "iso:country":"US",
+    "sg:address":"798 E Saint George Blvd",
+    "sg:city":"Saint George",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/st-george/212960-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 673 5938",
+    "sg:postcode":"84770",
+    "sg:province":"UT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1l1HD78yzvdtvdS6KI4ZOy_37.109789_-113.566326@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130752,
+    "wof:geomhash":"678c43be55322f80c5b89d3334a632c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857494547
+        }
+    ],
+    "wof:id":857494547,
+    "wof:lastmodified":1464130752,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -113.566326,
+    37.109789,
+    -113.566326,
+    37.109789
+],
+  "geometry": {"coordinates":[-113.566326,37.109789],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857123007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.856848,40.731763,-111.856848,40.731763",
+    "geom:latitude":40.731763,
+    "geom:longitude":-111.856848,
+    "iso:country":"US",
+    "sg:address":"1161 Wilson Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 918 4673",
+    "sg:postcode":"84105",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85857821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4l4NgUdPS1EfwZBTubz6PK_40.731763_-111.856848@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122530,
+    "wof:geomhash":"cb13358abb1d02cf3b34425ae65dd053",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85857821,
+            "region_id":85688567,
+            "venue_id":857123007
+        }
+    ],
+    "wof:id":857123007,
+    "wof:lastmodified":1464122530,
+    "wof:name":"Tupperties LLC",
+    "wof:parent_id":85857821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.856848,
+    40.731763,
+    -111.856848,
+    40.731763
+],
+  "geometry": {"coordinates":[-111.856848,40.731763],"type":"Point"}
+}

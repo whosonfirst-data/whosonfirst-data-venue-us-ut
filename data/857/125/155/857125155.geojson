@@ -1,0 +1,78 @@
+{
+  "id": 857125155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.810191,40.700857,-111.810191,40.700857",
+    "geom:latitude":40.700857,
+    "geom:longitude":-111.810191,
+    "iso:country":"US",
+    "sg:address":"3210 S 2900 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 466 3132",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "system",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728257,
+        102082877,
+        85854869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rTLETxv7SEA4pGuLMtjBV_40.700857_-111.810191@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122572,
+    "wof:geomhash":"f488f10b5cb256d395516ce1dc62e7e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85854869,
+            "region_id":85688567,
+            "venue_id":857125155
+        }
+    ],
+    "wof:id":857125155,
+    "wof:lastmodified":1464122572,
+    "wof:name":"Designer Media Systems Inc",
+    "wof:parent_id":85854869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -111.810191,
+    40.700857,
+    -111.810191,
+    40.700857
+],
+  "geometry": {"coordinates":[-111.810191,40.700857],"type":"Point"}
+}

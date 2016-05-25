@@ -1,0 +1,73 @@
+{
+  "id": 857343497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.882567,40.752001,-111.882567,40.752001",
+    "geom:latitude":40.752001,
+    "geom:longitude":-111.882567,
+    "iso:country":"US",
+    "sg:address":"702 S 300 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 364 4888",
+    "sg:postcode":"84111",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85867259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51XhRQ0LxUPD8faUmqGwRd_40.752001_-111.882567@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127344,
+    "wof:geomhash":"33b7a7fbd2a3f2004c0e6188f7db233e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85867259,
+            "region_id":85688567,
+            "venue_id":857343497
+        }
+    ],
+    "wof:id":857343497,
+    "wof:lastmodified":1464127344,
+    "wof:name":"KOKO Kitchen",
+    "wof:parent_id":85867259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.882567,
+    40.752001,
+    -111.882567,
+    40.752001
+],
+  "geometry": {"coordinates":[-111.88256699999999,40.752001],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857179119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.900795,40.71955,-111.900795,40.71955",
+    "geom:latitude":40.71955,
+    "geom:longitude":-111.900795,
+    "iso:country":"US",
+    "sg:address":"449 W Bearcat Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 485 7961",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repair",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85846407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6J0NVN2X7op6dZX17lcGdg_40.719550_-111.900795@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123777,
+    "wof:geomhash":"6e0bfc76769400ae8fb534311499558a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85846407,
+            "region_id":85688567,
+            "venue_id":857179119
+        }
+    ],
+    "wof:id":857179119,
+    "wof:lastmodified":1464123777,
+    "wof:name":"Decisionone",
+    "wof:parent_id":85846407,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -111.900795,
+    40.71955,
+    -111.900795,
+    40.71955
+],
+  "geometry": {"coordinates":[-111.900795,40.71955],"type":"Point"}
+}

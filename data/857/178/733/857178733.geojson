@@ -1,0 +1,74 @@
+{
+  "id": 857178733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.006965,41.061813,-112.006965,41.061813",
+    "geom:latitude":41.061813,
+    "geom:longitude":-112.006965,
+    "iso:country":"US",
+    "sg:address":"530 N 2200 W",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 546 8555",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.laytoncity.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QaV8zqsTleDxocesdUQw9_41.061813_-112.006965@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123768,
+    "wof:geomhash":"bb4bae621607da0c107db8167d030611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857178733
+        }
+    ],
+    "wof:id":857178733,
+    "wof:lastmodified":1464123768,
+    "wof:name":"Layton Fire Dept",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -112.006965,
+    41.061813,
+    -112.006965,
+    41.061813
+],
+  "geometry": {"coordinates":[-112.00696499999999,41.061813],"type":"Point"}
+}

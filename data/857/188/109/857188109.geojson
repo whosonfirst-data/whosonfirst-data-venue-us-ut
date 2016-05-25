@@ -1,0 +1,69 @@
+{
+  "id": 857188109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.813165,40.379186,-111.813165,40.379186",
+    "geom:latitude":40.379186,
+    "geom:longitude":-111.813165,
+    "iso:country":"US",
+    "sg:address":"142 W State Rd",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 492 8111",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sRTg7KKOOdYydaRvLZi8X_40.379186_-111.813165@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123953,
+    "wof:geomhash":"bf5a5a4fde35ff144f0f4ad35bea0048",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857188109
+        }
+    ],
+    "wof:id":857188109,
+    "wof:lastmodified":1464123953,
+    "wof:name":"Tunex",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -111.813165,
+    40.379186,
+    -111.813165,
+    40.379186
+],
+  "geometry": {"coordinates":[-111.813165,40.379186],"type":"Point"}
+}

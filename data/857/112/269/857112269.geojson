@@ -1,0 +1,73 @@
+{
+  "id": 857112269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.775683,41.248286,-111.775683,41.248286",
+    "geom:latitude":41.248286,
+    "geom:longitude":-111.775683,
+    "iso:country":"US",
+    "sg:address":"7345 E 900 S",
+    "sg:city":"Huntsville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 745 3542",
+    "sg:postcode":"84317",
+    "sg:province":"UT",
+    "sg:tags":[
+        "convenience",
+        "station",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85818631,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79EGDQLF6MpDjSFbXkaNyq_41.248286_-111.775683@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122238,
+    "wof:geomhash":"e7b69eb96c431f5303a1b07e730b48b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85818631,
+            "region_id":85688567,
+            "venue_id":857112269
+        }
+    ],
+    "wof:id":857112269,
+    "wof:lastmodified":1464122238,
+    "wof:name":"Chris Log Cabin",
+    "wof:parent_id":85818631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "convenience",
+        "station",
+        "store"
+    ]
+},
+  "bbox": [
+    -111.775683,
+    41.248286,
+    -111.775683,
+    41.248286
+],
+  "geometry": {"coordinates":[-111.775683,41.248286],"type":"Point"}
+}

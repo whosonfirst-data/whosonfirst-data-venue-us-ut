@@ -1,0 +1,73 @@
+{
+  "id": 857254451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.745509,40.040445,-111.745509,40.040445",
+    "geom:latitude":40.040445,
+    "geom:longitude":-111.745509,
+    "iso:country":"US",
+    "sg:address":"261 S 800 W",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 636 1564",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hUXhxExkFsA1H9L7HzMAQ_40.040445_-111.745509@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125361,
+    "wof:geomhash":"84d6c2cfdd32fa95b715cd3a4ad7bcc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857254451
+        }
+    ],
+    "wof:id":857254451,
+    "wof:lastmodified":1464125361,
+    "wof:name":"R & A Vinale",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -111.745509,
+    40.040445,
+    -111.745509,
+    40.040445
+],
+  "geometry": {"coordinates":[-111.745509,40.040445],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857456159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.952293,41.107302,-111.952293,41.107302",
+    "geom:latitude":41.107302,
+    "geom:longitude":-111.952293,
+    "iso:country":"US",
+    "sg:address":"3086 N 750 E",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 771 3100",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85844663,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YzCZDuwfV4Fblh0wwVNh3_41.107302_-111.952293@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129875,
+    "wof:geomhash":"264a8fcb7410c2e3937527fb916f3ec1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "neighbourhood_id":85844663,
+            "region_id":85688567,
+            "venue_id":857456159
+        }
+    ],
+    "wof:id":857456159,
+    "wof:lastmodified":1464129875,
+    "wof:name":"Tom Tools",
+    "wof:parent_id":85844663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.952293,
+    41.107302,
+    -111.952293,
+    41.107302
+],
+  "geometry": {"coordinates":[-111.952293,41.107302],"type":"Point"}
+}

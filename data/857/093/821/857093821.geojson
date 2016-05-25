@@ -1,0 +1,73 @@
+{
+  "id": 857093821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.865912,40.729128,-111.865912,40.729128",
+    "geom:latitude":40.729128,
+    "geom:longitude":-111.865912,
+    "iso:country":"US",
+    "sg:address":"821 Westminster Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 412 0007",
+    "sg:postcode":"84105",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85858269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rhJY2SYSV2RMINZVRSMl7_40.729128_-111.865912@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121767,
+    "wof:geomhash":"7dfffeafe5dc9c1da5004b38387fca0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85858269,
+            "region_id":85688567,
+            "venue_id":857093821
+        }
+    ],
+    "wof:id":857093821,
+    "wof:lastmodified":1464121767,
+    "wof:name":"Alexander Construction",
+    "wof:parent_id":85858269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -111.865912,
+    40.729128,
+    -111.865912,
+    40.729128
+],
+  "geometry": {"coordinates":[-111.86591199999999,40.729128],"type":"Point"}
+}

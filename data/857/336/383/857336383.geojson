@@ -1,0 +1,79 @@
+{
+  "id": 857336383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.872275,40.590755,-111.872275,40.590755",
+    "geom:latitude":40.590755,
+    "geom:longitude":-111.872275,
+    "iso:country":"US",
+    "sg:address":"8857 S 700 E",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 561 3232",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "vehicle",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85833023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UmSdb1sBey6h2DxpFfRNm_40.590755_-111.872275@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127195,
+    "wof:geomhash":"1ce4b6c64945d1be35adab1aee3ab350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85833023,
+            "region_id":85688567,
+            "venue_id":857336383
+        }
+    ],
+    "wof:id":857336383,
+    "wof:lastmodified":1464127195,
+    "wof:name":"Zak's Garage & Welding",
+    "wof:parent_id":85833023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "vehicle",
+        "general"
+    ]
+},
+  "bbox": [
+    -111.872275,
+    40.590755,
+    -111.872275,
+    40.590755
+],
+  "geometry": {"coordinates":[-111.872275,40.590755],"type":"Point"}
+}

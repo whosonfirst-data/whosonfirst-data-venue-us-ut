@@ -1,0 +1,68 @@
+{
+  "id": 857370819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.000918,40.642473,-112.000918,40.642473",
+    "geom:latitude":40.642473,
+    "geom:longitude":-112.000918,
+    "iso:country":"US",
+    "sg:address":"4599 Twilight Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 967 9582",
+    "sg:postcode":"84118",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728253,
+        102082877,
+        85833393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Q37J5lByNMB8IShx61DdO_40.642473_-112.000918@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127922,
+    "wof:geomhash":"ae8cc363b2343fec0a547f066344f76a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728253,
+            "neighbourhood_id":85833393,
+            "region_id":85688567,
+            "venue_id":857370819
+        }
+    ],
+    "wof:id":857370819,
+    "wof:lastmodified":1464127922,
+    "wof:name":"Pacifcorp",
+    "wof:parent_id":85833393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.000918,
+    40.642473,
+    -112.000918,
+    40.642473
+],
+  "geometry": {"coordinates":[-112.000918,40.642473],"type":"Point"}
+}

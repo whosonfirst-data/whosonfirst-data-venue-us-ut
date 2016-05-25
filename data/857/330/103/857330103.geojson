@@ -1,0 +1,68 @@
+{
+  "id": 857330103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.888327,40.708546,-111.888327,40.708546",
+    "geom:latitude":40.708546,
+    "geom:longitude":-111.888327,
+    "iso:country":"US",
+    "sg:address":"2866 S State St",
+    "sg:city":"South Salt Lake",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 466 0858",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85854999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FAZlmqUebr9zNux3EOcKR_40.708546_-111.888327@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127056,
+    "wof:geomhash":"60f9e167eef6b97235d13e2fd0381fe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85854999,
+            "region_id":85688567,
+            "venue_id":857330103
+        }
+    ],
+    "wof:id":857330103,
+    "wof:lastmodified":1464127056,
+    "wof:name":"Spiking Tourist Lodge",
+    "wof:parent_id":85854999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.888327,
+    40.708546,
+    -111.888327,
+    40.708546
+],
+  "geometry": {"coordinates":[-111.888327,40.708546],"type":"Point"}
+}

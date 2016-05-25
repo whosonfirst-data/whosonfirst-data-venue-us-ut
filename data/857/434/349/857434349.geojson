@@ -1,0 +1,73 @@
+{
+  "id": 857434349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.812423,40.738592,-111.812423,40.738592",
+    "geom:latitude":40.738592,
+    "geom:longitude":-111.812423,
+    "iso:country":"US",
+    "sg:address":"1495 Ambassador Way",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 581 1131",
+    "sg:postcode":"84108",
+    "sg:province":"UT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12LTtD2ixSN9IGTfr73rpJ_40.738592_-111.812423@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129453,
+    "wof:geomhash":"9ff17eb9ca659406e897fbe83fd033e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871023,
+            "region_id":85688567,
+            "venue_id":857434349
+        }
+    ],
+    "wof:id":857434349,
+    "wof:lastmodified":1464129453,
+    "wof:name":"El Kinder Ltd",
+    "wof:parent_id":85871023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -111.812423,
+    40.738592,
+    -111.812423,
+    40.738592
+],
+  "geometry": {"coordinates":[-111.812423,40.738592],"type":"Point"}
+}

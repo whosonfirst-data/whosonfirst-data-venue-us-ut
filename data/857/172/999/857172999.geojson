@@ -1,0 +1,73 @@
+{
+  "id": 857172999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.60662,37.048551,-113.60662,37.048551",
+    "geom:latitude":37.048551,
+    "geom:longitude":-113.60662,
+    "iso:country":"US",
+    "sg:address":"3519 Manzanita Rd",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 628 1461",
+    "sg:postcode":"84790",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mormon",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727617,
+        102082879,
+        85803851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sNLkT06dG97KIJKkXyZTV_37.048551_-113.606620@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123656,
+    "wof:geomhash":"3190750b04b4e452c21aa941421f3d87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85803851,
+            "region_id":85688567,
+            "venue_id":857172999
+        }
+    ],
+    "wof:id":857172999,
+    "wof:lastmodified":1464123656,
+    "wof:name":"Bloomington Third Ward",
+    "wof:parent_id":85803851,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mormon",
+        "church"
+    ]
+},
+  "bbox": [
+    -113.60662,
+    37.048551,
+    -113.60662,
+    37.048551
+],
+  "geometry": {"coordinates":[-113.60662000000001,37.048551],"type":"Point"}
+}

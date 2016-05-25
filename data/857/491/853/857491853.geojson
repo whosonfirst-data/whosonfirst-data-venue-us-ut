@@ -1,0 +1,76 @@
+{
+  "id": 857491853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.985459,41.084101,-111.985459,41.084101",
+    "geom:latitude":41.084101,
+    "geom:longitude":-111.985459,
+    "iso:country":"US",
+    "sg:address":"1624 Heritage Park Blvd",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/north-davis/100297-golden-corral/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 775 9535",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fWu63j2pBFEEkk4YGrk4g_41.084101_-111.985459@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130655,
+    "wof:geomhash":"863dc822fdd3518d43829fe0ae09085f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857491853
+        }
+    ],
+    "wof:id":857491853,
+    "wof:lastmodified":1464130655,
+    "wof:name":"Golden Corral",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -111.985459,
+    41.084101,
+    -111.985459,
+    41.084101
+],
+  "geometry": {"coordinates":[-111.98545900000001,41.084101],"type":"Point"}
+}

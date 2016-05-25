@@ -1,0 +1,73 @@
+{
+  "id": 857262363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.855182,40.695794,-111.855182,40.695794",
+    "geom:latitude":40.695794,
+    "geom:longitude":-111.855182,
+    "iso:country":"US",
+    "sg:address":"1243 E Lorraine Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 550 1687",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85832079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Heoatz4f81pOxSVtS7QpE_40.695794_-111.855182@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125541,
+    "wof:geomhash":"731a4c9fed487b4f1529a99c63bbb782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85832079,
+            "region_id":85688567,
+            "venue_id":857262363
+        }
+    ],
+    "wof:id":857262363,
+    "wof:lastmodified":1464125541,
+    "wof:name":"Peers Masonry Inc",
+    "wof:parent_id":85832079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.855182,
+    40.695794,
+    -111.855182,
+    40.695794
+],
+  "geometry": {"coordinates":[-111.855182,40.695794],"type":"Point"}
+}

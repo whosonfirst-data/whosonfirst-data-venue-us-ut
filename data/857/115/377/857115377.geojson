@@ -1,0 +1,75 @@
+{
+  "id": 857115377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834549,41.749689,-111.834549,41.749689",
+    "geom:latitude":41.749689,
+    "geom:longitude":-111.834549,
+    "iso:country":"US",
+    "sg:address":"925 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 755 7000",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "heavy",
+        "construction",
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ORlrpOcVHWvYk8Q93kXte_41.749689_-111.834549@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122322,
+    "wof:geomhash":"ad81b07b2e2bdc1d0502d3c2987e7fc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857115377
+        }
+    ],
+    "wof:id":857115377,
+    "wof:lastmodified":1464122322,
+    "wof:name":"Time Rental Sales & Service",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heavy",
+        "construction",
+        "yard"
+    ]
+},
+  "bbox": [
+    -111.834549,
+    41.749689,
+    -111.834549,
+    41.749689
+],
+  "geometry": {"coordinates":[-111.834549,41.749689],"type":"Point"}
+}

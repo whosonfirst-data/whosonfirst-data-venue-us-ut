@@ -1,0 +1,75 @@
+{
+  "id": 857133653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.889439,40.634106,-111.889439,40.634106",
+    "geom:latitude":40.634106,
+    "geom:longitude":-111.889439,
+    "iso:country":"US",
+    "sg:address":"6262 S State St",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 266 3039",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85825767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pWUmjVAeq0AQcsBqTsy94_40.634106_-111.889439@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122757,
+    "wof:geomhash":"cfba8245e1b96c7bcdef24496f283878",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85825767,
+            "region_id":85688567,
+            "venue_id":857133653
+        }
+    ],
+    "wof:id":857133653,
+    "wof:lastmodified":1464122757,
+    "wof:name":"Compusa",
+    "wof:parent_id":85825767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -111.889439,
+    40.634106,
+    -111.889439,
+    40.634106
+],
+  "geometry": {"coordinates":[-111.889439,40.634106],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857402489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.806032,41.753108,-111.806032,41.753108",
+    "geom:latitude":41.753108,
+    "geom:longitude":-111.806032,
+    "iso:country":"US",
+    "sg:address":"1109 E Stadium Dr",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 797 3909",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "bio",
+        "diesel",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3g1hYyCkwdzEKL5oJcY18s_41.753108_-111.806032@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128675,
+    "wof:geomhash":"b2f12b316b8578679fb5e8cf82d691ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857402489
+        }
+    ],
+    "wof:id":857402489,
+    "wof:lastmodified":1464128675,
+    "wof:name":"Utah Biofuels",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bio",
+        "diesel",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -111.806032,
+    41.753108,
+    -111.806032,
+    41.753108
+],
+  "geometry": {"coordinates":[-111.806032,41.753108],"type":"Point"}
+}

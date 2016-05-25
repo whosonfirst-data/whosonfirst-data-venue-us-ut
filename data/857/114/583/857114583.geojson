@@ -1,0 +1,73 @@
+{
+  "id": 857114583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.796135,40.605605,-111.796135,40.605605",
+    "geom:latitude":40.605605,
+    "geom:longitude":-111.796135,
+    "iso:country":"US",
+    "sg:address":"3491 Oakledge Rd",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 944 9847",
+    "sg:postcode":"84121",
+    "sg:province":"UT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728065,
+        102082877,
+        85826155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_468fdheD0lCHkvpA5ie4Db_40.605605_-111.796135@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122303,
+    "wof:geomhash":"91623776bb24feb4d727216ad12802c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728065,
+            "neighbourhood_id":85826155,
+            "region_id":85688567,
+            "venue_id":857114583
+        }
+    ],
+    "wof:id":857114583,
+    "wof:lastmodified":1464122303,
+    "wof:name":"Wall To Wall Cleaning Services",
+    "wof:parent_id":85826155,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -111.796135,
+    40.605605,
+    -111.796135,
+    40.605605
+],
+  "geometry": {"coordinates":[-111.79613500000001,40.605605],"type":"Point"}
+}

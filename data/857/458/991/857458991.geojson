@@ -1,0 +1,77 @@
+{
+  "id": 857458991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.638969,40.296576,-111.638969,40.296576",
+    "geom:latitude":40.296576,
+    "geom:longitude":-111.638969,
+    "iso:country":"US",
+    "sg:address":"4345 Windsor Dr",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 6150",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "operates",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03Irk6OFJWis4t0DFIgjDp_40.296576_-111.638969@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129933,
+    "wof:geomhash":"b2c1447a5fdd89b320c3126293705aec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880091,
+            "region_id":85688567,
+            "venue_id":857458991
+        }
+    ],
+    "wof:id":857458991,
+    "wof:lastmodified":1464129933,
+    "wof:name":"Place Bonaventure Lc",
+    "wof:parent_id":85880091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "operates",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -111.638969,
+    40.296576,
+    -111.638969,
+    40.296576
+],
+  "geometry": {"coordinates":[-111.638969,40.296576],"type":"Point"}
+}

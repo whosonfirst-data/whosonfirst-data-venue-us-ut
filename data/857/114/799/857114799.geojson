@@ -1,0 +1,73 @@
+{
+  "id": 857114799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.686069,40.276688,-111.686069,40.276688",
+    "geom:latitude":40.276688,
+    "geom:longitude":-111.686069,
+    "iso:country":"US",
+    "sg:address":"1086 S State St",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 6317",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85813259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qXC8FsUwXAQGa3Ctp9fa6_40.276688_-111.686069@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122309,
+    "wof:geomhash":"09701e66a6c16c6dae2c15ef4a22f447",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85813259,
+            "region_id":85688567,
+            "venue_id":857114799
+        }
+    ],
+    "wof:id":857114799,
+    "wof:lastmodified":1464122309,
+    "wof:name":"Italian Place",
+    "wof:parent_id":85813259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.686069,
+    40.276688,
+    -111.686069,
+    40.276688
+],
+  "geometry": {"coordinates":[-111.686069,40.276688],"type":"Point"}
+}

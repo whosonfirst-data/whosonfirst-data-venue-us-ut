@@ -1,0 +1,79 @@
+{
+  "id": 857267461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.888173,40.686582,-111.888173,40.686582",
+    "geom:latitude":40.686582,
+    "geom:longitude":-111.888173,
+    "iso:country":"US",
+    "sg:address":"3947 S State St",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 262 1112",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:tags":[
+        "storage",
+        "self",
+        "commercial",
+        "unit"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85810147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jF0HTXL3gxio0jEbMGDCC_40.686582_-111.888173@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125638,
+    "wof:geomhash":"3ad39d93a477cde1a9ee1d38f85c36b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85810147,
+            "region_id":85688567,
+            "venue_id":857267461
+        }
+    ],
+    "wof:id":857267461,
+    "wof:lastmodified":1464125638,
+    "wof:name":"Safe Harbor Self Storage",
+    "wof:parent_id":85810147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "storage",
+        "self",
+        "commercial",
+        "unit"
+    ]
+},
+  "bbox": [
+    -111.888173,
+    40.686582,
+    -111.888173,
+    40.686582
+],
+  "geometry": {"coordinates":[-111.88817299999999,40.686582],"type":"Point"}
+}

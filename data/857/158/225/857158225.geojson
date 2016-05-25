@@ -1,0 +1,77 @@
+{
+  "id": 857158225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.014881,40.649826,-112.014881,40.649826",
+    "geom:latitude":40.649826,
+    "geom:longitude":-112.014881,
+    "iso:country":"US",
+    "sg:address":"5190 Highwood Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 968 3292",
+    "sg:postcode":"84118",
+    "sg:province":"UT",
+    "sg:tags":[
+        "copy",
+        "center",
+        "shipping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728253,
+        102082877,
+        85833569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CV83AG1465OtDnawVv4IR_40.649826_-112.014881@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123309,
+    "wof:geomhash":"880962cad6b951882ce70eb55512cd12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728253,
+            "neighbourhood_id":85833569,
+            "region_id":85688567,
+            "venue_id":857158225
+        }
+    ],
+    "wof:id":857158225,
+    "wof:lastmodified":1464123309,
+    "wof:name":"Outbox Copies",
+    "wof:parent_id":85833569,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "copy",
+        "center",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -112.014881,
+    40.649826,
+    -112.014881,
+    40.649826
+],
+  "geometry": {"coordinates":[-112.014881,40.649826],"type":"Point"}
+}

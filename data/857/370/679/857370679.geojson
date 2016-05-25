@@ -1,0 +1,75 @@
+{
+  "id": 857370679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.60444,40.160993,-111.60444,40.160993",
+    "geom:latitude":40.160993,
+    "geom:longitude":-111.60444,
+    "iso:country":"US",
+    "sg:address":"380 E 400 S",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 489 5669",
+    "sg:postcode":"84663",
+    "sg:province":"UT",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727829,
+        102083567,
+        85880117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4d8gwwl5aZ7D2Wa6r4o7bp_40.160993_-111.604440@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127920,
+    "wof:geomhash":"7e3a07bc41a9e68a543b7d924359dc3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727829,
+            "neighbourhood_id":85880117,
+            "region_id":85688567,
+            "venue_id":857370679
+        }
+    ],
+    "wof:id":857370679,
+    "wof:lastmodified":1464127920,
+    "wof:name":"Physical & Sports Therapy Svc",
+    "wof:parent_id":85880117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -111.60444,
+    40.160993,
+    -111.60444,
+    40.160993
+],
+  "geometry": {"coordinates":[-111.60444,40.160993],"type":"Point"}
+}

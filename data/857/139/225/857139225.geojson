@@ -1,0 +1,69 @@
+{
+  "id": 857139225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.950127,41.105059,-111.950127,41.105059",
+    "geom:latitude":41.105059,
+    "geom:longitude":-111.950127,
+    "iso:country":"US",
+    "sg:address":"3137 N Fairfield Rd",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 771 4749",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "monument"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85844663,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Dx8CrVlyDzU0ck09bFX6N_41.105059_-111.950127@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122874,
+    "wof:geomhash":"40e13aab052ac7366188e010c8d6df07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "neighbourhood_id":85844663,
+            "region_id":85688567,
+            "venue_id":857139225
+        }
+    ],
+    "wof:id":857139225,
+    "wof:lastmodified":1464122874,
+    "wof:name":"Mc Mullin Memorials",
+    "wof:parent_id":85844663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monument"
+    ]
+},
+  "bbox": [
+    -111.950127,
+    41.105059,
+    -111.950127,
+    41.105059
+],
+  "geometry": {"coordinates":[-111.95012699999999,41.105059],"type":"Point"}
+}

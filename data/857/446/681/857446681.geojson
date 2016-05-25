@@ -1,0 +1,71 @@
+{
+  "id": 857446681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.950067,41.102752,-111.950067,41.102752",
+    "geom:latitude":41.102752,
+    "geom:longitude":-111.950067,
+    "iso:country":"US",
+    "sg:address":"3011 N Fairfield Rd",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 771 5115",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85844663,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AqUf9YV3fqNbJ37I5I6MG_41.102752_-111.950067@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129694,
+    "wof:geomhash":"d5b54558268e69ca659520a1b53cf431",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "neighbourhood_id":85844663,
+            "region_id":85688567,
+            "venue_id":857446681
+        }
+    ],
+    "wof:id":857446681,
+    "wof:lastmodified":1464129694,
+    "wof:name":"Futura Carwash",
+    "wof:parent_id":85844663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -111.950067,
+    41.102752,
+    -111.950067,
+    41.102752
+],
+  "geometry": {"coordinates":[-111.950067,41.102752],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857134765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.641795,40.120164,-111.641795,40.120164",
+    "geom:latitude":40.120164,
+    "geom:longitude":-111.641795,
+    "iso:country":"US",
+    "sg:address":"757 E 800 N",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 794 0333",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kaf5sTdPyyLuYrjBfLcjC_40.120164_-111.641795@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122778,
+    "wof:geomhash":"30aca99505cf25b75be6bd4b26e95a7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857134765
+        }
+    ],
+    "wof:id":857134765,
+    "wof:lastmodified":1464122778,
+    "wof:name":"Spanish Fork Physical Therapy",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -111.641795,
+    40.120164,
+    -111.641795,
+    40.120164
+],
+  "geometry": {"coordinates":[-111.641795,40.120164],"type":"Point"}
+}

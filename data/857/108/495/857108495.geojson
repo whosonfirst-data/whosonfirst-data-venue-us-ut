@@ -1,0 +1,77 @@
+{
+  "id": 857108495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.899646,40.692422,-111.899646,40.692422",
+    "geom:latitude":40.692422,
+    "geom:longitude":-111.899646,
+    "iso:country":"US",
+    "sg:address":"3675 S 300 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 266 7791",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85810147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GhaPr9U6bFA2wAse0ISGf_40.692422_-111.899646@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122101,
+    "wof:geomhash":"99d1d6988db17a2bf0a3e5edf666f839",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85810147,
+            "region_id":85688567,
+            "venue_id":857108495
+        }
+    ],
+    "wof:id":857108495,
+    "wof:lastmodified":1464122101,
+    "wof:name":"J P's Custom Body & Paint",
+    "wof:parent_id":85810147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -111.899646,
+    40.692422,
+    -111.899646,
+    40.692422
+],
+  "geometry": {"coordinates":[-111.899646,40.692422],"type":"Point"}
+}

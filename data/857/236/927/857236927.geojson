@@ -1,0 +1,73 @@
+{
+  "id": 857236927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.977897,41.205627,-111.977897,41.205627",
+    "geom:latitude":41.205627,
+    "geom:longitude":-111.977897,
+    "iso:country":"US",
+    "sg:address":"3281 Pingree Ave",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 392 0454",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85810249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qApJqilAjzPL7bCmtukC7_41.205627_-111.977897@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124944,
+    "wof:geomhash":"5726feeb6cb58e90fc8ef6310b311d04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85810249,
+            "region_id":85688567,
+            "venue_id":857236927
+        }
+    ],
+    "wof:id":857236927,
+    "wof:lastmodified":1464124944,
+    "wof:name":"Blaines Plumbing & Heating",
+    "wof:parent_id":85810249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.977897,
+    41.205627,
+    -111.977897,
+    41.205627
+],
+  "geometry": {"coordinates":[-111.977897,41.205627],"type":"Point"}
+}

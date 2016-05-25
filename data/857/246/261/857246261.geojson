@@ -1,0 +1,69 @@
+{
+  "id": 857246261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.983161,41.081747,-111.983161,41.081747",
+    "geom:latitude":41.081747,
+    "geom:longitude":-111.983161,
+    "iso:country":"US",
+    "sg:address":"1597 Woodland Park Dr",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 991 1400",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:website":"www.pureutah.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0u6ep2Gfg5r3VlcvQVPCO7_41.081747_-111.983161@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125163,
+    "wof:geomhash":"5158e850b4454a772e978b58ad7e08a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857246261
+        }
+    ],
+    "wof:id":857246261,
+    "wof:lastmodified":1464125163,
+    "wof:name":"Prudential Utah Real Estate",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.983161,
+    41.081747,
+    -111.983161,
+    41.081747
+],
+  "geometry": {"coordinates":[-111.983161,41.081747],"type":"Point"}
+}

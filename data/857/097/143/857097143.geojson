@@ -1,0 +1,71 @@
+{
+  "id": 857097143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.78645,40.374137,-111.78645,40.374137",
+    "geom:latitude":40.374137,
+    "geom:longitude":-111.78645,
+    "iso:country":"US",
+    "sg:address":"450 E State Rd",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 0833",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "stucco",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7W3dznL1LzQCFbieou2ofW_40.374137_-111.786450@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121836,
+    "wof:geomhash":"eae0c5877244a04308476593dab1c1df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857097143
+        }
+    ],
+    "wof:id":857097143,
+    "wof:lastmodified":1464121836,
+    "wof:name":"Stucco Works",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stucco",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.78645,
+    40.374137,
+    -111.78645,
+    40.374137
+],
+  "geometry": {"coordinates":[-111.78645,40.374137],"type":"Point"}
+}

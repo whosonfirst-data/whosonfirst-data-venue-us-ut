@@ -1,0 +1,71 @@
+{
+  "id": 857382249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.901051,41.009771,-111.901051,41.009771",
+    "geom:latitude":41.009771,
+    "geom:longitude":-111.901051,
+    "iso:country":"US",
+    "sg:address":"1825 Kensington St",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 7481",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "instruction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jhI1ZjOytJdPsmtkRif9E_41.009771_-111.901051@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128191,
+    "wof:geomhash":"b358c33b8d0806cfa70aefac5b530d0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857382249
+        }
+    ],
+    "wof:id":857382249,
+    "wof:lastmodified":1464128191,
+    "wof:name":"Studio 1",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction"
+    ]
+},
+  "bbox": [
+    -111.901051,
+    41.009771,
+    -111.901051,
+    41.009771
+],
+  "geometry": {"coordinates":[-111.901051,41.009771],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857084453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.822876,41.776992,-111.822876,41.776992",
+    "geom:latitude":41.776992,
+    "geom:longitude":-111.822876,
+    "iso:country":"US",
+    "sg:address":"2450 N 400 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 750 7888",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kLRIuLuG8XZGOgLfmeeam_41.776992_-111.822876@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121519,
+    "wof:geomhash":"acc099a5aa9c9239a87292c14d69e13a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857084453
+        }
+    ],
+    "wof:id":857084453,
+    "wof:lastmodified":1464121519,
+    "wof:name":"Greenville Elementary School",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -111.822876,
+    41.776992,
+    -111.822876,
+    41.776992
+],
+  "geometry": {"coordinates":[-111.82287599999999,41.776992],"type":"Point"}
+}

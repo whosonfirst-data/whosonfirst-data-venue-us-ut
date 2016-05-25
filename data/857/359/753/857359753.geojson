@@ -1,0 +1,78 @@
+{
+  "id": 857359753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.852272,40.764599,-111.852272,40.764599",
+    "geom:latitude":40.764599,
+    "geom:longitude":-111.852272,
+    "iso:country":"US",
+    "sg:address":"229 University St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 583 8855",
+    "sg:postcode":"84102",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85853739,
+        85871031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TkygLNFt7vfw20ovWvDcx_40.764599_-111.852272@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127692,
+    "wof:geomhash":"c7dd2ff27d240fa1ff5aef181940e514",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85853739,
+            "region_id":85688567,
+            "venue_id":857359753
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871031,
+            "region_id":85688567,
+            "venue_id":857359753
+        }
+    ],
+    "wof:id":857359753,
+    "wof:lastmodified":1464127692,
+    "wof:name":"National Assn of Social Wkrs",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.852272,
+    40.764599,
+    -111.852272,
+    40.764599
+],
+  "geometry": {"coordinates":[-111.852272,40.764599],"type":"Point"}
+}

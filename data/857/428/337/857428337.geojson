@@ -1,0 +1,68 @@
+{
+  "id": 857428337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.949381,41.174944,-111.949381,41.174944",
+    "geom:latitude":41.174944,
+    "geom:longitude":-111.949381,
+    "iso:country":"US",
+    "sg:address":"4811 Harrison Blvd",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 476 8400",
+    "sg:postcode":"84403",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85804639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02zYUikRlXHoiUrG9NF00G_41.174944_-111.949381@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129302,
+    "wof:geomhash":"0d449394c411e9e22c71e0087600a9d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85804639,
+            "region_id":85688567,
+            "venue_id":857428337
+        }
+    ],
+    "wof:id":857428337,
+    "wof:lastmodified":1464129302,
+    "wof:name":"Bennetts Jewelry 001",
+    "wof:parent_id":85804639,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.949381,
+    41.174944,
+    -111.949381,
+    41.174944
+],
+  "geometry": {"coordinates":[-111.949381,41.174944],"type":"Point"}
+}

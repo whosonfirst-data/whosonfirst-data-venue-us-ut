@@ -1,0 +1,73 @@
+{
+  "id": 857478725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.96471,41.072978,-111.96471,41.072978",
+    "geom:latitude":41.072978,
+    "geom:longitude":-111.96471,
+    "iso:country":"US",
+    "sg:address":"32 E 900 N",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 544 2420",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WU1ESoPQRGkuvXs1g1Zi6_41.072978_-111.964710@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130348,
+    "wof:geomhash":"a011597e0f808b80950ce2ab47a6224e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857478725
+        }
+    ],
+    "wof:id":857478725,
+    "wof:lastmodified":1464130348,
+    "wof:name":"J PS Towing",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -111.96471,
+    41.072978,
+    -111.96471,
+    41.072978
+],
+  "geometry": {"coordinates":[-111.96471,41.072978],"type":"Point"}
+}

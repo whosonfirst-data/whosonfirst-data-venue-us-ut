@@ -1,0 +1,68 @@
+{
+  "id": 857177129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.688591,40.233961,-111.688591,40.233961",
+    "geom:latitude":40.233961,
+    "geom:longitude":-111.688591,
+    "iso:country":"US",
+    "sg:address":"1650 W Center St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 375 6448",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1x1zy5AqMrxdBAPNUQ9OIq_40.233961_-111.688591@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123735,
+    "wof:geomhash":"ab4cc2892d05a7540f3e3d14e6b26cad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880067,
+            "region_id":85688567,
+            "venue_id":857177129
+        }
+    ],
+    "wof:id":857177129,
+    "wof:lastmodified":1464123735,
+    "wof:name":"Great Steak Sandwich Co",
+    "wof:parent_id":85880067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.688591,
+    40.233961,
+    -111.688591,
+    40.233961
+],
+  "geometry": {"coordinates":[-111.688591,40.233961],"type":"Point"}
+}

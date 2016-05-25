@@ -1,0 +1,92 @@
+{
+  "id": 857492143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.690368,40.273386,-111.690368,40.273386",
+    "geom:latitude":40.273386,
+    "geom:longitude":-111.690368,
+    "iso:country":"US",
+    "sg:address":"200 E University Pkwy",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/provo-orem/41390-noodles--company/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 226 0776",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "noodle",
+        "bar",
+        "salad",
+        "chinese",
+        "japanese",
+        "soup",
+        "american",
+        "asian",
+        "thai",
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85880081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dllXmu8wUZ4hfME9WU4Ev_40.273386_-111.690368@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130666,
+    "wof:geomhash":"2e29a0283501af3a335abde3ea68b8ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85880081,
+            "region_id":85688567,
+            "venue_id":857492143
+        }
+    ],
+    "wof:id":857492143,
+    "wof:lastmodified":1464130666,
+    "wof:name":"Noodles & Company",
+    "wof:parent_id":85880081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "noodle",
+        "bar",
+        "salad",
+        "chinese",
+        "japanese",
+        "soup",
+        "american",
+        "asian",
+        "thai",
+        "italian"
+    ]
+},
+  "bbox": [
+    -111.690368,
+    40.273386,
+    -111.690368,
+    40.273386
+],
+  "geometry": {"coordinates":[-111.69036800000001,40.273386],"type":"Point"}
+}

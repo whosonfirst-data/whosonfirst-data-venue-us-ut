@@ -1,0 +1,73 @@
+{
+  "id": 857443863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.804654,41.732945,-111.804654,41.732945",
+    "geom:latitude":41.732945,
+    "geom:longitude":-111.804654,
+    "iso:country":"US",
+    "sg:address":"1218 Cliffside Dr",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 7859",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "company",
+        "holding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DJzsXHzhfPoMNyjov1HKN_41.732945_-111.804654@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129637,
+    "wof:geomhash":"2d89076d3abbb8cb5d67cbe3b49fbd1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857443863
+        }
+    ],
+    "wof:id":857443863,
+    "wof:lastmodified":1464129637,
+    "wof:name":"Clean Technology Holdings Inc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "holding"
+    ]
+},
+  "bbox": [
+    -111.804654,
+    41.732945,
+    -111.804654,
+    41.732945
+],
+  "geometry": {"coordinates":[-111.804654,41.732945],"type":"Point"}
+}

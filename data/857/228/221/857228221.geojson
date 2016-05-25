@@ -1,0 +1,75 @@
+{
+  "id": 857228221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.971062,40.595181,-111.971062,40.595181",
+    "geom:latitude":40.595181,
+    "geom:longitude":-111.971062,
+    "iso:country":"US",
+    "sg:address":"3454 W 8600 S",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 563 0100",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85843301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RvaESGa99KbG3kEsNKplL_40.595181_-111.971062@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124776,
+    "wof:geomhash":"3c4da029a9652961a129d284acda710f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85843301,
+            "region_id":85688567,
+            "venue_id":857228221
+        }
+    ],
+    "wof:id":857228221,
+    "wof:lastmodified":1464124776,
+    "wof:name":"Savannah Transport Inc",
+    "wof:parent_id":85843301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -111.971062,
+    40.595181,
+    -111.971062,
+    40.595181
+],
+  "geometry": {"coordinates":[-111.971062,40.595181],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 857305081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.831125,41.766294,-111.831125,41.766294",
+    "geom:latitude":41.766294,
+    "geom:longitude":-111.831125,
+    "iso:country":"US",
+    "sg:address":"1886 N 100 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Aerospace",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 0936",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "machine",
+        "shop",
+        "aircraft",
+        "mfg"
+    ],
+    "sg:website":"www.cvm-inc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5h8l3g251SdCZMZs1YOzTg_41.766294_-111.831125@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126520,
+    "wof:geomhash":"f49fc9cfe635938afd1ba595495c1bb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857305081
+        }
+    ],
+    "wof:id":857305081,
+    "wof:lastmodified":1464126520,
+    "wof:name":"Central Valley Machine Tools",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop",
+        "aircraft",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.831125,
+    41.766294,
+    -111.831125,
+    41.766294
+],
+  "geometry": {"coordinates":[-111.831125,41.766294],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857138245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.062541,40.502241,-112.062541,40.502241",
+    "geom:latitude":40.502241,
+    "geom:longitude":-112.062541,
+    "iso:country":"US",
+    "sg:address":"7232 W 13620 S",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 254 1491",
+    "sg:postcode":"84096",
+    "sg:province":"UT",
+    "sg:tags":[
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728047,
+        102082877,
+        85819751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ko6BEKKDpdgN7PD4wIeDb_40.502241_-112.062541@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122853,
+    "wof:geomhash":"e61a2d854868dfd664c7d4df571faedf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728047,
+            "neighbourhood_id":85819751,
+            "region_id":85688567,
+            "venue_id":857138245
+        }
+    ],
+    "wof:id":857138245,
+    "wof:lastmodified":1464122853,
+    "wof:name":"Mascaro L J Trucking",
+    "wof:parent_id":85819751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -112.062541,
+    40.502241,
+    -112.062541,
+    40.502241
+],
+  "geometry": {"coordinates":[-112.062541,40.502241],"type":"Point"}
+}

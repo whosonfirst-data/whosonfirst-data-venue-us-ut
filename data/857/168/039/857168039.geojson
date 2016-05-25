@@ -1,0 +1,75 @@
+{
+  "id": 857168039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.037698,41.059007,-112.037698,41.059007",
+    "geom:latitude":41.059007,
+    "geom:longitude":-112.037698,
+    "iso:country":"US",
+    "sg:address":"3806 S 600 W",
+    "sg:city":"Syracuse",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 444 2025",
+    "sg:postcode":"84075",
+    "sg:province":"UT",
+    "sg:tags":[
+        "hearing",
+        "equipment",
+        "supply",
+        "impaired"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85868169,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21cS6SdKm1ZCqZ6W2kEg5m_41.059007_-112.037698@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123532,
+    "wof:geomhash":"67caa6296a9ba575a0d06d7331abdf1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "neighbourhood_id":85868169,
+            "region_id":85688567,
+            "venue_id":857168039
+        }
+    ],
+    "wof:id":857168039,
+    "wof:lastmodified":1464123532,
+    "wof:name":"Hearing Zone",
+    "wof:parent_id":85868169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hearing",
+        "equipment",
+        "supply",
+        "impaired"
+    ]
+},
+  "bbox": [
+    -112.037698,
+    41.059007,
+    -112.037698,
+    41.059007
+],
+  "geometry": {"coordinates":[-112.03769800000001,41.059007],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857419621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.820878,41.740494,-111.820878,41.740494",
+    "geom:latitude":41.740494,
+    "geom:longitude":-111.820878,
+    "iso:country":"US",
+    "sg:address":"80 Raymond Ct",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 750 6436",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bB4dfJkfp8Ya1n0jF0zdm_41.740494_-111.820878@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129087,
+    "wof:geomhash":"f6006f4ac4d0d561f17b4c6f5512669e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857419621
+        }
+    ],
+    "wof:id":857419621,
+    "wof:lastmodified":1464129087,
+    "wof:name":"Bonnibill Investments",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -111.820878,
+    41.740494,
+    -111.820878,
+    41.740494
+],
+  "geometry": {"coordinates":[-111.82087799999999,41.740494],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857345161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.873235,40.74986,-111.873235,40.74986",
+    "geom:latitude":40.74986,
+    "geom:longitude":-111.873235,
+    "iso:country":"US",
+    "sg:address":"625 E 900 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 363 1699",
+    "sg:postcode":"84105",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05KolbMImv8mNO0OdmYMnL_40.749860_-111.873235@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127377,
+    "wof:geomhash":"50f70b2b497a4a014330ed2880dc190d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871021,
+            "region_id":85688567,
+            "venue_id":857345161
+        }
+    ],
+    "wof:id":857345161,
+    "wof:lastmodified":1464127377,
+    "wof:name":"Matthew S Good",
+    "wof:parent_id":85871021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -111.873235,
+    40.74986,
+    -111.873235,
+    40.74986
+],
+  "geometry": {"coordinates":[-111.87323499999999,40.74986],"type":"Point"}
+}

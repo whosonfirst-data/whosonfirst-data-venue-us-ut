@@ -1,0 +1,73 @@
+{
+  "id": 857125867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.931556,41.003531,-111.931556,41.003531",
+    "geom:latitude":41.003531,
+    "geom:longitude":-111.931556,
+    "iso:country":"US",
+    "sg:address":"317 E 1900 S",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 447 8274",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tIcdnAMoQTUrPH7s1ekKS_41.003531_-111.931556@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122586,
+    "wof:geomhash":"6cabd43eaa51af166d6fecbd24d7abd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857125867
+        }
+    ],
+    "wof:id":857125867,
+    "wof:lastmodified":1464122586,
+    "wof:name":"United Spirit Assoc",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -111.931556,
+    41.003531,
+    -111.931556,
+    41.003531
+],
+  "geometry": {"coordinates":[-111.931556,41.003531],"type":"Point"}
+}

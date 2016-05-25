@@ -1,0 +1,68 @@
+{
+  "id": 857369235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.820161,40.607067,-111.820161,40.607067",
+    "geom:latitude":40.607067,
+    "geom:longitude":-111.820161,
+    "iso:country":"US",
+    "sg:address":"2459 Nantucket Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 943 2596",
+    "sg:postcode":"84121",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728065,
+        102082877,
+        85803915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_591zhMq8jOWGTZyHBD9Gdd_40.607067_-111.820161@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127886,
+    "wof:geomhash":"b78baec350d8d307a06983f6c586c0c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728065,
+            "neighbourhood_id":85803915,
+            "region_id":85688567,
+            "venue_id":857369235
+        }
+    ],
+    "wof:id":857369235,
+    "wof:lastmodified":1464127886,
+    "wof:name":"Enterprise Mentors Int",
+    "wof:parent_id":85803915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.820161,
+    40.607067,
+    -111.820161,
+    40.607067
+],
+  "geometry": {"coordinates":[-111.820161,40.607067],"type":"Point"}
+}

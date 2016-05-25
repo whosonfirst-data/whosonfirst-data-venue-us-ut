@@ -1,0 +1,77 @@
+{
+  "id": 857153551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.586048,37.060252,-113.586048,37.060252",
+    "geom:latitude":37.060252,
+    "geom:longitude":-113.586048,
+    "iso:country":"US",
+    "sg:address":"141 W Brigham Rd",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 628 1777",
+    "sg:postcode":"84790",
+    "sg:province":"UT",
+    "sg:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0X0Nf5avKYg24alRRVJtp6_37.060252_-113.586048@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123217,
+    "wof:geomhash":"0f8b6a91cdc34f4e9789faf42718a207",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857153551
+        }
+    ],
+    "wof:id":857153551,
+    "wof:lastmodified":1464123217,
+    "wof:name":"Bloomington Tri-Mart",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -113.586048,
+    37.060252,
+    -113.586048,
+    37.060252
+],
+  "geometry": {"coordinates":[-113.58604800000001,37.060252],"type":"Point"}
+}

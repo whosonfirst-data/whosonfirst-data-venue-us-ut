@@ -1,0 +1,71 @@
+{
+  "id": 857263141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.815909,41.750069,-111.815909,41.750069",
+    "geom:latitude":41.750069,
+    "geom:longitude":-111.815909,
+    "iso:country":"US",
+    "sg:address":"720 E 1000 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 787 4011",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hdw269wmQMMo5OMacFQ7V_41.750069_-111.815909@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125556,
+    "wof:geomhash":"95e3f5356becd262ee05d4d37bf2100d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857263141
+        }
+    ],
+    "wof:id":857263141,
+    "wof:lastmodified":1464125556,
+    "wof:name":"Logan Market New",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -111.815909,
+    41.750069,
+    -111.815909,
+    41.750069
+],
+  "geometry": {"coordinates":[-111.815909,41.750069],"type":"Point"}
+}

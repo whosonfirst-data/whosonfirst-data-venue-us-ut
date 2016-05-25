@@ -1,0 +1,66 @@
+{
+  "id": 857172307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.931785,41.63882,-111.931785,41.63882",
+    "geom:latitude":41.63882,
+    "geom:longitude":-111.931785,
+    "iso:country":"US",
+    "sg:address":"91 E Main St",
+    "sg:city":"Wellsville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 245 3625",
+    "sg:postcode":"84339",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727555,
+        102082881,
+        85823067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12JE7gVAv6Uhq3SsqVSAxK_41.638820_-111.931785@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123635,
+    "wof:geomhash":"b15cc702fa7e7ff5eed9bc9426e989c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727555,
+            "neighbourhood_id":85823067,
+            "region_id":85688567,
+            "venue_id":857172307
+        }
+    ],
+    "wof:id":857172307,
+    "wof:lastmodified":1464123635,
+    "wof:name":"Wellsville Market & Deli",
+    "wof:parent_id":85823067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.931785,
+    41.63882,
+    -111.931785,
+    41.63882
+],
+  "geometry": {"coordinates":[-111.931785,41.63882],"type":"Point"}
+}

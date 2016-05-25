@@ -1,0 +1,73 @@
+{
+  "id": 857311339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.552762,37.115108,-113.552762,37.115108",
+    "geom:latitude":37.115108,
+    "geom:longitude":-113.552762,
+    "iso:country":"US",
+    "sg:address":"127 Red Cliffs Dr",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 673 4464",
+    "sg:postcode":"84790",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77km0qe5VEPaRG2KIOFVFU_37.115108_-113.552762@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126648,
+    "wof:geomhash":"4619608bc456be39ea03bd1cdf217b5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857311339
+        }
+    ],
+    "wof:id":857311339,
+    "wof:lastmodified":1464126648,
+    "wof:name":"Chuck-A-Rama Buffet Inc",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -113.552762,
+    37.115108,
+    -113.552762,
+    37.115108
+],
+  "geometry": {"coordinates":[-113.552762,37.115108],"type":"Point"}
+}

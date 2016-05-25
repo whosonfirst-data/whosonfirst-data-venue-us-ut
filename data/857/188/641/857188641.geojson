@@ -1,0 +1,68 @@
+{
+  "id": 857188641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.862743,40.7245,-111.862743,40.7245",
+    "geom:latitude":40.7245,
+    "geom:longitude":-111.862743,
+    "iso:country":"US",
+    "sg:address":"2126 S 1000 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 487 0359",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85858269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wRHRQXaDNDaThPDkV9SGO_40.724500_-111.862743@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123963,
+    "wof:geomhash":"92d8c2a345a26efbc47d930e7a71f61e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85858269,
+            "region_id":85688567,
+            "venue_id":857188641
+        }
+    ],
+    "wof:id":857188641,
+    "wof:lastmodified":1464123963,
+    "wof:name":"Dwight Larson Insurance",
+    "wof:parent_id":85858269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.862743,
+    40.7245,
+    -111.862743,
+    40.7245
+],
+  "geometry": {"coordinates":[-111.86274299999999,40.7245],"type":"Point"}
+}

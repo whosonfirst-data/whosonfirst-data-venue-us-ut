@@ -1,0 +1,71 @@
+{
+  "id": 857257345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.819309,41.736504,-111.819309,41.736504",
+    "geom:latitude":41.736504,
+    "geom:longitude":-111.819309,
+    "iso:country":"US",
+    "sg:address":"211 N 600 E",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 787 1935",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EOrVu0yN6qXpJNAIeeR2l_41.736504_-111.819309@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125436,
+    "wof:geomhash":"2fd8253913733a587cccad9e14b9274e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857257345
+        }
+    ],
+    "wof:id":857257345,
+    "wof:lastmodified":1464125436,
+    "wof:name":"Gray Cliff Apartments",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -111.819309,
+    41.736504,
+    -111.819309,
+    41.736504
+],
+  "geometry": {"coordinates":[-111.819309,41.736504],"type":"Point"}
+}

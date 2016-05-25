@@ -1,0 +1,73 @@
+{
+  "id": 857125387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.871452,40.928993,-111.871452,40.928993",
+    "geom:latitude":40.928993,
+    "geom:longitude":-111.871452,
+    "iso:country":"US",
+    "sg:address":"984 N 500 E",
+    "sg:city":"Centerville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 255 3776",
+    "sg:postcode":"84014",
+    "sg:province":"UT",
+    "sg:tags":[
+        "phone",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727879,
+        102083563,
+        85849063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YXS99bunsj2Xz9dOcXyw6_40.928993_-111.871452@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122577,
+    "wof:geomhash":"16da89d8756b727c101a8f87506fb520",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727879,
+            "neighbourhood_id":85849063,
+            "region_id":85688567,
+            "venue_id":857125387
+        }
+    ],
+    "wof:id":857125387,
+    "wof:lastmodified":1464122577,
+    "wof:name":"Wasatch Wireless",
+    "wof:parent_id":85849063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "phone",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -111.871452,
+    40.928993,
+    -111.871452,
+    40.928993
+],
+  "geometry": {"coordinates":[-111.87145200000001,40.928993],"type":"Point"}
+}

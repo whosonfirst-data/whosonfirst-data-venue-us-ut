@@ -1,0 +1,77 @@
+{
+  "id": 857131147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.585633,40.144926,-111.585633,40.144926",
+    "geom:latitude":40.144926,
+    "geom:longitude":-111.585633,
+    "iso:country":"US",
+    "sg:address":"598 W 1600 N",
+    "sg:city":"Mapleton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 489 0533",
+    "sg:postcode":"84664",
+    "sg:province":"UT",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_114zh8FuUEt1nVc8tHrvWq_40.144926_-111.585633@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122704,
+    "wof:geomhash":"6c5897f6824e7973ac81d2c8710064a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857131147
+        }
+    ],
+    "wof:id":857131147,
+    "wof:lastmodified":1464122704,
+    "wof:name":"David Steeds Hvac",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.585633,
+    40.144926,
+    -111.585633,
+    40.144926
+],
+  "geometry": {"coordinates":[-111.585633,40.144926],"type":"Point"}
+}

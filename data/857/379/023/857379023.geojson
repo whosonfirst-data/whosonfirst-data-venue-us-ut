@@ -1,0 +1,73 @@
+{
+  "id": 857379023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.947444,41.06433,-111.947444,41.06433",
+    "geom:latitude":41.06433,
+    "geom:longitude":-111.947444,
+    "iso:country":"US",
+    "sg:address":"250 N Fairfield Rd",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 544 0994",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mortuary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AX2DC0jtO01akJ2PAMawu_41.064330_-111.947444@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128095,
+    "wof:geomhash":"b31e54755c7f4fd9c694730c19ad4bbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857379023
+        }
+    ],
+    "wof:id":857379023,
+    "wof:lastmodified":1464128095,
+    "wof:name":"Myers Mortuary Inc",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mortuary"
+    ]
+},
+  "bbox": [
+    -111.947444,
+    41.06433,
+    -111.947444,
+    41.06433
+],
+  "geometry": {"coordinates":[-111.947444,41.06433],"type":"Point"}
+}

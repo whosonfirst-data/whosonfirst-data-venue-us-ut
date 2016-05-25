@@ -1,0 +1,73 @@
+{
+  "id": 857402309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.927884,40.562206,-111.927884,40.562206",
+    "geom:latitude":40.562206,
+    "geom:longitude":-111.927884,
+    "iso:country":"US",
+    "sg:address":"1268 S Jordan Pkwy",
+    "sg:city":"South Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 254 9700",
+    "sg:postcode":"84095",
+    "sg:province":"UT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728055,
+        102082877,
+        85810561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AglglbrvhxwpwxAyQ3Cuz_40.562206_-111.927884@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128672,
+    "wof:geomhash":"6d5ed5a2e86794a64b0f9d511fc86b8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728055,
+            "neighbourhood_id":85810561,
+            "region_id":85688567,
+            "venue_id":857402309
+        }
+    ],
+    "wof:id":857402309,
+    "wof:lastmodified":1464128672,
+    "wof:name":"FFP Management",
+    "wof:parent_id":85810561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -111.927884,
+    40.562206,
+    -111.927884,
+    40.562206
+],
+  "geometry": {"coordinates":[-111.92788400000001,40.562206],"type":"Point"}
+}

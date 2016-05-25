@@ -1,0 +1,71 @@
+{
+  "id": 857084531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.732201,40.044168,-111.732201,40.044168",
+    "geom:latitude":40.044168,
+    "geom:longitude":-111.732201,
+    "iso:country":"US",
+    "sg:address":"40 N Main St",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 3879",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "calligrapher"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zB0vnt7ytRXaf6LAwxnGr_40.044168_-111.732201@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121521,
+    "wof:geomhash":"685e241b24e44629e627e2846c00f4bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857084531
+        }
+    ],
+    "wof:id":857084531,
+    "wof:lastmodified":1464121521,
+    "wof:name":"Karen's Calligraphy & Art",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "calligrapher"
+    ]
+},
+  "bbox": [
+    -111.732201,
+    40.044168,
+    -111.732201,
+    40.044168
+],
+  "geometry": {"coordinates":[-111.732201,40.044168],"type":"Point"}
+}

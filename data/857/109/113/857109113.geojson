@@ -1,0 +1,73 @@
+{
+  "id": 857109113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.012378,40.632642,-112.012378,40.632642",
+    "geom:latitude":40.632642,
+    "geom:longitude":-112.012378,
+    "iso:country":"US",
+    "sg:address":"6507 S 5095 W",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 963 8625",
+    "sg:postcode":"84084",
+    "sg:province":"UT",
+    "sg:tags":[
+        "herb"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85840625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VASgLhd09KgDxYVVlD2ne_40.632642_-112.012378@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122121,
+    "wof:geomhash":"825b18c33a84ad682ed82eca46b8bcac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85840625,
+            "region_id":85688567,
+            "venue_id":857109113
+        }
+    ],
+    "wof:id":857109113,
+    "wof:lastmodified":1464122121,
+    "wof:name":"From The Earth",
+    "wof:parent_id":85840625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "herb"
+    ]
+},
+  "bbox": [
+    -112.012378,
+    40.632642,
+    -112.012378,
+    40.632642
+],
+  "geometry": {"coordinates":[-112.012378,40.632642],"type":"Point"}
+}

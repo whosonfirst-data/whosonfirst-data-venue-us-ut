@@ -1,0 +1,71 @@
+{
+  "id": 857379561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.92412,41.125638,-111.92412,41.125638",
+    "geom:latitude":41.125638,
+    "geom:longitude":-111.92412,
+    "iso:country":"US",
+    "sg:address":"2132 E 7775 S",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 475 7221",
+    "sg:postcode":"84405",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727911,
+        102083563,
+        85847875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bevkmtEdLFvdKa08uvErQ_41.125638_-111.924120@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128106,
+    "wof:geomhash":"7e22a68a01eea3b14e3ac9aad463b069",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727911,
+            "neighbourhood_id":85847875,
+            "region_id":85688567,
+            "venue_id":857379561
+        }
+    ],
+    "wof:id":857379561,
+    "wof:lastmodified":1464128106,
+    "wof:name":"Jbf Heating & Air Inc",
+    "wof:parent_id":85847875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.92412,
+    41.125638,
+    -111.92412,
+    41.125638
+],
+  "geometry": {"coordinates":[-111.92412,41.125638],"type":"Point"}
+}

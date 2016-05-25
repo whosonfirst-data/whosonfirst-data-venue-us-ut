@@ -1,0 +1,75 @@
+{
+  "id": 857180735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.858654,40.770483,-111.858654,40.770483",
+    "geom:latitude":40.770483,
+    "geom:longitude":-111.858654,
+    "iso:country":"US",
+    "sg:address":"1022 E 1st Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 364 3876",
+    "sg:postcode":"84103",
+    "sg:province":"UT",
+    "sg:tags":[
+        "investment",
+        "closed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85853739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7d6KMcv54M3bq91mNE7M5d_40.770483_-111.858654@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123810,
+    "wof:geomhash":"cf646148a62a6a9bd2514e0a5aac400c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85853739,
+            "region_id":85688567,
+            "venue_id":857180735
+        }
+    ],
+    "wof:id":857180735,
+    "wof:lastmodified":1464123810,
+    "wof:name":"Premium Resource Corp",
+    "wof:parent_id":85853739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investment",
+        "closed"
+    ]
+},
+  "bbox": [
+    -111.858654,
+    40.770483,
+    -111.858654,
+    40.770483
+],
+  "geometry": {"coordinates":[-111.858654,40.770483],"type":"Point"}
+}

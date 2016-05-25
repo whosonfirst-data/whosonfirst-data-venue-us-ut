@@ -1,0 +1,68 @@
+{
+  "id": 857127529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.026107,41.159388,-112.026107,41.159388",
+    "geom:latitude":41.159388,
+    "geom:longitude":-112.026107,
+    "iso:country":"US",
+    "sg:address":"5821 S 1900 W",
+    "sg:city":"Roy",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 825 7638",
+    "sg:postcode":"84067",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728023,
+        102083539,
+        85843307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7m8OglfnMEEhbicaVnC8yl_41.159388_-112.026107@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122618,
+    "wof:geomhash":"2d62b7ad7331a6ebf0bc31204357d742",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728023,
+            "neighbourhood_id":85843307,
+            "region_id":85688567,
+            "venue_id":857127529
+        }
+    ],
+    "wof:id":857127529,
+    "wof:lastmodified":1464122618,
+    "wof:name":"Radio Shack",
+    "wof:parent_id":85843307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.026107,
+    41.159388,
+    -112.026107,
+    41.159388
+],
+  "geometry": {"coordinates":[-112.026107,41.159388],"type":"Point"}
+}

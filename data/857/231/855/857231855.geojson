@@ -1,0 +1,73 @@
+{
+  "id": 857231855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.819404,40.595287,-111.819404,40.595287",
+    "geom:latitude":40.595287,
+    "geom:longitude":-111.819404,
+    "iso:country":"US",
+    "sg:address":"8629 Alta Canyon Dr",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 944 1110",
+    "sg:postcode":"84093",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automobile",
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728077,
+        102082877,
+        85843389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uwbKxoIFLDMtQ5jQMcdvQ_40.595287_-111.819404@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124840,
+    "wof:geomhash":"938e1c4a9db4be17c2d7da443eac0872",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85843389,
+            "region_id":85688567,
+            "venue_id":857231855
+        }
+    ],
+    "wof:id":857231855,
+    "wof:lastmodified":1464124840,
+    "wof:name":"Auto Chek Inc",
+    "wof:parent_id":85843389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "inspection"
+    ]
+},
+  "bbox": [
+    -111.819404,
+    40.595287,
+    -111.819404,
+    40.595287
+],
+  "geometry": {"coordinates":[-111.81940400000001,40.595287],"type":"Point"}
+}

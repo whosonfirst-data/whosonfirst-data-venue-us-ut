@@ -1,0 +1,71 @@
+{
+  "id": 857330623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.817951,40.592836,-111.817951,40.592836",
+    "geom:latitude":40.592836,
+    "geom:longitude":-111.817951,
+    "iso:country":"US",
+    "sg:address":"8722 Sundance Dr",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 943 5311",
+    "sg:postcode":"84093",
+    "sg:province":"UT",
+    "sg:tags":[
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728077,
+        102082877,
+        85843389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cJO2IEYbLNdEF5rW26vZ9_40.592836_-111.817951@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127066,
+    "wof:geomhash":"0b9cd14bc6e884647b956785f8d30934",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85843389,
+            "region_id":85688567,
+            "venue_id":857330623
+        }
+    ],
+    "wof:id":857330623,
+    "wof:lastmodified":1464127066,
+    "wof:name":"Krebill Component Sales",
+    "wof:parent_id":85843389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parts"
+    ]
+},
+  "bbox": [
+    -111.817951,
+    40.592836,
+    -111.817951,
+    40.592836
+],
+  "geometry": {"coordinates":[-111.81795099999999,40.592836],"type":"Point"}
+}

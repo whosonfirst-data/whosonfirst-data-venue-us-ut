@@ -1,0 +1,80 @@
+{
+  "id": 857390025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.658584,40.23723,-111.658584,40.23723",
+    "geom:latitude":40.23723,
+    "geom:longitude":-111.658584,
+    "iso:country":"US",
+    "sg:address":"238 N University Ave",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 3484",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NBrp8alxJI2PsNlVwi156_40.237230_-111.658584@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128432,
+    "wof:geomhash":"eecc5b7e0c421f04b7e4143ab5811a7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880065,
+            "region_id":85688567,
+            "venue_id":857390025
+        }
+    ],
+    "wof:id":857390025,
+    "wof:lastmodified":1464128432,
+    "wof:name":"Therapeutic Massage & Wellness",
+    "wof:parent_id":85880065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -111.658584,
+    40.23723,
+    -111.658584,
+    40.23723
+],
+  "geometry": {"coordinates":[-111.658584,40.23723],"type":"Point"}
+}

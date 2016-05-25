@@ -1,0 +1,75 @@
+{
+  "id": 857256803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.730518,40.27484,-111.730518,40.27484",
+    "geom:latitude":40.27484,
+    "geom:longitude":-111.730518,
+    "iso:country":"US",
+    "sg:address":"1183 S 1480 W",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 226 1180",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727827,
+        102083567,
+        85821287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_396Xe2OGf4cSBgXRlCkze3_40.274840_-111.730518@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125423,
+    "wof:geomhash":"976a58035be433e7abb7fee3119c9821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727827,
+            "neighbourhood_id":85821287,
+            "region_id":85688567,
+            "venue_id":857256803
+        }
+    ],
+    "wof:id":857256803,
+    "wof:lastmodified":1464125423,
+    "wof:name":"Mountain Aire Heating & Cool",
+    "wof:parent_id":85821287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.730518,
+    40.27484,
+    -111.730518,
+    40.27484
+],
+  "geometry": {"coordinates":[-111.730518,40.27484],"type":"Point"}
+}

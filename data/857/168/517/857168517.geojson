@@ -1,0 +1,75 @@
+{
+  "id": 857168517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.597791,40.120023,-111.597791,40.120023",
+    "geom:latitude":40.120023,
+    "geom:longitude":-111.597791,
+    "iso:country":"US",
+    "sg:address":"1100 S 1600 W",
+    "sg:city":"Mapleton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 489 5772",
+    "sg:postcode":"84664",
+    "sg:province":"UT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rvqrhwhG8GzNWK7jyxIoR_40.120023_-111.597791@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123547,
+    "wof:geomhash":"366aeec1ce6daa36b86f0f8a7394a743",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857168517
+        }
+    ],
+    "wof:id":857168517,
+    "wof:lastmodified":1464123547,
+    "wof:name":"J L Dahl & Co Inc",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -111.597791,
+    40.120023,
+    -111.597791,
+    40.120023
+],
+  "geometry": {"coordinates":[-111.597791,40.120023],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857173759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.881676,40.526104,-111.881676,40.526104",
+    "geom:latitude":40.526104,
+    "geom:longitude":-111.881676,
+    "iso:country":"US",
+    "sg:address":"12345 S 300 E",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 495 1200",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "software"
+    ],
+    "sg:website":"www.westgatesoftware.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727849,
+        102082877,
+        85815193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Nv7ulEyklDQjOfJpFexcg_40.526104_-111.881676@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123670,
+    "wof:geomhash":"62f164b7955024f3b689dcb1c3c3daee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85815193,
+            "region_id":85688567,
+            "venue_id":857173759
+        }
+    ],
+    "wof:id":857173759,
+    "wof:lastmodified":1464123670,
+    "wof:name":"Westgate Software Inc",
+    "wof:parent_id":85815193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [
+    -111.881676,
+    40.526104,
+    -111.881676,
+    40.526104
+],
+  "geometry": {"coordinates":[-111.881676,40.526104],"type":"Point"}
+}

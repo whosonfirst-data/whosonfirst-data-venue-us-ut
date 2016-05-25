@@ -1,0 +1,69 @@
+{
+  "id": 857202067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.694296,40.228753,-111.694296,40.228753",
+    "geom:latitude":40.228753,
+    "geom:longitude":-111.694296,
+    "iso:country":"US",
+    "sg:address":"1985 W 350 S",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 374 1343",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880073,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Sns4F7R1joQrZJR7zmllR_40.228753_-111.694296@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124214,
+    "wof:geomhash":"a6dd20c82fa669f4b797ed7d99ebbf42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880073,
+            "region_id":85688567,
+            "venue_id":857202067
+        }
+    ],
+    "wof:id":857202067,
+    "wof:lastmodified":1464124214,
+    "wof:name":"Provo United Pentecostal Chr",
+    "wof:parent_id":85880073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -111.694296,
+    40.228753,
+    -111.694296,
+    40.228753
+],
+  "geometry": {"coordinates":[-111.69429599999999,40.228753],"type":"Point"}
+}

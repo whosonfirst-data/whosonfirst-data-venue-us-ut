@@ -1,0 +1,73 @@
+{
+  "id": 857450001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.905446,40.596074,-111.905446,40.596074",
+    "geom:latitude":40.596074,
+    "geom:longitude":-111.905446,
+    "iso:country":"US",
+    "sg:address":"8621 Sandy Pkwy",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 527 2320",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85818097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3T1Jgi7Q1s9OlfoD6xzgld_40.596074_-111.905446@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129755,
+    "wof:geomhash":"6849b96319ebf0d52b306a81cd1b00e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85818097,
+            "region_id":85688567,
+            "venue_id":857450001
+        }
+    ],
+    "wof:id":857450001,
+    "wof:lastmodified":1464129755,
+    "wof:name":"Sunturn Inc",
+    "wof:parent_id":85818097,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -111.905446,
+    40.596074,
+    -111.905446,
+    40.596074
+],
+  "geometry": {"coordinates":[-111.905446,40.596074],"type":"Point"}
+}

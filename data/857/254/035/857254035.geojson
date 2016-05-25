@@ -1,0 +1,76 @@
+{
+  "id": 857254035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.658576,40.238922,-111.658576,40.238922",
+    "geom:latitude":40.238922,
+    "geom:longitude":-111.658576,
+    "iso:country":"US",
+    "sg:address":"310 N University Ave",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 374 9340",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "federal",
+        "savings"
+    ],
+    "sg:website":"www.wamu.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30fgKweSYg6O6U0YZNSUFF_40.238922_-111.658576@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125347,
+    "wof:geomhash":"9f28a0e1079512a329244706da3144ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880121,
+            "region_id":85688567,
+            "venue_id":857254035
+        }
+    ],
+    "wof:id":857254035,
+    "wof:lastmodified":1464125347,
+    "wof:name":"Washington Mutual",
+    "wof:parent_id":85880121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "savings"
+    ]
+},
+  "bbox": [
+    -111.658576,
+    40.238922,
+    -111.658576,
+    40.238922
+],
+  "geometry": {"coordinates":[-111.658576,40.238922],"type":"Point"}
+}

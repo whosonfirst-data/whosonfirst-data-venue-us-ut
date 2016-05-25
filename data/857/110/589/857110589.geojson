@@ -1,0 +1,71 @@
+{
+  "id": 857110589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834639,41.740485,-111.834639,41.740485",
+    "geom:latitude":41.740485,
+    "geom:longitude":-111.834639,
+    "iso:country":"US",
+    "sg:address":"432 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 5789",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35KLrdQX2zymG6qQKjOlhP_41.740485_-111.834639@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122183,
+    "wof:geomhash":"988aa86e672d5d09505ead569bc2a759",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857110589
+        }
+    ],
+    "wof:id":857110589,
+    "wof:lastmodified":1464122183,
+    "wof:name":"Mandarin Garden",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chinese"
+    ]
+},
+  "bbox": [
+    -111.834639,
+    41.740485,
+    -111.834639,
+    41.740485
+],
+  "geometry": {"coordinates":[-111.834639,41.740485],"type":"Point"}
+}

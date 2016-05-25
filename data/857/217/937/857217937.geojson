@@ -1,0 +1,73 @@
+{
+  "id": 857217937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.851375,40.558848,-111.851375,40.558848",
+    "geom:latitude":40.558848,
+    "geom:longitude":-111.851375,
+    "iso:country":"US",
+    "sg:address":"1315 E 10600 S",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 572 4716",
+    "sg:postcode":"84092",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85805391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sKkvDuBThTrHvMOIAJ2q5_40.558848_-111.851375@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124573,
+    "wof:geomhash":"1b26d6232dd562de9b5f0a9d043b8917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85805391,
+            "region_id":85688567,
+            "venue_id":857217937
+        }
+    ],
+    "wof:id":857217937,
+    "wof:lastmodified":1464124573,
+    "wof:name":"Burger King",
+    "wof:parent_id":85805391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.851375,
+    40.558848,
+    -111.851375,
+    40.558848
+],
+  "geometry": {"coordinates":[-111.851375,40.558848],"type":"Point"}
+}

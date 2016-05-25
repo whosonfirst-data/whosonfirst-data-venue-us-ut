@@ -1,0 +1,75 @@
+{
+  "id": 857143687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.916803,40.731508,-111.916803,40.731508",
+    "geom:latitude":40.731508,
+    "geom:longitude":-111.916803,
+    "iso:country":"US",
+    "sg:address":"1809 S 900 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 973 0994",
+    "sg:postcode":"84104",
+    "sg:province":"UT",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85848029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55Crqmy0Ynlu1iC0wsKM3d_40.731508_-111.916803@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122987,
+    "wof:geomhash":"f4a86df71f4529f76c58d826b1270a10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85848029,
+            "region_id":85688567,
+            "venue_id":857143687
+        }
+    ],
+    "wof:id":857143687,
+    "wof:lastmodified":1464122987,
+    "wof:name":"Ron Johnson Masonry",
+    "wof:parent_id":85848029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.916803,
+    40.731508,
+    -111.916803,
+    40.731508
+],
+  "geometry": {"coordinates":[-111.916803,40.731508],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857163707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.787226,40.384915,-111.787226,40.384915",
+    "geom:latitude":40.384915,
+    "geom:longitude":-111.787226,
+    "iso:country":"US",
+    "sg:address":"517 N Brigham Ave",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 7326",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dry",
+        "bulk",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RDuInpQJTJeeIqGxH2o0E_40.384915_-111.787226@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123436,
+    "wof:geomhash":"5652f5cb8c133f25873fbc491161206b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857163707
+        }
+    ],
+    "wof:id":857163707,
+    "wof:lastmodified":1464123436,
+    "wof:name":"Commercial Bulk Svc",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry",
+        "bulk",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -111.787226,
+    40.384915,
+    -111.787226,
+    40.384915
+],
+  "geometry": {"coordinates":[-111.787226,40.384915],"type":"Point"}
+}

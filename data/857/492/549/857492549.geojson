@@ -1,0 +1,74 @@
+{
+  "id": 857492549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.98617,40.61042,-111.98617,40.61042",
+    "geom:latitude":40.61042,
+    "geom:longitude":-111.98617,
+    "iso:country":"US",
+    "sg:address":"7779 Jordan Landing Blvd",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/118419-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 316 0049",
+    "sg:postcode":"84084",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85813117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53LRXJfmzG3Kgi3eYZdIZp_40.610420_-111.986170@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130683,
+    "wof:geomhash":"b9fe657db41b0335707db02cfb7ee228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85813117,
+            "region_id":85688567,
+            "venue_id":857492549
+        }
+    ],
+    "wof:id":857492549,
+    "wof:lastmodified":1464130683,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85813117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -111.98617,
+    40.61042,
+    -111.98617,
+    40.61042
+],
+  "geometry": {"coordinates":[-111.98617,40.61042],"type":"Point"}
+}

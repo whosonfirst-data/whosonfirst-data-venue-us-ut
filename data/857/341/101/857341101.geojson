@@ -1,0 +1,76 @@
+{
+  "id": 857341101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.822749,41.284859,-111.822749,41.284859",
+    "geom:latitude":41.284859,
+    "geom:longitude":-111.822749,
+    "iso:country":"US",
+    "sg:address":"1315 Hwy 158",
+    "sg:city":"Eden",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 745 2634",
+    "sg:postcode":"84310",
+    "sg:province":"UT",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "sg:website":"www.snowberryinn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728033,
+        102083539,
+        85835839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CgALH1pY8OTSXcCUFALsa_41.284859_-111.822749@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127299,
+    "wof:geomhash":"74e5c963f707f63b0f053d318d78622d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85835839,
+            "region_id":85688567,
+            "venue_id":857341101
+        }
+    ],
+    "wof:id":857341101,
+    "wof:lastmodified":1464127299,
+    "wof:name":"Snowberry Inn",
+    "wof:parent_id":85835839,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ]
+},
+  "bbox": [
+    -111.822749,
+    41.284859,
+    -111.822749,
+    41.284859
+],
+  "geometry": {"coordinates":[-111.822749,41.284859],"type":"Point"}
+}

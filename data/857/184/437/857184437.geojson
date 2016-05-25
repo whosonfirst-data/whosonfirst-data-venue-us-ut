@@ -1,0 +1,86 @@
+{
+  "id": 857184437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.87108,40.713031,-111.87108,40.713031",
+    "geom:latitude":40.713031,
+    "geom:longitude":-111.87108,
+    "iso:country":"US",
+    "sg:address":"2601 S 700 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 484 8842",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "landscape",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85858223,
+        101728075,
+        85871027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1n5EWtX0qYuvcHM8FfVzAX_40.713031_-111.871080@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123888,
+    "wof:geomhash":"fc56efc2d2f03636f7d674ec3f287c25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85858223,
+            "region_id":85688567,
+            "venue_id":857184437
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871027,
+            "region_id":85688567,
+            "venue_id":857184437
+        }
+    ],
+    "wof:id":857184437,
+    "wof:lastmodified":1464123888,
+    "wof:name":"Outside In",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "supply"
+    ]
+},
+  "bbox": [
+    -111.87108,
+    40.713031,
+    -111.87108,
+    40.713031
+],
+  "geometry": {"coordinates":[-111.87108000000001,40.713031],"type":"Point"}
+}

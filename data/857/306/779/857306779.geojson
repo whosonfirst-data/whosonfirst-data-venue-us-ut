@@ -1,0 +1,71 @@
+{
+  "id": 857306779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.816524,41.799113,-111.816524,41.799113",
+    "geom:latitude":41.799113,
+    "geom:longitude":-111.816524,
+    "iso:country":"US",
+    "sg:address":"113 E Center St",
+    "sg:city":"Hyde Park",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 563 6923",
+    "sg:postcode":"84318",
+    "sg:province":"UT",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OSy4nB8KMIfYs9M74nRDu_41.799113_-111.816524@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126554,
+    "wof:geomhash":"5f1291b86129dcce17f1c2fd8538c290",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857306779
+        }
+    ],
+    "wof:id":857306779,
+    "wof:lastmodified":1464126554,
+    "wof:name":"North Logan City Court",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -111.816524,
+    41.799113,
+    -111.816524,
+    41.799113
+],
+  "geometry": {"coordinates":[-111.816524,41.799113],"type":"Point"}
+}

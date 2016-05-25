@@ -1,0 +1,73 @@
+{
+  "id": 857188751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.023814,40.507756,-112.023814,40.507756",
+    "geom:latitude":40.507756,
+    "geom:longitude":-112.023814,
+    "iso:country":"US",
+    "sg:address":"5560 W 13400 S",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 254 8208",
+    "sg:postcode":"84065",
+    "sg:province":"UT",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728047,
+        102082877,
+        85819751
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6W6bg3cGnKfymD5Q7kxO4h_40.507756_-112.023814@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123965,
+    "wof:geomhash":"0d82ae58819b3adfcfa22a2c6f3c5793",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728047,
+            "neighbourhood_id":85819751,
+            "region_id":85688567,
+            "venue_id":857188751
+        }
+    ],
+    "wof:id":857188751,
+    "wof:lastmodified":1464123965,
+    "wof:name":"Smith's Food & Drug Ctr",
+    "wof:parent_id":85819751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -112.023814,
+    40.507756,
+    -112.023814,
+    40.507756
+],
+  "geometry": {"coordinates":[-112.023814,40.507756],"type":"Point"}
+}

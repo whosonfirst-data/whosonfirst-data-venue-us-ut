@@ -1,0 +1,73 @@
+{
+  "id": 857187971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.822417,40.594966,-111.822417,40.594966",
+    "geom:latitude":40.594966,
+    "geom:longitude":-111.822417,
+    "iso:country":"US",
+    "sg:address":"2322 Alta Canyon Dr",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 942 9062",
+    "sg:postcode":"84093",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728077,
+        102082877,
+        85843389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mEuLWpq3tjErqyvPuncG7_40.594966_-111.822417@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123951,
+    "wof:geomhash":"b624b402260441e8b93e13c5f3ae5986",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85843389,
+            "region_id":85688567,
+            "venue_id":857187971
+        }
+    ],
+    "wof:id":857187971,
+    "wof:lastmodified":1464123951,
+    "wof:name":"A & W Electric",
+    "wof:parent_id":85843389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.822417,
+    40.594966,
+    -111.822417,
+    40.594966
+],
+  "geometry": {"coordinates":[-111.822417,40.594966],"type":"Point"}
+}

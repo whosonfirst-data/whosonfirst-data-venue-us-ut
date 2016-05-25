@@ -1,0 +1,73 @@
+{
+  "id": 857165623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.825195,41.732291,-111.825195,41.732291",
+    "geom:latitude":41.732291,
+    "geom:longitude":-111.825195,
+    "iso:country":"US",
+    "sg:address":"50 Pine Wood Dr",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 3348",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37o7WxIQ5p8lS4euYu0a1L_41.732291_-111.825195@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123477,
+    "wof:geomhash":"deaa1bfca04547a11d37ba336fb9cec4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857165623
+        }
+    ],
+    "wof:id":857165623,
+    "wof:lastmodified":1464123477,
+    "wof:name":"Simmons Properties LLC",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -111.825195,
+    41.732291,
+    -111.825195,
+    41.732291
+],
+  "geometry": {"coordinates":[-111.82519499999999,41.732291],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 857300315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.872533,40.409623,-111.872533,40.409623",
+    "geom:latitude":40.409623,
+    "geom:longitude":-111.872533,
+    "iso:country":"US",
+    "sg:address":"1775 N 1400 W",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 768 8267",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "photographer",
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727857,
+        102083567,
+        85836317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MLwYectVAMsN6kegR5iFD_40.409623_-111.872533@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126420,
+    "wof:geomhash":"7cd45b2a97bfdda8761a815e4c38a243",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727857,
+            "neighbourhood_id":85836317,
+            "region_id":85688567,
+            "venue_id":857300315
+        }
+    ],
+    "wof:id":857300315,
+    "wof:lastmodified":1464126420,
+    "wof:name":"J & S Photography",
+    "wof:parent_id":85836317,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer",
+        "photo"
+    ]
+},
+  "bbox": [
+    -111.872533,
+    40.409623,
+    -111.872533,
+    40.409623
+],
+  "geometry": {"coordinates":[-111.872533,40.409623],"type":"Point"}
+}

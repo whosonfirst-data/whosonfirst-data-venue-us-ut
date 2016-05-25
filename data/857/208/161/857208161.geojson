@@ -1,0 +1,68 @@
+{
+  "id": 857208161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.880934,40.699943,-111.880934,40.699943",
+    "geom:latitude":40.699943,
+    "geom:longitude":-111.880934,
+    "iso:country":"US",
+    "sg:address":"345 E 3300 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 463 7140",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85854999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38p8daVTlQzdpbGSekqKjG_40.699943_-111.880934@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124354,
+    "wof:geomhash":"605ea44cda240bb0ce75efd1f056bc98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85854999,
+            "region_id":85688567,
+            "venue_id":857208161
+        }
+    ],
+    "wof:id":857208161,
+    "wof:lastmodified":1464124354,
+    "wof:name":"Hansen Insurance",
+    "wof:parent_id":85854999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.880934,
+    40.699943,
+    -111.880934,
+    40.699943
+],
+  "geometry": {"coordinates":[-111.880934,40.699943],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857456087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.806031,40.387182,-111.806031,40.387182",
+    "geom:latitude":40.387182,
+    "geom:longitude":-111.806031,
+    "iso:country":"US",
+    "sg:address":"272 W 500 N",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 763 9377",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RlXbgOqlE3BStkXFM2wKl_40.387182_-111.806031@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129874,
+    "wof:geomhash":"64027a292ab478cba81d57f4e552c8f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857456087
+        }
+    ],
+    "wof:id":857456087,
+    "wof:lastmodified":1464129874,
+    "wof:name":"Beehive Homes Of American Fork",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -111.806031,
+    40.387182,
+    -111.806031,
+    40.387182
+],
+  "geometry": {"coordinates":[-111.806031,40.387182],"type":"Point"}
+}

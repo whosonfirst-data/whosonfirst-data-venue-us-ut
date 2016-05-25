@@ -1,0 +1,71 @@
+{
+  "id": 857359255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.800775,41.744165,-111.800775,41.744165",
+    "geom:latitude":41.744165,
+    "geom:longitude":-111.800775,
+    "iso:country":"US",
+    "sg:address":"1330 E 700 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 797 1033",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "university"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Lld3agOJajLNi2Wtv6C9o_41.744165_-111.800775@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127683,
+    "wof:geomhash":"1731f8b3464eddc8f68070c63c6773ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857359255
+        }
+    ],
+    "wof:id":857359255,
+    "wof:lastmodified":1464127683,
+    "wof:name":"Purchasing Dept",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "university"
+    ]
+},
+  "bbox": [
+    -111.800775,
+    41.744165,
+    -111.800775,
+    41.744165
+],
+  "geometry": {"coordinates":[-111.800775,41.744165],"type":"Point"}
+}

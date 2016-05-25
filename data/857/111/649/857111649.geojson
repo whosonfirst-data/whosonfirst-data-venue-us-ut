@@ -1,0 +1,75 @@
+{
+  "id": 857111649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.869618,40.744281,-111.869618,40.744281",
+    "geom:latitude":40.744281,
+    "geom:longitude":-111.869618,
+    "iso:country":"US",
+    "sg:address":"1176 Lake St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 486 6551",
+    "sg:postcode":"84105",
+    "sg:province":"UT",
+    "sg:tags":[
+        "work",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85858241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7meeNLgWhIDm6I8DlLKzGR_40.744281_-111.869618@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122226,
+    "wof:geomhash":"6edd895d2fe3f5993883f2da683c3786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85858241,
+            "region_id":85688567,
+            "venue_id":857111649
+        }
+    ],
+    "wof:id":857111649,
+    "wof:lastmodified":1464122226,
+    "wof:name":"Shawco Electric",
+    "wof:parent_id":85858241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "work",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -111.869618,
+    40.744281,
+    -111.869618,
+    40.744281
+],
+  "geometry": {"coordinates":[-111.869618,40.744281],"type":"Point"}
+}

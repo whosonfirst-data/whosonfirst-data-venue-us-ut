@@ -1,0 +1,73 @@
+{
+  "id": 857148181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.806506,40.602056,-111.806506,40.602056",
+    "geom:latitude":40.602056,
+    "geom:longitude":-111.806506,
+    "iso:country":"US",
+    "sg:address":"8177 Scandia Way",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 943 1732",
+    "sg:postcode":"84093",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728065,
+        102082877,
+        85819289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lEzvvh4LkYC6jCGqKv7HZ_40.602056_-111.806506@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123104,
+    "wof:geomhash":"587cc2c906aab87255d4d81fc12bfb02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728065,
+            "neighbourhood_id":85819289,
+            "region_id":85688567,
+            "venue_id":857148181
+        }
+    ],
+    "wof:id":857148181,
+    "wof:lastmodified":1464123104,
+    "wof:name":"Rocky Tile",
+    "wof:parent_id":85819289,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.806506,
+    40.602056,
+    -111.806506,
+    40.602056
+],
+  "geometry": {"coordinates":[-111.806506,40.602056],"type":"Point"}
+}

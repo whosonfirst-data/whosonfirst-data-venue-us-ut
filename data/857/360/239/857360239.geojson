@@ -1,0 +1,71 @@
+{
+  "id": 857360239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.661542,40.303643,-111.661542,40.303643",
+    "geom:latitude":40.303643,
+    "geom:longitude":-111.661542,
+    "iso:country":"US",
+    "sg:address":"280 River Park Dr",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 229 1054",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QL4sQEk9uOSS66KgVNHwp_40.303643_-111.661542@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127702,
+    "wof:geomhash":"a9cf1a7790f15daaacd513804a479746",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857360239
+        }
+    ],
+    "wof:id":857360239,
+    "wof:lastmodified":1464127702,
+    "wof:name":"Central Utah Multi-Specialty",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -111.661542,
+    40.303643,
+    -111.661542,
+    40.303643
+],
+  "geometry": {"coordinates":[-111.661542,40.303643],"type":"Point"}
+}

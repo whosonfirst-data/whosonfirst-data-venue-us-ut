@@ -1,0 +1,73 @@
+{
+  "id": 857228601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.692754,40.268287,-111.692754,40.268287",
+    "geom:latitude":40.268287,
+    "geom:longitude":-111.692754,
+    "iso:country":"US",
+    "sg:address":"1520 S 100 E",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 226 8612",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85813259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tLGB502aGt8oZyhTliQ8R_40.268287_-111.692754@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124783,
+    "wof:geomhash":"c5d886ed95a8c9443766c371a47f18fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85813259,
+            "region_id":85688567,
+            "venue_id":857228601
+        }
+    ],
+    "wof:id":857228601,
+    "wof:lastmodified":1464124783,
+    "wof:name":"McClure Construction",
+    "wof:parent_id":85813259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -111.692754,
+    40.268287,
+    -111.692754,
+    40.268287
+],
+  "geometry": {"coordinates":[-111.69275399999999,40.268287],"type":"Point"}
+}

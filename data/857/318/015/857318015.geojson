@@ -1,0 +1,71 @@
+{
+  "id": 857318015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834802,41.734562,-111.834802,41.734562",
+    "geom:latitude":41.734562,
+    "geom:longitude":-111.834802,
+    "iso:country":"US",
+    "sg:address":"180 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Credit Reporting & Collection",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 2660",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OC1k2ECV6UeZZEL3NRiPK_41.734562_-111.834802@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126797,
+    "wof:geomhash":"0dc610db5cc11443533832a0cec2f486",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857318015
+        }
+    ],
+    "wof:id":857318015,
+    "wof:lastmodified":1464126797,
+    "wof:name":"Credit Service Of Logan",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -111.834802,
+    41.734562,
+    -111.834802,
+    41.734562
+],
+  "geometry": {"coordinates":[-111.834802,41.734562],"type":"Point"}
+}

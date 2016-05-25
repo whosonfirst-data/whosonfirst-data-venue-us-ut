@@ -1,0 +1,71 @@
+{
+  "id": 857174791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.01797,40.626201,-112.01797,40.626201",
+    "geom:latitude":40.626201,
+    "geom:longitude":-112.01797,
+    "iso:country":"US",
+    "sg:address":"6887 Clernates Dr",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 964 0144",
+    "sg:postcode":"84084",
+    "sg:province":"UT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728061,
+        102082877,
+        85854369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7egxNXSaq5LCyKhhPNwdis_40.626201_-112.017970@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123689,
+    "wof:geomhash":"6c562cd2490eb2573669a2fe55f3cc42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85854369,
+            "region_id":85688567,
+            "venue_id":857174791
+        }
+    ],
+    "wof:id":857174791,
+    "wof:lastmodified":1464123689,
+    "wof:name":"Paneless Window Cleaning",
+    "wof:parent_id":85854369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -112.01797,
+    40.626201,
+    -112.01797,
+    40.626201
+],
+  "geometry": {"coordinates":[-112.01797000000001,40.626201],"type":"Point"}
+}

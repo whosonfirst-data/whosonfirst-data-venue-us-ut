@@ -1,0 +1,71 @@
+{
+  "id": 857392313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.665986,40.209859,-111.665986,40.209859",
+    "geom:latitude":40.209859,
+    "geom:longitude":-111.665986,
+    "iso:country":"US",
+    "sg:address":"435 Lakewood Dr",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 377 6107",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "publishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727863,
+        102083567,
+        85880089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xAY37BTCVOKLIklL6EoVI_40.209859_-111.665986@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128472,
+    "wof:geomhash":"092eb710a2edd8ff6554bca1a5e88e50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880089,
+            "region_id":85688567,
+            "venue_id":857392313
+        }
+    ],
+    "wof:id":857392313,
+    "wof:lastmodified":1464128472,
+    "wof:name":"Masterminds Document Services",
+    "wof:parent_id":85880089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "publishing"
+    ]
+},
+  "bbox": [
+    -111.665986,
+    40.209859,
+    -111.665986,
+    40.209859
+],
+  "geometry": {"coordinates":[-111.665986,40.209859],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 857227117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.873843,40.761102,-111.873843,40.761102",
+    "geom:latitude":40.761102,
+    "geom:longitude":-111.873843,
+    "iso:country":"US",
+    "sg:address":"321 S 600 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 487 3276",
+    "sg:postcode":"84102",
+    "sg:province":"UT",
+    "sg:tags":[
+        "education",
+        "treatment",
+        "prevention"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JCmNt2b6kmLeTgd8u738M_40.761102_-111.873843@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124752,
+    "wof:geomhash":"e675647123c50dde60638f11dcbfc976",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871021,
+            "region_id":85688567,
+            "venue_id":857227117
+        }
+    ],
+    "wof:id":857227117,
+    "wof:lastmodified":1464124752,
+    "wof:name":"Serenity House",
+    "wof:parent_id":85871021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "education",
+        "treatment",
+        "prevention"
+    ]
+},
+  "bbox": [
+    -111.873843,
+    40.761102,
+    -111.873843,
+    40.761102
+],
+  "geometry": {"coordinates":[-111.87384299999999,40.761102],"type":"Point"}
+}

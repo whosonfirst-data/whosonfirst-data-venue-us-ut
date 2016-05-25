@@ -1,0 +1,71 @@
+{
+  "id": 857469943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.870871,40.924236,-111.870871,40.924236",
+    "geom:latitude":40.924236,
+    "geom:longitude":-111.870871,
+    "iso:country":"US",
+    "sg:address":"556 N 500 E",
+    "sg:city":"Centerville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 299 4114",
+    "sg:postcode":"84014",
+    "sg:province":"UT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727879,
+        102083563,
+        85849063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5d5g09KT9tarjlypO4QBEd_40.924236_-111.870871@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130170,
+    "wof:geomhash":"84e47c77df32a32b25a8ddab4d6374bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727879,
+            "neighbourhood_id":85849063,
+            "region_id":85688567,
+            "venue_id":857469943
+        }
+    ],
+    "wof:id":857469943,
+    "wof:lastmodified":1464130170,
+    "wof:name":"Centerville Third LDS Ward",
+    "wof:parent_id":85849063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -111.870871,
+    40.924236,
+    -111.870871,
+    40.924236
+],
+  "geometry": {"coordinates":[-111.87087099999999,40.924236],"type":"Point"}
+}

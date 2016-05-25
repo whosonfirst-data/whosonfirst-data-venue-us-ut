@@ -1,0 +1,79 @@
+{
+  "id": 857413227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.685487,40.049558,-111.685487,40.049558",
+    "geom:latitude":40.049558,
+    "geom:longitude":-111.685487,
+    "iso:country":"US",
+    "sg:address":"555 W 300 S",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 423 3368",
+    "sg:postcode":"84653",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mfg",
+        "repair",
+        "mach",
+        "electrical",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ba79j6WLef8wekiuvV3CF_40.049558_-111.685487@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128928,
+    "wof:geomhash":"d41cc85e41c04fdffbce10ecb44be635",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857413227
+        }
+    ],
+    "wof:id":857413227,
+    "wof:lastmodified":1464128928,
+    "wof:name":"Meck Tek Inc",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "repair",
+        "mach",
+        "electrical",
+        "general"
+    ]
+},
+  "bbox": [
+    -111.685487,
+    40.049558,
+    -111.685487,
+    40.049558
+],
+  "geometry": {"coordinates":[-111.68548699999999,40.049558],"type":"Point"}
+}

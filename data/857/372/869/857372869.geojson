@@ -1,0 +1,73 @@
+{
+  "id": 857372869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.84856,40.750089,-111.84856,40.750089",
+    "geom:latitude":40.750089,
+    "geom:longitude":-111.84856,
+    "iso:country":"US",
+    "sg:address":"856 Amanda Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 466 1874",
+    "sg:postcode":"84105",
+    "sg:province":"UT",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wzOMLWlNHrFqKi5GGZoUN_40.750089_-111.848560@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127966,
+    "wof:geomhash":"82856a4154c073bac8d593ece76893ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871031,
+            "region_id":85688567,
+            "venue_id":857372869
+        }
+    ],
+    "wof:id":857372869,
+    "wof:lastmodified":1464127966,
+    "wof:name":"Home Inspector",
+    "wof:parent_id":85871031,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -111.84856,
+    40.750089,
+    -111.84856,
+    40.750089
+],
+  "geometry": {"coordinates":[-111.84856000000001,40.750089],"type":"Point"}
+}

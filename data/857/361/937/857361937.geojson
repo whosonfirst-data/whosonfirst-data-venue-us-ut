@@ -1,0 +1,71 @@
+{
+  "id": 857361937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.835185,41.726055,-111.835185,41.726055",
+    "geom:latitude":41.726055,
+    "geom:longitude":-111.835185,
+    "iso:country":"US",
+    "sg:address":"293 S Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 4133",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "audiologists"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KR5N5pQexv2YUcBTlaF74_41.726055_-111.835185@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127741,
+    "wof:geomhash":"64f222c91c6e0500ae4c9a88aaf2c420",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857361937
+        }
+    ],
+    "wof:id":857361937,
+    "wof:lastmodified":1464127741,
+    "wof:name":"Bridgerland Audiology",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "audiologists"
+    ]
+},
+  "bbox": [
+    -111.835185,
+    41.726055,
+    -111.835185,
+    41.726055
+],
+  "geometry": {"coordinates":[-111.835185,41.726055],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 857295561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.026922,41.125531,-112.026922,41.125531",
+    "geom:latitude":41.125531,
+    "geom:longitude":-112.026922,
+    "iso:country":"US",
+    "sg:address":"846 N 50 W",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 773 9416",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "instruction",
+        "music",
+        "entertainment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727901,
+        102083563,
+        85851583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rDf0dX4LX7guQg8cdfOhL_41.125531_-112.026922@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126312,
+    "wof:geomhash":"9003be11d99c7eee608ab9beaddab1a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727901,
+            "neighbourhood_id":85851583,
+            "region_id":85688567,
+            "venue_id":857295561
+        }
+    ],
+    "wof:id":857295561,
+    "wof:lastmodified":1464126312,
+    "wof:name":"Mann Music",
+    "wof:parent_id":85851583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "music",
+        "entertainment"
+    ]
+},
+  "bbox": [
+    -112.026922,
+    41.125531,
+    -112.026922,
+    41.125531
+],
+  "geometry": {"coordinates":[-112.026922,41.125531],"type":"Point"}
+}

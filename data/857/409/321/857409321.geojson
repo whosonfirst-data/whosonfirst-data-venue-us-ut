@@ -1,0 +1,68 @@
+{
+  "id": 857409321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.830721,40.726076,-111.830721,40.726076",
+    "geom:latitude":40.726076,
+    "geom:longitude":-111.830721,
+    "iso:country":"US",
+    "sg:address":"2029 S 2100 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 487 0592",
+    "sg:postcode":"84108",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85858091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TGHOjXwIb2Be1GyjMo7ky_40.726076_-111.830721@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128818,
+    "wof:geomhash":"8185bf9ded8c36390affac5202601497",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85858091,
+            "region_id":85688567,
+            "venue_id":857409321
+        }
+    ],
+    "wof:id":857409321,
+    "wof:lastmodified":1464128818,
+    "wof:name":"Works Floral & Gift",
+    "wof:parent_id":85858091,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.830721,
+    40.726076,
+    -111.830721,
+    40.726076
+],
+  "geometry": {"coordinates":[-111.830721,40.726076],"type":"Point"}
+}

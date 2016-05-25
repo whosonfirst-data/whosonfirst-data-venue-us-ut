@@ -1,0 +1,68 @@
+{
+  "id": 857246423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.876503,40.733581,-111.876503,40.733581",
+    "geom:latitude":40.733581,
+    "geom:longitude":-111.876503,
+    "iso:country":"US",
+    "sg:address":"535 E 1700 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 486 1266",
+    "sg:postcode":"84105",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gCX3t2OLSMRmwczAYokPW_40.733581_-111.876503@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125166,
+    "wof:geomhash":"51af1a2805f7469f53488a8295229721",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871027,
+            "region_id":85688567,
+            "venue_id":857246423
+        }
+    ],
+    "wof:id":857246423,
+    "wof:lastmodified":1464125166,
+    "wof:name":"7-Eleven",
+    "wof:parent_id":85871027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.876503,
+    40.733581,
+    -111.876503,
+    40.733581
+],
+  "geometry": {"coordinates":[-111.876503,40.733581],"type":"Point"}
+}

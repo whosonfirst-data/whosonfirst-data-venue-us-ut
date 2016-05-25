@@ -1,0 +1,73 @@
+{
+  "id": 857213917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.658149,37.141672,-113.658149,37.141672",
+    "geom:latitude":37.141672,
+    "geom:longitude":-113.658149,
+    "iso:country":"US",
+    "sg:address":"3503 Chalet Dr",
+    "sg:city":"Santa Clara",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 673 8178",
+    "sg:postcode":"84765",
+    "sg:province":"UT",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KLqhcyhjvEgyys5wVVgqL_37.141672_-113.658149@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124484,
+    "wof:geomhash":"2687832a2db4a0da309472da98f3ff6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857213917
+        }
+    ],
+    "wof:id":857213917,
+    "wof:lastmodified":1464124484,
+    "wof:name":"Morgan Welding Inc",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -113.658149,
+    37.141672,
+    -113.658149,
+    37.141672
+],
+  "geometry": {"coordinates":[-113.65814899999999,37.141672],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857468597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.87887,40.933758,-111.87887,40.933758",
+    "geom:latitude":40.933758,
+    "geom:longitude":-111.87887,
+    "iso:country":"US",
+    "sg:address":"1334 N Main St",
+    "sg:city":"Centerville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 299 9120",
+    "sg:postcode":"84014",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727879,
+        102083563,
+        85809721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KHZL4RLGi3OgyG6fVf6iB_40.933758_-111.878870@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130139,
+    "wof:geomhash":"b3ed38a756ad6b5337c3ce26e0a4365c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727879,
+            "neighbourhood_id":85809721,
+            "region_id":85688567,
+            "venue_id":857468597
+        }
+    ],
+    "wof:id":857468597,
+    "wof:lastmodified":1464130139,
+    "wof:name":"Total Restoration Inc",
+    "wof:parent_id":85809721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.87887,
+    40.933758,
+    -111.87887,
+    40.933758
+],
+  "geometry": {"coordinates":[-111.87887000000001,40.933758],"type":"Point"}
+}

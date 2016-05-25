@@ -1,0 +1,73 @@
+{
+  "id": 857353453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.880016,41.724406,-111.880016,41.724406",
+    "geom:latitude":41.724406,
+    "geom:longitude":-111.880016,
+    "iso:country":"US",
+    "sg:address":"407 S 1900 W",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 8703",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iWYdplYGE14MH4vxrilRy_41.724406_-111.880016@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127563,
+    "wof:geomhash":"feda8343a40fb3a0b389998a3141869a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857353453
+        }
+    ],
+    "wof:id":857353453,
+    "wof:lastmodified":1464127563,
+    "wof:name":"Southwest Field Irrigatio",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -111.880016,
+    41.724406,
+    -111.880016,
+    41.724406
+],
+  "geometry": {"coordinates":[-111.880016,41.724406],"type":"Point"}
+}

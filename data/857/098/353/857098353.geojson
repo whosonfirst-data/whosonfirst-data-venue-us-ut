@@ -1,0 +1,75 @@
+{
+  "id": 857098353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.89277,40.719355,-111.89277,40.719355",
+    "geom:latitude":40.719355,
+    "geom:longitude":-111.89277,
+    "iso:country":"US",
+    "sg:address":"49 W Burton Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 474 3334",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85808611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tck0hQatzTSvEfaHgnsAa_40.719355_-111.892770@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121865,
+    "wof:geomhash":"7687acb2dc4eca26c455fce6d48e336f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85808611,
+            "region_id":85688567,
+            "venue_id":857098353
+        }
+    ],
+    "wof:id":857098353,
+    "wof:lastmodified":1464121865,
+    "wof:name":"Brew Fresh Coffee",
+    "wof:parent_id":85808611,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -111.89277,
+    40.719355,
+    -111.89277,
+    40.719355
+],
+  "geometry": {"coordinates":[-111.89277,40.719355],"type":"Point"}
+}

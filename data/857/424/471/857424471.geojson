@@ -1,0 +1,75 @@
+{
+  "id": 857424471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.853417,41.7246,-111.853417,41.7246",
+    "geom:latitude":41.7246,
+    "geom:longitude":-111.853417,
+    "iso:country":"US",
+    "sg:address":"394 Meadow Cir",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 755 3153",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house",
+        "builder",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ee2vWOzv77kSA31nfO3A0_41.724600_-111.853417@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129209,
+    "wof:geomhash":"d5dfd6a47c82c145d7580a8e42afbaca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857424471
+        }
+    ],
+    "wof:id":857424471,
+    "wof:lastmodified":1464129209,
+    "wof:name":"Quality Homes Construction Inc",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "builder",
+        "home"
+    ]
+},
+  "bbox": [
+    -111.853417,
+    41.7246,
+    -111.853417,
+    41.7246
+],
+  "geometry": {"coordinates":[-111.85341699999999,41.7246],"type":"Point"}
+}

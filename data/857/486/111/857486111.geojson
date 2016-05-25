@@ -1,0 +1,71 @@
+{
+  "id": 857486111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.642231,40.120017,-111.642231,40.120017",
+    "geom:latitude":40.120017,
+    "geom:longitude":-111.642231,
+    "iso:country":"US",
+    "sg:address":"730 E 800 N",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 9470",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tcHM8Jt2E3nE80F3RENe9_40.120017_-111.642231@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130487,
+    "wof:geomhash":"301bac755f72f44ad890eb21366328be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857486111
+        }
+    ],
+    "wof:id":857486111,
+    "wof:lastmodified":1464130487,
+    "wof:name":"Faith Baptist Church",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -111.642231,
+    40.120017,
+    -111.642231,
+    40.120017
+],
+  "geometry": {"coordinates":[-111.642231,40.120017],"type":"Point"}
+}

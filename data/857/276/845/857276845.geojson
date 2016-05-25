@@ -1,0 +1,71 @@
+{
+  "id": 857276845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.823341,41.75058,-111.823341,41.75058",
+    "geom:latitude":41.75058,
+    "geom:longitude":-111.823341,
+    "iso:country":"US",
+    "sg:address":"1061 Bonneville Ave",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 2938",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3T2gu8PMFXzwhcXKId7mMm_41.750580_-111.823341@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125838,
+    "wof:geomhash":"7c9083be8840669b1b1948375ab6d677",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857276845
+        }
+    ],
+    "wof:id":857276845,
+    "wof:lastmodified":1464125838,
+    "wof:name":"Drop-A-Tot",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -111.823341,
+    41.75058,
+    -111.823341,
+    41.75058
+],
+  "geometry": {"coordinates":[-111.823341,41.75058],"type":"Point"}
+}

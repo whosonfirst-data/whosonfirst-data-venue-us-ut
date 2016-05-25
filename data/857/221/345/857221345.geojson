@@ -1,0 +1,75 @@
+{
+  "id": 857221345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.656387,40.212378,-111.656387,40.212378",
+    "geom:latitude":40.212378,
+    "geom:longitude":-111.656387,
+    "iso:country":"US",
+    "sg:address":"122 E 1700 S",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 359 3079",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:tags":[
+        "internet",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gye4X0ExNCh54uEIl0F5t_40.212378_-111.656387@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124644,
+    "wof:geomhash":"d780abe2c0d5257686bdcb80d942692c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880069,
+            "region_id":85688567,
+            "venue_id":857221345
+        }
+    ],
+    "wof:id":857221345,
+    "wof:lastmodified":1464124644,
+    "wof:name":"Novell Inc",
+    "wof:parent_id":85880069,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "internet",
+        "software"
+    ]
+},
+  "bbox": [
+    -111.656387,
+    40.212378,
+    -111.656387,
+    40.212378
+],
+  "geometry": {"coordinates":[-111.656387,40.212378],"type":"Point"}
+}

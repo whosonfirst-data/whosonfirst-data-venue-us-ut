@@ -1,0 +1,73 @@
+{
+  "id": 857233283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.848201,40.878501,-111.848201,40.878501",
+    "geom:latitude":40.878501,
+    "geom:longitude":-111.848201,
+    "iso:country":"US",
+    "sg:address":"1504 Lakeview Dr",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 295 1504",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "sg:tags":[
+        "packer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727881,
+        102083563,
+        85809349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0f7GWScgTtQN0JL8WzYO8I_40.878501_-111.848201@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124866,
+    "wof:geomhash":"bf5c8eeaf285b1d1bb3bb7f80b7a7634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727881,
+            "neighbourhood_id":85809349,
+            "region_id":85688567,
+            "venue_id":857233283
+        }
+    ],
+    "wof:id":857233283,
+    "wof:lastmodified":1464124866,
+    "wof:name":"Hog Wildel",
+    "wof:parent_id":85809349,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packer"
+    ]
+},
+  "bbox": [
+    -111.848201,
+    40.878501,
+    -111.848201,
+    40.878501
+],
+  "geometry": {"coordinates":[-111.848201,40.878501],"type":"Point"}
+}

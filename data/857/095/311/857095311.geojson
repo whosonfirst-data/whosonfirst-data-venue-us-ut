@@ -1,0 +1,71 @@
+{
+  "id": 857095311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834622,41.748179,-111.834622,41.748179",
+    "geom:latitude":41.748179,
+    "geom:longitude":-111.834622,
+    "iso:country":"US",
+    "sg:address":"46 W 900 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 6614",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77Mpq3U3ooCBsrwwpaPS4x_41.748179_-111.834622@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121795,
+    "wof:geomhash":"a591544bf9255db0d05343a406985573",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857095311
+        }
+    ],
+    "wof:id":857095311,
+    "wof:lastmodified":1464121795,
+    "wof:name":"Intermountain Cooling Systems",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -111.834622,
+    41.748179,
+    -111.834622,
+    41.748179
+],
+  "geometry": {"coordinates":[-111.834622,41.748179],"type":"Point"}
+}

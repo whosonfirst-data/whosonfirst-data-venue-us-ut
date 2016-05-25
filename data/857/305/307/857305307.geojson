@@ -1,0 +1,73 @@
+{
+  "id": 857305307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.97919,41.248611,-111.97919,41.248611",
+    "geom:latitude":41.248611,
+    "geom:longitude":-111.97919,
+    "iso:country":"US",
+    "sg:address":"145 W 9th St",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 393 9823",
+    "sg:postcode":"84404",
+    "sg:province":"UT",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85815115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PQN6zGhLjZAYFPNFrxRDb_41.248611_-111.979190@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126525,
+    "wof:geomhash":"bfefbdab66bcfe87026474a5b76ad7b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85815115,
+            "region_id":85688567,
+            "venue_id":857305307
+        }
+    ],
+    "wof:id":857305307,
+    "wof:lastmodified":1464126525,
+    "wof:name":"Mountain Muscle Automotive",
+    "wof:parent_id":85815115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -111.97919,
+    41.248611,
+    -111.97919,
+    41.248611
+],
+  "geometry": {"coordinates":[-111.97919,41.248611],"type":"Point"}
+}

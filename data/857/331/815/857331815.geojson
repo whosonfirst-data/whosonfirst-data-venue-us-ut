@@ -1,0 +1,73 @@
+{
+  "id": 857331815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.888216,40.666221,-111.888216,40.666221",
+    "geom:latitude":40.666221,
+    "geom:longitude":-111.888216,
+    "iso:country":"US",
+    "sg:address":"4841 S State St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 262 3803",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85804367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YXItkSJYKN6nfhUrRUzuG_40.666221_-111.888216@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127097,
+    "wof:geomhash":"c66c54b4ef3a9886f0abee8b523e338e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85804367,
+            "region_id":85688567,
+            "venue_id":857331815
+        }
+    ],
+    "wof:id":857331815,
+    "wof:lastmodified":1464127097,
+    "wof:name":"Capri Salon",
+    "wof:parent_id":85804367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.888216,
+    40.666221,
+    -111.888216,
+    40.666221
+],
+  "geometry": {"coordinates":[-111.888216,40.666221],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857150549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.025688,41.226374,-112.025688,41.226374",
+    "geom:latitude":41.226374,
+    "geom:longitude":-112.025688,
+    "iso:country":"US",
+    "sg:address":"2239 S 1900 W",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 731 1641",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85818351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45NBOZQMYIQ0ebU4BpxArY_41.226374_-112.025688@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123159,
+    "wof:geomhash":"d614ef61306154b3a576d6bdab8ac43e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85818351,
+            "region_id":85688567,
+            "venue_id":857150549
+        }
+    ],
+    "wof:id":857150549,
+    "wof:lastmodified":1464123159,
+    "wof:name":"Stenberg Construction Inc",
+    "wof:parent_id":85818351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -112.025688,
+    41.226374,
+    -112.025688,
+    41.226374
+],
+  "geometry": {"coordinates":[-112.025688,41.226374],"type":"Point"}
+}

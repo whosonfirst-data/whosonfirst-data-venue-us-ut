@@ -1,0 +1,75 @@
+{
+  "id": 857265833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.976534,41.07025,-111.976534,41.07025",
+    "geom:latitude":41.07025,
+    "geom:longitude":-111.976534,
+    "iso:country":"US",
+    "sg:address":"707 N Main St",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 547 1240",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "unisex",
+        "hair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DjQSdshFwmE5kVjc319wd_41.070250_-111.976534@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125607,
+    "wof:geomhash":"bd7c904d54530ed8f01df52c3fc14d7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857265833
+        }
+    ],
+    "wof:id":857265833,
+    "wof:lastmodified":1464125607,
+    "wof:name":"Great Clips",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "unisex",
+        "hair"
+    ]
+},
+  "bbox": [
+    -111.976534,
+    41.07025,
+    -111.976534,
+    41.07025
+],
+  "geometry": {"coordinates":[-111.976534,41.07025],"type":"Point"}
+}

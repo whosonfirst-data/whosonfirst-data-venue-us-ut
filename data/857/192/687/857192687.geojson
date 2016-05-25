@@ -1,0 +1,77 @@
+{
+  "id": 857192687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.002753,41.316349,-112.002753,41.316349",
+    "geom:latitude":41.316349,
+    "geom:longitude":-112.002753,
+    "iso:country":"US",
+    "sg:address":"3346 N 1000 W",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 782 1132",
+    "sg:postcode":"84414",
+    "sg:province":"UT",
+    "sg:tags":[
+        "concrete",
+        "contractor",
+        "sanitary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728025,
+        102083539,
+        85837881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Oi8uXchoF2qgd5rJzG1SF_41.316349_-112.002753@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124036,
+    "wof:geomhash":"807efc97255f3f29dc030b5049213f1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728025,
+            "neighbourhood_id":85837881,
+            "region_id":85688567,
+            "venue_id":857192687
+        }
+    ],
+    "wof:id":857192687,
+    "wof:lastmodified":1464124036,
+    "wof:name":"Dayton Construction",
+    "wof:parent_id":85837881,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor",
+        "sanitary"
+    ]
+},
+  "bbox": [
+    -112.002753,
+    41.316349,
+    -112.002753,
+    41.316349
+],
+  "geometry": {"coordinates":[-112.002753,41.316349],"type":"Point"}
+}

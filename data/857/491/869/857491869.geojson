@@ -1,0 +1,76 @@
+{
+  "id": 857491869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.977606,41.071605,-111.977606,41.071605",
+    "geom:latitude":41.071605,
+    "geom:longitude":-111.977606,
+    "iso:country":"US",
+    "sg:address":"747 N Main St",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/north-davis/181278-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 547 0556",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BRbSQrDgHzl4nsSRXjedi_41.071605_-111.977606@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130656,
+    "wof:geomhash":"9736b7d7bce15aa1ef0877dbd9dd8d8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857491869
+        }
+    ],
+    "wof:id":857491869,
+    "wof:lastmodified":1464130656,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -111.977606,
+    41.071605,
+    -111.977606,
+    41.071605
+],
+  "geometry": {"coordinates":[-111.97760599999999,41.071605],"type":"Point"}
+}

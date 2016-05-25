@@ -1,0 +1,75 @@
+{
+  "id": 857394797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.730063,40.278124,-111.730063,40.278124",
+    "geom:latitude":40.278124,
+    "geom:longitude":-111.730063,
+    "iso:country":"US",
+    "sg:address":"1042 S Geneva Rd",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 8999",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727827,
+        102083567,
+        85821287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CZ88xib9uKExPiiIq4bTG_40.278124_-111.730063@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128518,
+    "wof:geomhash":"0e73386a5dd255c02685a5982495c332",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727827,
+            "neighbourhood_id":85821287,
+            "region_id":85688567,
+            "venue_id":857394797
+        }
+    ],
+    "wof:id":857394797,
+    "wof:lastmodified":1464128518,
+    "wof:name":"Storage Center",
+    "wof:parent_id":85821287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -111.730063,
+    40.278124,
+    -111.730063,
+    40.278124
+],
+  "geometry": {"coordinates":[-111.730063,40.278124],"type":"Point"}
+}

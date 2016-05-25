@@ -1,0 +1,65 @@
+{
+  "id": 857495515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.657974,40.30282,-111.657974,40.30282",
+    "geom:latitude":40.30282,
+    "geom:longitude":-111.657974,
+    "iso:country":"US",
+    "sg:address":"5152 North Edgewood Drive Suite 375",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 765 1200",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:website":"http://www.rasertech.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JhFcxpq0rfKn5jBpWZd1Y_40.302820_-111.657974@1308186498"
+    },
+    "wof:country":"US",
+    "wof:created":1464130802,
+    "wof:geomhash":"15fba13a796e7b9a8f02e94273f09748",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857495515
+        }
+    ],
+    "wof:id":857495515,
+    "wof:lastmodified":1464130802,
+    "wof:name":"Raser Technologies",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.657974,
+    40.30282,
+    -111.657974,
+    40.30282
+],
+  "geometry": {"coordinates":[-111.657974,40.30282],"type":"Point"}
+}

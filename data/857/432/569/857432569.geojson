@@ -1,0 +1,71 @@
+{
+  "id": 857432569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.728501,40.035021,-111.728501,40.035021",
+    "geom:latitude":40.035021,
+    "geom:longitude":-111.728501,
+    "iso:country":"US",
+    "sg:address":"593 S 300 E",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 4021",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "midwife"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QiOXlx2yfO0C0JXhoEGHH_40.035021_-111.728501@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129414,
+    "wof:geomhash":"43e6f948957cc01959fac6eaa734d83e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857432569
+        }
+    ],
+    "wof:id":857432569,
+    "wof:lastmodified":1464129414,
+    "wof:name":"Enlightened Birth Midwife Free",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "midwife"
+    ]
+},
+  "bbox": [
+    -111.728501,
+    40.035021,
+    -111.728501,
+    40.035021
+],
+  "geometry": {"coordinates":[-111.72850099999999,40.035021],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857253615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.887702,40.64284,-111.887702,40.64284",
+    "geom:latitude":40.64284,
+    "geom:longitude":-111.887702,
+    "iso:country":"US",
+    "sg:address":"168 E 5900 S",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 268 6439",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85822549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3m0HTYx2znvAr3fUVX5YE3_40.642840_-111.887702@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125338,
+    "wof:geomhash":"bb4f094317b901479cacc1061907c578",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85822549,
+            "region_id":85688567,
+            "venue_id":857253615
+        }
+    ],
+    "wof:id":857253615,
+    "wof:lastmodified":1464125338,
+    "wof:name":"Histotec",
+    "wof:parent_id":85822549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -111.887702,
+    40.64284,
+    -111.887702,
+    40.64284
+],
+  "geometry": {"coordinates":[-111.887702,40.64284],"type":"Point"}
+}

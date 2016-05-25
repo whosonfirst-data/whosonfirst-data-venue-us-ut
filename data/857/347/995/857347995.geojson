@@ -1,0 +1,75 @@
+{
+  "id": 857347995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.522062,37.110191,-113.522062,37.110191",
+    "geom:latitude":37.110191,
+    "geom:longitude":-113.522062,
+    "iso:country":"US",
+    "sg:address":"345 E Riverside Dr",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Amusement Park",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 688 3374",
+    "sg:postcode":"84790",
+    "sg:province":"UT",
+    "sg:tags":[
+        "national",
+        "park"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FmeLgFVTjFSJYu9U4Nhfo_37.110191_-113.522062@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127440,
+    "wof:geomhash":"d533c68bbac371d6b37ce58cc2c015a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857347995
+        }
+    ],
+    "wof:id":857347995,
+    "wof:lastmodified":1464127440,
+    "wof:name":"Parashant National Park",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "park"
+    ]
+},
+  "bbox": [
+    -113.522062,
+    37.110191,
+    -113.522062,
+    37.110191
+],
+  "geometry": {"coordinates":[-113.52206200000001,37.110191],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857259725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.060625,41.079726,-112.060625,41.079726",
+    "geom:latitude":41.079726,
+    "geom:longitude":-112.060625,
+    "iso:country":"US",
+    "sg:address":"1781 W 2350 S",
+    "sg:city":"Syracuse",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 776 5216",
+    "sg:postcode":"84075",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727889,
+        102083563,
+        85804563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Xr9DvJHU9mABRHZ3XVdq6_41.079726_-112.060625@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125485,
+    "wof:geomhash":"8887e9307fff221a8bf2542622981811",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727889,
+            "neighbourhood_id":85804563,
+            "region_id":85688567,
+            "venue_id":857259725
+        }
+    ],
+    "wof:id":857259725,
+    "wof:lastmodified":1464125485,
+    "wof:name":"Double Ott Transportation LLC",
+    "wof:parent_id":85804563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.060625,
+    41.079726,
+    -112.060625,
+    41.079726
+],
+  "geometry": {"coordinates":[-112.060625,41.079726],"type":"Point"}
+}

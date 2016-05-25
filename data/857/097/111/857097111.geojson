@@ -1,0 +1,89 @@
+{
+  "id": 857097111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.870059,40.712593,-111.870059,40.712593",
+    "geom:latitude":40.712593,
+    "geom:longitude":-111.870059,
+    "iso:country":"US",
+    "sg:address":"710 E 2700 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 484 8265",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85858223,
+        101728075,
+        85871027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KzPNpsCdhYTcdECzMs5Ih_40.712593_-111.870059@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121835,
+    "wof:geomhash":"086e6819eca15df03f2aed72e85118fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85858223,
+            "region_id":85688567,
+            "venue_id":857097111
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871027,
+            "region_id":85688567,
+            "venue_id":857097111
+        }
+    ],
+    "wof:id":857097111,
+    "wof:lastmodified":1464121835,
+    "wof:name":"Maverik Country Stores 326",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -111.870059,
+    40.712593,
+    -111.870059,
+    40.712593
+],
+  "geometry": {"coordinates":[-111.870059,40.712593],"type":"Point"}
+}

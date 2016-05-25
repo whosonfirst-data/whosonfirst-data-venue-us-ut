@@ -1,0 +1,73 @@
+{
+  "id": 857157703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.984103,41.084809,-111.984103,41.084809",
+    "geom:latitude":41.084809,
+    "geom:longitude":-111.984103,
+    "iso:country":"US",
+    "sg:address":"1860 N 1000 W",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 525 8400",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "bird"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GXyyVImbzLbth2erFN7j8_41.084809_-111.984103@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123297,
+    "wof:geomhash":"dbae99035b5f977233f128c385176f34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857157703
+        }
+    ],
+    "wof:id":857157703,
+    "wof:lastmodified":1464123297,
+    "wof:name":"Wild Bird Ctr",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bird"
+    ]
+},
+  "bbox": [
+    -111.984103,
+    41.084809,
+    -111.984103,
+    41.084809
+],
+  "geometry": {"coordinates":[-111.984103,41.084809],"type":"Point"}
+}

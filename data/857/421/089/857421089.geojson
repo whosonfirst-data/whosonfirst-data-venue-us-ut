@@ -1,0 +1,73 @@
+{
+  "id": 857421089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.64218,40.270684,-111.64218,40.270684",
+    "geom:latitude":40.270684,
+    "geom:longitude":-111.64218,
+    "iso:country":"US",
+    "sg:address":"2810 N Indian Hills Dr",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 375 5124",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DCO2TM0lXXo9B77xkOqUE_40.270684_-111.642180@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129131,
+    "wof:geomhash":"928a00914c0f889fdcff3a8279c94baa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880111,
+            "region_id":85688567,
+            "venue_id":857421089
+        }
+    ],
+    "wof:id":857421089,
+    "wof:lastmodified":1464129131,
+    "wof:name":"Snow Mountain Management Inc",
+    "wof:parent_id":85880111,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -111.64218,
+    40.270684,
+    -111.64218,
+    40.270684
+],
+  "geometry": {"coordinates":[-111.64218,40.270684],"type":"Point"}
+}

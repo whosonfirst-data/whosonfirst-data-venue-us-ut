@@ -1,0 +1,73 @@
+{
+  "id": 857212701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.654701,40.112192,-111.654701,40.112192",
+    "geom:latitude":40.112192,
+    "geom:longitude":-111.654701,
+    "iso:country":"US",
+    "sg:address":"120 N Main St",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 1776",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "picture",
+        "frame"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Y5dltOVIjMDEpfbWx9hPq_40.112192_-111.654701@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124458,
+    "wof:geomhash":"d4334c00558545b1b36bbc52b60182b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857212701
+        }
+    ],
+    "wof:id":857212701,
+    "wof:lastmodified":1464124458,
+    "wof:name":"Millman Legacy Gallery",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "picture",
+        "frame"
+    ]
+},
+  "bbox": [
+    -111.654701,
+    40.112192,
+    -111.654701,
+    40.112192
+],
+  "geometry": {"coordinates":[-111.654701,40.112192],"type":"Point"}
+}

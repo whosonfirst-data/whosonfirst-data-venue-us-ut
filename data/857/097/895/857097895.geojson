@@ -1,0 +1,68 @@
+{
+  "id": 857097895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.668003,37.158651,-113.668003,37.158651",
+    "geom:latitude":37.158651,
+    "geom:longitude":-113.668003,
+    "iso:country":"US",
+    "sg:address":"515 S Siesta Dr",
+    "sg:city":"Ivins",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 674 1607",
+    "sg:postcode":"84738",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YNfVQ8Cm9oD7EMme0B3vr_37.158651_-113.668003@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121855,
+    "wof:geomhash":"943a70ac892f14ad95ae21d1d2ba4c93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857097895
+        }
+    ],
+    "wof:id":857097895,
+    "wof:lastmodified":1464121855,
+    "wof:name":"Neal Mower",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.668003,
+    37.158651,
+    -113.668003,
+    37.158651
+],
+  "geometry": {"coordinates":[-113.668003,37.158651],"type":"Point"}
+}

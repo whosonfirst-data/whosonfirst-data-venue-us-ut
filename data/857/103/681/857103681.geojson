@@ -1,0 +1,68 @@
+{
+  "id": 857103681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.535373,37.122582,-113.535373,37.122582",
+    "geom:latitude":37.122582,
+    "geom:longitude":-113.535373,
+    "iso:country":"US",
+    "sg:address":"1720 Red Cliffs Dr",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 634 4900",
+    "sg:postcode":"84790",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23EghuF4Rt2VnHXrPcpq4w_37.122582_-113.535373@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121997,
+    "wof:geomhash":"445d741763d3a772783786b006529fe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857103681
+        }
+    ],
+    "wof:id":857103681,
+    "wof:lastmodified":1464121997,
+    "wof:name":"Dillards",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -113.535373,
+    37.122582,
+    -113.535373,
+    37.122582
+],
+  "geometry": {"coordinates":[-113.53537300000001,37.122582],"type":"Point"}
+}

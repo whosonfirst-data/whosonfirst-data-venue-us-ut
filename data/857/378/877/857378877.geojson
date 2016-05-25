@@ -1,0 +1,75 @@
+{
+  "id": 857378877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.890744,40.583415,-111.890744,40.583415",
+    "geom:latitude":40.583415,
+    "geom:longitude":-111.890744,
+    "iso:country":"US",
+    "sg:address":"9205 S State St",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 352 9493",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "depository",
+        "banking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85835551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HP59BSz6w5RDSpadzkVA4_40.583415_-111.890744@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128092,
+    "wof:geomhash":"5f6afcf895afcdad39c12f9da8428720",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85835551,
+            "region_id":85688567,
+            "venue_id":857378877
+        }
+    ],
+    "wof:id":857378877,
+    "wof:lastmodified":1464128092,
+    "wof:name":"Nationwide Budget Finance",
+    "wof:parent_id":85835551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "depository",
+        "banking"
+    ]
+},
+  "bbox": [
+    -111.890744,
+    40.583415,
+    -111.890744,
+    40.583415
+],
+  "geometry": {"coordinates":[-111.890744,40.583415],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857427253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.892522,40.990836,-111.892522,40.990836",
+    "geom:latitude":40.990836,
+    "geom:longitude":-111.892522,
+    "iso:country":"US",
+    "sg:address":"633 Compton Rd",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 9450",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "well",
+        "drilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ai3uCdwsVIHphhjTLlZVi_40.990836_-111.892522@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129283,
+    "wof:geomhash":"3f61994104cf6cdaade7f504cdc3b291",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857427253
+        }
+    ],
+    "wof:id":857427253,
+    "wof:lastmodified":1464129283,
+    "wof:name":"Sutton Drilling",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "well",
+        "drilling"
+    ]
+},
+  "bbox": [
+    -111.892522,
+    40.990836,
+    -111.892522,
+    40.990836
+],
+  "geometry": {"coordinates":[-111.892522,40.990836],"type":"Point"}
+}

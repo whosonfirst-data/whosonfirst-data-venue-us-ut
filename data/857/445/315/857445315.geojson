@@ -1,0 +1,69 @@
+{
+  "id": 857445315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.837309,41.320236,-111.837309,41.320236",
+    "geom:latitude":41.320236,
+    "geom:longitude":-111.837309,
+    "iso:country":"US",
+    "sg:address":"3416 N Fuller Dr",
+    "sg:city":"Eden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 745 4545",
+    "sg:postcode":"84310",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85824645,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2O2ASzf0q3EMjfLnh1lKz1_41.320236_-111.837309@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129664,
+    "wof:geomhash":"11625eb511d81b783314858f6867ef68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85824645,
+            "region_id":85688567,
+            "venue_id":857445315
+        }
+    ],
+    "wof:id":857445315,
+    "wof:lastmodified":1464129664,
+    "wof:name":"Strickland Plumbing & Heating",
+    "wof:parent_id":85824645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.837309,
+    41.320236,
+    -111.837309,
+    41.320236
+],
+  "geometry": {"coordinates":[-111.837309,41.320236],"type":"Point"}
+}

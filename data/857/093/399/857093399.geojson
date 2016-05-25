@@ -1,0 +1,68 @@
+{
+  "id": 857093399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.972779,40.69655,-111.972779,40.69655",
+    "geom:latitude":40.69655,
+    "geom:longitude":-111.972779,
+    "iso:country":"US",
+    "sg:address":"3443 W 3500 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 966 0470",
+    "sg:postcode":"84119",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85818107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01jejBJMizcWLe5GYebEAb_40.696550_-111.972779@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121759,
+    "wof:geomhash":"65de81582c3b7d5b9f1a6028b70c62da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85818107,
+            "region_id":85688567,
+            "venue_id":857093399
+        }
+    ],
+    "wof:id":857093399,
+    "wof:lastmodified":1464121759,
+    "wof:name":"Flower Patch",
+    "wof:parent_id":85818107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.972779,
+    40.69655,
+    -111.972779,
+    40.69655
+],
+  "geometry": {"coordinates":[-111.972779,40.69655],"type":"Point"}
+}

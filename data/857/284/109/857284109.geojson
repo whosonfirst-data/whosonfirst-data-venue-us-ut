@@ -1,0 +1,75 @@
+{
+  "id": 857284109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.667488,40.247548,-111.667488,40.247548",
+    "geom:latitude":40.247548,
+    "geom:longitude":-111.667488,
+    "iso:country":"US",
+    "sg:address":"1067 N 500 W",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 370 9981",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TuDRT8YN9Ad9ZdAfdJiEB_40.247548_-111.667488@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126003,
+    "wof:geomhash":"fd2f9a65af7e9c2e5b64dcb4148c53e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880107,
+            "region_id":85688567,
+            "venue_id":857284109
+        }
+    ],
+    "wof:id":857284109,
+    "wof:lastmodified":1464126003,
+    "wof:name":"Ned B Bushnell",
+    "wof:parent_id":85880107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -111.667488,
+    40.247548,
+    -111.667488,
+    40.247548
+],
+  "geometry": {"coordinates":[-111.66748800000001,40.247548],"type":"Point"}
+}

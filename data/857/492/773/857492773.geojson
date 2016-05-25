@@ -1,0 +1,76 @@
+{
+  "id": 857492773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.687047,40.277285,-111.687047,40.277285",
+    "geom:latitude":40.277285,
+    "geom:longitude":-111.687047,
+    "iso:country":"US",
+    "sg:address":"1074 S State St",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/provo-orem/41371-yamato-japanese-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 227 7100",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "sushi",
+        "asian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85813259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UZm7xK1PwrWvQY8uOMm6W_40.277285_-111.687047@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130690,
+    "wof:geomhash":"130010e3d8d1643dc26307995a679074",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85813259,
+            "region_id":85688567,
+            "venue_id":857492773
+        }
+    ],
+    "wof:id":857492773,
+    "wof:lastmodified":1464130690,
+    "wof:name":"Yamato Japanese Restaurant",
+    "wof:parent_id":85813259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sushi",
+        "asian"
+    ]
+},
+  "bbox": [
+    -111.687047,
+    40.277285,
+    -111.687047,
+    40.277285
+],
+  "geometry": {"coordinates":[-111.68704700000001,40.277285],"type":"Point"}
+}

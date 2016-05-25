@@ -1,0 +1,68 @@
+{
+  "id": 857180909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.938708,40.519552,-111.938708,40.519552",
+    "geom:latitude":40.519552,
+    "geom:longitude":-111.938708,
+    "iso:country":"US",
+    "sg:address":"12600 S Redwood Rd",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 596 8100",
+    "sg:postcode":"84065",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728073,
+        102082877,
+        85840517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gkXvgIGB8L6wDNcDZLJDy_40.519552_-111.938708@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123813,
+    "wof:geomhash":"8499f463dbc01dd99bb1721112cf1016",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728073,
+            "neighbourhood_id":85840517,
+            "region_id":85688567,
+            "venue_id":857180909
+        }
+    ],
+    "wof:id":857180909,
+    "wof:lastmodified":1464123813,
+    "wof:name":"Beto's Restaurant",
+    "wof:parent_id":85840517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.938708,
+    40.519552,
+    -111.938708,
+    40.519552
+],
+  "geometry": {"coordinates":[-111.93870800000001,40.519552],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857085925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.004701,40.596191,-112.004701,40.596191",
+    "geom:latitude":40.596191,
+    "geom:longitude":-112.004701,
+    "iso:country":"US",
+    "sg:address":"8532 S 4770 W",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 523 1041",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85854997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Q24ek4h6dqL21Ohg5wq2m_40.596191_-112.004701@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121561,
+    "wof:geomhash":"3f0b500139db630829fab0324fd67957",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85854997,
+            "region_id":85688567,
+            "venue_id":857085925
+        }
+    ],
+    "wof:id":857085925,
+    "wof:lastmodified":1464121561,
+    "wof:name":"Fine Finish Construction",
+    "wof:parent_id":85854997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -112.004701,
+    40.596191,
+    -112.004701,
+    40.596191
+],
+  "geometry": {"coordinates":[-112.004701,40.596191],"type":"Point"}
+}

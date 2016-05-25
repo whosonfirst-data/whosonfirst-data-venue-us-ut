@@ -1,0 +1,69 @@
+{
+  "id": 857439329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.048005,41.094162,-112.048005,41.094162",
+    "geom:latitude":41.094162,
+    "geom:longitude":-112.048005,
+    "iso:country":"US",
+    "sg:address":"1175 W 1350 S",
+    "sg:city":"Syracuse",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 402 2200",
+    "sg:postcode":"84075",
+    "sg:province":"UT",
+    "sg:website":"www.davis.k12.ut.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727889,
+        102083563,
+        85804563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YSTlsEBKGVvjc3Bv9FSFO_41.094162_-112.048005@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129557,
+    "wof:geomhash":"8263e9d74189eedb3d84ed4238847674",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727889,
+            "neighbourhood_id":85804563,
+            "region_id":85688567,
+            "venue_id":857439329
+        }
+    ],
+    "wof:id":857439329,
+    "wof:lastmodified":1464129557,
+    "wof:name":"Cook Elementary School",
+    "wof:parent_id":85804563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.048005,
+    41.094162,
+    -112.048005,
+    41.094162
+],
+  "geometry": {"coordinates":[-112.048005,41.094162],"type":"Point"}
+}

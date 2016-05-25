@@ -1,0 +1,68 @@
+{
+  "id": 857112055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.009612,41.248428,-112.009612,41.248428",
+    "geom:latitude":41.248428,
+    "geom:longitude":-112.009612,
+    "iso:country":"US",
+    "sg:address":"973 S 1200 W",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 612 1161",
+    "sg:postcode":"84404",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85818351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EwBmwwbTgEMF5TSRNx260_41.248428_-112.009612@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122234,
+    "wof:geomhash":"925434adcfe0bf739b5961cfb9b26296",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85818351,
+            "region_id":85688567,
+            "venue_id":857112055
+        }
+    ],
+    "wof:id":857112055,
+    "wof:lastmodified":1464122234,
+    "wof:name":"Botox Skin Clinic LLC",
+    "wof:parent_id":85818351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.009612,
+    41.248428,
+    -112.009612,
+    41.248428
+],
+  "geometry": {"coordinates":[-112.009612,41.248428],"type":"Point"}
+}

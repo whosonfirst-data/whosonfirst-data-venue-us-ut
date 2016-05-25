@@ -1,0 +1,75 @@
+{
+  "id": 857427009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.90549,40.694254,-111.90549,40.694254",
+    "geom:latitude":40.694254,
+    "geom:longitude":-111.90549,
+    "iso:country":"US",
+    "sg:address":"3588 S 500 W",
+    "sg:city":"South Salt Lake",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 266 7270",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "equipment",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85847441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47Zb1CuhcAvnVU3hUBhdqm_40.694254_-111.905490@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129279,
+    "wof:geomhash":"15243a9c040a57640c15d6c6833a0e50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85847441,
+            "region_id":85688567,
+            "venue_id":857427009
+        }
+    ],
+    "wof:id":857427009,
+    "wof:lastmodified":1464129279,
+    "wof:name":"Tri-Delta Surgical Inc",
+    "wof:parent_id":85847441,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "medical"
+    ]
+},
+  "bbox": [
+    -111.90549,
+    40.694254,
+    -111.90549,
+    40.694254
+],
+  "geometry": {"coordinates":[-111.90549,40.694254],"type":"Point"}
+}

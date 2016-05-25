@@ -1,0 +1,77 @@
+{
+  "id": 857323103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.700282,40.326644,-111.700282,40.326644",
+    "geom:latitude":40.326644,
+    "geom:longitude":-111.700282,
+    "iso:country":"US",
+    "sg:address":"186 W 1600 N",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 765 1195",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6evUF1FolnlcnLSI1b0X4B_40.326644_-111.700282@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126914,
+    "wof:geomhash":"ca9e5f01c38d9b3ff777c4c6bbe7344d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":857323103
+        }
+    ],
+    "wof:id":857323103,
+    "wof:lastmodified":1464126914,
+    "wof:name":"White Flame Inc",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -111.700282,
+    40.326644,
+    -111.700282,
+    40.326644
+],
+  "geometry": {"coordinates":[-111.700282,40.326644],"type":"Point"}
+}

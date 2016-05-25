@@ -1,0 +1,73 @@
+{
+  "id": 857383121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.012377,40.633242,-112.012377,40.633242",
+    "geom:latitude":40.633242,
+    "geom:longitude":-112.012377,
+    "iso:country":"US",
+    "sg:address":"6555 S 5095 W",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 963 3965",
+    "sg:postcode":"84084",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85840625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48DvbWRuS2n02WTt1FKhdr_40.633242_-112.012377@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128215,
+    "wof:geomhash":"bc5cbbf2ff0fb6563e5ee5e1769caf1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85840625,
+            "region_id":85688567,
+            "venue_id":857383121
+        }
+    ],
+    "wof:id":857383121,
+    "wof:lastmodified":1464128215,
+    "wof:name":"Tim Demay Plumbing",
+    "wof:parent_id":85840625,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -112.012377,
+    40.633242,
+    -112.012377,
+    40.633242
+],
+  "geometry": {"coordinates":[-112.012377,40.633242],"type":"Point"}
+}

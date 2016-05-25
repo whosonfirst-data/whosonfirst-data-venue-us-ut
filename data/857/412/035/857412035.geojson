@@ -1,0 +1,71 @@
+{
+  "id": 857412035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.027606,40.627017,-112.027606,40.627017",
+    "geom:latitude":40.627017,
+    "geom:longitude":-112.027606,
+    "iso:country":"US",
+    "sg:address":"5683 Discovery Dr",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Toys & Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 955 4411",
+    "sg:postcode":"84084",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728061,
+        102082877,
+        85854369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OU6R6dRn9IVFmhNZiUtRz_40.627017_-112.027606@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128904,
+    "wof:geomhash":"27ef295c931ce451b1706f73e91f9eaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85854369,
+            "region_id":85688567,
+            "venue_id":857412035
+        }
+    ],
+    "wof:id":857412035,
+    "wof:lastmodified":1464128904,
+    "wof:name":"Bleeder Arrow",
+    "wof:parent_id":85854369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -112.027606,
+    40.627017,
+    -112.027606,
+    40.627017
+],
+  "geometry": {"coordinates":[-112.02760600000001,40.627017],"type":"Point"}
+}

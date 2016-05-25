@@ -1,0 +1,71 @@
+{
+  "id": 857171083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.669369,40.015788,-111.669369,40.015788",
+    "geom:latitude":40.015788,
+    "geom:longitude":-111.669369,
+    "iso:country":"US",
+    "sg:address":"200 Loafer Canyon Rd",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 423 2772",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jqbf4fU2wzeDdLQUFRwn9_40.015788_-111.669369@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123608,
+    "wof:geomhash":"b254187d6f5508fc097023df055a985b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857171083
+        }
+    ],
+    "wof:id":857171083,
+    "wof:lastmodified":1464123608,
+    "wof:name":"Grizzly Mountain Development",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.669369,
+    40.015788,
+    -111.669369,
+    40.015788
+],
+  "geometry": {"coordinates":[-111.669369,40.015788],"type":"Point"}
+}

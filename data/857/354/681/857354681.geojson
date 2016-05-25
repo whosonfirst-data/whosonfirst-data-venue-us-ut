@@ -1,0 +1,73 @@
+{
+  "id": 857354681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.029402,41.221525,-112.029402,41.221525",
+    "geom:latitude":41.221525,
+    "geom:longitude":-112.029402,
+    "iso:country":"US",
+    "sg:address":"2404 S 2050 West St",
+    "sg:city":"West Haven",
+    "sg:classifiers":[
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 731 1512",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "soccer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85818351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4p8TZZCrer6VbKHFdIDo8M_41.221525_-112.029402@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127588,
+    "wof:geomhash":"ba1417aeebc9e3a40dfdfb44b8553fcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85818351,
+            "region_id":85688567,
+            "venue_id":857354681
+        }
+    ],
+    "wof:id":857354681,
+    "wof:lastmodified":1464127588,
+    "wof:name":"Ultimate Indoor Soccer",
+    "wof:parent_id":85818351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "soccer"
+    ]
+},
+  "bbox": [
+    -112.029402,
+    41.221525,
+    -112.029402,
+    41.221525
+],
+  "geometry": {"coordinates":[-112.029402,41.221525],"type":"Point"}
+}

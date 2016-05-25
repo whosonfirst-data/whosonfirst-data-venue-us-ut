@@ -1,0 +1,68 @@
+{
+  "id": 857399937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.899365,40.769271,-111.899365,40.769271",
+    "geom:latitude":40.769271,
+    "geom:longitude":-111.899365,
+    "iso:country":"US",
+    "sg:address":"215 W South Temple",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 531 7500",
+    "sg:postcode":"84101",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85852649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3z3tmk9f9tRZ0YBIWGpC8K_40.769271_-111.899365@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128622,
+    "wof:geomhash":"c47df7c4631dbd54973003eb554c6d36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85852649,
+            "region_id":85688567,
+            "venue_id":857399937
+        }
+    ],
+    "wof:id":857399937,
+    "wof:lastmodified":1464128622,
+    "wof:name":"Prime Hotel",
+    "wof:parent_id":85852649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.899365,
+    40.769271,
+    -111.899365,
+    40.769271
+],
+  "geometry": {"coordinates":[-111.899365,40.769271],"type":"Point"}
+}

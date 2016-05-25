@@ -1,0 +1,66 @@
+{
+  "id": 857396147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.736867,40.042611,-111.736867,40.042611",
+    "geom:latitude":40.042611,
+    "geom:longitude":-111.736867,
+    "iso:country":"US",
+    "sg:address":"368 W 100 S",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 2753",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VZmxDe6F3aSRsyU0mwNxY_40.042611_-111.736867@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128550,
+    "wof:geomhash":"f7d0f81876c8bdc0ddbd1babb723e436",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857396147
+        }
+    ],
+    "wof:id":857396147,
+    "wof:lastmodified":1464128550,
+    "wof:name":"Jay Madsen Pack-A-Part",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.736867,
+    40.042611,
+    -111.736867,
+    40.042611
+],
+  "geometry": {"coordinates":[-111.736867,40.042611],"type":"Point"}
+}

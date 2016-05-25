@@ -1,0 +1,73 @@
+{
+  "id": 857476757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.072488,41.092194,-112.072488,41.092194",
+    "geom:latitude":41.092194,
+    "geom:longitude":-112.072488,
+    "iso:country":"US",
+    "sg:address":"1478 S 2450 W",
+    "sg:city":"Syracuse",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 390 0248",
+    "sg:postcode":"84075",
+    "sg:province":"UT",
+    "sg:tags":[
+        "crane"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727889,
+        102083563,
+        85804563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eptGSKkjiRyfhmRqWhAcf_41.092194_-112.072488@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130309,
+    "wof:geomhash":"34c8c54f58de401c67e4535731a1457f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727889,
+            "neighbourhood_id":85804563,
+            "region_id":85688567,
+            "venue_id":857476757
+        }
+    ],
+    "wof:id":857476757,
+    "wof:lastmodified":1464130309,
+    "wof:name":"A Crane Svc",
+    "wof:parent_id":85804563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crane"
+    ]
+},
+  "bbox": [
+    -112.072488,
+    41.092194,
+    -112.072488,
+    41.092194
+],
+  "geometry": {"coordinates":[-112.07248800000001,41.092194],"type":"Point"}
+}

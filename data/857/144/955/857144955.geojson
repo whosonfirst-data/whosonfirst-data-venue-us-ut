@@ -1,0 +1,73 @@
+{
+  "id": 857144955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.583371,37.109477,-113.583371,37.109477",
+    "geom:latitude":37.109477,
+    "geom:longitude":-113.583371,
+    "iso:country":"US",
+    "sg:address":"25 N Main St",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 652 4499",
+    "sg:postcode":"84770",
+    "sg:province":"UT",
+    "sg:tags":[
+        "retailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iVkBLnCvb2Aldg91A1wuc_37.109477_-113.583371@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123033,
+    "wof:geomhash":"c5bc654bd68841cccb9c2046a3f8fbca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857144955
+        }
+    ],
+    "wof:id":857144955,
+    "wof:lastmodified":1464123033,
+    "wof:name":"Moke Sport Inc",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "retailer"
+    ]
+},
+  "bbox": [
+    -113.583371,
+    37.109477,
+    -113.583371,
+    37.109477
+],
+  "geometry": {"coordinates":[-113.583371,37.109477],"type":"Point"}
+}

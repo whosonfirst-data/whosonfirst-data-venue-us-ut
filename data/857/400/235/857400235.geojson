@@ -1,0 +1,75 @@
+{
+  "id": 857400235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.640998,40.274871,-111.640998,40.274871",
+    "geom:latitude":40.274871,
+    "geom:longitude":-111.640998,
+    "iso:country":"US",
+    "sg:address":"3003 N Comanche Ln",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 374 0825",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "manager",
+        "developer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZTWtmsi0a7EmMZCgqpLnC_40.274871_-111.640998@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128628,
+    "wof:geomhash":"d209bee3fb27e79a89b87778fd27e13c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880111,
+            "region_id":85688567,
+            "venue_id":857400235
+        }
+    ],
+    "wof:id":857400235,
+    "wof:lastmodified":1464128628,
+    "wof:name":"Winterton Investments Inc",
+    "wof:parent_id":85880111,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manager",
+        "developer"
+    ]
+},
+  "bbox": [
+    -111.640998,
+    40.274871,
+    -111.640998,
+    40.274871
+],
+  "geometry": {"coordinates":[-111.640998,40.274871],"type":"Point"}
+}

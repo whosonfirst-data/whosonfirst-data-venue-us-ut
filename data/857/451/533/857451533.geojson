@@ -1,0 +1,75 @@
+{
+  "id": 857451533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.871349,40.678881,-111.871349,40.678881",
+    "geom:latitude":40.678881,
+    "geom:longitude":-111.871349,
+    "iso:country":"US",
+    "sg:address":"4277 S 700 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 288 0425",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:tags":[
+        "photographer",
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85809665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QnqYwKVMyQMwkJm1urvFB_40.678881_-111.871349@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129792,
+    "wof:geomhash":"5b323094fca247edc1cb5fdcadd18cab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85809665,
+            "region_id":85688567,
+            "venue_id":857451533
+        }
+    ],
+    "wof:id":857451533,
+    "wof:lastmodified":1464129792,
+    "wof:name":"Courtney Ryan Photography",
+    "wof:parent_id":85809665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer",
+        "photo"
+    ]
+},
+  "bbox": [
+    -111.871349,
+    40.678881,
+    -111.871349,
+    40.678881
+],
+  "geometry": {"coordinates":[-111.871349,40.678881],"type":"Point"}
+}

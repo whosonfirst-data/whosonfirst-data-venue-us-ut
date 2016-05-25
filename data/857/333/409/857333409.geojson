@@ -1,0 +1,73 @@
+{
+  "id": 857333409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.904401,41.692591,-111.904401,41.692591",
+    "geom:latitude":41.692591,
+    "geom:longitude":-111.904401,
+    "iso:country":"US",
+    "sg:address":"2880 W 2200 S",
+    "sg:city":"Wellsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 4305",
+    "sg:postcode":"84339",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727555,
+        102082881,
+        85823067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VMZ6wbGDhdHEUykShnu19_41.692591_-111.904401@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127132,
+    "wof:geomhash":"21802faf2e6f2ed0806f7a4e1d703286",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727555,
+            "neighbourhood_id":85823067,
+            "region_id":85688567,
+            "venue_id":857333409
+        }
+    ],
+    "wof:id":857333409,
+    "wof:lastmodified":1464127132,
+    "wof:name":"Brent Frederickson Constr",
+    "wof:parent_id":85823067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.904401,
+    41.692591,
+    -111.904401,
+    41.692591
+],
+  "geometry": {"coordinates":[-111.90440099999999,41.692591],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857315011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.887473,40.983245,-111.887473,40.983245",
+    "geom:latitude":40.983245,
+    "geom:longitude":-111.887473,
+    "iso:country":"US",
+    "sg:address":"130 N Main St",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 2383",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "city"
+    ],
+    "sg:website":"www.farmingtonut.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727907,
+        102083563,
+        85833427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HDTQXywbM0DxvHmrM6k1f_40.983245_-111.887473@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126722,
+    "wof:geomhash":"d7dcf4173647b0769eda7c429cb6720b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85833427,
+            "region_id":85688567,
+            "venue_id":857315011
+        }
+    ],
+    "wof:id":857315011,
+    "wof:lastmodified":1464126722,
+    "wof:name":"Farmington City Hall",
+    "wof:parent_id":85833427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -111.887473,
+    40.983245,
+    -111.887473,
+    40.983245
+],
+  "geometry": {"coordinates":[-111.887473,40.983245],"type":"Point"}
+}

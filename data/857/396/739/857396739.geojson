@@ -1,0 +1,71 @@
+{
+  "id": 857396739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.040464,40.633779,-112.040464,40.633779",
+    "geom:latitude":40.633779,
+    "geom:longitude":-112.040464,
+    "iso:country":"US",
+    "sg:address":"6741 High Bluff Dr",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 967 9900",
+    "sg:postcode":"84084",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728061,
+        102082877,
+        85854369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LqmNyhHwQ6BX4yKGrz9Ag_40.633779_-112.040464@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128565,
+    "wof:geomhash":"a7fb1a0e54b5dd76788fd0d8694f1cde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85854369,
+            "region_id":85688567,
+            "venue_id":857396739
+        }
+    ],
+    "wof:id":857396739,
+    "wof:lastmodified":1464128565,
+    "wof:name":"Woodside Homes",
+    "wof:parent_id":85854369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -112.040464,
+    40.633779,
+    -112.040464,
+    40.633779
+],
+  "geometry": {"coordinates":[-112.040464,40.633779],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 857494227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.657059,40.297629,-111.657059,40.297629",
+    "geom:latitude":40.297629,
+    "geom:longitude":-111.657059,
+    "iso:country":"US",
+    "sg:address":"4801 N University Ave",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/provo-orem/132869-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 426 2804",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hSjXT5C0prbF2MpcFzvwK_40.297629_-111.657059@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130740,
+    "wof:geomhash":"30b7d10c1cc2211e6200c4cffd0e3506",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857494227
+        }
+    ],
+    "wof:id":857494227,
+    "wof:lastmodified":1464130740,
+    "wof:name":"Subway",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -111.657059,
+    40.297629,
+    -111.657059,
+    40.297629
+],
+  "geometry": {"coordinates":[-111.657059,40.297629],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 857182371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.985417,40.668752,-111.985417,40.668752",
+    "geom:latitude":40.668752,
+    "geom:longitude":-111.985417,
+    "iso:country":"US",
+    "sg:address":"4577 S 4000 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 965 9772",
+    "sg:postcode":"84120",
+    "sg:province":"UT",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85811567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sQRR6qjeoQUGwKuZ5ObRH_40.668752_-111.985417@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123844,
+    "wof:geomhash":"6ff78ba0c394ca0a740349cb0f3fd670",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85811567,
+            "region_id":85688567,
+            "venue_id":857182371
+        }
+    ],
+    "wof:id":857182371,
+    "wof:lastmodified":1464123844,
+    "wof:name":"Hollywood Video",
+    "wof:parent_id":85811567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -111.985417,
+    40.668752,
+    -111.985417,
+    40.668752
+],
+  "geometry": {"coordinates":[-111.985417,40.668752],"type":"Point"}
+}

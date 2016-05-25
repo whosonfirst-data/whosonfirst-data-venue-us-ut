@@ -1,0 +1,86 @@
+{
+  "id": 857079439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.876917,40.717549,-111.876917,40.717549",
+    "geom:latitude":40.717549,
+    "geom:longitude":-111.876917,
+    "iso:country":"US",
+    "sg:address":"2458 S 500 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 573 5677",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automotive",
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85858223,
+        101728075,
+        85871027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2r3mQn3dQyDAxxLzus5pee_40.717549_-111.876917@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121389,
+    "wof:geomhash":"a7aa655c41e15687c936c040369c1e17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85858223,
+            "region_id":85688567,
+            "venue_id":857079439
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871027,
+            "region_id":85688567,
+            "venue_id":857079439
+        }
+    ],
+    "wof:id":857079439,
+    "wof:lastmodified":1464121389,
+    "wof:name":"Best Towing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -111.876917,
+    40.717549,
+    -111.876917,
+    40.717549
+],
+  "geometry": {"coordinates":[-111.87691700000001,40.717549],"type":"Point"}
+}

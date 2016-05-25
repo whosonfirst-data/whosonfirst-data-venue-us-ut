@@ -1,0 +1,75 @@
+{
+  "id": 857083603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.878088,40.884352,-111.878088,40.884352",
+    "geom:latitude":40.884352,
+    "geom:longitude":-111.878088,
+    "iso:country":"US",
+    "sg:address":"197 E 500 S",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 292 5053",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "sg:tags":[
+        "personal",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727881,
+        102083563,
+        85807249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6krLXNx9DmmMMvRbSqK4w1_40.884352_-111.878088@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121503,
+    "wof:geomhash":"8776552ee376fa83e62e82a01827883e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727881,
+            "neighbourhood_id":85807249,
+            "region_id":85688567,
+            "venue_id":857083603
+        }
+    ],
+    "wof:id":857083603,
+    "wof:lastmodified":1464121503,
+    "wof:name":"Canterbury Reception Center",
+    "wof:parent_id":85807249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.878088,
+    40.884352,
+    -111.878088,
+    40.884352
+],
+  "geometry": {"coordinates":[-111.87808800000001,40.884352],"type":"Point"}
+}

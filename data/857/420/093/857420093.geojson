@@ -1,0 +1,73 @@
+{
+  "id": 857420093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.920172,40.688914,-111.920172,40.688914",
+    "geom:latitude":40.688914,
+    "geom:longitude":-111.920172,
+    "iso:country":"US",
+    "sg:address":"3784 S Carlisle Park Pl",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 266 9991",
+    "sg:postcode":"84119",
+    "sg:province":"UT",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85847441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iZwzLcPshJOZZsLYP4c0e_40.688914_-111.920172@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129095,
+    "wof:geomhash":"515ad10ac235f37628b557e287621507",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85847441,
+            "region_id":85688567,
+            "venue_id":857420093
+        }
+    ],
+    "wof:id":857420093,
+    "wof:lastmodified":1464129095,
+    "wof:name":"River Run Condominiums",
+    "wof:parent_id":85847441,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "condominium"
+    ]
+},
+  "bbox": [
+    -111.920172,
+    40.688914,
+    -111.920172,
+    40.688914
+],
+  "geometry": {"coordinates":[-111.92017199999999,40.688914],"type":"Point"}
+}

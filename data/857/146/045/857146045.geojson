@@ -1,0 +1,75 @@
+{
+  "id": 857146045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.890781,40.585535,-111.890781,40.585535",
+    "geom:latitude":40.585535,
+    "geom:longitude":-111.890781,
+    "iso:country":"US",
+    "sg:address":"9015 S State St",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 255 0069",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85835551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kRcnXeQiJ8FyFqfNbMaZP_40.585535_-111.890781@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123061,
+    "wof:geomhash":"80c009a442415f018faccb13a4ee114e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85835551,
+            "region_id":85688567,
+            "venue_id":857146045
+        }
+    ],
+    "wof:id":857146045,
+    "wof:lastmodified":1464123061,
+    "wof:name":"Tom Nunley's Trucks Inc",
+    "wof:parent_id":85835551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -111.890781,
+    40.585535,
+    -111.890781,
+    40.585535
+],
+  "geometry": {"coordinates":[-111.890781,40.585535],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857145201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.045433,41.084041,-112.045433,41.084041",
+    "geom:latitude":41.084041,
+    "geom:longitude":-112.045433,
+    "iso:country":"US",
+    "sg:address":"2050 S 1000 W",
+    "sg:city":"Syracuse",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 825 7676",
+    "sg:postcode":"84075",
+    "sg:province":"UT",
+    "sg:tags":[
+        "nurseryman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727889,
+        102083563,
+        85804563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NV7ZxGVycKDJjmMIfLWTa_41.084041_-112.045433@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123046,
+    "wof:geomhash":"82eeca97cd9c7c4d648f7bd3fb0fc720",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727889,
+            "neighbourhood_id":85804563,
+            "region_id":85688567,
+            "venue_id":857145201
+        }
+    ],
+    "wof:id":857145201,
+    "wof:lastmodified":1464123046,
+    "wof:name":"Stoker's Nursery & Greenhouse",
+    "wof:parent_id":85804563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurseryman"
+    ]
+},
+  "bbox": [
+    -112.045433,
+    41.084041,
+    -112.045433,
+    41.084041
+],
+  "geometry": {"coordinates":[-112.045433,41.084041],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857444453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.69303,40.233953,-111.69303,40.233953",
+    "geom:latitude":40.233953,
+    "geom:longitude":-111.69303,
+    "iso:country":"US",
+    "sg:address":"2000 W Center St",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 375 8876",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880073,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21SOjPenx6OouYgkpcES4W_40.233953_-111.693030@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129646,
+    "wof:geomhash":"8de985b29d35620a6a8faa282708d523",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880073,
+            "region_id":85688567,
+            "venue_id":857444453
+        }
+    ],
+    "wof:id":857444453,
+    "wof:lastmodified":1464129646,
+    "wof:name":"Hair Central",
+    "wof:parent_id":85880073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.69303,
+    40.233953,
+    -111.69303,
+    40.233953
+],
+  "geometry": {"coordinates":[-111.69302999999999,40.233953],"type":"Point"}
+}

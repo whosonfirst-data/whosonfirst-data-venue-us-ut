@@ -1,0 +1,77 @@
+{
+  "id": 857348635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.67578,40.217504,-111.67578,40.217504",
+    "geom:latitude":40.217504,
+    "geom:longitude":-111.67578,
+    "iso:country":"US",
+    "sg:address":"1264 S 980 W",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 356 6557",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VO4gHUiE2H07fmLGymOl4_40.217504_-111.675780@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127456,
+    "wof:geomhash":"9cf276ccd4bfeb6511a2fd5ab81eebf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880077,
+            "region_id":85688567,
+            "venue_id":857348635
+        }
+    ],
+    "wof:id":857348635,
+    "wof:lastmodified":1464127456,
+    "wof:name":"Air Repair",
+    "wof:parent_id":85880077,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning"
+    ]
+},
+  "bbox": [
+    -111.67578,
+    40.217504,
+    -111.67578,
+    40.217504
+],
+  "geometry": {"coordinates":[-111.67578,40.217504],"type":"Point"}
+}

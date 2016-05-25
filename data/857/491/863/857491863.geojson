@@ -1,0 +1,76 @@
+{
+  "id": 857491863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.974736,41.075097,-111.974736,41.075097",
+    "geom:latitude":41.075097,
+    "geom:longitude":-111.974736,
+    "iso:country":"US",
+    "sg:address":"991 N Hill Field Rd",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/north-davis/6880-dennys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 544 1284",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KcH5fPcmnIDUS6kX02CCu_41.075097_-111.974736@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130656,
+    "wof:geomhash":"418efec2bcf9eb1ec0a877afa4c9264d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857491863
+        }
+    ],
+    "wof:id":857491863,
+    "wof:lastmodified":1464130656,
+    "wof:name":"Denny's",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -111.974736,
+    41.075097,
+    -111.974736,
+    41.075097
+],
+  "geometry": {"coordinates":[-111.97473599999999,41.075097],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857463691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.628435,37.133705,-113.628435,37.133705",
+    "geom:latitude":37.133705,
+    "geom:longitude":-113.628435,
+    "iso:country":"US",
+    "sg:address":"1503 N 2100 W",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 674 9919",
+    "sg:postcode":"84770",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727617,
+        102082879,
+        85806465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LhEQaPfJycPqsfiA8C8sw_37.133705_-113.628435@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130022,
+    "wof:geomhash":"d0c24f744d0c732f8eee5e1765d34360",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85806465,
+            "region_id":85688567,
+            "venue_id":857463691
+        }
+    ],
+    "wof:id":857463691,
+    "wof:lastmodified":1464130022,
+    "wof:name":"Canyon Place Rock Creek",
+    "wof:parent_id":85806465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -113.628435,
+    37.133705,
+    -113.628435,
+    37.133705
+],
+  "geometry": {"coordinates":[-113.628435,37.133705],"type":"Point"}
+}

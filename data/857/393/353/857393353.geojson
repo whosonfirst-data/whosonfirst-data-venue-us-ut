@@ -1,0 +1,82 @@
+{
+  "id": 857393353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.032943,40.645887,-112.032943,40.645887",
+    "geom:latitude":40.645887,
+    "geom:longitude":-112.032943,
+    "iso:country":"US",
+    "sg:address":"5956 W Jargon Cir",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 968 4549",
+    "sg:postcode":"84118",
+    "sg:province":"UT",
+    "sg:tags":[
+        "sanitary",
+        "snow",
+        "removal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728253,
+        102082877,
+        85812231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0L0jzdT62lyylUmg5slM41_40.645887_-112.032943@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128490,
+    "wof:geomhash":"d3911fe4483e3c4f26e4601a79b2fe57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728253,
+            "neighbourhood_id":85812231,
+            "region_id":85688567,
+            "venue_id":857393353
+        }
+    ],
+    "wof:id":857393353,
+    "wof:lastmodified":1464128490,
+    "wof:name":"Dave's Snow Removal",
+    "wof:parent_id":85812231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sanitary",
+        "snow",
+        "removal"
+    ]
+},
+  "bbox": [
+    -112.032943,
+    40.645887,
+    -112.032943,
+    40.645887
+],
+  "geometry": {"coordinates":[-112.032943,40.645887],"type":"Point"}
+}

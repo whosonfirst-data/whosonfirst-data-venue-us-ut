@@ -1,0 +1,72 @@
+{
+  "id": 857491923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.849604,40.387868,-111.849604,40.387868",
+    "geom:latitude":40.387868,
+    "geom:longitude":-111.849604,
+    "iso:country":"US",
+    "sg:address":"24 W Main St",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/lehi/36030-porters-place/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 768 8348",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_022PD1C6H7SeAXh4ejCQvf_40.387868_-111.849604@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130658,
+    "wof:geomhash":"918545d6d55d850aab9c2dcbd12682e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857491923
+        }
+    ],
+    "wof:id":857491923,
+    "wof:lastmodified":1464130658,
+    "wof:name":"Porter's Place",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -111.849604,
+    40.387868,
+    -111.849604,
+    40.387868
+],
+  "geometry": {"coordinates":[-111.849604,40.387868],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857142129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.680901,40.321739,-111.680901,40.321739",
+    "geom:latitude":40.321739,
+    "geom:longitude":-111.680901,
+    "iso:country":"US",
+    "sg:address":"1409 Research Way",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 765 7098",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "telemarketing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07neGWcywZk8VUlzT4kjqz_40.321739_-111.680901@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122944,
+    "wof:geomhash":"193b3a1ea20f506228ff9e3cc520cce7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":857142129
+        }
+    ],
+    "wof:id":857142129,
+    "wof:lastmodified":1464122944,
+    "wof:name":"Convergys",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telemarketing"
+    ]
+},
+  "bbox": [
+    -111.680901,
+    40.321739,
+    -111.680901,
+    40.321739
+],
+  "geometry": {"coordinates":[-111.68090100000001,40.321739],"type":"Point"}
+}

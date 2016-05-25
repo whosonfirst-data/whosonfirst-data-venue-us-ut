@@ -1,0 +1,75 @@
+{
+  "id": 857391645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.045295,41.080675,-112.045295,41.080675",
+    "geom:latitude":41.080675,
+    "geom:longitude":-112.045295,
+    "iso:country":"US",
+    "sg:address":"2223 S 1000 W",
+    "sg:city":"Syracuse",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 774 2052",
+    "sg:postcode":"84075",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mormon",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727889,
+        102083563,
+        85804563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6N9ErHla3eRpMKileELaE1_41.080675_-112.045295@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128461,
+    "wof:geomhash":"5f2e1f972ff8c63baf5a0d68d2e8ee9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727889,
+            "neighbourhood_id":85804563,
+            "region_id":85688567,
+            "venue_id":857391645
+        }
+    ],
+    "wof:id":857391645,
+    "wof:lastmodified":1464128461,
+    "wof:name":"Clinton Fourth Ward",
+    "wof:parent_id":85804563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mormon",
+        "church"
+    ]
+},
+  "bbox": [
+    -112.045295,
+    41.080675,
+    -112.045295,
+    41.080675
+],
+  "geometry": {"coordinates":[-112.045295,41.080675],"type":"Point"}
+}

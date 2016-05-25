@@ -1,0 +1,75 @@
+{
+  "id": 857163005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.705028,40.3002,-111.705028,40.3002",
+    "geom:latitude":40.3002,
+    "geom:longitude":-111.705028,
+    "iso:country":"US",
+    "sg:address":"315 W 170 N",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 785 9693",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "publisher",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85849197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QhYip1BQ322Opk722wk4O_40.300200_-111.705028@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123423,
+    "wof:geomhash":"d162decf1702287c7c232787a688e03d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85849197,
+            "region_id":85688567,
+            "venue_id":857163005
+        }
+    ],
+    "wof:id":857163005,
+    "wof:lastmodified":1464123423,
+    "wof:name":"D W Software Inc",
+    "wof:parent_id":85849197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "publisher",
+        "software"
+    ]
+},
+  "bbox": [
+    -111.705028,
+    40.3002,
+    -111.705028,
+    40.3002
+],
+  "geometry": {"coordinates":[-111.705028,40.3002],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857371515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.645723,40.238882,-111.645723,40.238882",
+    "geom:latitude":40.238882,
+    "geom:longitude":-111.645723,
+    "iso:country":"US",
+    "sg:address":"401 N 750 E",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 374 5446",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EsXF6tdWYiPL7CVV7nNgD_40.238882_-111.645723@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127935,
+    "wof:geomhash":"245b28ce1b03a644d996d76b535b04dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880085,
+            "region_id":85688567,
+            "venue_id":857371515
+        }
+    ],
+    "wof:id":857371515,
+    "wof:lastmodified":1464127935,
+    "wof:name":"Colony Apartments",
+    "wof:parent_id":85880085,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -111.645723,
+    40.238882,
+    -111.645723,
+    40.238882
+],
+  "geometry": {"coordinates":[-111.645723,40.238882],"type":"Point"}
+}

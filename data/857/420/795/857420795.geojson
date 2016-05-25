@@ -1,0 +1,77 @@
+{
+  "id": 857420795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.969169,40.725515,-111.969169,40.725515",
+    "geom:latitude":40.725515,
+    "geom:longitude":-111.969169,
+    "iso:country":"US",
+    "sg:address":"2269 S 3270 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 816 5450",
+    "sg:postcode":"84119",
+    "sg:province":"UT",
+    "sg:tags":[
+        "drink",
+        "soft",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85844521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uNdlj0mOTj4yQ0AhXhGqc_40.725515_-111.969169@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129122,
+    "wof:geomhash":"a60b0add6be1fa5c19ea27eb1005dede",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85844521,
+            "region_id":85688567,
+            "venue_id":857420795
+        }
+    ],
+    "wof:id":857420795,
+    "wof:lastmodified":1464129122,
+    "wof:name":"Coca-Cola",
+    "wof:parent_id":85844521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drink",
+        "soft",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.969169,
+    40.725515,
+    -111.969169,
+    40.725515
+],
+  "geometry": {"coordinates":[-111.96916899999999,40.725515],"type":"Point"}
+}

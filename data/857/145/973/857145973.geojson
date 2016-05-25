@@ -1,0 +1,73 @@
+{
+  "id": 857145973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.074738,41.213157,-112.074738,41.213157",
+    "geom:latitude":41.213157,
+    "geom:longitude":-112.074738,
+    "iso:country":"US",
+    "sg:address":"2870 S 3925 W",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 825 0811",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85804651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kbS25CzKH50vSCObVsfRF_41.213157_-112.074738@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123059,
+    "wof:geomhash":"d9d3cf61a3ea067cfddc0c46891a70a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85804651,
+            "region_id":85688567,
+            "venue_id":857145973
+        }
+    ],
+    "wof:id":857145973,
+    "wof:lastmodified":1464123059,
+    "wof:name":"Obergs Refrigeration Inc",
+    "wof:parent_id":85804651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -112.074738,
+    41.213157,
+    -112.074738,
+    41.213157
+],
+  "geometry": {"coordinates":[-112.074738,41.213157],"type":"Point"}
+}

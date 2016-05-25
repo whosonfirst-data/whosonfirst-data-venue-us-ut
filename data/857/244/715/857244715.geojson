@@ -1,0 +1,73 @@
+{
+  "id": 857244715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.665286,40.229779,-111.665286,40.229779",
+    "geom:latitude":40.229779,
+    "geom:longitude":-111.665286,
+    "iso:country":"US",
+    "sg:address":"330 W 300 S",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 342 1603",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZFijj1SDc0RqO6fMSFWCs_40.229779_-111.665286@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125127,
+    "wof:geomhash":"33955be801d9582b187f97611f38d480",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880065,
+            "region_id":85688567,
+            "venue_id":857244715
+        }
+    ],
+    "wof:id":857244715,
+    "wof:lastmodified":1464125127,
+    "wof:name":"Quicker Cleaner",
+    "wof:parent_id":85880065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -111.665286,
+    40.229779,
+    -111.665286,
+    40.229779
+],
+  "geometry": {"coordinates":[-111.66528599999999,40.229779],"type":"Point"}
+}

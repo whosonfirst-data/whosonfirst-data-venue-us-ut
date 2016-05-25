@@ -1,0 +1,73 @@
+{
+  "id": 857206111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.932163,41.009475,-111.932163,41.009475",
+    "geom:latitude":41.009475,
+    "geom:longitude":-111.932163,
+    "iso:country":"US",
+    "sg:address":"1588 S 250 E",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 5987",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cfsDbY0POgdtpqp35PNMa_41.009475_-111.932163@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124314,
+    "wof:geomhash":"8f42626371b129ba460758c7c2a24cfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857206111
+        }
+    ],
+    "wof:id":857206111,
+    "wof:lastmodified":1464124314,
+    "wof:name":"Mirror Reflections Inc",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -111.932163,
+    41.009475,
+    -111.932163,
+    41.009475
+],
+  "geometry": {"coordinates":[-111.932163,41.009475],"type":"Point"}
+}

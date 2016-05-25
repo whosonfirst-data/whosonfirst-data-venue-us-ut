@@ -1,0 +1,83 @@
+{
+  "id": 857237315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.825098,40.540893,-111.825098,40.540893",
+    "geom:latitude":40.540893,
+    "geom:longitude":-111.825098,
+    "iso:country":"US",
+    "sg:address":"2252 E 11580 S",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 572 7926",
+    "sg:postcode":"84092",
+    "sg:province":"UT",
+    "sg:tags":[
+        "siding",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85825243,
+        102082877,
+        102191575,
+        101728077,
+        85812845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3V9AdSNrC7AMG0KKhnJoVH_40.540893_-111.825098@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124951,
+    "wof:geomhash":"d9b685df7fe17e923374aaf253592224",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85825243,
+            "region_id":85688567,
+            "venue_id":857237315
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85812845,
+            "region_id":85688567,
+            "venue_id":857237315
+        }
+    ],
+    "wof:id":857237315,
+    "wof:lastmodified":1464124951,
+    "wof:name":"Inter Mountain Recover Spec",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "siding",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.825098,
+    40.540893,
+    -111.825098,
+    40.540893
+],
+  "geometry": {"coordinates":[-111.825098,40.540893],"type":"Point"}
+}

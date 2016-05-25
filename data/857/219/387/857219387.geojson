@@ -1,0 +1,73 @@
+{
+  "id": 857219387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.785867,40.38106,-111.785867,40.38106",
+    "geom:latitude":40.38106,
+    "geom:longitude":-111.785867,
+    "iso:country":"US",
+    "sg:address":"479 E 200 N",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 763 9823",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "residential",
+        "handyman",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WMBY7V4DQSDVNw7uVoZW6_40.381060_-111.785867@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124603,
+    "wof:geomhash":"7db2eec103fa29dd846c49466e6fc2f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857219387
+        }
+    ],
+    "wof:id":857219387,
+    "wof:lastmodified":1464124603,
+    "wof:name":"Dave S Construction Inc",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "handyman",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -111.785867,
+    40.38106,
+    -111.785867,
+    40.38106
+],
+  "geometry": {"coordinates":[-111.785867,40.38106],"type":"Point"}
+}

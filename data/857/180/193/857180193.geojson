@@ -1,0 +1,73 @@
+{
+  "id": 857180193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.002244,40.736002,-112.002244,40.736002",
+    "geom:latitude":40.736002,
+    "geom:longitude":-112.002244,
+    "iso:country":"US",
+    "sg:address":"1957 S 4650 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 983 2074",
+    "sg:postcode":"84104",
+    "sg:province":"UT",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85856293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FiCtBflNhYfPXcbM2V6dp_40.736002_-112.002244@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123800,
+    "wof:geomhash":"284f1244a06efbb230eaf7b19c8a07c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85856293,
+            "region_id":85688567,
+            "venue_id":857180193
+        }
+    ],
+    "wof:id":857180193,
+    "wof:lastmodified":1464123800,
+    "wof:name":"Maxi's Deli",
+    "wof:parent_id":85856293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -112.002244,
+    40.736002,
+    -112.002244,
+    40.736002
+],
+  "geometry": {"coordinates":[-112.002244,40.736002],"type":"Point"}
+}

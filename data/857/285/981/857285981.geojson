@@ -1,0 +1,73 @@
+{
+  "id": 857285981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.868816,40.558778,-111.868816,40.558778",
+    "geom:latitude":40.558778,
+    "geom:longitude":-111.868816,
+    "iso:country":"US",
+    "sg:address":"10550 Amaryllis Dr",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 572 3558",
+    "sg:postcode":"84094",
+    "sg:province":"UT",
+    "sg:tags":[
+        "refrigeration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85857477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1v4VBUUYwhFHGB18FheNk9_40.558778_-111.868816@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126044,
+    "wof:geomhash":"07ad49dee806d24d07ed153b047f1163",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85857477,
+            "region_id":85688567,
+            "venue_id":857285981
+        }
+    ],
+    "wof:id":857285981,
+    "wof:lastmodified":1464126044,
+    "wof:name":"Beehive Service & Sales",
+    "wof:parent_id":85857477,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration"
+    ]
+},
+  "bbox": [
+    -111.868816,
+    40.558778,
+    -111.868816,
+    40.558778
+],
+  "geometry": {"coordinates":[-111.868816,40.558778],"type":"Point"}
+}

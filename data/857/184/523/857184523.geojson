@@ -1,0 +1,75 @@
+{
+  "id": 857184523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.918166,41.03979,-111.918166,41.03979",
+    "geom:latitude":41.03979,
+    "geom:longitude":-111.918166,
+    "iso:country":"US",
+    "sg:address":"820 E 200 N",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 546 4242",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "irrigation",
+        "company",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5glDp0y2Hq9oMtlQrHgQG6_41.039790_-111.918166@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123890,
+    "wof:geomhash":"769c602196e6b247c883016a88a56b38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857184523
+        }
+    ],
+    "wof:id":857184523,
+    "wof:lastmodified":1464123890,
+    "wof:name":"Heights Creek Irrigation Co",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "irrigation",
+        "company",
+        "supply"
+    ]
+},
+  "bbox": [
+    -111.918166,
+    41.03979,
+    -111.918166,
+    41.03979
+],
+  "geometry": {"coordinates":[-111.918166,41.03979],"type":"Point"}
+}

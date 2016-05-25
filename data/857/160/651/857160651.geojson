@@ -1,0 +1,73 @@
+{
+  "id": 857160651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.88277,40.689536,-111.88277,40.689536",
+    "geom:latitude":40.689536,
+    "geom:longitude":-111.88277,
+    "iso:country":"US",
+    "sg:address":"3650 S 300 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 262 3033",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85810147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ro0jQgkWM2E7iYED1Zznt_40.689536_-111.882770@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123355,
+    "wof:geomhash":"b327d2fca8066c777510a250e7f179d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85810147,
+            "region_id":85688567,
+            "venue_id":857160651
+        }
+    ],
+    "wof:id":857160651,
+    "wof:lastmodified":1464123355,
+    "wof:name":"Domestic Import Tile & Supply",
+    "wof:parent_id":85810147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.88277,
+    40.689536,
+    -111.88277,
+    40.689536
+],
+  "geometry": {"coordinates":[-111.88276999999999,40.689536],"type":"Point"}
+}

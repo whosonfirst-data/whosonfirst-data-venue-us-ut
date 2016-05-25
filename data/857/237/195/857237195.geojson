@@ -1,0 +1,69 @@
+{
+  "id": 857237195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.840867,40.40109,-111.840867,40.40109",
+    "geom:latitude":40.40109,
+    "geom:longitude":-111.840867,
+    "iso:country":"US",
+    "sg:address":"1073 Hidden Cove Ln",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 768 8167",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Dt8W0AeF1J3PQooACFRRw_40.401090_-111.840867@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124949,
+    "wof:geomhash":"f7e75c6e36809774a17c478b5e58f13c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857237195
+        }
+    ],
+    "wof:id":857237195,
+    "wof:lastmodified":1464124949,
+    "wof:name":"Dz Auto Wash LLC",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -111.840867,
+    40.40109,
+    -111.840867,
+    40.40109
+],
+  "geometry": {"coordinates":[-111.840867,40.40109],"type":"Point"}
+}

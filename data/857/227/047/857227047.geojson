@@ -1,0 +1,78 @@
+{
+  "id": 857227047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.024856,40.754475,-112.024856,40.754475",
+    "geom:latitude":40.754475,
+    "geom:longitude":-112.024856,
+    "iso:country":"US",
+    "sg:address":"717 S 5600 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 532 7777",
+    "sg:postcode":"84104",
+    "sg:province":"UT",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "sg:website":"www.barcorentatruck.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85851935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0llm4i4B35WaYx1PjfyalB_40.754475_-112.024856@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124751,
+    "wof:geomhash":"23f1d10d86eb79b51425a0e0a920de7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85851935,
+            "region_id":85688567,
+            "venue_id":857227047
+        }
+    ],
+    "wof:id":857227047,
+    "wof:lastmodified":1464124751,
+    "wof:name":"Barco Rent A Truck",
+    "wof:parent_id":85851935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -112.024856,
+    40.754475,
+    -112.024856,
+    40.754475
+],
+  "geometry": {"coordinates":[-112.024856,40.754475],"type":"Point"}
+}

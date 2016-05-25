@@ -1,0 +1,71 @@
+{
+  "id": 857151947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.667293,40.046802,-111.667293,40.046802",
+    "geom:latitude":40.046802,
+    "geom:longitude":-111.667293,
+    "iso:country":"US",
+    "sg:address":"415 E Salem Canal Rd",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 367 7769",
+    "sg:postcode":"84653",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EFYWiDQOfiXFqeKAByR8n_40.046802_-111.667293@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123185,
+    "wof:geomhash":"f139703fd479bbe8f6ffcf28f3d0ba2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857151947
+        }
+    ],
+    "wof:id":857151947,
+    "wof:lastmodified":1464123185,
+    "wof:name":"Cut Above Ceramic & Stone Tile",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.667293,
+    40.046802,
+    -111.667293,
+    40.046802
+],
+  "geometry": {"coordinates":[-111.667293,40.046802],"type":"Point"}
+}

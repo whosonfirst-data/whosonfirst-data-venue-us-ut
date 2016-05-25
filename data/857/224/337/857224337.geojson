@@ -1,0 +1,73 @@
+{
+  "id": 857224337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.799414,41.733124,-111.799414,41.733124",
+    "geom:latitude":41.733124,
+    "geom:longitude":-111.799414,
+    "iso:country":"US",
+    "sg:address":"81 Ptarmigan Loop",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 1603",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "clocks",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dEUZJ4ULDTKjDvjelA9Be_41.733124_-111.799414@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124698,
+    "wof:geomhash":"9f57a50be159ead917124d6af1508ed7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857224337
+        }
+    ],
+    "wof:id":857224337,
+    "wof:lastmodified":1464124698,
+    "wof:name":"Clock & Instrument Repair",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clocks",
+        "parts"
+    ]
+},
+  "bbox": [
+    -111.799414,
+    41.733124,
+    -111.799414,
+    41.733124
+],
+  "geometry": {"coordinates":[-111.799414,41.733124],"type":"Point"}
+}

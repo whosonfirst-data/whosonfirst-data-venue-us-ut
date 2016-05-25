@@ -1,0 +1,74 @@
+{
+  "id": 857389091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.70179,40.297211,-111.70179,40.297211",
+    "geom:latitude":40.297211,
+    "geom:longitude":-111.70179,
+    "iso:country":"US",
+    "sg:address":"240 W Center St",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 226 0393",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "engineer"
+    ],
+    "sg:website":"www.jub.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85849197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4azRLX0kufTYJ0Hn6LvYpG_40.297211_-111.701790@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128410,
+    "wof:geomhash":"d75697a06cc08db5d5701dd3df9cd58f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85849197,
+            "region_id":85688567,
+            "venue_id":857389091
+        }
+    ],
+    "wof:id":857389091,
+    "wof:lastmodified":1464128410,
+    "wof:name":"J-U-B Engineers Inc",
+    "wof:parent_id":85849197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -111.70179,
+    40.297211,
+    -111.70179,
+    40.297211
+],
+  "geometry": {"coordinates":[-111.70179,40.297211],"type":"Point"}
+}

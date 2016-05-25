@@ -1,0 +1,73 @@
+{
+  "id": 857119409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.931353,41.641607,-111.931353,41.641607",
+    "geom:latitude":41.641607,
+    "geom:longitude":-111.931353,
+    "iso:country":"US",
+    "sg:address":"160 N 100 E",
+    "sg:city":"Wellsville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 245 4079",
+    "sg:postcode":"84339",
+    "sg:province":"UT",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727555,
+        102082881,
+        85823067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70Unl4mptQIgint16nB4AS_41.641607_-111.931353@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122437,
+    "wof:geomhash":"60fef7bbc00f4b1baa55e8e64782510b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727555,
+            "neighbourhood_id":85823067,
+            "region_id":85688567,
+            "venue_id":857119409
+        }
+    ],
+    "wof:id":857119409,
+    "wof:lastmodified":1464122437,
+    "wof:name":"Farmhouse Creations",
+    "wof:parent_id":85823067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.931353,
+    41.641607,
+    -111.931353,
+    41.641607
+],
+  "geometry": {"coordinates":[-111.931353,41.641607],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857111213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.886966,40.667039,-111.886966,40.667039",
+    "geom:latitude":40.667039,
+    "geom:longitude":-111.886966,
+    "iso:country":"US",
+    "sg:address":"4768 S Brown St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 747 1332",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85804367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7b77QV24ks157qVAkRvtU4_40.667039_-111.886966@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122212,
+    "wof:geomhash":"9218edc751a38283195bc7a3a2e69433",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85804367,
+            "region_id":85688567,
+            "venue_id":857111213
+        }
+    ],
+    "wof:id":857111213,
+    "wof:lastmodified":1464122212,
+    "wof:name":"Home Improvement Construction",
+    "wof:parent_id":85804367,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -111.886966,
+    40.667039,
+    -111.886966,
+    40.667039
+],
+  "geometry": {"coordinates":[-111.886966,40.667039],"type":"Point"}
+}

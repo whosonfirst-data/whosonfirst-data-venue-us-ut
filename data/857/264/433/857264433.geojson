@@ -1,0 +1,71 @@
+{
+  "id": 857264433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.951109,41.299995,-111.951109,41.299995",
+    "geom:latitude":41.299995,
+    "geom:longitude":-111.951109,
+    "iso:country":"US",
+    "sg:address":"2288 Fruitland Dr",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 782 6501",
+    "sg:postcode":"84414",
+    "sg:province":"UT",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85824645,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kLNI3SexaQpPKNqeZbZQo_41.299995_-111.951109@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125583,
+    "wof:geomhash":"0a67c3d366c462483702e5f66d35e9e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85824645,
+            "region_id":85688567,
+            "venue_id":857264433
+        }
+    ],
+    "wof:id":857264433,
+    "wof:lastmodified":1464125583,
+    "wof:name":"Quality Machine Inc",
+    "wof:parent_id":85824645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.951109,
+    41.299995,
+    -111.951109,
+    41.299995
+],
+  "geometry": {"coordinates":[-111.951109,41.299995],"type":"Point"}
+}

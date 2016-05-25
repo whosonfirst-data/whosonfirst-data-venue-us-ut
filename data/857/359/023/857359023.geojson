@@ -1,0 +1,73 @@
+{
+  "id": 857359023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.835199,41.717679,-111.835199,41.717679",
+    "geom:latitude":41.717679,
+    "geom:longitude":-111.835199,
+    "iso:country":"US",
+    "sg:address":"880 S Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 7221",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "salon",
+        "beauty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61te9ukcRVjA2VNEht0Jbr_41.717679_-111.835199@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127679,
+    "wof:geomhash":"07bc834e40787a517ea6b3ae99eff112",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857359023
+        }
+    ],
+    "wof:id":857359023,
+    "wof:lastmodified":1464127679,
+    "wof:name":"West Coast Beauty Supply",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon",
+        "beauty"
+    ]
+},
+  "bbox": [
+    -111.835199,
+    41.717679,
+    -111.835199,
+    41.717679
+],
+  "geometry": {"coordinates":[-111.835199,41.717679],"type":"Point"}
+}

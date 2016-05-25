@@ -1,0 +1,71 @@
+{
+  "id": 857413923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.85651,40.593516,-111.85651,40.593516",
+    "geom:latitude":40.593516,
+    "geom:longitude":-111.85651,
+    "iso:country":"US",
+    "sg:address":"1268 E Lori Cir",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 565 0410",
+    "sg:postcode":"84094",
+    "sg:province":"UT",
+    "sg:tags":[
+        "fabrication",
+        "structural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85847325,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FW2Gonicr3hjDM19Acw4F_40.593516_-111.856510@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128942,
+    "wof:geomhash":"8aa1177b48619bb9bba16153d7c67379",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85847325,
+            "region_id":85688567,
+            "venue_id":857413923
+        }
+    ],
+    "wof:id":857413923,
+    "wof:lastmodified":1464128942,
+    "wof:name":"RC Design Enterprises LLC",
+    "wof:parent_id":85847325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fabrication",
+        "structural"
+    ]
+},
+  "bbox": [
+    -111.85651,
+    40.593516,
+    -111.85651,
+    40.593516
+],
+  "geometry": {"coordinates":[-111.85651,40.593516],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857484485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.891264,40.684079,-111.891264,40.684079",
+    "geom:latitude":40.684079,
+    "geom:longitude":-111.891264,
+    "iso:country":"US",
+    "sg:address":"4010 S Main St",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 281 4900",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85810147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UcDJgBv15n7RGbsdmFMQT_40.684079_-111.891264@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130454,
+    "wof:geomhash":"9238a43b10f08b2c9ad4cd682a60bc58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85810147,
+            "region_id":85688567,
+            "venue_id":857484485
+        }
+    ],
+    "wof:id":857484485,
+    "wof:lastmodified":1464130454,
+    "wof:name":"Royal Auto",
+    "wof:parent_id":85810147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -111.891264,
+    40.684079,
+    -111.891264,
+    40.684079
+],
+  "geometry": {"coordinates":[-111.89126400000001,40.684079],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857414517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.824542,40.699284,-111.824542,40.699284",
+    "geom:latitude":40.699284,
+    "geom:longitude":-111.824542,
+    "iso:country":"US",
+    "sg:address":"3336 S 2300 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 467 6846",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85859423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HOXMBDHKPMr3pwEt24TB6_40.699284_-111.824542@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128955,
+    "wof:geomhash":"9af0ba93200d131cb07f5e8c0aac0799",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85859423,
+            "region_id":85688567,
+            "venue_id":857414517
+        }
+    ],
+    "wof:id":857414517,
+    "wof:lastmodified":1464128955,
+    "wof:name":"Blockbuster",
+    "wof:parent_id":85859423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -111.824542,
+    40.699284,
+    -111.824542,
+    40.699284
+],
+  "geometry": {"coordinates":[-111.82454199999999,40.699284],"type":"Point"}
+}

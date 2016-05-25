@@ -1,0 +1,69 @@
+{
+  "id": 857215981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.853507,40.589583,-111.853507,40.589583",
+    "geom:latitude":40.589583,
+    "geom:longitude":-111.853507,
+    "iso:country":"US",
+    "sg:address":"8900 S 1240 E",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 566 3046",
+    "sg:postcode":"84094",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85847325,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AvYtM6vB1mY61J7lz2rQd_40.589583_-111.853507@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124532,
+    "wof:geomhash":"1e27397a15a94e423b4d9289e024064a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85847325,
+            "region_id":85688567,
+            "venue_id":857215981
+        }
+    ],
+    "wof:id":857215981,
+    "wof:lastmodified":1464124532,
+    "wof:name":"Tori Kae Nails",
+    "wof:parent_id":85847325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.853507,
+    40.589583,
+    -111.853507,
+    40.589583
+],
+  "geometry": {"coordinates":[-111.85350699999999,40.589583],"type":"Point"}
+}

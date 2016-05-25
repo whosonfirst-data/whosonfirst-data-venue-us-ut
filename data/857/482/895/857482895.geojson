@@ -1,0 +1,69 @@
+{
+  "id": 857482895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.864117,40.661389,-111.864117,40.661389",
+    "geom:latitude":40.661389,
+    "geom:longitude":-111.864117,
+    "iso:country":"US",
+    "sg:address":"4955 S 925 East St",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 268 3225",
+    "sg:postcode":"84117",
+    "sg:province":"UT",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85826429,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dqJWdcgLdxgaCd0aneM7r_40.661389_-111.864117@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130427,
+    "wof:geomhash":"c59f5af3964464ef8abe1abc7def47e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85826429,
+            "region_id":85688567,
+            "venue_id":857482895
+        }
+    ],
+    "wof:id":857482895,
+    "wof:lastmodified":1464130427,
+    "wof:name":"Keown & Co",
+    "wof:parent_id":85826429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -111.864117,
+    40.661389,
+    -111.864117,
+    40.661389
+],
+  "geometry": {"coordinates":[-111.86411699999999,40.661389],"type":"Point"}
+}

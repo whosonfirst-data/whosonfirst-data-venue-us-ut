@@ -1,0 +1,68 @@
+{
+  "id": 857075945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.708623,40.327574,-111.708623,40.327574",
+    "geom:latitude":40.327574,
+    "geom:longitude":-111.708623,
+    "iso:country":"US",
+    "sg:address":"1635 N State St",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 8080",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7a9q5wRxfdfYfs5cYLnLzR_40.327574_-111.708623@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121307,
+    "wof:geomhash":"3b634ea60cdeebefbed16aa252e0809e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":857075945
+        }
+    ],
+    "wof:id":857075945,
+    "wof:lastmodified":1464121307,
+    "wof:name":"Bailey Chiropractic & Sports",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.708623,
+    40.327574,
+    -111.708623,
+    40.327574
+],
+  "geometry": {"coordinates":[-111.708623,40.327574],"type":"Point"}
+}

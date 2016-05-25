@@ -1,0 +1,77 @@
+{
+  "id": 857190189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.89726,40.583757,-111.89726,40.583757",
+    "geom:latitude":40.583757,
+    "geom:longitude":-111.89726,
+    "iso:country":"US",
+    "sg:address":"176 W 9240 S",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 561 5671",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85803467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mBsztDX6HRK9dBn0Cv7P3_40.583757_-111.897260@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123993,
+    "wof:geomhash":"e072db10eafabe379edaed4c729ec656",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85803467,
+            "region_id":85688567,
+            "venue_id":857190189
+        }
+    ],
+    "wof:id":857190189,
+    "wof:lastmodified":1464123993,
+    "wof:name":"Ray's Garage",
+    "wof:parent_id":85803467,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -111.89726,
+    40.583757,
+    -111.89726,
+    40.583757
+],
+  "geometry": {"coordinates":[-111.89726,40.583757],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857493669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.795998,40.686203,-111.795998,40.686203",
+    "geom:latitude":40.686203,
+    "geom:longitude":-111.795998,
+    "iso:country":"US",
+    "sg:address":"3947 Wasatch Blvd",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/emigration/219321-spring-garden/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 277 2928",
+    "sg:postcode":"84124",
+    "sg:province":"UT",
+    "sg:tags":[
+        "asian",
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85833111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zyaMVqNXjPg6flwLuC55o_40.686203_-111.795998@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130720,
+    "wof:geomhash":"003d743bd9ab309f5dccba38d5f75fac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85833111,
+            "region_id":85688567,
+            "venue_id":857493669
+        }
+    ],
+    "wof:id":857493669,
+    "wof:lastmodified":1464130720,
+    "wof:name":"Spring Garden",
+    "wof:parent_id":85833111,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asian",
+        "chinese"
+    ]
+},
+  "bbox": [
+    -111.795998,
+    40.686203,
+    -111.795998,
+    40.686203
+],
+  "geometry": {"coordinates":[-111.795998,40.686203],"type":"Point"}
+}

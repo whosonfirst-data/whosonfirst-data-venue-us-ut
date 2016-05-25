@@ -1,0 +1,73 @@
+{
+  "id": 857257935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.974318,41.216591,-111.974318,41.216591",
+    "geom:latitude":41.216591,
+    "geom:longitude":-111.974318,
+    "iso:country":"US",
+    "sg:address":"282 27th St",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 393 6911",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85820759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Eqi62O2WEG8X6NHZIfFtF_41.216591_-111.974318@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125450,
+    "wof:geomhash":"14a9158eb197b01494f07c93fc7d07cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85820759,
+            "region_id":85688567,
+            "venue_id":857257935
+        }
+    ],
+    "wof:id":857257935,
+    "wof:lastmodified":1464125450,
+    "wof:name":"Scottys Service Center",
+    "wof:parent_id":85820759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -111.974318,
+    41.216591,
+    -111.974318,
+    41.216591
+],
+  "geometry": {"coordinates":[-111.974318,41.216591],"type":"Point"}
+}

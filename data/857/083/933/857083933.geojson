@@ -1,0 +1,75 @@
+{
+  "id": 857083933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.912604,41.107983,-111.912604,41.107983",
+    "geom:latitude":41.107983,
+    "geom:longitude":-111.912604,
+    "iso:country":"US",
+    "sg:address":"2672 E Hill Field Rd",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 525 0404",
+    "sg:postcode":"84040",
+    "sg:province":"UT",
+    "sg:tags":[
+        "plumbing",
+        "fixture",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727911,
+        102083563,
+        85847875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SQbirnKKOlcicWRWH8eMh_41.107983_-111.912604@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121509,
+    "wof:geomhash":"9d5430ae369c066c1f6af9d5c70acce9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727911,
+            "neighbourhood_id":85847875,
+            "region_id":85688567,
+            "venue_id":857083933
+        }
+    ],
+    "wof:id":857083933,
+    "wof:lastmodified":1464121509,
+    "wof:name":"Carver's Kitchen",
+    "wof:parent_id":85847875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "fixture",
+        "supply"
+    ]
+},
+  "bbox": [
+    -111.912604,
+    41.107983,
+    -111.912604,
+    41.107983
+],
+  "geometry": {"coordinates":[-111.912604,41.107983],"type":"Point"}
+}

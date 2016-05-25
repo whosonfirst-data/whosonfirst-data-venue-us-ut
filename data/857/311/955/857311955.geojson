@@ -1,0 +1,77 @@
+{
+  "id": 857311955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.899644,40.692774,-111.899644,40.692774",
+    "geom:latitude":40.692774,
+    "geom:longitude":-111.899644,
+    "iso:country":"US",
+    "sg:address":"3403 S 300 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 487 9978",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85810147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VEbVEx9oBk8JX22ZIv2e2_40.692774_-111.899644@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126660,
+    "wof:geomhash":"f82f94b6ea9ea295410004ac16a69b9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85810147,
+            "region_id":85688567,
+            "venue_id":857311955
+        }
+    ],
+    "wof:id":857311955,
+    "wof:lastmodified":1464126660,
+    "wof:name":"MAACO Auto Painting & Bodywork",
+    "wof:parent_id":85810147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -111.899644,
+    40.692774,
+    -111.899644,
+    40.692774
+],
+  "geometry": {"coordinates":[-111.899644,40.692774],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857269173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.895957,40.875874,-111.895957,40.875874",
+    "geom:latitude":40.875874,
+    "geom:longitude":-111.895957,
+    "iso:country":"US",
+    "sg:address":"1398 S 600 W",
+    "sg:city":"Bountiful",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 298 1570",
+    "sg:postcode":"84010",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727887,
+        102083563,
+        85851805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3B4r1ZYrDBgDfRH7sX0Hy2_40.875874_-111.895957@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125669,
+    "wof:geomhash":"d8a896ef3698ba09235a82a84a771a3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727887,
+            "neighbourhood_id":85851805,
+            "region_id":85688567,
+            "venue_id":857269173
+        }
+    ],
+    "wof:id":857269173,
+    "wof:lastmodified":1464125669,
+    "wof:name":"Allstate",
+    "wof:parent_id":85851805,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.895957,
+    40.875874,
+    -111.895957,
+    40.875874
+],
+  "geometry": {"coordinates":[-111.895957,40.875874],"type":"Point"}
+}

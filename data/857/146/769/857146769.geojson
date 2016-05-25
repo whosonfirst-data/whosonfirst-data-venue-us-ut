@@ -1,0 +1,75 @@
+{
+  "id": 857146769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.853857,40.591605,-111.853857,40.591605",
+    "geom:latitude":40.591605,
+    "geom:longitude":-111.853857,
+    "iso:country":"US",
+    "sg:address":"8873 S 1275 E",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 561 8623",
+    "sg:postcode":"84094",
+    "sg:province":"UT",
+    "sg:tags":[
+        "print",
+        "mfg",
+        "lithographic",
+        "sign"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85847325,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0r17VOn9AvtP4XGQaSVRZB_40.591605_-111.853857@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123074,
+    "wof:geomhash":"ad726a73a472eb408bf5e09ef7f480d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85847325,
+            "region_id":85688567,
+            "venue_id":857146769
+        }
+    ],
+    "wof:id":857146769,
+    "wof:lastmodified":1464123074,
+    "wof:name":"Mears Enterprises",
+    "wof:parent_id":85847325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "print",
+        "mfg",
+        "lithographic",
+        "sign"
+    ]
+},
+  "bbox": [
+    -111.853857,
+    40.591605,
+    -111.853857,
+    40.591605
+],
+  "geometry": {"coordinates":[-111.853857,40.591605],"type":"Point"}
+}

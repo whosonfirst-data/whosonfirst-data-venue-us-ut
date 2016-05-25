@@ -1,0 +1,71 @@
+{
+  "id": 857141101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.949057,41.109485,-111.949057,41.109485",
+    "geom:latitude":41.109485,
+    "geom:longitude":-111.949057,
+    "iso:country":"US",
+    "sg:address":"907 E 3400 N",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 771 8896",
+    "sg:postcode":"84040",
+    "sg:province":"UT",
+    "sg:tags":[
+        "cosmetic",
+        "perfume"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85844663,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZoBezbZDnH0MxJQyzIqDv_41.109485_-111.949057@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122917,
+    "wof:geomhash":"7cdf1c478432f92489abb9adbc599d98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "neighbourhood_id":85844663,
+            "region_id":85688567,
+            "venue_id":857141101
+        }
+    ],
+    "wof:id":857141101,
+    "wof:lastmodified":1464122917,
+    "wof:name":"Mary Kay Cosmetics",
+    "wof:parent_id":85844663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cosmetic",
+        "perfume"
+    ]
+},
+  "bbox": [
+    -111.949057,
+    41.109485,
+    -111.949057,
+    41.109485
+],
+  "geometry": {"coordinates":[-111.949057,41.109485],"type":"Point"}
+}

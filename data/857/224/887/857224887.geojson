@@ -1,0 +1,73 @@
+{
+  "id": 857224887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.006531,41.205239,-112.006531,41.205239",
+    "geom:latitude":41.205239,
+    "geom:longitude":-112.006531,
+    "iso:country":"US",
+    "sg:address":"3269 Pennsylvania Ave",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 399 1426",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85818635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1asAUVcMwvKpCasuuokxqm_41.205239_-112.006531@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124710,
+    "wof:geomhash":"494f81ca4dfb2f66e7ef08a661476e6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85818635,
+            "region_id":85688567,
+            "venue_id":857224887
+        }
+    ],
+    "wof:id":857224887,
+    "wof:lastmodified":1464124710,
+    "wof:name":"Six States Distributors Inc",
+    "wof:parent_id":85818635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -112.006531,
+    41.205239,
+    -112.006531,
+    41.205239
+],
+  "geometry": {"coordinates":[-112.006531,41.205239],"type":"Point"}
+}

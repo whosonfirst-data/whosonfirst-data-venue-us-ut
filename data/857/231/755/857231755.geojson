@@ -1,0 +1,66 @@
+{
+  "id": 857231755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.654584,40.123301,-111.654584,40.123301",
+    "geom:latitude":40.123301,
+    "geom:longitude":-111.654584,
+    "iso:country":"US",
+    "sg:address":"1084 N Main St",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 794 3418",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pjZtWNIGzpINB4Dw3EcHi_40.123301_-111.654584@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124838,
+    "wof:geomhash":"5e85142155a4eec8ae71cd57117a1737",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857231755
+        }
+    ],
+    "wof:id":857231755,
+    "wof:lastmodified":1464124838,
+    "wof:name":"Dollar Sense",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.654584,
+    40.123301,
+    -111.654584,
+    40.123301
+],
+  "geometry": {"coordinates":[-111.654584,40.123301],"type":"Point"}
+}

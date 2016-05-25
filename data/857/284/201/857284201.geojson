@@ -1,0 +1,69 @@
+{
+  "id": 857284201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.842004,40.388149,-111.842004,40.388149",
+    "geom:latitude":40.388149,
+    "geom:longitude":-111.842004,
+    "iso:country":"US",
+    "sg:address":"475 E Main St",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 766 3886",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oOIbm1RaxHv8f3ppxE6Jb_40.388149_-111.842004@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126005,
+    "wof:geomhash":"c5b551da8ac73cc9e07d9db5fffbf0fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857284201
+        }
+    ],
+    "wof:id":857284201,
+    "wof:lastmodified":1464126005,
+    "wof:name":"Central Bank",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "datum"
+    ]
+},
+  "bbox": [
+    -111.842004,
+    40.388149,
+    -111.842004,
+    40.388149
+],
+  "geometry": {"coordinates":[-111.842004,40.388149],"type":"Point"}
+}

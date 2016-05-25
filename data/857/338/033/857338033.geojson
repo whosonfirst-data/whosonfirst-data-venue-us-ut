@@ -1,0 +1,79 @@
+{
+  "id": 857338033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.958002,40.745725,-111.958002,40.745725",
+    "geom:latitude":40.745725,
+    "geom:longitude":-111.958002,
+    "iso:country":"US",
+    "sg:address":"1345 Pioneer Rd",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 467 1524",
+    "sg:postcode":"84104",
+    "sg:province":"UT",
+    "sg:tags":[
+        "sheet",
+        "work",
+        "metal",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85814799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5obEnwb7yl5TxWVMOwPLqc_40.745725_-111.958002@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127232,
+    "wof:geomhash":"891a66f63b0b675d822eebe2ace01e2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85814799,
+            "region_id":85688567,
+            "venue_id":857338033
+        }
+    ],
+    "wof:id":857338033,
+    "wof:lastmodified":1464127232,
+    "wof:name":"Associated Sheet Metal Inc",
+    "wof:parent_id":85814799,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheet",
+        "work",
+        "metal",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.958002,
+    40.745725,
+    -111.958002,
+    40.745725
+],
+  "geometry": {"coordinates":[-111.95800199999999,40.745725],"type":"Point"}
+}

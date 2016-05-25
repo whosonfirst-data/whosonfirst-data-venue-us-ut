@@ -1,0 +1,73 @@
+{
+  "id": 857294255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.888169,40.714639,-111.888169,40.714639",
+    "geom:latitude":40.714639,
+    "geom:longitude":-111.888169,
+    "iso:country":"US",
+    "sg:address":"2561 S State St",
+    "sg:city":"South Salt Lake",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 486 1311",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728057,
+        102082877,
+        85808615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4soL9qOd9u28yRd2MoVkqR_40.714639_-111.888169@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126258,
+    "wof:geomhash":"a69434e0181150098824ebc753e40384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728057,
+            "neighbourhood_id":85808615,
+            "region_id":85688567,
+            "venue_id":857294255
+        }
+    ],
+    "wof:id":857294255,
+    "wof:lastmodified":1464126258,
+    "wof:name":"Business Press",
+    "wof:parent_id":85808615,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -111.888169,
+    40.714639,
+    -111.888169,
+    40.714639
+],
+  "geometry": {"coordinates":[-111.888169,40.714639],"type":"Point"}
+}

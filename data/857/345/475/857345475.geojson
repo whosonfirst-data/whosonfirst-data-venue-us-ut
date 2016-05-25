@@ -1,0 +1,73 @@
+{
+  "id": 857345475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.686386,40.282284,-111.686386,40.282284",
+    "geom:latitude":40.282284,
+    "geom:longitude":-111.686386,
+    "iso:country":"US",
+    "sg:address":"340 E 800 S",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 221 1171",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85830581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CoFbOlvzvXvbGhBpJeGKW_40.282284_-111.686386@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127383,
+    "wof:geomhash":"fba4168a94f93069fcbe36a40802d625",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85830581,
+            "region_id":85688567,
+            "venue_id":857345475
+        }
+    ],
+    "wof:id":857345475,
+    "wof:lastmodified":1464127383,
+    "wof:name":"Sun Center",
+    "wof:parent_id":85830581,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -111.686386,
+    40.282284,
+    -111.686386,
+    40.282284
+],
+  "geometry": {"coordinates":[-111.686386,40.282284],"type":"Point"}
+}

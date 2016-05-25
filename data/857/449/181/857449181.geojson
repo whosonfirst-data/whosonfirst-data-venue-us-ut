@@ -1,0 +1,75 @@
+{
+  "id": 857449181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.658585,40.237176,-111.658585,40.237176",
+    "geom:latitude":40.237176,
+    "geom:longitude":-111.658585,
+    "iso:country":"US",
+    "sg:address":"242 N University Ave",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 377 6323",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "pharmaceutical",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iPPhHBdWIp1h6KRqgpEWo_40.237176_-111.658585@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129741,
+    "wof:geomhash":"ebbb778f3edd8331da1c37b87bcdfe10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880065,
+            "region_id":85688567,
+            "venue_id":857449181
+        }
+    ],
+    "wof:id":857449181,
+    "wof:lastmodified":1464129741,
+    "wof:name":"H & M Laboratories",
+    "wof:parent_id":85880065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "product"
+    ]
+},
+  "bbox": [
+    -111.658585,
+    40.237176,
+    -111.658585,
+    40.237176
+],
+  "geometry": {"coordinates":[-111.658585,40.237176],"type":"Point"}
+}

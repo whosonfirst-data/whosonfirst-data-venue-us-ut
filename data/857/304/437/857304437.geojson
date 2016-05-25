@@ -1,0 +1,73 @@
+{
+  "id": 857304437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.829758,41.310476,-111.829758,41.310476",
+    "geom:latitude":41.310476,
+    "geom:longitude":-111.829758,
+    "iso:country":"US",
+    "sg:address":"4846 E 2775 N",
+    "sg:city":"Eden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 745 4021",
+    "sg:postcode":"84310",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85824645,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31kXHqtOl24wpLrGEcA3gJ_41.310476_-111.829758@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126505,
+    "wof:geomhash":"b81ee3aec1469c14868a7f0d6489600e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85824645,
+            "region_id":85688567,
+            "venue_id":857304437
+        }
+    ],
+    "wof:id":857304437,
+    "wof:lastmodified":1464126505,
+    "wof:name":"Reilly Electric Inc",
+    "wof:parent_id":85824645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.829758,
+    41.310476,
+    -111.829758,
+    41.310476
+],
+  "geometry": {"coordinates":[-111.829758,41.310476],"type":"Point"}
+}

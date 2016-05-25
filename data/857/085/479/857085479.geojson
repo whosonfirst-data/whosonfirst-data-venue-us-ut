@@ -1,0 +1,73 @@
+{
+  "id": 857085479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.637937,40.287015,-111.637937,40.287015",
+    "geom:latitude":40.287015,
+    "geom:longitude":-111.637937,
+    "iso:country":"US",
+    "sg:address":"4000 Foothill Dr",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 222 0573",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85817395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ggX92l0gn7EXKD5Pke4k9_40.287015_-111.637937@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121547,
+    "wof:geomhash":"59c91c364a6986975d1b817c5a8f5dd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85817395,
+            "region_id":85688567,
+            "venue_id":857085479
+        }
+    ],
+    "wof:id":857085479,
+    "wof:lastmodified":1464121547,
+    "wof:name":"Church Of Jesus Christ Of Lds",
+    "wof:parent_id":85817395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -111.637937,
+    40.287015,
+    -111.637937,
+    40.287015
+],
+  "geometry": {"coordinates":[-111.63793699999999,40.287015],"type":"Point"}
+}

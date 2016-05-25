@@ -1,0 +1,69 @@
+{
+  "id": 857495407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.856883,40.413393,-111.856883,40.413393",
+    "geom:latitude":40.413393,
+    "geom:longitude":-111.856883,
+    "iso:country":"US",
+    "sg:address":"3400 N Ashton Blvd. Suite 500",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 407 5200",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:website":"http://www.agel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727857,
+        102083567,
+        85836317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kfnPGyTsIE2la4E58mNzp_40.413393_-111.856883@1308186497"
+    },
+    "wof:country":"US",
+    "wof:created":1464130792,
+    "wof:geomhash":"b6f146fe6d74b426e5e03080ce587427",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727857,
+            "neighbourhood_id":85836317,
+            "region_id":85688567,
+            "venue_id":857495407
+        }
+    ],
+    "wof:id":857495407,
+    "wof:lastmodified":1464130792,
+    "wof:name":"Agel",
+    "wof:parent_id":85836317,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.856883,
+    40.413393,
+    -111.856883,
+    40.413393
+],
+  "geometry": {"coordinates":[-111.856883,40.413393],"type":"Point"}
+}

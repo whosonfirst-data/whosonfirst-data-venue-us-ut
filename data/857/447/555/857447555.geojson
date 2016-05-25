@@ -1,0 +1,68 @@
+{
+  "id": 857447555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.093285,41.183385,-112.093285,41.183385",
+    "geom:latitude":41.183385,
+    "geom:longitude":-112.093285,
+    "iso:country":"US",
+    "sg:address":"4780 W 4400 S",
+    "sg:city":"West Haven",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 732 1166",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85804651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4we72cOFtWZYTKbUtbyeRy_41.183385_-112.093285@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129713,
+    "wof:geomhash":"c00c169277c46ab188d4ce097781d44f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85804651,
+            "region_id":85688567,
+            "venue_id":857447555
+        }
+    ],
+    "wof:id":857447555,
+    "wof:lastmodified":1464129713,
+    "wof:name":"Zebs Inc",
+    "wof:parent_id":85804651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.093285,
+    41.183385,
+    -112.093285,
+    41.183385
+],
+  "geometry": {"coordinates":[-112.09328499999999,41.183385],"type":"Point"}
+}

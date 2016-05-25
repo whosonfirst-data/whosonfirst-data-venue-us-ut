@@ -1,0 +1,75 @@
+{
+  "id": 857380735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.301057,37.143447,-113.301057,37.143447",
+    "geom:latitude":37.143447,
+    "geom:longitude":-113.301057,
+    "iso:country":"US",
+    "sg:address":"2048 S 700 W",
+    "sg:city":"Hurricane",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 635 7454",
+    "sg:postcode":"84737",
+    "sg:province":"UT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727631,
+        102082879,
+        85824093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pvfaQ0Q9DJnqK9AMUdY9l_37.143447_-113.301057@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128141,
+    "wof:geomhash":"523a1c97a5d502e4ba50c9647f158820",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727631,
+            "neighbourhood_id":85824093,
+            "region_id":85688567,
+            "venue_id":857380735
+        }
+    ],
+    "wof:id":857380735,
+    "wof:lastmodified":1464128141,
+    "wof:name":"Western Trails Plumbing Inc",
+    "wof:parent_id":85824093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -113.301057,
+    37.143447,
+    -113.301057,
+    37.143447
+],
+  "geometry": {"coordinates":[-113.301057,37.143447],"type":"Point"}
+}

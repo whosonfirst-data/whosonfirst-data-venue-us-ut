@@ -1,0 +1,68 @@
+{
+  "id": 857383907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.667342,40.243768,-111.667342,40.243768",
+    "geom:latitude":40.243768,
+    "geom:longitude":-111.667342,
+    "iso:country":"US",
+    "sg:address":"742 N 500 W",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 6120",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DPvusEtvd3lUSx72jZwct_40.243768_-111.667342@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128240,
+    "wof:geomhash":"5ee19e4326c62ce919c500a2af52b359",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880121,
+            "region_id":85688567,
+            "venue_id":857383907
+        }
+    ],
+    "wof:id":857383907,
+    "wof:lastmodified":1464128240,
+    "wof:name":"State Farm Insurance",
+    "wof:parent_id":85880121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.667342,
+    40.243768,
+    -111.667342,
+    40.243768
+],
+  "geometry": {"coordinates":[-111.667342,40.243768],"type":"Point"}
+}

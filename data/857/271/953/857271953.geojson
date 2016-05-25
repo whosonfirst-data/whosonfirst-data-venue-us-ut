@@ -1,0 +1,68 @@
+{
+  "id": 857271953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.064349,41.168791,-112.064349,41.168791",
+    "geom:latitude":41.168791,
+    "geom:longitude":-112.064349,
+    "iso:country":"US",
+    "sg:address":"5220 S 3500 W",
+    "sg:city":"Roy",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 825 5617",
+    "sg:postcode":"84067",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728013,
+        102083539,
+        85804651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0feKIvVfbQkauLX1f8k5xR_41.168791_-112.064349@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125725,
+    "wof:geomhash":"f08cc963c9de3156e9f2fd25c4c1223c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728013,
+            "neighbourhood_id":85804651,
+            "region_id":85688567,
+            "venue_id":857271953
+        }
+    ],
+    "wof:id":857271953,
+    "wof:lastmodified":1464125725,
+    "wof:name":"Assoc Veterinarians",
+    "wof:parent_id":85804651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.064349,
+    41.168791,
+    -112.064349,
+    41.168791
+],
+  "geometry": {"coordinates":[-112.06434900000001,41.168791],"type":"Point"}
+}

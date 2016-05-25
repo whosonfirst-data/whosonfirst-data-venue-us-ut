@@ -1,0 +1,73 @@
+{
+  "id": 857317965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834657,41.74262,-111.834657,41.74262",
+    "geom:latitude":41.74262,
+    "geom:longitude":-111.834657,
+    "iso:country":"US",
+    "sg:address":"501 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 4178",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electric",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Uz2DjIqtipRnp1jy6UBWN_41.742620_-111.834657@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126796,
+    "wof:geomhash":"15fe14f069d47b8c2170f1b1b8ca2315",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857317965
+        }
+    ],
+    "wof:id":857317965,
+    "wof:lastmodified":1464126796,
+    "wof:name":"Glenn's Electric Motor & Pump",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "motor"
+    ]
+},
+  "bbox": [
+    -111.834657,
+    41.74262,
+    -111.834657,
+    41.74262
+],
+  "geometry": {"coordinates":[-111.83465700000001,41.74262],"type":"Point"}
+}

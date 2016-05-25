@@ -1,0 +1,75 @@
+{
+  "id": 857484429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.742234,40.330936,-111.742234,40.330936",
+    "geom:latitude":40.330936,
+    "geom:longitude":-111.742234,
+    "iso:country":"US",
+    "sg:address":"307 S 1250 W",
+    "sg:city":"Lindon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 785 6001",
+    "sg:postcode":"84042",
+    "sg:province":"UT",
+    "sg:tags":[
+        "audio",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727869,
+        102083567,
+        85823969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mJj2OmfqxaFaFs0x3LsRU_40.330936_-111.742234@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130453,
+    "wof:geomhash":"96e9cc4eaa42b4f7186648807a84c46e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727869,
+            "neighbourhood_id":85823969,
+            "region_id":85688567,
+            "venue_id":857484429
+        }
+    ],
+    "wof:id":857484429,
+    "wof:lastmodified":1464130453,
+    "wof:name":"Johnson Productions Svc",
+    "wof:parent_id":85823969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "audio",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -111.742234,
+    40.330936,
+    -111.742234,
+    40.330936
+],
+  "geometry": {"coordinates":[-111.742234,40.330936],"type":"Point"}
+}

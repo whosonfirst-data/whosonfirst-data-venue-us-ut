@@ -1,0 +1,77 @@
+{
+  "id": 857309667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.629463,40.206346,-111.629463,40.206346",
+    "geom:latitude":40.206346,
+    "geom:longitude":-111.629463,
+    "iso:country":"US",
+    "sg:address":"2365 Mountain Vista Ln",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 4990",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automobile",
+        "testing",
+        "emission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727829,
+        102083567,
+        85880117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0b0Pu0mV5GtzulXuxRYp3e_40.206346_-111.629463@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126612,
+    "wof:geomhash":"ed8d3b3a64c19e1617d2489b9b832dd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727829,
+            "neighbourhood_id":85880117,
+            "region_id":85688567,
+            "venue_id":857309667
+        }
+    ],
+    "wof:id":857309667,
+    "wof:lastmodified":1464126612,
+    "wof:name":"Emissions So Fast",
+    "wof:parent_id":85880117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "testing",
+        "emission"
+    ]
+},
+  "bbox": [
+    -111.629463,
+    40.206346,
+    -111.629463,
+    40.206346
+],
+  "geometry": {"coordinates":[-111.629463,40.206346],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857155587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.843732,40.653343,-111.843732,40.653343",
+    "geom:latitude":40.653343,
+    "geom:longitude":-111.843732,
+    "iso:country":"US",
+    "sg:address":"5393 Woodcrest Dr",
+    "sg:city":"Holladay",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 277 7269",
+    "sg:postcode":"84117",
+    "sg:province":"UT",
+    "sg:tags":[
+        "builder",
+        "stair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728049,
+        102082877,
+        85829581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73npNzqNhxGb2am596WpA1_40.653343_-111.843732@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123259,
+    "wof:geomhash":"0782aa8c0acd9a5e91a97a9b3a30cb4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728049,
+            "neighbourhood_id":85829581,
+            "region_id":85688567,
+            "venue_id":857155587
+        }
+    ],
+    "wof:id":857155587,
+    "wof:lastmodified":1464123259,
+    "wof:name":"Grand Stairway Co",
+    "wof:parent_id":85829581,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "stair"
+    ]
+},
+  "bbox": [
+    -111.843732,
+    40.653343,
+    -111.843732,
+    40.653343
+],
+  "geometry": {"coordinates":[-111.843732,40.653343],"type":"Point"}
+}

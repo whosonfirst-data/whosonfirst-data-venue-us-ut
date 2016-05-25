@@ -1,0 +1,73 @@
+{
+  "id": 857403683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.876971,40.578923,-111.876971,40.578923",
+    "geom:latitude":40.578923,
+    "geom:longitude":-111.876971,
+    "iso:country":"US",
+    "sg:address":"425 E Howard Dr",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Toys & Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 816 1282",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85854667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22aQH60f8SJngynoAwyAeM_40.578923_-111.876971@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128696,
+    "wof:geomhash":"e4520ac379b16975d06abee9240f5242",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85854667,
+            "region_id":85688567,
+            "venue_id":857403683
+        }
+    ],
+    "wof:id":857403683,
+    "wof:lastmodified":1464128696,
+    "wof:name":"Trampoline World Factory",
+    "wof:parent_id":85854667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -111.876971,
+    40.578923,
+    -111.876971,
+    40.578923
+],
+  "geometry": {"coordinates":[-111.876971,40.578923],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857312701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.915051,41.111814,-111.915051,41.111814",
+    "geom:latitude":41.111814,
+    "geom:longitude":-111.915051,
+    "iso:country":"US",
+    "sg:address":"2595 E 3650 N",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 771 6393",
+    "sg:postcode":"84040",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727911,
+        102083563,
+        85847875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BdOqTGzqpDUbfp4YQzRzz_41.111814_-111.915051@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126675,
+    "wof:geomhash":"586a97e793fcd91185d16037460d89f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727911,
+            "neighbourhood_id":85847875,
+            "region_id":85688567,
+            "venue_id":857312701
+        }
+    ],
+    "wof:id":857312701,
+    "wof:lastmodified":1464126675,
+    "wof:name":"Beecam Properties LLC",
+    "wof:parent_id":85847875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -111.915051,
+    41.111814,
+    -111.915051,
+    41.111814
+],
+  "geometry": {"coordinates":[-111.91505100000001,41.111814],"type":"Point"}
+}

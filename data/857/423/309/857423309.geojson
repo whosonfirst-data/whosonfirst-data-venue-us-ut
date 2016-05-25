@@ -1,0 +1,72 @@
+{
+  "id": 857423309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.65593,40.115095,-111.65593,40.115095",
+    "geom:latitude":40.115095,
+    "geom:longitude":-111.65593,
+    "iso:country":"US",
+    "sg:address":"44 W 400 N",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 3571",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "government"
+    ],
+    "sg:website":"www.fs.fed.us/r4/uinta",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VVo1bX7yvW6miNj5JWfMc_40.115095_-111.655930@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129172,
+    "wof:geomhash":"ad6d76c9bcad3826e545505f2bed5ef5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857423309
+        }
+    ],
+    "wof:id":857423309,
+    "wof:lastmodified":1464129172,
+    "wof:name":"US Forest Svc Ranger Station",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government"
+    ]
+},
+  "bbox": [
+    -111.65593,
+    40.115095,
+    -111.65593,
+    40.115095
+],
+  "geometry": {"coordinates":[-111.65593,40.115095],"type":"Point"}
+}

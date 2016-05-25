@@ -1,0 +1,73 @@
+{
+  "id": 857401193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.003474,40.654877,-112.003474,40.654877",
+    "geom:latitude":40.654877,
+    "geom:longitude":-112.003474,
+    "iso:country":"US",
+    "sg:address":"4753 W Hoffman St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 967 6511",
+    "sg:postcode":"84118",
+    "sg:province":"UT",
+    "sg:tags":[
+        "sewing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728253,
+        102082877,
+        85833393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71Xb5njzaDOuqN8lnx0rCO_40.654877_-112.003474@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128646,
+    "wof:geomhash":"628c9a99f53a15fa3a08e8f185369bf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728253,
+            "neighbourhood_id":85833393,
+            "region_id":85688567,
+            "venue_id":857401193
+        }
+    ],
+    "wof:id":857401193,
+    "wof:lastmodified":1464128646,
+    "wof:name":"ABC Stitches",
+    "wof:parent_id":85833393,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sewing"
+    ]
+},
+  "bbox": [
+    -112.003474,
+    40.654877,
+    -112.003474,
+    40.654877
+],
+  "geometry": {"coordinates":[-112.003474,40.654877],"type":"Point"}
+}

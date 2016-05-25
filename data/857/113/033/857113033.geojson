@@ -1,0 +1,71 @@
+{
+  "id": 857113033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.667237,40.059245,-111.667237,40.059245",
+    "geom:latitude":40.059245,
+    "geom:longitude":-111.667237,
+    "iso:country":"US",
+    "sg:address":"320 N 300 E",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 423 2767",
+    "sg:postcode":"84653",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5f1ElKlfH6UqsRHFZm5pY4_40.059245_-111.667237@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122257,
+    "wof:geomhash":"96c2a6cd2746fc6717d0f0b4ba57dd32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857113033
+        }
+    ],
+    "wof:id":857113033,
+    "wof:lastmodified":1464122257,
+    "wof:name":"Nixon Eldon Construction Inc",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -111.667237,
+    40.059245,
+    -111.667237,
+    40.059245
+],
+  "geometry": {"coordinates":[-111.667237,40.059245],"type":"Point"}
+}

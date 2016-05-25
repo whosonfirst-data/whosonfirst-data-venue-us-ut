@@ -1,0 +1,68 @@
+{
+  "id": 857367395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.970608,41.218113,-111.970608,41.218113",
+    "geom:latitude":41.218113,
+    "geom:longitude":-111.970608,
+    "iso:country":"US",
+    "sg:address":"2641 Washington Blvd",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 000 1111",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85820759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ha0spvd6lQ7FSwSfwyMBo_41.218113_-111.970608@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127852,
+    "wof:geomhash":"293352a5659e6cff5a376f90cb87002c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85820759,
+            "region_id":85688567,
+            "venue_id":857367395
+        }
+    ],
+    "wof:id":857367395,
+    "wof:lastmodified":1464127852,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85820759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.970608,
+    41.218113,
+    -111.970608,
+    41.218113
+],
+  "geometry": {"coordinates":[-111.970608,41.218113],"type":"Point"}
+}

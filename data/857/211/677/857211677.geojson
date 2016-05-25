@@ -1,0 +1,75 @@
+{
+  "id": 857211677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.898958,40.88424,-111.898958,40.88424",
+    "geom:latitude":40.88424,
+    "geom:longitude":-111.898958,
+    "iso:country":"US",
+    "sg:address":"715 W 500 S",
+    "sg:city":"Woods Cross",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 292 4341",
+    "sg:postcode":"84087",
+    "sg:province":"UT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727887,
+        102083563,
+        85851805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mPA1MJYZ6tDMIdXyX3npz_40.884240_-111.898958@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124433,
+    "wof:geomhash":"c3d5c874749990c580c838b2b44e9571",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727887,
+            "neighbourhood_id":85851805,
+            "region_id":85688567,
+            "venue_id":857211677
+        }
+    ],
+    "wof:id":857211677,
+    "wof:lastmodified":1464124433,
+    "wof:name":"Dave Roberts Auto Svc",
+    "wof:parent_id":85851805,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -111.898958,
+    40.88424,
+    -111.898958,
+    40.88424
+],
+  "geometry": {"coordinates":[-111.89895799999999,40.88424],"type":"Point"}
+}

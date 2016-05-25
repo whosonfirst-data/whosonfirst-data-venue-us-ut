@@ -1,0 +1,73 @@
+{
+  "id": 857465867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.901358,40.624397,-111.901358,40.624397",
+    "geom:latitude":40.624397,
+    "geom:longitude":-111.901358,
+    "iso:country":"US",
+    "sg:address":"6838 S 400 W",
+    "sg:city":"Midvale",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 565 9498",
+    "sg:postcode":"84047",
+    "sg:province":"UT",
+    "sg:tags":[
+        "sweeping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728051,
+        102082877,
+        85803901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GE1u52pzseFIfnC6U6vrZ_40.624397_-111.901358@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130086,
+    "wof:geomhash":"33b2cfc507a5f7d4f2b52f414435cd78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728051,
+            "neighbourhood_id":85803901,
+            "region_id":85688567,
+            "venue_id":857465867
+        }
+    ],
+    "wof:id":857465867,
+    "wof:lastmodified":1464130086,
+    "wof:name":"MPL Sweeping Inc",
+    "wof:parent_id":85803901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sweeping"
+    ]
+},
+  "bbox": [
+    -111.901358,
+    40.624397,
+    -111.901358,
+    40.624397
+],
+  "geometry": {"coordinates":[-111.901358,40.624397],"type":"Point"}
+}

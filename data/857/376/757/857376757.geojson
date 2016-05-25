@@ -1,0 +1,73 @@
+{
+  "id": 857376757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.006835,41.206067,-112.006835,41.206067",
+    "geom:latitude":41.206067,
+    "geom:longitude":-112.006835,
+    "iso:country":"US",
+    "sg:address":"1112 W 3300 S",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 621 8772",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85818635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_217qoIckvO5EWGydC7TdnD_41.206067_-112.006835@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128052,
+    "wof:geomhash":"e39ade9a5e3454583f7578a4e9b02c9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85818635,
+            "region_id":85688567,
+            "venue_id":857376757
+        }
+    ],
+    "wof:id":857376757,
+    "wof:lastmodified":1464128052,
+    "wof:name":"Drive Line Service",
+    "wof:parent_id":85818635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -112.006835,
+    41.206067,
+    -112.006835,
+    41.206067
+],
+  "geometry": {"coordinates":[-112.006835,41.206067],"type":"Point"}
+}

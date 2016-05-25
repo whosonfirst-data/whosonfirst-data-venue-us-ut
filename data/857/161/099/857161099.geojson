@@ -1,0 +1,73 @@
+{
+  "id": 857161099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.832096,41.757583,-111.832096,41.757583",
+    "geom:latitude":41.757583,
+    "geom:longitude":-111.832096,
+    "iso:country":"US",
+    "sg:address":"101 E 1400 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 716 5396",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cvixtC5LEMU4sLxNP3UXF_41.757583_-111.832096@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123371,
+    "wof:geomhash":"123d51250e573dd00627d3114c8f3218",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857161099
+        }
+    ],
+    "wof:id":857161099,
+    "wof:lastmodified":1464123371,
+    "wof:name":"IHC Home Medical Equipment",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -111.832096,
+    41.757583,
+    -111.832096,
+    41.757583
+],
+  "geometry": {"coordinates":[-111.83209600000001,41.757583],"type":"Point"}
+}

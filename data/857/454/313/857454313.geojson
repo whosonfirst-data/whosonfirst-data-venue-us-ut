@@ -1,0 +1,87 @@
+{
+  "id": 857454313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.808207,40.696813,-111.808207,40.696813",
+    "geom:latitude":40.696813,
+    "geom:longitude":-111.808207,
+    "iso:country":"US",
+    "sg:address":"2965 E Evergreen Ave",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 466 4214",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "instruction",
+        "improvement",
+        "child",
+        "reading",
+        "day",
+        "care"
+    ],
+    "sg:website":"www.reidschool.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728257,
+        102082877,
+        85854869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hol72BfGe049ZdSCwEMtU_40.696813_-111.808207@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129844,
+    "wof:geomhash":"7e845e436827ba1d4e027bfeea034ce1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85854869,
+            "region_id":85688567,
+            "venue_id":857454313
+        }
+    ],
+    "wof:id":857454313,
+    "wof:lastmodified":1464129844,
+    "wof:name":"Reid School",
+    "wof:parent_id":85854869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "improvement",
+        "child",
+        "reading",
+        "day",
+        "care"
+    ]
+},
+  "bbox": [
+    -111.808207,
+    40.696813,
+    -111.808207,
+    40.696813
+],
+  "geometry": {"coordinates":[-111.808207,40.696813],"type":"Point"}
+}

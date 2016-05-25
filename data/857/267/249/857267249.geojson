@@ -1,0 +1,73 @@
+{
+  "id": 857267249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.775147,41.248345,-111.775147,41.248345",
+    "geom:latitude":41.248345,
+    "geom:longitude":-111.775147,
+    "iso:country":"US",
+    "sg:address":"7238 E 900 S",
+    "sg:city":"Huntsville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 745 9557",
+    "sg:postcode":"84317",
+    "sg:province":"UT",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85818631,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Vxl6IQ6bfUSMWUbS95pbu_41.248345_-111.775147@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125634,
+    "wof:geomhash":"dc4535a295472b9bb30d0e82ef7db548",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85818631,
+            "region_id":85688567,
+            "venue_id":857267249
+        }
+    ],
+    "wof:id":857267249,
+    "wof:lastmodified":1464125634,
+    "wof:name":"Wilkerson Fine Art",
+    "wof:parent_id":85818631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -111.775147,
+    41.248345,
+    -111.775147,
+    41.248345
+],
+  "geometry": {"coordinates":[-111.775147,41.248345],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857231355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.107618,40.710897,-112.107618,40.710897",
+    "geom:latitude":40.710897,
+    "geom:longitude":-112.107618,
+    "iso:country":"US",
+    "sg:address":"9087 W 2700 S",
+    "sg:city":"Magna",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 250 7002",
+    "sg:postcode":"84044",
+    "sg:province":"UT",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85830063,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ozRwsptVVI9V1RzmCYoZQ_40.710897_-112.107618@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124831,
+    "wof:geomhash":"6923cd03f18a377ebf14967f10191672",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85830063,
+            "region_id":85688567,
+            "venue_id":857231355
+        }
+    ],
+    "wof:id":857231355,
+    "wof:lastmodified":1464124831,
+    "wof:name":"Survey Technologies",
+    "wof:parent_id":85830063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -112.107618,
+    40.710897,
+    -112.107618,
+    40.710897
+],
+  "geometry": {"coordinates":[-112.107618,40.710897],"type":"Point"}
+}

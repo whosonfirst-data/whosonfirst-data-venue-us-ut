@@ -1,0 +1,71 @@
+{
+  "id": 857207915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.574427,40.130363,-111.574427,40.130363",
+    "geom:latitude":40.130363,
+    "geom:longitude":-111.574427,
+    "iso:country":"US",
+    "sg:address":"590 E Maple St",
+    "sg:city":"Mapleton",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 489 8880",
+    "sg:postcode":"84664",
+    "sg:province":"UT",
+    "sg:tags":[
+        "communication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ae0kfYWsXEGzb22dmZ6Gs_40.130363_-111.574427@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124349,
+    "wof:geomhash":"0658b0cf5cbbde86c85172375d46a69c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857207915
+        }
+    ],
+    "wof:id":857207915,
+    "wof:lastmodified":1464124349,
+    "wof:name":"Rush Wireless Isp",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication"
+    ]
+},
+  "bbox": [
+    -111.574427,
+    40.130363,
+    -111.574427,
+    40.130363
+],
+  "geometry": {"coordinates":[-111.574427,40.130363],"type":"Point"}
+}

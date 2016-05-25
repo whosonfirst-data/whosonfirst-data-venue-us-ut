@@ -1,0 +1,73 @@
+{
+  "id": 857234983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.973386,41.076513,-111.973386,41.076513",
+    "geom:latitude":41.076513,
+    "geom:longitude":-111.973386,
+    "iso:country":"US",
+    "sg:address":"1200 Hill Field Rd",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 444 1224",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ifmkz5mlLMojUhRsaG6DK_41.076513_-111.973386@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124902,
+    "wof:geomhash":"466aab610528c82fc42ac76c5875ada0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857234983
+        }
+    ],
+    "wof:id":857234983,
+    "wof:lastmodified":1464124902,
+    "wof:name":"Silver Express",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -111.973386,
+    41.076513,
+    -111.973386,
+    41.076513
+],
+  "geometry": {"coordinates":[-111.973386,41.076513],"type":"Point"}
+}

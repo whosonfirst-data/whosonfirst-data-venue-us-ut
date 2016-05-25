@@ -1,0 +1,75 @@
+{
+  "id": 857259137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.899362,40.751873,-111.899362,40.751873",
+    "geom:latitude":40.751873,
+    "geom:longitude":-111.899362,
+    "iso:country":"US",
+    "sg:address":"255 W 800 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 322 1123",
+    "sg:postcode":"84101",
+    "sg:province":"UT",
+    "sg:tags":[
+        "commercial",
+        "lithographic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85854255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KFKAWwjRikXyHJZ12u6N2_40.751873_-111.899362@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125474,
+    "wof:geomhash":"7e1000e1dade63381cd6d6fd14f20fdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85854255,
+            "region_id":85688567,
+            "venue_id":857259137
+        }
+    ],
+    "wof:id":857259137,
+    "wof:lastmodified":1464125474,
+    "wof:name":"Moench Printing & Mailing",
+    "wof:parent_id":85854255,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "lithographic"
+    ]
+},
+  "bbox": [
+    -111.899362,
+    40.751873,
+    -111.899362,
+    40.751873
+],
+  "geometry": {"coordinates":[-111.899362,40.751873],"type":"Point"}
+}

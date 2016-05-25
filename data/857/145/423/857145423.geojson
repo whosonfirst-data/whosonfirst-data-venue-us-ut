@@ -1,0 +1,73 @@
+{
+  "id": 857145423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.796176,40.37685,-111.796176,40.37685",
+    "geom:latitude":40.37685,
+    "geom:longitude":-111.796176,
+    "iso:country":"US",
+    "sg:address":"55 E Main St",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 613 1095",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "equipment",
+        "archery",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73CMqcCxjt1eTFZmbzOHkc_40.376850_-111.796176@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123050,
+    "wof:geomhash":"310fb46769cbb078afb227af23d6e01a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857145423
+        }
+    ],
+    "wof:id":857145423,
+    "wof:lastmodified":1464123050,
+    "wof:name":"Cedar's Edge Archery",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "archery",
+        "supply"
+    ]
+},
+  "bbox": [
+    -111.796176,
+    40.37685,
+    -111.796176,
+    40.37685
+],
+  "geometry": {"coordinates":[-111.796176,40.37685],"type":"Point"}
+}

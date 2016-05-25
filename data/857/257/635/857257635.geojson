@@ -1,0 +1,73 @@
+{
+  "id": 857257635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.799529,41.731869,-111.799529,41.731869",
+    "geom:latitude":41.731869,
+    "geom:longitude":-111.799529,
+    "iso:country":"US",
+    "sg:address":"1402 Mountain Rd",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 8497",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "company",
+        "holding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lXhEJTZMm4z0rFjZCS8U0_41.731869_-111.799529@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125443,
+    "wof:geomhash":"b617171586de0921bfbe444492c31db7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857257635
+        }
+    ],
+    "wof:id":857257635,
+    "wof:lastmodified":1464125443,
+    "wof:name":"Anderson Holdings LLC",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "holding"
+    ]
+},
+  "bbox": [
+    -111.799529,
+    41.731869,
+    -111.799529,
+    41.731869
+],
+  "geometry": {"coordinates":[-111.79952900000001,41.731869],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857218307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.844064,40.542482,-111.844064,40.542482",
+    "geom:latitude":40.542482,
+    "geom:longitude":-111.844064,
+    "iso:country":"US",
+    "sg:address":"1658 Lipman Dr",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 566 1808",
+    "sg:postcode":"84092",
+    "sg:province":"UT",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85812845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24YRFoBxAnrnb9IVnbDhsF_40.542482_-111.844064@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124581,
+    "wof:geomhash":"b0d93115bc86ebcbf5f2e7b45b620963",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85812845,
+            "region_id":85688567,
+            "venue_id":857218307
+        }
+    ],
+    "wof:id":857218307,
+    "wof:lastmodified":1464124581,
+    "wof:name":"Dairy Fresh Home Delivery",
+    "wof:parent_id":85812845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -111.844064,
+    40.542482,
+    -111.844064,
+    40.542482
+],
+  "geometry": {"coordinates":[-111.844064,40.542482],"type":"Point"}
+}

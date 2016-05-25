@@ -1,0 +1,76 @@
+{
+  "id": 857492141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.690415,40.273443,-111.690415,40.273443",
+    "geom:latitude":40.273443,
+    "geom:longitude":-111.690415,
+    "iso:country":"US",
+    "sg:address":"199 E 1300 South St",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/provo-orem/37035-outback-steakhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 764 0552",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85813259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ABq6q4k2K2sSlbYbBcjSD_40.273443_-111.690415@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130666,
+    "wof:geomhash":"4e3f9c09303bb02910a84a2708e76c84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85813259,
+            "region_id":85688567,
+            "venue_id":857492141
+        }
+    ],
+    "wof:id":857492141,
+    "wof:lastmodified":1464130666,
+    "wof:name":"Outback Steakhouse",
+    "wof:parent_id":85813259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -111.690415,
+    40.273443,
+    -111.690415,
+    40.273443
+],
+  "geometry": {"coordinates":[-111.690415,40.273443],"type":"Point"}
+}

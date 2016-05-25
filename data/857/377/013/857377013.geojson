@@ -1,0 +1,73 @@
+{
+  "id": 857377013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834741,41.742279,-111.834741,41.742279",
+    "geom:latitude":41.742279,
+    "geom:longitude":-111.834741,
+    "iso:country":"US",
+    "sg:address":"521 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 6070",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dancing",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1D87g9gLXMrHzVqb2i351b_41.742279_-111.834741@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128056,
+    "wof:geomhash":"3bdf3444af247bc5fe43d580994fe24a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857377013
+        }
+    ],
+    "wof:id":857377013,
+    "wof:lastmodified":1464128056,
+    "wof:name":"Dance Shoppe",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dancing",
+        "supply"
+    ]
+},
+  "bbox": [
+    -111.834741,
+    41.742279,
+    -111.834741,
+    41.742279
+],
+  "geometry": {"coordinates":[-111.83474099999999,41.742279],"type":"Point"}
+}

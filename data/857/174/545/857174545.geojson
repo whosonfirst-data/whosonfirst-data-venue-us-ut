@@ -1,0 +1,71 @@
+{
+  "id": 857174545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.621249,40.097199,-111.621249,40.097199",
+    "geom:latitude":40.097199,
+    "geom:longitude":-111.621249,
+    "iso:country":"US",
+    "sg:address":"2162 E Canyon Rd",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 5539",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OutBPLrDWPwWX4nNTHCIG_40.097199_-111.621249@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123685,
+    "wof:geomhash":"4a0862a4ea7edd0444d2fd4ec2872a13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857174545
+        }
+    ],
+    "wof:id":857174545,
+    "wof:lastmodified":1464123685,
+    "wof:name":"Church Of Jesus Christ Of Lds",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -111.621249,
+    40.097199,
+    -111.621249,
+    40.097199
+],
+  "geometry": {"coordinates":[-111.62124900000001,40.097199],"type":"Point"}
+}

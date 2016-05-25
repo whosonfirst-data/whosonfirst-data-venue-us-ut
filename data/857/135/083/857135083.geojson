@@ -1,0 +1,68 @@
+{
+  "id": 857135083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.938821,40.626467,-111.938821,40.626467",
+    "geom:latitude":40.626467,
+    "geom:longitude":-111.938821,
+    "iso:country":"US",
+    "sg:address":"6856 S Redwood Rd",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 352 8033",
+    "sg:postcode":"84084",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85824493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3g5Vj8l0YMWijaZvwXfMs5_40.626467_-111.938821@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122784,
+    "wof:geomhash":"dc8eed15f234100e157a668edff978cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85824493,
+            "region_id":85688567,
+            "venue_id":857135083
+        }
+    ],
+    "wof:id":857135083,
+    "wof:lastmodified":1464122784,
+    "wof:name":"Office Depot",
+    "wof:parent_id":85824493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.938821,
+    40.626467,
+    -111.938821,
+    40.626467
+],
+  "geometry": {"coordinates":[-111.938821,40.626467],"type":"Point"}
+}

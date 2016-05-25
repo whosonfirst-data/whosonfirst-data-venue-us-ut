@@ -1,0 +1,75 @@
+{
+  "id": 857422219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.99728,40.606514,-111.99728,40.606514",
+    "geom:latitude":40.606514,
+    "geom:longitude":-111.99728,
+    "iso:country":"US",
+    "sg:address":"4502 New Bingham Hwy",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 260 1337",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85813117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39E8vNHUJsjopAnZaXqm2p_40.606514_-111.997280@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129154,
+    "wof:geomhash":"1e0fc56d73950faef5dfad06fbfc2da1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85813117,
+            "region_id":85688567,
+            "venue_id":857422219
+        }
+    ],
+    "wof:id":857422219,
+    "wof:lastmodified":1464129154,
+    "wof:name":"Towne Storage",
+    "wof:parent_id":85813117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -111.99728,
+    40.606514,
+    -111.99728,
+    40.606514
+],
+  "geometry": {"coordinates":[-111.99728,40.606514],"type":"Point"}
+}

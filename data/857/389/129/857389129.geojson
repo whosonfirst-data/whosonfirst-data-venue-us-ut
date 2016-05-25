@@ -1,0 +1,73 @@
+{
+  "id": 857389129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.970636,41.213504,-111.970636,41.213504",
+    "geom:latitude":41.213504,
+    "geom:longitude":-111.970636,
+    "iso:country":"US",
+    "sg:address":"2898 Washington Blvd",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 394 2645",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85820759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OOLGjESqDlTcutIGiITu3_41.213504_-111.970636@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128412,
+    "wof:geomhash":"8141314e0a6ccd4794224f410a84cfb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85820759,
+            "region_id":85688567,
+            "venue_id":857389129
+        }
+    ],
+    "wof:id":857389129,
+    "wof:lastmodified":1464128412,
+    "wof:name":"Your Valet Cleaners",
+    "wof:parent_id":85820759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -111.970636,
+    41.213504,
+    -111.970636,
+    41.213504
+],
+  "geometry": {"coordinates":[-111.970636,41.213504],"type":"Point"}
+}

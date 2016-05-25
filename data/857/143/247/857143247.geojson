@@ -1,0 +1,68 @@
+{
+  "id": 857143247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.807617,40.645546,-111.807617,40.645546",
+    "geom:latitude":40.645546,
+    "geom:longitude":-111.807617,
+    "iso:country":"US",
+    "sg:address":"3030 Tolcate Ln",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 272 5504",
+    "sg:postcode":"84121",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728049,
+        102082877,
+        85825905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EuWVaIBifzdkR2w2AzMx3_40.645546_-111.807617@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122970,
+    "wof:geomhash":"57388e51b5f275d9bc22dd397230b443",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728049,
+            "neighbourhood_id":85825905,
+            "region_id":85688567,
+            "venue_id":857143247
+        }
+    ],
+    "wof:id":857143247,
+    "wof:lastmodified":1464122970,
+    "wof:name":"Walter Investments LLC",
+    "wof:parent_id":85825905,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.807617,
+    40.645546,
+    -111.807617,
+    40.645546
+],
+  "geometry": {"coordinates":[-111.80761699999999,40.645546],"type":"Point"}
+}

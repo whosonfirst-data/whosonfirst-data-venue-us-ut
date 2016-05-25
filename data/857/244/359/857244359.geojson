@@ -1,0 +1,74 @@
+{
+  "id": 857244359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.651497,40.275369,-111.651497,40.275369",
+    "geom:latitude":40.275369,
+    "geom:longitude":-111.651497,
+    "iso:country":"US",
+    "sg:address":"3161 N Canyon Rd",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 374 5667",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "sg:website":"www.lonscookinshack.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85817395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DjYuRtaqYKEHSV8xTchPX_40.275369_-111.651497@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125118,
+    "wof:geomhash":"d1bea0cb497c2df4fda567d090351f9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85817395,
+            "region_id":85688567,
+            "venue_id":857244359
+        }
+    ],
+    "wof:id":857244359,
+    "wof:lastmodified":1464125118,
+    "wof:name":"Lon's Cookin Shack",
+    "wof:parent_id":85817395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.651497,
+    40.275369,
+    -111.651497,
+    40.275369
+],
+  "geometry": {"coordinates":[-111.65149700000001,40.275369],"type":"Point"}
+}

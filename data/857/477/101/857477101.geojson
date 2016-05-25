@@ -1,0 +1,73 @@
+{
+  "id": 857477101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.927032,41.124278,-111.927032,41.124278",
+    "geom:latitude":41.124278,
+    "geom:longitude":-111.927032,
+    "iso:country":"US",
+    "sg:address":"7825 S 2000 E",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 475 4912",
+    "sg:postcode":"84405",
+    "sg:province":"UT",
+    "sg:tags":[
+        "photography",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727911,
+        102083563,
+        85847875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qfdgOFaTFnVAlEIzcbngB_41.124278_-111.927032@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130317,
+    "wof:geomhash":"129e26c2f9331e3ca857044a58d6261c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727911,
+            "neighbourhood_id":85847875,
+            "region_id":85688567,
+            "venue_id":857477101
+        }
+    ],
+    "wof:id":857477101,
+    "wof:lastmodified":1464130317,
+    "wof:name":"Big Grizz Outdoors",
+    "wof:parent_id":85847875,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photography",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -111.927032,
+    41.124278,
+    -111.927032,
+    41.124278
+],
+  "geometry": {"coordinates":[-111.927032,41.124278],"type":"Point"}
+}

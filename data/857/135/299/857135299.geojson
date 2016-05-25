@@ -1,0 +1,69 @@
+{
+  "id": 857135299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.798536,40.384325,-111.798536,40.384325",
+    "geom:latitude":40.384325,
+    "geom:longitude":-111.798536,
+    "iso:country":"US",
+    "sg:address":"337 N Center St",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 7965",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19IKo6PVxk8siSgwVQI9XX_40.384325_-111.798536@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122789,
+    "wof:geomhash":"14a9a84dd54cdae7df566cd3c98e1da0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857135299
+        }
+    ],
+    "wof:id":857135299,
+    "wof:lastmodified":1464122789,
+    "wof:name":"Riak LLC",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "datum"
+    ]
+},
+  "bbox": [
+    -111.798536,
+    40.384325,
+    -111.798536,
+    40.384325
+],
+  "geometry": {"coordinates":[-111.798536,40.384325],"type":"Point"}
+}

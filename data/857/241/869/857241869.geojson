@@ -1,0 +1,73 @@
+{
+  "id": 857241869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.971992,41.207328,-111.971992,41.207328",
+    "geom:latitude":41.207328,
+    "geom:longitude":-111.971992,
+    "iso:country":"US",
+    "sg:address":"350 Healy St",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 394 6245",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mailing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85810249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Iq10dZp3G2iBPNd0sM4UD_41.207328_-111.971992@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125056,
+    "wof:geomhash":"2dc9f6ae0c244ec4daa322c10bc730cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85810249,
+            "region_id":85688567,
+            "venue_id":857241869
+        }
+    ],
+    "wof:id":857241869,
+    "wof:lastmodified":1464125056,
+    "wof:name":"Mailtech LLC",
+    "wof:parent_id":85810249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mailing"
+    ]
+},
+  "bbox": [
+    -111.971992,
+    41.207328,
+    -111.971992,
+    41.207328
+],
+  "geometry": {"coordinates":[-111.971992,41.207328],"type":"Point"}
+}

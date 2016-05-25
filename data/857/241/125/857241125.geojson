@@ -1,0 +1,73 @@
+{
+  "id": 857241125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.889399,40.634995,-111.889399,40.634995",
+    "geom:latitude":40.634995,
+    "geom:longitude":-111.889399,
+    "iso:country":"US",
+    "sg:address":"6328 S State St",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 293 3476",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mattress"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85825767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IgfSyHiZR8A1lzDgOwOzT_40.634995_-111.889399@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125032,
+    "wof:geomhash":"f87139600025c99749d54914fcaee6e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85825767,
+            "region_id":85688567,
+            "venue_id":857241125
+        }
+    ],
+    "wof:id":857241125,
+    "wof:lastmodified":1464125032,
+    "wof:name":"Mattress Firm",
+    "wof:parent_id":85825767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mattress"
+    ]
+},
+  "bbox": [
+    -111.889399,
+    40.634995,
+    -111.889399,
+    40.634995
+],
+  "geometry": {"coordinates":[-111.889399,40.634995],"type":"Point"}
+}

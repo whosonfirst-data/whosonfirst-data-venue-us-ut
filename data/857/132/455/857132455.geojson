@@ -1,0 +1,75 @@
+{
+  "id": 857132455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.667495,40.243332,-111.667495,40.243332",
+    "geom:latitude":40.243332,
+    "geom:longitude":-111.667495,
+    "iso:country":"US",
+    "sg:address":"777 N 500 W",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 357 7363",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27YDCeCXE19d4EnB9pTydU_40.243332_-111.667495@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122727,
+    "wof:geomhash":"e84087670cd79200c94449177b5d88c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880121,
+            "region_id":85688567,
+            "venue_id":857132455
+        }
+    ],
+    "wof:id":857132455,
+    "wof:lastmodified":1464122727,
+    "wof:name":"Mountain View Women's Care",
+    "wof:parent_id":85880121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -111.667495,
+    40.243332,
+    -111.667495,
+    40.243332
+],
+  "geometry": {"coordinates":[-111.667495,40.243332],"type":"Point"}
+}

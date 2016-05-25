@@ -1,0 +1,75 @@
+{
+  "id": 857453241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.85445,40.411826,-111.85445,40.411826",
+    "geom:latitude":40.411826,
+    "geom:longitude":-111.85445,
+    "iso:country":"US",
+    "sg:address":"2055 N 300 W",
+    "sg:city":"Lehi",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 768 0580",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "food",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727857,
+        102083567,
+        85836317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vIqpqoIIcZAdHpk0GTBye_40.411826_-111.854450@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129820,
+    "wof:geomhash":"edace087b7dc8199e7cdc41b9871a6a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727857,
+            "neighbourhood_id":85836317,
+            "region_id":85688567,
+            "venue_id":857453241
+        }
+    ],
+    "wof:id":857453241,
+    "wof:lastmodified":1464129820,
+    "wof:name":"Interwest Ingredient Sales",
+    "wof:parent_id":85836317,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "broker"
+    ]
+},
+  "bbox": [
+    -111.85445,
+    40.411826,
+    -111.85445,
+    40.411826
+],
+  "geometry": {"coordinates":[-111.85445,40.411826],"type":"Point"}
+}

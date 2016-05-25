@@ -1,0 +1,73 @@
+{
+  "id": 857120903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.91238,41.037154,-111.91238,41.037154",
+    "geom:latitude":41.037154,
+    "geom:longitude":-111.91238,
+    "iso:country":"US",
+    "sg:address":"1090 Country Rd",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 547 1297",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "advisory",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DdGDWMufuAdKHTDibzrUk_41.037154_-111.912380@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122468,
+    "wof:geomhash":"94722c67cadd33a62afdbfd7d1d3cf7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857120903
+        }
+    ],
+    "wof:id":857120903,
+    "wof:lastmodified":1464122468,
+    "wof:name":"Garrett Capital Mgmt Inc",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "financial"
+    ]
+},
+  "bbox": [
+    -111.91238,
+    41.037154,
+    -111.91238,
+    41.037154
+],
+  "geometry": {"coordinates":[-111.91238,41.037154],"type":"Point"}
+}

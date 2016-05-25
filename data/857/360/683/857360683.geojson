@@ -1,0 +1,73 @@
+{
+  "id": 857360683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.972317,41.222706,-111.972317,41.222706",
+    "geom:latitude":41.222706,
+    "geom:longitude":-111.972317,
+    "iso:country":"US",
+    "sg:address":"319 24th St",
+    "sg:city":"Ogden",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 621 1183",
+    "sg:postcode":"84401",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728033,
+        102083539,
+        85820759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dJ7fIFBtZBIGpXHP1vsK0_41.222706_-111.972317@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127716,
+    "wof:geomhash":"f4ad09c6e69252a5016930deead65248",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083539,
+            "locality_id":101728033,
+            "neighbourhood_id":85820759,
+            "region_id":85688567,
+            "venue_id":857360683
+        }
+    ],
+    "wof:id":857360683,
+    "wof:lastmodified":1464127716,
+    "wof:name":"Just Down Street Cafe",
+    "wof:parent_id":85820759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.972317,
+    41.222706,
+    -111.972317,
+    41.222706
+],
+  "geometry": {"coordinates":[-111.972317,41.222706],"type":"Point"}
+}

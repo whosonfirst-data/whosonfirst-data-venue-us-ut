@@ -1,0 +1,73 @@
+{
+  "id": 857477065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.968831,41.058089,-111.968831,41.058089",
+    "geom:latitude":41.058089,
+    "geom:longitude":-111.968831,
+    "iso:country":"US",
+    "sg:address":"97 SW Dawson St",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 546 2003",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dkX4lfRSn8VJ55F0C29JG_41.058089_-111.968831@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130316,
+    "wof:geomhash":"0691f3cd93e4ac4621a91fecf54d5332",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857477065
+        }
+    ],
+    "wof:id":857477065,
+    "wof:lastmodified":1464130316,
+    "wof:name":"Carlton Construction",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -111.968831,
+    41.058089,
+    -111.968831,
+    41.058089
+],
+  "geometry": {"coordinates":[-111.96883099999999,41.058089],"type":"Point"}
+}

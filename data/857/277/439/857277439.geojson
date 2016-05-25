@@ -1,0 +1,73 @@
+{
+  "id": 857277439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.813232,40.699928,-111.813232,40.699928",
+    "geom:latitude":40.699928,
+    "geom:longitude":-111.813232,
+    "iso:country":"US",
+    "sg:address":"2855 E 3300 S",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 481 5210",
+    "sg:postcode":"84109",
+    "sg:province":"UT",
+    "sg:tags":[
+        "national",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728257,
+        102082877,
+        85854869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OwMWBAFtiDeioS5plL6Jk_40.699928_-111.813232@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125857,
+    "wof:geomhash":"e9686ba80bd2cab68e5b4beb74345182",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85854869,
+            "region_id":85688567,
+            "venue_id":857277439
+        }
+    ],
+    "wof:id":857277439,
+    "wof:lastmodified":1464125857,
+    "wof:name":"Bank One",
+    "wof:parent_id":85854869,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -111.813232,
+    40.699928,
+    -111.813232,
+    40.699928
+],
+  "geometry": {"coordinates":[-111.813232,40.699928],"type":"Point"}
+}

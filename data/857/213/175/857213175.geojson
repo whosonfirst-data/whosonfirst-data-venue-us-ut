@@ -1,0 +1,75 @@
+{
+  "id": 857213175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.662248,40.23926,-111.662248,40.23926",
+    "geom:latitude":40.23926,
+    "geom:longitude":-111.662248,
+    "iso:country":"US",
+    "sg:address":"485 N Freedom Blvd",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 377 5651",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "federal",
+        "human"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GrMmtGcK8fYXCBmhoCwM6_40.239260_-111.662248@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124466,
+    "wof:geomhash":"75645be79ffc94e411add526ddbaad26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880121,
+            "region_id":85688567,
+            "venue_id":857213175
+        }
+    ],
+    "wof:id":857213175,
+    "wof:lastmodified":1464124466,
+    "wof:name":"US Social Security Adm",
+    "wof:parent_id":85880121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "human"
+    ]
+},
+  "bbox": [
+    -111.662248,
+    40.23926,
+    -111.662248,
+    40.23926
+],
+  "geometry": {"coordinates":[-111.66224800000001,40.23926],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857265559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.026448,40.647812,-112.026448,40.647812",
+    "geom:latitude":40.647812,
+    "geom:longitude":-112.026448,
+    "iso:country":"US",
+    "sg:address":"5732 Sunview Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 965 0972",
+    "sg:postcode":"84118",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728253,
+        102082877,
+        85812231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fSoUBI3XmQZk7MjhOSj0N_40.647812_-112.026448@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125602,
+    "wof:geomhash":"f27ebd576cff1905215ae31959f93d5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728253,
+            "neighbourhood_id":85812231,
+            "region_id":85688567,
+            "venue_id":857265559
+        }
+    ],
+    "wof:id":857265559,
+    "wof:lastmodified":1464125602,
+    "wof:name":"Auto Glass Replacement",
+    "wof:parent_id":85812231,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -112.026448,
+    40.647812,
+    -112.026448,
+    40.647812
+],
+  "geometry": {"coordinates":[-112.026448,40.647812],"type":"Point"}
+}

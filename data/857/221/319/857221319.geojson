@@ -1,0 +1,71 @@
+{
+  "id": 857221319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.654663,40.115648,-111.654663,40.115648",
+    "geom:latitude":40.115648,
+    "geom:longitude":-111.654663,
+    "iso:country":"US",
+    "sg:address":"450 N Main St",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 0857",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "sewing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ScJUJlUEJbyPGK1r5YBN2_40.115648_-111.654663@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124644,
+    "wof:geomhash":"87f19b6619bd2f10d1609388d45e00a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857221319
+        }
+    ],
+    "wof:id":857221319,
+    "wof:lastmodified":1464124644,
+    "wof:name":"Jo-Ann Fabrics & Crafts",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sewing"
+    ]
+},
+  "bbox": [
+    -111.654663,
+    40.115648,
+    -111.654663,
+    40.115648
+],
+  "geometry": {"coordinates":[-111.654663,40.115648],"type":"Point"}
+}

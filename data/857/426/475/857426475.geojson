@@ -1,0 +1,71 @@
+{
+  "id": 857426475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.663244,40.050595,-111.663244,40.050595",
+    "geom:latitude":40.050595,
+    "geom:longitude":-111.663244,
+    "iso:country":"US",
+    "sg:address":"255 S 500 E",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 423 1508",
+    "sg:postcode":"84653",
+    "sg:province":"UT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Txuaq7go20YyUrLI6kbcF_40.050595_-111.663244@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129267,
+    "wof:geomhash":"02eb08d822876b401768c0a3775a0f08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857426475
+        }
+    ],
+    "wof:id":857426475,
+    "wof:lastmodified":1464129267,
+    "wof:name":"Ameri-Craft Builders Inc",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -111.663244,
+    40.050595,
+    -111.663244,
+    40.050595
+],
+  "geometry": {"coordinates":[-111.66324400000001,40.050595],"type":"Point"}
+}

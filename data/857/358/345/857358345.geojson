@@ -1,0 +1,74 @@
+{
+  "id": 857358345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.637282,40.173535,-111.637282,40.173535",
+    "geom:latitude":40.173535,
+    "geom:longitude":-111.637282,
+    "iso:country":"US",
+    "sg:address":"1295 N 1650 W",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 489 8633",
+    "sg:postcode":"84663",
+    "sg:province":"UT",
+    "sg:tags":[
+        "painter"
+    ],
+    "sg:website":"www.precisioncoatings.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727829,
+        102083567,
+        85880117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bEQYx7sDw4cRAAu9J3hIB_40.173535_-111.637282@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127666,
+    "wof:geomhash":"28850753a619dd7da8a1b83eb6908e63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727829,
+            "neighbourhood_id":85880117,
+            "region_id":85688567,
+            "venue_id":857358345
+        }
+    ],
+    "wof:id":857358345,
+    "wof:lastmodified":1464127666,
+    "wof:name":"Precision Coatings",
+    "wof:parent_id":85880117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -111.637282,
+    40.173535,
+    -111.637282,
+    40.173535
+],
+  "geometry": {"coordinates":[-111.637282,40.173535],"type":"Point"}
+}

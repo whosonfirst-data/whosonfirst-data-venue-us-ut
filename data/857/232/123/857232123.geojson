@@ -1,0 +1,73 @@
+{
+  "id": 857232123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.643855,40.271199,-111.643855,40.271199",
+    "geom:latitude":40.271199,
+    "geom:longitude":-111.643855,
+    "iso:country":"US",
+    "sg:address":"919 E 2800 N",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 6539",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "theatrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uW7eeRy2fpeSbuyQ3Hhj0_40.271199_-111.643855@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124845,
+    "wof:geomhash":"0d5a8b9e1bedf3e216ef09f9ff3c9dc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880111,
+            "region_id":85688567,
+            "venue_id":857232123
+        }
+    ],
+    "wof:id":857232123,
+    "wof:lastmodified":1464124845,
+    "wof:name":"Salzburg Folk Ensemble",
+    "wof:parent_id":85880111,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "theatrical"
+    ]
+},
+  "bbox": [
+    -111.643855,
+    40.271199,
+    -111.643855,
+    40.271199
+],
+  "geometry": {"coordinates":[-111.643855,40.271199],"type":"Point"}
+}

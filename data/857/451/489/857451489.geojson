@@ -1,0 +1,68 @@
+{
+  "id": 857451489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.658677,40.251382,-111.658677,40.251382",
+    "geom:latitude":40.251382,
+    "geom:longitude":-111.658677,
+    "iso:country":"US",
+    "sg:address":"1389 N University Ave",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 375 1929",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PJaz9cv4xZxBnJTe9DScU_40.251382_-111.658677@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129791,
+    "wof:geomhash":"82c51140362531e4c6720e4c77fd4b04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880123,
+            "region_id":85688567,
+            "venue_id":857451489
+        }
+    ],
+    "wof:id":857451489,
+    "wof:lastmodified":1464129791,
+    "wof:name":"Wells Fargo Bank",
+    "wof:parent_id":85880123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.658677,
+    40.251382,
+    -111.658677,
+    40.251382
+],
+  "geometry": {"coordinates":[-111.658677,40.251382],"type":"Point"}
+}

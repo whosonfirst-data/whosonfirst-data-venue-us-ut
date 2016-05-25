@@ -1,0 +1,71 @@
+{
+  "id": 857362253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.683921,40.040046,-111.683921,40.040046",
+    "geom:latitude":40.040046,
+    "geom:longitude":-111.683921,
+    "iso:country":"US",
+    "sg:address":"536 W Salem Canal Rd",
+    "sg:city":"Salem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 423 6602",
+    "sg:postcode":"84653",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_268fVu6wnjwrPcyBTeVOhq_40.040046_-111.683921@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127747,
+    "wof:geomhash":"6236419aa992d22ccd5d6aff6a1dd504",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857362253
+        }
+    ],
+    "wof:id":857362253,
+    "wof:lastmodified":1464127747,
+    "wof:name":"Street Siding",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.683921,
+    40.040046,
+    -111.683921,
+    40.040046
+],
+  "geometry": {"coordinates":[-111.683921,40.040046],"type":"Point"}
+}

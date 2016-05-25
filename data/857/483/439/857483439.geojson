@@ -1,0 +1,81 @@
+{
+  "id": 857483439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.833922,41.783462,-111.833922,41.783462",
+    "geom:latitude":41.783462,
+    "geom:longitude":-111.833922,
+    "iso:country":"US",
+    "sg:address":"2600 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 750 6089",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "pitcher",
+        "custom",
+        "framing",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RzS500XaH0lvyqNu29XY6_41.783462_-111.833922@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130435,
+    "wof:geomhash":"00cc04b03e0864b63114427aae1c50f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857483439
+        }
+    ],
+    "wof:id":857483439,
+    "wof:lastmodified":1464130435,
+    "wof:name":"Prince Gallery",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "gallery",
+        "pitcher",
+        "custom",
+        "framing",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -111.833922,
+    41.783462,
+    -111.833922,
+    41.783462
+],
+  "geometry": {"coordinates":[-111.833922,41.783462],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857162541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.908196,41.011701,-111.908196,41.011701",
+    "geom:latitude":41.011701,
+    "geom:longitude":-111.908196,
+    "iso:country":"US",
+    "sg:address":"931 Lands End Rd",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 2122",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dI5xmMXrD4oVRneHIjG80_41.011701_-111.908196@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123415,
+    "wof:geomhash":"b317741b0bfa9156227d6e55580e97e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857162541
+        }
+    ],
+    "wof:id":857162541,
+    "wof:lastmodified":1464123415,
+    "wof:name":"Hefner Construction Inc",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -111.908196,
+    41.011701,
+    -111.908196,
+    41.011701
+],
+  "geometry": {"coordinates":[-111.908196,41.011701],"type":"Point"}
+}

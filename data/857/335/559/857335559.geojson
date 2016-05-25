@@ -1,0 +1,71 @@
+{
+  "id": 857335559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.614976,37.032533,-113.614976,37.032533",
+    "geom:latitude":37.032533,
+    "geom:longitude":-113.614976,
+    "iso:country":"US",
+    "sg:address":"4429 Round Hill Dr",
+    "sg:city":"St George",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 986 8176",
+    "sg:postcode":"84790",
+    "sg:province":"UT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727617,
+        102082879,
+        85803851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mIELY1NiCIuXUV9JAwjwL_37.032533_-113.614976@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127178,
+    "wof:geomhash":"a893177cae498d5a40edd3d2d8bef539",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727617,
+            "neighbourhood_id":85803851,
+            "region_id":85688567,
+            "venue_id":857335559
+        }
+    ],
+    "wof:id":857335559,
+    "wof:lastmodified":1464127178,
+    "wof:name":"Black William T MD",
+    "wof:parent_id":85803851,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -113.614976,
+    37.032533,
+    -113.614976,
+    37.032533
+],
+  "geometry": {"coordinates":[-113.614976,37.032533],"type":"Point"}
+}

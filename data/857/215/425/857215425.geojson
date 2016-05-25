@@ -1,0 +1,73 @@
+{
+  "id": 857215425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.88611,40.553832,-111.88611,40.553832",
+    "geom:latitude":40.553832,
+    "geom:longitude":-111.88611,
+    "iso:country":"US",
+    "sg:address":"212 Clear Creek Dr",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 571 5480",
+    "sg:postcode":"84070",
+    "sg:province":"UT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85850585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20oCGBS6AuXqmCefGaMn6m_40.553832_-111.886110@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124522,
+    "wof:geomhash":"330f8a17c47efeb5de56182b1ca3e63f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85850585,
+            "region_id":85688567,
+            "venue_id":857215425
+        }
+    ],
+    "wof:id":857215425,
+    "wof:lastmodified":1464124522,
+    "wof:name":"Super Kid Preschool",
+    "wof:parent_id":85850585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -111.88611,
+    40.553832,
+    -111.88611,
+    40.553832
+],
+  "geometry": {"coordinates":[-111.88611,40.553832],"type":"Point"}
+}

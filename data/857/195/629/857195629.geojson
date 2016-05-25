@@ -1,0 +1,71 @@
+{
+  "id": 857195629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.064631,41.074656,-112.064631,41.074656",
+    "geom:latitude":41.074656,
+    "geom:longitude":-112.064631,
+    "iso:country":"US",
+    "sg:address":"2350 W 2700 S",
+    "sg:city":"Syracuse",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 825 7993",
+    "sg:postcode":"84075",
+    "sg:province":"UT",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85868169,
+        102083563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5v8Iap3bgS2N1xeogycodS_41.074656_-112.064631@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124091,
+    "wof:geomhash":"46843a5eeab16e994b169251d6b51252",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "neighbourhood_id":85868169,
+            "region_id":85688567,
+            "venue_id":857195629
+        }
+    ],
+    "wof:id":857195629,
+    "wof:lastmodified":1464124091,
+    "wof:name":"Vance Bennett Construction",
+    "wof:parent_id":85868169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -112.064631,
+    41.074656,
+    -112.064631,
+    41.074656
+],
+  "geometry": {"coordinates":[-112.06463100000001,41.074656],"type":"Point"}
+}

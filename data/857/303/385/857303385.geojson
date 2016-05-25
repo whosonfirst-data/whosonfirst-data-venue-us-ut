@@ -1,0 +1,68 @@
+{
+  "id": 857303385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.8401,40.689701,-111.8401,40.689701",
+    "geom:latitude":40.689701,
+    "geom:longitude":-111.8401,
+    "iso:country":"US",
+    "sg:address":"1778 E Mill Ln",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 277 9972",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85859021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VYXpWOpDwteb1qjrZG1L8_40.689701_-111.840100@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126484,
+    "wof:geomhash":"9571fb0e16daee5575dad753c9e61fd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85859021,
+            "region_id":85688567,
+            "venue_id":857303385
+        }
+    ],
+    "wof:id":857303385,
+    "wof:lastmodified":1464126484,
+    "wof:name":"P W L Corporation",
+    "wof:parent_id":85859021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.8401,
+    40.689701,
+    -111.8401,
+    40.689701
+],
+  "geometry": {"coordinates":[-111.84010000000001,40.689701],"type":"Point"}
+}

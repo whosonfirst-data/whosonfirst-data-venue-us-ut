@@ -1,0 +1,71 @@
+{
+  "id": 857164377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.832364,41.761266,-111.832364,41.761266",
+    "geom:latitude":41.761266,
+    "geom:longitude":-111.832364,
+    "iso:country":"US",
+    "sg:address":"175 E 1600 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 8504",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IK4TwCxvcf9kKplfsmeF9_41.761266_-111.832364@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123453,
+    "wof:geomhash":"f81b38b5b5b0604e70e81091e77de8a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857164377
+        }
+    ],
+    "wof:id":857164377,
+    "wof:lastmodified":1464123453,
+    "wof:name":"Securities America",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -111.832364,
+    41.761266,
+    -111.832364,
+    41.761266
+],
+  "geometry": {"coordinates":[-111.832364,41.761266],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 857399999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.815686,40.376934,-111.815686,40.376934",
+    "geom:latitude":40.376934,
+    "geom:longitude":-111.815686,
+    "iso:country":"US",
+    "sg:address":"608 W Main St",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 756 5449",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DjizTFNEshhzG9x9fxhZK_40.376934_-111.815686@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128623,
+    "wof:geomhash":"52f412d9693e42b2368d7417ee618416",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857399999
+        }
+    ],
+    "wof:id":857399999,
+    "wof:lastmodified":1464128623,
+    "wof:name":"Target",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.815686,
+    40.376934,
+    -111.815686,
+    40.376934
+],
+  "geometry": {"coordinates":[-111.815686,40.376934],"type":"Point"}
+}

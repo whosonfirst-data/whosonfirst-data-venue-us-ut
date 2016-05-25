@@ -1,0 +1,68 @@
+{
+  "id": 857220353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.005256,40.590154,-112.005256,40.590154",
+    "geom:latitude":40.590154,
+    "geom:longitude":-112.005256,
+    "iso:country":"US",
+    "sg:address":"8892 S 4800 W",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 565 7163",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85854997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56bXWtcwucryLOeoX6ssqZ_40.590154_-112.005256@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124619,
+    "wof:geomhash":"c642d39ca91de6fc8d920539ea754271",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85854997,
+            "region_id":85688567,
+            "venue_id":857220353
+        }
+    ],
+    "wof:id":857220353,
+    "wof:lastmodified":1464124619,
+    "wof:name":"Jordan Hills Elementary School",
+    "wof:parent_id":85854997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -112.005256,
+    40.590154,
+    -112.005256,
+    40.590154
+],
+  "geometry": {"coordinates":[-112.005256,40.590154],"type":"Point"}
+}

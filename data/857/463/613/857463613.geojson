@@ -1,0 +1,76 @@
+{
+  "id": 857463613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.667344,40.245595,-111.667344,40.245595",
+    "geom:latitude":40.245595,
+    "geom:longitude":-111.667344,
+    "iso:country":"US",
+    "sg:address":"852 N 500 W",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 812 4624",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.centralutahclinic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZydaKXXKGb04mOSVHlWJb_40.245595_-111.667344@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130019,
+    "wof:geomhash":"a51806f945c39e21dac79affbedb5841",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880107,
+            "region_id":85688567,
+            "venue_id":857463613
+        }
+    ],
+    "wof:id":857463613,
+    "wof:lastmodified":1464130019,
+    "wof:name":"Central Utah Imaging Ctr",
+    "wof:parent_id":85880107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -111.667344,
+    40.245595,
+    -111.667344,
+    40.245595
+],
+  "geometry": {"coordinates":[-111.667344,40.245595],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 857237701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.856199,40.555001,-111.856199,40.555001",
+    "geom:latitude":40.555001,
+    "geom:longitude":-111.856199,
+    "iso:country":"US",
+    "sg:address":"10812 Starpine Dr",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 571 8441",
+    "sg:postcode":"84094",
+    "sg:province":"UT",
+    "sg:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728077,
+        102082877,
+        85812845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AcLZVObcktSSl8XBuJkgf_40.555001_-111.856199@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124960,
+    "wof:geomhash":"3ab5bb3056d901e8dda641ae4604b865",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85812845,
+            "region_id":85688567,
+            "venue_id":857237701
+        }
+    ],
+    "wof:id":857237701,
+    "wof:lastmodified":1464124960,
+    "wof:name":"Home Interiors",
+    "wof:parent_id":85812845,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ]
+},
+  "bbox": [
+    -111.856199,
+    40.555001,
+    -111.856199,
+    40.555001
+],
+  "geometry": {"coordinates":[-111.856199,40.555001],"type":"Point"}
+}

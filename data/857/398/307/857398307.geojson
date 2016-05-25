@@ -1,0 +1,80 @@
+{
+  "id": 857398307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.801173,40.383072,-111.801173,40.383072",
+    "geom:latitude":40.383072,
+    "geom:longitude":-111.801173,
+    "iso:country":"US",
+    "sg:address":"198 W 300 N",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 492 1100",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "hall",
+        "rooms",
+        "banquet",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dtVqIlYgrkeqz9Cj1hoaP_40.383072_-111.801173@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128593,
+    "wof:geomhash":"2f3a82d789caf8ae871f9e05df875cc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857398307
+        }
+    ],
+    "wof:id":857398307,
+    "wof:lastmodified":1464128593,
+    "wof:name":"Northampton House LLC",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hall",
+        "rooms",
+        "banquet",
+        "facility"
+    ]
+},
+  "bbox": [
+    -111.801173,
+    40.383072,
+    -111.801173,
+    40.383072
+],
+  "geometry": {"coordinates":[-111.80117300000001,40.383072],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857298513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.837399,41.731487,-111.837399,41.731487",
+    "geom:latitude":41.731487,
+    "geom:longitude":-111.837399,
+    "iso:country":"US",
+    "sg:address":"11 W Center St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 3600",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "company",
+        "title"
+    ],
+    "sg:website":"www.northerntitle.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qF05BT5WpOkbbbhAlui3k_41.731487_-111.837399@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126377,
+    "wof:geomhash":"96a7dc419b3a304774f2c2543b77acee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857298513
+        }
+    ],
+    "wof:id":857298513,
+    "wof:lastmodified":1464126377,
+    "wof:name":"Northern Title Co",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "title"
+    ]
+},
+  "bbox": [
+    -111.837399,
+    41.731487,
+    -111.837399,
+    41.731487
+],
+  "geometry": {"coordinates":[-111.837399,41.731487],"type":"Point"}
+}

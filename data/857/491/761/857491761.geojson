@@ -1,0 +1,74 @@
+{
+  "id": 857491761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.909474,41.005237,-111.909474,41.005237",
+    "geom:latitude":41.005237,
+    "geom:longitude":-111.909474,
+    "iso:country":"US",
+    "sg:address":"1253 N Highway 89",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/south-davis/166030-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 451 7740",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UZ9kiTPAvWydYrkjJjnac_41.005237_-111.909474@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130650,
+    "wof:geomhash":"e0b2326d1e70f376f650ac6fb2f20bfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857491761
+        }
+    ],
+    "wof:id":857491761,
+    "wof:lastmodified":1464130650,
+    "wof:name":"Arby's",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -111.909474,
+    41.005237,
+    -111.909474,
+    41.005237
+],
+  "geometry": {"coordinates":[-111.909474,41.005237],"type":"Point"}
+}

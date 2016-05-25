@@ -1,0 +1,73 @@
+{
+  "id": 857440825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.852523,41.727912,-111.852523,41.727912",
+    "geom:latitude":41.727912,
+    "geom:longitude":-111.852523,
+    "iso:country":"US",
+    "sg:address":"760 W 200 S",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 753 3617",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "property",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49OhuTpmJjpXEc9f8L0SWD_41.727912_-111.852523@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129583,
+    "wof:geomhash":"a6d7963883e1f64a37acdfc2197afae2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857440825
+        }
+    ],
+    "wof:id":857440825,
+    "wof:lastmodified":1464129583,
+    "wof:name":"Ox Springs",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -111.852523,
+    41.727912,
+    -111.852523,
+    41.727912
+],
+  "geometry": {"coordinates":[-111.85252300000001,41.727912],"type":"Point"}
+}

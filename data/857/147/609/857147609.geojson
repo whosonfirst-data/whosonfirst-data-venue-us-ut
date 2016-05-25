@@ -1,0 +1,73 @@
+{
+  "id": 857147609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.930405,40.609622,-111.930405,40.609622",
+    "geom:latitude":40.609622,
+    "geom:longitude":-111.930405,
+    "iso:country":"US",
+    "sg:address":"1366 W 7800 S",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 280 1696",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85824493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EjA9GZXGmKxCBIYyQmG1l_40.609622_-111.930405@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123090,
+    "wof:geomhash":"decd2e44c861c90d7bbf29d9e0d14fad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85824493,
+            "region_id":85688567,
+            "venue_id":857147609
+        }
+    ],
+    "wof:id":857147609,
+    "wof:lastmodified":1464123090,
+    "wof:name":"Gas Appliance Svc",
+    "wof:parent_id":85824493,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -111.930405,
+    40.609622,
+    -111.930405,
+    40.609622
+],
+  "geometry": {"coordinates":[-111.93040499999999,40.609622],"type":"Point"}
+}

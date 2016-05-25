@@ -1,0 +1,75 @@
+{
+  "id": 857264057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.023146,40.752778,-112.023146,40.752778",
+    "geom:latitude":40.752778,
+    "geom:longitude":-112.023146,
+    "iso:country":"US",
+    "sg:address":"5495 Shea Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 521 0077",
+    "sg:postcode":"84104",
+    "sg:province":"UT",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85851935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mvcxR4U08Pr8KPblxphlH_40.752778_-112.023146@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125575,
+    "wof:geomhash":"17300d84c00e7859e0ab0a8f611e654b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85851935,
+            "region_id":85688567,
+            "venue_id":857264057
+        }
+    ],
+    "wof:id":857264057,
+    "wof:lastmodified":1464125575,
+    "wof:name":"Wilson Transport Inc",
+    "wof:parent_id":85851935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -112.023146,
+    40.752778,
+    -112.023146,
+    40.752778
+],
+  "geometry": {"coordinates":[-112.023146,40.752778],"type":"Point"}
+}

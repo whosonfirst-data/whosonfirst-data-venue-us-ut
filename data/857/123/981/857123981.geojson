@@ -1,0 +1,72 @@
+{
+  "id": 857123981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.938724,41.034744,-111.938724,41.034744",
+    "geom:latitude":41.034744,
+    "geom:longitude":-111.938724,
+    "iso:country":"US",
+    "sg:address":"66 S Main St",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 498 7473",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "internet"
+    ],
+    "sg:website":"www.webpipe.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49zR4ZNILt2knxsBbOmXTG_41.034744_-111.938724@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122549,
+    "wof:geomhash":"90e523f6c60332d57e14e7c34168e4ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857123981
+        }
+    ],
+    "wof:id":857123981,
+    "wof:lastmodified":1464122549,
+    "wof:name":"WEBPIPE.NET",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "internet"
+    ]
+},
+  "bbox": [
+    -111.938724,
+    41.034744,
+    -111.938724,
+    41.034744
+],
+  "geometry": {"coordinates":[-111.93872399999999,41.034744],"type":"Point"}
+}

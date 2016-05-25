@@ -1,0 +1,75 @@
+{
+  "id": 857312485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.719826,40.320303,-111.719826,40.320303",
+    "geom:latitude":40.320303,
+    "geom:longitude":-111.719826,
+    "iso:country":"US",
+    "sg:address":"986 W 1260 N",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 6434",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KssSVyR7j0DgzJogEwpwH_40.320303_-111.719826@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126671,
+    "wof:geomhash":"4357645fa8ee0b66f67c75946846f4cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":857312485
+        }
+    ],
+    "wof:id":857312485,
+    "wof:lastmodified":1464126671,
+    "wof:name":"Ladd Concrete Inc",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.719826,
+    40.320303,
+    -111.719826,
+    40.320303
+],
+  "geometry": {"coordinates":[-111.719826,40.320303],"type":"Point"}
+}

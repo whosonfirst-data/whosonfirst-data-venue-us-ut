@@ -1,0 +1,86 @@
+{
+  "id": 857137817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.87863,40.710808,-111.87863,40.710808",
+    "geom:latitude":40.710808,
+    "geom:longitude":-111.87863,
+    "iso:country":"US",
+    "sg:address":"2761 Adams St",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 467 3944",
+    "sg:postcode":"84115",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728257,
+        102082877,
+        85858223,
+        101728075,
+        85871027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GckEu5kQruyfepKs9XRLd_40.710808_-111.878630@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122846,
+    "wof:geomhash":"c95a4d46b9ca165b9eeca1672e6118f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728257,
+            "neighbourhood_id":85858223,
+            "region_id":85688567,
+            "venue_id":857137817
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871027,
+            "region_id":85688567,
+            "venue_id":857137817
+        }
+    ],
+    "wof:id":857137817,
+    "wof:lastmodified":1464122846,
+    "wof:name":"Wade Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.87863,
+    40.710808,
+    -111.87863,
+    40.710808
+],
+  "geometry": {"coordinates":[-111.87863,40.710808],"type":"Point"}
+}

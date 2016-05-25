@@ -1,0 +1,73 @@
+{
+  "id": 857434233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.768869,39.966848,-111.768869,39.966848",
+    "geom:latitude":39.966848,
+    "geom:longitude":-111.768869,
+    "iso:country":"US",
+    "sg:address":"747 E 550 S",
+    "sg:city":"Santaquin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 754 3314",
+    "sg:postcode":"84655",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jdG7GezROb6zaS41nPQ0S_39.966848_-111.768869@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129451,
+    "wof:geomhash":"db1b9f6de8ec8a9881e7f73165e486ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857434233
+        }
+    ],
+    "wof:id":857434233,
+    "wof:lastmodified":1464129451,
+    "wof:name":"S S Electric",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.768869,
+    39.966848,
+    -111.768869,
+    39.966848
+],
+  "geometry": {"coordinates":[-111.768869,39.966848],"type":"Point"}
+}

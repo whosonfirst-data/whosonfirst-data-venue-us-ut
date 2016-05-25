@@ -1,0 +1,71 @@
+{
+  "id": 857149985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.792228,40.376827,-111.792228,40.376827",
+    "geom:latitude":40.376827,
+    "geom:longitude":-111.792228,
+    "iso:country":"US",
+    "sg:address":"285 E Main St",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 492 9103",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:tags":[
+        "refinishing",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gsQcIZSnT9AqTVDZEDwha_40.376827_-111.792228@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123148,
+    "wof:geomhash":"53e661da95481df594503772b2326ae7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857149985
+        }
+    ],
+    "wof:id":857149985,
+    "wof:lastmodified":1464123148,
+    "wof:name":"Alyson's Framing & Furn Cttg",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refinishing",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -111.792228,
+    40.376827,
+    -111.792228,
+    40.376827
+],
+  "geometry": {"coordinates":[-111.79222799999999,40.376827],"type":"Point"}
+}

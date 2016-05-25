@@ -1,0 +1,71 @@
+{
+  "id": 857232799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.908219,41.000878,-111.908219,41.000878",
+    "geom:latitude":41.000878,
+    "geom:longitude":-111.908219,
+    "iso:country":"US",
+    "sg:address":"1401 US Hwy 89",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 447 5437",
+    "sg:postcode":"84025",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zCM4pOvTPeB7Q64etenip_41.000878_-111.908219@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124856,
+    "wof:geomhash":"8ce37b5a6365ccfb5000058c43ade7f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857232799
+        }
+    ],
+    "wof:id":857232799,
+    "wof:lastmodified":1464124856,
+    "wof:name":"Pediatric Dental",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -111.908219,
+    41.000878,
+    -111.908219,
+    41.000878
+],
+  "geometry": {"coordinates":[-111.908219,41.000878],"type":"Point"}
+}

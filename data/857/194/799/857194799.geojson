@@ -1,0 +1,75 @@
+{
+  "id": 857194799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.006472,41.0892,-112.006472,41.0892",
+    "geom:latitude":41.0892,
+    "geom:longitude":-112.006472,
+    "iso:country":"US",
+    "sg:address":"1992 W Antelope Dr",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 779 0540",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NVDJ0AbHfdJjaQe01BZ95_41.089200_-112.006472@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124077,
+    "wof:geomhash":"752aa209d381707f28daf3117513cac2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857194799
+        }
+    ],
+    "wof:id":857194799,
+    "wof:lastmodified":1464124077,
+    "wof:name":"Layton Pain Clinic",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -112.006472,
+    41.0892,
+    -112.006472,
+    41.0892
+],
+  "geometry": {"coordinates":[-112.006472,41.0892],"type":"Point"}
+}

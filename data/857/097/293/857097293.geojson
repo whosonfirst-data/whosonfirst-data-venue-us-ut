@@ -1,0 +1,80 @@
+{
+  "id": 857097293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.684475,40.23575,-111.684475,40.23575",
+    "geom:latitude":40.23575,
+    "geom:longitude":-111.684475,
+    "iso:country":"US",
+    "sg:address":"222 N Draper Ln",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 374 1810",
+    "sg:postcode":"84601",
+    "sg:province":"UT",
+    "sg:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ],
+    "sg:website":"www.serviceexperts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73bbl58F9cQMlBezwEOzP1_40.235750_-111.684475@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121844,
+    "wof:geomhash":"cc3d3dd8de962ba8407710c833d37c13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880067,
+            "region_id":85688567,
+            "venue_id":857097293
+        }
+    ],
+    "wof:id":857097293,
+    "wof:lastmodified":1464121844,
+    "wof:name":"Service Experts Inc",
+    "wof:parent_id":85880067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.684475,
+    40.23575,
+    -111.684475,
+    40.23575
+],
+  "geometry": {"coordinates":[-111.68447500000001,40.23575],"type":"Point"}
+}

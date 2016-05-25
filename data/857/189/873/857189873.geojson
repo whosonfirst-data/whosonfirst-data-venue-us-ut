@@ -1,0 +1,68 @@
+{
+  "id": 857189873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.959659,41.094998,-111.959659,41.094998",
+    "geom:latitude":41.094998,
+    "geom:longitude":-111.959659,
+    "iso:country":"US",
+    "sg:address":"2401 N Fort Ln",
+    "sg:city":"Layton",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 773 4545",
+    "sg:postcode":"84041",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qC1Y1VMJfhOzGF263fbrN_41.094998_-111.959659@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123988,
+    "wof:geomhash":"cad29b2d0094ab6215b809557886b996",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857189873
+        }
+    ],
+    "wof:id":857189873,
+    "wof:lastmodified":1464123988,
+    "wof:name":"Superior Medical",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.959659,
+    41.094998,
+    -111.959659,
+    41.094998
+],
+  "geometry": {"coordinates":[-111.959659,41.094998],"type":"Point"}
+}

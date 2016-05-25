@@ -1,0 +1,68 @@
+{
+  "id": 857078421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.703101,40.286287,-111.703101,40.286287",
+    "geom:latitude":40.286287,
+    "geom:longitude":-111.703101,
+    "iso:country":"US",
+    "sg:address":"312 W 600 S",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 6676",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85849197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YOkJrTLPxjXYi4te9N9d3_40.286287_-111.703101@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121364,
+    "wof:geomhash":"b3116f59c5d05b1a525baf6761f1dae8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85849197,
+            "region_id":85688567,
+            "venue_id":857078421
+        }
+    ],
+    "wof:id":857078421,
+    "wof:lastmodified":1464121364,
+    "wof:name":"Massmutual",
+    "wof:parent_id":85849197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.703101,
+    40.286287,
+    -111.703101,
+    40.286287
+],
+  "geometry": {"coordinates":[-111.703101,40.286287],"type":"Point"}
+}

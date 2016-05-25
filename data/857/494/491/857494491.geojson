@@ -1,0 +1,74 @@
+{
+  "id": 857494491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-113.295124,37.176493,-113.295124,37.176493",
+    "geom:latitude":37.176493,
+    "geom:longitude":-113.295124,
+    "iso:country":"US",
+    "sg:address":"371 W State St",
+    "sg:city":"Hurricane",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/hurricane/205484-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 635 5676",
+    "sg:postcode":"84737",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727631,
+        102082879,
+        85824093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7K13QO3v5ZGo5o2jvxcbdH_37.176493_-113.295124@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130749,
+    "wof:geomhash":"3f544a50fdb04da7e3a10d81c5661121",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082879,
+            "locality_id":101727631,
+            "neighbourhood_id":85824093,
+            "region_id":85688567,
+            "venue_id":857494491
+        }
+    ],
+    "wof:id":857494491,
+    "wof:lastmodified":1464130749,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85824093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -113.295124,
+    37.176493,
+    -113.295124,
+    37.176493
+],
+  "geometry": {"coordinates":[-113.295124,37.176493],"type":"Point"}
+}

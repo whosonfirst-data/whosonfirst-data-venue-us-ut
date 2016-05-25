@@ -1,0 +1,74 @@
+{
+  "id": 857492707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.938622,40.558698,-111.938622,40.558698",
+    "geom:latitude":40.558698,
+    "geom:longitude":-111.938622,
+    "iso:country":"US",
+    "sg:address":"10600 S Redwood Rd",
+    "sg:city":"South Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/251543-new-york-ny-fresh-deli/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 495 4288",
+    "sg:postcode":"84095",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728055,
+        102082877,
+        85810561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6unbssTfx82QbPEjETeqND_40.558698_-111.938622@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130688,
+    "wof:geomhash":"a195d1236e91d02fc983abdaacd69740",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728055,
+            "neighbourhood_id":85810561,
+            "region_id":85688567,
+            "venue_id":857492707
+        }
+    ],
+    "wof:id":857492707,
+    "wof:lastmodified":1464130688,
+    "wof:name":"New York NY Fresh Deli",
+    "wof:parent_id":85810561,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -111.938622,
+    40.558698,
+    -111.938622,
+    40.558698
+],
+  "geometry": {"coordinates":[-111.938622,40.558698],"type":"Point"}
+}

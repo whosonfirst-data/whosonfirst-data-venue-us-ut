@@ -1,0 +1,75 @@
+{
+  "id": 857226065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.96725,40.642473,-111.96725,40.642473",
+    "geom:latitude":40.642473,
+    "geom:longitude":-111.96725,
+    "iso:country":"US",
+    "sg:address":"6189 S 3200 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 966 6216",
+    "sg:postcode":"84118",
+    "sg:province":"UT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728059,
+        102082877,
+        85848647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Xt0t88TBb9w3C4OK4KG3l_40.642473_-111.967250@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124731,
+    "wof:geomhash":"4bf62a25364b9c4ee0b23b3b83defa7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728059,
+            "neighbourhood_id":85848647,
+            "region_id":85688567,
+            "venue_id":857226065
+        }
+    ],
+    "wof:id":857226065,
+    "wof:lastmodified":1464124731,
+    "wof:name":"Holiday Oil 25",
+    "wof:parent_id":85848647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -111.96725,
+    40.642473,
+    -111.96725,
+    40.642473
+],
+  "geometry": {"coordinates":[-111.96725000000001,40.642473],"type":"Point"}
+}

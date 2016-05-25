@@ -1,0 +1,75 @@
+{
+  "id": 857233425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.033515,41.089079,-112.033515,41.089079",
+    "geom:latitude":41.089079,
+    "geom:longitude":-112.033515,
+    "iso:country":"US",
+    "sg:address":"435 W 1700 S",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 525 9909",
+    "sg:postcode":"84075",
+    "sg:province":"UT",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727889,
+        102083563,
+        85804563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0R6qWYH7vYksAYJgUa9wV3_41.089079_-112.033515@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124868,
+    "wof:geomhash":"840b1cbafab61ef4ea585edc7e8d680f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727889,
+            "neighbourhood_id":85804563,
+            "region_id":85688567,
+            "venue_id":857233425
+        }
+    ],
+    "wof:id":857233425,
+    "wof:lastmodified":1464124868,
+    "wof:name":"Rhythm Works Dance Studio",
+    "wof:parent_id":85804563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -112.033515,
+    41.089079,
+    -112.033515,
+    41.089079
+],
+  "geometry": {"coordinates":[-112.03351499999999,41.089079],"type":"Point"}
+}

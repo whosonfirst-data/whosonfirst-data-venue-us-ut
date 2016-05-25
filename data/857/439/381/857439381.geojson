@@ -1,0 +1,83 @@
+{
+  "id": 857439381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.826496,40.539583,-111.826496,40.539583",
+    "geom:latitude":40.539583,
+    "geom:longitude":-111.826496,
+    "iso:country":"US",
+    "sg:address":"2279 E 11660 S",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 553 7090",
+    "sg:postcode":"84092",
+    "sg:province":"UT",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85825243,
+        102082877,
+        102191575,
+        101728077,
+        85812845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69r0oNujuYTC170iI8VvQB_40.539583_-111.826496@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129559,
+    "wof:geomhash":"2f693d76dbcdeab98f78f736bb44bcb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85825243,
+            "region_id":85688567,
+            "venue_id":857439381
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85812845,
+            "region_id":85688567,
+            "venue_id":857439381
+        }
+    ],
+    "wof:id":857439381,
+    "wof:lastmodified":1464129559,
+    "wof:name":"Mortgage Consultants Of Utah",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -111.826496,
+    40.539583,
+    -111.826496,
+    40.539583
+],
+  "geometry": {"coordinates":[-111.82649600000001,40.539583],"type":"Point"}
+}

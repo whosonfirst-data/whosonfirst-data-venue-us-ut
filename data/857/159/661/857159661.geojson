@@ -1,0 +1,71 @@
+{
+  "id": 857159661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.854642,40.595115,-111.854642,40.595115",
+    "geom:latitude":40.595115,
+    "geom:longitude":-111.854642,
+    "iso:country":"US",
+    "sg:address":"1289 E 8600 S",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 255 3621",
+    "sg:postcode":"84094",
+    "sg:province":"UT",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85847325,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dUuQk0xfNVz9e7qZDJ2Nt_40.595115_-111.854642@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123338,
+    "wof:geomhash":"3b10e3810dd7995b8ec98c60158da589",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85847325,
+            "region_id":85688567,
+            "venue_id":857159661
+        }
+    ],
+    "wof:id":857159661,
+    "wof:lastmodified":1464123338,
+    "wof:name":"Country Cleaners",
+    "wof:parent_id":85847325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -111.854642,
+    40.595115,
+    -111.854642,
+    40.595115
+],
+  "geometry": {"coordinates":[-111.854642,40.595115],"type":"Point"}
+}

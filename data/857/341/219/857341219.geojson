@@ -1,0 +1,70 @@
+{
+  "id": 857341219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.785453,40.363631,-111.785453,40.363631",
+    "geom:latitude":40.363631,
+    "geom:longitude":-111.785453,
+    "iso:country":"US",
+    "sg:address":"641 S 500 E",
+    "sg:city":"American Fork",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 763 0120",
+    "sg:postcode":"84003",
+    "sg:province":"UT",
+    "sg:website":"www.officemax.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85858273,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DybaFYc4V1mUHZpWCUyKU_40.363631_-111.785453@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127301,
+    "wof:geomhash":"ffe95a111fc1009aa538a8a77d5ba5a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85858273,
+            "region_id":85688567,
+            "venue_id":857341219
+        }
+    ],
+    "wof:id":857341219,
+    "wof:lastmodified":1464127301,
+    "wof:name":"Office Max",
+    "wof:parent_id":85858273,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.785453,
+    40.363631,
+    -111.785453,
+    40.363631
+],
+  "geometry": {"coordinates":[-111.785453,40.363631],"type":"Point"}
+}

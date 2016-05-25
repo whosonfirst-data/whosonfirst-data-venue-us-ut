@@ -1,0 +1,69 @@
+{
+  "id": 857360267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.673656,40.29038,-111.673656,40.29038",
+    "geom:latitude":40.29038,
+    "geom:longitude":-111.673656,
+    "iso:country":"US",
+    "sg:address":"365 S 900 E",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 222 0301",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85880105,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65mRAbMUJrFYqRJHk6fHX9_40.290380_-111.673656@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127703,
+    "wof:geomhash":"071e79edf4ce6fe27926918f05f5fd85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85880105,
+            "region_id":85688567,
+            "venue_id":857360267
+        }
+    ],
+    "wof:id":857360267,
+    "wof:lastmodified":1464127703,
+    "wof:name":"Church Of Jesus Christ Of Lds",
+    "wof:parent_id":85880105,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -111.673656,
+    40.29038,
+    -111.673656,
+    40.29038
+],
+  "geometry": {"coordinates":[-111.67365599999999,40.29038],"type":"Point"}
+}

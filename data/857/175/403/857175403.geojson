@@ -1,0 +1,73 @@
+{
+  "id": 857175403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.937961,41.030355,-111.937961,41.030355",
+    "geom:latitude":41.030355,
+    "geom:longitude":-111.937961,
+    "iso:country":"US",
+    "sg:address":"4 E 270 S",
+    "sg:city":"Kaysville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 444 1851",
+    "sg:postcode":"84037",
+    "sg:province":"UT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727907,
+        102083563,
+        85818977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Zpul9qA2tZisESBSpydYY_41.030355_-111.937961@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123701,
+    "wof:geomhash":"2f6a1c78a12e4b4b429a3194e2745f52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727907,
+            "neighbourhood_id":85818977,
+            "region_id":85688567,
+            "venue_id":857175403
+        }
+    ],
+    "wof:id":857175403,
+    "wof:lastmodified":1464123701,
+    "wof:name":"Kaysville Apts",
+    "wof:parent_id":85818977,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -111.937961,
+    41.030355,
+    -111.937961,
+    41.030355
+],
+  "geometry": {"coordinates":[-111.937961,41.030355],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857470685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.97148,41.719581,-111.97148,41.719581",
+    "geom:latitude":41.719581,
+    "geom:longitude":-111.97148,
+    "iso:country":"US",
+    "sg:address":"578 N 160 E",
+    "sg:city":"Mendon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 713 0296",
+    "sg:postcode":"84325",
+    "sg:province":"UT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727555,
+        102082881,
+        85823067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iPXQOmkHDz0rfoHaKZsQA_41.719581_-111.971480@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464130183,
+    "wof:geomhash":"2e4138a1b3ba0fff209c7d11dbaf7a61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727555,
+            "neighbourhood_id":85823067,
+            "region_id":85688567,
+            "venue_id":857470685
+        }
+    ],
+    "wof:id":857470685,
+    "wof:lastmodified":1464130183,
+    "wof:name":"Matt Funk Construction",
+    "wof:parent_id":85823067,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.97148,
+    41.719581,
+    -111.97148,
+    41.719581
+],
+  "geometry": {"coordinates":[-111.97148,41.719581],"type":"Point"}
+}

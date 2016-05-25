@@ -1,0 +1,71 @@
+{
+  "id": 857111809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.840258,41.730213,-111.840258,41.730213",
+    "geom:latitude":41.730213,
+    "geom:longitude":-111.840258,
+    "iso:country":"US",
+    "sg:address":"65 S 200 W",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 0520",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ckykxNGD8eeNO4wBSDnpc_41.730213_-111.840258@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122230,
+    "wof:geomhash":"c54d1585a81d962e686ee314f6916300",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857111809
+        }
+    ],
+    "wof:id":857111809,
+    "wof:lastmodified":1464122230,
+    "wof:name":"Max D Rigby",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -111.840258,
+    41.730213,
+    -111.840258,
+    41.730213
+],
+  "geometry": {"coordinates":[-111.84025800000001,41.730213],"type":"Point"}
+}

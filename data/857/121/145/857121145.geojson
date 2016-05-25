@@ -1,0 +1,71 @@
+{
+  "id": 857121145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.77045,41.260587,-111.77045,41.260587",
+    "geom:latitude":41.260587,
+    "geom:longitude":-111.77045,
+    "iso:country":"US",
+    "sg:address":"7355 E 200 S",
+    "sg:city":"Huntsville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 745 9690",
+    "sg:postcode":"84317",
+    "sg:province":"UT",
+    "sg:tags":[
+        "banquet",
+        "rooms"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85818631,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5woumi6tXFFCRFZLI8Zmpn_41.260587_-111.770450@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122475,
+    "wof:geomhash":"fd7aae6e137d027d2a227455f9a802f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85818631,
+            "region_id":85688567,
+            "venue_id":857121145
+        }
+    ],
+    "wof:id":857121145,
+    "wof:lastmodified":1464122475,
+    "wof:name":"Trappers Village",
+    "wof:parent_id":85818631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banquet",
+        "rooms"
+    ]
+},
+  "bbox": [
+    -111.77045,
+    41.260587,
+    -111.77045,
+    41.260587
+],
+  "geometry": {"coordinates":[-111.77045,41.260587],"type":"Point"}
+}

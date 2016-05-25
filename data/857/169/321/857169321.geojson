@@ -1,0 +1,71 @@
+{
+  "id": 857169321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.829726,41.739726,-111.829726,41.739726",
+    "geom:latitude":41.739726,
+    "geom:longitude":-111.829726,
+    "iso:country":"US",
+    "sg:address":"175 E 442 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 3103",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "social"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lOR5DP9KOKmATbTMR6Bcc_41.739726_-111.829726@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123567,
+    "wof:geomhash":"ce39fc561e9524adeff610b1db915e50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857169321
+        }
+    ],
+    "wof:id":857169321,
+    "wof:lastmodified":1464123567,
+    "wof:name":"Cathe Volunteer Center",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "social"
+    ]
+},
+  "bbox": [
+    -111.829726,
+    41.739726,
+    -111.829726,
+    41.739726
+],
+  "geometry": {"coordinates":[-111.82972599999999,41.739726],"type":"Point"}
+}

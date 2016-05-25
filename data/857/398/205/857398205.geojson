@@ -1,0 +1,69 @@
+{
+  "id": 857398205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.643067,40.240334,-111.643067,40.240334",
+    "geom:latitude":40.240334,
+    "geom:longitude":-111.643067,
+    "iso:country":"US",
+    "sg:address":"520 N 900 E",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 373 7896",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:website":"www.hogiyogi.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OJtPh0q2akOA8as9KHgUz_40.240334_-111.643067@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128591,
+    "wof:geomhash":"535589da7a7a6e717fbb12c1d7235b81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880085,
+            "region_id":85688567,
+            "venue_id":857398205
+        }
+    ],
+    "wof:id":857398205,
+    "wof:lastmodified":1464128591,
+    "wof:name":"Hogi Yogi",
+    "wof:parent_id":85880085,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.643067,
+    40.240334,
+    -111.643067,
+    40.240334
+],
+  "geometry": {"coordinates":[-111.643067,40.240334],"type":"Point"}
+}

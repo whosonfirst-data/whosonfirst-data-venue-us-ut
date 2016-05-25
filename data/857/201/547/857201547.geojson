@@ -1,0 +1,68 @@
+{
+  "id": 857201547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.85702,40.719026,-111.85702,40.719026",
+    "geom:latitude":40.719026,
+    "geom:longitude":-111.85702,
+    "iso:country":"US",
+    "sg:address":"2435 Highland Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Podiatrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 466 8639",
+    "sg:postcode":"84106",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85819795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WOJCs0l3ool4YIf0izLYA_40.719026_-111.857020@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124205,
+    "wof:geomhash":"1d138f2bb5c38f44243d89dc4b9f596f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85819795,
+            "region_id":85688567,
+            "venue_id":857201547
+        }
+    ],
+    "wof:id":857201547,
+    "wof:lastmodified":1464124205,
+    "wof:name":"Sugarhouse Foot Care Ctr",
+    "wof:parent_id":85819795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.85702,
+    40.719026,
+    -111.85702,
+    40.719026
+],
+  "geometry": {"coordinates":[-111.85702000000001,40.719026],"type":"Point"}
+}

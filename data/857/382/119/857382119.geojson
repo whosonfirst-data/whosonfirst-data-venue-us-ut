@@ -1,0 +1,68 @@
+{
+  "id": 857382119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.905395,40.682658,-111.905395,40.682658",
+    "geom:latitude":40.682658,
+    "geom:longitude":-111.905395,
+    "iso:country":"US",
+    "sg:address":"4137 S 500 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 266 0720",
+    "sg:postcode":"84123",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85851609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hdPXRMf11KF9wzU6L0amD_40.682658_-111.905395@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128186,
+    "wof:geomhash":"7020da7d47e013bcdbe4c95e49174880",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85851609,
+            "region_id":85688567,
+            "venue_id":857382119
+        }
+    ],
+    "wof:id":857382119,
+    "wof:lastmodified":1464128186,
+    "wof:name":"Amec Earth & Environmental",
+    "wof:parent_id":85851609,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.905395,
+    40.682658,
+    -111.905395,
+    40.682658
+],
+  "geometry": {"coordinates":[-111.905395,40.682658],"type":"Point"}
+}

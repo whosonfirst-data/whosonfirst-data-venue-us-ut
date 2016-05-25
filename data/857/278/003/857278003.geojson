@@ -1,0 +1,73 @@
+{
+  "id": 857278003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.891789,40.523715,-111.891789,40.523715",
+    "geom:latitude":40.523715,
+    "geom:longitude":-111.891789,
+    "iso:country":"US",
+    "sg:address":"12696 Pony Express Rd",
+    "sg:city":"Draper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 576 1805",
+    "sg:postcode":"84020",
+    "sg:province":"UT",
+    "sg:tags":[
+        "executive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727849,
+        102082877,
+        85823005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eWj8MA6DWbjMepu6PQQgi_40.523715_-111.891789@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125869,
+    "wof:geomhash":"dbd9e03e4ab007db6b45830d65528a43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101727849,
+            "neighbourhood_id":85823005,
+            "region_id":85688567,
+            "venue_id":857278003
+        }
+    ],
+    "wof:id":857278003,
+    "wof:lastmodified":1464125869,
+    "wof:name":"Draper Animal Control",
+    "wof:parent_id":85823005,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "executive"
+    ]
+},
+  "bbox": [
+    -111.891789,
+    40.523715,
+    -111.891789,
+    40.523715
+],
+  "geometry": {"coordinates":[-111.891789,40.523715],"type":"Point"}
+}

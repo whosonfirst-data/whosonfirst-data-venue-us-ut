@@ -1,0 +1,76 @@
+{
+  "id": 857155009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.827404,40.538658,-111.827404,40.538658",
+    "geom:latitude":40.538658,
+    "geom:longitude":-111.827404,
+    "iso:country":"US",
+    "sg:address":"11738 Shady Oak Ln",
+    "sg:city":"Sandy",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 576 0844",
+    "sg:postcode":"84092",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85825243,
+        102082877,
+        102191575,
+        101728077,
+        85812845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6m91gXLFsD6XYIz4WYiBgM_40.538658_-111.827404@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123248,
+    "wof:geomhash":"caedb999970bb4d611a1208960d156f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85825243,
+            "region_id":85688567,
+            "venue_id":857155009
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728077,
+            "neighbourhood_id":85812845,
+            "region_id":85688567,
+            "venue_id":857155009
+        }
+    ],
+    "wof:id":857155009,
+    "wof:lastmodified":1464123248,
+    "wof:name":"Pacific Coast Jewelry",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.827404,
+    40.538658,
+    -111.827404,
+    40.538658
+],
+  "geometry": {"coordinates":[-111.827404,40.538658],"type":"Point"}
+}

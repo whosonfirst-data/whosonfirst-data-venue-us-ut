@@ -1,0 +1,73 @@
+{
+  "id": 857441971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.849423,40.406584,-111.849423,40.406584",
+    "geom:latitude":40.406584,
+    "geom:longitude":-111.849423,
+    "iso:country":"US",
+    "sg:address":"1635 N Center St",
+    "sg:city":"Park City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 575 2665",
+    "sg:postcode":"84043",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727857,
+        102083567,
+        85836317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Q1EMCQJ0eZZN0A2yvsuH7_40.406584_-111.849423@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129605,
+    "wof:geomhash":"ddbd0647efa522e894022be3d30a0f60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727857,
+            "neighbourhood_id":85836317,
+            "region_id":85688567,
+            "venue_id":857441971
+        }
+    ],
+    "wof:id":857441971,
+    "wof:lastmodified":1464129605,
+    "wof:name":"Spotted Frog",
+    "wof:parent_id":85836317,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -111.849423,
+    40.406584,
+    -111.849423,
+    40.406584
+],
+  "geometry": {"coordinates":[-111.849423,40.406584],"type":"Point"}
+}

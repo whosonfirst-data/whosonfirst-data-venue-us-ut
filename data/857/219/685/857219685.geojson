@@ -1,0 +1,71 @@
+{
+  "id": 857219685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.57891,40.132259,-111.57891,40.132259",
+    "geom:latitude":40.132259,
+    "geom:longitude":-111.57891,
+    "iso:country":"US",
+    "sg:address":"199 N Main St",
+    "sg:city":"Mapleton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 491 9225",
+    "sg:postcode":"84664",
+    "sg:province":"UT",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_099bnKLhtt9q8QPN2An6mU_40.132259_-111.578910@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124608,
+    "wof:geomhash":"8b6ba31ef6fbbda1d0c7897dca67db5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857219685
+        }
+    ],
+    "wof:id":857219685,
+    "wof:lastmodified":1464124608,
+    "wof:name":"Howell Trucking",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -111.57891,
+    40.132259,
+    -111.57891,
+    40.132259
+],
+  "geometry": {"coordinates":[-111.57890999999999,40.132259],"type":"Point"}
+}

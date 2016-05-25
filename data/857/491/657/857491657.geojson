@@ -1,0 +1,76 @@
+{
+  "id": 857491657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.044538,41.08919,-112.044538,41.08919",
+    "geom:latitude":41.08919,
+    "geom:longitude":-112.044538,
+    "iso:country":"US",
+    "sg:address":"926 W 1700 S",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/north-davis/214587-5-buck-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 985 2825",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727889,
+        102083563,
+        85804563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18hJKos6wduS7ZhKBo4fVO_41.089190_-112.044538@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130647,
+    "wof:geomhash":"9cec2baa9f9a4f33cbd9041243377e86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727889,
+            "neighbourhood_id":85804563,
+            "region_id":85688567,
+            "venue_id":857491657
+        }
+    ],
+    "wof:id":857491657,
+    "wof:lastmodified":1464130647,
+    "wof:name":"5 Buck Pizza",
+    "wof:parent_id":85804563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -112.044538,
+    41.08919,
+    -112.044538,
+    41.08919
+],
+  "geometry": {"coordinates":[-112.044538,41.08919],"type":"Point"}
+}

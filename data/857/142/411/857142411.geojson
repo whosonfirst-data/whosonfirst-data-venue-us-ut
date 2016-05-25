@@ -1,0 +1,71 @@
+{
+  "id": 857142411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.808717,41.723407,-111.808717,41.723407",
+    "geom:latitude":41.723407,
+    "geom:longitude":-111.808717,
+    "iso:country":"US",
+    "sg:address":"1080 Windsor Dr",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 713 0514",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jG49XsbvE39ZQQRG3gKks_41.723407_-111.808717@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122949,
+    "wof:geomhash":"45bf68752e47cb35360a9efe7c230c38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857142411
+        }
+    ],
+    "wof:id":857142411,
+    "wof:lastmodified":1464122949,
+    "wof:name":"Bruce A Overy MD PC",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -111.808717,
+    41.723407,
+    -111.808717,
+    41.723407
+],
+  "geometry": {"coordinates":[-111.808717,41.723407],"type":"Point"}
+}

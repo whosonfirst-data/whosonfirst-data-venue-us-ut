@@ -1,0 +1,75 @@
+{
+  "id": 857409865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.77243,40.004521,-111.77243,40.004521",
+    "geom:latitude":40.004521,
+    "geom:longitude":-111.77243,
+    "iso:country":"US",
+    "sg:address":"5059 W 12400 S",
+    "sg:city":"Payson",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 465 3929",
+    "sg:postcode":"84651",
+    "sg:province":"UT",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6A8HpLKRtbqkRpHwsvBE0c_40.004521_-111.772430@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128831,
+    "wof:geomhash":"0e4eca115696d60fd7c5258b6e2c3b59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857409865
+        }
+    ],
+    "wof:id":857409865,
+    "wof:lastmodified":1464128831,
+    "wof:name":"Rex Behling",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -111.77243,
+    40.004521,
+    -111.77243,
+    40.004521
+],
+  "geometry": {"coordinates":[-111.77243,40.004521],"type":"Point"}
+}

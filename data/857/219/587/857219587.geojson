@@ -1,0 +1,76 @@
+{
+  "id": 857219587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.981521,40.718418,-111.981521,40.718418",
+    "geom:latitude":40.718418,
+    "geom:longitude":-111.981521,
+    "iso:country":"US",
+    "sg:address":"3760 W 2400 S",
+    "sg:city":"West Valley",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 975 2621",
+    "sg:postcode":"84120",
+    "sg:province":"UT",
+    "sg:tags":[
+        "cargo",
+        "air"
+    ],
+    "sg:website":"www.aeroground.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728063,
+        102082877,
+        85844521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2z0XQIDp0oKWLYZboQaV1G_40.718418_-111.981521@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124606,
+    "wof:geomhash":"66fe786805a9c57880019dff405741f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728063,
+            "neighbourhood_id":85844521,
+            "region_id":85688567,
+            "venue_id":857219587
+        }
+    ],
+    "wof:id":857219587,
+    "wof:lastmodified":1464124606,
+    "wof:name":"Air Container Transport",
+    "wof:parent_id":85844521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "air"
+    ]
+},
+  "bbox": [
+    -111.981521,
+    40.718418,
+    -111.981521,
+    40.718418
+],
+  "geometry": {"coordinates":[-111.981521,40.718418],"type":"Point"}
+}

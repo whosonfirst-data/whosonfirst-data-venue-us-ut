@@ -1,0 +1,75 @@
+{
+  "id": 857206885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.929238,40.531278,-111.929238,40.531278",
+    "geom:latitude":40.531278,
+    "geom:longitude":-111.929238,
+    "iso:country":"US",
+    "sg:address":"12120 S 1300 W",
+    "sg:city":"Riverton",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 254 8116",
+    "sg:postcode":"84065",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mormon",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728073,
+        102082877,
+        85840517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0V2c2zHhdu4W6OrwjRdIQg_40.531278_-111.929238@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124329,
+    "wof:geomhash":"b643cf21f5d3f93d88ec249a87cef5e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728073,
+            "neighbourhood_id":85840517,
+            "region_id":85688567,
+            "venue_id":857206885
+        }
+    ],
+    "wof:id":857206885,
+    "wof:lastmodified":1464124329,
+    "wof:name":"Riverton Sixteenth Ward",
+    "wof:parent_id":85840517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mormon",
+        "church"
+    ]
+},
+  "bbox": [
+    -111.929238,
+    40.531278,
+    -111.929238,
+    40.531278
+],
+  "geometry": {"coordinates":[-111.929238,40.531278],"type":"Point"}
+}

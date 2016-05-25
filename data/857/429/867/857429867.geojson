@@ -1,0 +1,71 @@
+{
+  "id": 857429867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.582199,40.139372,-111.582199,40.139372",
+    "geom:latitude":40.139372,
+    "geom:longitude":-111.582199,
+    "iso:country":"US",
+    "sg:address":"960 N 300 W",
+    "sg:city":"Mapleton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Paper Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 489 6156",
+    "sg:postcode":"84664",
+    "sg:province":"UT",
+    "sg:tags":[
+        "mill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16FUtwnmJnXRtyGjTdhDeY_40.139372_-111.582199@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129342,
+    "wof:geomhash":"03159e0dd2368177c4f5e2e7bc207c3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857429867
+        }
+    ],
+    "wof:id":857429867,
+    "wof:lastmodified":1464129342,
+    "wof:name":"Mountain West Wallcovering",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mill"
+    ]
+},
+  "bbox": [
+    -111.582199,
+    40.139372,
+    -111.582199,
+    40.139372
+],
+  "geometry": {"coordinates":[-111.582199,40.139372],"type":"Point"}
+}

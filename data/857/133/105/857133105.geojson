@@ -1,0 +1,73 @@
+{
+  "id": 857133105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.015491,41.08907,-112.015491,41.08907",
+    "geom:latitude":41.08907,
+    "geom:longitude":-112.015491,
+    "iso:country":"US",
+    "sg:address":"490 E 1700 S",
+    "sg:city":"Clearfield",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 614 0444",
+    "sg:postcode":"84015",
+    "sg:province":"UT",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727897,
+        102083563,
+        85830053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0R6Y1q2I1LAao8CvXURINN_41.089070_-112.015491@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122743,
+    "wof:geomhash":"cbdf7a867c9ebed8a61727341b1facc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727897,
+            "neighbourhood_id":85830053,
+            "region_id":85688567,
+            "venue_id":857133105
+        }
+    ],
+    "wof:id":857133105,
+    "wof:lastmodified":1464122743,
+    "wof:name":"Shell Rapid Lube",
+    "wof:parent_id":85830053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -112.015491,
+    41.08907,
+    -112.015491,
+    41.08907
+],
+  "geometry": {"coordinates":[-112.015491,41.08907],"type":"Point"}
+}

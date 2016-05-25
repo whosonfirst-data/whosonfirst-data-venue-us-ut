@@ -1,0 +1,75 @@
+{
+  "id": 857353471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.904032,40.546823,-111.904032,40.546823",
+    "geom:latitude":40.546823,
+    "geom:longitude":-111.904032,
+    "iso:country":"US",
+    "sg:address":"11231 S 445 W",
+    "sg:city":"South Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 553 8113",
+    "sg:postcode":"84095",
+    "sg:province":"UT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728055,
+        102082877,
+        85829657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hrlOUO6ip3c4VQHd3iNPt_40.546823_-111.904032@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127564,
+    "wof:geomhash":"882acba55259c600b71ac967514fc8de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728055,
+            "neighbourhood_id":85829657,
+            "region_id":85688567,
+            "venue_id":857353471
+        }
+    ],
+    "wof:id":857353471,
+    "wof:lastmodified":1464127564,
+    "wof:name":"McMillan Electric & Gen Contr",
+    "wof:parent_id":85829657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.904032,
+    40.546823,
+    -111.904032,
+    40.546823
+],
+  "geometry": {"coordinates":[-111.904032,40.546823],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857492179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.704203,40.273646,-111.704203,40.273646",
+    "geom:latitude":40.273646,
+    "geom:longitude":-111.704203,
+    "iso:country":"US",
+    "sg:address":"384 W University Pkwy",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/provo-orem/152517-honeybaked-ham/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 224 6650",
+    "sg:postcode":"84058",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85813259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZCTaupMp3zYFXtPQInoEY_40.273646_-111.704203@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130668,
+    "wof:geomhash":"e62489691289b5d52d71bdc8e5fc0da7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85813259,
+            "region_id":85688567,
+            "venue_id":857492179
+        }
+    ],
+    "wof:id":857492179,
+    "wof:lastmodified":1464130668,
+    "wof:name":"The HoneyBaked Ham Company",
+    "wof:parent_id":85813259,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -111.704203,
+    40.273646,
+    -111.704203,
+    40.273646
+],
+  "geometry": {"coordinates":[-111.70420300000001,40.273646],"type":"Point"}
+}

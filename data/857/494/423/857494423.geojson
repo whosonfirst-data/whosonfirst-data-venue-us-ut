@@ -1,0 +1,74 @@
+{
+  "id": 857494423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.610618,40.16139,-111.610618,40.16139",
+    "geom:latitude":40.16139,
+    "geom:longitude":-111.610618,
+    "iso:country":"US",
+    "sg:address":"380 S Main St",
+    "sg:city":"Springville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/springville-mapleton/218181-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 489 8033",
+    "sg:postcode":"84663",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727829,
+        102083567,
+        85880117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RhvyXO96rPoJlS0R54dhO_40.161390_-111.610618@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130747,
+    "wof:geomhash":"f308b7a5961e420e6c01eb493d5b3825",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727829,
+            "neighbourhood_id":85880117,
+            "region_id":85688567,
+            "venue_id":857494423
+        }
+    ],
+    "wof:id":857494423,
+    "wof:lastmodified":1464130747,
+    "wof:name":"Burger King",
+    "wof:parent_id":85880117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -111.610618,
+    40.16139,
+    -111.610618,
+    40.16139
+],
+  "geometry": {"coordinates":[-111.610618,40.16139],"type":"Point"}
+}

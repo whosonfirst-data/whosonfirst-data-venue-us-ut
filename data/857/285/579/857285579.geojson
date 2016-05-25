@@ -1,0 +1,78 @@
+{
+  "id": 857285579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.98194,40.77894,-111.98194,40.77894",
+    "geom:latitude":40.77894,
+    "geom:longitude":-111.98194,
+    "iso:country":"US",
+    "sg:address":"656 3800 W",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 575 2847",
+    "sg:postcode":"84116",
+    "sg:province":"UT",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "sg:website":"www.avis.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102527363,
+        85856293,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85688567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qDwnHIhfJ8NbXbwavJLJW_40.778940_-111.981940@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126037,
+    "wof:geomhash":"02939754677910562d87c251eb426f0b",
+    "wof:hierarchy":[
+        {
+            "campus_id":102527363,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85856293,
+            "region_id":85688567,
+            "venue_id":857285579
+        }
+    ],
+    "wof:id":857285579,
+    "wof:lastmodified":1464126037,
+    "wof:name":"Avis Rent A Car",
+    "wof:parent_id":102527363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -111.98194,
+    40.77894,
+    -111.98194,
+    40.77894
+],
+  "geometry": {"coordinates":[-111.98193999999999,40.77894],"type":"Point"}
+}

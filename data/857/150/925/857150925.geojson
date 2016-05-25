@@ -1,0 +1,71 @@
+{
+  "id": 857150925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834233,41.760862,-111.834233,41.760862",
+    "geom:latitude":41.760862,
+    "geom:longitude":-111.834233,
+    "iso:country":"US",
+    "sg:address":"1550 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 755 0646",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jkdrp4aNFOWfkXQKcJfiJ_41.760862_-111.834233@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464123167,
+    "wof:geomhash":"2fc0d9fd12df1918d439d8c318234bf2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857150925
+        }
+    ],
+    "wof:id":857150925,
+    "wof:lastmodified":1464123167,
+    "wof:name":"Smart Style",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -111.834233,
+    41.760862,
+    -111.834233,
+    41.760862
+],
+  "geometry": {"coordinates":[-111.834233,41.760862],"type":"Point"}
+}

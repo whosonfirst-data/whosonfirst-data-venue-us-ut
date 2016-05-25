@@ -1,0 +1,71 @@
+{
+  "id": 857411663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.812482,41.729593,-111.812482,41.729593",
+    "geom:latitude":41.729593,
+    "geom:longitude":-111.812482,
+    "iso:country":"US",
+    "sg:address":"970 Canterbury Dr",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 757 3231",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "contract"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OASwtiyZBRswlIFI6Pj4j_41.729593_-111.812482@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128891,
+    "wof:geomhash":"9fa963127b5133414cfd312ccd9d1d64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857411663
+        }
+    ],
+    "wof:id":857411663,
+    "wof:lastmodified":1464128891,
+    "wof:name":"Robert F Erbacher",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contract"
+    ]
+},
+  "bbox": [
+    -111.812482,
+    41.729593,
+    -111.812482,
+    41.729593
+],
+  "geometry": {"coordinates":[-111.812482,41.729593],"type":"Point"}
+}

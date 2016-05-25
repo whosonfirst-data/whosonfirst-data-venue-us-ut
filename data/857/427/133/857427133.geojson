@@ -1,0 +1,73 @@
+{
+  "id": 857427133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.027682,40.627548,-112.027682,40.627548",
+    "geom:latitude":40.627548,
+    "geom:longitude":-112.027682,
+    "iso:country":"US",
+    "sg:address":"6884 Adventure Way",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 261 8455",
+    "sg:postcode":"84084",
+    "sg:province":"UT",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101728061,
+        102082877,
+        85854369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GiGzdmieB5tAdefPs2hBw_40.627548_-112.027682@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129281,
+    "wof:geomhash":"8ae08f417a23c9fdda3f30c8849f6629",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85854369,
+            "region_id":85688567,
+            "venue_id":857427133
+        }
+    ],
+    "wof:id":857427133,
+    "wof:lastmodified":1464129281,
+    "wof:name":"Granite Realty & Mortgage",
+    "wof:parent_id":85854369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -112.027682,
+    40.627548,
+    -112.027682,
+    40.627548
+],
+  "geometry": {"coordinates":[-112.027682,40.627548],"type":"Point"}
+}

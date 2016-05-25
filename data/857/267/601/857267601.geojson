@@ -1,0 +1,71 @@
+{
+  "id": 857267601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.773075,41.283217,-111.773075,41.283217",
+    "geom:latitude":41.283217,
+    "geom:longitude":-111.773075,
+    "iso:country":"US",
+    "sg:address":"1363 N 7275 E",
+    "sg:city":"Huntsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 745 3322",
+    "sg:postcode":"84317",
+    "sg:province":"UT",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85818631,
+        102083539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BSjXPsSpcvEuK3cjHe6mI_41.283217_-111.773075@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464125640,
+    "wof:geomhash":"bca080c2dd746ff092486d6910e705d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083539,
+            "neighbourhood_id":85818631,
+            "region_id":85688567,
+            "venue_id":857267601
+        }
+    ],
+    "wof:id":857267601,
+    "wof:lastmodified":1464125640,
+    "wof:name":"Western Temperature Technology",
+    "wof:parent_id":85818631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -111.773075,
+    41.283217,
+    -111.773075,
+    41.283217
+],
+  "geometry": {"coordinates":[-111.77307500000001,41.283217],"type":"Point"}
+}

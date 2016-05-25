@@ -1,0 +1,75 @@
+{
+  "id": 857447083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.825718,41.757391,-111.825718,41.757391",
+    "geom:latitude":41.757391,
+    "geom:longitude":-111.825718,
+    "iso:country":"US",
+    "sg:address":"330 E 1400 N",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 755 2877",
+    "sg:postcode":"84341",
+    "sg:province":"UT",
+    "sg:tags":[
+        "residential",
+        "intermediate",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HeBx5yK8XIQfdJA6uf1P3_41.757391_-111.825718@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464129703,
+    "wof:geomhash":"b1b7f3a951f21e35b768631d34b416d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857447083
+        }
+    ],
+    "wof:id":857447083,
+    "wof:lastmodified":1464129703,
+    "wof:name":"Logan House Assisted Living",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "intermediate",
+        "facility"
+    ]
+},
+  "bbox": [
+    -111.825718,
+    41.757391,
+    -111.825718,
+    41.757391
+],
+  "geometry": {"coordinates":[-111.82571799999999,41.757391],"type":"Point"}
+}

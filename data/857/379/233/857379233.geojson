@@ -1,0 +1,69 @@
+{
+  "id": 857379233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.579974,40.074792,-111.579974,40.074792",
+    "geom:latitude":40.074792,
+    "geom:longitude":-111.579974,
+    "iso:country":"US",
+    "sg:address":"8577 S State Rd",
+    "sg:city":"Spanish Fork",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 798 7669",
+    "sg:postcode":"84660",
+    "sg:province":"UT",
+    "sg:tags":[
+        "livestock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85822211,
+        102083567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mG8Oqftefq0YgWqOanEkd_40.074792_-111.579974@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464128099,
+    "wof:geomhash":"b4fe5dc9fc265b5bac2083cdeab3e203",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "neighbourhood_id":85822211,
+            "region_id":85688567,
+            "venue_id":857379233
+        }
+    ],
+    "wof:id":857379233,
+    "wof:lastmodified":1464128099,
+    "wof:name":"Olsen Livestock",
+    "wof:parent_id":85822211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "livestock"
+    ]
+},
+  "bbox": [
+    -111.579974,
+    40.074792,
+    -111.579974,
+    40.074792
+],
+  "geometry": {"coordinates":[-111.57997400000001,40.074792],"type":"Point"}
+}

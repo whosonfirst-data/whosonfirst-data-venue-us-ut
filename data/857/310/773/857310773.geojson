@@ -1,0 +1,73 @@
+{
+  "id": 857310773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.786631,39.973922,-111.786631,39.973922",
+    "geom:latitude":39.973922,
+    "geom:longitude":-111.786631,
+    "iso:country":"US",
+    "sg:address":"45 W 100 S",
+    "sg:city":"Santaquin",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 754 1070",
+    "sg:postcode":"84655",
+    "sg:province":"UT",
+    "sg:tags":[
+        "department",
+        "dept"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZopV4jNLKf8wJ4O3ZAjqe_39.973922_-111.786631@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126636,
+    "wof:geomhash":"24b6af9eee329885e1a4a939b6c75440",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857310773
+        }
+    ],
+    "wof:id":857310773,
+    "wof:lastmodified":1464126636,
+    "wof:name":"Santaquin City Police Dept",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "dept"
+    ]
+},
+  "bbox": [
+    -111.786631,
+    39.973922,
+    -111.786631,
+    39.973922
+],
+  "geometry": {"coordinates":[-111.786631,39.973922],"type":"Point"}
+}

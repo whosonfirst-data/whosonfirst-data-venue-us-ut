@@ -1,0 +1,88 @@
+{
+  "id": 857492965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.871147,40.761549,-111.871147,40.761549",
+    "geom:latitude":40.761549,
+    "geom:longitude":-111.871147,
+    "iso:country":"US",
+    "sg:address":"358 S 700 E",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/salt-lake-city/34206-noodles--company/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 359 8315",
+    "sg:postcode":"84102",
+    "sg:province":"UT",
+    "sg:tags":[
+        "salad",
+        "chinese",
+        "japanese",
+        "soup",
+        "american",
+        "asian",
+        "thai",
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728075,
+        102082877,
+        85871021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wCEbM2VO96Hv3MFJQS21e_40.761549_-111.871147@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130698,
+    "wof:geomhash":"9c3ac46a7b05bbf0e298958818aed4f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728075,
+            "neighbourhood_id":85871021,
+            "region_id":85688567,
+            "venue_id":857492965
+        }
+    ],
+    "wof:id":857492965,
+    "wof:lastmodified":1464130698,
+    "wof:name":"Noodles & Company",
+    "wof:parent_id":85871021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salad",
+        "chinese",
+        "japanese",
+        "soup",
+        "american",
+        "asian",
+        "thai",
+        "italian"
+    ]
+},
+  "bbox": [
+    -111.871147,
+    40.761549,
+    -111.871147,
+    40.761549
+],
+  "geometry": {"coordinates":[-111.87114699999999,40.761549],"type":"Point"}
+}

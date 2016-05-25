@@ -1,0 +1,68 @@
+{
+  "id": 857331725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.889003,40.640989,-111.889003,40.640989",
+    "geom:latitude":40.640989,
+    "geom:longitude":-111.889003,
+    "iso:country":"US",
+    "sg:address":"6098 S State St",
+    "sg:city":"Murray",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 265 8790",
+    "sg:postcode":"84107",
+    "sg:province":"UT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728069,
+        102082877,
+        85822549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ysJd97qOY9CWPt5nPIh7e_40.640989_-111.889003@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127094,
+    "wof:geomhash":"754a7b6b6c7232edc12d8734b7661843",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728069,
+            "neighbourhood_id":85822549,
+            "region_id":85688567,
+            "venue_id":857331725
+        }
+    ],
+    "wof:id":857331725,
+    "wof:lastmodified":1464127094,
+    "wof:name":"Restaurant Morelia",
+    "wof:parent_id":85822549,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -111.889003,
+    40.640989,
+    -111.889003,
+    40.640989
+],
+  "geometry": {"coordinates":[-111.889003,40.640989],"type":"Point"}
+}

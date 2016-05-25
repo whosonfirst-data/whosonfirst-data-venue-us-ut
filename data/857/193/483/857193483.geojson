@@ -1,0 +1,73 @@
+{
+  "id": 857193483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.652546,40.241603,-111.652546,40.241603",
+    "geom:latitude":40.241603,
+    "geom:longitude":-111.652546,
+    "iso:country":"US",
+    "sg:address":"366 E 600 N",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 370 3200",
+    "sg:postcode":"84606",
+    "sg:province":"UT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Vk5vHOVr1ew6WbKp8Hnky_40.241603_-111.652546@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124050,
+    "wof:geomhash":"7a33d0b16284a6badb923aef2d7ce0ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880085,
+            "region_id":85688567,
+            "venue_id":857193483
+        }
+    ],
+    "wof:id":857193483,
+    "wof:lastmodified":1464124050,
+    "wof:name":"Alpine Court Apartments",
+    "wof:parent_id":85880085,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -111.652546,
+    40.241603,
+    -111.652546,
+    40.241603
+],
+  "geometry": {"coordinates":[-111.652546,40.241603],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857093435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.92386,40.863587,-111.92386,40.863587",
+    "geom:latitude":40.863587,
+    "geom:longitude":-111.92386,
+    "iso:country":"US",
+    "sg:address":"2481 S 1560 W",
+    "sg:city":"Woods Cross",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 298 5256",
+    "sg:postcode":"84087",
+    "sg:province":"UT",
+    "sg:tags":[
+        "processing",
+        "datum"
+    ],
+    "sg:website":"www.dataservicesdirect.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727887,
+        102083563,
+        85848919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3c0HdOZF8D3BylFUSpiTQ5_40.863587_-111.923860@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464121759,
+    "wof:geomhash":"1ea6e68b39d92019ab1517a34ab58a92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083563,
+            "locality_id":101727887,
+            "neighbourhood_id":85848919,
+            "region_id":85688567,
+            "venue_id":857093435
+        }
+    ],
+    "wof:id":857093435,
+    "wof:lastmodified":1464121759,
+    "wof:name":"Data Services Direct LLC",
+    "wof:parent_id":85848919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "processing",
+        "datum"
+    ]
+},
+  "bbox": [
+    -111.92386,
+    40.863587,
+    -111.92386,
+    40.863587
+],
+  "geometry": {"coordinates":[-111.92386,40.863587],"type":"Point"}
+}

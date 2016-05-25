@@ -1,0 +1,71 @@
+{
+  "id": 857208551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.799455,39.978359,-111.799455,39.978359",
+    "geom:latitude":39.978359,
+    "geom:longitude":-111.799455,
+    "iso:country":"US",
+    "sg:address":"6082 US Hwy 6",
+    "sg:city":"Santaquin",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 754 3100",
+    "sg:postcode":"84655",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shipper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727831,
+        102083567,
+        85834679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EYQ5XhT5eLgpuRhfnIjyX_39.978359_-111.799455@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124361,
+    "wof:geomhash":"7168a37f56abab200adbae637f3a7f28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727831,
+            "neighbourhood_id":85834679,
+            "region_id":85688567,
+            "venue_id":857208551
+        }
+    ],
+    "wof:id":857208551,
+    "wof:lastmodified":1464124361,
+    "wof:name":"W M Ercanbrack Co",
+    "wof:parent_id":85834679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipper"
+    ]
+},
+  "bbox": [
+    -111.799455,
+    39.978359,
+    -111.799455,
+    39.978359
+],
+  "geometry": {"coordinates":[-111.79945499999999,39.978359],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857308163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.72487,40.32346,-111.72487,40.32346",
+    "geom:latitude":40.32346,
+    "geom:longitude":-111.72487,
+    "iso:country":"US",
+    "sg:address":"1457 N 1200 W",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 229 1079",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34trM3I1PeN3iv7gvYfJ6k_40.323460_-111.724870@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126581,
+    "wof:geomhash":"681bb8c15c971952726be40da16c21f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":857308163
+        }
+    ],
+    "wof:id":857308163,
+    "wof:lastmodified":1464126581,
+    "wof:name":"APEX Land Surveyors",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -111.72487,
+    40.32346,
+    -111.72487,
+    40.32346
+],
+  "geometry": {"coordinates":[-111.72487,40.32346],"type":"Point"}
+}

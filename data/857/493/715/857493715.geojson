@@ -1,0 +1,72 @@
+{
+  "id": 857493715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.834948,41.732425,-111.834948,41.732425",
+    "geom:latitude":41.732425,
+    "geom:longitude":-111.834948,
+    "iso:country":"US",
+    "sg:address":"55 N Main St",
+    "sg:city":"Logan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ut/logan/38284-copper-mill-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 435 752 0647",
+    "sg:postcode":"84321",
+    "sg:province":"UT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        101727579,
+        102082881,
+        85823089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aHVIDpNV8n7kREW2hhNCg_41.732425_-111.834948@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464130721,
+    "wof:geomhash":"477677ea8359749217f74bf4e6ca4cab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082881,
+            "locality_id":101727579,
+            "neighbourhood_id":85823089,
+            "region_id":85688567,
+            "venue_id":857493715
+        }
+    ],
+    "wof:id":857493715,
+    "wof:lastmodified":1464130721,
+    "wof:name":"Copper Mill Restaurant",
+    "wof:parent_id":85823089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -111.834948,
+    41.732425,
+    -111.834948,
+    41.732425
+],
+  "geometry": {"coordinates":[-111.834948,41.732425],"type":"Point"}
+}

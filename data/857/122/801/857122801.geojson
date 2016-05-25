@@ -1,0 +1,73 @@
+{
+  "id": 857122801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.678903,40.298061,-111.678903,40.298061",
+    "geom:latitude":40.298061,
+    "geom:longitude":-111.678903,
+    "iso:country":"US",
+    "sg:address":"49 N 700 E",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 225 2182",
+    "sg:postcode":"84097",
+    "sg:province":"UT",
+    "sg:tags":[
+        "refrigeration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85849197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1q2j4XIqAqT7EJn2xN6j54_40.298061_-111.678903@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464122523,
+    "wof:geomhash":"ff625c9fc84f66f8f2707cc500e6e4cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85849197,
+            "region_id":85688567,
+            "venue_id":857122801
+        }
+    ],
+    "wof:id":857122801,
+    "wof:lastmodified":1464122523,
+    "wof:name":"Douglas Refrigeration",
+    "wof:parent_id":85849197,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration"
+    ]
+},
+  "bbox": [
+    -111.678903,
+    40.298061,
+    -111.678903,
+    40.298061
+],
+  "geometry": {"coordinates":[-111.67890300000001,40.298061],"type":"Point"}
+}

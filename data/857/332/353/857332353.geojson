@@ -1,0 +1,73 @@
+{
+  "id": 857332353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.669314,40.264567,-111.669314,40.264567",
+    "geom:latitude":40.264567,
+    "geom:longitude":-111.669314,
+    "iso:country":"US",
+    "sg:address":"2306 N University Pkwy",
+    "sg:city":"Provo",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 655 0371",
+    "sg:postcode":"84604",
+    "sg:province":"UT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727863,
+        102083567,
+        85880063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Jk1oldp92HHjP0Euxh0gL_40.264567_-111.669314@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464127107,
+    "wof:geomhash":"ca1344eed944a7f0c99fc3a06e050551",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727863,
+            "neighbourhood_id":85880063,
+            "region_id":85688567,
+            "venue_id":857332353
+        }
+    ],
+    "wof:id":857332353,
+    "wof:lastmodified":1464127107,
+    "wof:name":"Cabo Grill",
+    "wof:parent_id":85880063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -111.669314,
+    40.264567,
+    -111.669314,
+    40.264567
+],
+  "geometry": {"coordinates":[-111.669314,40.264567],"type":"Point"}
+}

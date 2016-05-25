@@ -1,0 +1,73 @@
+{
+  "id": 857235881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-112.003238,40.602778,-112.003238,40.602778",
+    "geom:latitude":40.602778,
+    "geom:longitude":-112.003238,
+    "iso:country":"US",
+    "sg:address":"4746 W Summit Valley Dr",
+    "sg:city":"West Jordan",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 282 9092",
+    "sg:postcode":"84088",
+    "sg:province":"UT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101728061,
+        102082877,
+        85854997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Z2dGkRPG1YD6wuvgZLAAC_40.602778_-112.003238@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124921,
+    "wof:geomhash":"a9e6abf35fa80a4c45e8d4d52d66a22c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082877,
+            "locality_id":101728061,
+            "neighbourhood_id":85854997,
+            "region_id":85688567,
+            "venue_id":857235881
+        }
+    ],
+    "wof:id":857235881,
+    "wof:lastmodified":1464124921,
+    "wof:name":"R A F Inc",
+    "wof:parent_id":85854997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -112.003238,
+    40.602778,
+    -112.003238,
+    40.602778
+],
+  "geometry": {"coordinates":[-112.003238,40.602778],"type":"Point"}
+}

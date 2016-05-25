@@ -1,0 +1,75 @@
+{
+  "id": 857191151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.701507,40.311994,-111.701507,40.311994",
+    "geom:latitude":40.311994,
+    "geom:longitude":-111.701507,
+    "iso:country":"US",
+    "sg:address":"800 N State St",
+    "sg:city":"Orem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 225 6010",
+    "sg:postcode":"84057",
+    "sg:province":"UT",
+    "sg:tags":[
+        "photo",
+        "finishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        102191575,
+        85633793,
+        101727865,
+        102083567,
+        85839761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UWxVQ0otPyQJ8USEbHWfn_40.311994_-111.701507@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464124009,
+    "wof:geomhash":"adf2bd43023f1338f95fb088a9a959a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083567,
+            "locality_id":101727865,
+            "neighbourhood_id":85839761,
+            "region_id":85688567,
+            "venue_id":857191151
+        }
+    ],
+    "wof:id":857191151,
+    "wof:lastmodified":1464124009,
+    "wof:name":"Macey's",
+    "wof:parent_id":85839761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo",
+        "finishing"
+    ]
+},
+  "bbox": [
+    -111.701507,
+    40.311994,
+    -111.701507,
+    40.311994
+],
+  "geometry": {"coordinates":[-111.70150700000001,40.311994],"type":"Point"}
+}

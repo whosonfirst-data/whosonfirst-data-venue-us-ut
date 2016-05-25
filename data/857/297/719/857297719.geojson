@@ -1,0 +1,69 @@
+{
+  "id": 857297719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-111.787928,40.676474,-111.787928,40.676474",
+    "geom:latitude":40.676474,
+    "geom:longitude":-111.787928,
+    "iso:country":"US",
+    "sg:address":"3851 Viewcrest Dr",
+    "sg:city":"Salt Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 266 5335",
+    "sg:postcode":"84124",
+    "sg:province":"UT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688567,
+        85633793,
+        85835599,
+        102082877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10HSCxrXToEoMbrq110KnW_40.676474_-111.787928@1294252057"
+    },
+    "wof:country":"US",
+    "wof:created":1464126358,
+    "wof:geomhash":"dfe01ee2aa3a8e775fae837134cff598",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082877,
+            "neighbourhood_id":85835599,
+            "region_id":85688567,
+            "venue_id":857297719
+        }
+    ],
+    "wof:id":857297719,
+    "wof:lastmodified":1464126358,
+    "wof:name":"Brent Sonnenberg DDS",
+    "wof:parent_id":85835599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -111.787928,
+    40.676474,
+    -111.787928,
+    40.676474
+],
+  "geometry": {"coordinates":[-111.78792799999999,40.676474],"type":"Point"}
+}
