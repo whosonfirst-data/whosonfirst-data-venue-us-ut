@@ -2,13 +2,14 @@
   "id": 320587597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.868759,40.418259,-111.868759,40.418259",
     "geom:latitude":40.418259,
     "geom:longitude":-111.868759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2303 N 1200 W",
     "sg:city":"Lehi",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":320587597,
-    "wof:lastmodified":1449012557,
+    "wof:lastmodified":1467087360,
     "wof:name":"Lehi Block Company",
     "wof:parent_id":85836317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "brick-clay-common"
     ]
 },
-  "bbox": [-111.868759,40.418259,-111.868759,40.418259],
+  "bbox": [
+    -111.868759,
+    40.418259,
+    -111.868759,
+    40.418259
+],
   "geometry": {"coordinates":[-111.868759,40.418259],"type":"Point"}
 }

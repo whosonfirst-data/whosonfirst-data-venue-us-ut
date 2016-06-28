@@ -2,13 +2,14 @@
   "id": 404195619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.899751,40.714665,-111.899751,40.714665",
     "geom:latitude":40.714665,
     "geom:longitude":-111.899751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2646 S 300 W",
     "sg:city":"Salt Lake City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404195619,
-    "wof:lastmodified":1449039925,
+    "wof:lastmodified":1467087365,
     "wof:name":"Jardine Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-111.899751,40.714665,-111.899751,40.714665],
-  "geometry": {"coordinates":[-111.899751,40.714665],"type":"Point"}
+  "bbox": [
+    -111.899751,
+    40.714665,
+    -111.899751,
+    40.714665
+],
+  "geometry": {"coordinates":[-111.89975099999999,40.714665],"type":"Point"}
 }

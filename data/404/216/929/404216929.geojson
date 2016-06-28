@@ -2,13 +2,14 @@
   "id": 404216929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.058679,37.711714,-113.058679,37.711714",
     "geom:latitude":37.711714,
     "geom:longitude":-113.058679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"88 E Fiddlers Canyon Dr",
     "sg:city":"Cedar City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404216929,
-    "wof:lastmodified":1449040184,
+    "wof:lastmodified":1467087366,
     "wof:name":"Iron County Health Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "health"
     ]
 },
-  "bbox": [-113.058679,37.711714,-113.058679,37.711714],
+  "bbox": [
+    -113.058679,
+    37.711714,
+    -113.058679,
+    37.711714
+],
   "geometry": {"coordinates":[-113.058679,37.711714],"type":"Point"}
 }

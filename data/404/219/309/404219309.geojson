@@ -2,13 +2,14 @@
   "id": 404219309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.003971,40.65935,-112.003971,40.65935",
     "geom:latitude":40.65935,
     "geom:longitude":-112.003971,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4756 W 5055 S",
     "sg:city":"Salt Lake City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404219309,
-    "wof:lastmodified":1449040275,
+    "wof:lastmodified":1467087366,
     "wof:name":"Valley Fence Co",
     "wof:parent_id":85833393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-112.003971,40.65935,-112.003971,40.65935],
-  "geometry": {"coordinates":[-112.003971,40.65935],"type":"Point"}
+  "bbox": [
+    -112.003971,
+    40.65935,
+    -112.003971,
+    40.65935
+],
+  "geometry": {"coordinates":[-112.00397100000001,40.65935],"type":"Point"}
 }

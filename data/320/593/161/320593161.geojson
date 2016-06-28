@@ -2,13 +2,14 @@
   "id": 320593161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.686563,40.264915,-111.686563,40.264915",
     "geom:latitude":40.264915,
     "geom:longitude":-111.686563,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"351 East 1780 South",
     "sg:city":"Orem",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":320593161,
-    "wof:lastmodified":1449013748,
+    "wof:lastmodified":1467087361,
     "wof:name":"Independent Scentsy Consultant - Rebecca Greener",
     "wof:parent_id":85880081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "decor"
     ]
 },
-  "bbox": [-111.686563,40.264915,-111.686563,40.264915],
-  "geometry": {"coordinates":[-111.686563,40.264915],"type":"Point"}
+  "bbox": [
+    -111.686563,
+    40.264915,
+    -111.686563,
+    40.264915
+],
+  "geometry": {"coordinates":[-111.68656300000001,40.264915],"type":"Point"}
 }

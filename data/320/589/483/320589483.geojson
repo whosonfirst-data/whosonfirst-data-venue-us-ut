@@ -2,13 +2,14 @@
   "id": 320589483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.930298,40.844435,-111.930298,40.844435",
     "geom:latitude":40.844435,
     "geom:longitude":-111.930298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 N Redwood Rd",
     "sg:city":"North Salt Lake",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320589483,
-    "wof:lastmodified":1449013256,
+    "wof:lastmodified":1467087360,
     "wof:name":"Leger's Deli",
     "wof:parent_id":85857749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich"
     ]
 },
-  "bbox": [-111.930298,40.844435,-111.930298,40.844435],
-  "geometry": {"coordinates":[-111.930298,40.844435],"type":"Point"}
+  "bbox": [
+    -111.930298,
+    40.844435,
+    -111.930298,
+    40.844435
+],
+  "geometry": {"coordinates":[-111.93029799999999,40.844435],"type":"Point"}
 }

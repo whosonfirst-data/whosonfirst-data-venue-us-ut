@@ -2,13 +2,14 @@
   "id": 404213909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.015874,41.503129,-112.015874,41.503129",
     "geom:latitude":41.503129,
     "geom:longitude":-112.015874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 S Main St",
     "sg:city":"Brigham City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404213909,
-    "wof:lastmodified":1449039100,
+    "wof:lastmodified":1467087364,
     "wof:name":"U-Haul Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "leasing"
     ]
 },
-  "bbox": [-112.015874,41.503129,-112.015874,41.503129],
+  "bbox": [
+    -112.015874,
+    41.503129,
+    -112.015874,
+    41.503129
+],
   "geometry": {"coordinates":[-112.015874,41.503129],"type":"Point"}
 }

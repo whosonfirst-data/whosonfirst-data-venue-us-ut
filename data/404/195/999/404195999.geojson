@@ -2,13 +2,14 @@
   "id": 404195999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.962797,40.639225,-111.962797,40.639225",
     "geom:latitude":40.639225,
     "geom:longitude":-111.962797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6108 Don Leone Dr",
     "sg:city":"Salt Lake City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404195999,
-    "wof:lastmodified":1449039927,
+    "wof:lastmodified":1467087365,
     "wof:name":"Responselink Of Utah",
     "wof:parent_id":85848647,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "alarm"
     ]
 },
-  "bbox": [-111.962797,40.639225,-111.962797,40.639225],
-  "geometry": {"coordinates":[-111.962797,40.639225],"type":"Point"}
+  "bbox": [
+    -111.962797,
+    40.639225,
+    -111.962797,
+    40.639225
+],
+  "geometry": {"coordinates":[-111.96279699999999,40.639225],"type":"Point"}
 }

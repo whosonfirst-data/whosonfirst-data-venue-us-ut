@@ -2,13 +2,14 @@
   "id": 320594889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.872204,40.592766,-111.872204,40.592766",
     "geom:latitude":40.592766,
     "geom:longitude":-111.872204,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8734 S 700 E",
     "sg:city":"Sandy",
     "sg:classifiers":[
@@ -83,10 +84,11 @@
         }
     ],
     "wof:id":320594889,
-    "wof:lastmodified":1449011789,
+    "wof:lastmodified":1467087359,
     "wof:name":"Visions Salon and Day Spa of Sandy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -95,6 +97,11 @@
         "make-up"
     ]
 },
-  "bbox": [-111.872204,40.592766,-111.872204,40.592766],
+  "bbox": [
+    -111.872204,
+    40.592766,
+    -111.872204,
+    40.592766
+],
   "geometry": {"coordinates":[-111.872204,40.592766],"type":"Point"}
 }

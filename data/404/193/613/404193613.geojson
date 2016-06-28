@@ -2,13 +2,14 @@
   "id": 404193613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.677212,40.258107,-111.677212,40.258107",
     "geom:latitude":40.258107,
     "geom:longitude":-111.677212,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1144 Columbia Ln",
     "sg:city":"Provo",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404193613,
-    "wof:lastmodified":1449039210,
+    "wof:lastmodified":1467087364,
     "wof:name":"First Baptist Church Of Provo",
     "wof:parent_id":85880081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-111.677212,40.258107,-111.677212,40.258107],
+  "bbox": [
+    -111.677212,
+    40.258107,
+    -111.677212,
+    40.258107
+],
   "geometry": {"coordinates":[-111.677212,40.258107],"type":"Point"}
 }

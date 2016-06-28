@@ -2,13 +2,14 @@
   "id": 404191567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.885285,40.751599,-111.885285,40.751599",
     "geom:latitude":40.751599,
     "geom:longitude":-111.885285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"883 S 200 E",
     "sg:city":"Salt Lake City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404191567,
-    "wof:lastmodified":1449039840,
+    "wof:lastmodified":1467087365,
     "wof:name":"Art Department",
     "wof:parent_id":85867259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-111.885285,40.751599,-111.885285,40.751599],
+  "bbox": [
+    -111.885285,
+    40.751599,
+    -111.885285,
+    40.751599
+],
   "geometry": {"coordinates":[-111.885285,40.751599],"type":"Point"}
 }

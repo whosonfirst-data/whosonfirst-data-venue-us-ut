@@ -2,13 +2,14 @@
   "id": 404212087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.938889,40.721782,-111.938889,40.721782",
     "geom:latitude":40.721782,
     "geom:longitude":-111.938889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2261 S Redwood Rd",
     "sg:city":"Salt Lake City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404212087,
-    "wof:lastmodified":1449039911,
+    "wof:lastmodified":1467087365,
     "wof:name":"Sheet Metal Wkrs Local Un 312",
     "wof:parent_id":85810735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "union"
     ]
 },
-  "bbox": [-111.938889,40.721782,-111.938889,40.721782],
+  "bbox": [
+    -111.938889,
+    40.721782,
+    -111.938889,
+    40.721782
+],
   "geometry": {"coordinates":[-111.938889,40.721782],"type":"Point"}
 }

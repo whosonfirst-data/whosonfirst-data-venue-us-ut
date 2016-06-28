@@ -2,13 +2,14 @@
   "id": 404208755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.867059,40.658042,-111.867059,40.658042",
     "geom:latitude":40.658042,
     "geom:longitude":-111.867059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 E Pontiac Dr",
     "sg:city":"Salt Lake City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404208755,
-    "wof:lastmodified":1449039156,
+    "wof:lastmodified":1467087364,
     "wof:name":"Silver Lining Investments LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-111.867059,40.658042,-111.867059,40.658042],
+  "bbox": [
+    -111.867059,
+    40.658042,
+    -111.867059,
+    40.658042
+],
   "geometry": {"coordinates":[-111.867059,40.658042],"type":"Point"}
 }

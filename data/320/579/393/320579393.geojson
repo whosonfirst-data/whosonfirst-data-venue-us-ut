@@ -2,13 +2,14 @@
   "id": 320579393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.896635,40.928256,-111.896635,40.928256",
     "geom:latitude":40.928256,
     "geom:longitude":-111.896635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"803 N 1250 W",
     "sg:city":"Centerville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320579393,
-    "wof:lastmodified":1449012459,
+    "wof:lastmodified":1467087360,
     "wof:name":"Danz 4Ever",
     "wof:parent_id":85850499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "performing"
     ]
 },
-  "bbox": [-111.896635,40.928256,-111.896635,40.928256],
+  "bbox": [
+    -111.896635,
+    40.928256,
+    -111.896635,
+    40.928256
+],
   "geometry": {"coordinates":[-111.896635,40.928256],"type":"Point"}
 }

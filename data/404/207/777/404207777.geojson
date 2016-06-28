@@ -2,13 +2,14 @@
   "id": 404207777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.272511,38.169641,-112.272511,38.169641",
     "geom:latitude":38.169641,
     "geom:longitude":-112.272511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 S Center St",
     "sg:city":"Circleville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404207777,
-    "wof:lastmodified":1449039965,
+    "wof:lastmodified":1467087365,
     "wof:name":"Southern Utah Ceramics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "ceramics"
     ]
 },
-  "bbox": [-112.272511,38.169641,-112.272511,38.169641],
-  "geometry": {"coordinates":[-112.272511,38.169641],"type":"Point"}
+  "bbox": [
+    -112.272511,
+    38.169641,
+    -112.272511,
+    38.169641
+],
+  "geometry": {"coordinates":[-112.27251099999999,38.169641],"type":"Point"}
 }

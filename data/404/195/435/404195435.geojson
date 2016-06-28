@@ -2,13 +2,14 @@
   "id": 404195435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.015821,41.509629,-112.015821,41.509629",
     "geom:latitude":41.509629,
     "geom:longitude":-112.015821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"80 S Main St",
     "sg:city":"Brigham City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404195435,
-    "wof:lastmodified":1449039927,
+    "wof:lastmodified":1467087365,
     "wof:name":"Mountainland Outdoor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.015821,41.509629,-112.015821,41.509629],
+  "bbox": [
+    -112.015821,
+    41.509629,
+    -112.015821,
+    41.509629
+],
   "geometry": {"coordinates":[-112.015821,41.509629],"type":"Point"}
 }

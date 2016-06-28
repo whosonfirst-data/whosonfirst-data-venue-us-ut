@@ -2,13 +2,14 @@
   "id": 404205063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.821907,40.623894,-111.821907,40.623894",
     "geom:latitude":40.623894,
     "geom:longitude":-111.821907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2364 Fort Union Blvd",
     "sg:city":"Salt Lake City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404205063,
-    "wof:lastmodified":1449039827,
+    "wof:lastmodified":1467087364,
     "wof:name":"Hillside Veterinary Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"
     ]
 },
-  "bbox": [-111.821907,40.623894,-111.821907,40.623894],
+  "bbox": [
+    -111.821907,
+    40.623894,
+    -111.821907,
+    40.623894
+],
   "geometry": {"coordinates":[-111.821907,40.623894],"type":"Point"}
 }

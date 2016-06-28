@@ -2,13 +2,14 @@
   "id": 404215733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.851596,40.387764,-111.851596,40.387764",
     "geom:latitude":40.387764,
     "geom:longitude":-111.851596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 W Main St",
     "sg:city":"Lehi",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404215733,
-    "wof:lastmodified":1449040091,
+    "wof:lastmodified":1467087365,
     "wof:name":"Royal West Martial Arts",
     "wof:parent_id":85858273,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "instruction"
     ]
 },
-  "bbox": [-111.851596,40.387764,-111.851596,40.387764],
+  "bbox": [
+    -111.851596,
+    40.387764,
+    -111.851596,
+    40.387764
+],
   "geometry": {"coordinates":[-111.851596,40.387764],"type":"Point"}
 }

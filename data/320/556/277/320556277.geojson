@@ -2,13 +2,14 @@
   "id": 320556277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.886937,40.87359,-111.886937,40.87359",
     "geom:latitude":40.87359,
     "geom:longitude":-111.886937,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1551 Renaissance Towne Dr Ste 360-B",
     "sg:city":"Bountiful",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320556277,
-    "wof:lastmodified":1449012180,
+    "wof:lastmodified":1467087359,
     "wof:name":"Candessa Surgical and Laser Aesthetics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "medical"
     ]
 },
-  "bbox": [-111.886937,40.87359,-111.886937,40.87359],
+  "bbox": [
+    -111.886937,
+    40.87359,
+    -111.886937,
+    40.87359
+],
   "geometry": {"coordinates":[-111.886937,40.87359],"type":"Point"}
 }

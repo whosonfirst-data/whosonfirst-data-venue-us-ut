@@ -2,13 +2,14 @@
   "id": 404192863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.8906,40.510814,-111.8906,40.510814",
     "geom:latitude":40.510814,
     "geom:longitude":-111.8906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13231 Minuteman Dr",
     "sg:city":"Draper",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404192863,
-    "wof:lastmodified":1449039978,
+    "wof:lastmodified":1467087365,
     "wof:name":"C R Petersen",
     "wof:parent_id":85815185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-111.8906,40.510814,-111.8906,40.510814],
-  "geometry": {"coordinates":[-111.8906,40.510814],"type":"Point"}
+  "bbox": [
+    -111.8906,
+    40.510814,
+    -111.8906,
+    40.510814
+],
+  "geometry": {"coordinates":[-111.89060000000001,40.510814],"type":"Point"}
 }

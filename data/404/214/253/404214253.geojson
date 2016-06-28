@@ -2,13 +2,14 @@
   "id": 404214253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.773023,40.761234,-111.773023,40.761234",
     "geom:latitude":40.761234,
     "geom:longitude":-111.773023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4499 Wyndom Ct",
     "sg:city":"Salt Lake City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404214253,
-    "wof:lastmodified":1449040292,
+    "wof:lastmodified":1467087366,
     "wof:name":"Loan Protector Insurance Svc",
     "wof:parent_id":85850555,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carrier"
     ]
 },
-  "bbox": [-111.773023,40.761234,-111.773023,40.761234],
-  "geometry": {"coordinates":[-111.773023,40.761234],"type":"Point"}
+  "bbox": [
+    -111.773023,
+    40.761234,
+    -111.773023,
+    40.761234
+],
+  "geometry": {"coordinates":[-111.77302299999999,40.761234],"type":"Point"}
 }

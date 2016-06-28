@@ -2,13 +2,14 @@
   "id": 320590443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.908997,40.841801,-111.908997,40.841801",
     "geom:latitude":40.841801,
     "geom:longitude":-111.908997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"51 S 130 E",
     "sg:city":"North Salt Lake",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320590443,
-    "wof:lastmodified":1449013482,
+    "wof:lastmodified":1467087361,
     "wof:name":"Orchard Drug",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drugstore"
     ]
 },
-  "bbox": [-111.908997,40.841801,-111.908997,40.841801],
+  "bbox": [
+    -111.908997,
+    40.841801,
+    -111.908997,
+    40.841801
+],
   "geometry": {"coordinates":[-111.908997,40.841801],"type":"Point"}
 }

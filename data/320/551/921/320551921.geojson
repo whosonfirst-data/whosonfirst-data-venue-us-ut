@@ -2,13 +2,14 @@
   "id": 320551921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.749245,40.432199,-111.749245,40.432199",
     "geom:latitude":40.432199,
     "geom:longitude":-111.749245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5455 W 11000 N Ste 101",
     "sg:city":"Highland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320551921,
-    "wof:lastmodified":1449012014,
+    "wof:lastmodified":1467087359,
     "wof:name":"Timpanogos Vision Center",
     "wof:parent_id":85879979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "optical"
     ]
 },
-  "bbox": [-111.749245,40.432199,-111.749245,40.432199],
+  "bbox": [
+    -111.749245,
+    40.432199,
+    -111.749245,
+    40.432199
+],
   "geometry": {"coordinates":[-111.749245,40.432199],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404199861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.597409,37.117688,-113.597409,37.117688",
     "geom:latitude":37.117688,
     "geom:longitude":-113.597409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"543 N Bluff St",
     "sg:city":"St George",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404199861,
-    "wof:lastmodified":1449039144,
+    "wof:lastmodified":1467087364,
     "wof:name":"St George Motorcars",
     "wof:parent_id":85806465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sales"
     ]
 },
-  "bbox": [-113.597409,37.117688,-113.597409,37.117688],
+  "bbox": [
+    -113.597409,
+    37.117688,
+    -113.597409,
+    37.117688
+],
   "geometry": {"coordinates":[-113.597409,37.117688],"type":"Point"}
 }

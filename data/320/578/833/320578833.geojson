@@ -2,13 +2,14 @@
   "id": 320578833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.878994,40.91645,-111.878994,40.91645",
     "geom:latitude":40.91645,
     "geom:longitude":-111.878994,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 S Main St",
     "sg:city":"Centerville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320578833,
-    "wof:lastmodified":1449012201,
+    "wof:lastmodified":1467087359,
     "wof:name":"Huffaker Todd B DDS",
     "wof:parent_id":85842111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "oral"
     ]
 },
-  "bbox": [-111.878994,40.91645,-111.878994,40.91645],
-  "geometry": {"coordinates":[-111.878994,40.91645],"type":"Point"}
+  "bbox": [
+    -111.878994,
+    40.91645,
+    -111.878994,
+    40.91645
+],
+  "geometry": {"coordinates":[-111.87899400000001,40.91645],"type":"Point"}
 }

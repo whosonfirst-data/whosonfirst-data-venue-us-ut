@@ -2,13 +2,14 @@
   "id": 404218925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.004629,40.608428,-112.004629,40.608428",
     "geom:latitude":40.608428,
     "geom:longitude":-112.004629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7859 S Abercrombie Ln",
     "sg:city":"West Jordan",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404218925,
-    "wof:lastmodified":1449039892,
+    "wof:lastmodified":1467087365,
     "wof:name":"Primo Internet Services",
     "wof:parent_id":85813117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.004629,40.608428,-112.004629,40.608428],
-  "geometry": {"coordinates":[-112.004629,40.608428],"type":"Point"}
+  "bbox": [
+    -112.004629,
+    40.608428,
+    -112.004629,
+    40.608428
+],
+  "geometry": {"coordinates":[-112.00462899999999,40.608428],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320599181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.02561,41.225895,-112.02561,41.225895",
     "geom:latitude":41.225895,
     "geom:longitude":-112.02561,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2251 S 1900 W",
     "sg:city":"OGDEN",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320599181,
-    "wof:lastmodified":1449012990,
+    "wof:lastmodified":1467087360,
     "wof:name":"Elite Customs",
     "wof:parent_id":85818351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "repairing"
     ]
 },
-  "bbox": [-112.02561,41.225895,-112.02561,41.225895],
+  "bbox": [
+    -112.02561,
+    41.225895,
+    -112.02561,
+    41.225895
+],
   "geometry": {"coordinates":[-112.02561,41.225895],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320587081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.840104,40.422126,-111.840104,40.422126",
     "geom:latitude":40.422126,
     "geom:longitude":-111.840104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2695 N 600 E",
     "sg:city":"Lehi",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320587081,
-    "wof:lastmodified":1449012555,
+    "wof:lastmodified":1467087360,
     "wof:name":"Petersen Hydrologic",
     "wof:parent_id":85836317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-111.840104,40.422126,-111.840104,40.422126],
+  "bbox": [
+    -111.840104,
+    40.422126,
+    -111.840104,
+    40.422126
+],
   "geometry": {"coordinates":[-111.840104,40.422126],"type":"Point"}
 }

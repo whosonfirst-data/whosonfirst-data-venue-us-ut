@@ -2,13 +2,14 @@
   "id": 404205973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.298662,40.529781,-112.298662,40.529781",
     "geom:latitude":40.529781,
     "geom:longitude":-112.298662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 S Main St",
     "sg:city":"Tooele",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404205973,
-    "wof:lastmodified":1449039829,
+    "wof:lastmodified":1467087364,
     "wof:name":"Stansbury Psychological Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [-112.298662,40.529781,-112.298662,40.529781],
-  "geometry": {"coordinates":[-112.298662,40.529781],"type":"Point"}
+  "bbox": [
+    -112.298662,
+    40.529781,
+    -112.298662,
+    40.529781
+],
+  "geometry": {"coordinates":[-112.29866199999999,40.529781],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404204459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.841317,40.638724,-111.841317,40.638724",
     "geom:latitude":40.638724,
     "geom:longitude":-111.841317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1777 Carriage Park Cir",
     "sg:city":"Salt Lake City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404204459,
-    "wof:lastmodified":1449040348,
+    "wof:lastmodified":1467087366,
     "wof:name":"R&J Investment Properties LLC",
     "wof:parent_id":85821553,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-111.841317,40.638724,-111.841317,40.638724],
+  "bbox": [
+    -111.841317,
+    40.638724,
+    -111.841317,
+    40.638724
+],
   "geometry": {"coordinates":[-111.841317,40.638724],"type":"Point"}
 }

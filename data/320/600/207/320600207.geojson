@@ -2,13 +2,14 @@
   "id": 320600207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.987087,41.185024,-111.987087,41.185024",
     "geom:latitude":41.185024,
     "geom:longitude":-111.987087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4286 Riverdale Rd",
     "sg:city":"Ogden",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320600207,
-    "wof:lastmodified":1449011577,
+    "wof:lastmodified":1467087359,
     "wof:name":"Ruby River Steakhouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.987087,41.185024,-111.987087,41.185024],
+  "bbox": [
+    -111.987087,
+    41.185024,
+    -111.987087,
+    41.185024
+],
   "geometry": {"coordinates":[-111.987087,41.185024],"type":"Point"}
 }

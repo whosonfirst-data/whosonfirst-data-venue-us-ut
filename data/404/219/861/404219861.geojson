@@ -2,13 +2,14 @@
   "id": 404219861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.288812,37.164365,-113.288812,37.164365",
     "geom:latitude":37.164365,
     "geom:longitude":-113.288812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 W 810 S",
     "sg:city":"Hurricane",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404219861,
-    "wof:lastmodified":1449040276,
+    "wof:lastmodified":1467087366,
     "wof:name":"All Bugs Begone",
     "wof:parent_id":85824093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.288812,37.164365,-113.288812,37.164365],
-  "geometry": {"coordinates":[-113.288812,37.164365],"type":"Point"}
+  "bbox": [
+    -113.288812,
+    37.164365,
+    -113.288812,
+    37.164365
+],
+  "geometry": {"coordinates":[-113.28881199999999,37.164365],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404192861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.004236,41.092531,-112.004236,41.092531",
     "geom:latitude":41.092531,
     "geom:longitude":-112.004236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1499 State St",
     "sg:city":"Clearfield",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404192861,
-    "wof:lastmodified":1449039979,
+    "wof:lastmodified":1467087365,
     "wof:name":"Debbie's Groomette",
     "wof:parent_id":85830053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "washing"
     ]
 },
-  "bbox": [-112.004236,41.092531,-112.004236,41.092531],
-  "geometry": {"coordinates":[-112.004236,41.092531],"type":"Point"}
+  "bbox": [
+    -112.004236,
+    41.092531,
+    -112.004236,
+    41.092531
+],
+  "geometry": {"coordinates":[-112.00423600000001,41.092531],"type":"Point"}
 }

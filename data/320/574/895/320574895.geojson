@@ -2,13 +2,14 @@
   "id": 320574895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.892039,40.870197,-111.892039,40.870197",
     "geom:latitude":40.870197,
     "geom:longitude":-111.892039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1849 S 500 W",
     "sg:city":"Woods Cross",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320574895,
-    "wof:lastmodified":1449011239,
+    "wof:lastmodified":1467087358,
     "wof:name":"Mountain America Credit Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.892039,40.870197,-111.892039,40.870197],
+  "bbox": [
+    -111.892039,
+    40.870197,
+    -111.892039,
+    40.870197
+],
   "geometry": {"coordinates":[-111.892039,40.870197],"type":"Point"}
 }

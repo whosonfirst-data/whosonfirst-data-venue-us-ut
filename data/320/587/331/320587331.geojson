@@ -2,13 +2,14 @@
   "id": 320587331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.851767,40.3878,-111.851767,40.3878",
     "geom:latitude":40.3878,
     "geom:longitude":-111.851767,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"169 W Main St",
     "sg:city":"Lehi",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":320587331,
-    "wof:lastmodified":1449012555,
+    "wof:lastmodified":1467087360,
     "wof:name":"Hot Papas",
     "wof:parent_id":85858273,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "espresso"
     ]
 },
-  "bbox": [-111.851767,40.3878,-111.851767,40.3878],
+  "bbox": [
+    -111.851767,
+    40.3878,
+    -111.851767,
+    40.3878
+],
   "geometry": {"coordinates":[-111.851767,40.3878],"type":"Point"}
 }

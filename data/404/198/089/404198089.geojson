@@ -2,13 +2,14 @@
   "id": 404198089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.949538,41.230915,-111.949538,41.230915",
     "geom:latitude":41.230915,
     "geom:longitude":-111.949538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1108 20th St",
     "sg:city":"Ogden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404198089,
-    "wof:lastmodified":1449039458,
+    "wof:lastmodified":1467087364,
     "wof:name":"Utah School For Death",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "stone"
     ]
 },
-  "bbox": [-111.949538,41.230915,-111.949538,41.230915],
+  "bbox": [
+    -111.949538,
+    41.230915,
+    -111.949538,
+    41.230915
+],
   "geometry": {"coordinates":[-111.949538,41.230915],"type":"Point"}
 }

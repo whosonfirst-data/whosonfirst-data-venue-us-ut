@@ -2,13 +2,14 @@
   "id": 320571345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.878955,40.866104,-111.878955,40.866104",
     "geom:latitude":40.866104,
     "geom:longitude":-111.878955,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2193 Orchard Dr",
     "sg:city":"Bountiful",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320571345,
-    "wof:lastmodified":1449013826,
+    "wof:lastmodified":1467087362,
     "wof:name":"C22",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.878955,40.866104,-111.878955,40.866104],
+  "bbox": [
+    -111.878955,
+    40.866104,
+    -111.878955,
+    40.866104
+],
   "geometry": {"coordinates":[-111.878955,40.866104],"type":"Point"}
 }

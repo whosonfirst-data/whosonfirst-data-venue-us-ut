@@ -2,13 +2,14 @@
   "id": 320574795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.893997,40.8643,-111.893997,40.8643",
     "geom:latitude":40.8643,
     "geom:longitude":-111.893997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2380 S Main St",
     "sg:city":"Woods Cross",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":320574795,
-    "wof:lastmodified":1449011238,
+    "wof:lastmodified":1467087358,
     "wof:name":"Menlove Dodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-111.893997,40.8643,-111.893997,40.8643],
+  "bbox": [
+    -111.893997,
+    40.8643,
+    -111.893997,
+    40.8643
+],
   "geometry": {"coordinates":[-111.893997,40.8643],"type":"Point"}
 }

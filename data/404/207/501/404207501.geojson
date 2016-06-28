@@ -2,13 +2,14 @@
   "id": 404207501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.973761,40.359089,-111.973761,40.359089",
     "geom:latitude":40.359089,
     "geom:longitude":-111.973761,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7788 N Grant St",
     "sg:city":"Lehi",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404207501,
-    "wof:lastmodified":1449039968,
+    "wof:lastmodified":1467087365,
     "wof:name":"Renovation Basics",
     "wof:parent_id":85836317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-111.973761,40.359089,-111.973761,40.359089],
+  "bbox": [
+    -111.973761,
+    40.359089,
+    -111.973761,
+    40.359089
+],
   "geometry": {"coordinates":[-111.973761,40.359089],"type":"Point"}
 }

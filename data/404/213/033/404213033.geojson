@@ -2,13 +2,14 @@
   "id": 404213033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.576158,40.438008,-109.576158,40.438008",
     "geom:latitude":40.438008,
     "geom:longitude":-109.576158,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1185 S 2500 W",
     "sg:city":"Vernal",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404213033,
-    "wof:lastmodified":1449039097,
+    "wof:lastmodified":1467087363,
     "wof:name":"Travis Oldroyd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "oil"
     ]
 },
-  "bbox": [-109.576158,40.438008,-109.576158,40.438008],
-  "geometry": {"coordinates":[-109.576158,40.438008],"type":"Point"}
+  "bbox": [
+    -109.576158,
+    40.438008,
+    -109.576158,
+    40.438008
+],
+  "geometry": {"coordinates":[-109.57615800000001,40.438008],"type":"Point"}
 }

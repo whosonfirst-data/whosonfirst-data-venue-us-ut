@@ -2,13 +2,14 @@
   "id": 404214751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.894046,40.689126,-111.894046,40.689126",
     "geom:latitude":40.689126,
     "geom:longitude":-111.894046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3808 S West Temple St",
     "sg:city":"Salt Lake City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404214751,
-    "wof:lastmodified":1449040286,
+    "wof:lastmodified":1467087366,
     "wof:name":"Capitol City",
     "wof:parent_id":85810147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "truck"
     ]
 },
-  "bbox": [-111.894046,40.689126,-111.894046,40.689126],
+  "bbox": [
+    -111.894046,
+    40.689126,
+    -111.894046,
+    40.689126
+],
   "geometry": {"coordinates":[-111.894046,40.689126],"type":"Point"}
 }

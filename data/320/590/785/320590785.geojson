@@ -2,13 +2,14 @@
   "id": 320590785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.931999,40.8461,-111.931999,40.8461",
     "geom:latitude":40.8461,
     "geom:longitude":-111.931999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"790 Robinson Dr Ste 3",
     "sg:city":"North Salt Lake",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320590785,
-    "wof:lastmodified":1449013483,
+    "wof:lastmodified":1467087361,
     "wof:name":"Nutritional Life Line",
     "wof:parent_id":85857749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nutritionist"
     ]
 },
-  "bbox": [-111.931999,40.8461,-111.931999,40.8461],
+  "bbox": [
+    -111.931999,
+    40.8461,
+    -111.931999,
+    40.8461
+],
   "geometry": {"coordinates":[-111.931999,40.8461],"type":"Point"}
 }

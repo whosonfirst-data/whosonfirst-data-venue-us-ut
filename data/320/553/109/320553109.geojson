@@ -2,13 +2,14 @@
   "id": 320553109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.879997,40.8839,-111.879997,40.8839",
     "geom:latitude":40.8839,
     "geom:longitude":-111.879997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"505 S Main St",
     "sg:city":"Bountiful",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":320553109,
-    "wof:lastmodified":1449011283,
+    "wof:lastmodified":1467087358,
     "wof:name":"Mower Richard King PHD",
     "wof:parent_id":85807249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "mental"
     ]
 },
-  "bbox": [-111.879997,40.8839,-111.879997,40.8839],
+  "bbox": [
+    -111.879997,
+    40.8839,
+    -111.879997,
+    40.8839
+],
   "geometry": {"coordinates":[-111.879997,40.8839],"type":"Point"}
 }

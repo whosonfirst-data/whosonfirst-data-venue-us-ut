@@ -2,13 +2,14 @@
   "id": 404192491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.062437,37.677247,-113.062437,37.677247",
     "geom:latitude":37.677247,
     "geom:longitude":-113.062437,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"65 W Center St",
     "sg:city":"Cedar City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404192491,
-    "wof:lastmodified":1449039973,
+    "wof:lastmodified":1467087365,
     "wof:name":"Matt's Springs & Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "general"
     ]
 },
-  "bbox": [-113.062437,37.677247,-113.062437,37.677247],
+  "bbox": [
+    -113.062437,
+    37.677247,
+    -113.062437,
+    37.677247
+],
   "geometry": {"coordinates":[-113.062437,37.677247],"type":"Point"}
 }

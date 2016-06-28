@@ -2,13 +2,14 @@
   "id": 320590037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.929821,40.84841,-111.929821,40.84841",
     "geom:latitude":40.84841,
     "geom:longitude":-111.929821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"395 N Redwood Rd",
     "sg:city":"North Salt Lake",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320590037,
-    "wof:lastmodified":1449013483,
+    "wof:lastmodified":1467087361,
     "wof:name":"Kangaroo Zoo",
     "wof:parent_id":85857749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "event"
     ]
 },
-  "bbox": [-111.929821,40.84841,-111.929821,40.84841],
+  "bbox": [
+    -111.929821,
+    40.84841,
+    -111.929821,
+    40.84841
+],
   "geometry": {"coordinates":[-111.929821,40.84841],"type":"Point"}
 }

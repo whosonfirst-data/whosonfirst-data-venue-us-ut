@@ -2,13 +2,14 @@
   "id": 404191851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.938663,40.603859,-111.938663,40.603859",
     "geom:latitude":40.603859,
     "geom:longitude":-111.938663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8131 S Redwood Rd",
     "sg:city":"West Jordan",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404191851,
-    "wof:lastmodified":1449039839,
+    "wof:lastmodified":1467087365,
     "wof:name":"Speedway Emission & Inspection",
     "wof:parent_id":85817621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-111.938663,40.603859,-111.938663,40.603859],
-  "geometry": {"coordinates":[-111.938663,40.603859],"type":"Point"}
+  "bbox": [
+    -111.938663,
+    40.603859,
+    -111.938663,
+    40.603859
+],
+  "geometry": {"coordinates":[-111.93866300000001,40.603859],"type":"Point"}
 }

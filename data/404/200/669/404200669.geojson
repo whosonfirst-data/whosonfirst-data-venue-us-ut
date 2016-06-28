@@ -2,13 +2,14 @@
   "id": 404200669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.811581,41.810323,-111.811581,41.810323",
     "geom:latitude":41.810323,
     "geom:longitude":-111.811581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"208 E 570 N",
     "sg:city":"Hyde Park",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":404200669,
-    "wof:lastmodified":1449039511,
+    "wof:lastmodified":1467087364,
     "wof:name":"B W Discount Cars Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-111.811581,41.810323,-111.811581,41.810323],
+  "bbox": [
+    -111.811581,
+    41.810323,
+    -111.811581,
+    41.810323
+],
   "geometry": {"coordinates":[-111.811581,41.810323],"type":"Point"}
 }

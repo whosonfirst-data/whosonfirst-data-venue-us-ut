@@ -2,13 +2,14 @@
   "id": 404219163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.991044,41.085975,-111.991044,41.085975",
     "geom:latitude":41.085975,
     "geom:longitude":-111.991044,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1456 W 1750 N",
     "sg:city":"Layton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404219163,
-    "wof:lastmodified":1449040277,
+    "wof:lastmodified":1467087366,
     "wof:name":"North Bay Machinery Movers",
     "wof:parent_id":85830053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-111.991044,41.085975,-111.991044,41.085975],
+  "bbox": [
+    -111.991044,
+    41.085975,
+    -111.991044,
+    41.085975
+],
   "geometry": {"coordinates":[-111.991044,41.085975],"type":"Point"}
 }

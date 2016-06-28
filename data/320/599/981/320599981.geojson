@@ -2,13 +2,14 @@
   "id": 320599981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.985428,41.186595,-111.985428,41.186595",
     "geom:latitude":41.186595,
     "geom:longitude":-111.985428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4185 Riverdale Rd",
     "sg:city":"Ogden",
     "sg:classifiers":[
@@ -100,10 +101,11 @@
         }
     ],
     "wof:id":320599981,
-    "wof:lastmodified":1449012991,
+    "wof:lastmodified":1467087360,
     "wof:name":"JCPenney",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -124,6 +126,11 @@
         "decorator"
     ]
 },
-  "bbox": [-111.985428,41.186595,-111.985428,41.186595],
+  "bbox": [
+    -111.985428,
+    41.186595,
+    -111.985428,
+    41.186595
+],
   "geometry": {"coordinates":[-111.985428,41.186595],"type":"Point"}
 }

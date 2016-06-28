@@ -2,13 +2,14 @@
   "id": 320558095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.878998,40.888302,-111.878998,40.888302",
     "geom:latitude":40.888302,
     "geom:longitude":-111.878998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 E 100 S",
     "sg:city":"Bountiful",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320558095,
-    "wof:lastmodified":1449012273,
+    "wof:lastmodified":1467087360,
     "wof:name":"Landforms Development Inc",
     "wof:parent_id":85807249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.878998,40.888302,-111.878998,40.888302],
+  "bbox": [
+    -111.878998,
+    40.888302,
+    -111.878998,
+    40.888302
+],
   "geometry": {"coordinates":[-111.878998,40.888302],"type":"Point"}
 }

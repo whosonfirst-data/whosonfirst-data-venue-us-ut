@@ -2,13 +2,14 @@
   "id": 404192399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.483139,37.623876,-109.483139,37.623876",
     "geom:latitude":37.623876,
     "geom:longitude":-109.483139,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 W 100 S",
     "sg:city":"Blanding",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404192399,
-    "wof:lastmodified":1449039972,
+    "wof:lastmodified":1467087365,
     "wof:name":"Yoakam Contracting & Masonry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-109.483139,37.623876,-109.483139,37.623876],
-  "geometry": {"coordinates":[-109.483139,37.623876],"type":"Point"}
+  "bbox": [
+    -109.483139,
+    37.623876,
+    -109.483139,
+    37.623876
+],
+  "geometry": {"coordinates":[-109.48313899999999,37.623876],"type":"Point"}
 }

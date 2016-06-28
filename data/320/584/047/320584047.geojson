@@ -2,13 +2,14 @@
   "id": 320584047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.875277,40.52672,-111.875277,40.52672",
     "geom:latitude":40.52672,
     "geom:longitude":-111.875277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"568 E 12300 S",
     "sg:city":"Draper",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":320584047,
-    "wof:lastmodified":1449011651,
+    "wof:lastmodified":1467087359,
     "wof:name":"Richin's Car Service",
     "wof:parent_id":85815193,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "truck"
     ]
 },
-  "bbox": [-111.875277,40.52672,-111.875277,40.52672],
+  "bbox": [
+    -111.875277,
+    40.52672,
+    -111.875277,
+    40.52672
+],
   "geometry": {"coordinates":[-111.875277,40.52672],"type":"Point"}
 }

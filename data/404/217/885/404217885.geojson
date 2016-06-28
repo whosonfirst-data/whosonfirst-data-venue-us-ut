@@ -2,13 +2,14 @@
   "id": 404217885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.032708,41.3203,-112.032708,41.3203",
     "geom:latitude":41.3203,
     "geom:longitude":-112.032708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3221 N Higley Rd",
     "sg:city":"Ogden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404217885,
-    "wof:lastmodified":1449040267,
+    "wof:lastmodified":1467087366,
     "wof:name":"Scott A Esplin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contraction"
     ]
 },
-  "bbox": [-112.032708,41.3203,-112.032708,41.3203],
+  "bbox": [
+    -112.032708,
+    41.3203,
+    -112.032708,
+    41.3203
+],
   "geometry": {"coordinates":[-112.032708,41.3203],"type":"Point"}
 }

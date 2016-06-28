@@ -2,13 +2,14 @@
   "id": 404200603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.920184,40.65333,-111.920184,40.65333",
     "geom:latitude":40.65333,
     "geom:longitude":-111.920184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1035 Bellwood Ln",
     "sg:city":"Murray",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404200603,
-    "wof:lastmodified":1449039518,
+    "wof:lastmodified":1467087364,
     "wof:name":"Statewide Insurance",
     "wof:parent_id":85829683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.920184,40.65333,-111.920184,40.65333],
-  "geometry": {"coordinates":[-111.920184,40.65333],"type":"Point"}
+  "bbox": [
+    -111.920184,
+    40.65333,
+    -111.920184,
+    40.65333
+],
+  "geometry": {"coordinates":[-111.92018400000001,40.65333],"type":"Point"}
 }

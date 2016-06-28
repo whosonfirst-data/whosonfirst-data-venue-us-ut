@@ -2,13 +2,14 @@
   "id": 404206257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.874578,40.674087,-111.874578,40.674087",
     "geom:latitude":40.674087,
     "geom:longitude":-111.874578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4511 S 600 E",
     "sg:city":"Salt Lake City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404206257,
-    "wof:lastmodified":1449039948,
+    "wof:lastmodified":1467087365,
     "wof:name":"Jensen & Keddington",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-111.874578,40.674087,-111.874578,40.674087],
+  "bbox": [
+    -111.874578,
+    40.674087,
+    -111.874578,
+    40.674087
+],
   "geometry": {"coordinates":[-111.874578,40.674087],"type":"Point"}
 }

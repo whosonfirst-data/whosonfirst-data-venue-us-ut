@@ -2,13 +2,14 @@
   "id": 320593681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.075703,41.174711,-112.075703,41.174711",
     "geom:latitude":41.174711,
     "geom:longitude":-112.075703,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4860 S 3975 W",
     "sg:city":"Roy",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320593681,
-    "wof:lastmodified":1449013748,
+    "wof:lastmodified":1467087361,
     "wof:name":"Skinny Boys Bbq",
     "wof:parent_id":85804651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "barbecue"
     ]
 },
-  "bbox": [-112.075703,41.174711,-112.075703,41.174711],
+  "bbox": [
+    -112.075703,
+    41.174711,
+    -112.075703,
+    41.174711
+],
   "geometry": {"coordinates":[-112.075703,41.174711],"type":"Point"}
 }

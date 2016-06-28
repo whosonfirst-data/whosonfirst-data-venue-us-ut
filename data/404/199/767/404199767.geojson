@@ -2,13 +2,14 @@
   "id": 404199767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.786868,39.608616,-110.786868,39.608616",
     "geom:latitude":39.608616,
     "geom:longitude":-110.786868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1645 E Pinion Cir",
     "sg:city":"Price",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404199767,
-    "wof:lastmodified":1449039140,
+    "wof:lastmodified":1467087364,
     "wof:name":"Diamond Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plate"
     ]
 },
-  "bbox": [-110.786868,39.608616,-110.786868,39.608616],
+  "bbox": [
+    -110.786868,
+    39.608616,
+    -110.786868,
+    39.608616
+],
   "geometry": {"coordinates":[-110.786868,39.608616],"type":"Point"}
 }

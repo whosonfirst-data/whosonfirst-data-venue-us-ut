@@ -2,13 +2,14 @@
   "id": 320594749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.891645,40.588088,-111.891645,40.588088",
     "geom:latitude":40.588088,
     "geom:longitude":-111.891645,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 W 9000 S",
     "sg:city":"Sandy",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":320594749,
-    "wof:lastmodified":1449011792,
+    "wof:lastmodified":1467087359,
     "wof:name":"Sizzler - Steak & Seafood",
     "wof:parent_id":85803467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "steak"
     ]
 },
-  "bbox": [-111.891645,40.588088,-111.891645,40.588088],
+  "bbox": [
+    -111.891645,
+    40.588088,
+    -111.891645,
+    40.588088
+],
   "geometry": {"coordinates":[-111.891645,40.588088],"type":"Point"}
 }

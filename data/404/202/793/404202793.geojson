@@ -2,13 +2,14 @@
   "id": 404202793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.022688,40.752723,-112.022688,40.752723",
     "geom:latitude":40.752723,
     "geom:longitude":-112.022688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"721 S 5500 W",
     "sg:city":"Salt Lake City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404202793,
-    "wof:lastmodified":1449040169,
+    "wof:lastmodified":1467087366,
     "wof:name":"Scientific Landscape Services",
     "wof:parent_id":85851935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.022688,40.752723,-112.022688,40.752723],
+  "bbox": [
+    -112.022688,
+    40.752723,
+    -112.022688,
+    40.752723
+],
   "geometry": {"coordinates":[-112.022688,40.752723],"type":"Point"}
 }

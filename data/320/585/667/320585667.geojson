@@ -2,13 +2,14 @@
   "id": 320585667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.885002,40.982899,-111.885002,40.982899",
     "geom:latitude":40.982899,
     "geom:longitude":-111.885002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1817 N Main St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320585667,
-    "wof:lastmodified":1449013757,
+    "wof:lastmodified":1467087361,
     "wof:name":"Utah State University Horticultural Research Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "college"
     ]
 },
-  "bbox": [-111.885002,40.982899,-111.885002,40.982899],
+  "bbox": [
+    -111.885002,
+    40.982899,
+    -111.885002,
+    40.982899
+],
   "geometry": {"coordinates":[-111.885002,40.982899],"type":"Point"}
 }

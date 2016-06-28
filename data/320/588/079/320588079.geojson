@@ -2,13 +2,14 @@
   "id": 320588079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.88581,40.615912,-111.88581,40.615912",
     "geom:latitude":40.615912,
     "geom:longitude":-111.88581,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7455 Ramanee Dr",
     "sg:city":"Midvale",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320588079,
-    "wof:lastmodified":1449014230,
+    "wof:lastmodified":1467087362,
     "wof:name":"Kim Finnegan-Author",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "writer"
     ]
 },
-  "bbox": [-111.88581,40.615912,-111.88581,40.615912],
-  "geometry": {"coordinates":[-111.88581,40.615912],"type":"Point"}
+  "bbox": [
+    -111.88581,
+    40.615912,
+    -111.88581,
+    40.615912
+],
+  "geometry": {"coordinates":[-111.88581000000001,40.615912],"type":"Point"}
 }

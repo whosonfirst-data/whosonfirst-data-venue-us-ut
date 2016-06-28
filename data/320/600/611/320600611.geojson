@@ -2,13 +2,14 @@
   "id": 320600611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.641388,40.258951,-111.641388,40.258951",
     "geom:latitude":40.258951,
     "geom:longitude":-111.641388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Wymount Ter",
     "sg:city":"Provo",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":320600611,
-    "wof:lastmodified":1449011577,
+    "wof:lastmodified":1467087359,
     "wof:name":"Cast Glance Advanced Electro-Optics",
     "wof:parent_id":85842355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-111.641388,40.258951,-111.641388,40.258951],
-  "geometry": {"coordinates":[-111.641388,40.258951],"type":"Point"}
+  "bbox": [
+    -111.641388,
+    40.258951,
+    -111.641388,
+    40.258951
+],
+  "geometry": {"coordinates":[-111.64138800000001,40.258951],"type":"Point"}
 }

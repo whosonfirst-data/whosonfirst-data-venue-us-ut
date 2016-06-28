@@ -2,13 +2,14 @@
   "id": 404214095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.579544,39.352459,-112.579544,39.352459",
     "geom:latitude":39.352459,
     "geom:longitude":-112.579544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"284 W Main St",
     "sg:city":"Delta",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":404214095,
-    "wof:lastmodified":1449040290,
+    "wof:lastmodified":1467087366,
     "wof:name":"Community Careers Support Svcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "specialty"
     ]
 },
-  "bbox": [-112.579544,39.352459,-112.579544,39.352459],
+  "bbox": [
+    -112.579544,
+    39.352459,
+    -112.579544,
+    39.352459
+],
   "geometry": {"coordinates":[-112.579544,39.352459],"type":"Point"}
 }

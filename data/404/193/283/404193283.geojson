@@ -2,13 +2,14 @@
   "id": 404193283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.318114,40.53446,-112.318114,40.53446",
     "geom:latitude":40.53446,
     "geom:longitude":-112.318114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"840 W Utah Ave",
     "sg:city":"Tooele",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404193283,
-    "wof:lastmodified":1449039211,
+    "wof:lastmodified":1467087364,
     "wof:name":"Morgan Bail Bonds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bond"
     ]
 },
-  "bbox": [-112.318114,40.53446,-112.318114,40.53446],
-  "geometry": {"coordinates":[-112.318114,40.53446],"type":"Point"}
+  "bbox": [
+    -112.318114,
+    40.53446,
+    -112.318114,
+    40.53446
+],
+  "geometry": {"coordinates":[-112.31811399999999,40.53446],"type":"Point"}
 }

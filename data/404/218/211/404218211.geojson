@@ -2,13 +2,14 @@
   "id": 404218211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.962839,41.089099,-111.962839,41.089099",
     "geom:latitude":41.089099,
     "geom:longitude":-111.962839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"80 E 2000 N",
     "sg:city":"Layton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404218211,
-    "wof:lastmodified":1449039892,
+    "wof:lastmodified":1467087365,
     "wof:name":"Robert K Hall CFPCSA",
     "wof:parent_id":85830053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "financial"
     ]
 },
-  "bbox": [-111.962839,41.089099,-111.962839,41.089099],
+  "bbox": [
+    -111.962839,
+    41.089099,
+    -111.962839,
+    41.089099
+],
   "geometry": {"coordinates":[-111.962839,41.089099],"type":"Point"}
 }

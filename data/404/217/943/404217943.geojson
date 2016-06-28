@@ -2,13 +2,14 @@
   "id": 404217943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.710547,41.966416,-112.710547,41.966416",
     "geom:latitude":41.966416,
     "geom:longitude":-112.710547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 N Stone Rd",
     "sg:city":"Snowville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404217943,
-    "wof:lastmodified":1449040268,
+    "wof:lastmodified":1467087366,
     "wof:name":"Little Rock Country Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.710547,41.966416,-112.710547,41.966416],
-  "geometry": {"coordinates":[-112.710547,41.966416],"type":"Point"}
+  "bbox": [
+    -112.710547,
+    41.966416,
+    -112.710547,
+    41.966416
+],
+  "geometry": {"coordinates":[-112.71054700000001,41.966416],"type":"Point"}
 }

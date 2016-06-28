@@ -2,13 +2,14 @@
   "id": 320589803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.911895,40.860562,-111.911895,40.860562",
     "geom:latitude":40.860562,
     "geom:longitude":-111.911895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1055 N Main St Ste 1",
     "sg:city":"North Salt Lake",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":320589803,
-    "wof:lastmodified":1449013257,
+    "wof:lastmodified":1467087360,
     "wof:name":"Pioneer Self Storage & Business Park",
     "wof:parent_id":85857749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "self"
     ]
 },
-  "bbox": [-111.911895,40.860562,-111.911895,40.860562],
+  "bbox": [
+    -111.911895,
+    40.860562,
+    -111.911895,
+    40.860562
+],
   "geometry": {"coordinates":[-111.911895,40.860562],"type":"Point"}
 }

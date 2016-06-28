@@ -2,13 +2,14 @@
   "id": 404198213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.668296,37.296446,-113.668296,37.296446",
     "geom:latitude":37.296446,
     "geom:longitude":-113.668296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"450 N Meadow Dr",
     "sg:city":"Dammeron Valley",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404198213,
-    "wof:lastmodified":1449039456,
+    "wof:lastmodified":1467087364,
     "wof:name":"Lynn Twnsnd Hrsbck Rdng Lessns",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.668296,37.296446,-113.668296,37.296446],
+  "bbox": [
+    -113.668296,
+    37.296446,
+    -113.668296,
+    37.296446
+],
   "geometry": {"coordinates":[-113.668296,37.296446],"type":"Point"}
 }

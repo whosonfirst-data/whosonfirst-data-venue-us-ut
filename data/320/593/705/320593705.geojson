@@ -2,13 +2,14 @@
   "id": 320593705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.073279,41.158403,-112.073279,41.158403",
     "geom:latitude":41.158403,
     "geom:longitude":-112.073279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3813 W 5800 S",
     "sg:city":"Roy",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320593705,
-    "wof:lastmodified":1449013750,
+    "wof:lastmodified":1467087361,
     "wof:name":"Hope For A Better World",
     "wof:parent_id":85804651,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.073279,41.158403,-112.073279,41.158403],
+  "bbox": [
+    -112.073279,
+    41.158403,
+    -112.073279,
+    41.158403
+],
   "geometry": {"coordinates":[-112.073279,41.158403],"type":"Point"}
 }

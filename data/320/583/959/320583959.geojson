@@ -2,13 +2,14 @@
   "id": 320583959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.891353,40.541082,-111.891353,40.541082",
     "geom:latitude":40.541082,
     "geom:longitude":-111.891353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11613 S State St",
     "sg:city":"Draper",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":320583959,
-    "wof:lastmodified":1449014181,
+    "wof:lastmodified":1467087362,
     "wof:name":"Julian Todd Salon Inc",
     "wof:parent_id":85850585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.891353,40.541082,-111.891353,40.541082],
+  "bbox": [
+    -111.891353,
+    40.541082,
+    -111.891353,
+    40.541082
+],
   "geometry": {"coordinates":[-111.891353,40.541082],"type":"Point"}
 }

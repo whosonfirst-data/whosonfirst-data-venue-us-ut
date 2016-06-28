@@ -2,13 +2,14 @@
   "id": 320594785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.103066,41.09515,-112.103066,41.09515",
     "geom:latitude":41.09515,
     "geom:longitude":-112.103066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1276 S 4000 W",
     "sg:city":"Syracuse",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":320594785,
-    "wof:lastmodified":1449011792,
+    "wof:lastmodified":1467087359,
     "wof:name":"Palmer Pest Control",
     "wof:parent_id":85804563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.103066,41.09515,-112.103066,41.09515],
+  "bbox": [
+    -112.103066,
+    41.09515,
+    -112.103066,
+    41.09515
+],
   "geometry": {"coordinates":[-112.103066,41.09515],"type":"Point"}
 }

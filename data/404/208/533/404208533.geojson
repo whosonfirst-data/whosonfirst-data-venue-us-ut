@@ -2,13 +2,14 @@
   "id": 404208533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.092593,37.679091,-113.092593,37.679091",
     "geom:latitude":37.679091,
     "geom:longitude":-113.092593,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"152 N Cove Dr",
     "sg:city":"Cedar City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404208533,
-    "wof:lastmodified":1449039154,
+    "wof:lastmodified":1467087364,
     "wof:name":"Fine Line Cabinets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-113.092593,37.679091,-113.092593,37.679091],
-  "geometry": {"coordinates":[-113.092593,37.679091],"type":"Point"}
+  "bbox": [
+    -113.092593,
+    37.679091,
+    -113.092593,
+    37.679091
+],
+  "geometry": {"coordinates":[-113.09259299999999,37.679091],"type":"Point"}
 }

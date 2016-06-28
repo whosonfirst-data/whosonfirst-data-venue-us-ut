@@ -2,13 +2,14 @@
   "id": 404195745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.963594,39.328349,-110.963594,39.328349",
     "geom:latitude":39.328349,
     "geom:longitude":-110.963594,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"47 E 100 N",
     "sg:city":"Huntington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404195745,
-    "wof:lastmodified":1449039926,
+    "wof:lastmodified":1467087365,
     "wof:name":"Us Postal Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-110.963594,39.328349,-110.963594,39.328349],
+  "bbox": [
+    -110.963594,
+    39.328349,
+    -110.963594,
+    39.328349
+],
   "geometry": {"coordinates":[-110.963594,39.328349],"type":"Point"}
 }

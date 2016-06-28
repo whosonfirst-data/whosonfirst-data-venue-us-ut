@@ -2,13 +2,14 @@
   "id": 404216859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.976283,41.26257,-111.976283,41.26257",
     "geom:latitude":41.26257,
     "geom:longitude":-111.976283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"166 Southwell St",
     "sg:city":"Ogden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404216859,
-    "wof:lastmodified":1449040186,
+    "wof:lastmodified":1467087366,
     "wof:name":"Transportation Equipment Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "program"
     ]
 },
-  "bbox": [-111.976283,41.26257,-111.976283,41.26257],
+  "bbox": [
+    -111.976283,
+    41.26257,
+    -111.976283,
+    41.26257
+],
   "geometry": {"coordinates":[-111.976283,41.26257],"type":"Point"}
 }

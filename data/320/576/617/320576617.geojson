@@ -2,13 +2,14 @@
   "id": 320576617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.880997,40.891998,-111.880997,40.891998",
     "geom:latitude":40.891998,
     "geom:longitude":-111.880997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"246 N Main St",
     "sg:city":"Bountiful",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320576617,
-    "wof:lastmodified":1449014100,
+    "wof:lastmodified":1467087362,
     "wof:name":"Peay S Eugene Dentist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.880997,40.891998,-111.880997,40.891998],
-  "geometry": {"coordinates":[-111.880997,40.891998],"type":"Point"}
+  "bbox": [
+    -111.880997,
+    40.891998,
+    -111.880997,
+    40.891998
+],
+  "geometry": {"coordinates":[-111.88099699999999,40.891998],"type":"Point"}
 }

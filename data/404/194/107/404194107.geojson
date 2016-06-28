@@ -2,13 +2,14 @@
   "id": 404194107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.824251,40.668327,-111.824251,40.668327",
     "geom:latitude":40.668327,
     "geom:longitude":-111.824251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4667 Holladay Blvd",
     "sg:city":"Holladay",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404194107,
-    "wof:lastmodified":1449040140,
+    "wof:lastmodified":1467087365,
     "wof:name":"S T Avery Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-111.824251,40.668327,-111.824251,40.668327],
+  "bbox": [
+    -111.824251,
+    40.668327,
+    -111.824251,
+    40.668327
+],
   "geometry": {"coordinates":[-111.824251,40.668327],"type":"Point"}
 }

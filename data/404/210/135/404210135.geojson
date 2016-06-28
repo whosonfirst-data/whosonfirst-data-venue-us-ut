@@ -2,13 +2,14 @@
   "id": 404210135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.834244,40.620673,-111.834244,40.620673",
     "geom:latitude":40.620673,
     "geom:longitude":-111.834244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7015 S 2000 E",
     "sg:city":"Salt Lake City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404210135,
-    "wof:lastmodified":1449039419,
+    "wof:lastmodified":1467087364,
     "wof:name":"Sinclair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-111.834244,40.620673,-111.834244,40.620673],
+  "bbox": [
+    -111.834244,
+    40.620673,
+    -111.834244,
+    40.620673
+],
   "geometry": {"coordinates":[-111.834244,40.620673],"type":"Point"}
 }

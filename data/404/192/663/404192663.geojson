@@ -2,13 +2,14 @@
   "id": 404192663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.549368,40.432452,-109.549368,40.432452",
     "geom:latitude":40.432452,
     "geom:longitude":-109.549368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1117 W 1580 S",
     "sg:city":"Vernal",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404192663,
-    "wof:lastmodified":1449039978,
+    "wof:lastmodified":1467087365,
     "wof:name":"GCI Electrical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-109.549368,40.432452,-109.549368,40.432452],
+  "bbox": [
+    -109.549368,
+    40.432452,
+    -109.549368,
+    40.432452
+],
   "geometry": {"coordinates":[-109.549368,40.432452],"type":"Point"}
 }

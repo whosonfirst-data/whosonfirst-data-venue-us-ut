@@ -2,13 +2,14 @@
   "id": 404197427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.577018,39.346007,-112.577018,39.346007",
     "geom:latitude":39.346007,
     "geom:longitude":-112.577018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"313 S 100 W",
     "sg:city":"Delta",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404197427,
-    "wof:lastmodified":1449040170,
+    "wof:lastmodified":1467087366,
     "wof:name":"Mom's Crafts & Fabrics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-112.577018,39.346007,-112.577018,39.346007],
+  "bbox": [
+    -112.577018,
+    39.346007,
+    -112.577018,
+    39.346007
+],
   "geometry": {"coordinates":[-112.577018,39.346007],"type":"Point"}
 }

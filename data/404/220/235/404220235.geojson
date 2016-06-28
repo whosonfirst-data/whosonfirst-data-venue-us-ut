@@ -2,13 +2,14 @@
   "id": 404220235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.179844,41.674729,-112.179844,41.674729",
     "geom:latitude":41.674729,
     "geom:longitude":-112.179844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9595 N 6800 W",
     "sg:city":"Tremonton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404220235,
-    "wof:lastmodified":1449040281,
+    "wof:lastmodified":1467087366,
     "wof:name":"The Moriah Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.179844,41.674729,-112.179844,41.674729],
+  "bbox": [
+    -112.179844,
+    41.674729,
+    -112.179844,
+    41.674729
+],
   "geometry": {"coordinates":[-112.179844,41.674729],"type":"Point"}
 }

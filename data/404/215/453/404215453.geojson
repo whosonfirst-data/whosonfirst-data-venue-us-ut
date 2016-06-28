@@ -2,13 +2,14 @@
   "id": 404215453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.848876,40.73526,-111.848876,40.73526",
     "geom:latitude":40.73526,
     "geom:longitude":-111.848876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1434 Bryan Ave",
     "sg:city":"Salt Lake City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404215453,
-    "wof:lastmodified":1449040091,
+    "wof:lastmodified":1467087365,
     "wof:name":"Brady Donley Photography",
     "wof:parent_id":85857419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-111.848876,40.73526,-111.848876,40.73526],
+  "bbox": [
+    -111.848876,
+    40.73526,
+    -111.848876,
+    40.73526
+],
   "geometry": {"coordinates":[-111.848876,40.73526],"type":"Point"}
 }

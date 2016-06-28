@@ -2,13 +2,14 @@
   "id": 320599311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.971012,41.197598,-111.971012,41.197598",
     "geom:latitude":41.197598,
     "geom:longitude":-111.971012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3611 Washington Blvd",
     "sg:city":"Ogden",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":320599311,
-    "wof:lastmodified":1449012988,
+    "wof:lastmodified":1467087360,
     "wof:name":"Iron Horse",
     "wof:parent_id":85810865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "night"
     ]
 },
-  "bbox": [-111.971012,41.197598,-111.971012,41.197598],
+  "bbox": [
+    -111.971012,
+    41.197598,
+    -111.971012,
+    41.197598
+],
   "geometry": {"coordinates":[-111.971012,41.197598],"type":"Point"}
 }

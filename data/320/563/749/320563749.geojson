@@ -2,13 +2,14 @@
   "id": 320563749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.891998,40.897099,-111.891998,40.897099",
     "geom:latitude":40.897099,
     "geom:longitude":-111.891998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 N 500 W",
     "sg:city":"Bountiful",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320563749,
-    "wof:lastmodified":1449011312,
+    "wof:lastmodified":1467087358,
     "wof:name":"Republic Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.891998,40.897099,-111.891998,40.897099],
+  "bbox": [
+    -111.891998,
+    40.897099,
+    -111.891998,
+    40.897099
+],
   "geometry": {"coordinates":[-111.891998,40.897099],"type":"Point"}
 }

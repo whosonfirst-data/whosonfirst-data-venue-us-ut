@@ -2,13 +2,14 @@
   "id": 320579971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.899002,40.916302,-111.899002,40.916302",
     "geom:latitude":40.916302,
     "geom:longitude":-111.899002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1367 W 50 S",
     "sg:city":"Centerville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320579971,
-    "wof:lastmodified":1449012461,
+    "wof:lastmodified":1467087360,
     "wof:name":"Columbia Termite & Pest Control Co",
     "wof:parent_id":85850499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.899002,40.916302,-111.899002,40.916302],
+  "bbox": [
+    -111.899002,
+    40.916302,
+    -111.899002,
+    40.916302
+],
   "geometry": {"coordinates":[-111.899002,40.916302],"type":"Point"}
 }

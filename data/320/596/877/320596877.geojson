@@ -2,13 +2,14 @@
   "id": 320596877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.876604,40.922484,-111.876604,40.922484",
     "geom:latitude":40.922484,
     "geom:longitude":-111.876604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 N 500 West",
     "sg:city":"West Bountiful",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320596877,
-    "wof:lastmodified":1449013169,
+    "wof:lastmodified":1467087360,
     "wof:name":"Chipotle Mexican Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-111.876604,40.922484,-111.876604,40.922484],
+  "bbox": [
+    -111.876604,
+    40.922484,
+    -111.876604,
+    40.922484
+],
   "geometry": {"coordinates":[-111.876604,40.922484],"type":"Point"}
 }

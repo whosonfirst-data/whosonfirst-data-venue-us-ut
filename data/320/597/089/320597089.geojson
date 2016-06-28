@@ -2,13 +2,14 @@
   "id": 320597089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.910004,40.879002,-111.910004,40.879002",
     "geom:latitude":40.879002,
     "geom:longitude":-111.910004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"190 S 500",
     "sg:city":"Woods Cross",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":320597089,
-    "wof:lastmodified":1449014914,
+    "wof:lastmodified":1467087363,
     "wof:name":"Shopko Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drugstore"
     ]
 },
-  "bbox": [-111.910004,40.879002,-111.910004,40.879002],
+  "bbox": [
+    -111.910004,
+    40.879002,
+    -111.910004,
+    40.879002
+],
   "geometry": {"coordinates":[-111.910004,40.879002],"type":"Point"}
 }

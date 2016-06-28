@@ -2,13 +2,14 @@
   "id": 404214125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.554776,37.118687,-113.554776,37.118687",
     "geom:latitude":37.118687,
     "geom:longitude":-113.554776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"535 N 1400 E",
     "sg:city":"St George",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404214125,
-    "wof:lastmodified":1449040295,
+    "wof:lastmodified":1467087366,
     "wof:name":"Sunshine Heating & Air Cond",
     "wof:parent_id":85806465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-113.554776,37.118687,-113.554776,37.118687],
+  "bbox": [
+    -113.554776,
+    37.118687,
+    -113.554776,
+    37.118687
+],
   "geometry": {"coordinates":[-113.554776,37.118687],"type":"Point"}
 }

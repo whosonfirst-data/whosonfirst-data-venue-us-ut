@@ -2,13 +2,14 @@
   "id": 404209581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.895435,40.763834,-111.895435,40.763834",
     "geom:latitude":40.763834,
     "geom:longitude":-111.895435,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"157 Pierpont Ave",
     "sg:city":"Salt Lake City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404209581,
-    "wof:lastmodified":1449040196,
+    "wof:lastmodified":1467087366,
     "wof:name":"Emery Energy Company LLC",
     "wof:parent_id":85811165,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "developer"
     ]
 },
-  "bbox": [-111.895435,40.763834,-111.895435,40.763834],
-  "geometry": {"coordinates":[-111.895435,40.763834],"type":"Point"}
+  "bbox": [
+    -111.895435,
+    40.763834,
+    -111.895435,
+    40.763834
+],
+  "geometry": {"coordinates":[-111.89543500000001,40.763834],"type":"Point"}
 }

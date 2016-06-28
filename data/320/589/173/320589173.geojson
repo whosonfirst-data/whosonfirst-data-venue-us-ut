@@ -2,13 +2,14 @@
   "id": 320589173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.861395,40.623856,-111.861395,40.623856",
     "geom:latitude":40.623856,
     "geom:longitude":-111.861395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1042 Fort Union Blvd",
     "sg:city":"Midvale",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320589173,
-    "wof:lastmodified":1449013253,
+    "wof:lastmodified":1467087360,
     "wof:name":"Family History Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "technology-research"
     ]
 },
-  "bbox": [-111.861395,40.623856,-111.861395,40.623856],
+  "bbox": [
+    -111.861395,
+    40.623856,
+    -111.861395,
+    40.623856
+],
   "geometry": {"coordinates":[-111.861395,40.623856],"type":"Point"}
 }

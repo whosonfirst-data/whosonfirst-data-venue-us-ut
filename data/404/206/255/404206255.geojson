@@ -2,13 +2,14 @@
   "id": 404206255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.956514,41.303551,-111.956514,41.303551",
     "geom:latitude":41.303551,
     "geom:longitude":-111.956514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2484 N 750 E",
     "sg:city":"Ogden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404206255,
-    "wof:lastmodified":1449039949,
+    "wof:lastmodified":1467087365,
     "wof:name":"Wild Life",
     "wof:parent_id":85824645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-111.956514,41.303551,-111.956514,41.303551],
+  "bbox": [
+    -111.956514,
+    41.303551,
+    -111.956514,
+    41.303551
+],
   "geometry": {"coordinates":[-111.956514,41.303551],"type":"Point"}
 }

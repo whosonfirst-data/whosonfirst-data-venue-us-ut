@@ -2,13 +2,14 @@
   "id": 404208545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.9138,41.026054,-111.9138,41.026054",
     "geom:latitude":41.026054,
     "geom:longitude":-111.9138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1204 E Nicholls Rd",
     "sg:city":"Kaysville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404208545,
-    "wof:lastmodified":1449039155,
+    "wof:lastmodified":1467087364,
     "wof:name":"Emergency Nurses Association",
     "wof:parent_id":85818977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.9138,41.026054,-111.9138,41.026054],
-  "geometry": {"coordinates":[-111.9138,41.026054],"type":"Point"}
+  "bbox": [
+    -111.9138,
+    41.026054,
+    -111.9138,
+    41.026054
+],
+  "geometry": {"coordinates":[-111.91379999999999,41.026054],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404207907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.829408,40.667108,-111.829408,40.667108",
     "geom:latitude":40.667108,
     "geom:longitude":-111.829408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4636 Hugo Ave",
     "sg:city":"Salt Lake City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404207907,
-    "wof:lastmodified":1449039969,
+    "wof:lastmodified":1467087365,
     "wof:name":"Burton Landscape & Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-111.829408,40.667108,-111.829408,40.667108],
+  "bbox": [
+    -111.829408,
+    40.667108,
+    -111.829408,
+    40.667108
+],
   "geometry": {"coordinates":[-111.829408,40.667108],"type":"Point"}
 }

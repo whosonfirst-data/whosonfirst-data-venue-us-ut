@@ -2,13 +2,14 @@
   "id": 404210433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.906293,40.579653,-111.906293,40.579653",
     "geom:latitude":40.579653,
     "geom:longitude":-111.906293,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"560 W 9460 S",
     "sg:city":"Sandy",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404210433,
-    "wof:lastmodified":1449039418,
+    "wof:lastmodified":1467087364,
     "wof:name":"Brazilian Jiu Jutsu",
     "wof:parent_id":85818097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.906293,40.579653,-111.906293,40.579653],
-  "geometry": {"coordinates":[-111.906293,40.579653],"type":"Point"}
+  "bbox": [
+    -111.906293,
+    40.579653,
+    -111.906293,
+    40.579653
+],
+  "geometry": {"coordinates":[-111.90629300000001,40.579653],"type":"Point"}
 }

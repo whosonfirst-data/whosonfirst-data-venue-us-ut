@@ -2,13 +2,14 @@
   "id": 404217185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.005521,40.62527,-112.005521,40.62527",
     "geom:latitude":40.62527,
     "geom:longitude":-112.005521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6925 S 4800 W",
     "sg:city":"West Jordan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404217185,
-    "wof:lastmodified":1449040265,
+    "wof:lastmodified":1467087366,
     "wof:name":"Tuscany Townhomes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.005521,40.62527,-112.005521,40.62527],
+  "bbox": [
+    -112.005521,
+    40.62527,
+    -112.005521,
+    40.62527
+],
   "geometry": {"coordinates":[-112.005521,40.62527],"type":"Point"}
 }

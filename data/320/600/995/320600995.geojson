@@ -2,13 +2,14 @@
   "id": 320600995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.337769,37.175148,-113.337769,37.175148",
     "geom:latitude":37.175148,
     "geom:longitude":-113.337769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 S 2600 W Suite 6",
     "sg:city":"Hurricane",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":320600995,
-    "wof:lastmodified":1449011578,
+    "wof:lastmodified":1467087359,
     "wof:name":"Law Offices of Stephen K. Harris, P.C.",
     "wof:parent_id":85824093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "administrative"
     ]
 },
-  "bbox": [-113.337769,37.175148,-113.337769,37.175148],
-  "geometry": {"coordinates":[-113.337769,37.175148],"type":"Point"}
+  "bbox": [
+    -113.337769,
+    37.175148,
+    -113.337769,
+    37.175148
+],
+  "geometry": {"coordinates":[-113.33776899999999,37.175148],"type":"Point"}
 }

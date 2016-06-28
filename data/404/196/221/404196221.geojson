@@ -2,13 +2,14 @@
   "id": 404196221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.019622,41.107526,-112.019622,41.107526",
     "geom:latitude":41.107526,
     "geom:longitude":-112.019622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"397 State St",
     "sg:city":"Clearfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404196221,
-    "wof:lastmodified":1449039320,
+    "wof:lastmodified":1467087364,
     "wof:name":"BCM Logistics",
     "wof:parent_id":85851583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "trucking"
     ]
 },
-  "bbox": [-112.019622,41.107526,-112.019622,41.107526],
+  "bbox": [
+    -112.019622,
+    41.107526,
+    -112.019622,
+    41.107526
+],
   "geometry": {"coordinates":[-112.019622,41.107526],"type":"Point"}
 }

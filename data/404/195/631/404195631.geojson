@@ -2,13 +2,14 @@
   "id": 404195631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.860498,40.62518,-111.860498,40.62518",
     "geom:latitude":40.62518,
     "geom:longitude":-111.860498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6975 Union Park Center",
     "sg:city":"Midvale",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":404195631,
-    "wof:lastmodified":1449039925,
+    "wof:lastmodified":1467087365,
     "wof:name":"Applied Financial LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "finance"
     ]
 },
-  "bbox": [-111.860498,40.62518,-111.860498,40.62518],
-  "geometry": {"coordinates":[-111.860498,40.62518],"type":"Point"}
+  "bbox": [
+    -111.860498,
+    40.62518,
+    -111.860498,
+    40.62518
+],
+  "geometry": {"coordinates":[-111.86049800000001,40.62518],"type":"Point"}
 }

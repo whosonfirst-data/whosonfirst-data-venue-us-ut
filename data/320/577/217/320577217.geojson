@@ -2,13 +2,14 @@
   "id": 320577217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.876432,40.92648,-111.876432,40.92648",
     "geom:latitude":40.92648,
     "geom:longitude":-111.876432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"836 Bonita Wy",
     "sg:city":"Centerville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320577217,
-    "wof:lastmodified":1449015076,
+    "wof:lastmodified":1467087363,
     "wof:name":"Inspect-It 1st Property Inspection",
     "wof:parent_id":85809721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "inspector"
     ]
 },
-  "bbox": [-111.876432,40.92648,-111.876432,40.92648],
-  "geometry": {"coordinates":[-111.876432,40.92648],"type":"Point"}
+  "bbox": [
+    -111.876432,
+    40.92648,
+    -111.876432,
+    40.92648
+],
+  "geometry": {"coordinates":[-111.87643199999999,40.92648],"type":"Point"}
 }

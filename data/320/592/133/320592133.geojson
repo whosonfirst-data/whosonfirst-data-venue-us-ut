@@ -2,13 +2,14 @@
   "id": 320592133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.919998,40.851299,-111.919998,40.851299",
     "geom:latitude":40.851299,
     "geom:longitude":-111.919998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"526 N 400 W",
     "sg:city":"North Salt Lake",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":320592133,
-    "wof:lastmodified":1449013405,
+    "wof:lastmodified":1467087361,
     "wof:name":"Symphony Homes",
     "wof:parent_id":85857749,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-111.919998,40.851299,-111.919998,40.851299],
-  "geometry": {"coordinates":[-111.919998,40.851299],"type":"Point"}
+  "bbox": [
+    -111.919998,
+    40.851299,
+    -111.919998,
+    40.851299
+],
+  "geometry": {"coordinates":[-111.91999800000001,40.851299],"type":"Point"}
 }

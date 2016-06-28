@@ -2,13 +2,14 @@
   "id": 404204513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.938993,40.745968,-111.938993,40.745968",
     "geom:latitude":40.745968,
     "geom:longitude":-111.938993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"910 S Redwood Rd",
     "sg:city":"Salt Lake City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404204513,
-    "wof:lastmodified":1449040347,
+    "wof:lastmodified":1467087366,
     "wof:name":"Carstar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-111.938993,40.745968,-111.938993,40.745968],
+  "bbox": [
+    -111.938993,
+    40.745968,
+    -111.938993,
+    40.745968
+],
   "geometry": {"coordinates":[-111.938993,40.745968],"type":"Point"}
 }

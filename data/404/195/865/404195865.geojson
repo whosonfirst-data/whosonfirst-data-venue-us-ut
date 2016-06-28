@@ -2,13 +2,14 @@
   "id": 404195865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.513737,38.538752,-109.513737,38.538752",
     "geom:latitude":38.538752,
     "geom:longitude":-109.513737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2295 S Hwy 191",
     "sg:city":"Moab",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404195865,
-    "wof:lastmodified":1449039926,
+    "wof:lastmodified":1467087365,
     "wof:name":"Bobs Sanitation Transfer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.513737,38.538752,-109.513737,38.538752],
-  "geometry": {"coordinates":[-109.513737,38.538752],"type":"Point"}
+  "bbox": [
+    -109.513737,
+    38.538752,
+    -109.513737,
+    38.538752
+],
+  "geometry": {"coordinates":[-109.51373700000001,38.538752],"type":"Point"}
 }

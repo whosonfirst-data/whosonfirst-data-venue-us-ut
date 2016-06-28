@@ -2,13 +2,14 @@
   "id": 320593295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.691383,40.262949,-111.691383,40.262949",
     "geom:latitude":40.262949,
     "geom:longitude":-111.691383,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1850 S 140 E",
     "sg:city":"Orem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320593295,
-    "wof:lastmodified":1449013748,
+    "wof:lastmodified":1467087361,
     "wof:name":"Marriott Development Co",
     "wof:parent_id":85880081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lodging"
     ]
 },
-  "bbox": [-111.691383,40.262949,-111.691383,40.262949],
+  "bbox": [
+    -111.691383,
+    40.262949,
+    -111.691383,
+    40.262949
+],
   "geometry": {"coordinates":[-111.691383,40.262949],"type":"Point"}
 }

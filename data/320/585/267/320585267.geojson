@@ -2,13 +2,14 @@
   "id": 320585267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.908294,41.002527,-111.908294,41.002527",
     "geom:latitude":41.002527,
     "geom:longitude":-111.908294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1466 N Highway 89",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":320585267,
-    "wof:lastmodified":1449013758,
+    "wof:lastmodified":1467087361,
     "wof:name":"LDS Family Services of Farmington, UT",
     "wof:parent_id":85818977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "counseling"
     ]
 },
-  "bbox": [-111.908294,41.002527,-111.908294,41.002527],
+  "bbox": [
+    -111.908294,
+    41.002527,
+    -111.908294,
+    41.002527
+],
   "geometry": {"coordinates":[-111.908294,41.002527],"type":"Point"}
 }

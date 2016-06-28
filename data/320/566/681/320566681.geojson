@@ -2,13 +2,14 @@
   "id": 320566681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.870003,40.887402,-111.870003,40.887402",
     "geom:latitude":40.887402,
     "geom:longitude":-111.870003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"535 Medical Dr",
     "sg:city":"Bountiful",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320566681,
-    "wof:lastmodified":1449011336,
+    "wof:lastmodified":1467087359,
     "wof:name":"Taylor Colleen P Pediatric Dentistry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pediatric"
     ]
 },
-  "bbox": [-111.870003,40.887402,-111.870003,40.887402],
+  "bbox": [
+    -111.870003,
+    40.887402,
+    -111.870003,
+    40.887402
+],
   "geometry": {"coordinates":[-111.870003,40.887402],"type":"Point"}
 }

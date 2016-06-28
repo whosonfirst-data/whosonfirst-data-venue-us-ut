@@ -2,13 +2,14 @@
   "id": 404196389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.552685,38.573468,-109.552685,38.573468",
     "geom:latitude":38.573468,
     "geom:longitude":-109.552685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 S 100 W",
     "sg:city":"Moab",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404196389,
-    "wof:lastmodified":1449039325,
+    "wof:lastmodified":1467087364,
     "wof:name":"Rio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "eating"
     ]
 },
-  "bbox": [-109.552685,38.573468,-109.552685,38.573468],
+  "bbox": [
+    -109.552685,
+    38.573468,
+    -109.552685,
+    38.573468
+],
   "geometry": {"coordinates":[-109.552685,38.573468],"type":"Point"}
 }

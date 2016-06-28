@@ -2,13 +2,14 @@
   "id": 404208453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.545588,40.45405,-109.545588,40.45405",
     "geom:latitude":40.45405,
     "geom:longitude":-109.545588,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"910 W Hwy 40",
     "sg:city":"Vernal",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404208453,
-    "wof:lastmodified":1449039156,
+    "wof:lastmodified":1467087364,
     "wof:name":"7-Eleven",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-109.545588,40.45405,-109.545588,40.45405],
+  "bbox": [
+    -109.545588,
+    40.45405,
+    -109.545588,
+    40.45405
+],
   "geometry": {"coordinates":[-109.545588,40.45405],"type":"Point"}
 }

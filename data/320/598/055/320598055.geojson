@@ -2,13 +2,14 @@
   "id": 320598055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.015022,40.503111,-112.015022,40.503111",
     "geom:latitude":40.503111,
     "geom:longitude":-112.015022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5179 Pearl Crescent Ln",
     "sg:city":"Riverton",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":320598055,
-    "wof:lastmodified":1449011445,
+    "wof:lastmodified":1467087359,
     "wof:name":"Discount Tree Service",
     "wof:parent_id":85819751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.015022,40.503111,-112.015022,40.503111],
+  "bbox": [
+    -112.015022,
+    40.503111,
+    -112.015022,
+    40.503111
+],
   "geometry": {"coordinates":[-112.015022,40.503111],"type":"Point"}
 }

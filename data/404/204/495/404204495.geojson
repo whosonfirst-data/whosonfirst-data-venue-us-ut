@@ -2,13 +2,14 @@
   "id": 404204495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.852045,40.695985,-111.852045,40.695985",
     "geom:latitude":40.695985,
     "geom:longitude":-111.852045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1393 E Luck Spring Dr",
     "sg:city":"Salt Lake City",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":404204495,
-    "wof:lastmodified":1449040347,
+    "wof:lastmodified":1467087366,
     "wof:name":"New Paradigm Productions Inc",
     "wof:parent_id":85832079,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "tape"
     ]
 },
-  "bbox": [-111.852045,40.695985,-111.852045,40.695985],
+  "bbox": [
+    -111.852045,
+    40.695985,
+    -111.852045,
+    40.695985
+],
   "geometry": {"coordinates":[-111.852045,40.695985],"type":"Point"}
 }

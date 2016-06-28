@@ -2,13 +2,14 @@
   "id": 404199687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.668135,40.251637,-111.668135,40.251637",
     "geom:latitude":40.251637,
     "geom:longitude":-111.668135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1245 N State St",
     "sg:city":"Provo",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404199687,
-    "wof:lastmodified":1449039140,
+    "wof:lastmodified":1467087364,
     "wof:name":"Rosenthal Service",
     "wof:parent_id":85880107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "foreign"
     ]
 },
-  "bbox": [-111.668135,40.251637,-111.668135,40.251637],
-  "geometry": {"coordinates":[-111.668135,40.251637],"type":"Point"}
+  "bbox": [
+    -111.668135,
+    40.251637,
+    -111.668135,
+    40.251637
+],
+  "geometry": {"coordinates":[-111.66813500000001,40.251637],"type":"Point"}
 }

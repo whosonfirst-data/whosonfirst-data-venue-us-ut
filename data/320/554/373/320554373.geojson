@@ -2,13 +2,14 @@
   "id": 320554373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.878998,40.904999,-111.878998,40.904999",
     "geom:latitude":40.904999,
     "geom:longitude":-111.878998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1470 N Main St",
     "sg:city":"Bountiful",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320554373,
-    "wof:lastmodified":1449012030,
+    "wof:lastmodified":1467087359,
     "wof:name":"Sandberg Jerry L Psychologist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mental"
     ]
 },
-  "bbox": [-111.878998,40.904999,-111.878998,40.904999],
+  "bbox": [
+    -111.878998,
+    40.904999,
+    -111.878998,
+    40.904999
+],
   "geometry": {"coordinates":[-111.878998,40.904999],"type":"Point"}
 }

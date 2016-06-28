@@ -2,13 +2,14 @@
   "id": 320563207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.893406,40.884225,-111.893406,40.884225",
     "geom:latitude":40.884225,
     "geom:longitude":-111.893406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"563 W 500 S Ste 240",
     "sg:city":"Bountiful",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320563207,
-    "wof:lastmodified":1449011312,
+    "wof:lastmodified":1467087358,
     "wof:name":"Burningham Law Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.893406,40.884225,-111.893406,40.884225],
+  "bbox": [
+    -111.893406,
+    40.884225,
+    -111.893406,
+    40.884225
+],
   "geometry": {"coordinates":[-111.893406,40.884225],"type":"Point"}
 }

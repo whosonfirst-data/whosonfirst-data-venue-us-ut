@@ -2,13 +2,14 @@
   "id": 320592729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.702925,40.315191,-111.702925,40.315191",
     "geom:latitude":40.315191,
     "geom:longitude":-111.702925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"963 N State St",
     "sg:city":"Orem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320592729,
-    "wof:lastmodified":1449013404,
+    "wof:lastmodified":1467087361,
     "wof:name":"L and L Motel",
     "wof:parent_id":85839761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lodging"
     ]
 },
-  "bbox": [-111.702925,40.315191,-111.702925,40.315191],
-  "geometry": {"coordinates":[-111.702925,40.315191],"type":"Point"}
+  "bbox": [
+    -111.702925,
+    40.315191,
+    -111.702925,
+    40.315191
+],
+  "geometry": {"coordinates":[-111.70292499999999,40.315191],"type":"Point"}
 }

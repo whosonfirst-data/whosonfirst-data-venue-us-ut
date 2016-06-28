@@ -2,13 +2,14 @@
   "id": 320578679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.878998,40.915901,-111.878998,40.915901",
     "geom:latitude":40.915901,
     "geom:longitude":-111.878998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 S Main St",
     "sg:city":"Centerville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320578679,
-    "wof:lastmodified":1449012202,
+    "wof:lastmodified":1467087360,
     "wof:name":"Pizza Perfect Italian Restaurant & Delivery",
     "wof:parent_id":85842111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"
     ]
 },
-  "bbox": [-111.878998,40.915901,-111.878998,40.915901],
+  "bbox": [
+    -111.878998,
+    40.915901,
+    -111.878998,
+    40.915901
+],
   "geometry": {"coordinates":[-111.878998,40.915901],"type":"Point"}
 }

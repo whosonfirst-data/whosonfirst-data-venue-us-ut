@@ -2,13 +2,14 @@
   "id": 404201319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.019134,40.633158,-112.019134,40.633158",
     "geom:latitude":40.633158,
     "geom:longitude":-112.019134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6499 S Daffodil Way",
     "sg:city":"West Jordan",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404201319,
-    "wof:lastmodified":1449040160,
+    "wof:lastmodified":1467087365,
     "wof:name":"New Tech Software",
     "wof:parent_id":85840625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "custom"
     ]
 },
-  "bbox": [-112.019134,40.633158,-112.019134,40.633158],
-  "geometry": {"coordinates":[-112.019134,40.633158],"type":"Point"}
+  "bbox": [
+    -112.019134,
+    40.633158,
+    -112.019134,
+    40.633158
+],
+  "geometry": {"coordinates":[-112.01913399999999,40.633158],"type":"Point"}
 }

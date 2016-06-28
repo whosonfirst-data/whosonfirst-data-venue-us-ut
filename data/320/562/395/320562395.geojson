@@ -2,13 +2,14 @@
   "id": 320562395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.892175,40.893275,-111.892175,40.893275",
     "geom:latitude":40.893275,
     "geom:longitude":-111.892175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"390 N 500 W",
     "sg:city":"Bountiful",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":320562395,
-    "wof:lastmodified":1449013241,
+    "wof:lastmodified":1467087360,
     "wof:name":"Graywhale CD Exchange",
     "wof:parent_id":85854881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dvd's"
     ]
 },
-  "bbox": [-111.892175,40.893275,-111.892175,40.893275],
-  "geometry": {"coordinates":[-111.892175,40.893275],"type":"Point"}
+  "bbox": [
+    -111.892175,
+    40.893275,
+    -111.892175,
+    40.893275
+],
+  "geometry": {"coordinates":[-111.89217499999999,40.893275],"type":"Point"}
 }

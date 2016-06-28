@@ -2,13 +2,14 @@
   "id": 404198339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.648299,38.274879,-112.648299,38.274879",
     "geom:latitude":38.274879,
     "geom:longitude":-112.648299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"55 N 400 West St",
     "sg:city":"Beaver",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404198339,
-    "wof:lastmodified":1449039458,
+    "wof:lastmodified":1467087364,
     "wof:name":"Hal D Murdock DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-112.648299,38.274879,-112.648299,38.274879],
-  "geometry": {"coordinates":[-112.648299,38.274879],"type":"Point"}
+  "bbox": [
+    -112.648299,
+    38.274879,
+    -112.648299,
+    38.274879
+],
+  "geometry": {"coordinates":[-112.64829899999999,38.274879],"type":"Point"}
 }

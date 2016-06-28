@@ -2,13 +2,14 @@
   "id": 404205177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.623559,37.203953,-113.623559,37.203953",
     "geom:latitude":37.203953,
     "geom:longitude":-113.623559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5475 N 1870 W",
     "sg:city":"St George",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404205177,
-    "wof:lastmodified":1449039834,
+    "wof:lastmodified":1467087365,
     "wof:name":"Pamela Kingsley",
     "wof:parent_id":85806465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.623559,37.203953,-113.623559,37.203953],
+  "bbox": [
+    -113.623559,
+    37.203953,
+    -113.623559,
+    37.203953
+],
   "geometry": {"coordinates":[-113.623559,37.203953],"type":"Point"}
 }

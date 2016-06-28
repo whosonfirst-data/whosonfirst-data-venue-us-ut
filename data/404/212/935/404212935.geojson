@@ -2,13 +2,14 @@
   "id": 404212935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.026233,41.473689,-112.026233,41.473689",
     "geom:latitude":41.473689,
     "geom:longitude":-112.026233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1998 S Hwy 89",
     "sg:city":"Brigham City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404212935,
-    "wof:lastmodified":1449039911,
+    "wof:lastmodified":1467087365,
     "wof:name":"Discount Cars & Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-112.026233,41.473689,-112.026233,41.473689],
+  "bbox": [
+    -112.026233,
+    41.473689,
+    -112.026233,
+    41.473689
+],
   "geometry": {"coordinates":[-112.026233,41.473689],"type":"Point"}
 }

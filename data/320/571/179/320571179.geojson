@@ -2,13 +2,14 @@
   "id": 320571179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.891998,40.8876,-111.891998,40.8876",
     "geom:latitude":40.8876,
     "geom:longitude":-111.891998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"190 S 500 W",
     "sg:city":"Bountiful",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320571179,
-    "wof:lastmodified":1449013824,
+    "wof:lastmodified":1467087362,
     "wof:name":"Shopko",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.891998,40.8876,-111.891998,40.8876],
+  "bbox": [
+    -111.891998,
+    40.8876,
+    -111.891998,
+    40.8876
+],
   "geometry": {"coordinates":[-111.891998,40.8876],"type":"Point"}
 }

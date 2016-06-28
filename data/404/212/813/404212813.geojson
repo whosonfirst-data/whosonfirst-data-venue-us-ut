@@ -2,13 +2,14 @@
   "id": 404212813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.022847,40.574784,-112.022847,40.574784",
     "geom:latitude":40.574784,
     "geom:longitude":-112.022847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5654 Axel Park Rd",
     "sg:city":"West Jordan",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404212813,
-    "wof:lastmodified":1449039908,
+    "wof:lastmodified":1467087365,
     "wof:name":"Neil's Concrete Cutting Co",
     "wof:parent_id":85813417,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sweeping"
     ]
 },
-  "bbox": [-112.022847,40.574784,-112.022847,40.574784],
+  "bbox": [
+    -112.022847,
+    40.574784,
+    -112.022847,
+    40.574784
+],
   "geometry": {"coordinates":[-112.022847,40.574784],"type":"Point"}
 }

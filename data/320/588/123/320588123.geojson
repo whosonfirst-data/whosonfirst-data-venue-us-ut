@@ -2,13 +2,14 @@
   "id": 320588123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.890124,40.625655,-111.890124,40.625655",
     "geom:latitude":40.625655,
     "geom:longitude":-111.890124,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6909 S State St Suite 6",
     "sg:city":"Midvale",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":320588123,
-    "wof:lastmodified":1449014229,
+    "wof:lastmodified":1467087362,
     "wof:name":"Energy Alliance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-111.890124,40.625655,-111.890124,40.625655],
+  "bbox": [
+    -111.890124,
+    40.625655,
+    -111.890124,
+    40.625655
+],
   "geometry": {"coordinates":[-111.890124,40.625655],"type":"Point"}
 }

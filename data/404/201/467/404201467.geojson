@@ -2,13 +2,14 @@
   "id": 404201467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.003439,40.584608,-112.003439,40.584608",
     "geom:latitude":40.584608,
     "geom:longitude":-112.003439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9151 Granada Hills Dr",
     "sg:city":"West Jordan",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404201467,
-    "wof:lastmodified":1449040162,
+    "wof:lastmodified":1467087365,
     "wof:name":"Landscaping By Design Inc",
     "wof:parent_id":85854997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-112.003439,40.584608,-112.003439,40.584608],
+  "bbox": [
+    -112.003439,
+    40.584608,
+    -112.003439,
+    40.584608
+],
   "geometry": {"coordinates":[-112.003439,40.584608],"type":"Point"}
 }

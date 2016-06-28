@@ -2,13 +2,14 @@
   "id": 404193725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.036469,41.510601,-112.036469,41.510601",
     "geom:latitude":41.510601,
     "geom:longitude":-112.036469,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1085 W Forest St",
     "sg:city":"Brigham City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404193725,
-    "wof:lastmodified":1449039210,
+    "wof:lastmodified":1467087364,
     "wof:name":"Performance Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automobile"
     ]
 },
-  "bbox": [-112.036469,41.510601,-112.036469,41.510601],
+  "bbox": [
+    -112.036469,
+    41.510601,
+    -112.036469,
+    41.510601
+],
   "geometry": {"coordinates":[-112.036469,41.510601],"type":"Point"}
 }

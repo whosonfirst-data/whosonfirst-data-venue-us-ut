@@ -2,13 +2,14 @@
   "id": 404198195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.932257,40.629488,-111.932257,40.629488",
     "geom:latitude":40.629488,
     "geom:longitude":-111.932257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1415 W 6720 S",
     "sg:city":"West Jordan",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404198195,
-    "wof:lastmodified":1449039458,
+    "wof:lastmodified":1467087364,
     "wof:name":"MCS of Utah",
     "wof:parent_id":85853339,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "welding"
     ]
 },
-  "bbox": [-111.932257,40.629488,-111.932257,40.629488],
-  "geometry": {"coordinates":[-111.932257,40.629488],"type":"Point"}
+  "bbox": [
+    -111.932257,
+    40.629488,
+    -111.932257,
+    40.629488
+],
+  "geometry": {"coordinates":[-111.93225700000001,40.629488],"type":"Point"}
 }

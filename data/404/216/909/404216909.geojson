@@ -2,13 +2,14 @@
   "id": 404216909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.824999,40.726938,-111.824999,40.726938",
     "geom:latitude":40.726938,
     "geom:longitude":-111.824999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1975 S 2300 E",
     "sg:city":"Salt Lake City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404216909,
-    "wof:lastmodified":1449040185,
+    "wof:lastmodified":1467087366,
     "wof:name":"St Ambrose Catholic Church",
     "wof:parent_id":85858091,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-111.824999,40.726938,-111.824999,40.726938],
-  "geometry": {"coordinates":[-111.824999,40.726938],"type":"Point"}
+  "bbox": [
+    -111.824999,
+    40.726938,
+    -111.824999,
+    40.726938
+],
+  "geometry": {"coordinates":[-111.82499900000001,40.726938],"type":"Point"}
 }

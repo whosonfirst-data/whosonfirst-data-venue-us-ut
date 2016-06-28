@@ -2,13 +2,14 @@
   "id": 404210123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.529816,40.457215,-109.529816,40.457215",
     "geom:latitude":40.457215,
     "geom:longitude":-109.529816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"38 W 100 N",
     "sg:city":"Vernal",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404210123,
-    "wof:lastmodified":1449039418,
+    "wof:lastmodified":1467087364,
     "wof:name":"Timberline Land Surveying",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surveyor"
     ]
 },
-  "bbox": [-109.529816,40.457215,-109.529816,40.457215],
+  "bbox": [
+    -109.529816,
+    40.457215,
+    -109.529816,
+    40.457215
+],
   "geometry": {"coordinates":[-109.529816,40.457215],"type":"Point"}
 }

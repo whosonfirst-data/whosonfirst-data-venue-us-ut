@@ -2,13 +2,14 @@
   "id": 404191879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.940174,40.718548,-111.940174,40.718548",
     "geom:latitude":40.718548,
     "geom:longitude":-111.940174,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1743 Alexander St",
     "sg:city":"Salt Lake City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404191879,
-    "wof:lastmodified":1449039832,
+    "wof:lastmodified":1467087365,
     "wof:name":"Builders Bld Service of Utah",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.940174,40.718548,-111.940174,40.718548],
+  "bbox": [
+    -111.940174,
+    40.718548,
+    -111.940174,
+    40.718548
+],
   "geometry": {"coordinates":[-111.940174,40.718548],"type":"Point"}
 }

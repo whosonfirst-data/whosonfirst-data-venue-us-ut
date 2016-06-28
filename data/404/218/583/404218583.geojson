@@ -2,13 +2,14 @@
   "id": 404218583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.797669,40.436081,-111.797669,40.436081",
     "geom:latitude":40.436081,
     "geom:longitude":-111.797669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5782 N Kaitlyn Cir",
     "sg:city":"American Fork",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404218583,
-    "wof:lastmodified":1449039897,
+    "wof:lastmodified":1467087365,
     "wof:name":"Ottley-Lehi Lc",
     "wof:parent_id":85879979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.797669,40.436081,-111.797669,40.436081],
+  "bbox": [
+    -111.797669,
+    40.436081,
+    -111.797669,
+    40.436081
+],
   "geometry": {"coordinates":[-111.797669,40.436081],"type":"Point"}
 }

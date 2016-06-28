@@ -2,13 +2,14 @@
   "id": 404204033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.123918,37.118614,-113.123918,37.118614",
     "geom:latitude":37.118614,
     "geom:longitude":-113.123918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7169 Smithsonian Way",
     "sg:city":"Hurricane",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404204033,
-    "wof:lastmodified":1449040347,
+    "wof:lastmodified":1467087366,
     "wof:name":"Southwest Pottery By Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.123918,37.118614,-113.123918,37.118614],
+  "bbox": [
+    -113.123918,
+    37.118614,
+    -113.123918,
+    37.118614
+],
   "geometry": {"coordinates":[-113.123918,37.118614],"type":"Point"}
 }

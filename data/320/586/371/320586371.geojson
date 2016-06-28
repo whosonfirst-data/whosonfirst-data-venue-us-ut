@@ -2,13 +2,14 @@
   "id": 320586371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.001681,41.089726,-112.001681,41.089726",
     "geom:latitude":41.089726,
     "geom:longitude":-112.001681,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2080 N Main St",
     "sg:city":"Layton",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":320586371,
-    "wof:lastmodified":1449014535,
+    "wof:lastmodified":1467087363,
     "wof:name":"Ils Wayport",
     "wof:parent_id":85830053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "hotspot"
     ]
 },
-  "bbox": [-112.001681,41.089726,-112.001681,41.089726],
+  "bbox": [
+    -112.001681,
+    41.089726,
+    -112.001681,
+    41.089726
+],
   "geometry": {"coordinates":[-112.001681,41.089726],"type":"Point"}
 }

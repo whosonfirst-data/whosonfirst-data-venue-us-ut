@@ -2,13 +2,14 @@
   "id": 404194947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.030586,40.506226,-112.030586,40.506226",
     "geom:latitude":40.506226,
     "geom:longitude":-112.030586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5789 Ballerina Way",
     "sg:city":"Riverton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404194947,
-    "wof:lastmodified":1449040141,
+    "wof:lastmodified":1467087365,
     "wof:name":"Santas Tree Helper",
     "wof:parent_id":85819751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.030586,40.506226,-112.030586,40.506226],
+  "bbox": [
+    -112.030586,
+    40.506226,
+    -112.030586,
+    40.506226
+],
   "geometry": {"coordinates":[-112.030586,40.506226],"type":"Point"}
 }

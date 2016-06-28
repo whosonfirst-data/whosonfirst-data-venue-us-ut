@@ -2,13 +2,14 @@
   "id": 320597987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.022102,40.51033,-112.022102,40.51033",
     "geom:latitude":40.51033,
     "geom:longitude":-112.022102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13284 Copper Park Dr",
     "sg:city":"Herriman",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320597987,
-    "wof:lastmodified":1449014914,
+    "wof:lastmodified":1467087363,
     "wof:name":"Signature Pest Control",
     "wof:parent_id":85819751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.022102,40.51033,-112.022102,40.51033],
+  "bbox": [
+    -112.022102,
+    40.51033,
+    -112.022102,
+    40.51033
+],
   "geometry": {"coordinates":[-112.022102,40.51033],"type":"Point"}
 }

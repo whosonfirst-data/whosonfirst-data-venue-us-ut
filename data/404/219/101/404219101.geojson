@@ -2,13 +2,14 @@
   "id": 404219101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.061803,37.681147,-113.061803,37.681147",
     "geom:latitude":37.681147,
     "geom:longitude":-113.061803,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 N Main St",
     "sg:city":"Cedar City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404219101,
-    "wof:lastmodified":1449040276,
+    "wof:lastmodified":1467087366,
     "wof:name":"Southwst UT Mntl Hlth/Alch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-113.061803,37.681147,-113.061803,37.681147],
+  "bbox": [
+    -113.061803,
+    37.681147,
+    -113.061803,
+    37.681147
+],
   "geometry": {"coordinates":[-113.061803,37.681147],"type":"Point"}
 }

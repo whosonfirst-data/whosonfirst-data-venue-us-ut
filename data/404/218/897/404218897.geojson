@@ -2,13 +2,14 @@
   "id": 404218897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.907633,40.972082,-111.907633,40.972082",
     "geom:latitude":40.972082,
     "geom:longitude":-111.907633,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"903 W 500 S",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404218897,
-    "wof:lastmodified":1449039896,
+    "wof:lastmodified":1467087365,
     "wof:name":"Country Heirlooms",
     "wof:parent_id":85828873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.907633,40.972082,-111.907633,40.972082],
+  "bbox": [
+    -111.907633,
+    40.972082,
+    -111.907633,
+    40.972082
+],
   "geometry": {"coordinates":[-111.907633,40.972082],"type":"Point"}
 }

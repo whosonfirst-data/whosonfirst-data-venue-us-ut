@@ -2,13 +2,14 @@
   "id": 320598919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.843269,41.757745,-111.843269,41.757745",
     "geom:latitude":41.757745,
     "geom:longitude":-111.843269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"355 W 1400 N",
     "sg:city":"Logan",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":320598919,
-    "wof:lastmodified":1449011448,
+    "wof:lastmodified":1467087359,
     "wof:name":"Christoffersens Heating & Air Conditioning Services Inc",
     "wof:parent_id":85823089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-111.843269,41.757745,-111.843269,41.757745],
-  "geometry": {"coordinates":[-111.843269,41.757745],"type":"Point"}
+  "bbox": [
+    -111.843269,
+    41.757745,
+    -111.843269,
+    41.757745
+],
+  "geometry": {"coordinates":[-111.84326900000001,41.757745],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320599625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.948629,41.202791,-111.948629,41.202791",
     "geom:latitude":41.202791,
     "geom:longitude":-111.948629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3354 Harrison Blvd #2",
     "sg:city":"Ogden",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":320599625,
-    "wof:lastmodified":1449012993,
+    "wof:lastmodified":1467087360,
     "wof:name":"Scion Counseling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "psychotherapist"
     ]
 },
-  "bbox": [-111.948629,41.202791,-111.948629,41.202791],
+  "bbox": [
+    -111.948629,
+    41.202791,
+    -111.948629,
+    41.202791
+],
   "geometry": {"coordinates":[-111.948629,41.202791],"type":"Point"}
 }

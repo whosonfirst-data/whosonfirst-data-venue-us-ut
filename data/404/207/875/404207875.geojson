@@ -2,13 +2,14 @@
   "id": 404207875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.882309,40.511566,-111.882309,40.511566",
     "geom:latitude":40.511566,
     "geom:longitude":-111.882309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"272 Day Meadow Dr",
     "sg:city":"Draper",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404207875,
-    "wof:lastmodified":1449039967,
+    "wof:lastmodified":1467087365,
     "wof:name":"Appraisal Masters Group",
     "wof:parent_id":85815185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "appraiser"
     ]
 },
-  "bbox": [-111.882309,40.511566,-111.882309,40.511566],
-  "geometry": {"coordinates":[-111.882309,40.511566],"type":"Point"}
+  "bbox": [
+    -111.882309,
+    40.511566,
+    -111.882309,
+    40.511566
+],
+  "geometry": {"coordinates":[-111.88230900000001,40.511566],"type":"Point"}
 }

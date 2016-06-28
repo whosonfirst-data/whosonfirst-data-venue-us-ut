@@ -2,13 +2,14 @@
   "id": 320585711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.884754,40.979469,-111.884754,40.979469",
     "geom:latitude":40.979469,
     "geom:longitude":-111.884754,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"56 S 200 E",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":320585711,
-    "wof:lastmodified":1449013757,
+    "wof:lastmodified":1467087361,
     "wof:name":"Palmer Bradley C Dentist",
     "wof:parent_id":85833427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.884754,40.979469,-111.884754,40.979469],
+  "bbox": [
+    -111.884754,
+    40.979469,
+    -111.884754,
+    40.979469
+],
   "geometry": {"coordinates":[-111.884754,40.979469],"type":"Point"}
 }

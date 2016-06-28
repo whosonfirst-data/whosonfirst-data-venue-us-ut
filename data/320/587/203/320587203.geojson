@@ -2,13 +2,14 @@
   "id": 320587203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.894173,40.444859,-111.894173,40.444859",
     "geom:latitude":40.444859,
     "geom:longitude":-111.894173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2788 Shady Hollow Loop",
     "sg:city":"Lehi",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320587203,
-    "wof:lastmodified":1449012556,
+    "wof:lastmodified":1467087360,
     "wof:name":"Jtj Holdings",
     "wof:parent_id":85836317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "holding"
     ]
 },
-  "bbox": [-111.894173,40.444859,-111.894173,40.444859],
-  "geometry": {"coordinates":[-111.894173,40.444859],"type":"Point"}
+  "bbox": [
+    -111.894173,
+    40.444859,
+    -111.894173,
+    40.444859
+],
+  "geometry": {"coordinates":[-111.89417299999999,40.444859],"type":"Point"}
 }

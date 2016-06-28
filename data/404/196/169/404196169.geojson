@@ -2,13 +2,14 @@
   "id": 404196169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.544119,40.702742,-111.544119,40.702742",
     "geom:latitude":40.702742,
     "geom:longitude":-111.544119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6409 Park Pl",
     "sg:city":"Park City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404196169,
-    "wof:lastmodified":1449039325,
+    "wof:lastmodified":1467087364,
     "wof:name":"Daedalus USA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-111.544119,40.702742,-111.544119,40.702742],
-  "geometry": {"coordinates":[-111.544119,40.702742],"type":"Point"}
+  "bbox": [
+    -111.544119,
+    40.702742,
+    -111.544119,
+    40.702742
+],
+  "geometry": {"coordinates":[-111.54411899999999,40.702742],"type":"Point"}
 }

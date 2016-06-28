@@ -2,13 +2,14 @@
   "id": 320575089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.893342,40.890343,-111.893342,40.890343",
     "geom:latitude":40.890343,
     "geom:longitude":-111.893342,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"573 W 100 N",
     "sg:city":"Woods Cross",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320575089,
-    "wof:lastmodified":1449012344,
+    "wof:lastmodified":1467087360,
     "wof:name":"Costco Wholesale",
     "wof:parent_id":85854881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "tire"
     ]
 },
-  "bbox": [-111.893342,40.890343,-111.893342,40.890343],
+  "bbox": [
+    -111.893342,
+    40.890343,
+    -111.893342,
+    40.890343
+],
   "geometry": {"coordinates":[-111.893342,40.890343],"type":"Point"}
 }

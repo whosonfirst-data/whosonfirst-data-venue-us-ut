@@ -2,13 +2,14 @@
   "id": 320599293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.938053,41.189646,-111.938053,41.189646",
     "geom:latitude":41.189646,
     "geom:longitude":-111.938053,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 Skyline Dr",
     "sg:city":"Ogden",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":320599293,
-    "wof:lastmodified":1449012988,
+    "wof:lastmodified":1467087360,
     "wof:name":"Wal-Mart Neighborhood Market",
     "wof:parent_id":85829817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "finishing"
     ]
 },
-  "bbox": [-111.938053,41.189646,-111.938053,41.189646],
+  "bbox": [
+    -111.938053,
+    41.189646,
+    -111.938053,
+    41.189646
+],
   "geometry": {"coordinates":[-111.938053,41.189646],"type":"Point"}
 }

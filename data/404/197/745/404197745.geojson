@@ -2,13 +2,14 @@
   "id": 404197745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.929754,41.216243,-111.929754,41.216243",
     "geom:latitude":41.216243,
     "geom:longitude":-111.929754,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2635 Foothill Dr",
     "sg:city":"Ogden",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404197745,
-    "wof:lastmodified":1449040174,
+    "wof:lastmodified":1467087366,
     "wof:name":"Behnken Properties Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-111.929754,41.216243,-111.929754,41.216243],
+  "bbox": [
+    -111.929754,
+    41.216243,
+    -111.929754,
+    41.216243
+],
   "geometry": {"coordinates":[-111.929754,41.216243],"type":"Point"}
 }

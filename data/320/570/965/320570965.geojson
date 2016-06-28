@@ -2,13 +2,14 @@
   "id": 320570965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.877998,40.8675,-111.877998,40.8675",
     "geom:latitude":40.8675,
     "geom:longitude":-111.877998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2081 Orchard Dr",
     "sg:city":"Bountiful",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320570965,
-    "wof:lastmodified":1449013472,
+    "wof:lastmodified":1467087361,
     "wof:name":"Wok Lin Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chinese"
     ]
 },
-  "bbox": [-111.877998,40.8675,-111.877998,40.8675],
-  "geometry": {"coordinates":[-111.877998,40.8675],"type":"Point"}
+  "bbox": [
+    -111.877998,
+    40.8675,
+    -111.877998,
+    40.8675
+],
+  "geometry": {"coordinates":[-111.87799800000001,40.8675],"type":"Point"}
 }

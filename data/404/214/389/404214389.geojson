@@ -2,13 +2,14 @@
   "id": 404214389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.925839,40.522264,-111.925839,40.522264",
     "geom:latitude":40.522264,
     "geom:longitude":-111.925839,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1283 W 12600 S",
     "sg:city":"Riverton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404214389,
-    "wof:lastmodified":1449040289,
+    "wof:lastmodified":1467087366,
     "wof:name":"Day One Chiropractic",
     "wof:parent_id":85817559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.925839,40.522264,-111.925839,40.522264],
+  "bbox": [
+    -111.925839,
+    40.522264,
+    -111.925839,
+    40.522264
+],
   "geometry": {"coordinates":[-111.925839,40.522264],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320594729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.905491,40.581528,-111.905491,40.581528",
     "geom:latitude":40.581528,
     "geom:longitude":-111.905491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9356 S 500 W",
     "sg:city":"Sandy",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":320594729,
-    "wof:lastmodified":1449011791,
+    "wof:lastmodified":1467087359,
     "wof:name":"South Towne Collison",
     "wof:parent_id":85818097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "painting"
     ]
 },
-  "bbox": [-111.905491,40.581528,-111.905491,40.581528],
+  "bbox": [
+    -111.905491,
+    40.581528,
+    -111.905491,
+    40.581528
+],
   "geometry": {"coordinates":[-111.905491,40.581528],"type":"Point"}
 }

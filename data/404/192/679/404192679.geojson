@@ -2,13 +2,14 @@
   "id": 404192679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.338833,40.711925,-111.338833,40.711925",
     "geom:latitude":40.711925,
     "geom:longitude":-111.338833,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3801 Wooden Shoe Ln",
     "sg:city":"Peoa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404192679,
-    "wof:lastmodified":1449039977,
+    "wof:lastmodified":1467087365,
     "wof:name":"Three Bar Cattle Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cattle"
     ]
 },
-  "bbox": [-111.338833,40.711925,-111.338833,40.711925],
-  "geometry": {"coordinates":[-111.338833,40.711925],"type":"Point"}
+  "bbox": [
+    -111.338833,
+    40.711925,
+    -111.338833,
+    40.711925
+],
+  "geometry": {"coordinates":[-111.33883299999999,40.711925],"type":"Point"}
 }

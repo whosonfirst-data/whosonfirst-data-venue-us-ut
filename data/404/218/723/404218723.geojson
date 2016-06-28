@@ -2,13 +2,14 @@
   "id": 404218723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.117071,38.627403,-112.117071,38.627403",
     "geom:latitude":38.627403,
     "geom:longitude":-112.117071,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"264 S 200 E",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404218723,
-    "wof:lastmodified":1449039897,
+    "wof:lastmodified":1467087365,
     "wof:name":"Monroe Siding & Rain Gutter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gutter"
     ]
 },
-  "bbox": [-112.117071,38.627403,-112.117071,38.627403],
+  "bbox": [
+    -112.117071,
+    38.627403,
+    -112.117071,
+    38.627403
+],
   "geometry": {"coordinates":[-112.117071,38.627403],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404211715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.12298,41.754598,-112.12298,41.754598",
     "geom:latitude":41.754598,
     "geom:longitude":-112.12298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4465 W 13600 N",
     "sg:city":"Garland",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404211715,
-    "wof:lastmodified":1449039342,
+    "wof:lastmodified":1467087364,
     "wof:name":"Ferrin Sorenson Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.12298,41.754598,-112.12298,41.754598],
+  "bbox": [
+    -112.12298,
+    41.754598,
+    -112.12298,
+    41.754598
+],
   "geometry": {"coordinates":[-112.12298,41.754598],"type":"Point"}
 }

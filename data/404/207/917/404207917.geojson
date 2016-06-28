@@ -2,13 +2,14 @@
   "id": 404207917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.909972,40.767092,-111.909972,40.767092",
     "geom:latitude":40.767092,
     "geom:longitude":-111.909972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"663 W 100 S",
     "sg:city":"Salt Lake City",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404207917,
-    "wof:lastmodified":1449039969,
+    "wof:lastmodified":1467087365,
     "wof:name":"Howa Construction Inc",
     "wof:parent_id":85856843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-111.909972,40.767092,-111.909972,40.767092],
+  "bbox": [
+    -111.909972,
+    40.767092,
+    -111.909972,
+    40.767092
+],
   "geometry": {"coordinates":[-111.909972,40.767092],"type":"Point"}
 }

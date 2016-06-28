@@ -2,13 +2,14 @@
   "id": 404214445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.713145,39.542422,-110.713145,39.542422",
     "geom:latitude":39.542422,
     "geom:longitude":-110.713145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1236 E Main St",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404214445,
-    "wof:lastmodified":1449040285,
+    "wof:lastmodified":1467087366,
     "wof:name":"Minewest Sales & Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mining"
     ]
 },
-  "bbox": [-110.713145,39.542422,-110.713145,39.542422],
+  "bbox": [
+    -110.713145,
+    39.542422,
+    -110.713145,
+    39.542422
+],
   "geometry": {"coordinates":[-110.713145,39.542422],"type":"Point"}
 }

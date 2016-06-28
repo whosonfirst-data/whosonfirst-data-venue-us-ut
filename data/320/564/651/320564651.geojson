@@ -2,13 +2,14 @@
   "id": 320564651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.892998,40.861599,-111.892998,40.861599",
     "geom:latitude":40.861599,
     "geom:longitude":-111.892998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"533 W 2600 S",
     "sg:city":"Bountiful",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320564651,
-    "wof:lastmodified":1449014739,
+    "wof:lastmodified":1467087363,
     "wof:name":"Accommodating Tax Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.892998,40.861599,-111.892998,40.861599],
-  "geometry": {"coordinates":[-111.892998,40.861599],"type":"Point"}
+  "bbox": [
+    -111.892998,
+    40.861599,
+    -111.892998,
+    40.861599
+],
+  "geometry": {"coordinates":[-111.89299800000001,40.861599],"type":"Point"}
 }

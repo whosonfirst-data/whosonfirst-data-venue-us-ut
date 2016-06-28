@@ -2,13 +2,14 @@
   "id": 404217111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.817785,41.709418,-111.817785,41.709418",
     "geom:latitude":41.709418,
     "geom:longitude":-111.817785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 N Main St",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404217111,
-    "wof:lastmodified":1449040272,
+    "wof:lastmodified":1467087366,
     "wof:name":"Erickson Flooring",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-111.817785,41.709418,-111.817785,41.709418],
+  "bbox": [
+    -111.817785,
+    41.709418,
+    -111.817785,
+    41.709418
+],
   "geometry": {"coordinates":[-111.817785,41.709418],"type":"Point"}
 }

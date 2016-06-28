@@ -2,13 +2,14 @@
   "id": 320570333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.890399,40.884397,-111.890399,40.884397",
     "geom:latitude":40.884397,
     "geom:longitude":-111.890399,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"416 W 500 S",
     "sg:city":"Bountiful",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":320570333,
-    "wof:lastmodified":1449013474,
+    "wof:lastmodified":1467087361,
     "wof:name":"Marberger's Meat & Deli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich"
     ]
 },
-  "bbox": [-111.890399,40.884397,-111.890399,40.884397],
+  "bbox": [
+    -111.890399,
+    40.884397,
+    -111.890399,
+    40.884397
+],
   "geometry": {"coordinates":[-111.890399,40.884397],"type":"Point"}
 }

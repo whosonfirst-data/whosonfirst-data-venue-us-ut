@@ -2,13 +2,14 @@
   "id": 320600779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.64995,40.218929,-111.64995,40.218929",
     "geom:latitude":40.218929,
     "geom:longitude":-111.64995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"430 E 1130 S",
     "sg:city":"Provo",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":320600779,
-    "wof:lastmodified":1449011575,
+    "wof:lastmodified":1467087359,
     "wof:name":"Lake Shore Motor Coach Lines",
     "wof:parent_id":85880069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "public"
     ]
 },
-  "bbox": [-111.64995,40.218929,-111.64995,40.218929],
+  "bbox": [
+    -111.64995,
+    40.218929,
+    -111.64995,
+    40.218929
+],
   "geometry": {"coordinates":[-111.64995,40.218929],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404197059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.911075,40.740216,-111.911075,40.740216",
     "geom:latitude":40.740216,
     "geom:longitude":-111.911075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1415 S 700 W",
     "sg:city":"Salt Lake City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404197059,
-    "wof:lastmodified":1449040171,
+    "wof:lastmodified":1467087366,
     "wof:name":"Harold's Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "painting"
     ]
 },
-  "bbox": [-111.911075,40.740216,-111.911075,40.740216],
+  "bbox": [
+    -111.911075,
+    40.740216,
+    -111.911075,
+    40.740216
+],
   "geometry": {"coordinates":[-111.911075,40.740216],"type":"Point"}
 }

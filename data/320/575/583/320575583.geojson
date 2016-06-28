@@ -2,13 +2,14 @@
   "id": 320575583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.895346,40.881241,-111.895346,40.881241",
     "geom:latitude":40.881241,
     "geom:longitude":-111.895346,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"621 W 800 S",
     "sg:city":"Bountiful",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320575583,
-    "wof:lastmodified":1449012345,
+    "wof:lastmodified":1467087360,
     "wof:name":"Quad & Cycle Shop the",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.895346,40.881241,-111.895346,40.881241],
+  "bbox": [
+    -111.895346,
+    40.881241,
+    -111.895346,
+    40.881241
+],
   "geometry": {"coordinates":[-111.895346,40.881241],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320598385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.678285,40.299086,-111.678285,40.299086",
     "geom:latitude":40.299086,
     "geom:longitude":-111.678285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"701 E 100 N",
     "sg:city":"Orem",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320598385,
-    "wof:lastmodified":1449011444,
+    "wof:lastmodified":1467087359,
     "wof:name":"Morris Acoustics",
     "wof:parent_id":85849197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-111.678285,40.299086,-111.678285,40.299086],
+  "bbox": [
+    -111.678285,
+    40.299086,
+    -111.678285,
+    40.299086
+],
   "geometry": {"coordinates":[-111.678285,40.299086],"type":"Point"}
 }

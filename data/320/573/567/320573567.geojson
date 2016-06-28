@@ -2,13 +2,14 @@
   "id": 320573567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.892998,40.880501,-111.892998,40.880501",
     "geom:latitude":40.880501,
     "geom:longitude":-111.892998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 W 900 S",
     "sg:city":"Woods Cross",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320573567,
-    "wof:lastmodified":1449014015,
+    "wof:lastmodified":1467087362,
     "wof:name":"Body Works Unlimited",
     "wof:parent_id":85851805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-111.892998,40.880501,-111.892998,40.880501],
-  "geometry": {"coordinates":[-111.892998,40.880501],"type":"Point"}
+  "bbox": [
+    -111.892998,
+    40.880501,
+    -111.892998,
+    40.880501
+],
+  "geometry": {"coordinates":[-111.89299800000001,40.880501],"type":"Point"}
 }

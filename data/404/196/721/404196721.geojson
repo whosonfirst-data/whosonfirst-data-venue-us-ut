@@ -2,13 +2,14 @@
   "id": 404196721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.59162,41.059993,-111.59162,41.059993",
     "geom:latitude":41.059993,
     "geom:longitude":-111.59162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 Taggart Ln",
     "sg:city":"Morgan",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404196721,
-    "wof:lastmodified":1449039326,
+    "wof:lastmodified":1467087364,
     "wof:name":"Taggarts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.59162,41.059993,-111.59162,41.059993],
-  "geometry": {"coordinates":[-111.59162,41.059993],"type":"Point"}
+  "bbox": [
+    -111.59162,
+    41.059993,
+    -111.59162,
+    41.059993
+],
+  "geometry": {"coordinates":[-111.59162000000001,41.059993],"type":"Point"}
 }

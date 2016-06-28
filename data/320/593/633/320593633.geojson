@@ -2,13 +2,14 @@
   "id": 320593633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.97977,40.522301,-111.97977,40.522301",
     "geom:latitude":40.522301,
     "geom:longitude":-111.97977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3723 W 12600 S Ste 360",
     "sg:city":"Riverton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320593633,
-    "wof:lastmodified":1449013749,
+    "wof:lastmodified":1467087361,
     "wof:name":"England Edwin R MD",
     "wof:parent_id":85845107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-111.97977,40.522301,-111.97977,40.522301],
+  "bbox": [
+    -111.97977,
+    40.522301,
+    -111.97977,
+    40.522301
+],
   "geometry": {"coordinates":[-111.97977,40.522301],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320580151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.892998,40.9202,-111.892998,40.9202",
     "geom:latitude":40.9202,
     "geom:longitude":-111.892998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1343 W 75 N",
     "sg:city":"Centerville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320580151,
-    "wof:lastmodified":1449013784,
+    "wof:lastmodified":1467087361,
     "wof:name":"Phil's Automotive",
     "wof:parent_id":85850499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.892998,40.9202,-111.892998,40.9202],
-  "geometry": {"coordinates":[-111.892998,40.9202],"type":"Point"}
+  "bbox": [
+    -111.892998,
+    40.9202,
+    -111.892998,
+    40.9202
+],
+  "geometry": {"coordinates":[-111.89299800000001,40.9202],"type":"Point"}
 }

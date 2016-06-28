@@ -2,13 +2,14 @@
   "id": 404209223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.938453,40.812784,-111.938453,40.812784",
     "geom:latitude":40.812784,
     "geom:longitude":-111.938453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2120 N Redwood Rd",
     "sg:city":"Salt Lake City",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404209223,
-    "wof:lastmodified":1449040194,
+    "wof:lastmodified":1467087366,
     "wof:name":"NW Geosynthetics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.938453,40.812784,-111.938453,40.812784],
+  "bbox": [
+    -111.938453,
+    40.812784,
+    -111.938453,
+    40.812784
+],
   "geometry": {"coordinates":[-111.938453,40.812784],"type":"Point"}
 }

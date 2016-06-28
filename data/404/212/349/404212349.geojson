@@ -2,13 +2,14 @@
   "id": 404212349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.025945,41.116273,-112.025945,41.116273",
     "geom:latitude":41.116273,
     "geom:longitude":-112.025945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"170 N Main St",
     "sg:city":"Clearfield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404212349,
-    "wof:lastmodified":1449039910,
+    "wof:lastmodified":1467087365,
     "wof:name":"Tam's Dry Wall",
     "wof:parent_id":85851583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-112.025945,41.116273,-112.025945,41.116273],
-  "geometry": {"coordinates":[-112.025945,41.116273],"type":"Point"}
+  "bbox": [
+    -112.025945,
+    41.116273,
+    -112.025945,
+    41.116273
+],
+  "geometry": {"coordinates":[-112.02594499999999,41.116273],"type":"Point"}
 }

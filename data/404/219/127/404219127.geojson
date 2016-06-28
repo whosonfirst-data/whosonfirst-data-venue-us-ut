@@ -2,13 +2,14 @@
   "id": 404219127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.610757,37.121036,-113.610757,37.121036",
     "geom:latitude":37.121036,
     "geom:longitude":-113.610757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"727 N 1275 W",
     "sg:city":"St George",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404219127,
-    "wof:lastmodified":1449040278,
+    "wof:lastmodified":1467087366,
     "wof:name":"Ndl Real Estate Services",
     "wof:parent_id":85806465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-113.610757,37.121036,-113.610757,37.121036],
-  "geometry": {"coordinates":[-113.610757,37.121036],"type":"Point"}
+  "bbox": [
+    -113.610757,
+    37.121036,
+    -113.610757,
+    37.121036
+],
+  "geometry": {"coordinates":[-113.61075700000001,37.121036],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320586671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.738623,40.342134,-111.738623,40.342134",
     "geom:latitude":40.342134,
     "geom:longitude":-111.738623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"943 W 240 N",
     "sg:city":"Lindon",
     "sg:classifiers":[
@@ -80,10 +81,11 @@
         }
     ],
     "wof:id":320586671,
-    "wof:lastmodified":1449014531,
+    "wof:lastmodified":1467087363,
     "wof:name":"Designer Marble & Contractor Services",
     "wof:parent_id":85879991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -103,6 +105,11 @@
         "kitchen"
     ]
 },
-  "bbox": [-111.738623,40.342134,-111.738623,40.342134],
+  "bbox": [
+    -111.738623,
+    40.342134,
+    -111.738623,
+    40.342134
+],
   "geometry": {"coordinates":[-111.738623,40.342134],"type":"Point"}
 }

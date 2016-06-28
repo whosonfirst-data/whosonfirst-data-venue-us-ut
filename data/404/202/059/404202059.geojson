@@ -2,13 +2,14 @@
   "id": 404202059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.854702,40.627309,-111.854702,40.627309",
     "geom:latitude":40.627309,
     "geom:longitude":-111.854702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6839 S 1300 E",
     "sg:city":"Salt Lake City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404202059,
-    "wof:lastmodified":1449040164,
+    "wof:lastmodified":1467087366,
     "wof:name":"Home Touch Window Coverings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "covering"
     ]
 },
-  "bbox": [-111.854702,40.627309,-111.854702,40.627309],
+  "bbox": [
+    -111.854702,
+    40.627309,
+    -111.854702,
+    40.627309
+],
   "geometry": {"coordinates":[-111.854702,40.627309],"type":"Point"}
 }

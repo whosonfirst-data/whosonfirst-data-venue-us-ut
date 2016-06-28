@@ -2,13 +2,14 @@
   "id": 404216825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.792562,40.428601,-111.792562,40.428601",
     "geom:latitude":40.428601,
     "geom:longitude":-111.792562,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10805 N 5600 W",
     "sg:city":"Highland",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404216825,
-    "wof:lastmodified":1449040184,
+    "wof:lastmodified":1467087366,
     "wof:name":"Reinheit Enterprises",
     "wof:parent_id":85879979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"
     ]
 },
-  "bbox": [-111.792562,40.428601,-111.792562,40.428601],
+  "bbox": [
+    -111.792562,
+    40.428601,
+    -111.792562,
+    40.428601
+],
   "geometry": {"coordinates":[-111.792562,40.428601],"type":"Point"}
 }

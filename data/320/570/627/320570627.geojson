@@ -2,13 +2,14 @@
   "id": 320570627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.893558,40.884387,-111.893558,40.884387",
     "geom:latitude":40.884387,
     "geom:longitude":-111.893558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"560 W 500 S",
     "sg:city":"Woods Cross",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320570627,
-    "wof:lastmodified":1449013473,
+    "wof:lastmodified":1467087361,
     "wof:name":"Texaco Super Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.893558,40.884387,-111.893558,40.884387],
+  "bbox": [
+    -111.893558,
+    40.884387,
+    -111.893558,
+    40.884387
+],
   "geometry": {"coordinates":[-111.893558,40.884387],"type":"Point"}
 }

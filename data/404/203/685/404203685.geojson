@@ -2,13 +2,14 @@
   "id": 404203685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.884837,40.828996,-111.884837,40.828996",
     "geom:latitude":40.828996,
     "geom:longitude":-111.884837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1116 Mariwood Cir",
     "sg:city":"North Salt Lake",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404203685,
-    "wof:lastmodified":1449039551,
+    "wof:lastmodified":1467087364,
     "wof:name":"Kingdon Group",
     "wof:parent_id":85839735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "relations"
     ]
 },
-  "bbox": [-111.884837,40.828996,-111.884837,40.828996],
+  "bbox": [
+    -111.884837,
+    40.828996,
+    -111.884837,
+    40.828996
+],
   "geometry": {"coordinates":[-111.884837,40.828996],"type":"Point"}
 }

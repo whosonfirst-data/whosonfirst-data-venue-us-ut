@@ -2,13 +2,14 @@
   "id": 320584513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.887431,40.980626,-111.887431,40.980626",
     "geom:latitude":40.980626,
     "geom:longitude":-111.887431,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7 E State St",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320584513,
-    "wof:lastmodified":1449011652,
+    "wof:lastmodified":1467087359,
     "wof:name":"Francisco's Mexican Grill",
     "wof:parent_id":85833427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-111.887431,40.980626,-111.887431,40.980626],
-  "geometry": {"coordinates":[-111.887431,40.980626],"type":"Point"}
+  "bbox": [
+    -111.887431,
+    40.980626,
+    -111.887431,
+    40.980626
+],
+  "geometry": {"coordinates":[-111.88743100000001,40.980626],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404201091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.834199,41.731297,-111.834199,41.731297",
     "geom:latitude":41.731297,
     "geom:longitude":-111.834199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"34 E Center St",
     "sg:city":"Logan",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404201091,
-    "wof:lastmodified":1449040158,
+    "wof:lastmodified":1467087365,
     "wof:name":"Allen-Hall Mortuary",
     "wof:parent_id":85823089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "director"
     ]
 },
-  "bbox": [-111.834199,41.731297,-111.834199,41.731297],
+  "bbox": [
+    -111.834199,
+    41.731297,
+    -111.834199,
+    41.731297
+],
   "geometry": {"coordinates":[-111.834199,41.731297],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404206599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.009816,40.610048,-112.009816,40.610048",
     "geom:latitude":40.610048,
     "geom:longitude":-112.009816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4986 W 7770 S",
     "sg:city":"West Jordan",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404206599,
-    "wof:lastmodified":1449039949,
+    "wof:lastmodified":1467087365,
     "wof:name":"Alpine Regrigeration Inc",
     "wof:parent_id":85813117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "refrigeration"
     ]
 },
-  "bbox": [-112.009816,40.610048,-112.009816,40.610048],
+  "bbox": [
+    -112.009816,
+    40.610048,
+    -112.009816,
+    40.610048
+],
   "geometry": {"coordinates":[-112.009816,40.610048],"type":"Point"}
 }

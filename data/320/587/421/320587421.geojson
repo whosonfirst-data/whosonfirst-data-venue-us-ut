@@ -2,13 +2,14 @@
   "id": 320587421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.86655,40.385368,-111.86655,40.385368",
     "geom:latitude":40.385368,
     "geom:longitude":-111.86655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1051 W 190 S",
     "sg:city":"Lehi",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":320587421,
-    "wof:lastmodified":1449012555,
+    "wof:lastmodified":1467087360,
     "wof:name":"Chic Vintage Cafe",
     "wof:parent_id":85836317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "espresso"
     ]
 },
-  "bbox": [-111.86655,40.385368,-111.86655,40.385368],
+  "bbox": [
+    -111.86655,
+    40.385368,
+    -111.86655,
+    40.385368
+],
   "geometry": {"coordinates":[-111.86655,40.385368],"type":"Point"}
 }

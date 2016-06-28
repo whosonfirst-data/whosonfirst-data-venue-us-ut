@@ -2,13 +2,14 @@
   "id": 320595253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.291237,40.631191,-112.291237,40.631191",
     "geom:latitude":40.631191,
     "geom:longitude":-112.291237,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"263 Country Clb Suite #102",
     "sg:city":"Tooele",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320595253,
-    "wof:lastmodified":1449014604,
+    "wof:lastmodified":1467087363,
     "wof:name":"Root Canals Only",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.291237,40.631191,-112.291237,40.631191],
+  "bbox": [
+    -112.291237,
+    40.631191,
+    -112.291237,
+    40.631191
+],
   "geometry": {"coordinates":[-112.291237,40.631191],"type":"Point"}
 }

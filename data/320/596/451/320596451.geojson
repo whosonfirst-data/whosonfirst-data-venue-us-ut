@@ -2,13 +2,14 @@
   "id": 320596451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.918774,40.901264,-111.918774,40.901264",
     "geom:latitude":40.901264,
     "geom:longitude":-111.918774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1387 W 1200 N",
     "sg:city":"West Bountiful",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":320596451,
-    "wof:lastmodified":1449013168,
+    "wof:lastmodified":1467087360,
     "wof:name":"Napa Autocare Center",
     "wof:parent_id":85818403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.918774,40.901264,-111.918774,40.901264],
+  "bbox": [
+    -111.918774,
+    40.901264,
+    -111.918774,
+    40.901264
+],
   "geometry": {"coordinates":[-111.918774,40.901264],"type":"Point"}
 }

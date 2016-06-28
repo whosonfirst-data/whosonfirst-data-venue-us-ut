@@ -2,13 +2,14 @@
   "id": 404203367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.769275,40.403169,-111.769275,40.403169",
     "geom:latitude":40.403169,
     "geom:longitude":-111.769275,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1072 E 1300 N",
     "sg:city":"American Fork",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404203367,
-    "wof:lastmodified":1449039548,
+    "wof:lastmodified":1467087364,
     "wof:name":"Duckworth Enterprises LLC",
     "wof:parent_id":85879979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.769275,40.403169,-111.769275,40.403169],
-  "geometry": {"coordinates":[-111.769275,40.403169],"type":"Point"}
+  "bbox": [
+    -111.769275,
+    40.403169,
+    -111.769275,
+    40.403169
+],
+  "geometry": {"coordinates":[-111.76927499999999,40.403169],"type":"Point"}
 }

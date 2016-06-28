@@ -2,13 +2,14 @@
   "id": 320599139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.961018,41.222643,-111.961018,41.222643",
     "geom:latitude":41.222643,
     "geom:longitude":-111.961018,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"727 24th St Ste 3",
     "sg:city":"Ogden",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":320599139,
-    "wof:lastmodified":1449012989,
+    "wof:lastmodified":1467087360,
     "wof:name":"Blue Skies Recovery Center",
     "wof:parent_id":85823385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "alcoholism"
     ]
 },
-  "bbox": [-111.961018,41.222643,-111.961018,41.222643],
+  "bbox": [
+    -111.961018,
+    41.222643,
+    -111.961018,
+    41.222643
+],
   "geometry": {"coordinates":[-111.961018,41.222643],"type":"Point"}
 }

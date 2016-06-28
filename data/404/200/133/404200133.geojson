@@ -2,13 +2,14 @@
   "id": 404200133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.85879,40.525245,-111.85879,40.525245",
     "geom:latitude":40.525245,
     "geom:longitude":-111.85879,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1020 Pioneer Rd",
     "sg:city":"Draper",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404200133,
-    "wof:lastmodified":1449039518,
+    "wof:lastmodified":1467087364,
     "wof:name":"Draper City Manager",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "city"
     ]
 },
-  "bbox": [-111.85879,40.525245,-111.85879,40.525245],
+  "bbox": [
+    -111.85879,
+    40.525245,
+    -111.85879,
+    40.525245
+],
   "geometry": {"coordinates":[-111.85879,40.525245],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320579449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.882122,40.921625,-111.882122,40.921625",
     "geom:latitude":40.921625,
     "geom:longitude":-111.882122,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 W Parrish Ln",
     "sg:city":"Centerville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320579449,
-    "wof:lastmodified":1449012462,
+    "wof:lastmodified":1467087360,
     "wof:name":"Crafters Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-111.882122,40.921625,-111.882122,40.921625],
+  "bbox": [
+    -111.882122,
+    40.921625,
+    -111.882122,
+    40.921625
+],
   "geometry": {"coordinates":[-111.882122,40.921625],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404200309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.526794,40.457511,-109.526794,40.457511",
     "geom:latitude":40.457511,
     "geom:longitude":-109.526794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 N 100 E",
     "sg:city":"Vernal",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404200309,
-    "wof:lastmodified":1449039511,
+    "wof:lastmodified":1467087364,
     "wof:name":"Karl L Breitenbach MD Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-109.526794,40.457511,-109.526794,40.457511],
+  "bbox": [
+    -109.526794,
+    40.457511,
+    -109.526794,
+    40.457511
+],
   "geometry": {"coordinates":[-109.526794,40.457511],"type":"Point"}
 }

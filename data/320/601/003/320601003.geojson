@@ -2,13 +2,14 @@
   "id": 320601003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-113.478977,37.108411,-113.478977,37.108411",
     "geom:latitude":37.108411,
     "geom:longitude":-113.478977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1509 S Sandhill Dr",
     "sg:city":"Washington",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":320601003,
-    "wof:lastmodified":1449012923,
+    "wof:lastmodified":1467087360,
     "wof:name":"Southwest Moving & Relocation",
     "wof:parent_id":85806465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "household"
     ]
 },
-  "bbox": [-113.478977,37.108411,-113.478977,37.108411],
+  "bbox": [
+    -113.478977,
+    37.108411,
+    -113.478977,
+    37.108411
+],
   "geometry": {"coordinates":[-113.478977,37.108411],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320567079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.900002,40.8634,-111.900002,40.8634",
     "geom:latitude":40.8634,
     "geom:longitude":-111.900002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2437 S 625 W",
     "sg:city":"Woods Cross",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320567079,
-    "wof:lastmodified":1449014998,
+    "wof:lastmodified":1467087363,
     "wof:name":"Comfort Inn Salt Lake North",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.900002,40.8634,-111.900002,40.8634],
+  "bbox": [
+    -111.900002,
+    40.8634,
+    -111.900002,
+    40.8634
+],
   "geometry": {"coordinates":[-111.900002,40.8634],"type":"Point"}
 }

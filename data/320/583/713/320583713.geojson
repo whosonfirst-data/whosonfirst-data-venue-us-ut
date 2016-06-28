@@ -2,13 +2,14 @@
   "id": 320583713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.033131,41.084539,-112.033131,41.084539",
     "geom:latitude":41.084539,
     "geom:longitude":-112.033131,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1933 N 2000 W Ste 7",
     "sg:city":"Clearfield",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320583713,
-    "wof:lastmodified":1449014181,
+    "wof:lastmodified":1467087362,
     "wof:name":"Hello China",
     "wof:parent_id":85851583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.033131,41.084539,-112.033131,41.084539],
+  "bbox": [
+    -112.033131,
+    41.084539,
+    -112.033131,
+    41.084539
+],
   "geometry": {"coordinates":[-112.033131,41.084539],"type":"Point"}
 }

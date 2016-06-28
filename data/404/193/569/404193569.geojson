@@ -2,13 +2,14 @@
   "id": 404193569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.75946,39.555211,-110.75946,39.555211",
     "geom:latitude":39.555211,
     "geom:longitude":-110.75946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3055 E Hwy 6",
     "sg:city":"Price",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":404193569,
-    "wof:lastmodified":1449039212,
+    "wof:lastmodified":1467087364,
     "wof:name":"Carbon Country Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-110.75946,39.555211,-110.75946,39.555211],
+  "bbox": [
+    -110.75946,
+    39.555211,
+    -110.75946,
+    39.555211
+],
   "geometry": {"coordinates":[-110.75946,39.555211],"type":"Point"}
 }

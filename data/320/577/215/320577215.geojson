@@ -2,13 +2,14 @@
   "id": 320577215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.869011,40.886977,-111.869011,40.886977",
     "geom:latitude":40.886977,
     "geom:longitude":-111.869011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 Medical Dr Ste 205",
     "sg:city":"Bountiful",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320577215,
-    "wof:lastmodified":1449015076,
+    "wof:lastmodified":1467087363,
     "wof:name":"Boschert Mark E MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.869011,40.886977,-111.869011,40.886977],
+  "bbox": [
+    -111.869011,
+    40.886977,
+    -111.869011,
+    40.886977
+],
   "geometry": {"coordinates":[-111.869011,40.886977],"type":"Point"}
 }

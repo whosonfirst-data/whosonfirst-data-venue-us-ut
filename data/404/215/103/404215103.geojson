@@ -2,13 +2,14 @@
   "id": 404215103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.93151,40.518773,-111.93151,40.518773",
     "geom:latitude":40.518773,
     "geom:longitude":-111.93151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1400 W 12800 S",
     "sg:city":"Riverton",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404215103,
-    "wof:lastmodified":1449040091,
+    "wof:lastmodified":1467087365,
     "wof:name":"Salt Lake County Sheriff Ptrl",
     "wof:parent_id":85817559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sheriff"
     ]
 },
-  "bbox": [-111.93151,40.518773,-111.93151,40.518773],
+  "bbox": [
+    -111.93151,
+    40.518773,
+    -111.93151,
+    40.518773
+],
   "geometry": {"coordinates":[-111.93151,40.518773],"type":"Point"}
 }

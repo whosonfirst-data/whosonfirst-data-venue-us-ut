@@ -2,13 +2,14 @@
   "id": 320559573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.891669,40.861723,-111.891669,40.861723",
     "geom:latitude":40.861723,
     "geom:longitude":-111.891669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1560 Renaissance Towne Dr Ste 102",
     "sg:city":"Bountiful",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320559573,
-    "wof:lastmodified":1449014149,
+    "wof:lastmodified":1467087362,
     "wof:name":"Enlighten Laser Cosmetics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.891669,40.861723,-111.891669,40.861723],
-  "geometry": {"coordinates":[-111.891669,40.861723],"type":"Point"}
+  "bbox": [
+    -111.891669,
+    40.861723,
+    -111.891669,
+    40.861723
+],
+  "geometry": {"coordinates":[-111.89166899999999,40.861723],"type":"Point"}
 }

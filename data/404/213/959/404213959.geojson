@@ -2,13 +2,14 @@
   "id": 404213959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.881887,40.500604,-111.881887,40.500604",
     "geom:latitude":40.500604,
     "geom:longitude":-111.881887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 E 13800 S",
     "sg:city":"Draper",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":404213959,
-    "wof:lastmodified":1449039101,
+    "wof:lastmodified":1467087364,
     "wof:name":"Lone Peak Forge Farrier Supply",
     "wof:parent_id":85815185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "supply"
     ]
 },
-  "bbox": [-111.881887,40.500604,-111.881887,40.500604],
-  "geometry": {"coordinates":[-111.881887,40.500604],"type":"Point"}
+  "bbox": [
+    -111.881887,
+    40.500604,
+    -111.881887,
+    40.500604
+],
+  "geometry": {"coordinates":[-111.88188700000001,40.500604],"type":"Point"}
 }

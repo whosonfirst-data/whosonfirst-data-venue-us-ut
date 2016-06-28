@@ -2,13 +2,14 @@
   "id": 404205729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.017825,40.658305,-112.017825,40.658305",
     "geom:latitude":40.658305,
     "geom:longitude":-112.017825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5318 Crockett Dr",
     "sg:city":"Salt Lake City",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404205729,
-    "wof:lastmodified":1449039830,
+    "wof:lastmodified":1467087364,
     "wof:name":"Rock Mountain Outdoor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-112.017825,40.658305,-112.017825,40.658305],
+  "bbox": [
+    -112.017825,
+    40.658305,
+    -112.017825,
+    40.658305
+],
   "geometry": {"coordinates":[-112.017825,40.658305],"type":"Point"}
 }

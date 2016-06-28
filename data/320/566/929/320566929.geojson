@@ -2,13 +2,14 @@
   "id": 320566929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.892239,40.888994,-111.892239,40.888994",
     "geom:latitude":40.888994,
     "geom:longitude":-111.892239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 S 500 W",
     "sg:city":"Bountiful",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":320566929,
-    "wof:lastmodified":1449011335,
+    "wof:lastmodified":1467087358,
     "wof:name":"American Laser Center",
     "wof:parent_id":85854881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.892239,40.888994,-111.892239,40.888994],
+  "bbox": [
+    -111.892239,
+    40.888994,
+    -111.892239,
+    40.888994
+],
   "geometry": {"coordinates":[-111.892239,40.888994],"type":"Point"}
 }

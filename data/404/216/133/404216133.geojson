@@ -2,13 +2,14 @@
   "id": 404216133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.899655,40.69968,-111.899655,40.69968",
     "geom:latitude":40.69968,
     "geom:longitude":-111.899655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3345 S 300 W",
     "sg:city":"Salt Lake City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404216133,
-    "wof:lastmodified":1449040185,
+    "wof:lastmodified":1467087366,
     "wof:name":"Belly Dancing By Thia",
     "wof:parent_id":85810147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dancing"
     ]
 },
-  "bbox": [-111.899655,40.69968,-111.899655,40.69968],
+  "bbox": [
+    -111.899655,
+    40.69968,
+    -111.899655,
+    40.69968
+],
   "geometry": {"coordinates":[-111.899655,40.69968],"type":"Point"}
 }

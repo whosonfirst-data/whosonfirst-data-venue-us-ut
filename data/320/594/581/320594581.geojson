@@ -2,13 +2,14 @@
   "id": 320594581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.890877,40.592449,-111.890877,40.592449",
     "geom:latitude":40.592449,
     "geom:longitude":-111.890877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8732 S State St",
     "sg:city":"Sandy",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":320594581,
-    "wof:lastmodified":1449011791,
+    "wof:lastmodified":1467087359,
     "wof:name":"Rancheritos Mexican Food",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.890877,40.592449,-111.890877,40.592449],
+  "bbox": [
+    -111.890877,
+    40.592449,
+    -111.890877,
+    40.592449
+],
   "geometry": {"coordinates":[-111.890877,40.592449],"type":"Point"}
 }

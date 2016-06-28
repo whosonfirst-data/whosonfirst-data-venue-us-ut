@@ -2,13 +2,14 @@
   "id": 320579771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.895819,40.927915,-111.895819,40.927915",
     "geom:latitude":40.927915,
     "geom:longitude":-111.895819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1164 W 850 N",
     "sg:city":"Centerville",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":320579771,
-    "wof:lastmodified":1449012461,
+    "wof:lastmodified":1467087360,
     "wof:name":"Mr Chem Dry",
     "wof:parent_id":85850499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpeting"
     ]
 },
-  "bbox": [-111.895819,40.927915,-111.895819,40.927915],
+  "bbox": [
+    -111.895819,
+    40.927915,
+    -111.895819,
+    40.927915
+],
   "geometry": {"coordinates":[-111.895819,40.927915],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404217939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.8279,40.741645,-111.8279,40.741645",
     "geom:latitude":40.741645,
     "geom:longitude":-111.8279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 E 1300 S",
     "sg:city":"Salt Lake City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404217939,
-    "wof:lastmodified":1449040267,
+    "wof:lastmodified":1467087366,
     "wof:name":"Don Brady Interior Design",
     "wof:parent_id":85871023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "design"
     ]
 },
-  "bbox": [-111.8279,40.741645,-111.8279,40.741645],
+  "bbox": [
+    -111.8279,
+    40.741645,
+    -111.8279,
+    40.741645
+],
   "geometry": {"coordinates":[-111.8279,40.741645],"type":"Point"}
 }

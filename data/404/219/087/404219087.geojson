@@ -2,13 +2,14 @@
   "id": 404219087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.499382,40.429442,-109.499382,40.429442",
     "geom:latitude":40.429442,
     "geom:longitude":-109.499382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1827 S 1500 E",
     "sg:city":"Vernal",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404219087,
-    "wof:lastmodified":1449040276,
+    "wof:lastmodified":1467087366,
     "wof:name":"Ubet Wireless",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cellular"
     ]
 },
-  "bbox": [-109.499382,40.429442,-109.499382,40.429442],
+  "bbox": [
+    -109.499382,
+    40.429442,
+    -109.499382,
+    40.429442
+],
   "geometry": {"coordinates":[-109.499382,40.429442],"type":"Point"}
 }

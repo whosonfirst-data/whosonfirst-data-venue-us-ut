@@ -2,13 +2,14 @@
   "id": 320599513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.935789,41.177183,-111.935789,41.177183",
     "geom:latitude":41.177183,
     "geom:longitude":-111.935789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1658 Martinet Ln",
     "sg:city":"Ogden",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320599513,
-    "wof:lastmodified":1449012991,
+    "wof:lastmodified":1467087360,
     "wof:name":"This Is A Plate Private Catering And Personal Chef Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-111.935789,41.177183,-111.935789,41.177183],
+  "bbox": [
+    -111.935789,
+    41.177183,
+    -111.935789,
+    41.177183
+],
   "geometry": {"coordinates":[-111.935789,41.177183],"type":"Point"}
 }

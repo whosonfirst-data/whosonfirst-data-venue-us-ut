@@ -2,13 +2,14 @@
   "id": 320587517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.884255,40.448994,-111.884255,40.448994",
     "geom:latitude":40.448994,
     "geom:longitude":-111.884255,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2177 Shadow Wood Dr",
     "sg:city":"Lehi",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":320587517,
-    "wof:lastmodified":1449012555,
+    "wof:lastmodified":1467087360,
     "wof:name":"Bear Creek Fencing & Backyard",
     "wof:parent_id":85836317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-111.884255,40.448994,-111.884255,40.448994],
+  "bbox": [
+    -111.884255,
+    40.448994,
+    -111.884255,
+    40.448994
+],
   "geometry": {"coordinates":[-111.884255,40.448994],"type":"Point"}
 }

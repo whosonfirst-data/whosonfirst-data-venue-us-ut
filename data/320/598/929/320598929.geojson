@@ -2,13 +2,14 @@
   "id": 320598929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.824012,41.758211,-111.824012,41.758211",
     "geom:latitude":41.758211,
     "geom:longitude":-111.824012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1445 N 400 E Ste 1",
     "sg:city":"Logan",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":320598929,
-    "wof:lastmodified":1449011444,
+    "wof:lastmodified":1467087359,
     "wof:name":"Van B Johnson Dds",
     "wof:parent_id":85823089,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.824012,41.758211,-111.824012,41.758211],
+  "bbox": [
+    -111.824012,
+    41.758211,
+    -111.824012,
+    41.758211
+],
   "geometry": {"coordinates":[-111.824012,41.758211],"type":"Point"}
 }

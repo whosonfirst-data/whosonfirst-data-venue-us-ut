@@ -2,13 +2,14 @@
   "id": 320598275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.661712,40.312748,-111.661712,40.312748",
     "geom:latitude":40.312748,
     "geom:longitude":-111.661712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1432 E 840 N",
     "sg:city":"Orem",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320598275,
-    "wof:lastmodified":1449011445,
+    "wof:lastmodified":1467087359,
     "wof:name":"Horizon Title",
     "wof:parent_id":85880105,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mortgage"
     ]
 },
-  "bbox": [-111.661712,40.312748,-111.661712,40.312748],
-  "geometry": {"coordinates":[-111.661712,40.312748],"type":"Point"}
+  "bbox": [
+    -111.661712,
+    40.312748,
+    -111.661712,
+    40.312748
+],
+  "geometry": {"coordinates":[-111.66171199999999,40.312748],"type":"Point"}
 }

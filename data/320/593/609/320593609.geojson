@@ -2,13 +2,14 @@
   "id": 320593609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.968359,40.522304,-111.968359,40.522304",
     "geom:latitude":40.522304,
     "geom:longitude":-111.968359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3261 W 12600 S",
     "sg:city":"Riverton",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":320593609,
-    "wof:lastmodified":1449013748,
+    "wof:lastmodified":1467087361,
     "wof:name":"Southridge Automotive Napa Auto Parts",
     "wof:parent_id":85845107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.968359,40.522304,-111.968359,40.522304],
-  "geometry": {"coordinates":[-111.968359,40.522304],"type":"Point"}
+  "bbox": [
+    -111.968359,
+    40.522304,
+    -111.968359,
+    40.522304
+],
+  "geometry": {"coordinates":[-111.96835900000001,40.522304],"type":"Point"}
 }

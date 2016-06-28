@@ -2,13 +2,14 @@
   "id": 404216265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-110.800022,39.614091,-110.800022,39.614091",
     "geom:latitude":39.614091,
     "geom:longitude":-110.800022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"865 N 700 E",
     "sg:city":"Price",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404216265,
-    "wof:lastmodified":1449040184,
+    "wof:lastmodified":1467087366,
     "wof:name":"Haddock Studios",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "design"
     ]
 },
-  "bbox": [-110.800022,39.614091,-110.800022,39.614091],
+  "bbox": [
+    -110.800022,
+    39.614091,
+    -110.800022,
+    39.614091
+],
   "geometry": {"coordinates":[-110.800022,39.614091],"type":"Point"}
 }

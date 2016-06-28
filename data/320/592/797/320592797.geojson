@@ -2,13 +2,14 @@
   "id": 320592797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.720169,40.300468,-111.720169,40.300468",
     "geom:latitude":40.300468,
     "geom:longitude":-111.720169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1031 W 180 N",
     "sg:city":"Orem",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320592797,
-    "wof:lastmodified":1449013405,
+    "wof:lastmodified":1467087361,
     "wof:name":"Probreki",
     "wof:parent_id":85839761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "investment"
     ]
 },
-  "bbox": [-111.720169,40.300468,-111.720169,40.300468],
+  "bbox": [
+    -111.720169,
+    40.300468,
+    -111.720169,
+    40.300468
+],
   "geometry": {"coordinates":[-111.720169,40.300468],"type":"Point"}
 }

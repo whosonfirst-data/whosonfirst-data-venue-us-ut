@@ -2,13 +2,14 @@
   "id": 404219917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.877175,40.769276,-111.877175,40.769276",
     "geom:latitude":40.769276,
     "geom:longitude":-111.877175,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"484 E South Temple",
     "sg:city":"Salt Lake City",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404219917,
-    "wof:lastmodified":1449040277,
+    "wof:lastmodified":1467087366,
     "wof:name":"Metropolitan Real Estate LLC",
     "wof:parent_id":85809299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.877175,40.769276,-111.877175,40.769276],
-  "geometry": {"coordinates":[-111.877175,40.769276],"type":"Point"}
+  "bbox": [
+    -111.877175,
+    40.769276,
+    -111.877175,
+    40.769276
+],
+  "geometry": {"coordinates":[-111.87717499999999,40.769276],"type":"Point"}
 }

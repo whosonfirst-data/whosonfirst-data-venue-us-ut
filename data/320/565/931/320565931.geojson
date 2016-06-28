@@ -2,13 +2,14 @@
   "id": 320565931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.880662,40.884673,-111.880662,40.884673",
     "geom:latitude":40.884673,
     "geom:longitude":-111.880662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"463 S Main St",
     "sg:city":"Bountiful",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320565931,
-    "wof:lastmodified":1449014632,
+    "wof:lastmodified":1467087363,
     "wof:name":"Yogurt Stop",
     "wof:parent_id":85807249,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "yogurt"
     ]
 },
-  "bbox": [-111.880662,40.884673,-111.880662,40.884673],
+  "bbox": [
+    -111.880662,
+    40.884673,
+    -111.880662,
+    40.884673
+],
   "geometry": {"coordinates":[-111.880662,40.884673],"type":"Point"}
 }

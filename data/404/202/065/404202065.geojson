@@ -2,13 +2,14 @@
   "id": 404202065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.88817,40.714368,-111.88817,40.714368",
     "geom:latitude":40.714368,
     "geom:longitude":-111.88817,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2583 S State St",
     "sg:city":"Salt Lake City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404202065,
-    "wof:lastmodified":1449040168,
+    "wof:lastmodified":1467087366,
     "wof:name":"Pipe Dream Gifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dealer"
     ]
 },
-  "bbox": [-111.88817,40.714368,-111.88817,40.714368],
+  "bbox": [
+    -111.88817,
+    40.714368,
+    -111.88817,
+    40.714368
+],
   "geometry": {"coordinates":[-111.88817,40.714368],"type":"Point"}
 }

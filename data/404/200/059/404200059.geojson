@@ -2,13 +2,14 @@
   "id": 404200059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.948769,40.721418,-111.948769,40.721418",
     "geom:latitude":40.721418,
     "geom:longitude":-111.948769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2062 W 2300 S",
     "sg:city":"West Valley",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404200059,
-    "wof:lastmodified":1449039512,
+    "wof:lastmodified":1467087364,
     "wof:name":"Penman Manufacturing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "steel"
     ]
 },
-  "bbox": [-111.948769,40.721418,-111.948769,40.721418],
+  "bbox": [
+    -111.948769,
+    40.721418,
+    -111.948769,
+    40.721418
+],
   "geometry": {"coordinates":[-111.948769,40.721418],"type":"Point"}
 }

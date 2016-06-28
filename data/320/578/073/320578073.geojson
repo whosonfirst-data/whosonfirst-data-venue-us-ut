@@ -2,13 +2,14 @@
   "id": 320578073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.878998,40.906502,-111.878998,40.906502",
     "geom:latitude":40.906502,
     "geom:longitude":-111.878998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"40 E Pages Ln",
     "sg:city":"Centerville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320578073,
-    "wof:lastmodified":1449012202,
+    "wof:lastmodified":1467087359,
     "wof:name":"3-D Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "video"
     ]
 },
-  "bbox": [-111.878998,40.906502,-111.878998,40.906502],
+  "bbox": [
+    -111.878998,
+    40.906502,
+    -111.878998,
+    40.906502
+],
   "geometry": {"coordinates":[-111.878998,40.906502],"type":"Point"}
 }

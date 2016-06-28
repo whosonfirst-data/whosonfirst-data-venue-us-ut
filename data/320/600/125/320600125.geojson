@@ -2,13 +2,14 @@
   "id": 320600125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.007567,41.191284,-112.007567,41.191284",
     "geom:latitude":41.191284,
     "geom:longitude":-112.007567,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3909 Airport Rd",
     "sg:city":"Ogden",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":320600125,
-    "wof:lastmodified":1449011581,
+    "wof:lastmodified":1467087359,
     "wof:name":"Hilltop Lanes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.007567,41.191284,-112.007567,41.191284],
-  "geometry": {"coordinates":[-112.007567,41.191284],"type":"Point"}
+  "bbox": [
+    -112.007567,
+    41.191284,
+    -112.007567,
+    41.191284
+],
+  "geometry": {"coordinates":[-112.00756699999999,41.191284],"type":"Point"}
 }

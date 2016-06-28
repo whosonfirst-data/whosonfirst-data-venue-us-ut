@@ -2,13 +2,14 @@
   "id": 320592641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.707446,40.325536,-111.707446,40.325536",
     "geom:latitude":40.325536,
     "geom:longitude":-111.707446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1549 N State St",
     "sg:city":"Orem",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":320592641,
-    "wof:lastmodified":1449013405,
+    "wof:lastmodified":1467087361,
     "wof:name":"Certified Tire And Service",
     "wof:parent_id":85839761,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.707446,40.325536,-111.707446,40.325536],
+  "bbox": [
+    -111.707446,
+    40.325536,
+    -111.707446,
+    40.325536
+],
   "geometry": {"coordinates":[-111.707446,40.325536],"type":"Point"}
 }

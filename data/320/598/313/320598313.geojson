@@ -2,13 +2,14 @@
   "id": 320598313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.870899,40.580625,-111.870899,40.580625",
     "geom:latitude":40.580625,
     "geom:longitude":-111.870899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"743 E 9400 S",
     "sg:city":"Sandy",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320598313,
-    "wof:lastmodified":1449011442,
+    "wof:lastmodified":1467087359,
     "wof:name":"American Family Insurance- Sean Beard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.870899,40.580625,-111.870899,40.580625],
-  "geometry": {"coordinates":[-111.870899,40.580625],"type":"Point"}
+  "bbox": [
+    -111.870899,
+    40.580625,
+    -111.870899,
+    40.580625
+],
+  "geometry": {"coordinates":[-111.87089899999999,40.580625],"type":"Point"}
 }

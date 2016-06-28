@@ -2,13 +2,14 @@
   "id": 320578941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.880038,40.93407,-111.880038,40.93407",
     "geom:latitude":40.93407,
     "geom:longitude":-111.880038,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"77 W 1350 N",
     "sg:city":"Centerville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320578941,
-    "wof:lastmodified":1449012202,
+    "wof:lastmodified":1467087360,
     "wof:name":"0 A A A 24 A Locksmith",
     "wof:parent_id":85809721,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-111.880038,40.93407,-111.880038,40.93407],
+  "bbox": [
+    -111.880038,
+    40.93407,
+    -111.880038,
+    40.93407
+],
   "geometry": {"coordinates":[-111.880038,40.93407],"type":"Point"}
 }

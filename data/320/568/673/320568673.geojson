@@ -2,13 +2,14 @@
   "id": 320568673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.835999,40.867199,-111.835999,40.867199",
     "geom:latitude":40.867199,
     "geom:longitude":-111.835999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1963 Ridgehill Dr",
     "sg:city":"Bountiful",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320568673,
-    "wof:lastmodified":1449011177,
+    "wof:lastmodified":1467087358,
     "wof:name":"Brian K Taylor",
     "wof:parent_id":85824933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.835999,40.867199,-111.835999,40.867199],
+  "bbox": [
+    -111.835999,
+    40.867199,
+    -111.835999,
+    40.867199
+],
   "geometry": {"coordinates":[-111.835999,40.867199],"type":"Point"}
 }

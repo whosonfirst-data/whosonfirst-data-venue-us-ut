@@ -2,13 +2,14 @@
   "id": 320552959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.868878,40.88678,-111.868878,40.88678",
     "geom:latitude":40.88678,
     "geom:longitude":-111.868878,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620E Medical Dr # 100",
     "sg:city":"Bountiful",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":320552959,
-    "wof:lastmodified":1449012827,
+    "wof:lastmodified":1467087360,
     "wof:name":"Wirkus Paul E M.D.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-111.868878,40.88678,-111.868878,40.88678],
+  "bbox": [
+    -111.868878,
+    40.88678,
+    -111.868878,
+    40.88678
+],
   "geometry": {"coordinates":[-111.868878,40.88678],"type":"Point"}
 }

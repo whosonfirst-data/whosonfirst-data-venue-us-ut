@@ -2,13 +2,14 @@
   "id": 404200679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.908545,40.582117,-111.908545,40.582117",
     "geom:latitude":40.582117,
     "geom:longitude":-111.908545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"542 W 9320 S",
     "sg:city":"Sandy",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404200679,
-    "wof:lastmodified":1449039517,
+    "wof:lastmodified":1467087364,
     "wof:name":"Old Dogs Inc",
     "wof:parent_id":85818097,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-111.908545,40.582117,-111.908545,40.582117],
+  "bbox": [
+    -111.908545,
+    40.582117,
+    -111.908545,
+    40.582117
+],
   "geometry": {"coordinates":[-111.908545,40.582117],"type":"Point"}
 }

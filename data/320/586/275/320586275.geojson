@@ -2,13 +2,14 @@
   "id": 320586275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.937966,41.000801,-111.937966,41.000801",
     "geom:latitude":41.000801,
     "geom:longitude":-111.937966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 E Shepard Ln",
     "sg:city":"Kaysville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320586275,
-    "wof:lastmodified":1449014532,
+    "wof:lastmodified":1467087363,
     "wof:name":"Chrissys Custom Cake Creation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wedding"
     ]
 },
-  "bbox": [-111.937966,41.000801,-111.937966,41.000801],
+  "bbox": [
+    -111.937966,
+    41.000801,
+    -111.937966,
+    41.000801
+],
   "geometry": {"coordinates":[-111.937966,41.000801],"type":"Point"}
 }

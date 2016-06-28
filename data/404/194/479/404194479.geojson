@@ -2,13 +2,14 @@
   "id": 404194479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-112.595511,39.367314,-112.595511,39.367314",
     "geom:latitude":39.367314,
     "geom:longitude":-112.595511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1015 N 1000 W",
     "sg:city":"Delta",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404194479,
-    "wof:lastmodified":1449040142,
+    "wof:lastmodified":1467087365,
     "wof:name":"West Millard Mosquito Abate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-112.595511,39.367314,-112.595511,39.367314],
+  "bbox": [
+    -112.595511,
+    39.367314,
+    -112.595511,
+    39.367314
+],
   "geometry": {"coordinates":[-112.595511,39.367314],"type":"Point"}
 }

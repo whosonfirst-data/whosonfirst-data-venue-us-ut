@@ -2,13 +2,14 @@
   "id": 320598237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.676048,40.272624,-111.676048,40.272624",
     "geom:latitude":40.272624,
     "geom:longitude":-111.676048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1329 S 800 E",
     "sg:city":"Orem",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320598237,
-    "wof:lastmodified":1449011444,
+    "wof:lastmodified":1467087359,
     "wof:name":"Bugged Out Pest Control",
     "wof:parent_id":85880109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "termite"
     ]
 },
-  "bbox": [-111.676048,40.272624,-111.676048,40.272624],
-  "geometry": {"coordinates":[-111.676048,40.272624],"type":"Point"}
+  "bbox": [
+    -111.676048,
+    40.272624,
+    -111.676048,
+    40.272624
+],
+  "geometry": {"coordinates":[-111.67604799999999,40.272624],"type":"Point"}
 }

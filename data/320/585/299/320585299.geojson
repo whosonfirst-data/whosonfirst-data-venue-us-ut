@@ -2,13 +2,14 @@
   "id": 320585299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.928525,40.982079,-111.928525,40.982079",
     "geom:latitude":40.982079,
     "geom:longitude":-111.928525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1933 Clark Ln",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":320585299,
-    "wof:lastmodified":1449013754,
+    "wof:lastmodified":1467087361,
     "wof:name":"Schools Public",
     "wof:parent_id":85828873,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "elementary"
     ]
 },
-  "bbox": [-111.928525,40.982079,-111.928525,40.982079],
-  "geometry": {"coordinates":[-111.928525,40.982079],"type":"Point"}
+  "bbox": [
+    -111.928525,
+    40.982079,
+    -111.928525,
+    40.982079
+],
+  "geometry": {"coordinates":[-111.92852499999999,40.982079],"type":"Point"}
 }

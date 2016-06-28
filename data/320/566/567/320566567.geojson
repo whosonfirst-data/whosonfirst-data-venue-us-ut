@@ -2,13 +2,14 @@
   "id": 320566567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-111.855003,40.875599,-111.855003,40.875599",
     "geom:latitude":40.875599,
     "geom:longitude":-111.855003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1385 Canyon Crest Rd",
     "sg:city":"Bountiful",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":320566567,
-    "wof:lastmodified":1449011341,
+    "wof:lastmodified":1467087359,
     "wof:name":"Tebbs Clement F 2nd CPA",
     "wof:parent_id":85809349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-111.855003,40.875599,-111.855003,40.875599],
+  "bbox": [
+    -111.855003,
+    40.875599,
+    -111.855003,
+    40.875599
+],
   "geometry": {"coordinates":[-111.855003,40.875599],"type":"Point"}
 }
