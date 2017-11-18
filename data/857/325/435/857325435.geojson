@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.845635,40.688476,-111.845635,40.688476",
     "geom:latitude":40.688476,
     "geom:longitude":-111.845635,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3760 Highland Dr",
     "sg:city":"Salt Lake City",
     "sg:classifiers":[
@@ -34,16 +36,18 @@
     },
     "wof:country":"US",
     "wof:created":1464126958,
-    "wof:geomhash":"91355ca3259006e9c1966e5ed4cc32ba",
+    "wof:geomhash":"b9f822f91ba2f76c1a1f47132f130928",
     "wof:hierarchy":[],
     "wof:id":857325435,
-    "wof:lastmodified":1467087548,
+    "wof:lastmodified":1510942478,
     "wof:name":"Byu Salt Lake Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857217749
+    ],
     "wof:tags":[
         "establishment"
     ]

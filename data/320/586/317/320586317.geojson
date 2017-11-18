@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-112.002795,41.090876,-112.002795,41.090876",
     "geom:latitude":41.090876,
     "geom:longitude":-112.002795,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2146 N Main St Ste 552",
     "sg:city":"Layton",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_55l6oZxk1nnj7FsyFVF1d1_41.090876_-112.002795@1303263096"
     },
     "wof:country":"US",
-    "wof:geomhash":"25ff33766f454f92ded71153fcbd5878",
+    "wof:geomhash":"f70f5f4aa32566371204b45bc9a25d86",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":320586317,
-    "wof:lastmodified":1467087363,
+    "wof:lastmodified":1510941928,
     "wof:name":"Imperial Dragon Inc",
     "wof:parent_id":85830053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ut",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857153615
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

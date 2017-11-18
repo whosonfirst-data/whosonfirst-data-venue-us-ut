@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.892247,40.887667,-111.892247,40.887667",
     "geom:latitude":40.887667,
     "geom:longitude":-111.892247,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"234 S 500 W Ste 103",
     "sg:city":"Bountiful",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_5MrRRGnnd383d9vYIuYQB4_40.887667_-111.892247@1303263095"
     },
     "wof:country":"US",
-    "wof:geomhash":"71195363c862158feb2ed90a8d034375",
+    "wof:geomhash":"8c47f542788bfc83f532a8a38c3cbbdd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":320558905,
-    "wof:lastmodified":1467087360,
+    "wof:lastmodified":1510943356,
     "wof:name":"Cafe Rio",
     "wof:parent_id":85854881,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ut",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857491617
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

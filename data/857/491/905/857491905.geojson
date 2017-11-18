@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.722901,40.344499,-111.722901,40.344499",
     "geom:latitude":40.344499,
     "geom:longitude":-111.722901,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"395 N State St",
     "sg:city":"Lindon",
     "sg:classifiers":[
@@ -35,16 +37,18 @@
     },
     "wof:country":"US",
     "wof:created":1464130658,
-    "wof:geomhash":"edbda313d69a0917a16c66147b2b3d7b",
+    "wof:geomhash":"714991c3d4d4d917509f6177b63cc468",
     "wof:hierarchy":[],
     "wof:id":857491905,
-    "wof:lastmodified":1467087667,
+    "wof:lastmodified":1510943570,
     "wof:name":"Los Hermanos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        320586503
+    ],
     "wof:tags":[
         "mexican"
     ]

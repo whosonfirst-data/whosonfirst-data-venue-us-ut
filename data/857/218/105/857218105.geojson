@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-110.968931,41.269864,-110.968931,41.269864",
     "geom:latitude":41.269864,
     "geom:longitude":-110.968931,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1200 Main St",
     "sg:city":"Evanston",
     "sg:classifiers":[
@@ -34,15 +37,17 @@
     },
     "wof:country":"US",
     "wof:created":1464124576,
-    "wof:geomhash":"f55a35176461595ab29c2f9522a94351",
+    "wof:geomhash":"705c054727fecde29de65ce72a99f544",
     "wof:hierarchy":[],
     "wof:id":857218105,
-    "wof:lastmodified":1467087470,
+    "wof:lastmodified":1510943676,
     "wof:name":"Evanston City Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ut",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874132879
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "city"

@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-113.551474,37.115832,-113.551474,37.115832",
     "geom:latitude":37.115832,
     "geom:longitude":-113.551474,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"311 Red Cliffs Dr",
     "sg:city":"Saint George",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464130753,
-    "wof:geomhash":"0cf53f09bb0b9e356f454cd31b3c921d",
+    "wof:geomhash":"9218369ad48974e60deca30790f3a52d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":857494581,
-    "wof:lastmodified":1467087671,
+    "wof:lastmodified":1510944181,
     "wof:name":"Chili's",
     "wof:parent_id":85806465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ut",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857169661
+    ],
     "wof:tags":[
         "burger",
         "american",

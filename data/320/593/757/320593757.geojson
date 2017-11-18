@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.89556,40.558154,-111.89556,40.558154",
     "geom:latitude":40.558154,
     "geom:longitude":-111.89556,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10640 Holiday Park Dr",
     "sg:city":"Sandy",
     "sg:classifiers":[],
@@ -30,7 +33,7 @@
         "sg:id":"SG_3Q0CGYkrYfeEAnsic4giJv_40.558154_-111.895560@1303263096"
     },
     "wof:country":"US",
-    "wof:geomhash":"4254c48d95107474cda15d5b131b90b1",
+    "wof:geomhash":"41231d91b78d9da5de03eb5f37bf4e90",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,12 +46,14 @@
         }
     ],
     "wof:id":320593757,
-    "wof:lastmodified":1467087361,
+    "wof:lastmodified":1510942446,
     "wof:name":"Jim's Family Restaurant",
     "wof:parent_id":85829657,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ut",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857492407
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

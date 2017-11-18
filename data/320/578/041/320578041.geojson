@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.893502,40.925013,-111.893502,40.925013",
     "geom:latitude":40.925013,
     "geom:longitude":-111.893502,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"705 N 1000 W Ste 14",
     "sg:city":"Centerville",
     "sg:classifiers":[
@@ -35,7 +38,7 @@
         "sg:id":"SG_5Y4m2ZrIsuGjEAdnMljubQ_40.925013_-111.893502@1303263096"
     },
     "wof:country":"US",
-    "wof:geomhash":"10367ca8218bfbde2f99738a394d86dd",
+    "wof:geomhash":"955f737d08f78ee12f7f5fe5cd2d3443",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":320578041,
-    "wof:lastmodified":1467087360,
+    "wof:lastmodified":1510942972,
     "wof:name":"Don-Lors Electronic",
     "wof:parent_id":85850499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ut",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857391667
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

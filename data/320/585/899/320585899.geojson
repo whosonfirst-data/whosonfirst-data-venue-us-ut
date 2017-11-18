@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.967647,41.06183,-111.967647,41.06183",
     "geom:latitude":41.06183,
     "geom:longitude":-111.967647,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"96 N Main St",
     "sg:city":"Layton",
     "sg:classifiers":[],
@@ -31,7 +34,7 @@
         "sg:id":"SG_23uZyEtgc0Wx4t12T9Ugc3_41.061830_-111.967647@1303263096"
     },
     "wof:country":"US",
-    "wof:geomhash":"16caae4f780e13d3c19b4d9d998a5d7f",
+    "wof:geomhash":"d1c44cf1bcb8ab4dfd43ff420392365e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -44,12 +47,14 @@
         }
     ],
     "wof:id":320585899,
-    "wof:lastmodified":1467087361,
+    "wof:lastmodified":1510941465,
     "wof:name":"Great Harvest Bread Company",
     "wof:parent_id":85830053,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ut",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857241427
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -3,13 +3,16 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-111.879997,40.893299,-111.879997,40.893299",
     "geom:latitude":40.893299,
     "geom:longitude":-111.879997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"390 N Main St",
     "sg:city":"Bountiful",
     "sg:classifiers":[
@@ -38,7 +41,7 @@
         "sg:id":"SG_2w2E7eJhDIfBocHleD0NVo_40.893299_-111.879997@1303263095"
     },
     "wof:country":"US",
-    "wof:geomhash":"90d126cc5a6c03aa7a310970a11bbf74",
+    "wof:geomhash":"f23af244ba7d141ff5aa4d4f08cdfac8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":320565497,
-    "wof:lastmodified":1467087363,
+    "wof:lastmodified":1510942222,
     "wof:name":"Ihc Health Center Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ut",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857487855
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "drugstore"
